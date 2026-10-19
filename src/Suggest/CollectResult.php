@@ -22,8 +22,9 @@ final class CollectResult
         return array_values(array_diff($this->sources, $failed));
     }
 
+    // En voix : Bing et DuckDuckGo, qui se répètent, comptent pour une.
     public function getAnsweringSourceCount(): int
     {
-        return \count(array_unique(array_map(static fn (RawSuggestion $s): string => $s->source, $this->suggestions)));
+        return \count(array_unique(array_map(static fn (RawSuggestion $s): string => SuggestionMerger::voice($s->source), $this->suggestions)));
     }
 }

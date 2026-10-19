@@ -13,6 +13,9 @@ final class PlanDraft
         public readonly mixed $pending,
         /** @var list<string> */
         public readonly array $articles = [],
+
+        // Heure (microtime) à laquelle le plan entier doit être fini.
+        public readonly float $deadline = 0.0,
     ) {
     }
 }

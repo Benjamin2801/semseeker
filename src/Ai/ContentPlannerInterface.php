@@ -14,6 +14,7 @@ interface ContentPlannerInterface
      * @param list<int>    $scores
      * @param list<string> $types
      * @param list<string> $articles
+     * @param float        $maxDuration temps laissé au plan entier, structure et rangement
      */
     public function draft(string $seed, array $keywords, array $scores, string $lang, float $maxDuration, array $types = [], array $articles = []): PlanDraft;
 

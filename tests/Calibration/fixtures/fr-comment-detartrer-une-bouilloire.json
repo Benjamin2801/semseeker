@@ -1,0 +1,791 @@
+{
+    "expression": "comment détartrer une bouilloire",
+    "lang": "fr",
+    "recorded": "2026-10-19",
+    "sources": [
+        "amazon",
+        "bing",
+        "duckduckgo",
+        "ebay",
+        "google",
+        "indeed",
+        "yahoo",
+        "youtube"
+    ],
+    "failed": [],
+    "concepts": [
+        "détartrage bouilloire vinaigre",
+        "détartrant bouilloire naturel",
+        "bouilloire entartrée danger",
+        "nettoyage bouilloire électrique",
+        "détartrage cafetière",
+        "tartre bouilloire santé",
+        "bouilloire anti-tartre",
+        "détartrage citron"
+    ],
+    "suggestions": {
+        "bing": [
+            "comment détartrer une bouilloire électrique",
+            "comment détartrer une bouilloire",
+            "comment détartrer une bouilloire au vinaigre",
+            "comment détartrer une bouilloire en inox",
+            "comment nettoyer une bouilloire entartrée",
+            "comment fonctionne une bouilloire",
+            "comment nettoyer une bouilloire",
+            "comment fonctionne une bouilloire sans fil",
+            "un ou une bouilloire",
+            "comment enlever le tartre dans une bouilloire",
+            "cuisiner avec une bouilloire",
+            "technique de la bouilloire"
+        ],
+        "duckduckgo": [
+            "comment détartrer une bouilloire électrique",
+            "comment détartrer une bouilloire",
+            "comment détartrer une bouilloire au vinaigre",
+            "comment détartrer une bouilloire en inox",
+            "comment nettoyer une bouilloire entartrée",
+            "comment fonctionne une bouilloire",
+            "comment nettoyer une bouilloire",
+            "comment fonctionne une bouilloire sans fil"
+        ],
+        "google": [
+            "comment détartrer une bouilloire",
+            "comment détartrer une bouilloire électrique",
+            "comment détartrer une bouilloire avec du vinaigre blanc",
+            "comment détartrer une bouilloire naturellement",
+            "comment détartrer une bouilloire avec du vinaigre",
+            "comment détartrer une bouilloire sans vinaigre",
+            "comment détartrer une bouilloire électrique avec du vinaigre blanc",
+            "comment détartrer une bouilloire smeg",
+            "comment détartrer une bouilloire avec du bicarbonate de soude",
+            "comment détartrer une bouilloire en inox"
+        ],
+        "yahoo": [
+            "comment détartrer une bouilloire",
+            "comment détartrer une bouilloire électrique",
+            "comment détartrer une bouilloire naturellement"
+        ],
+        "youtube": [
+            "comment détartrer une bouilloire",
+            "comment détartrer une bouilloire électrique",
+            "comment laver une bouilloire",
+            "comment detartrer une cafetiere",
+            "comment detartrer une cafetiere senseo",
+            "comment detartrer une cafetiere nespresso"
+        ]
+    },
+    "related": {
+        "amazon": [
+            [
+                0,
+                "détartrage cafetière"
+            ],
+            [
+                1,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                2,
+                "détartrage cafetière krups"
+            ],
+            [
+                3,
+                "détartrage cafetière filtre"
+            ],
+            [
+                4,
+                "détartrage cafetière dolce gusto"
+            ],
+            [
+                5,
+                "détartrage cafetière tassimo"
+            ],
+            [
+                6,
+                "détartrage cafetière philips"
+            ],
+            [
+                7,
+                "détartrage cafetière nespresso krups"
+            ]
+        ],
+        "bing": [
+            [
+                0,
+                "détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                1,
+                "détartrer bouilloire vinaigre blanc"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "nettoyer bouilloire électrique"
+            ],
+            [
+                0,
+                "détartrage cafetière"
+            ],
+            [
+                1,
+                "détartrage cafetière krups"
+            ],
+            [
+                2,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                3,
+                "détartrage cafetière senséo"
+            ],
+            [
+                4,
+                "détartrage cafetière delonghi magnifica s"
+            ],
+            [
+                5,
+                "détartrage cafetière l'or barista"
+            ],
+            [
+                6,
+                "détartrage cafetière électrique"
+            ],
+            [
+                7,
+                "détartrage cafetière nespresso"
+            ],
+            [
+                8,
+                "détartrage cafetière nespresso vertuo"
+            ],
+            [
+                9,
+                "détartrage cafetière l'or"
+            ],
+            [
+                10,
+                "détartrage cafetière smeg"
+            ],
+            [
+                11,
+                "détartrage cafetière dolce gusto krups"
+            ],
+            [
+                0,
+                "anti tartre bouilloire"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                1,
+                "détartrer bouilloire vinaigre blanc"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "nettoyer bouilloire électrique"
+            ],
+            [
+                0,
+                "détartrage cafetière"
+            ],
+            [
+                1,
+                "détartrage cafetière krups"
+            ],
+            [
+                2,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                3,
+                "détartrage cafetière senséo"
+            ],
+            [
+                4,
+                "détartrage cafetière delonghi magnifica s"
+            ],
+            [
+                5,
+                "détartrage cafetière l'or barista"
+            ],
+            [
+                6,
+                "détartrage cafetière électrique"
+            ],
+            [
+                7,
+                "détartrage cafetière nespresso"
+            ],
+            [
+                0,
+                "anti tartre bouilloire"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                1,
+                "détartrage bouilloire vinaigre"
+            ],
+            [
+                2,
+                "detartrage bouilloire vinaigre menager"
+            ],
+            [
+                3,
+                "détartrage bouilloire vinaigre d alcool"
+            ],
+            [
+                4,
+                "laver bouilloire vinaigre blanc"
+            ],
+            [
+                5,
+                "laver bouilloire vinaigre"
+            ],
+            [
+                6,
+                "calcaire bouilloire vinaigre"
+            ],
+            [
+                7,
+                "calcaire bouilloire vinaigre blanc"
+            ],
+            [
+                8,
+                "laver bouilloire vinaigre menager"
+            ],
+            [
+                9,
+                "détartrer bouilloire vinaigre et bicarbonate"
+            ],
+            [
+                0,
+                "detartrant bouilloire naturel"
+            ],
+            [
+                1,
+                "detartrage bouilloire naturel"
+            ],
+            [
+                2,
+                "nettoyer bouilloire naturel"
+            ],
+            [
+                3,
+                "détartrant cafetière naturel"
+            ],
+            [
+                4,
+                "détartrage cafetière naturel"
+            ],
+            [
+                0,
+                "bouilloire entartrée danger"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "détartrer bouilloire électrique"
+            ],
+            [
+                2,
+                "détartrer bouilloire électrique acide citrique"
+            ],
+            [
+                3,
+                "détartrer bouilloire électrique vinaigre blanc"
+            ],
+            [
+                4,
+                "détartrage bouilloire électrique tefal"
+            ],
+            [
+                5,
+                "nettoyage cafetiere electrique vinaigre"
+            ],
+            [
+                6,
+                "nettoyer bouilloire electrique calcaire"
+            ],
+            [
+                7,
+                "detartrer bouilloire electrique bicarbonate"
+            ],
+            [
+                8,
+                "nettoyage cafetiere electrique"
+            ],
+            [
+                9,
+                "nettoyer théière électrique"
+            ],
+            [
+                0,
+                "détartrage cafetière"
+            ],
+            [
+                1,
+                "détartrage cafetière senseo"
+            ],
+            [
+                2,
+                "détartrage cafetière delonghi magnifica s"
+            ],
+            [
+                3,
+                "détartrage cafetière smeg notice"
+            ],
+            [
+                4,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                5,
+                "détartrage cafetière au vinaigre blanc"
+            ],
+            [
+                6,
+                "détartrage cafetière dolce gusto"
+            ],
+            [
+                7,
+                "détartrage cafetière nespresso"
+            ],
+            [
+                8,
+                "détartrage cafetière bosch tassimo"
+            ],
+            [
+                9,
+                "détartrage cafetière krups"
+            ],
+            [
+                0,
+                "calcaire bouilloire santé"
+            ],
+            [
+                0,
+                "bouilloire anti tartre"
+            ],
+            [
+                1,
+                "bouilloire anti calcaire"
+            ],
+            [
+                2,
+                "bouilloire anti calcaire boulanger"
+            ],
+            [
+                3,
+                "bouilloire anti calcaire darty"
+            ],
+            [
+                4,
+                "bouilloire anti calcaire temperature reglable"
+            ],
+            [
+                5,
+                "bouilloire electrique anti tartre"
+            ],
+            [
+                0,
+                "detartrage citron"
+            ],
+            [
+                1,
+                "detartrage citron bicarbonate"
+            ],
+            [
+                2,
+                "citron detartrage dents"
+            ],
+            [
+                3,
+                "detartrant citron"
+            ],
+            [
+                4,
+                "détartrage bouilloire citron"
+            ],
+            [
+                5,
+                "détartrage senseo citron"
+            ],
+            [
+                6,
+                "detartrage cafetiere citron"
+            ],
+            [
+                7,
+                "detartrage nespresso citron"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                1,
+                "détartrage bouilloire électrique vinaigre"
+            ],
+            [
+                0,
+                "détartrant naturel"
+            ],
+            [
+                0,
+                "bouilloire entartree danger force"
+            ],
+            [
+                1,
+                "bouilloire entartree danger dans"
+            ],
+            [
+                2,
+                "bouilloire entartree dangereux"
+            ],
+            [
+                3,
+                "bouilloire entartree dangereusement"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique avec thermostat"
+            ],
+            [
+                1,
+                "nettoyage bouilloire électrique chez boulanger"
+            ],
+            [
+                2,
+                "nettoyage bouilloire électrique inox"
+            ],
+            [
+                3,
+                "nettoyage bouilloire électrique chez darty"
+            ],
+            [
+                0,
+                "détartrage cafetière"
+            ],
+            [
+                1,
+                "détartrage cafetière vinaigre"
+            ],
+            [
+                2,
+                "détartrage cafetière nespresso"
+            ],
+            [
+                3,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                4,
+                "détartrage cafetière senseo"
+            ],
+            [
+                5,
+                "détartrage cafetière krups"
+            ],
+            [
+                6,
+                "détartrage cafetière dosage vinaigre blanc"
+            ],
+            [
+                7,
+                "détartrage cafetière avec vinaigre blanc"
+            ],
+            [
+                8,
+                "détartrage cafetière bicarbonate de soude"
+            ],
+            [
+                9,
+                "détartrage cafetière tassimo"
+            ],
+            [
+                0,
+                "tartre bouilloire santé.fr"
+            ],
+            [
+                1,
+                "tartre bouilloire www.sante.fr"
+            ],
+            [
+                2,
+                "tartre bouilloire santévet"
+            ],
+            [
+                3,
+                "tartre bouilloire santéclair"
+            ],
+            [
+                0,
+                "bouilloire anti tartre magnétique"
+            ],
+            [
+                1,
+                "bouilloire anti tartre wc"
+            ],
+            [
+                2,
+                "bouilloire anti tartre dentaire"
+            ],
+            [
+                3,
+                "bouilloire anti tartre chat"
+            ],
+            [
+                0,
+                "detartrage citron caviar"
+            ],
+            [
+                1,
+                "detartrage citron vert"
+            ],
+            [
+                2,
+                "detartrage citronnelle"
+            ],
+            [
+                3,
+                "detartrage citronnemoi.com"
+            ]
+        ],
+        "youtube": [
+            [
+                0,
+                "détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                1,
+                "laver bouilloire vinaigre"
+            ],
+            [
+                2,
+                "détartrage cafetière vinaigre blanc"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "détartrer bouilloire électrique"
+            ],
+            [
+                0,
+                "détartrage cafetière delonghi"
+            ],
+            [
+                1,
+                "détartrage cafetière senseo"
+            ],
+            [
+                2,
+                "détartrage cafetière krups"
+            ],
+            [
+                3,
+                "détartrage cafetière smeg"
+            ],
+            [
+                4,
+                "détartrage cafetière nespresso"
+            ],
+            [
+                5,
+                "détartrage cafetière dolce gusto"
+            ],
+            [
+                6,
+                "détartrage cafetière tassimo"
+            ],
+            [
+                7,
+                "détartrage cafetière philips"
+            ],
+            [
+                8,
+                "détartrage cafetière bosch tassimo"
+            ],
+            [
+                9,
+                "détartrage cafetière"
+            ],
+            [
+                0,
+                "bouilloire anti calcaire"
+            ]
+        ]
+    },
+    "wikipedia": {
+        "articles": [
+            {
+                "title": "Bouilloire",
+                "views": 312,
+                "counted": true,
+                "fromConcept": false,
+                "coverage": 0.385
+            }
+        ],
+        "sections": 3,
+        "types": []
+    },
+    "pages": [
+        {
+            "group": "Détartrage de la bouilloire",
+            "title": "comment détartrer une bouilloire électrique",
+            "intent": "informational",
+            "keywords": [
+                "comment détartrer une bouilloire électrique",
+                "comment détartrer une bouilloire avec du vinaigre blanc",
+                "chauffe bouilloire",
+                "dépôt calcaire",
+                "eau bouilloire",
+                "résistance bouilloire",
+                "tartre bouilloire",
+                "vinaigre blanc",
+                "détartrage bouilloire vinaigre blanc",
+                "comment détartrer une bouilloire au vinaigre",
+                "détartrer bouilloire vinaigre blanc",
+                "laver bouilloire vinaigre"
+            ]
+        },
+        {
+            "group": "Détartrage de la bouilloire",
+            "title": "comment détartrer une bouilloire naturellement",
+            "intent": "informational",
+            "keywords": [
+                "comment détartrer une bouilloire naturellement",
+                "bicarbonate de soude",
+                "citron",
+                "filtre anti-calcaire",
+                "anti tartre bouilloire",
+                "comment détartrer une bouilloire en inox",
+                "bouilloire anti calcaire"
+            ]
+        },
+        {
+            "group": "Détartrage de la cafetière",
+            "title": "détartrage cafetière delonghi",
+            "intent": "informational",
+            "keywords": [
+                "détartrage cafetière delonghi",
+                "détartrage cafetière krups",
+                "détartrage cafetière senseo",
+                "détartrage cafetière nespresso",
+                "détartrage cafetière delonghi magnifica s",
+                "détartrage cafetière dolce gusto",
+                "détartrage cafetière tassimo"
+            ]
+        },
+        {
+            "group": "Détartrage de la cafetière",
+            "title": "détartrage cafetière",
+            "intent": "informational",
+            "keywords": [
+                "détartrage cafetière",
+                "détartrage cafetière vinaigre blanc",
+                "comment detartrer une cafetiere"
+            ]
+        },
+        {
+            "group": "Nettoyage de la bouilloire",
+            "title": "nettoyage bouilloire électrique",
+            "intent": "informational",
+            "keywords": [
+                "nettoyage bouilloire électrique",
+                "comment laver une bouilloire",
+                "nettoyage régulier",
+                "comment nettoyer une bouilloire entartrée",
+                "nettoyer bouilloire électrique"
+            ]
+        },
+        {
+            "group": "Nettoyage de la bouilloire",
+            "title": "comment nettoyer une bouilloire",
+            "intent": "informational",
+            "keywords": [
+                "comment nettoyer une bouilloire",
+                "comment fonctionne une bouilloire sans fil"
+            ]
+        },
+        {
+            "group": "Entretien des appareils",
+            "title": "détartrer bouilloire électrique",
+            "intent": "informational",
+            "keywords": [
+                "détartrer bouilloire électrique"
+            ]
+        }
+    ],
+    "categories": {
+        "comment détartrer une bouilloire électrique": "core",
+        "détartrage cafetière": "complementary",
+        "détartrage bouilloire vinaigre blanc": "core",
+        "détartrage cafetière delonghi": "complementary",
+        "détartrage cafetière krups": "complementary",
+        "nettoyage bouilloire électrique": "core",
+        "détartrage cafetière senseo": "complementary",
+        "anti tartre bouilloire": "core",
+        "comment détartrer une bouilloire au vinaigre": "core",
+        "comment détartrer une bouilloire en inox": "core",
+        "comment détartrer une bouilloire naturellement": "core",
+        "détartrage cafetière nespresso": "complementary",
+        "détartrage cafetière delonghi magnifica s": "complementary",
+        "comment nettoyer une bouilloire entartrée": "core",
+        "bouilloire anti calcaire": "complementary",
+        "détartrer bouilloire vinaigre blanc": "complementary",
+        "détartrer bouilloire électrique": "complementary",
+        "nettoyer bouilloire électrique": "complementary",
+        "comment fonctionne une bouilloire": "doubtful",
+        "détartrage cafetière dolce gusto": "complementary",
+        "laver bouilloire vinaigre": "complementary",
+        "comment nettoyer une bouilloire": "complementary",
+        "détartrage cafetière vinaigre blanc": "complementary",
+        "comment détartrer une bouilloire avec du vinaigre blanc": "complementary",
+        "comment laver une bouilloire": "complementary",
+        "comment detartrer une cafetiere": "complementary",
+        "détartrage cafetière tassimo": "complementary",
+        "comment fonctionne une bouilloire sans fil": "complementary",
+        "résistance bouilloire": "core",
+        "eau bouilloire": "core",
+        "tartre bouilloire": "core",
+        "vinaigre blanc": "core",
+        "citron": "core",
+        "bicarbonate de soude": "core",
+        "nettoyage régulier": "complementary",
+        "dépôt calcaire": "core",
+        "chauffe bouilloire": "core",
+        "filtre anti-calcaire": "complementary",
+        "café": "doubtful",
+        "eau": "doubtful",
+        "métal": "doubtful",
+        "tisane": "doubtful",
+        "ustensile de cuisine": "doubtful",
+        "ébullition": "doubtful",
+        "électricité": "doubtful"
+    }
+}

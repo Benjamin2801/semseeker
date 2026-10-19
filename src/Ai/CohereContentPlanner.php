@@ -14,7 +14,8 @@ final class CohereContentPlanner implements ContentPlannerInterface
 {
     private const ASSIGN_CHUNK_SIZE = 22;
 
-    private const ASSIGN_MAX_DURATION = 10;
+    // Un paquet de rangement prend jusqu'à 9 s : il garde au moins 10 s, et tout ce que la structure n'a pas pris.
+    private const ASSIGN_MIN_DURATION = 10;
 
     private const MIN_GROUPS = 3;
     private const MAX_GROUPS = 8;
@@ -160,6 +161,10 @@ final class CohereContentPlanner implements ContentPlannerInterface
             return new PlanDraft($seed, $lang, $keywords, null);
         }
 
+        // Le délai couvre tout le plan : la structure prend ce que le rangement ne se réserve pas.
+        $deadline = microtime(true) + $maxDuration;
+        $structureDuration = max(1, $maxDuration - self::ASSIGN_MIN_DURATION);
+
         $list = '';
         foreach ($keywords as $id => $keyword) {
             if (($scores[$id] ?? 0) >= self::STRUCTURE_MIN_SCORE) {
@@ -169,7 +174,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
         $count = substr_count($list, "\n");
 
         $groups = max(self::MIN_GROUPS, min(self::MAX_GROUPS, (int) round($count / self::KEYWORDS_PER_GROUP)));
-        $maxPages = $maxDuration < self::SHORT_STRUCTURE_SECONDS ? self::SHORT_MAX_PAGES : self::MAX_PAGES;
+        $maxPages = $structureDuration < self::SHORT_STRUCTURE_SECONDS ? self::SHORT_MAX_PAGES : self::MAX_PAGES;
         $groups = min($groups, $maxPages);
         $pages = max($groups, min($maxPages, (int) round($count / self::KEYWORDS_PER_PAGE)));
         $message = sprintf(
@@ -184,12 +189,12 @@ final class CohereContentPlanner implements ContentPlannerInterface
         }
 
         try {
-            $pending = $this->cohere->request(self::STRUCTURE_PROMPT, $message, self::STRUCTURE_SCHEMA, $maxDuration);
+            $pending = $this->cohere->request(self::STRUCTURE_PROMPT, $message, self::STRUCTURE_SCHEMA, $structureDuration);
         } catch (AiException) {
             $pending = null;
         }
 
-        return new PlanDraft($seed, $lang, $keywords, $pending, $articles);
+        return new PlanDraft($seed, $lang, $keywords, $pending, $articles, $deadline);
     }
 
     public function assign(PlanDraft $draft): Plan
@@ -207,7 +212,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
         $byPage = [];
         $bySection = [];
         $rejected = [];
-        [$placements, $categories] = $this->placements($draft->seed, $draft->lang, $draft->keywords, $pages);
+        [$placements, $categories] = $this->placements($draft->seed, $draft->lang, $draft->keywords, $pages, max(self::ASSIGN_MIN_DURATION, $draft->deadline - microtime(true)));
         foreach ($placements as $id => $placement) {
             if (null === $placement) {
                 $rejected[] = $id;
@@ -267,10 +272,11 @@ final class CohereContentPlanner implements ContentPlannerInterface
     /**
      * @param list<string>    $keywords
      * @param list<DraftPage> $pages
+     * @param float           $duration délai de chaque paquet
      *
      * @return array{array<int, array{int, ?int}|null>, array<int, KeywordCategory>}
      */
-    private function placements(string $seed, string $lang, array $keywords, array $pages): array
+    private function placements(string $seed, string $lang, array $keywords, array $pages, float $duration): array
     {
         $outline = '';
         foreach ($pages as $p => $page) {
@@ -287,7 +293,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
                 "Seed: %s\nLanguage: %s\nPlan:\n%s\nCount: %d\nCore target: %d\nKeywords:\n%s",
                 $seed, $lang, $outline, \count($chunk), self::coreTarget(\count($chunk)), CohereChat::numbered($chunk),
             );
-            $responses[$i] = $this->cohere->request(self::ASSIGN_PROMPT, $message, self::ASSIGN_SCHEMA, self::ASSIGN_MAX_DURATION);
+            $responses[$i] = $this->cohere->request(self::ASSIGN_PROMPT, $message, self::ASSIGN_SCHEMA, $duration);
         }
 
         $placements = [];

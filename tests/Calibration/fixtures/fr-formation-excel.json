@@ -1,0 +1,436 @@
+{
+    "expression": "formation excel",
+    "lang": "fr",
+    "recorded": "2026-10-19",
+    "sources": [
+        "amazon",
+        "bing",
+        "duckduckgo",
+        "ebay",
+        "google",
+        "indeed",
+        "yahoo",
+        "youtube"
+    ],
+    "failed": [],
+    "concepts": [
+        "cours excel"
+    ],
+    "suggestions": {
+        "amazon": [
+            "formation excel"
+        ],
+        "bing": [
+            "formation excel",
+            "formation excel gratuite",
+            "formation excel avancé",
+            "formation excel débutant",
+            "formation excel en ligne",
+            "formation excel cpf",
+            "formation excel pdf",
+            "formation excel intermédiaire",
+            "formation excel en ligne gratuite",
+            "formation excel gratuite avec certificat",
+            "formation excel avancé gratuite"
+        ],
+        "duckduckgo": [
+            "formation excel",
+            "formation excel gratuite",
+            "formation excel avancé",
+            "formation excel débutant",
+            "formation excel en ligne",
+            "formation excel cpf",
+            "formation excel pdf",
+            "formation excel intermédiaire"
+        ],
+        "google": [
+            "formation excel",
+            "formation excel gratuite",
+            "formation excel cpf",
+            "formation excel lyon",
+            "formation excel gratuite en ligne",
+            "formation excel pdf 70 pages",
+            "formation excel avancé",
+            "formation excel en ligne",
+            "formation excel gratuite pdf",
+            "formation excel intermédiaire"
+        ],
+        "yahoo": [
+            "formation excel",
+            "formation excel gratuite",
+            "formation excel en ligne",
+            "formation excel avancé",
+            "formation excel tableau croisé dynamique",
+            "formation excel perfectionnement",
+            "formation excel débutant",
+            "formation excel paris",
+            "formation excel cpf",
+            "formation excel vba"
+        ],
+        "youtube": [
+            "formation excel",
+            "formation excel débutant",
+            "formation excel avancé",
+            "formation excel tableau croisé dynamique",
+            "formation excel gratuite",
+            "formation excel vba",
+            "formation excel pour data analyst",
+            "formation excel intermédiaire",
+            "formation excel finance",
+            "formation excel de a à z"
+        ]
+    },
+    "related": {
+        "amazon": [
+            [
+                0,
+                "cours excel"
+            ]
+        ],
+        "bing": [
+            [
+                0,
+                "cours excel pdf"
+            ],
+            [
+                1,
+                "cours excel gratuit"
+            ],
+            [
+                2,
+                "cours excel débutant"
+            ],
+            [
+                3,
+                "cours excel gratuit avec exercices"
+            ],
+            [
+                4,
+                "cours excel en ligne"
+            ],
+            [
+                5,
+                "cours excel avancé"
+            ],
+            [
+                6,
+                "cours excel pdf complet"
+            ],
+            [
+                7,
+                "cours excel débutant pdf"
+            ],
+            [
+                8,
+                "cours excel avancé pdf complet"
+            ],
+            [
+                9,
+                "cours excel pdf complet gratuit"
+            ],
+            [
+                10,
+                "cours excel avancé pdf"
+            ],
+            [
+                11,
+                "cours excel débutant gratuit"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "cours excel pdf"
+            ],
+            [
+                1,
+                "cours excel gratuit"
+            ],
+            [
+                2,
+                "cours excel débutant"
+            ],
+            [
+                3,
+                "cours excel gratuit avec exercices"
+            ],
+            [
+                4,
+                "cours excel en ligne"
+            ],
+            [
+                5,
+                "cours excel avancé"
+            ],
+            [
+                6,
+                "cours excel pdf complet"
+            ],
+            [
+                7,
+                "cours excel débutant pdf"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "cours excel"
+            ],
+            [
+                1,
+                "cours excel de a à z pdf"
+            ],
+            [
+                2,
+                "cours excel gratuit"
+            ],
+            [
+                3,
+                "cours excel débutant pdf gratuit exercices corrigés"
+            ],
+            [
+                4,
+                "cours excel gratuit télécharger"
+            ],
+            [
+                5,
+                "cours excel pdf complet"
+            ],
+            [
+                6,
+                "cours excel gratuit en ligne"
+            ],
+            [
+                7,
+                "cours excel pdf"
+            ],
+            [
+                8,
+                "cours excel débutant gratuit"
+            ],
+            [
+                9,
+                "cours excel complet"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "cours excel"
+            ],
+            [
+                1,
+                "cours excel gratuit"
+            ],
+            [
+                2,
+                "cours excel pdf"
+            ],
+            [
+                3,
+                "cours excel pour débutant"
+            ],
+            [
+                4,
+                "cours excel avancé"
+            ],
+            [
+                5,
+                "cours excel en ligne"
+            ],
+            [
+                6,
+                "cours excel tableau croisé dynamique"
+            ],
+            [
+                7,
+                "cours excel cnam"
+            ],
+            [
+                8,
+                "cours excel sur youtube"
+            ],
+            [
+                9,
+                "cours excel 2020 pdf complet"
+            ]
+        ],
+        "youtube": [
+            [
+                0,
+                "cours excel"
+            ],
+            [
+                1,
+                "cours excel debutant"
+            ],
+            [
+                2,
+                "cours excel avancé"
+            ],
+            [
+                3,
+                "cours excel tableau croisé dynamique"
+            ],
+            [
+                4,
+                "cours excel recherchev"
+            ],
+            [
+                5,
+                "cours excel vba"
+            ],
+            [
+                6,
+                "cours excel gratuit"
+            ],
+            [
+                7,
+                "cours excel finance"
+            ],
+            [
+                8,
+                "cours excel intermédiaire"
+            ],
+            [
+                9,
+                "cours excel fonction si"
+            ]
+        ]
+    },
+    "wikipedia": {
+        "articles": [
+            {
+                "title": "Microsoft Excel",
+                "views": 5025,
+                "counted": true,
+                "fromConcept": false,
+                "coverage": 0.357
+            }
+        ],
+        "sections": 10,
+        "types": [
+            "microsoft office excel 5.0",
+            "microsoft office excel 7.0",
+            "microsoft office excel 2002",
+            "microsoft office excel 4.0"
+        ]
+    },
+    "pages": [
+        {
+            "group": "Niveaux de formation",
+            "title": "formation excel débutant",
+            "intent": "informational",
+            "keywords": [
+                "formation excel débutant",
+                "excel base",
+                "cours excel gratuit",
+                "cours excel gratuit avec exercices",
+                "cours excel débutant pdf gratuit exercices corrigés",
+                "cours excel gratuit télécharger",
+                "cours excel debutant",
+                "cours excel débutant pdf"
+            ]
+        },
+        {
+            "group": "Niveaux de formation",
+            "title": "formation excel avancé",
+            "intent": "informational",
+            "keywords": [
+                "formation excel avancé",
+                "formation excel perfectionnement",
+                "formation excel pour data analyst",
+                "cours excel recherchev",
+                "excel fonction",
+                "excel format",
+                "excel formule",
+                "excel graphique",
+                "excel pivot",
+                "formation excel tableau croisé dynamique",
+                "cours excel tableau croisé dynamique",
+                "excel tableau",
+                "cours excel avancé"
+            ]
+        },
+        {
+            "group": "Formats de formation",
+            "title": "cours excel pdf",
+            "intent": "informational",
+            "keywords": [
+                "cours excel pdf",
+                "cours excel pdf complet",
+                "cours excel de a à z pdf",
+                "formation excel pdf",
+                "formation excel pdf 70 pages"
+            ]
+        },
+        {
+            "group": "Formats de formation",
+            "title": "formation excel en ligne",
+            "intent": "commercial",
+            "keywords": [
+                "formation excel en ligne",
+                "cours excel en ligne",
+                "formation excel gratuite en ligne"
+            ]
+        },
+        {
+            "group": "Financement et accès",
+            "title": "formation excel cpf",
+            "intent": "transactional",
+            "keywords": [
+                "formation excel cpf",
+                "formation excel gratuite",
+                "formation excel vba",
+                "cours excel vba",
+                "excel macro"
+            ]
+        },
+        {
+            "group": "Financement et accès",
+            "title": "formation excel gratuite",
+            "intent": "transactional",
+            "keywords": [
+                "formation excel intermédiaire"
+            ]
+        }
+    ],
+    "categories": {
+        "formation excel gratuite": "commercial",
+        "formation excel avancé": "core",
+        "formation excel débutant": "core",
+        "cours excel gratuit": "commercial",
+        "formation excel en ligne": "commercial",
+        "formation excel cpf": "commercial",
+        "cours excel debutant": "core",
+        "cours excel pdf": "core",
+        "cours excel avancé": "core",
+        "formation excel tableau croisé dynamique": "core",
+        "formation excel intermédiaire": "commercial",
+        "cours excel en ligne": "commercial",
+        "cours excel gratuit avec exercices": "complementary",
+        "cours excel pdf complet": "complementary",
+        "formation excel gratuite en ligne": "commercial",
+        "formation excel pdf": "complementary",
+        "cours excel tableau croisé dynamique": "complementary",
+        "formation excel vba": "commercial",
+        "cours excel de a à z pdf": "complementary",
+        "formation excel pdf 70 pages": "complementary",
+        "formation excel perfectionnement": "complementary",
+        "cours excel débutant pdf gratuit exercices corrigés": "complementary",
+        "formation excel pour data analyst": "complementary",
+        "cours excel débutant pdf": "complementary",
+        "cours excel gratuit télécharger": "complementary",
+        "cours excel recherchev": "complementary",
+        "cours excel vba": "commercial",
+        "excel base": "core",
+        "excel fonction": "core",
+        "excel tableau": "core",
+        "excel graphique": "core",
+        "excel macro": "commercial",
+        "excel formule": "core",
+        "excel pivot": "core",
+        "excel format": "core",
+        "cours excel": "doubtful"
+    }
+}

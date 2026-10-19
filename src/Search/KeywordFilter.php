@@ -41,12 +41,29 @@ final class KeywordFilter
 
     public function excludes(string $keyword, string $seed, string $lang): bool
     {
-        return $this->matches([...self::LOCAL_PATTERNS, ...self::PATTERNS, ...self::CITIES[$lang] ?? []], $keyword, $seed);
+        return $this->matches([...self::LOCAL_PATTERNS, ...self::PATTERNS], $keyword, $seed) || $this->namesCity($keyword, $seed, $lang);
     }
 
     public function isLocal(string $keyword, string $seed, string $lang): bool
     {
-        return $this->matches([...self::LOCAL_PATTERNS, ...self::CITIES[$lang] ?? []], $keyword, $seed);
+        return $this->matches(self::LOCAL_PATTERNS, $keyword, $seed) || $this->namesCity($keyword, $seed, $lang);
+    }
+
+    // Seule, une ville est un lieu ; en tête ou après « de », elle nomme autre chose qu'un lieu : « boston terrier », « paris sportifs »,
+    // « savon de marseille », « traité de versailles ». Partout ailleurs, c'est la ville où l'on cherche.
+    private function namesCity(string $keyword, string $seed, string $lang): bool
+    {
+        $text = SuggestionMerger::normalize($keyword);
+        $seed = SuggestionMerger::normalize($seed);
+        foreach (self::CITIES[$lang] ?? [] as $city) {
+            $city = str_replace(' ', '[\s-]+', $city);
+            $place = '/^'.$city.'$|\bville de '.$city.'\b|(?<!\bde|\bdu|\bof)\s'.$city.'\b/';
+            if (preg_match($place, $text) && !preg_match('/\b'.$city.'\b/', $seed)) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     /** @param list<string> $patterns */

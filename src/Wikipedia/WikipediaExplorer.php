@@ -24,6 +24,10 @@ final class WikipediaExplorer
 
     private const TYPES = 10;
 
+    // Les sous-classes partent après le choix de l'article principal, quand le budget est presque épuisé :
+    // avec ce qui reste (souvent 0,3 s), Wikidata ne répondait pas une fois sur deux.
+    private const TYPES_MIN_SECONDS = 2;
+
     private const MAX_CONCEPT_ARTICLES = 2;
 
     private const VIEWS_DAYS = 30;
@@ -339,7 +343,7 @@ final class WikipediaExplorer
             preg_replace('/[^Q0-9]/', '', $item), preg_replace('/[^a-z]/', '', $lang), 2 * self::TYPES,
         );
 
-        return $this->httpClient->request('GET', 'https://query.wikidata.org/sparql', ['query' => ['query' => $query, 'format' => 'json']] + $this->options());
+        return $this->httpClient->request('GET', 'https://query.wikidata.org/sparql', ['query' => ['query' => $query, 'format' => 'json']] + $this->options(self::TYPES_MIN_SECONDS));
     }
 
     /** @return list<string> */
@@ -460,9 +464,9 @@ final class WikipediaExplorer
     }
 
     /** @return array<string, mixed> */
-    private function options(): array
+    private function options(float $minimum = 0.3): array
     {
-        $remaining = max(0.3, $this->deadline - microtime(true));
+        $remaining = max($minimum, $this->deadline - microtime(true));
 
         return ['headers' => ['User-Agent' => self::USER_AGENT], 'timeout' => $remaining, 'max_duration' => $remaining];
     }

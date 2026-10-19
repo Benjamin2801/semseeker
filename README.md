@@ -74,7 +74,12 @@ Or `COHERE_API_KEY=your-key docker compose up`, then open http://127.0.0.1:8000.
 ```bash
 composer check                                        # style, static analysis, tests
 php bin/console app:advice:bench "phrase" "phrase"    # advice, themes, pages and timing on real searches
+php bin/console app:advice:bench --expect=tests/Calibration/cases.json --record=tests/Calibration/fixtures
 ```
+
+The calibration set (`tests/Calibration/`) states what an SEO expert expects for each phrase. The bench compares it
+with real searches and records them; the tests replay the recordings offline, so a change to a weight or a threshold
+shows at once which verdicts it fixes or breaks. Known gaps are reported as incomplete tests.
 
 The number of suggestions sent to the planner (`app.ai.max_candidates`) and the Cohere model (`app.cohere.model`) are
 set in `config/services.yaml`.

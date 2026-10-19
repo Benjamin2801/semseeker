@@ -11,6 +11,10 @@ final class SuggestionMerger
     // Une suggestion trouvée par un concept compte moins qu'une suggestion de l'expression elle-même.
     private const RELATED_QUERY_WEIGHT = 0.6;
 
+    // DuckDuckGo reprend les suggestions de Bing (72 % en commun, au plus 32 % entre deux autres moteurs) :
+    // les deux comptent pour une voix, la meilleure, comme Ecosia et Swisscows retirés pour la même raison.
+    private const VOICES = ['duckduckgo' => 'bing'];
+
     private const STOP_WORDS = ['a', 'au', 'aux', 'd', 'de', 'des', 'du', 'en', 'et', 'l', 'la', 'le', 'les', 'pour', 'un', 'une', 'an', 'for', 'of', 'the', 'to'];
 
     /**
@@ -29,7 +33,7 @@ final class SuggestionMerger
                 continue;
             }
 
-            $group = $groups[$key] ?? ['text' => '', 'best' => -1, 'points' => [], 'positions' => []];
+            $group = $groups[$key] ?? ['text' => '', 'best' => -1, 'points' => [], 'bySource' => [], 'positions' => []];
             $points = self::points($suggestion);
 
             if ($points > $group['best']) {
@@ -37,8 +41,10 @@ final class SuggestionMerger
                 $group['best'] = $points;
             }
 
-            if ($points > ($group['points'][$suggestion->source] ?? -1)) {
-                $group['points'][$suggestion->source] = $points;
+            $voice = self::voice($suggestion->source);
+            $group['points'][$voice] = max($points, $group['points'][$voice] ?? -1);
+            if ($points > ($group['bySource'][$suggestion->source] ?? -1)) {
+                $group['bySource'][$suggestion->source] = $points;
                 $group['positions'][$suggestion->source] = $suggestion->rank + 1;
             }
             $groups[$key] = $group;
@@ -53,6 +59,11 @@ final class SuggestionMerger
             <=> [$a->score, $a->getSourceCount(), $b->text]);
 
         return $keywords;
+    }
+
+    public static function voice(string $source): string
+    {
+        return self::VOICES[$source] ?? $source;
     }
 
     public static function points(RawSuggestion $suggestion): float

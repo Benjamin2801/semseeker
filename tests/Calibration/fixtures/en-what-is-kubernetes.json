@@ -1,0 +1,1821 @@
+{
+    "expression": "what is kubernetes",
+    "lang": "en",
+    "recorded": "2026-10-19",
+    "sources": [
+        "amazon",
+        "bing",
+        "duckduckgo",
+        "ebay",
+        "google",
+        "indeed",
+        "yahoo",
+        "youtube"
+    ],
+    "failed": [],
+    "concepts": [
+        "kubernetes vs docker",
+        "kubernetes architecture",
+        "kubernetes deployment",
+        "kubernetes pods",
+        "kubernetes services",
+        "kubernetes ingress",
+        "kubernetes helm",
+        "kubernetes monitoring"
+    ],
+    "suggestions": {
+        "bing": [
+            "what is kubernetes",
+            "what is kubernetes and docker",
+            "what is kubernetes cluster",
+            "what is kubernetes and how does it work",
+            "what is kubernetes pod",
+            "what is kubernetes service",
+            "what is kubernetes ingress",
+            "what is kubernetes operator",
+            "what is kubernetes review",
+            "what is kubernetes near me",
+            "what is kubernetes container",
+            "what is kubernetes online",
+            "what is kubernetes in simple terms",
+            "what is kubernetes deployment"
+        ],
+        "duckduckgo": [
+            "what is kubernetes and docker",
+            "what is kubernetes and how does it work",
+            "what is kubernetes",
+            "what is kubernetes cluster",
+            "what is kubernetes service",
+            "what is kubernetes pod",
+            "what is kubernetes ingress",
+            "what is kubernetes operator"
+        ],
+        "google": [
+            "what is kubernetes",
+            "what is kubernetes used for",
+            "what is kubernetes vs docker",
+            "what is kubernetes and how does it work",
+            "what is kubernetes container",
+            "what is kubernetes cluster",
+            "what is kubernetes in simple words",
+            "what is kubernetes pod",
+            "what is kubernetes and docker",
+            "what is kubernetes operator"
+        ],
+        "yahoo": [
+            "what is kubernetes",
+            "what is kubernetes vs docker",
+            "what is kubernetes cluster",
+            "what is kubernetes in devops",
+            "what is kubernetes for dummies",
+            "what is kubernetes containers",
+            "what is kubernetes & how does it work",
+            "what is kubernetes near me",
+            "what is kubernetes mean",
+            "what is kubernetes software"
+        ],
+        "youtube": [
+            "what is kubernetes",
+            "what is kubernetes and how it works",
+            "what is kubernetes and docker",
+            "what is kubernetes cluster",
+            "what is kubernetes in telugu",
+            "what is kubernetes and how it works in telugu",
+            "what is kubernetes pod",
+            "what is kubernetes in hindi",
+            "what is kubernetes and how it works in hindi",
+            "what is kubernetes used for"
+        ]
+    },
+    "related": {
+        "amazon": [
+            [
+                0,
+                "kubernetes helm"
+            ]
+        ],
+        "bing": [
+            [
+                0,
+                "kubernetes vs docker"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                2,
+                "kubernetes vs docker compose"
+            ],
+            [
+                3,
+                "kubernetes vs docker differences"
+            ],
+            [
+                4,
+                "kubernetes vs docker diferencias"
+            ],
+            [
+                5,
+                "kubernetes vs docker vs container"
+            ],
+            [
+                6,
+                "kubernetes vs docker vs jenkins"
+            ],
+            [
+                7,
+                "kubernetes vs docker adalah"
+            ],
+            [
+                8,
+                "kubernetes vs docker for n8n"
+            ],
+            [
+                9,
+                "kubernetes vs docker security"
+            ],
+            [
+                10,
+                "kubernetes vs docker images"
+            ],
+            [
+                11,
+                "kubernetes vs docker que es"
+            ],
+            [
+                12,
+                "kubernetes vs docker vs podman"
+            ],
+            [
+                0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture explained"
+            ],
+            [
+                3,
+                "kubernetes architecture overview"
+            ],
+            [
+                4,
+                "kubernetes architecture basics"
+            ],
+            [
+                5,
+                "kubernetes architecture components"
+            ],
+            [
+                6,
+                "kubernetes architecture layers"
+            ],
+            [
+                7,
+                "kubernetes architecture simplified"
+            ],
+            [
+                8,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                9,
+                "kubernetes architecture patterns"
+            ],
+            [
+                10,
+                "kubernetes architecture image"
+            ],
+            [
+                11,
+                "kubernetes architecture best practices"
+            ],
+            [
+                12,
+                "kubernetes architecture training linkedin"
+            ],
+            [
+                13,
+                "kubernetes architecture diagram explained"
+            ],
+            [
+                0,
+                "kubernetes deployment"
+            ],
+            [
+                1,
+                "kubernetes deployment yaml"
+            ],
+            [
+                2,
+                "kubernetes deployment strategy"
+            ],
+            [
+                3,
+                "kubernetes deployment spec"
+            ],
+            [
+                4,
+                "kubernetes deployment file"
+            ],
+            [
+                5,
+                "kubernetes deployment strategy types"
+            ],
+            [
+                6,
+                "kubernetes deployment examples github"
+            ],
+            [
+                7,
+                "kubernetes deployment tools"
+            ],
+            [
+                8,
+                "kubernetes deployment all capabilities yml"
+            ],
+            [
+                9,
+                "kubernetes deployment manifest"
+            ],
+            [
+                10,
+                "kubernetes deployment vs pod"
+            ],
+            [
+                11,
+                "kubernetes deployment environment variables"
+            ],
+            [
+                12,
+                "kubernetes deployment vs statefulset"
+            ],
+            [
+                13,
+                "kubernetes deployment yaml file"
+            ],
+            [
+                0,
+                "kubernetes pods"
+            ],
+            [
+                1,
+                "kubernetes pods vs nodes"
+            ],
+            [
+                2,
+                "kubernetes pods explained"
+            ],
+            [
+                3,
+                "kubernetes pods scaling"
+            ],
+            [
+                4,
+                "kubernetes pods monitoring"
+            ],
+            [
+                5,
+                "kubernetes pods best practices"
+            ],
+            [
+                6,
+                "kubernetes pods datadog"
+            ],
+            [
+                7,
+                "kubernetes pods vs nodes vs containers"
+            ],
+            [
+                8,
+                "kubernetes pods troubleshooting"
+            ],
+            [
+                9,
+                "kubernetes pods logs"
+            ],
+            [
+                10,
+                "kubernetes podspec"
+            ],
+            [
+                11,
+                "kubernetes pods debuggen"
+            ],
+            [
+                12,
+                "kubernetes pods en espera"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services types"
+            ],
+            [
+                2,
+                "kubernetes services azure"
+            ],
+            [
+                3,
+                "kubernetes services yaml"
+            ],
+            [
+                4,
+                "kubernetes services documentation"
+            ],
+            [
+                5,
+                "kubernetes services - microsoft azure"
+            ],
+            [
+                6,
+                "kubernetes services list"
+            ],
+            [
+                7,
+                "kubernetes services and pods"
+            ],
+            [
+                8,
+                "kubernetes services nodeport"
+            ],
+            [
+                9,
+                "kubernetes services explained"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress nginx"
+            ],
+            [
+                3,
+                "kubernetes ingress yaml"
+            ],
+            [
+                4,
+                "kubernetes ingress tls"
+            ],
+            [
+                5,
+                "kubernetes ingress api"
+            ],
+            [
+                6,
+                "kubernetes ingress pathtype"
+            ],
+            [
+                7,
+                "kubernetes ingress install"
+            ],
+            [
+                8,
+                "kubernetes ingress resource"
+            ],
+            [
+                9,
+                "kubernetes ingress https"
+            ],
+            [
+                10,
+                "kubernetes ingress class"
+            ],
+            [
+                11,
+                "kubernetes ingress annotations"
+            ],
+            [
+                12,
+                "kubernetes ingress deprecated"
+            ],
+            [
+                13,
+                "kubernetes ingress nginx controller"
+            ],
+            [
+                14,
+                "kubernetes ingress load balancer cert renewal"
+            ],
+            [
+                15,
+                "kubernetes ingress documentation"
+            ],
+            [
+                0,
+                "kubernetes helm"
+            ],
+            [
+                1,
+                "kubernetes helm chart"
+            ],
+            [
+                2,
+                "kubernetes helm tutorial"
+            ],
+            [
+                3,
+                "kubernetes helm install"
+            ],
+            [
+                4,
+                "kubernetes helm chart tutorial"
+            ],
+            [
+                5,
+                "kubernetes helm documentation"
+            ],
+            [
+                6,
+                "kubernetes helm test"
+            ],
+            [
+                7,
+                "kubernetes helm file"
+            ],
+            [
+                8,
+                "kubernetes helm ingress"
+            ],
+            [
+                9,
+                "kubernetes helm commands"
+            ],
+            [
+                0,
+                "kubernetes monitoring"
+            ],
+            [
+                1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring grafana"
+            ],
+            [
+                3,
+                "kubernetes monitoring metrics api"
+            ],
+            [
+                4,
+                "kubernetes monitoring metrics examples"
+            ],
+            [
+                5,
+                "kubernetes monitoring metrics dashboard"
+            ],
+            [
+                6,
+                "kubernetes monitoring metrics documentation"
+            ],
+            [
+                7,
+                "kubernetes monitoring metrics collection"
+            ],
+            [
+                8,
+                "kubernetes monitoring metrics comparison"
+            ],
+            [
+                9,
+                "kubernetes monitoring resources with datadog"
+            ],
+            [
+                10,
+                "kubernetes monitoring resources with loki"
+            ],
+            [
+                11,
+                "kubernetes monitoring resources with jaeger"
+            ],
+            [
+                12,
+                "kubernetes monitoring metrics configuration"
+            ],
+            [
+                13,
+                "kubernetes monitoring metrics with prometheus"
+            ],
+            [
+                14,
+                "kubernetes monitoring metrics with grafana"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "kubernetes vs docker"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                2,
+                "kubernetes vs docker compose"
+            ],
+            [
+                3,
+                "kubernetes vs docker differences"
+            ],
+            [
+                4,
+                "kubernetes vs docker diferencias"
+            ],
+            [
+                5,
+                "kubernetes vs docker vs container"
+            ],
+            [
+                6,
+                "kubernetes vs docker vs jenkins"
+            ],
+            [
+                7,
+                "kubernetes vs docker adalah"
+            ],
+            [
+                0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture explained"
+            ],
+            [
+                3,
+                "kubernetes architecture overview"
+            ],
+            [
+                4,
+                "kubernetes architecture basics"
+            ],
+            [
+                5,
+                "kubernetes architecture components"
+            ],
+            [
+                6,
+                "kubernetes architecture layers"
+            ],
+            [
+                7,
+                "kubernetes architecture simplified"
+            ],
+            [
+                0,
+                "kubernetes deployment"
+            ],
+            [
+                1,
+                "kubernetes deployment yaml"
+            ],
+            [
+                2,
+                "kubernetes deployment strategy"
+            ],
+            [
+                3,
+                "kubernetes deployment spec"
+            ],
+            [
+                4,
+                "kubernetes deployment file"
+            ],
+            [
+                5,
+                "kubernetes deployment strategy types"
+            ],
+            [
+                6,
+                "kubernetes deployment examples github"
+            ],
+            [
+                7,
+                "kubernetes deployment tools"
+            ],
+            [
+                0,
+                "kubernetes pods"
+            ],
+            [
+                1,
+                "kubernetes pods vs nodes"
+            ],
+            [
+                2,
+                "kubernetes pods explained"
+            ],
+            [
+                3,
+                "kubernetes pods scaling"
+            ],
+            [
+                4,
+                "kubernetes pods monitoring"
+            ],
+            [
+                5,
+                "kubernetes pods best practices"
+            ],
+            [
+                6,
+                "kubernetes pods datadog"
+            ],
+            [
+                7,
+                "kubernetes pods vs nodes vs containers"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services types"
+            ],
+            [
+                2,
+                "kubernetes services azure"
+            ],
+            [
+                3,
+                "kubernetes services yaml"
+            ],
+            [
+                4,
+                "kubernetes services documentation"
+            ],
+            [
+                5,
+                "kubernetes services - microsoft azure"
+            ],
+            [
+                6,
+                "kubernetes services list"
+            ],
+            [
+                7,
+                "kubernetes services and pods"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress nginx"
+            ],
+            [
+                3,
+                "kubernetes ingress yaml"
+            ],
+            [
+                4,
+                "kubernetes ingress tls"
+            ],
+            [
+                5,
+                "kubernetes ingress api"
+            ],
+            [
+                6,
+                "kubernetes ingress pathtype"
+            ],
+            [
+                7,
+                "kubernetes ingress install"
+            ],
+            [
+                0,
+                "kubernetes helm"
+            ],
+            [
+                1,
+                "kubernetes helm chart"
+            ],
+            [
+                2,
+                "kubernetes helm tutorial"
+            ],
+            [
+                3,
+                "kubernetes helm install"
+            ],
+            [
+                4,
+                "kubernetes helm chart tutorial"
+            ],
+            [
+                5,
+                "kubernetes helm documentation"
+            ],
+            [
+                6,
+                "kubernetes helm test"
+            ],
+            [
+                7,
+                "kubernetes helm file"
+            ],
+            [
+                0,
+                "kubernetes monitoring"
+            ],
+            [
+                1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring grafana"
+            ],
+            [
+                3,
+                "kubernetes monitoring metrics api"
+            ],
+            [
+                4,
+                "kubernetes monitoring metrics examples"
+            ],
+            [
+                5,
+                "kubernetes monitoring metrics dashboard"
+            ],
+            [
+                6,
+                "kubernetes monitoring metrics documentation"
+            ],
+            [
+                7,
+                "kubernetes monitoring metrics collection"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "kubernetes vs docker"
+            ],
+            [
+                1,
+                "kubernetes vs docker compose"
+            ],
+            [
+                2,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                3,
+                "kubernetes vs docker vs jenkins"
+            ],
+            [
+                4,
+                "kubernetes vs docker vs podman"
+            ],
+            [
+                5,
+                "kubernetes vs docker vs proxmox"
+            ],
+            [
+                6,
+                "kubernetes vs docker vs container"
+            ],
+            [
+                7,
+                "kubernetes vs docker vs vm"
+            ],
+            [
+                8,
+                "kubernetes vs docker vs terraform"
+            ],
+            [
+                9,
+                "kubernetes vs docker vs openshift"
+            ],
+            [
+                0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture explained"
+            ],
+            [
+                3,
+                "kubernetes architecture and components"
+            ],
+            [
+                4,
+                "kubernetes architecture diagram explained"
+            ],
+            [
+                5,
+                "kubernetes architecture overview"
+            ],
+            [
+                6,
+                "kubernetes architecture pdf"
+            ],
+            [
+                7,
+                "kubernetes architecture diagram with explanation"
+            ],
+            [
+                8,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                9,
+                "kubernetes architecture certification"
+            ],
+            [
+                0,
+                "kubernetes deployment"
+            ],
+            [
+                1,
+                "kubernetes deployment yaml"
+            ],
+            [
+                2,
+                "kubernetes deployment strategies"
+            ],
+            [
+                3,
+                "kubernetes deployment spec"
+            ],
+            [
+                4,
+                "kubernetes deployment example"
+            ],
+            [
+                5,
+                "kubernetes deployment types"
+            ],
+            [
+                6,
+                "kubernetes deployment manifest"
+            ],
+            [
+                7,
+                "kubernetes deployment yaml example"
+            ],
+            [
+                8,
+                "kubernetes deployment vs pod"
+            ],
+            [
+                9,
+                "kubernetes deployment vs statefulset"
+            ],
+            [
+                0,
+                "kubernetes pods"
+            ],
+            [
+                1,
+                "kubernetes pods vs nodes"
+            ],
+            [
+                2,
+                "kubernetes pods vs nodes vs containers"
+            ],
+            [
+                3,
+                "kubernetes pods vs containers"
+            ],
+            [
+                4,
+                "kubernetes pods stuck in terminating"
+            ],
+            [
+                5,
+                "kubernetes podspec"
+            ],
+            [
+                6,
+                "kubernetes pods and containers"
+            ],
+            [
+                7,
+                "kubernetes pods vs clusters"
+            ],
+            [
+                8,
+                "kubernetes pods vs services"
+            ],
+            [
+                9,
+                "kubernetes podsecuritycontext"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services types"
+            ],
+            [
+                2,
+                "kubernetes services explained"
+            ],
+            [
+                3,
+                "kubernetes services list"
+            ],
+            [
+                4,
+                "kubernetes services yaml"
+            ],
+            [
+                5,
+                "kubernetes services vs pods"
+            ],
+            [
+                6,
+                "kubernetes services nodeport"
+            ],
+            [
+                7,
+                "kubernetes services in aws"
+            ],
+            [
+                8,
+                "kubernetes services load balancer"
+            ],
+            [
+                9,
+                "kubernetes services in azure"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress controller fake certificate"
+            ],
+            [
+                3,
+                "kubernetes ingress vs gateway"
+            ],
+            [
+                4,
+                "kubernetes ingress deprecated"
+            ],
+            [
+                5,
+                "kubernetes ingress gateway"
+            ],
+            [
+                6,
+                "kubernetes ingress vs service"
+            ],
+            [
+                7,
+                "kubernetes ingress nginx"
+            ],
+            [
+                8,
+                "kubernetes ingress vs gateway api"
+            ],
+            [
+                9,
+                "kubernetes ingress example"
+            ],
+            [
+                0,
+                "kubernetes helm"
+            ],
+            [
+                1,
+                "kubernetes helm chart"
+            ],
+            [
+                2,
+                "kubernetes helm chart tutorial"
+            ],
+            [
+                3,
+                "kubernetes helm tutorial"
+            ],
+            [
+                4,
+                "kubernetes helm install"
+            ],
+            [
+                5,
+                "kubernetes helm vs kustomize"
+            ],
+            [
+                6,
+                "kubernetes helm alternatives"
+            ],
+            [
+                7,
+                "kubernetes helm vs operator"
+            ],
+            [
+                8,
+                "kubernetes helm terraform"
+            ],
+            [
+                9,
+                "kubernetes helm explained"
+            ],
+            [
+                0,
+                "kubernetes monitoring"
+            ],
+            [
+                1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring in dynatrace"
+            ],
+            [
+                3,
+                "kubernetes monitoring dashboard"
+            ],
+            [
+                4,
+                "kubernetes monitoring prometheus"
+            ],
+            [
+                5,
+                "kubernetes monitoring stack"
+            ],
+            [
+                6,
+                "kubernetes monitoring helm chart"
+            ],
+            [
+                7,
+                "kubernetes monitoring zabbix"
+            ],
+            [
+                8,
+                "kubernetes monitoring helm chart v4"
+            ],
+            [
+                9,
+                "kubernetes monitoring mode dynatrace"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "kubernetes vs docker"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                2,
+                "kubernetes vs docker vs jenkins vs ansible"
+            ],
+            [
+                3,
+                "kubernetes vs docker compose"
+            ],
+            [
+                4,
+                "kubernetes vs docker videos"
+            ],
+            [
+                5,
+                "kubernetes vs docker difference"
+            ],
+            [
+                6,
+                "kubernetes vs dockers vs containers"
+            ],
+            [
+                7,
+                "kubernetes vs docker youtube"
+            ],
+            [
+                8,
+                "kubernetes vs docker vs jenkins"
+            ],
+            [
+                9,
+                "kubernetes vs docker aws"
+            ],
+            [
+                0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture components"
+            ],
+            [
+                3,
+                "kubernetes architecture explained"
+            ],
+            [
+                4,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                5,
+                "kubernetes architecture overview"
+            ],
+            [
+                6,
+                "kubernetes architecture and basic tutorial"
+            ],
+            [
+                7,
+                "kubernetes architecture medium"
+            ],
+            [
+                8,
+                "kubernetes architecture pdf"
+            ],
+            [
+                9,
+                "kubernetes architecture explanation"
+            ],
+            [
+                0,
+                "kubernetes deployment"
+            ],
+            [
+                1,
+                "kubernetes deployment yaml examples"
+            ],
+            [
+                2,
+                "kubernetes deployment yaml"
+            ],
+            [
+                3,
+                "kubernetes deployment documentation"
+            ],
+            [
+                4,
+                "kubernetes deployment manifest"
+            ],
+            [
+                5,
+                "kubernetes deployment file"
+            ],
+            [
+                6,
+                "kubernetes deployment strategies"
+            ],
+            [
+                7,
+                "kubernetes deployment example"
+            ],
+            [
+                8,
+                "kubernetes deployment environment variables"
+            ],
+            [
+                9,
+                "kubernetes deployment image pull policy"
+            ],
+            [
+                0,
+                "kubernetes pods"
+            ],
+            [
+                1,
+                "kubernetes pods examples"
+            ],
+            [
+                2,
+                "kubernetes pods vs containers"
+            ],
+            [
+                3,
+                "kubernetes pods vs nodes"
+            ],
+            [
+                4,
+                "kubernetes pods vs nodes vs containers"
+            ],
+            [
+                5,
+                "kubernetes pods and nodes"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services explained"
+            ],
+            [
+                2,
+                "kubernetes services architecture"
+            ],
+            [
+                3,
+                "what is azure kubernetes services"
+            ],
+            [
+                4,
+                "types of kubernetes services"
+            ],
+            [
+                5,
+                "amazon kubernetes services"
+            ],
+            [
+                6,
+                "kubernetes services yaml"
+            ],
+            [
+                7,
+                "aws kubernetes services"
+            ],
+            [
+                8,
+                "azure kubernetes services"
+            ],
+            [
+                9,
+                "what are kubernetes services"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress install"
+            ],
+            [
+                3,
+                "kubernetes ingress documentation"
+            ],
+            [
+                4,
+                "kubernetes ingress yaml"
+            ],
+            [
+                5,
+                "kubernetes ingress example"
+            ],
+            [
+                6,
+                "kubernetes ingress step-by-step process images"
+            ],
+            [
+                7,
+                "kubernetes ingress nginx controller"
+            ],
+            [
+                8,
+                "kubernetes ingress resource"
+            ],
+            [
+                9,
+                "kubernetes ingress tutorial"
+            ],
+            [
+                0,
+                "kubernetes helm"
+            ],
+            [
+                1,
+                "kubernetes helm tutorial"
+            ],
+            [
+                2,
+                "kubernetes helm install"
+            ],
+            [
+                3,
+                "kubernetes helm chart"
+            ],
+            [
+                4,
+                "kubernetes helm deploy"
+            ],
+            [
+                5,
+                "kubernetes helm ansible tutorial"
+            ],
+            [
+                6,
+                "kubernetes helm charts"
+            ],
+            [
+                0,
+                "kubernetes monitoring prometheus"
+            ],
+            [
+                1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring"
+            ],
+            [
+                3,
+                "kubernetes monitoring dashboard"
+            ],
+            [
+                4,
+                "kubernetes monitoring grafana"
+            ],
+            [
+                5,
+                "kubernetes monitoring tool"
+            ]
+        ],
+        "youtube": [
+            [
+                0,
+                "kubernetes vs docker"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                2,
+                "kubernetes vs docker compose"
+            ],
+            [
+                3,
+                "kubernetes vs docker explained with diagrams"
+            ],
+            [
+                4,
+                "kubernetes vs docker شرح"
+            ],
+            [
+                5,
+                "kubernetes vs docker hindi"
+            ],
+            [
+                6,
+                "kubernetes vs docker in tamil"
+            ],
+            [
+                7,
+                "kubernetes vs docker vs jenkins"
+            ],
+            [
+                8,
+                "kubernetes vs docker español"
+            ],
+            [
+                0,
+                "kubernetes architecture in telugu"
+            ],
+            [
+                1,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                2,
+                "kubernetes architecture in tamil"
+            ],
+            [
+                3,
+                "kubernetes architecture nana"
+            ],
+            [
+                4,
+                "kubernetes architecture mumshad"
+            ],
+            [
+                5,
+                "kubernetes architecture"
+            ],
+            [
+                6,
+                "kubernetes architecture explained"
+            ],
+            [
+                7,
+                "kubernetes architecture in malayalam"
+            ],
+            [
+                8,
+                "kubernetes architecture deep dive"
+            ],
+            [
+                9,
+                "kubernetes architecture abhishek veeramalla"
+            ],
+            [
+                0,
+                "kubernetes deployment"
+            ],
+            [
+                1,
+                "kubernetes deployment yaml explained"
+            ],
+            [
+                2,
+                "kubernetes deployment strategies"
+            ],
+            [
+                3,
+                "kubernetes deployment tutorial"
+            ],
+            [
+                4,
+                "kubernetes deployment aws"
+            ],
+            [
+                5,
+                "kubernetes deployment explained"
+            ],
+            [
+                6,
+                "kubernetes deployment yaml"
+            ],
+            [
+                7,
+                "kubernetes deployment example"
+            ],
+            [
+                8,
+                "kubernetes deployment vs replica set"
+            ],
+            [
+                9,
+                "kubernetes deployment project"
+            ],
+            [
+                0,
+                "kubernetes pods"
+            ],
+            [
+                1,
+                "kubernetes pods and containers"
+            ],
+            [
+                2,
+                "kubernetes pods explained"
+            ],
+            [
+                3,
+                "kubernetes pods and nodes"
+            ],
+            [
+                4,
+                "kubernetes pods and services"
+            ],
+            [
+                5,
+                "kubernetes pods in hindi"
+            ],
+            [
+                6,
+                "kubernetes podstawy"
+            ],
+            [
+                7,
+                "kubernetes pods as jenkins agent"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services and ingress"
+            ],
+            [
+                2,
+                "kubernetes services in tamil"
+            ],
+            [
+                3,
+                "kubernetes services telugu"
+            ],
+            [
+                4,
+                "kubernetes services in hindi"
+            ],
+            [
+                5,
+                "azure kubernetes service"
+            ],
+            [
+                6,
+                "kubernetes pods services deployments"
+            ],
+            [
+                7,
+                "kubernetes pods and services"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress tutorial"
+            ],
+            [
+                3,
+                "kubernetes ingress vs load balancer"
+            ],
+            [
+                4,
+                "kubernetes ingress controller nginx"
+            ],
+            [
+                5,
+                "kubernetes ingress vs api gateway"
+            ],
+            [
+                6,
+                "kubernetes ingress and egress"
+            ],
+            [
+                7,
+                "kubernetes ingress nana"
+            ],
+            [
+                8,
+                "kubernetes ingress controller explained"
+            ],
+            [
+                9,
+                "kubernetes ingress vs service"
+            ],
+            [
+                0,
+                "kubernetes helm"
+            ],
+            [
+                1,
+                "kubernetes helm charts tutorial"
+            ],
+            [
+                2,
+                "kubernetes helm charts"
+            ],
+            [
+                3,
+                "kubernetes helm explained"
+            ],
+            [
+                4,
+                "kubernetes helm argocd"
+            ],
+            [
+                5,
+                "kubernetes helm in hindi"
+            ],
+            [
+                6,
+                "kubernetes helm deployment"
+            ],
+            [
+                7,
+                "kubernetes helm project"
+            ],
+            [
+                8,
+                "kubernetes helm telugu"
+            ],
+            [
+                0,
+                "kubernetes monitoring"
+            ],
+            [
+                1,
+                "kubernetes monitoring grafana"
+            ],
+            [
+                2,
+                "kubernetes monitoring in dynatrace"
+            ],
+            [
+                3,
+                "kubernetes monitoring and alerting"
+            ],
+            [
+                4,
+                "kubernetes monitoring using prometheus & grafana"
+            ],
+            [
+                5,
+                "kubernetes monitoring with zabbix"
+            ],
+            [
+                6,
+                "kubernetes monitoring tools"
+            ]
+        ]
+    },
+    "wikipedia": {
+        "articles": [
+            {
+                "title": "Kubernetes",
+                "views": 27628,
+                "counted": false,
+                "fromConcept": false,
+                "coverage": 0.6
+            }
+        ],
+        "sections": 7,
+        "types": [
+            "k3s"
+        ]
+    },
+    "pages": [
+        {
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes cluster",
+            "intent": "informational",
+            "keywords": [
+                "what is kubernetes cluster",
+                "cloud native computing foundation",
+                "cluster",
+                "computer cluster",
+                "k3s",
+                "list of cluster management software",
+                "pod",
+                "kubernetes architecture",
+                "what is kubernetes and how does it work",
+                "kubernetes architecture diagram",
+                "kubernetes architecture explained",
+                "kubernetes architecture overview",
+                "what is kubernetes pod"
+            ]
+        },
+        {
+            "group": "Kubernetes Basics",
+            "title": "kubernetes vs docker",
+            "intent": "commercial",
+            "keywords": [
+                "kubernetes vs docker",
+                "containerization",
+                "docker",
+                "openshift",
+                "what is kubernetes and docker",
+                "what is kubernetes vs docker",
+                "kubernetes vs docker swarm",
+                "kubernetes vs docker compose"
+            ]
+        },
+        {
+            "group": "Kubernetes Deployment",
+            "title": "kubernetes helm",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes helm",
+                "kubernetes helm chart",
+                "kubernetes helm tutorial",
+                "kubernetes helm charts tutorial",
+                "kubernetes helm install"
+            ]
+        },
+        {
+            "group": "Kubernetes Deployment",
+            "title": "kubernetes deployment",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes deployment",
+                "deployment",
+                "kubernetes deployment yaml"
+            ]
+        },
+        {
+            "group": "Kubernetes Components",
+            "title": "kubernetes ingress",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes ingress",
+                "kubernetes ingress controller"
+            ]
+        },
+        {
+            "group": "Kubernetes Components",
+            "title": "kubernetes pods",
+            "intent": "commercial",
+            "keywords": [
+                "kubernetes pods",
+                "node",
+                "kubernetes pods vs nodes"
+            ]
+        },
+        {
+            "group": "Kubernetes Components",
+            "title": "kubernetes services",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes services",
+                "open service mesh",
+                "service",
+                "kubernetes services types"
+            ]
+        },
+        {
+            "group": "Kubernetes Monitoring",
+            "title": "kubernetes monitoring",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes monitoring",
+                "kubernetes monitoring tools",
+                "kubernetes monitoring grafana"
+            ]
+        }
+    ],
+    "categories": {
+        "kubernetes helm": "core",
+        "what is kubernetes cluster": "core",
+        "kubernetes deployment": "core",
+        "kubernetes ingress": "core",
+        "kubernetes pods": "core",
+        "kubernetes services": "core",
+        "kubernetes vs docker": "core",
+        "kubernetes monitoring": "core",
+        "what is kubernetes and docker": "core",
+        "kubernetes architecture": "core",
+        "kubernetes ingress controller": "core",
+        "kubernetes vs docker swarm": "core",
+        "kubernetes helm chart": "core",
+        "kubernetes monitoring tools": "core",
+        "kubernetes vs docker compose": "core",
+        "kubernetes deployment yaml": "core",
+        "what is kubernetes and how does it work": "core",
+        "kubernetes architecture diagram": "complementary",
+        "kubernetes architecture explained": "complementary",
+        "kubernetes pods vs nodes": "core",
+        "kubernetes services types": "core",
+        "kubernetes helm tutorial": "core",
+        "kubernetes monitoring grafana": "core",
+        "what is kubernetes pod": "core",
+        "kubernetes helm charts tutorial": "core",
+        "kubernetes helm install": "core",
+        "what is kubernetes vs docker": "core",
+        "kubernetes architecture overview": "complementary",
+        "cluster": "core",
+        "node": "core",
+        "pod": "core",
+        "deployment": "core",
+        "service": "core",
+        "containerization": "complementary",
+        "computer cluster": "complementary",
+        "cloud native computing foundation": "complementary",
+        "docker": "complementary",
+        "list of cluster management software": "complementary",
+        "open service mesh": "complementary",
+        "openshift": "complementary",
+        "k3s": "complementary"
+    }
+}

@@ -16,6 +16,10 @@ final class SuggestionCollector
 {
     private const REQUEST_OPTIONS = ['timeout' => 3, 'max_duration' => 4];
 
+    // Les concepts arrivent tard et la structure attend leurs suggestions : un moteur lent (Indeed jusqu'à 4 s)
+    // retardait tout le plan. Au-delà de 2 s, on se passe de lui pour ce concept.
+    private const CONCEPT_REQUEST_OPTIONS = ['timeout' => 2, 'max_duration' => 2];
+
     private const CACHE_TTL = 86400;
 
     // Les suggestions de l'expression portent le conseil : on les garde une semaine pour qu'il reste stable.
@@ -45,7 +49,7 @@ final class SuggestionCollector
      */
     public function collect(string $keyword, string $lang, array $concepts = [], array $started = []): CollectResult
     {
-        $pending = [...([] !== $started ? $started : $this->request([$keyword], $lang)), ...$this->request($concepts, $lang)];
+        $pending = [...([] !== $started ? $started : $this->request([$keyword], $lang)), ...$this->request($concepts, $lang, self::CONCEPT_REQUEST_OPTIONS)];
 
         $answers = [];
         $suggestions = [];
@@ -86,13 +90,15 @@ final class SuggestionCollector
     }
 
     /**
-     * @param list<string> $queries
+     * @param list<string>         $queries
+     * @param array<string, mixed> $options
      *
      * @return list<Pending>
      */
-    private function request(array $queries, string $lang): array
+    private function request(array $queries, string $lang, array $options = self::REQUEST_OPTIONS): array
     {
-        $this->client ??= new RetryableHttpClient($this->httpClient->withOptions(self::REQUEST_OPTIONS), new StartupFailureRetryStrategy(), 1);
+        $this->client ??= new RetryableHttpClient($this->httpClient, new StartupFailureRetryStrategy(), 1);
+        $client = $this->client->withOptions($options);
 
         $cached = [];
         foreach ($queries as $query) {
@@ -103,7 +109,7 @@ final class SuggestionCollector
         $pending = [];
         foreach ($this->sources as $source) {
             foreach ($queries as $query) {
-                $pending[] = [$source, $query, $cached[$query][$source->getName()] ?? $source->request($this->client, $query, $lang)];
+                $pending[] = [$source, $query, $cached[$query][$source->getName()] ?? $source->request($client, $query, $lang)];
             }
         }
 

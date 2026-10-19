@@ -63,13 +63,13 @@ final class SearchControllerTest extends WebTestCase
         $keywords = json_decode($crawler->filter('[data-keywords]')->text(), true);
         self::assertIsArray($keywords);
 
-        self::assertSame(['pain commun', 99], $keywords[0]);
+        self::assertSame(['pain commun', 98], $keywords[0], 'Bing et DuckDuckGo, qui se répètent, comptent pour une voix.');
         self::assertContains(['farine', null], $keywords, 'Un terme non mesuré n\x27a pas de score.');
 
         $csv = json_decode($crawler->filter('[data-csv]')->text(), true);
         self::assertIsArray($csv);
         self::assertSame(['Thème', 'Concept', 'Mot-clé', 'Intérêt (0-100)', 'Catégorie', 'Estimation (non mesuré)'], $csv['header']);
-        self::assertSame(['Recettes', 'Recettes maison', 'pain commun', 99, 'Fondamentaux', null], $csv['rows'][0]);
+        self::assertSame(['Recettes', 'Recettes maison', 'pain commun', 98, 'Fondamentaux', null], $csv['rows'][0]);
 
         self::assertStringStartsWith('Fondamentaux
 pain commun

@@ -44,9 +44,11 @@ final class CohereContentPlannerTest extends TestCase
         });
 
         $planner = new CohereContentPlanner(new CohereChat($client, 'key', 'model'));
-        $plan = $planner->assign($planner->draft('porte', self::KEYWORDS, self::SCORES, 'fr', 10));
+        $plan = $planner->assign($planner->draft('porte', self::KEYWORDS, self::SCORES, 'fr', 25));
 
-        self::assertSame([10.0, 10.0], $durations, 'La structure prend le temps accordé, le rangement le sien.');
+        self::assertSame(15.0, $durations[0], 'La structure laisse 10 s au rangement.');
+        self::assertGreaterThan(24.0, $durations[1], 'Le rangement prend tout ce que la structure n\'a pas pris.');
+        self::assertLessThanOrEqual(25.0, $durations[1]);
         self::assertStringContainsString("Target number of pages: 3\nKeywords (popularity):\ninstallation porte de garage (62)\n", $bodies[0]['messages'][1]['content']);
         self::assertStringContainsString("Plan:\nP1. installation porte de garage\n  S1. Porte sectionnelle\n  S2. Porte basculante\nP2. porte de garage leroy merlin\n", $bodies[1]['messages'][1]['content']);
 
@@ -116,6 +118,21 @@ final class CohereContentPlannerTest extends TestCase
 
         self::assertStringEndsWith("Keywords (popularity):\ninstallation porte de garage (62)\nporte sectionnelle pose (41)\n", $bodies[0]['messages'][1]['content']);
         self::assertStringContainsString("Count: 4\nCore target: 1\nKeywords:\n0. installation porte de garage\n1. porte sectionnelle pose\n2. porte basculante\n3. porte de garage leroy merlin\n", $bodies[1]['messages'][1]['content']);
+    }
+
+    public function testKeepsTenSecondsForTheAssignmentWhateverTheStructureTook(): void
+    {
+        $durations = [];
+        $client = new MockHttpClient(static function (string $method, string $url, array $options) use (&$durations): MockResponse {
+            $durations[] = $options['max_duration'];
+
+            return 1 === \count($durations) ? self::reply(self::STRUCTURE) : self::reply(['results' => []]);
+        });
+        $planner = new CohereContentPlanner(new CohereChat($client, 'key', 'model'));
+
+        $planner->assign($planner->draft('porte', self::KEYWORDS, self::SCORES, 'fr', 0));
+
+        self::assertSame([1.0, 10.0], $durations);
     }
 
     public function testNeedsAtLeastTwoKeywords(): void

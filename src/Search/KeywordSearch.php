@@ -7,9 +7,11 @@ use App\Ai\ConceptFinderInterface;
 use App\Ai\ContentPlannerInterface;
 use App\Ai\Intent;
 use App\Ai\KeywordCategory;
+use App\Suggest\CollectResult;
 use App\Suggest\Keyword;
 use App\Suggest\SuggestionCollector;
 use App\Suggest\SuggestionMerger;
+use App\Wikipedia\WikipediaExploration;
 use App\Wikipedia\WikipediaExplorer;
 use Psr\Log\LoggerInterface;
 use Symfony\Component\DependencyInjection\Attribute\Autowire;
@@ -19,12 +21,13 @@ final class KeywordSearch
     private const FIELD_MAX_GROUPS = 8;
     private const FIELD_MAX_KEYWORDS_PER_GROUP = 10;
 
-    // Passé ce délai, le rangement ne tiendrait plus dans les 30 s d'exécution PHP.
-    private const STRUCTURE_DEADLINE_SECONDS = 19;
+    // Le plan (structure puis rangement) doit finir avant ce délai pour tenir dans les 30 s d'exécution PHP.
+    private const PLAN_DEADLINE_SECONDS = 29;
     private const CORE_MIN_SCORE = 20;
     private const CORE_CONCEPT_MIN_SCORE = 35;
 
-    private const STRUCTURE_MIN_SECONDS = 5;
+    // 5 s de structure et 10 s de rangement : en dessous, le plan échouerait de toute façon.
+    private const PLAN_MIN_SECONDS = 15;
 
     private const VOCABULARY_SHARES = ['intro' => 7, 'related' => 6, 'types' => 3];
 
@@ -57,17 +60,7 @@ final class KeywordSearch
         }
 
         $collected = $this->collector->collect($keyword, $lang, $concepts, $started);
-        $all = $this->merger->merge($collected->suggestions, $keyword, $collected->getAnsweringSourceCount());
-        $merged = array_values(array_filter($all, fn (Keyword $k): bool => !$this->filter->excludes($k->text, $keyword, $lang)));
-
-        // Le conseil ne lit que les suggestions de l'expression : les concepts varient d'une recherche à l'autre.
-        $fromSeed = array_values(array_filter($collected->suggestions, static fn ($s): bool => $s->fromSeed));
-        $signals = PageSignals::from(
-            $keyword, $lang, $this->merger->merge($fromSeed, $keyword, $collected->getAnsweringSourceCount()), $collected->suggestions, $collected->getRespondingSources(), $this->filter, \count($wikipedia->types ?? []),
-
-            array_values(array_map(static fn ($a): string => $a->title, array_filter($wikipedia->articles ?? [], static fn ($a): bool => $a->counted))),
-        );
-        $signals = $signals->withReach($merged, $concepts);
+        [$merged, $signals] = self::measure($collected, $keyword, $lang, $wikipedia, $concepts, $this->merger, $this->filter);
         $types = \array_slice($wikipedia->types ?? [], 0, self::VOCABULARY_SHARES['types']);
         $vocabulary = [
             ...\array_slice($wikipedia->introTerms ?? [], 0, self::VOCABULARY_SHARES['intro']),
@@ -116,6 +109,29 @@ final class KeywordSearch
             signals: $signals,
             concepts: $concepts,
         );
+    }
+
+    /**
+     * Fusion, tri et signaux du conseil, sans réseau ni IA : le jeu d'essai de calibrage les rejoue tels quels.
+     *
+     * @param list<string> $concepts
+     *
+     * @return array{list<Keyword>, PageSignals}
+     */
+    public static function measure(CollectResult $collected, string $keyword, string $lang, ?WikipediaExploration $wikipedia, array $concepts, SuggestionMerger $merger, KeywordFilter $filter): array
+    {
+        $all = $merger->merge($collected->suggestions, $keyword, $collected->getAnsweringSourceCount());
+        $merged = array_values(array_filter($all, static fn (Keyword $k): bool => !$filter->excludes($k->text, $keyword, $lang)));
+
+        // Le conseil ne lit que les suggestions de l'expression : les concepts varient d'une recherche à l'autre.
+        $fromSeed = array_values(array_filter($collected->suggestions, static fn ($s): bool => $s->fromSeed));
+        $signals = PageSignals::from(
+            $keyword, $lang, $merger->merge($fromSeed, $keyword, $collected->getAnsweringSourceCount()), $collected->suggestions, $collected->getRespondingSources(), $filter, \count($wikipedia->types ?? []),
+
+            array_values(array_map(static fn ($a): string => $a->title, array_filter($wikipedia->articles ?? [], static fn ($a): bool => $a->counted))),
+        );
+
+        return [$merged, $signals->withReach($merged, $concepts)];
     }
 
     /** @param list<string> $concepts */
@@ -199,8 +215,8 @@ final class KeywordSearch
             return [SearchResult::FIELD_TOO_FEW_KEYWORDS, [], $candidates, []];
         }
 
-        $remaining = self::STRUCTURE_DEADLINE_SECONDS - (microtime(true) - $startedAt);
-        if ($remaining < self::STRUCTURE_MIN_SECONDS) {
+        $remaining = self::PLAN_DEADLINE_SECONDS - (microtime(true) - $startedAt);
+        if ($remaining < self::PLAN_MIN_SECONDS) {
             $this->logger->warning('Plan abandonné : délai dépassé');
             $meanwhile();
 

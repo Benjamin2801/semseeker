@@ -1,0 +1,916 @@
+{
+    "expression": "how to tie a tie",
+    "lang": "en",
+    "recorded": "2026-10-19",
+    "sources": [
+        "amazon",
+        "bing",
+        "duckduckgo",
+        "ebay",
+        "google",
+        "indeed",
+        "yahoo",
+        "youtube"
+    ],
+    "failed": [],
+    "concepts": [
+        "tie knot types",
+        "necktie styles",
+        "tie clip placement",
+        "bow tie tutorial",
+        "ascot tying guide",
+        "tie dimple technique",
+        "tie length adjustment",
+        "tie pattern trends"
+    ],
+    "suggestions": {
+        "amazon": [
+            "how to tie a tie",
+            "how to tie a tie book",
+            "how to tie a tie poster",
+            "how to tie a tie denlinger",
+            "how to tie a tie and other things my mother taught me"
+        ],
+        "bing": [
+            "how to tie a tie",
+            "how to tie a tie easy",
+            "how to tie a tie youtube",
+            "how to tie a tie windsor",
+            "how to tie a tie easily",
+            "how to tie a tie video",
+            "how to tie a tie step by step",
+            "how to tie a tie jayson tatum",
+            "how to tie a tie simple",
+            "how to tie a tie on your arm",
+            "how to tie a tie 2025",
+            "how to tie a tie free",
+            "how to tie a tie windsor knot",
+            "how to tie a tie wikihow",
+            "how to tie a tie double windsor knot",
+            "how to tie a tie easy video",
+            "how to tie a tie for kids",
+            "how to tie a tie half windsor"
+        ],
+        "duckduckgo": [
+            "how to tie a tie",
+            "how to tie a tie easy",
+            "how to tie a tie youtube",
+            "how to tie a tie windsor",
+            "how to tie a tie easily",
+            "how to tie a tie jayson tatum",
+            "how to tie a tie on your arm",
+            "how to tie a tie 2025"
+        ],
+        "ebay": [
+            "how to tie a tie step by step",
+            "how to tie a scarf"
+        ],
+        "google": [
+            "how to tie a tie",
+            "how to tie a tie easy",
+            "how to tie a tie step by step",
+            "how to tie a tie windsor knot",
+            "how to tie a tie in 3 steps",
+            "how to tie a tie on your arm",
+            "how to tie a tie video",
+            "how to tie a tie double windsor",
+            "how to tie a tie with hands",
+            "how to tie a tie youtube"
+        ],
+        "yahoo": [
+            "how to tie a tie",
+            "how to tie a tie step by step instructions",
+            "how to tie a tie video",
+            "how to tie a tie youtube",
+            "how to tie a tie for dummies",
+            "how to tie a tie on your arm",
+            "how to tie a tie for beginners",
+            "how to tie a tie windsor",
+            "how to tie a tie: easy guide to necktie knots",
+            "how to tie a tie step by step"
+        ],
+        "youtube": [
+            "how to tie a tie",
+            "how to tie a tie easy",
+            "how to tie a tie pov",
+            "how to tie a tie easy step by step",
+            "how to tie a tie fancy",
+            "how to tie a tie on someone else",
+            "how to tie a tie song",
+            "how to tie a tie on yourself",
+            "how to tie a tie tutorial",
+            "how to tie a tie for beginners"
+        ]
+    },
+    "related": {
+        "bing": [
+            [
+                0,
+                "tie knot types"
+            ],
+            [
+                1,
+                "standard tie knot types"
+            ],
+            [
+                2,
+                "mass tie knot types"
+            ],
+            [
+                3,
+                "tie rope knot types"
+            ],
+            [
+                4,
+                "is tie a type of knot"
+            ],
+            [
+                0,
+                "necktie styles"
+            ],
+            [
+                1,
+                "style necktie for work"
+            ],
+            [
+                2,
+                "red necktie styles"
+            ],
+            [
+                3,
+                "polyester necktie styles"
+            ],
+            [
+                4,
+                "wide necktie styles"
+            ],
+            [
+                5,
+                "current necktie styles for men"
+            ],
+            [
+                6,
+                "female necktie styles"
+            ],
+            [
+                7,
+                "style necktie for formal wear"
+            ],
+            [
+                8,
+                "skinny necktie style"
+            ],
+            [
+                0,
+                "tie clip placement"
+            ],
+            [
+                1,
+                "tie clip placement with jacket"
+            ],
+            [
+                2,
+                "proper tie clip placement"
+            ],
+            [
+                0,
+                "bow tie quilt tutorials"
+            ],
+            [
+                1,
+                "tie simple bow tutorial"
+            ],
+            [
+                2,
+                "how to tie a bow tutorial"
+            ],
+            [
+                3,
+                "ribbon bow tie tutorial"
+            ],
+            [
+                4,
+                "bow tie quilt block tutorial"
+            ],
+            [
+                5,
+                "how to tie a bow tie tutorial top"
+            ],
+            [
+                6,
+                "a tutorial on how to tie a bow tie"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "tie knot types"
+            ],
+            [
+                1,
+                "tie knots types rope"
+            ],
+            [
+                2,
+                "tie knot styles"
+            ],
+            [
+                3,
+                "standard tie knot types"
+            ],
+            [
+                4,
+                "mass tie knot types"
+            ],
+            [
+                5,
+                "tie rope knot types"
+            ],
+            [
+                6,
+                "is tie a type of knot"
+            ],
+            [
+                0,
+                "necktie styles"
+            ],
+            [
+                1,
+                "style necktie for work"
+            ],
+            [
+                2,
+                "wide necktie styles"
+            ],
+            [
+                3,
+                "red necktie styles"
+            ],
+            [
+                4,
+                "polyester necktie styles"
+            ],
+            [
+                5,
+                "current necktie styles for men"
+            ],
+            [
+                6,
+                "female necktie styles"
+            ],
+            [
+                7,
+                "style necktie for formal wear"
+            ],
+            [
+                0,
+                "tie clip placement"
+            ],
+            [
+                1,
+                "tie clip placement with jacket"
+            ],
+            [
+                2,
+                "proper placement for tie clip"
+            ],
+            [
+                0,
+                "bow tie quilt tutorials"
+            ],
+            [
+                1,
+                "tie simple bow tutorial"
+            ],
+            [
+                2,
+                "how to tie a bow tutorial"
+            ],
+            [
+                3,
+                "ribbon bow tie tutorial"
+            ],
+            [
+                4,
+                "bow tie quilt block tutorial"
+            ],
+            [
+                5,
+                "how to tie a bow tie tutorial top"
+            ],
+            [
+                6,
+                "a tutorial on how to tie a bow tie"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "tie knot types"
+            ],
+            [
+                1,
+                "tie knot types windsor"
+            ],
+            [
+                2,
+                "tie knot types chart"
+            ],
+            [
+                3,
+                "tie knot types with pictures"
+            ],
+            [
+                4,
+                "tie knot types rope"
+            ],
+            [
+                5,
+                "tie knot types for wedding"
+            ],
+            [
+                6,
+                "tie knot types video"
+            ],
+            [
+                7,
+                "tie knot types for men"
+            ],
+            [
+                8,
+                "necktie knot types"
+            ],
+            [
+                9,
+                "windsor knot types"
+            ],
+            [
+                0,
+                "necktie styles"
+            ],
+            [
+                1,
+                "necktie styles for men"
+            ],
+            [
+                2,
+                "necktie styles 2025"
+            ],
+            [
+                3,
+                "necktie styles for women"
+            ],
+            [
+                4,
+                "necktie styles by decade"
+            ],
+            [
+                5,
+                "necktie knot styles"
+            ],
+            [
+                6,
+                "current necktie styles"
+            ],
+            [
+                7,
+                "different necktie styles"
+            ],
+            [
+                8,
+                "latest necktie styles"
+            ],
+            [
+                9,
+                "necktie tying styles"
+            ],
+            [
+                0,
+                "tie clip placement"
+            ],
+            [
+                1,
+                "tie clip placement with jacket"
+            ],
+            [
+                2,
+                "tie clip placement without jacket"
+            ],
+            [
+                3,
+                "tie clip placement with vest"
+            ],
+            [
+                4,
+                "tie clip placement no jacket"
+            ],
+            [
+                5,
+                "tie clip placement left or right"
+            ],
+            [
+                6,
+                "tie clip placement men"
+            ],
+            [
+                7,
+                "tie clip placement usmc"
+            ],
+            [
+                8,
+                "tie pin placement"
+            ],
+            [
+                9,
+                "tie bar placement"
+            ],
+            [
+                0,
+                "bow tie tutorial"
+            ],
+            [
+                1,
+                "bow tie tutorial for beginners"
+            ],
+            [
+                2,
+                "bow tie tutorial ribbon"
+            ],
+            [
+                3,
+                "bow tie tutorial step by step"
+            ],
+            [
+                4,
+                "bow tie tutorial youtube"
+            ],
+            [
+                5,
+                "bow tie tutorial easy"
+            ],
+            [
+                6,
+                "bow tie tutorial sewing"
+            ],
+            [
+                7,
+                "bow tie tutorial video"
+            ],
+            [
+                8,
+                "bow tie diy"
+            ],
+            [
+                9,
+                "bow tie guide"
+            ],
+            [
+                0,
+                "ascot tie guide"
+            ],
+            [
+                1,
+                "ascot tying instructions"
+            ],
+            [
+                2,
+                "can you use a regular tie as an ascot"
+            ],
+            [
+                3,
+                "how to tie an ascot"
+            ],
+            [
+                4,
+                "how to tie a tie as an ascot"
+            ],
+            [
+                5,
+                "how to tie a formal ascot"
+            ],
+            [
+                0,
+                "bow tie length adjustment"
+            ],
+            [
+                1,
+                "tie rod length adjustment"
+            ],
+            [
+                2,
+                "how to adjust tie length"
+            ],
+            [
+                3,
+                "how to set tie length"
+            ],
+            [
+                4,
+                "how to choose tie length"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "tie knot types"
+            ],
+            [
+                1,
+                "tie knot types guide"
+            ],
+            [
+                2,
+                "dress tie knot types"
+            ],
+            [
+                3,
+                "dress tie knot types for men"
+            ],
+            [
+                4,
+                "how to tie knot types"
+            ],
+            [
+                0,
+                "necktie styles for men"
+            ],
+            [
+                1,
+                "women african-american necktie styles"
+            ],
+            [
+                2,
+                "different necktie styles"
+            ],
+            [
+                3,
+                "current necktie styles"
+            ],
+            [
+                4,
+                "colonial necktie styles"
+            ],
+            [
+                5,
+                "formal necktie styles"
+            ],
+            [
+                6,
+                "bolo necktie styles"
+            ],
+            [
+                7,
+                "current men's necktie styles"
+            ],
+            [
+                8,
+                "current necktie styles for men"
+            ],
+            [
+                0,
+                "tie clip placement"
+            ],
+            [
+                1,
+                "tie clip placement chart"
+            ],
+            [
+                2,
+                "tie clip placement pictures"
+            ],
+            [
+                3,
+                "proper tie clip placement"
+            ],
+            [
+                4,
+                "tie clips placement"
+            ],
+            [
+                0,
+                "bow tie tutorial"
+            ],
+            [
+                1,
+                "bow tie tutorial youtube"
+            ],
+            [
+                2,
+                "bow tie tutorial step by step"
+            ],
+            [
+                3,
+                "bow tie tutorial video"
+            ],
+            [
+                4,
+                "bow tie tutorial for beginners"
+            ],
+            [
+                0,
+                "ascot tying guide pdf"
+            ],
+            [
+                1,
+                "ascot tying guide printable"
+            ],
+            [
+                2,
+                "ascot tying guide youtube"
+            ],
+            [
+                3,
+                "ascot tying guide video"
+            ],
+            [
+                0,
+                "tie dimple techniques"
+            ],
+            [
+                1,
+                "tie dimple technique video"
+            ],
+            [
+                2,
+                "tie dimple technique step by step"
+            ],
+            [
+                3,
+                "tie dimple technique instructions"
+            ],
+            [
+                0,
+                "tie length adjustment chart"
+            ],
+            [
+                1,
+                "tie length adjustment tool"
+            ],
+            [
+                2,
+                "tie length adjustment for men"
+            ],
+            [
+                3,
+                "tie length adjustment instructions"
+            ],
+            [
+                0,
+                "tie pattern trends 2026"
+            ],
+            [
+                1,
+                "tie pattern trends 2025"
+            ],
+            [
+                2,
+                "tie pattern trends for men"
+            ],
+            [
+                3,
+                "tie pattern trends fall"
+            ]
+        ],
+        "youtube": [
+            [
+                0,
+                "tie knot types"
+            ],
+            [
+                1,
+                "tie knot styles"
+            ],
+            [
+                2,
+                "tie knot styles for school"
+            ],
+            [
+                3,
+                "tie knot styles for wedding"
+            ],
+            [
+                4,
+                "tie knot styles for men"
+            ],
+            [
+                5,
+                "tie knot styles easy"
+            ],
+            [
+                6,
+                "tie knot styles dress"
+            ],
+            [
+                7,
+                "tie knot styles malayalam"
+            ],
+            [
+                8,
+                "tie knot styles shoes"
+            ],
+            [
+                9,
+                "tie knot styles pants"
+            ],
+            [
+                0,
+                "necktie styles"
+            ],
+            [
+                1,
+                "necktie styles for women"
+            ],
+            [
+                0,
+                "tie clip placement"
+            ],
+            [
+                1,
+                "tie pin placement"
+            ],
+            [
+                2,
+                "neck tie clip placement"
+            ],
+            [
+                0,
+                "bow tie tutorial"
+            ],
+            [
+                1,
+                "bow tie tutorial easy ribbon"
+            ],
+            [
+                2,
+                "bow tie tutorial easy sewing"
+            ],
+            [
+                3,
+                "bow tie tutorial easy"
+            ],
+            [
+                4,
+                "bow tie tutorial easy gift"
+            ],
+            [
+                5,
+                "bow tie tutorial easy clip"
+            ],
+            [
+                6,
+                "bow tie tutorial easy drawing"
+            ],
+            [
+                7,
+                "bow tie tutorial easy crochet"
+            ],
+            [
+                8,
+                "bow tie tutorial easy kandi"
+            ],
+            [
+                9,
+                "bow tie tutorial slow"
+            ]
+        ]
+    },
+    "wikipedia": {
+        "articles": [
+            {
+                "title": "The 85 Ways to Tie a Tie",
+                "views": 1156,
+                "counted": false,
+                "fromConcept": false,
+                "coverage": 0.5
+            }
+        ],
+        "sections": 4,
+        "types": []
+    },
+    "pages": [
+        {
+            "group": "Tie Knots",
+            "title": "how to tie a tie windsor",
+            "intent": "informational",
+            "keywords": [
+                "how to tie a tie windsor",
+                "windsor knot",
+                "how to tie a tie easy",
+                "how to tie a tie step by step",
+                "how to tie a tie easily"
+            ]
+        },
+        {
+            "group": "Tie Knots",
+            "title": "tie knot types",
+            "intent": "informational",
+            "keywords": [
+                "tie knot types",
+                "tie knots types rope",
+                "tie knot styles",
+                "standard tie knot types",
+                "four in hand knot",
+                "half windsor knot"
+            ]
+        },
+        {
+            "group": "Bow Ties",
+            "title": "bow tie tutorial",
+            "intent": "informational",
+            "keywords": [
+                "bow tie tutorial",
+                "bow tie tutorial for beginners",
+                "bow tie tutorial step by step",
+                "bow tie tutorial youtube"
+            ]
+        },
+        {
+            "group": "Bow Ties",
+            "title": "bow tie tutorial ribbon",
+            "intent": "informational",
+            "keywords": [
+                "bow tie tutorial ribbon",
+                "tie simple bow tutorial",
+                "how to tie a bow tutorial"
+            ]
+        },
+        {
+            "group": "Necktie Styles",
+            "title": "necktie styles",
+            "intent": "informational",
+            "keywords": [
+                "necktie styles",
+                "necktie",
+                "tie care",
+                "tie color",
+                "tie fabric",
+                "tie length",
+                "tie occasion",
+                "tie pattern",
+                "tie width",
+                "necktie styles for men",
+                "necktie styles for women",
+                "red necktie styles"
+            ]
+        },
+        {
+            "group": "Necktie Styles",
+            "title": "style necktie for work",
+            "intent": "informational",
+            "keywords": [
+                "style necktie for work"
+            ]
+        },
+        {
+            "group": "Tie Accessories",
+            "title": "tie clip placement",
+            "intent": "informational",
+            "keywords": [
+                "tie clip placement",
+                "tie clip placement with jacket",
+                "proper tie clip placement"
+            ]
+        }
+    ],
+    "categories": {
+        "how to tie a tie easy": "core",
+        "tie clip placement": "core",
+        "tie knot types": "core",
+        "how to tie a tie youtube": "doubtful",
+        "necktie styles": "core",
+        "how to tie a tie step by step": "core",
+        "bow tie tutorial": "core",
+        "how to tie a tie video": "doubtful",
+        "how to tie a tie windsor": "core",
+        "tie clip placement with jacket": "core",
+        "how to tie a tie on your arm": "doubtful",
+        "proper tie clip placement": "core",
+        "bow tie tutorial ribbon": "complementary",
+        "tie knots types rope": "complementary",
+        "how to tie a tie easily": "complementary",
+        "necktie styles for men": "complementary",
+        "style necktie for work": "complementary",
+        "tie knot styles": "complementary",
+        "tie simple bow tutorial": "complementary",
+        "how to tie a bow tutorial": "complementary",
+        "necktie styles for women": "complementary",
+        "standard tie knot types": "complementary",
+        "bow tie tutorial for beginners": "complementary",
+        "bow tie tutorial step by step": "complementary",
+        "bow tie tutorial youtube": "complementary",
+        "red necktie styles": "complementary",
+        "four in hand knot": "core",
+        "windsor knot": "core",
+        "half windsor knot": "core",
+        "tie width": "core",
+        "tie length": "core",
+        "tie fabric": "core",
+        "tie pattern": "core",
+        "tie color": "core",
+        "tie occasion": "core",
+        "tie care": "core",
+        "necktie": "core",
+        "bow tie quilt tutorials": "doubtful",
+        "how to tie a scarf": "doubtful"
+    }
+}
