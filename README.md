@@ -8,7 +8,7 @@ eight engines with the encyclopedic vocabulary of the topic, builds a content pl
 
 Live demo: https://net-labs.fr/semseeker (French and English)
 
-![Results for "maison écologique": measures, advice, keyword cards and semantic field](docs/results.png)
+![Results for "voyage au japon": measures, advice, keyword cards and semantic field](docs/results.png)
 
 ## What it does
 

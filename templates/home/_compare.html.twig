@@ -2,16 +2,17 @@
 {% set tiers = constant('App\\Suggest\\Keyword::TIER_THRESHOLDS') %}
 {% set plan = [
     {title: 'p1', intent: 'informational', sections: [
-        {h2: 'labels', added: true, term: ['t_label', 'core', 41]},
+        {h2: 'cities', added: false, term: ['t_cities', 'core', 50]},
+        {h2: 'culture', added: true, term: ['t_culture', 'core', 60]},
     ]},
     {title: 'p2', intent: 'commercial', sections: [
-        {h2: 'types', added: false, term: ['t_wood', 'core', 52]},
-        {h2: 'materials', added: false, term: ['t_materials', 'complementary', 27]},
-        {h2: 'cost', added: true, term: ['t_price', 'commercial', 47]},
+        {h2: 'cost', added: true, term: ['t_budget', 'commercial', 38]},
+        {h2: 'transport', added: false, term: ['t_transport', 'core', 40]},
+        {h2: 'lodging', added: false, term: ['t_lodging', 'core', 30]},
     ]},
     {title: 'p3', intent: 'transactional', sections: [
-        {h2: 'builder', added: false, term: ['t_builder', 'commercial', 29]},
-        {h2: 'aids', added: false, term: ['t_aids', 'commercial', 18]},
+        {h2: 'visa', added: true, term: ['t_visa', 'core', 40]},
+        {h2: 'package', added: false, term: ['t_package', 'commercial', 18]},
     ]},
 ] %}
 <div class="compare">

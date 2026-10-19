@@ -77,5 +77,8 @@
         "why": "Offres de protection informatique pour les entreprises ; la demande locale (audit à Lyon, Toulouse…) mérite des pages par ville en second."},
     {"expression": "voiture électrique", "verdicts": ["category", "product", "pillar_commercial", "comparison"], "acceptable": ["pillar"], "page": true, "intent": "commercial",
         "topics": ["autonomie", "borne|recharge", "batterie", "occasion", "prix", "bonus|subvention|aide|prime", "comparatif"], "noise": ["enfant"],
-        "why": "Un univers produit large, sans réduire l'expression à un modèle précis ; la voiture électrique pour enfant est un jouet."}
+        "why": "Un univers produit large, sans réduire l'expression à un modèle précis ; la voiture électrique pour enfant est un jouet."},
+    {"expression": "voyage au japon", "verdicts": ["pillar", "pillar_commercial"], "page": true, "intent": "informational",
+        "topics": ["itineraire|circuit", "jr pass|transport", "visa|formalites", "budget|prix|cout", "quand partir|saison|meteo", "hebergement|hotel|ryokan", "tokyo", "kyoto"], "noise": ["maroc", "algerie", "tunisie"],
+        "why": "Destination rêvée : la SERP mêle guides de voyage et agences ; exemple de la page d'accueil et de la capture du README."}
 ]

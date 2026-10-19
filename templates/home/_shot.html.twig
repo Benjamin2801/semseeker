@@ -4,7 +4,7 @@
     <span class="shot-progress"><span class="is-done"></span><span class="is-done"></span><span></span></span>
     <span class="shot-mono">~ 20 s</span>
 {% elseif step == 'measure' %}
-    {% set measures = {demand: 55, orientation: 63, notoriety: 25, depth: 41} %}
+    {% set measures = {demand: 79, orientation: 27, notoriety: 42, depth: 49} %}
     <span class="shot-measures">
         <svg class="radar" viewBox="0 0 96 96" width="56" height="56">
             <g class="radar-grid"><polygon points="48,6 90,48 48,90 6,48"/><polygon points="48,27 69,48 48,69 27,48"/></g>
@@ -17,8 +17,8 @@
 {% elseif step == 'structure' %}
     <span class="shot-tree">
         <span class="shot-theme">{{ 'home.method.structure.example_theme'|trans }}</span>
-        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'target', size: 10, class: 'term-icon category-core'}) }}{{ 'home.method.structure.example_a'|trans }}<sup class="term-score score-tier-5">58</sup></span>
-        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'tag', size: 10, class: 'term-icon category-commercial'}) }}{{ 'home.method.structure.example_b'|trans }}<sup class="term-score score-tier-3">27</sup></span>
+        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'target', size: 10, class: 'term-icon category-core'}) }}{{ 'home.method.structure.example_a'|trans }}<sup class="term-score score-tier-4">40</sup></span>
+        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'tag', size: 10, class: 'term-icon category-commercial'}) }}{{ 'home.method.structure.example_b'|trans }}<sup class="term-score score-tier-4">38</sup></span>
     </span>
 {% else %}
     <span class="button-secondary is-small is-keywords">{{ include('search/_icon.svg.twig', {name: 'copy'}) }}{{ 'structure.copy_keywords'|trans }}</span>
