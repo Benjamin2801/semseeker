@@ -21,6 +21,12 @@ final class Lexicon
         'job' => ['salaire', 'formation', 'fiche metier', 'emploi', 'recrutement', 'offre d emploi', 'diplome', 'devenir', 'salary', 'training', 'job', 'jobs', 'career', 'become'],
     ];
 
+    // Indices qui ont un autre sens courant : récompense (prix), métier (aide-soignant), examen (test), vêtement (top),
+    // nom propre (Nouvelle-Calédonie), fruit ou échéance (date), offre de cours (formation), citation (quote), ordre (order).
+    // Portés par l'expression, ils ne décident du type de page que si les suggestions confirment ce sens.
+    public const AMBIGUOUS_CUES = ['prix', 'aide', 'aides', 'prime', 'primes', 'test', 'top', 'nouveau', 'nouvelle', 'date', 'sortie',
+        'annonce', 'formation', 'pose', 'training', 'review', 'reviews', 'quote', 'report', 'release', 'update'];
+
     public const INTENT_CUES = [
         'transactional' => ['acheter', 'achat', 'commander', 'devis', 'installateur', 'poseur', 'buy', 'order', 'quote', 'hire'],
         'commercial' => ['prix', 'tarif', 'tarifs', 'cout', 'combien', 'avis', 'meilleur', 'meilleure', 'meilleurs', 'meilleures',

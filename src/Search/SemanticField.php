@@ -62,8 +62,9 @@ final class SemanticField
      * @param list<PlanGroup>     $plan
      * @param array<int, Keyword> $keywords
      */
-    public static function build(array $plan, array $keywords, int $maxGroups = \PHP_INT_MAX, int $maxKeywordsPerGroup = \PHP_INT_MAX): self
+    public static function build(array $plan, array $keywords, int $maxGroups = \PHP_INT_MAX, int $maxKeywordsPerGroup = \PHP_INT_MAX, ?LexicalContext $context = null): self
     {
+        $plan = self::withTitlesAtHome($plan, $keywords);
         $placed = [];
         $take = static function (array $positions) use (&$placed, $keywords): array {
             $taken = [];
@@ -120,7 +121,7 @@ final class SemanticField
                         $fieldSections[] = [$sectionTitle, $pick(array_values($inSection))];
                     }
                 }
-                if (null !== $page = self::page($title, $intent, $pick($pagePositions), $fieldSections)) {
+                if (null !== $page = self::page($title, $intent, $pick($pagePositions), $fieldSections, $context)) {
                     $pages[] = $page;
                 }
             }
@@ -137,10 +138,56 @@ final class SemanticField
     }
 
     /**
+     * Un mot-clé qui porte le titre d'une page lui revient, même si le modèle l'a rangé ailleurs : sinon deux pages
+     * se disputent la même requête (« pompe à chaleur air-eau » en page et en section d'une autre page).
+     *
+     * @param list<PlanGroup>     $plan
+     * @param array<int, Keyword> $keywords
+     *
+     * @return list<PlanGroup>
+     */
+    private static function withTitlesAtHome(array $plan, array $keywords): array
+    {
+        $home = [];
+        foreach ($plan as $g => $group) {
+            foreach ($group['pages'] as $p => $page) {
+                $home[SuggestionMerger::key($page['title'])] ??= [$g, $p];
+            }
+        }
+        $owner = [];
+        foreach ($keywords as $position => $keyword) {
+            if (isset($home[$key = SuggestionMerger::key($keyword->text)])) {
+                $owner[$position] = $home[$key];
+            }
+        }
+        if ([] === $owner) {
+            return $plan;
+        }
+
+        foreach ($plan as $g => $group) {
+            foreach ($group['pages'] as $p => $page) {
+                $elsewhere = static fn (int $position): bool => isset($owner[$position]) && $owner[$position] !== [$g, $p];
+                $page['keywords'] = array_values(array_filter($page['keywords'], static fn (int $position): bool => !$elsewhere($position)));
+                foreach ($page['sections'] as $s => $section) {
+                    $page['sections'][$s]['keywords'] = array_values(array_filter($section['keywords'], static fn (int $position): bool => !$elsewhere($position)));
+                }
+                foreach (array_keys($owner, [$g, $p], true) as $position) {
+                    if (!\in_array($position, $page['keywords'], true)) {
+                        array_unshift($page['keywords'], $position);
+                    }
+                }
+                $plan[$g]['pages'][$p] = $page;
+            }
+        }
+
+        return $plan;
+    }
+
+    /**
      * @param array<int, Keyword>                      $keywords
      * @param list<array{string, array<int, Keyword>}> $sections
      */
-    private static function page(string $title, ?Intent $intent, array $keywords, array $sections): ?FieldPage
+    private static function page(string $title, ?Intent $intent, array $keywords, array $sections, ?LexicalContext $context = null): ?FieldPage
     {
         $candidates = [] !== $keywords ? $keywords : array_merge(...array_column($sections, 1));
         if ([] === $candidates) {
@@ -162,7 +209,7 @@ final class SemanticField
         $others = array_filter($keywords, static fn (Keyword $k): bool => $k !== $main);
         $page = new FieldPage('' !== $title ? $title : $main->text, $main, self::sorted($others), $fieldSections, $intent);
 
-        $cue = Intent::fromKeywords(array_map(static fn (Keyword $k): string => $k->text, $page->getAllKeywords()));
+        $cue = Intent::fromKeywords(array_map(static fn (Keyword $k): string => $k->text, $page->getAllKeywords()), $context);
         if (null !== $cue && Intent::Commercial !== $intent && Intent::Transactional !== $intent) {
             $page = new FieldPage($page->title, $main, $page->keywords, $fieldSections, $cue);
         }

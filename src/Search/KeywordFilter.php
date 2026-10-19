@@ -39,13 +39,18 @@ final class KeywordFilter
         ],
     ];
 
-    public function excludes(string $keyword, string $seed, string $lang): bool
+    // Un nom reconnu par Wikipédia (« Paris-Brest », « Traité de Versailles ») ne contient pas de ville.
+    public function excludes(string $keyword, string $seed, string $lang, ?LexicalContext $context = null): bool
     {
+        [$keyword, $seed] = null !== $context ? [$context->read($keyword), $context->read($seed)] : [$keyword, $seed];
+
         return $this->matches([...self::LOCAL_PATTERNS, ...self::PATTERNS], $keyword, $seed) || $this->namesCity($keyword, $seed, $lang);
     }
 
-    public function isLocal(string $keyword, string $seed, string $lang): bool
+    public function isLocal(string $keyword, string $seed, string $lang, ?LexicalContext $context = null): bool
     {
+        [$keyword, $seed] = null !== $context ? [$context->read($keyword), $context->read($seed)] : [$keyword, $seed];
+
         return $this->matches(self::LOCAL_PATTERNS, $keyword, $seed) || $this->namesCity($keyword, $seed, $lang);
     }
 

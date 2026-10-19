@@ -1,0 +1,661 @@
+{
+    "expression": "cybersécurité entreprise",
+    "lang": "fr",
+    "recorded": "2026-10-19",
+    "sources": [
+        "amazon",
+        "bing",
+        "duckduckgo",
+        "ebay",
+        "google",
+        "indeed",
+        "yahoo",
+        "youtube"
+    ],
+    "failed": [],
+    "concepts": [
+        "audit cybersécurité",
+        "formation sensibilisation cybersécurité",
+        "sécurité réseau entreprise",
+        "protection données personnelles",
+        "gestion risques cyber",
+        "cyberassurance entreprise",
+        "sécurité cloud entreprise",
+        "menaces cyber entreprise"
+    ],
+    "suggestions": {
+        "bing": [
+            "cybersécurité entreprise",
+            "cybersécurité entreprise audit",
+            "cybersécurité entreprise risques",
+            "cybersécurité entreprise conseils",
+            "cybersécurité entreprise formation",
+            "cybersécurité entreprise solutions",
+            "cybersécurité entreprise lyon",
+            "cybersécurité entreprises technologiques",
+            "cybersécurité entreprise liste",
+            "cybersécurité entreprise france",
+            "cybersécurité entreprise rennes",
+            "cybersécurité entreprise française"
+        ],
+        "duckduckgo": [
+            "cybersécurité entreprise",
+            "cybersécurité entreprise audit",
+            "cybersécurité entreprise risques",
+            "cybersécurité entreprise conseils",
+            "cybersécurité entreprise formation",
+            "cybersécurité entreprise solutions",
+            "cybersécurité entreprise lyon",
+            "cybersécurité entreprises technologiques"
+        ],
+        "google": [
+            "cybersécurité entreprise",
+            "cybersécurité entreprise france",
+            "cybersécurité entreprise paris",
+            "cybersécurité entreprise autour de moi",
+            "cybersécurité entreprise maroc",
+            "cybersécurité entreprise lyon",
+            "cybersécurité entreprise rennes",
+            "cybersécurité entreprise toulouse",
+            "cybersécurité entreprise alternance",
+            "cybersécurité entreprise montpellier"
+        ],
+        "yahoo": [
+            "cybersécurité entreprise de",
+            "cybersécurité entreprise transport",
+            "cybersécurité entreprise isolation",
+            "cybersécurité entreprise fibre"
+        ],
+        "youtube": [
+            "cybersécurité entreprise"
+        ]
+    },
+    "related": {
+        "bing": [
+            [
+                0,
+                "audit cybersécurité"
+            ],
+            [
+                1,
+                "audit cybersécurité gratuit"
+            ],
+            [
+                2,
+                "audit cybersécurité toulouse"
+            ],
+            [
+                3,
+                "audit cybersécurité ot"
+            ],
+            [
+                4,
+                "audit cybersécurité dijon"
+            ],
+            [
+                5,
+                "audit en cybersécurité"
+            ],
+            [
+                0,
+                "formation sensibilisation cybersécurité"
+            ],
+            [
+                0,
+                "protection données personnelles france"
+            ],
+            [
+                1,
+                "protection données personnelles belgique"
+            ],
+            [
+                2,
+                "protection données personnelles maroc"
+            ],
+            [
+                3,
+                "protection données personnelles burkina faso"
+            ],
+            [
+                4,
+                "protection données personnelles canada"
+            ],
+            [
+                5,
+                "protection données personnelles sénégal"
+            ],
+            [
+                6,
+                "protection données personnelles rgpd"
+            ],
+            [
+                7,
+                "protection données personnelles côte d'ivoire"
+            ],
+            [
+                8,
+                "protection des données personnelles"
+            ],
+            [
+                9,
+                "la protection des données personnelles"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
+            ],
+            [
+                0,
+                "cyber assurance entreprise"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "audit cybersécurité"
+            ],
+            [
+                1,
+                "audit cybersécurité gratuit"
+            ],
+            [
+                2,
+                "audit cybersécurité toulouse"
+            ],
+            [
+                3,
+                "audit cybersécurité ot"
+            ],
+            [
+                4,
+                "audit cybersécurité dijon"
+            ],
+            [
+                5,
+                "audit en cybersécurité"
+            ],
+            [
+                0,
+                "formation sensibilisation cybersécurité"
+            ],
+            [
+                0,
+                "protection données personnelles france"
+            ],
+            [
+                1,
+                "protection données personnelles belgique"
+            ],
+            [
+                2,
+                "protection données personnelles maroc"
+            ],
+            [
+                3,
+                "protection données personnelles burkina faso"
+            ],
+            [
+                4,
+                "protection données personnelles canada"
+            ],
+            [
+                5,
+                "protection données personnelles sénégal"
+            ],
+            [
+                6,
+                "protection données personnelles rgpd"
+            ],
+            [
+                7,
+                "protection données personnelles côte d'ivoire"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
+            ],
+            [
+                0,
+                "cyber assurance entreprise"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "audit cybersécurité"
+            ],
+            [
+                1,
+                "audit cybersécurité exemple"
+            ],
+            [
+                2,
+                "audit cybersécurité pme"
+            ],
+            [
+                3,
+                "audit cybersécurité anssi"
+            ],
+            [
+                4,
+                "audit cybersécurité paris"
+            ],
+            [
+                5,
+                "audit cybersécurité pdf"
+            ],
+            [
+                6,
+                "audit cybersécurité dijon"
+            ],
+            [
+                7,
+                "audit cybersécurité salaire"
+            ],
+            [
+                8,
+                "audit cybersécurité prix"
+            ],
+            [
+                9,
+                "audit cybersécurité tunisie"
+            ],
+            [
+                0,
+                "formation sensibilisation cybersécurité"
+            ],
+            [
+                1,
+                "formation sensibilisation cybersécurité entreprise"
+            ],
+            [
+                2,
+                "formation sensibilisation cyber"
+            ],
+            [
+                0,
+                "sécurité réseau entreprise"
+            ],
+            [
+                1,
+                "sécurité informatique entreprise"
+            ],
+            [
+                2,
+                "protection informatique entreprise"
+            ],
+            [
+                3,
+                "système sécurité entreprise"
+            ],
+            [
+                4,
+                "sécurité informatique société"
+            ],
+            [
+                5,
+                "service sécurité informatique entreprise"
+            ],
+            [
+                6,
+                "charte sécurité informatique entreprise"
+            ],
+            [
+                7,
+                "sensibilisation sécurité informatique entreprise"
+            ],
+            [
+                8,
+                "formation sécurité informatique entreprise"
+            ],
+            [
+                0,
+                "protection données personnelles"
+            ],
+            [
+                1,
+                "protection données personnelles france"
+            ],
+            [
+                2,
+                "protection données personnelles algerie"
+            ],
+            [
+                3,
+                "protection données personnelles maroc"
+            ],
+            [
+                4,
+                "protection données personnelles belgique"
+            ],
+            [
+                5,
+                "protection données personnelles canada"
+            ],
+            [
+                6,
+                "protection données personnelles burkina faso"
+            ],
+            [
+                7,
+                "protection données personnelles cote d ivoire"
+            ],
+            [
+                8,
+                "protection données personnelles senegal"
+            ],
+            [
+                9,
+                "protection données personnelles europe"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
+            ],
+            [
+                1,
+                "gestion des risques cyber"
+            ],
+            [
+                2,
+                "politique de gestion des risques cyber"
+            ],
+            [
+                3,
+                "formation gestion des risques cyber"
+            ],
+            [
+                0,
+                "cyber assurance entreprise"
+            ],
+            [
+                0,
+                "cloud security enterprise"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "audit cybersécurité pour"
+            ],
+            [
+                1,
+                "audit cybersécurité définition"
+            ],
+            [
+                2,
+                "audit cybersécurité formation"
+            ],
+            [
+                3,
+                "audit cybersécurité sfr"
+            ],
+            [
+                0,
+                "formation cybersécurité"
+            ],
+            [
+                1,
+                "formation cybersécurité en ligne"
+            ],
+            [
+                2,
+                "formation cybersécurité pour débutant"
+            ],
+            [
+                3,
+                "formation cybersécurité epita"
+            ],
+            [
+                0,
+                "sécurité réseau entreprise"
+            ],
+            [
+                1,
+                "sécurité entreprise"
+            ],
+            [
+                0,
+                "protection données personnelles"
+            ],
+            [
+                1,
+                "autorités protection données personnelles france"
+            ],
+            [
+                2,
+                "autorités protection données personnelles sénégal"
+            ],
+            [
+                3,
+                "protection des données personnelles"
+            ],
+            [
+                0,
+                "gestion cyber"
+            ],
+            [
+                0,
+                "cyber assurance entreprise multirisque"
+            ],
+            [
+                1,
+                "cyber assurance entreprise pro"
+            ],
+            [
+                2,
+                "cyber assurance entreprise du bâtiment"
+            ],
+            [
+                3,
+                "cyber assurance entreprise obligatoire"
+            ],
+            [
+                0,
+                "securite cloud entreprise dédié"
+            ],
+            [
+                1,
+                "sécurité entreprise"
+            ],
+            [
+                0,
+                "menaces cyber entreprise de"
+            ],
+            [
+                1,
+                "menaces cyber entreprise transport"
+            ],
+            [
+                2,
+                "menaces cyber entreprise isolation"
+            ],
+            [
+                3,
+                "menaces cyber entreprise fibre"
+            ]
+        ],
+        "youtube": [
+            [
+                0,
+                "audit cybersécurité"
+            ],
+            [
+                0,
+                "securite informatique en entreprise"
+            ],
+            [
+                0,
+                "protection données personnelles"
+            ],
+            [
+                1,
+                "protection des données personnelles rgpd"
+            ],
+            [
+                2,
+                "protection des données personnelles maroc"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
+            ]
+        ]
+    },
+    "wikipedia": {
+        "articles": [
+            {
+                "title": "Cybersécurité",
+                "views": 3463,
+                "counted": false,
+                "fromConcept": false,
+                "coverage": 0.565
+            },
+            {
+                "title": "Entreprise",
+                "views": 5151,
+                "counted": false,
+                "fromConcept": false,
+                "coverage": 0.435
+            }
+        ],
+        "sections": 3,
+        "types": [
+            "identity threat detection and response"
+        ]
+    },
+    "pages": [
+        {
+            "group": "Protection des données",
+            "title": "protection données personnelles",
+            "intent": "informational",
+            "keywords": [
+                "protection données personnelles",
+                "chiffrement données",
+                "sauvegarde données entreprise",
+                "protection données personnelles maroc",
+                "protection données personnelles france",
+                "protection données personnelles belgique",
+                "protection des données personnelles rgpd",
+                "conformité rgpd"
+            ]
+        },
+        {
+            "group": "Protection des données",
+            "title": "sécurité réseau entreprise",
+            "intent": "commercial",
+            "keywords": [
+                "sécurité réseau entreprise",
+                "authentification multifacteur",
+                "pare-feu entreprise",
+                "sécurité des applications web",
+                "sécurité des endpoints",
+                "sécurité des infrastructures critiques",
+                "sécurité des systèmes d'information",
+                "securite informatique en entreprise",
+                "cloud security enterprise",
+                "sécurité du cloud",
+                "securite cloud entreprise dédié",
+                "sécurité des infrastructures du cloud"
+            ]
+        },
+        {
+            "group": "Audit et gestion des risques",
+            "title": "audit cybersécurité",
+            "intent": "commercial",
+            "keywords": [
+                "audit cybersécurité",
+                "identity threat detection and response",
+                "plan continuité activité",
+                "gestion des risques cybersécurité",
+                "gestion vulnérabilités",
+                "cybersécurité entreprise audit",
+                "cybersécurité entreprise risques"
+            ]
+        },
+        {
+            "group": "Audit et gestion des risques",
+            "title": "gestion cyber",
+            "intent": "informational",
+            "keywords": [
+                "gestion cyber",
+                "menaces cyber entreprise de",
+                "cyberdéfense",
+                "cybersécurité entreprise conseils"
+            ]
+        },
+        {
+            "group": "Assurance et formation",
+            "title": "cyber assurance entreprise",
+            "intent": "commercial",
+            "keywords": [
+                "cyber assurance entreprise",
+                "cyber assurance entreprise multirisque",
+                "cybersécurité entreprise maroc"
+            ]
+        },
+        {
+            "group": "Assurance et formation",
+            "title": "formation sensibilisation cybersécurité",
+            "intent": "informational",
+            "keywords": [
+                "formation sensibilisation cybersécurité",
+                "formation cybersécurité",
+                "cybersécurité entreprise formation"
+            ]
+        },
+        {
+            "group": "Secteurs spécifiques",
+            "title": "cybersécurité entreprise france",
+            "intent": "informational",
+            "keywords": [
+                "cybersécurité entreprise france"
+            ]
+        }
+    ],
+    "categories": {
+        "audit cybersécurité": "core",
+        "protection données personnelles": "core",
+        "gestion des risques cybersécurité": "core",
+        "protection données personnelles maroc": "core",
+        "cyber assurance entreprise": "core",
+        "formation sensibilisation cybersécurité": "core",
+        "sécurité réseau entreprise": "core",
+        "protection données personnelles france": "core",
+        "securite informatique en entreprise": "core",
+        "cybersécurité entreprise france": "core",
+        "protection données personnelles belgique": "core",
+        "cybersécurité entreprise audit": "core",
+        "cybersécurité entreprise transport": "doubtful",
+        "protection des données personnelles rgpd": "core",
+        "cybersécurité entreprise risques": "core",
+        "cybersécurité entreprise isolation": "doubtful",
+        "cybersécurité entreprise conseils": "complementary",
+        "cybersécurité entreprise fibre": "doubtful",
+        "cybersécurité entreprise formation": "complementary",
+        "cloud security enterprise": "complementary",
+        "cyber assurance entreprise multirisque": "complementary",
+        "cybersécurité entreprise maroc": "complementary",
+        "formation cybersécurité": "complementary",
+        "gestion cyber": "complementary",
+        "menaces cyber entreprise de": "complementary",
+        "securite cloud entreprise dédié": "complementary",
+        "pare-feu entreprise": "core",
+        "chiffrement données": "complementary",
+        "sauvegarde données entreprise": "core",
+        "plan continuité activité": "complementary",
+        "gestion vulnérabilités": "complementary",
+        "sécurité des endpoints": "complementary",
+        "authentification multifacteur": "complementary",
+        "sécurité des applications web": "complementary",
+        "conformité rgpd": "complementary",
+        "sécurité des infrastructures critiques": "complementary",
+        "cyberdéfense": "complementary",
+        "sécurité des systèmes d'information": "complementary",
+        "sécurité du cloud": "complementary",
+        "sécurité des infrastructures du cloud": "complementary",
+        "identity threat detection and response": "complementary",
+        "protection données personnelles burkina faso": "doubtful",
+        "protection données personnelles canada": "doubtful"
+    }
+}

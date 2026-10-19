@@ -18,10 +18,10 @@
         "école aviation",
         "coût formation pilote",
         "salaire pilote de ligne",
-        "licence pilote professionnel",
+        "test aptitude pilote",
         "simulateur de vol",
         "carrière aviation",
-        "examen médical pilote"
+        "compagnies aériennes recrutement"
     ],
     "suggestions": {
         "amazon": [
@@ -279,7 +279,7 @@
             ],
             [
                 0,
-                "licence pilote professionnel"
+                "pilote aptitude test"
             ],
             [
                 0,
@@ -351,7 +351,7 @@
             ],
             [
                 0,
-                "examen médical pilote de ligne"
+                "compagnies aériennes recrutement"
             ]
         ],
         "duckduckgo": [
@@ -457,7 +457,7 @@
             ],
             [
                 0,
-                "licence pilote professionnel"
+                "pilote aptitude test"
             ],
             [
                 0,
@@ -513,7 +513,7 @@
             ],
             [
                 0,
-                "examen médical pilote de ligne"
+                "compagnies aériennes recrutement"
             ]
         ],
         "ebay": [
@@ -685,43 +685,7 @@
             ],
             [
                 0,
-                "licence pilote professionnel"
-            ],
-            [
-                1,
-                "licence pilote professionnel cpl"
-            ],
-            [
-                2,
-                "licence pilote professionnel helicoptere"
-            ],
-            [
-                3,
-                "licence pilote professionnel avion"
-            ],
-            [
-                4,
-                "licence pilote professionnel prix"
-            ],
-            [
-                5,
-                "brevet de pilote professionnel"
-            ],
-            [
-                6,
-                "licence pilote de ligne"
-            ],
-            [
-                7,
-                "licence pilote hélicoptère professionnel prix"
-            ],
-            [
-                8,
-                "licence de pilote professionnel d'hélicoptère cpl (h) ir théorique"
-            ],
-            [
-                9,
-                "licence de pilote professionnel avion cpl a"
+                "test aptitude pilote"
             ],
             [
                 0,
@@ -805,43 +769,7 @@
             ],
             [
                 0,
-                "examen médical pilote de ligne"
-            ],
-            [
-                1,
-                "examen medical pilote avion"
-            ],
-            [
-                2,
-                "examen medical pilote"
-            ],
-            [
-                3,
-                "examen medical pilote privé"
-            ],
-            [
-                4,
-                "examen medical pilote helicoptere"
-            ],
-            [
-                5,
-                "certificat medical pilote de ligne"
-            ],
-            [
-                6,
-                "certificat medical pilote ulm"
-            ],
-            [
-                7,
-                "certificat medical pilote"
-            ],
-            [
-                8,
-                "certificat médical pilote privé"
-            ],
-            [
-                9,
-                "test medical pilote"
+                "compagnie aérienne recrutement"
             ]
         ],
         "indeed": [
@@ -921,19 +849,7 @@
             ],
             [
                 0,
-                "licence professionnelle"
-            ],
-            [
-                1,
-                "licence professionnelle maroc"
-            ],
-            [
-                2,
-                "licence professionnelle ressources humaines"
-            ],
-            [
-                3,
-                "licence professionnelle commerce"
+                "test pilote"
             ],
             [
                 0,
@@ -993,19 +909,19 @@
             ],
             [
                 0,
-                "examen medical pilote imprimante"
+                "compagnies aériennes récrutement"
             ],
             [
                 1,
-                "examen medical pilote hp"
+                "compagnies aériennes recrutement sncf"
             ],
             [
                 2,
-                "examen medical pilote nvidia"
+                "compagnies aériennes recrutement leclerc"
             ],
             [
                 3,
-                "examen medical pilotes"
+                "compagnies aériennes recrutement carrefour"
             ]
         ],
         "youtube": [
@@ -1148,31 +1064,54 @@
     },
     "pages": [
         {
+            "group": "Carrière",
+            "title": "salaire pilote de ligne",
+            "intent": "informational",
+            "keywords": [
+                "salaire pilote de ligne",
+                "devenir pilote de ligne air france",
+                "salaire pilote de ligne air france",
+                "salaire pilote de ligne emirates"
+            ]
+        },
+        {
+            "group": "Carrière",
+            "title": "compagnies aériennes recrutement",
+            "intent": "transactional",
+            "keywords": [
+                "compagnies aériennes recrutement",
+                "pay to fly",
+                "pilote d'essai",
+                "devenir pilote de ligne à 40 ans",
+                "jobs aviation",
+                "pilote aptitude test"
+            ]
+        },
+        {
             "group": "Formation",
             "title": "formation pilote de ligne",
             "intent": "informational",
             "keywords": [
                 "formation pilote de ligne",
+                "anglais",
                 "avion",
                 "avion de ligne",
-                "commandant de bord",
-                "copilote",
-                "formation intégrée",
-                "formation modulaire",
+                "compétences techniques",
+                "entraînement simulateur",
+                "examen médical",
+                "expériences de vol",
                 "heures de vol",
-                "hélicoptère",
                 "instructeur",
+                "licence pilote",
                 "navigation aérienne",
-                "pay to fly",
                 "pilotage d'un avion",
-                "pilote d'essai",
+                "qualification de type",
                 "sécurité aérienne",
-                "théorie aviation",
-                "vol aux instruments",
+                "théorie du vol",
                 "coût formation pilote de ligne",
-                "examen médical pilote de ligne",
                 "formation pilote de ligne gratuite",
-                "formation pilote de ligne prix"
+                "formation pilote de ligne prix",
+                "formation pilote de ligne air france"
             ]
         },
         {
@@ -1181,38 +1120,9 @@
             "intent": "commercial",
             "keywords": [
                 "ecole aviation",
-                "licence pilote professionnel",
-                "licence atpl",
+                "cout formation pilote helicoptere",
                 "formation pilote de ligne canada",
-                "ecole aviation chicoutimi"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "salaire pilote de ligne",
-            "intent": "informational",
-            "keywords": [
-                "salaire pilote de ligne",
-                "salaire pilote de ligne air france",
-                "salaire pilote de ligne emirates",
-                "salaire pilote de ligne suisse"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "devenir pilote de ligne",
-            "intent": "informational",
-            "keywords": [
-                "devenir pilote de ligne prix",
-                "allemand",
-                "anglais",
-                "armée de l'air française",
-                "compagnies aériennes",
-                "personnalités pilotes",
-                "stage pilote",
-                "devenir pilote de ligne en france",
-                "devenir pilote de ligne à 40 ans",
-                "devenir pilote de ligne sans bac"
+                "cout formation pilote de drone"
             ]
         },
         {
@@ -1221,22 +1131,39 @@
             "intent": "commercial",
             "keywords": [
                 "simulateur de vol",
-                "simulateur de vol en ligne",
                 "simulateur de vol pc",
-                "simulateur de vol gratuit",
-                "simulateur de vol google earth",
-                "simulateur de vol ps5"
+                "simulateur de vol ps5",
+                "simulateur de vol en ligne"
             ]
         },
         {
-            "group": "Compagnies",
-            "title": "devenir pilote de ligne air france",
+            "group": "Simulateurs",
+            "title": "simulateur de vol gratuit",
             "intent": "informational",
             "keywords": [
-                "devenir pilote de ligne air france",
-                "devenir pilote de ligne belgique",
-                "devenir pilote de ligne suisse",
-                "jobs aviation"
+                "simulateur de vol gratuit",
+                "simulateur de vol google earth"
+            ]
+        },
+        {
+            "group": "Accès à la profession",
+            "title": "devenir pilote de ligne",
+            "intent": "informational",
+            "keywords": [
+                "commandant de bord",
+                "copilote",
+                "devenir pilote de ligne sans bac",
+                "devenir pilote de ligne en france",
+                "devenir pilote de ligne suisse"
+            ]
+        },
+        {
+            "group": "Accès à la profession",
+            "title": "devenir pilote de ligne prix",
+            "intent": "commercial",
+            "keywords": [
+                "devenir pilote de ligne prix",
+                "devenir pilote de ligne gratuitement"
             ]
         }
     ],
@@ -1246,53 +1173,52 @@
         "salaire pilote de ligne": "core",
         "devenir pilote de ligne air france": "core",
         "ecole aviation": "core",
-        "salaire pilote de ligne air france": "core",
         "simulateur de vol pc": "complementary",
+        "salaire pilote de ligne air france": "core",
+        "compagnies aériennes recrutement": "commercial",
         "coût formation pilote de ligne": "commercial",
-        "devenir pilote de ligne en france": "core",
-        "examen médical pilote de ligne": "core",
-        "licence pilote professionnel": "core",
-        "devenir pilote de ligne à 40 ans": "core",
-        "formation pilote de ligne gratuite": "core",
+        "devenir pilote de ligne à 40 ans": "commercial",
+        "devenir pilote de ligne sans bac": "complementary",
+        "formation pilote de ligne gratuite": "commercial",
+        "devenir pilote de ligne en france": "complementary",
         "simulateur de vol gratuit": "complementary",
         "devenir pilote de ligne prix": "commercial",
-        "formation pilote de ligne prix": "commercial",
-        "devenir pilote de ligne belgique": "core",
-        "simulateur de vol google earth": "complementary",
-        "devenir pilote de ligne suisse": "complementary",
-        "devenir pilote de ligne sans bac": "complementary",
-        "simulateur de vol en ligne": "commercial",
-        "formation pilote de ligne canada": "complementary",
-        "salaire pilote de ligne emirates": "commercial",
-        "salaire pilote de ligne suisse": "commercial",
-        "jobs aviation": "complementary",
-        "ecole aviation chicoutimi": "commercial",
+        "pilote aptitude test": "commercial",
+        "jobs aviation": "commercial",
         "simulateur de vol ps5": "complementary",
-        "licence atpl": "core",
+        "simulateur de vol google earth": "complementary",
+        "formation pilote de ligne prix": "commercial",
+        "cout formation pilote helicoptere": "commercial",
+        "formation pilote de ligne air france": "commercial",
+        "formation pilote de ligne canada": "complementary",
+        "devenir pilote de ligne gratuitement": "commercial",
+        "salaire pilote de ligne emirates": "commercial",
+        "simulateur de vol en ligne": "commercial",
+        "cout formation pilote de drone": "commercial",
+        "devenir pilote de ligne suisse": "complementary",
+        "licence pilote": "core",
         "heures de vol": "core",
-        "théorie aviation": "core",
-        "vol aux instruments": "core",
+        "théorie du vol": "core",
         "navigation aérienne": "core",
         "sécurité aérienne": "core",
-        "compagnies aériennes": "complementary",
-        "formation modulaire": "core",
-        "formation intégrée": "core",
-        "stage pilote": "core",
+        "entraînement simulateur": "core",
+        "examen médical": "core",
+        "qualification de type": "core",
+        "expériences de vol": "core",
+        "compétences techniques": "core",
         "anglais": "core",
-        "allemand": "complementary",
-        "armée de l'air française": "complementary",
+        "allemand": "doubtful",
+        "armée de l'air française": "doubtful",
+        "drone": "doubtful",
         "avion": "core",
-        "hélicoptère": "complementary",
+        "hélicoptère": "doubtful",
         "avion de ligne": "complementary",
         "instructeur": "complementary",
         "pilotage d'un avion": "complementary",
-        "pilote d'essai": "complementary",
-        "personnalités pilotes": "complementary",
-        "blouson d'aviateur": "doubtful",
+        "pilote d'essai": "commercial",
+        "personnalités pilotes": "doubtful",
         "pay to fly": "commercial",
         "copilote": "complementary",
-        "commandant de bord": "complementary",
-        "tuskegee airmen": "doubtful",
-        "carrier aviation technology": "doubtful"
+        "commandant de bord": "complementary"
     }
 }

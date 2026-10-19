@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "kubernetes vs docker",
+        "container orchestration",
+        "docker kubernetes",
+        "kubernetes vs docker swarm",
         "kubernetes architecture",
         "kubernetes deployment",
         "kubernetes pods",
         "kubernetes services",
-        "kubernetes ingress",
-        "kubernetes helm",
-        "kubernetes monitoring"
+        "kubernetes ingress"
     ],
     "suggestions": {
         "bing": [
@@ -91,61 +91,169 @@
         "amazon": [
             [
                 0,
-                "kubernetes helm"
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes book"
             ]
         ],
         "bing": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "container orchestration tools"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "container orchestration meaning"
             ],
             [
                 3,
-                "kubernetes vs docker differences"
+                "container orchestration benefits"
             ],
             [
                 4,
-                "kubernetes vs docker diferencias"
+                "container orchestration platform"
             ],
             [
                 5,
-                "kubernetes vs docker vs container"
+                "container orchestration best practices"
             ],
             [
                 6,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration architecture"
             ],
             [
                 7,
-                "kubernetes vs docker adalah"
+                "container orchestration market"
             ],
             [
                 8,
-                "kubernetes vs docker for n8n"
+                "container orchestration challenges"
             ],
             [
                 9,
-                "kubernetes vs docker security"
+                "container orchestration kubernetes pod"
             ],
             [
                 10,
-                "kubernetes vs docker images"
+                "container orchestration azure"
             ],
             [
                 11,
-                "kubernetes vs docker que es"
+                "container orchestration service"
+            ],
+            [
+                0,
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes tutorial"
+            ],
+            [
+                2,
+                "docker kubernetes commands"
+            ],
+            [
+                3,
+                "docker kubernetes basics"
+            ],
+            [
+                4,
+                "docker kubernetes setup"
+            ],
+            [
+                5,
+                "docker kubernetes integration"
+            ],
+            [
+                6,
+                "docker kubernetes interview questions"
+            ],
+            [
+                7,
+                "docker kubernetes deployment"
+            ],
+            [
+                8,
+                "docker kubernetes terraform"
+            ],
+            [
+                9,
+                "docker kubernetes certification"
+            ],
+            [
+                0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "docker swarm vs kubernetes vs docker compose"
+            ],
+            [
+                2,
+                "what is docker swarm vs kubernetes"
+            ],
+            [
+                3,
+                "docker swarm vs kubernetes cluster"
+            ],
+            [
+                4,
+                "docker swarm vs kubernetes reddit"
+            ],
+            [
+                5,
+                "docker swarm vs kubernetes difference"
+            ],
+            [
+                6,
+                "docker vs docker swarm"
+            ],
+            [
+                7,
+                "docker standalone vs swarm"
+            ],
+            [
+                8,
+                "kubernetes vs docker reddit"
+            ],
+            [
+                9,
+                "when to use kubernetes vs docker"
+            ],
+            [
+                10,
+                "docker vs kubernetes difference"
+            ],
+            [
+                11,
+                "is docker swarm deprecated"
             ],
             [
                 12,
-                "kubernetes vs docker vs podman"
+                "what is a docker swarm"
+            ],
+            [
+                13,
+                "using docker swarm secrets"
+            ],
+            [
+                14,
+                "diff bw docker vs kubernetes"
+            ],
+            [
+                15,
+                "difference between docker and docker swarm"
+            ],
+            [
+                16,
+                "what is docker vs kubernetes"
             ],
             [
                 0,
@@ -414,140 +522,104 @@
             [
                 15,
                 "kubernetes ingress documentation"
-            ],
-            [
-                0,
-                "kubernetes helm"
-            ],
-            [
-                1,
-                "kubernetes helm chart"
-            ],
-            [
-                2,
-                "kubernetes helm tutorial"
-            ],
-            [
-                3,
-                "kubernetes helm install"
-            ],
-            [
-                4,
-                "kubernetes helm chart tutorial"
-            ],
-            [
-                5,
-                "kubernetes helm documentation"
-            ],
-            [
-                6,
-                "kubernetes helm test"
-            ],
-            [
-                7,
-                "kubernetes helm file"
-            ],
-            [
-                8,
-                "kubernetes helm ingress"
-            ],
-            [
-                9,
-                "kubernetes helm commands"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                3,
-                "kubernetes monitoring metrics api"
-            ],
-            [
-                4,
-                "kubernetes monitoring metrics examples"
-            ],
-            [
-                5,
-                "kubernetes monitoring metrics dashboard"
-            ],
-            [
-                6,
-                "kubernetes monitoring metrics documentation"
-            ],
-            [
-                7,
-                "kubernetes monitoring metrics collection"
-            ],
-            [
-                8,
-                "kubernetes monitoring metrics comparison"
-            ],
-            [
-                9,
-                "kubernetes monitoring resources with datadog"
-            ],
-            [
-                10,
-                "kubernetes monitoring resources with loki"
-            ],
-            [
-                11,
-                "kubernetes monitoring resources with jaeger"
-            ],
-            [
-                12,
-                "kubernetes monitoring metrics configuration"
-            ],
-            [
-                13,
-                "kubernetes monitoring metrics with prometheus"
-            ],
-            [
-                14,
-                "kubernetes monitoring metrics with grafana"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "container orchestration tools"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "container orchestration meaning"
             ],
             [
                 3,
-                "kubernetes vs docker differences"
+                "container orchestration benefits"
             ],
             [
                 4,
-                "kubernetes vs docker diferencias"
+                "container orchestration platform"
             ],
             [
                 5,
-                "kubernetes vs docker vs container"
+                "container orchestration best practices"
             ],
             [
                 6,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration architecture"
             ],
             [
                 7,
-                "kubernetes vs docker adalah"
+                "container orchestration market"
+            ],
+            [
+                0,
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes tutorial"
+            ],
+            [
+                2,
+                "docker kubernetes commands"
+            ],
+            [
+                3,
+                "docker kubernetes basics"
+            ],
+            [
+                4,
+                "docker kubernetes setup"
+            ],
+            [
+                5,
+                "docker kubernetes integration"
+            ],
+            [
+                6,
+                "docker kubernetes interview questions"
+            ],
+            [
+                7,
+                "docker kubernetes deployment"
+            ],
+            [
+                0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "docker swarm vs kubernetes vs docker compose"
+            ],
+            [
+                2,
+                "what is docker swarm vs kubernetes"
+            ],
+            [
+                3,
+                "docker swarm vs kubernetes cluster"
+            ],
+            [
+                4,
+                "docker swarm vs kubernetes reddit"
+            ],
+            [
+                5,
+                "docker swarm vs kubernetes difference"
+            ],
+            [
+                6,
+                "docker vs docker swarm"
+            ],
+            [
+                7,
+                "docker standalone vs swarm"
             ],
             [
                 0,
@@ -708,112 +780,128 @@
             [
                 7,
                 "kubernetes ingress install"
-            ],
-            [
-                0,
-                "kubernetes helm"
-            ],
-            [
-                1,
-                "kubernetes helm chart"
-            ],
-            [
-                2,
-                "kubernetes helm tutorial"
-            ],
-            [
-                3,
-                "kubernetes helm install"
-            ],
-            [
-                4,
-                "kubernetes helm chart tutorial"
-            ],
-            [
-                5,
-                "kubernetes helm documentation"
-            ],
-            [
-                6,
-                "kubernetes helm test"
-            ],
-            [
-                7,
-                "kubernetes helm file"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                3,
-                "kubernetes monitoring metrics api"
-            ],
-            [
-                4,
-                "kubernetes monitoring metrics examples"
-            ],
-            [
-                5,
-                "kubernetes monitoring metrics dashboard"
-            ],
-            [
-                6,
-                "kubernetes monitoring metrics documentation"
-            ],
-            [
-                7,
-                "kubernetes monitoring metrics collection"
             ]
         ],
         "google": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration"
             ],
             [
                 1,
-                "kubernetes vs docker compose"
+                "container orchestration platforms"
             ],
             [
                 2,
-                "kubernetes vs docker swarm"
+                "container orchestration tools"
             ],
             [
                 3,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration meaning"
             ],
             [
                 4,
-                "kubernetes vs docker vs podman"
+                "container orchestration software"
             ],
             [
                 5,
-                "kubernetes vs docker vs proxmox"
+                "container orchestration kubernetes"
             ],
             [
                 6,
-                "kubernetes vs docker vs container"
+                "container orchestration service"
             ],
             [
                 7,
-                "kubernetes vs docker vs vm"
+                "container orchestration in cloud computing"
             ],
             [
                 8,
-                "kubernetes vs docker vs terraform"
+                "container orchestration tools list"
             ],
             [
                 9,
-                "kubernetes vs docker vs openshift"
+                "container orchestration architecture"
+            ],
+            [
+                0,
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes interview questions"
+            ],
+            [
+                2,
+                "docker kubernetes tutorial"
+            ],
+            [
+                3,
+                "docker kubernetes certification"
+            ],
+            [
+                4,
+                "docker kubernetes udemy"
+            ],
+            [
+                5,
+                "docker kubernetes course"
+            ],
+            [
+                6,
+                "docker kubernetes difference"
+            ],
+            [
+                7,
+                "docker kubernetes jenkins"
+            ],
+            [
+                8,
+                "docker kubernetes terraform"
+            ],
+            [
+                9,
+                "docker kubernetes openshift"
+            ],
+            [
+                0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm comparison table"
+            ],
+            [
+                2,
+                "kubernetes vs docker swarm reddit"
+            ],
+            [
+                3,
+                "kubernetes vs docker swarm mode"
+            ],
+            [
+                4,
+                "kubernetes vs docker swarm homelab"
+            ],
+            [
+                5,
+                "kubernetes vs docker swarm 2025"
+            ],
+            [
+                6,
+                "kubernetes or docker swarm"
+            ],
+            [
+                7,
+                "kubernetes cluster vs docker swarm"
+            ],
+            [
+                8,
+                "kubernetes vs docker swarm vs apache mesos"
+            ],
+            [
+                9,
+                "kubernetes vs docker swarm vs openshift"
             ],
             [
                 0,
@@ -1014,128 +1102,128 @@
             [
                 9,
                 "kubernetes ingress example"
-            ],
-            [
-                0,
-                "kubernetes helm"
-            ],
-            [
-                1,
-                "kubernetes helm chart"
-            ],
-            [
-                2,
-                "kubernetes helm chart tutorial"
-            ],
-            [
-                3,
-                "kubernetes helm tutorial"
-            ],
-            [
-                4,
-                "kubernetes helm install"
-            ],
-            [
-                5,
-                "kubernetes helm vs kustomize"
-            ],
-            [
-                6,
-                "kubernetes helm alternatives"
-            ],
-            [
-                7,
-                "kubernetes helm vs operator"
-            ],
-            [
-                8,
-                "kubernetes helm terraform"
-            ],
-            [
-                9,
-                "kubernetes helm explained"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring in dynatrace"
-            ],
-            [
-                3,
-                "kubernetes monitoring dashboard"
-            ],
-            [
-                4,
-                "kubernetes monitoring prometheus"
-            ],
-            [
-                5,
-                "kubernetes monitoring stack"
-            ],
-            [
-                6,
-                "kubernetes monitoring helm chart"
-            ],
-            [
-                7,
-                "kubernetes monitoring zabbix"
-            ],
-            [
-                8,
-                "kubernetes monitoring helm chart v4"
-            ],
-            [
-                9,
-                "kubernetes monitoring mode dynatrace"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "container orchestration with kubernetes"
             ],
             [
                 2,
-                "kubernetes vs docker vs jenkins vs ansible"
+                "container orchestration meaning"
             ],
             [
                 3,
-                "kubernetes vs docker compose"
+                "container orchestration tools"
             ],
             [
                 4,
-                "kubernetes vs docker videos"
+                "container orchestration definition"
             ],
             [
                 5,
-                "kubernetes vs docker difference"
+                "container orchestration platforms"
             ],
             [
                 6,
-                "kubernetes vs dockers vs containers"
+                "container orchestration technologies"
             ],
             [
                 7,
-                "kubernetes vs docker youtube"
+                "container orchestration service"
             ],
             [
                 8,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration system"
             ],
             [
                 9,
-                "kubernetes vs docker aws"
+                "container orchestration in devops"
+            ],
+            [
+                0,
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes interview questions"
+            ],
+            [
+                2,
+                "docker kubernetes tutorial"
+            ],
+            [
+                3,
+                "docker kubernetes openshift architecture"
+            ],
+            [
+                4,
+                "docker kubernetes project tutorial youtube"
+            ],
+            [
+                5,
+                "docker kubernetes certification"
+            ],
+            [
+                6,
+                "docker kubernetes download"
+            ],
+            [
+                7,
+                "docker kubernetes jobs salary"
+            ],
+            [
+                8,
+                "docker kubernetes difference"
+            ],
+            [
+                9,
+                "docker kubernetes là gì"
+            ],
+            [
+                0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm system"
+            ],
+            [
+                2,
+                "kubernetes vs docker swarm architecture"
+            ],
+            [
+                3,
+                "kubernetes vs docker swarm download"
+            ],
+            [
+                4,
+                "kubernetes vs docker swarm app"
+            ],
+            [
+                5,
+                "kubernetes vs docker swarm api"
+            ],
+            [
+                6,
+                "kubernetes vs docker swarm ai"
+            ],
+            [
+                7,
+                "kubernetes vs docker swarm software"
+            ],
+            [
+                8,
+                "kubernetes vs docker swarm python"
+            ],
+            [
+                9,
+                "kubernetes vs docker swarm windows"
             ],
             [
                 0,
@@ -1320,96 +1408,88 @@
             [
                 9,
                 "kubernetes ingress tutorial"
-            ],
-            [
-                0,
-                "kubernetes helm"
-            ],
-            [
-                1,
-                "kubernetes helm tutorial"
-            ],
-            [
-                2,
-                "kubernetes helm install"
-            ],
-            [
-                3,
-                "kubernetes helm chart"
-            ],
-            [
-                4,
-                "kubernetes helm deploy"
-            ],
-            [
-                5,
-                "kubernetes helm ansible tutorial"
-            ],
-            [
-                6,
-                "kubernetes helm charts"
-            ],
-            [
-                0,
-                "kubernetes monitoring prometheus"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring"
-            ],
-            [
-                3,
-                "kubernetes monitoring dashboard"
-            ],
-            [
-                4,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                5,
-                "kubernetes monitoring tool"
             ]
         ],
         "youtube": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "container orchestration using kubernetes"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "container orchestration explained"
             ],
             [
                 3,
-                "kubernetes vs docker explained with diagrams"
+                "container orchestration with docker and kubernetes"
             ],
             [
                 4,
-                "kubernetes vs docker شرح"
+                "container orchestration - kubernetes"
             ],
             [
                 5,
-                "kubernetes vs docker hindi"
+                "container orchestration in telugu"
             ],
             [
                 6,
-                "kubernetes vs docker in tamil"
+                "container orchestration in hindi"
             ],
             [
                 7,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration in tamil"
             ],
             [
                 8,
-                "kubernetes vs docker español"
+                "nomad container orchestration"
+            ],
+            [
+                0,
+                "docker kubernetes"
+            ],
+            [
+                1,
+                "docker kubernetes tutorial"
+            ],
+            [
+                2,
+                "docker kubernetes explained"
+            ],
+            [
+                3,
+                "docker kubernetes project"
+            ],
+            [
+                4,
+                "docker kubernetes interview questions"
+            ],
+            [
+                5,
+                "docker kubernetes terraform"
+            ],
+            [
+                6,
+                "docker kubernetes jenkins"
+            ],
+            [
+                7,
+                "docker kubernetes aws"
+            ],
+            [
+                8,
+                "docker kubernetes tutorial for beginners"
+            ],
+            [
+                9,
+                "docker kubernetes microservices"
+            ],
+            [
+                0,
+                "kubernetes vs docker swarm"
             ],
             [
                 0,
@@ -1594,70 +1674,6 @@
             [
                 9,
                 "kubernetes ingress vs service"
-            ],
-            [
-                0,
-                "kubernetes helm"
-            ],
-            [
-                1,
-                "kubernetes helm charts tutorial"
-            ],
-            [
-                2,
-                "kubernetes helm charts"
-            ],
-            [
-                3,
-                "kubernetes helm explained"
-            ],
-            [
-                4,
-                "kubernetes helm argocd"
-            ],
-            [
-                5,
-                "kubernetes helm in hindi"
-            ],
-            [
-                6,
-                "kubernetes helm deployment"
-            ],
-            [
-                7,
-                "kubernetes helm project"
-            ],
-            [
-                8,
-                "kubernetes helm telugu"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                2,
-                "kubernetes monitoring in dynatrace"
-            ],
-            [
-                3,
-                "kubernetes monitoring and alerting"
-            ],
-            [
-                4,
-                "kubernetes monitoring using prometheus & grafana"
-            ],
-            [
-                5,
-                "kubernetes monitoring with zabbix"
-            ],
-            [
-                6,
-                "kubernetes monitoring tools"
             ]
         ]
     },
@@ -1669,6 +1685,13 @@
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.6
+            },
+            {
+                "title": "Orchestration (computing)",
+                "views": 1590,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 7,
@@ -1678,137 +1701,136 @@
     },
     "pages": [
         {
-            "group": "Kubernetes Basics",
-            "title": "what is kubernetes cluster",
+            "group": "Kubernetes Components",
+            "title": "kubernetes services",
             "intent": "informational",
             "keywords": [
-                "what is kubernetes cluster",
-                "cloud native computing foundation",
-                "cluster",
-                "computer cluster",
-                "k3s",
-                "list of cluster management software",
+                "kubernetes services",
+                "service",
+                "kubernetes ingress",
+                "kubernetes ingress controller",
+                "open service mesh",
+                "kubernetes services types",
+                "kubernetes services explained"
+            ]
+        },
+        {
+            "group": "Kubernetes Components",
+            "title": "kubernetes pods",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes pods",
+                "what is kubernetes pod",
+                "configmap",
+                "persistentvolume",
+                "persistentvolumeclaim",
                 "pod",
-                "kubernetes architecture",
-                "what is kubernetes and how does it work",
-                "kubernetes architecture diagram",
-                "kubernetes architecture explained",
-                "kubernetes architecture overview",
-                "what is kubernetes pod"
-            ]
-        },
-        {
-            "group": "Kubernetes Basics",
-            "title": "kubernetes vs docker",
-            "intent": "commercial",
-            "keywords": [
-                "kubernetes vs docker",
-                "containerization",
-                "docker",
-                "openshift",
-                "what is kubernetes and docker",
-                "what is kubernetes vs docker",
-                "kubernetes vs docker swarm",
-                "kubernetes vs docker compose"
-            ]
-        },
-        {
-            "group": "Kubernetes Deployment",
-            "title": "kubernetes helm",
-            "intent": "informational",
-            "keywords": [
-                "kubernetes helm",
-                "kubernetes helm chart",
-                "kubernetes helm tutorial",
-                "kubernetes helm charts tutorial",
-                "kubernetes helm install"
-            ]
-        },
-        {
-            "group": "Kubernetes Deployment",
-            "title": "kubernetes deployment",
-            "intent": "informational",
-            "keywords": [
+                "secret",
                 "kubernetes deployment",
                 "deployment",
                 "kubernetes deployment yaml"
             ]
         },
         {
-            "group": "Kubernetes Components",
-            "title": "kubernetes ingress",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes",
             "intent": "informational",
             "keywords": [
-                "kubernetes ingress",
-                "kubernetes ingress controller"
+                "cloud native computing foundation",
+                "containerization",
+                "docker",
+                "open-source software",
+                "virtual machine",
+                "what is kubernetes cluster",
+                "cluster",
+                "computer cluster",
+                "what is kubernetes and how does it work",
+                "what is kubernetes container",
+                "what is kubernetes and docker",
+                "what is kubernetes vs docker"
             ]
         },
         {
-            "group": "Kubernetes Components",
-            "title": "kubernetes pods",
-            "intent": "commercial",
+            "group": "Kubernetes Basics",
+            "title": "kubernetes architecture",
+            "intent": "informational",
             "keywords": [
-                "kubernetes pods",
+                "kubernetes architecture",
+                "kubernetes architecture interview questions",
+                "k3s",
+                "list of cluster management software",
+                "namespace",
                 "node",
+                "kubernetes architecture explained",
+                "kubernetes architecture diagram",
                 "kubernetes pods vs nodes"
             ]
         },
         {
-            "group": "Kubernetes Components",
-            "title": "kubernetes services",
+            "group": "Kubernetes Tutorials",
+            "title": "docker kubernetes tutorial",
             "intent": "informational",
             "keywords": [
-                "kubernetes services",
-                "open service mesh",
-                "service",
-                "kubernetes services types"
+                "docker kubernetes tutorial",
+                "docker kubernetes",
+                "docker kubernetes interview questions",
+                "kubernetes deployment strategies"
             ]
         },
         {
-            "group": "Kubernetes Monitoring",
-            "title": "kubernetes monitoring",
-            "intent": "informational",
+            "group": "Kubernetes vs Alternatives",
+            "title": "kubernetes vs docker swarm",
+            "intent": "commercial",
             "keywords": [
-                "kubernetes monitoring",
-                "kubernetes monitoring tools",
-                "kubernetes monitoring grafana"
+                "kubernetes vs docker swarm",
+                "openshift",
+                "container orchestration",
+                "container orchestration tools",
+                "container orchestration platforms"
             ]
         }
     ],
     "categories": {
-        "kubernetes helm": "core",
+        "docker kubernetes": "core",
         "what is kubernetes cluster": "core",
+        "container orchestration": "core",
         "kubernetes deployment": "core",
         "kubernetes ingress": "core",
         "kubernetes pods": "core",
         "kubernetes services": "core",
-        "kubernetes vs docker": "core",
-        "kubernetes monitoring": "core",
-        "what is kubernetes and docker": "core",
-        "kubernetes architecture": "core",
-        "kubernetes ingress controller": "core",
         "kubernetes vs docker swarm": "core",
-        "kubernetes helm chart": "core",
-        "kubernetes monitoring tools": "core",
-        "kubernetes vs docker compose": "core",
-        "kubernetes deployment yaml": "core",
-        "what is kubernetes and how does it work": "core",
-        "kubernetes architecture diagram": "complementary",
-        "kubernetes architecture explained": "complementary",
-        "kubernetes pods vs nodes": "core",
-        "kubernetes services types": "core",
-        "kubernetes helm tutorial": "core",
-        "kubernetes monitoring grafana": "core",
-        "what is kubernetes pod": "core",
-        "kubernetes helm charts tutorial": "core",
-        "kubernetes helm install": "core",
+        "kubernetes ingress controller": "complementary",
+        "kubernetes architecture": "core",
+        "docker kubernetes tutorial": "commercial",
+        "what is kubernetes and docker": "core",
+        "kubernetes deployment yaml": "commercial",
         "what is kubernetes vs docker": "core",
-        "kubernetes architecture overview": "complementary",
+        "docker kubernetes interview questions": "commercial",
+        "kubernetes architecture explained": "core",
+        "kubernetes architecture diagram": "core",
+        "what is kubernetes and how does it work": "core",
+        "kubernetes pods vs nodes": "core",
+        "container orchestration tools": "core",
+        "kubernetes services types": "core",
+        "container orchestration meaning": "doubtful",
+        "what is kubernetes pod": "core",
+        "container orchestration platforms": "core",
+        "kubernetes deployment strategies": "core",
+        "what is kubernetes container": "core",
+        "kubernetes architecture interview questions": "complementary",
+        "kubernetes services explained": "core",
         "cluster": "core",
         "node": "core",
         "pod": "core",
         "deployment": "core",
         "service": "core",
+        "namespace": "core",
+        "configmap": "core",
+        "secret": "core",
+        "persistentvolume": "core",
+        "persistentvolumeclaim": "core",
+        "open-source software": "complementary",
+        "virtual machine": "complementary",
         "containerization": "complementary",
         "computer cluster": "complementary",
         "cloud native computing foundation": "complementary",

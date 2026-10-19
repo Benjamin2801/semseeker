@@ -40,6 +40,19 @@ final class SemanticFieldTest extends TestCase
         self::assertSame(['c'], self::texts($field->groups[1]->pages[0]->getAllKeywords()), '« b » reste dans sa première page.');
     }
 
+    public function testAKeywordNamedLikeAPageGoesToThatPage(): void
+    {
+        $field = SemanticField::build([
+            self::group('Fonctionnement', [self::page('comment fonctionne une pompe à chaleur', [0], [['Types', [1, 2]]])]),
+            self::group('Types', [self::page('pompe à chaleur air-eau', [3], [])]),
+        ], self::keywords(['comment fonctionne une pompe à chaleur' => 60, 'pompe à chaleur air eau' => 50, 'pompe à chaleur air air' => 30, 'pompe à chaleur air eau prix' => 20]));
+
+        $pages = array_merge(...array_map(static fn ($g) => $g->pages, $field->groups));
+        $byTitle = array_combine(array_map(static fn (FieldPage $p) => $p->title, $pages), $pages);
+        self::assertSame(['comment fonctionne une pompe à chaleur', 'pompe à chaleur air air'], self::texts($byTitle['comment fonctionne une pompe à chaleur']->getAllKeywords()));
+        self::assertSame('pompe à chaleur air eau', $byTitle['pompe à chaleur air-eau']->main->text, 'Le mot-clé quitte la section de l\'autre page pour celle qui porte son nom.');
+    }
+
     public function testUsesTheBestSectionKeywordWhenThePageHasNone(): void
     {
         $field = SemanticField::build([self::group('G', [self::page('P', [], [['S', [0, 1]]])])], self::keywords(['fort' => 40, 'faible' => 10]));

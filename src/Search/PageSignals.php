@@ -11,6 +11,8 @@ final class PageSignals
     private const FACET_SOURCES = 2;
     private const CONCEPT_SUGGESTIONS = 3;
     private const SEARCHED_SCORE = 10;
+    private const CONFIRMED_CUE_SHARE = 0.02;
+    private const CONFIRMED_JOB_FILL = 0.5;
 
     public function __construct(
         public readonly int $total,
@@ -43,6 +45,8 @@ final class PageSignals
 
         public readonly int $questions = 0,
         public readonly ?float $commercialShare = null,
+
+        public readonly bool $seedLocal = false,
     ) {
     }
 
@@ -52,23 +56,31 @@ final class PageSignals
      * @param list<string>        $responding
      * @param list<string>        $topics
      */
-    public static function from(string $seed, string $lang, array $merged, array $suggestions, array $responding, KeywordFilter $filter, int $types, array $topics = []): self
+    public static function from(string $seed, string $lang, array $merged, array $suggestions, array $responding, KeywordFilter $filter, int $types, array $topics = [], ?LexicalContext $context = null): self
     {
+        $context ??= LexicalContext::of($seed);
         $cues = array_fill_keys(array_keys(Lexicon::PAGE_CUES), 0);
         $local = 0;
         foreach ($merged as $keyword) {
-            if ($filter->isLocal($keyword->text, $seed, $lang)) {
+            if ($filter->isLocal($keyword->text, $seed, $lang, $context)) {
                 ++$local;
                 continue;
             }
-            foreach (self::families($keyword->text, $seed) as $family) {
+            foreach (self::families($context->read($keyword->text), $context->readSeed()) as $family) {
                 ++$cues[$family];
             }
         }
 
         $fills = Demand::fills($suggestions, $responding);
+        $total = \count($merged) - $local;
 
-        $seedCues = self::families($seed, '');
+        // Un indice à double sens (« prix », « test », « top », « formation ») ne décide que si les recherches autour
+        // de l'expression parlent de la même chose : « test de grossesse » n'est suivi d'aucun avis de consommateur.
+        $seedCues = array_values(array_filter(self::families($context->readSeed(), ''), static fn (string $family): bool => !self::onlyAmbiguous($context->readSeed(), $family)
+            || ($total > 0 && $cues[$family] / $total >= self::CONFIRMED_CUE_SHARE)
+            || ('job' === $family && ($fills['indeed'] ?? 0) >= self::CONFIRMED_JOB_FILL)));
+        // « plombier paris 15 », « plumber near me » : le lieu est dans l'expression elle-même.
+        $seedLocal = $filter->isLocal($seed, '', $lang, $context);
         $seedWords = array_filter(explode(' ', SuggestionMerger::key($seed)));
         $facets = [];
         foreach ($merged as $keyword) {
@@ -97,6 +109,7 @@ final class PageSignals
             parent: self::parent($seed, $topics),
             facets: \count($facets),
             seedSuggestions: \count(array_unique(array_map(static fn (RawSuggestion $s): string => SuggestionMerger::key($s->text), $fromSeed))),
+            seedLocal: $seedLocal,
         );
     }
 
@@ -104,8 +117,9 @@ final class PageSignals
      * @param list<Keyword> $merged
      * @param list<string>  $concepts
      */
-    public function withReach(array $merged, array $concepts): self
+    public function withReach(array $merged, array $concepts, ?LexicalContext $context = null): self
     {
+        $context ??= LexicalContext::none();
         $keys = array_map(static fn (Keyword $k): string => SuggestionMerger::key($k->text), $merged);
         $confirmed = array_filter($concepts, static function (string $concept) use ($keys): bool {
             $key = SuggestionMerger::key($concept);
@@ -117,7 +131,7 @@ final class PageSignals
             'searched' => \count(array_filter($merged, static fn (Keyword $k): bool => $k->score >= self::SEARCHED_SCORE)),
             'confirmedConcepts' => \count($confirmed),
             'questions' => \count(array_filter($merged, static fn (Keyword $k): bool => [] !== self::families($k->text, '', ['question']))),
-            'commercialShare' => [] !== $merged ? \count(array_filter($merged, static fn (Keyword $k): bool => [] !== Lexicon::commercialWords($k->text))) / \count($merged) : null,
+            'commercialShare' => [] !== $merged ? \count(array_filter($merged, static fn (Keyword $k): bool => [] !== Lexicon::commercialWords($context->read($k->text)))) / \count($merged) : null,
         ]);
     }
 
@@ -243,6 +257,14 @@ final class PageSignals
         }
 
         return false;
+    }
+
+    // Tous les mots qui portent cet indice dans le texte ont un autre sens courant.
+    private static function onlyAmbiguous(string $text, string $family): bool
+    {
+        $found = array_filter(Lexicon::PAGE_CUES[$family] ?? [], static fn (string $cue): bool => self::mentions($text, [$cue]));
+
+        return [] !== $found && [] === array_diff($found, Lexicon::AMBIGUOUS_CUES);
     }
 
     /**

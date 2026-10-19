@@ -101,7 +101,7 @@ final class BenchFixture
             sections: $fixture['wikipedia']['sections'],
         ) : null;
 
-        [, $signals] = KeywordSearch::measure($collected, $fixture['expression'], $fixture['lang'], $wikipedia, $fixture['concepts'], new SuggestionMerger(), new KeywordFilter());
+        [, $signals, $context] = KeywordSearch::measure($collected, $fixture['expression'], $fixture['lang'], $wikipedia, $fixture['concepts'], new SuggestionMerger(), new KeywordFilter());
 
         $keywords = [];
         foreach ($fixture['categories'] as $text => $category) {
@@ -119,7 +119,7 @@ final class BenchFixture
             }
             $plan[$page['group']][] = ['title' => $page['title'], 'intent' => Intent::tryFrom((string) $page['intent']), 'keywords' => $positions, 'sections' => []];
         }
-        $field = SemanticField::build(array_map(static fn (string $name, array $pages): array => ['name' => $name, 'pages' => $pages], array_keys($plan), array_values($plan)), $placed);
+        $field = SemanticField::build(array_map(static fn (string $name, array $pages): array => ['name' => $name, 'pages' => $pages], array_keys($plan), array_values($plan)), $placed, context: $context);
 
         return new SearchResult(
             keywords: $keywords,

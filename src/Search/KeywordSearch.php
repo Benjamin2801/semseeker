@@ -60,7 +60,7 @@ final class KeywordSearch
         }
 
         $collected = $this->collector->collect($keyword, $lang, $concepts, $started);
-        [$merged, $signals] = self::measure($collected, $keyword, $lang, $wikipedia, $concepts, $this->merger, $this->filter);
+        [$merged, $signals, $context] = self::measure($collected, $keyword, $lang, $wikipedia, $concepts, $this->merger, $this->filter);
         $types = \array_slice($wikipedia->types ?? [], 0, self::VOCABULARY_SHARES['types']);
         $vocabulary = [
             ...\array_slice($wikipedia->introTerms ?? [], 0, self::VOCABULARY_SHARES['intro']),
@@ -69,7 +69,7 @@ final class KeywordSearch
         ];
 
         $core = $pendingConcepts->coreTerms();
-        $candidates = $this->withVocabulary(\array_slice($merged, 0, $this->maxCandidates), $merged, $vocabulary, $types, $core, $keyword, $lang);
+        $candidates = $this->withVocabulary(\array_slice($merged, 0, $this->maxCandidates), $merged, $vocabulary, $types, $core, $keyword, $lang, $context);
 
         $articles = array_map(static fn ($a): string => $a->title, $wikipedia->articles ?? []);
 
@@ -84,7 +84,7 @@ final class KeywordSearch
         $estimate = static function (array $keywords) use (&$views): array {
             return array_values(array_map(static fn (Keyword $k): Keyword => $k->isMeasured() ? $k : $k->withEstimate(Estimate::of($k, $views[$k->text] ?? 0)), $keywords));
         };
-        [$field, $rejected, $candidates, $onTopic] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt, $meanwhile, $estimate);
+        [$field, $rejected, $candidates, $onTopic] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt, $meanwhile, $estimate, $context);
         $wikipedia = $wikipedia?->judged($onTopic);
         $candidates = $estimate($candidates);
         $rejectedSet = array_flip($rejected);
@@ -116,12 +116,14 @@ final class KeywordSearch
      *
      * @param list<string> $concepts
      *
-     * @return array{list<Keyword>, PageSignals}
+     * @return array{list<Keyword>, PageSignals, LexicalContext}
      */
     public static function measure(CollectResult $collected, string $keyword, string $lang, ?WikipediaExploration $wikipedia, array $concepts, SuggestionMerger $merger, KeywordFilter $filter): array
     {
+        // Les titres Wikipédia trouvés pour la recherche nomment des choses : leurs mots ne sont ni des indices ni des villes.
+        $context = LexicalContext::of($keyword, array_map(static fn ($a): string => $a->title, $wikipedia->articles ?? []));
         $all = $merger->merge($collected->suggestions, $keyword, $collected->getAnsweringSourceCount());
-        $merged = array_values(array_filter($all, static fn (Keyword $k): bool => !$filter->excludes($k->text, $keyword, $lang)));
+        $merged = array_values(array_filter($all, static fn (Keyword $k): bool => !$filter->excludes($k->text, $keyword, $lang, $context)));
 
         // Le conseil ne lit que les suggestions de l'expression : les concepts varient d'une recherche à l'autre.
         $fromSeed = array_values(array_filter($collected->suggestions, static fn ($s): bool => $s->fromSeed));
@@ -129,9 +131,10 @@ final class KeywordSearch
             $keyword, $lang, $merger->merge($fromSeed, $keyword, $collected->getAnsweringSourceCount()), $collected->suggestions, $collected->getRespondingSources(), $filter, \count($wikipedia->types ?? []),
 
             array_values(array_map(static fn ($a): string => $a->title, array_filter($wikipedia->articles ?? [], static fn ($a): bool => $a->counted))),
+            $context,
         );
 
-        return [$merged, $signals->withReach($merged, $concepts)];
+        return [$merged, $signals->withReach($merged, $concepts, $context), $context];
     }
 
     /** @param list<string> $concepts */
@@ -169,7 +172,7 @@ final class KeywordSearch
      *
      * @return list<Keyword>
      */
-    private function withVocabulary(array $candidates, array $merged, array $vocabulary, array $types, array $core, string $keyword, string $lang): array
+    private function withVocabulary(array $candidates, array $merged, array $vocabulary, array $types, array $core, string $keyword, string $lang, LexicalContext $context): array
     {
         $known = [];
         foreach ($merged as $suggestion) {
@@ -182,7 +185,7 @@ final class KeywordSearch
 
         foreach ([...$core, ...$vocabulary] as $term) {
             $key = SuggestionMerger::key($term);
-            if (isset($taken[$key]) || $this->filter->excludes($term, $keyword, $lang)) {
+            if (isset($taken[$key]) || $this->filter->excludes($term, $keyword, $lang, $context)) {
                 continue;
             }
             $taken[$key] = true;
@@ -207,7 +210,7 @@ final class KeywordSearch
      *
      * @return array{SemanticField|string, list<int>, list<Keyword>, list<string>}
      */
-    private function field(string $keyword, string $lang, array $candidates, array $concepts, array $types, array $articles, float $startedAt, \Closure $meanwhile, \Closure $estimate): array
+    private function field(string $keyword, string $lang, array $candidates, array $concepts, array $types, array $articles, float $startedAt, \Closure $meanwhile, \Closure $estimate, LexicalContext $context): array
     {
         if (\count($candidates) < 2) {
             $meanwhile();
@@ -247,7 +250,7 @@ final class KeywordSearch
         $rejectedSet = array_flip($rejected);
         foreach ($candidates as $position => $candidate) {
             $category = Lexicon::ordersService($candidate->text) ? KeywordCategory::Commercial : $plan->categories[$position] ?? null;
-            $candidates[$position] = $candidate->withCategory(KeywordCategory::decide($category, $candidate->text, isset($rejectedSet[$position]), $keyword));
+            $candidates[$position] = $candidate->withCategory(KeywordCategory::decide($category, $candidate->text, isset($rejectedSet[$position]), $keyword, $context));
         }
         $rejected = array_values($rejected);
         // Les vues sont lues pendant la structure : les estimations entrent dans le champ.
@@ -274,7 +277,7 @@ final class KeywordSearch
             return [SearchResult::FIELD_TOO_FEW_KEYWORDS, $rejected, $candidates, $plan->onTopicArticles];
         }
 
-        $field = SemanticField::build($plan->groups, $kept, self::FIELD_MAX_GROUPS, self::FIELD_MAX_KEYWORDS_PER_GROUP);
+        $field = SemanticField::build($plan->groups, $kept, self::FIELD_MAX_GROUPS, self::FIELD_MAX_KEYWORDS_PER_GROUP, $context);
 
         return [[] !== $field->groups ? $field : SearchResult::FIELD_UNAVAILABLE, $rejected, $candidates, $plan->onTopicArticles];
     }

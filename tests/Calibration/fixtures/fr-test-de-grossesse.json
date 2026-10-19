@@ -14,12 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "fiabilité test de grossesse",
-        "test d'ovulation",
-        "symptômes de grossesse",
-        "retard de règles",
-        "planning familial",
-        "contraception"
+        "test ovulation",
+        "symptômes grossesse",
+        "test sanguin grossesse",
+        "fiabilité test grossesse",
+        "retard règles",
+        "test grossesse bandelette",
+        "test grossesse positif",
+        "suivi grossesse"
     ],
     "suggestions": {
         "amazon": [
@@ -94,149 +96,93 @@
         "amazon": [
             [
                 0,
-                "test d'ovulation"
+                "test ovulation"
             ],
             [
                 1,
-                "test d'ovulation clearblue"
+                "test ovulation clearblue"
             ],
             [
                 2,
-                "test d'ovulation bandelette"
+                "test ovulation easy home"
             ],
             [
                 3,
-                "test d'ovulation easy home"
+                "test ovulation bandelette"
             ],
             [
                 4,
-                "test d'ovulation et grossesse"
+                "test ovulation et grossesse"
             ],
             [
                 5,
-                "test d'ovulation digital"
+                "test ovulation premom"
             ],
             [
                 6,
-                "test d'ovulation clearblue recharge"
+                "test ovulation clearblue digital avancé"
             ],
             [
                 7,
-                "test d'ovulation digital avancé"
+                "test ovulation one step"
             ],
             [
                 8,
-                "test d'ovulation one step"
+                "test ovulation clearblue recharge"
             ],
             [
                 9,
-                "test d'ovulation premom"
+                "test ovulation digital"
             ],
             [
                 0,
-                "planning familial 2026 2027"
-            ],
-            [
-                1,
-                "planning familial"
-            ],
-            [
-                2,
-                "planning familial 2027"
-            ],
-            [
-                3,
-                "planning familial 2026 2027 frigo"
-            ],
-            [
-                4,
-                "planning familial frigo"
-            ],
-            [
-                5,
-                "planning familial magnetique"
-            ],
-            [
-                6,
-                "planning familial frigo magnetique"
-            ],
-            [
-                7,
-                "planning familial 2026 2027 oxford"
-            ],
-            [
-                8,
-                "planning familial 2026 2027 mural"
-            ],
-            [
-                9,
-                "planning familial numerique"
+                "test sanguin grossesse"
             ],
             [
                 0,
-                "contraception et préservatifs"
+                "test grossesse bandelette"
             ],
             [
                 1,
-                "contraception femme"
+                "test grossesse bandelette easy home"
             ],
             [
-                2,
-                "contraception"
+                0,
+                "test grossesse positif"
             ],
             [
-                3,
-                "contraception chat"
+                1,
+                "test grossesse positif farce"
             ],
             [
-                4,
-                "contraception chat femelle"
+                0,
+                "suivi grossesse"
             ],
             [
-                5,
-                "contraception naturelle"
-            ],
-            [
-                6,
-                "contraception homme"
-            ],
-            [
-                7,
-                "contraception homme anneaux"
-            ],
-            [
-                8,
-                "contraception chien"
-            ],
-            [
-                9,
-                "contraception pour chat"
+                1,
+                "suivi grossesse livre"
             ]
         ],
         "bing": [
             [
                 0,
-                "où acheter un test de grossesse"
+                "test ovulation chien"
             ],
             [
                 1,
-                "faux test positif grossesse"
-            ],
-            [
-                2,
-                "faux test de grossesse positif blague"
-            ],
-            [
-                3,
-                "test de grossesse dessin"
-            ],
-            [
-                4,
-                "test de grossesse pour chienne"
+                "ovulation test for dogs"
             ],
             [
                 0,
-                "test ovulation chien"
+                "symptômes grossesse nerveuse chien"
+            ],
+            [
+                1,
+                "symptômes grosse fatigue"
+            ],
+            [
+                2,
+                "grossesse nerveuse chienne symptômes"
             ],
             [
                 0,
@@ -248,113 +194,53 @@
             ],
             [
                 2,
-                "retard de regles test negatif"
+                "retard dans les règles"
             ],
             [
                 0,
-                "planning familial"
+                "faux test positif grossesse"
             ],
             [
                 1,
-                "planning familial grenoble"
-            ],
-            [
-                2,
-                "planning familial voiron"
-            ],
-            [
-                3,
-                "planning familial paris"
-            ],
-            [
-                4,
-                "planning familial lyon"
-            ],
-            [
-                5,
-                "planning familial rennes"
-            ],
-            [
-                6,
-                "planning familial lille"
-            ],
-            [
-                7,
-                "planning familial nantes"
-            ],
-            [
-                8,
-                "planning familial marseille"
-            ],
-            [
-                9,
-                "planning familial toulouse"
-            ],
-            [
-                10,
-                "planning familial luxembourg"
-            ],
-            [
-                11,
-                "planning familial clermont ferrand"
+                "faux test de grossesse positif blague"
             ],
             [
                 0,
-                "contraception in the bible"
+                "suivi de grossesse la prairie"
             ],
             [
                 1,
-                "contraception act uk"
+                "suivi grosse"
             ],
             [
                 2,
-                "contraception for ducks"
+                "classeur suivi de grossesse"
             ],
             [
                 3,
-                "contraception for squirrels"
-            ],
-            [
-                4,
-                "contraception date de création"
-            ],
-            [
-                5,
-                "contraception act 1961"
-            ],
-            [
-                6,
-                "contraceptive for cats"
-            ],
-            [
-                7,
-                "contraption meaning"
+                "ciusss centre sud suivi de grossesse"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "où acheter un test de grossesse"
+                "test ovulation chien"
             ],
             [
                 1,
-                "faux test positif grossesse"
-            ],
-            [
-                2,
-                "faux test de grossesse positif blague"
-            ],
-            [
-                3,
-                "test de grossesse dessin"
-            ],
-            [
-                4,
-                "test de grossesse pour chienne"
+                "ovulation test for dogs"
             ],
             [
                 0,
-                "test ovulation chien"
+                "symptômes grossesse nerveuse chien"
+            ],
+            [
+                1,
+                "symptômes grosse fatigue"
+            ],
+            [
+                2,
+                "grossesse nerveuse chienne symptômes"
             ],
             [
                 0,
@@ -366,715 +252,729 @@
             ],
             [
                 2,
-                "retard de regles test negatif"
+                "retard dans les règles"
             ],
             [
                 0,
-                "planning familial"
+                "faux test positif grossesse"
             ],
             [
                 1,
-                "planning familial altstadt"
-            ],
-            [
-                2,
-                "planning familial paris"
-            ],
-            [
-                3,
-                "planning familial grenoble"
-            ],
-            [
-                4,
-                "planning familial lyon"
-            ],
-            [
-                5,
-                "planning familial rennes"
-            ],
-            [
-                6,
-                "planning familial lille"
-            ],
-            [
-                7,
-                "planning familial nantes"
+                "faux test de grossesse positif blague"
             ],
             [
                 0,
-                "contraception in the bible"
+                "suivi de grossesse la prairie"
             ],
             [
                 1,
-                "contraception act uk"
+                "suivi grosse"
             ],
             [
                 2,
-                "contraception for ducks"
+                "classeur suivi de grossesse"
             ],
             [
                 3,
-                "contraception for squirrels"
-            ],
-            [
-                4,
-                "contraception date de création"
-            ],
-            [
-                5,
-                "contraception act 1961"
-            ],
-            [
-                6,
-                "contraceptive for cats"
-            ],
-            [
-                7,
-                "contraption meaning"
+                "ciusss centre sud suivi de grossesse"
             ]
         ],
         "google": [
             [
                 0,
-                "fiabilité test de grossesse"
+                "test ovulation"
             ],
             [
                 1,
-                "fiabilité test de grossesse action"
+                "test ovulation clearblue"
             ],
             [
                 2,
-                "fiabilité test de grossesse précoce"
+                "test ovulation positif"
             ],
             [
                 3,
-                "fiabilité test de grossesse urinaire"
+                "test ovulation action"
             ],
             [
                 4,
-                "fiabilité test de grossesse clearblue"
+                "test ovulation pharmacie"
             ],
             [
                 5,
-                "fiabilité test de grossesse sanguin"
+                "test ovulation easy home"
             ],
             [
                 6,
-                "fiabilité test de grossesse clearblue précoce"
+                "test ovulation amazon"
             ],
             [
                 7,
-                "fiabilité test de grossesse positif"
+                "test ovulation prix"
             ],
             [
                 8,
-                "fiabilité test de grossesse négatif"
+                "test ovulation quand le faire"
             ],
             [
                 9,
-                "fiabilité test de grossesse carrefour"
+                "test ovulation comment ça marche"
             ],
             [
                 0,
-                "test d'ovulation"
+                "symptômes grossesse"
             ],
             [
                 1,
-                "test d'ovulation clearblue"
+                "symptômes grossesse 1 semaine"
             ],
             [
                 2,
-                "test d'ovulation positif"
+                "symptômes grossesse extra-utérine"
             ],
             [
                 3,
-                "test d'ovulation prix"
+                "symptômes grossesse premiers jours"
             ],
             [
                 4,
-                "test d'ovulation action"
+                "symptômes grossesse 2 semaines"
             ],
             [
                 5,
-                "test d'ovulation pharmacie"
+                "symptômes grossesse 1 mois"
             ],
             [
                 6,
-                "test d'ovulation comment ça marche"
+                "symptômes grossesse 1 semaine après rapport"
             ],
             [
                 7,
-                "test d'ovulation quand le faire"
+                "symptômes grossesse extra-utérine témoignage"
             ],
             [
                 8,
-                "test d'ovulation amazon"
+                "symptômes grossesse 5 jours après ovulation"
             ],
             [
                 9,
-                "test d'ovulation easy home"
+                "symptômes grossesse avec endométriose"
             ],
             [
                 0,
-                "symptômes de grossesse"
+                "test sanguin grossesse"
             ],
             [
                 1,
-                "symptômes de grossesse de 2 semaines"
+                "test sanguin grossesse pharmacie"
             ],
             [
                 2,
-                "symptômes de grossesse 1 semaine"
+                "test sanguin grossesse quand"
             ],
             [
                 3,
-                "symptômes de grossesse sans être enceinte"
+                "test sanguin grossesse sans ordonnance"
             ],
             [
                 4,
-                "symptômes de grossesse extra utérine"
+                "test sanguin grossesse prix"
             ],
             [
                 5,
-                "symptômes de grossesse 1 mois"
+                "test sanguin grossesse positif"
             ],
             [
                 6,
-                "symptômes de grossesse au bout de combien de temps"
+                "test sanguin grossesse combien de temps"
             ],
             [
                 7,
-                "symptômes de grossesse mais pas enceinte"
+                "test sanguin grossesse pharmacie avis"
             ],
             [
                 8,
-                "symptômes de grossesse qui disparaissent"
+                "test sanguin grossesse fiabilité"
             ],
             [
                 9,
-                "symptômes de grossesse précoce"
+                "test sanguin grossesse ordonnance"
             ],
             [
                 0,
-                "retard de règles test négatif"
+                "fiabilité test grossesse"
             ],
             [
                 1,
-                "retard de règles"
+                "fiabilité test grossesse action"
             ],
             [
                 2,
-                "retard de règles 15 jours"
+                "fiabilité test grossesse urinaire"
             ],
             [
                 3,
-                "retard de règles sans grossesse"
+                "fiabilité test grossesse sanguin"
             ],
             [
                 4,
-                "retard de règles 3 jours"
+                "fiabilité test grossesse précoce"
             ],
             [
                 5,
-                "retard de règles de 5 jours puis saignements"
+                "fiabilité test grossesse clearblue"
             ],
             [
                 6,
-                "retard de règles avec stérilet cuivre"
+                "fiabilité test grossesse mercurochrome"
             ],
             [
                 7,
-                "retard de règles 5 jours"
+                "fiabilité test grossesse 3 jours avant règles"
             ],
             [
                 8,
-                "retard de règles causes"
+                "fiabilité test grossesse medicaid"
             ],
             [
                 9,
-                "retard de règles 2 jours"
+                "fiabilité test grossesse avant date présumée règles"
             ],
             [
                 0,
-                "planning familial grenoble"
+                "retard règles"
             ],
             [
                 1,
-                "planning familial"
+                "retard règles 4 jours"
             ],
             [
                 2,
-                "planning familial echirolles"
+                "retard règles sans grossesse"
             ],
             [
                 3,
-                "planning familial abbaye"
+                "retard règles canicule"
             ],
             [
                 4,
-                "planning familial gambetta"
+                "retard règles une semaine"
             ],
             [
                 5,
-                "planning familial 38"
+                "retard règles sous pilule"
             ],
             [
                 6,
-                "planning familial fontaine"
+                "retard règles 5 jours"
             ],
             [
                 7,
-                "planning familial meylan"
+                "retard règles mais test négatif"
             ],
             [
                 8,
-                "planning familial villeurbanne"
+                "retard règles causes"
             ],
             [
                 9,
-                "planning familial isere"
+                "retard règles chaleur"
             ],
             [
                 0,
-                "contraception masculine"
+                "test grossesse bandelette"
             ],
             [
                 1,
-                "contraception"
+                "test grossesse bandelette pharmacie"
             ],
             [
                 2,
-                "contraception femme"
+                "test grossesse bandelette 10 ui"
             ],
             [
                 3,
-                "contraception masculine anneau"
+                "test grossesse bandelette positif"
             ],
             [
                 4,
-                "contraception sans hormones"
+                "test grossesse bandelette easy home"
             ],
             [
                 5,
-                "contraception thermique masculine"
+                "test grossesse bandelette negatif"
             ],
             [
                 6,
-                "contraception sans hormones femme"
+                "test grossesse bandelette 10 ui avis"
             ],
             [
                 7,
-                "contraception naturelle"
+                "test grossesse bandelette urinaire"
             ],
             [
                 8,
-                "contraception définitive femme"
+                "test grossesse bandelette amazon"
             ],
             [
                 9,
-                "contraception urgence prise en charge"
-            ]
-        ],
-        "indeed": [
+                "test grossesse bandelette fiable"
+            ],
             [
                 0,
-                "planning familial"
+                "test grossesse positif"
+            ],
+            [
+                1,
+                "test grossesse positif que faire"
+            ],
+            [
+                2,
+                "test grossesse positif photo"
+            ],
+            [
+                3,
+                "test grossesse positif clearblue"
+            ],
+            [
+                4,
+                "test grossesse positif immédiatement"
+            ],
+            [
+                5,
+                "test grossesse positif et prise de sang négative"
+            ],
+            [
+                6,
+                "test grossesse positif puis négatif le lendemain"
+            ],
+            [
+                7,
+                "test grossesse positif 30 min après"
+            ],
+            [
+                8,
+                "test grossesse positif leger"
+            ],
+            [
+                9,
+                "test grossesse positif homme"
+            ],
+            [
+                0,
+                "suivi grossesse has"
+            ],
+            [
+                1,
+                "suivi grossesse"
+            ],
+            [
+                2,
+                "suivi grossesse chu grenoble"
+            ],
+            [
+                3,
+                "suivi grossesse calendrier"
+            ],
+            [
+                4,
+                "suivi grossesse calcul"
+            ],
+            [
+                5,
+                "suivi grossesse semaine"
+            ],
+            [
+                6,
+                "suivi grossesse sage femme"
+            ],
+            [
+                7,
+                "suivi grossesse hôpital à partir de quel mois"
+            ],
+            [
+                8,
+                "suivi grossesse application"
+            ],
+            [
+                9,
+                "suivi grossesse sage femme ou gynéco"
             ]
         ],
         "yahoo": [
             [
                 0,
+                "test ovulation"
+            ],
+            [
+                1,
+                "test ovulation clearblue"
+            ],
+            [
+                2,
+                "test ovulation positif"
+            ],
+            [
+                3,
+                "test ovulation et grossesse"
+            ],
+            [
+                4,
+                "test ovulation action"
+            ],
+            [
+                5,
+                "test ovulation pharmacie"
+            ],
+            [
+                6,
+                "test ovulation bandelette"
+            ],
+            [
+                7,
+                "test ovulation prix"
+            ],
+            [
+                8,
+                "test ovulation notice"
+            ],
+            [
+                9,
+                "test ovulation en ligne"
+            ],
+            [
+                0,
+                "symptômes grossesse"
+            ],
+            [
+                1,
+                "symptômes grossesse extra utérine"
+            ],
+            [
+                2,
+                "symptômes grossesse premiers jours"
+            ],
+            [
+                3,
+                "symptômes grossesse gémellaire"
+            ],
+            [
+                4,
+                "symptômes grossesse 1er mois"
+            ],
+            [
+                5,
+                "symptômes grossesse 15 jours"
+            ],
+            [
+                6,
+                "symptômes grossesse jumeaux"
+            ],
+            [
+                7,
+                "symptômes grossesse 1 semaine"
+            ],
+            [
+                8,
+                "symptômes grossesse et règles"
+            ],
+            [
+                9,
+                "symptômes grossesse fiv"
+            ],
+            [
+                0,
+                "test sanguin grossesse"
+            ],
+            [
+                1,
+                "test sanguin grossesse prix maroc"
+            ],
+            [
+                0,
                 "fiabilité test de grossesse"
             ],
             [
-                1,
-                "fiabilité test de grossesse clearblue"
-            ],
-            [
                 0,
-                "test d'ovulation"
+                "retard règles"
             ],
             [
                 1,
-                "test d'ovulation clearblue"
+                "retard règles causes"
             ],
             [
                 2,
-                "test d'ovulation positif"
+                "retard règles stérilet cuivre"
             ],
             [
                 3,
-                "test d'ovulation gratuit"
+                "retard règles et perte blanche"
             ],
             [
                 4,
-                "test d'ovulation maroc"
+                "retard règles douleurs bas ventre"
             ],
             [
                 5,
-                "test d'ovulation action"
+                "retard règles test grossesse négatif"
             ],
             [
                 6,
-                "test d'ovulation clearblue barre"
-            ],
-            [
-                7,
-                "test d'ovulation positif que faire"
+                "retard règles et prise de poids"
             ],
             [
                 0,
-                "symptômes de grossesse"
+                "test bandelette urinaire"
             ],
             [
                 1,
-                "symptômes de grossesse premiers jours"
+                "test bandelettes infection urinaire"
             ],
             [
                 2,
-                "symptômes de grossesse 1 semaine"
+                "test bandelette piscine"
             ],
             [
                 3,
-                "symptômes de grossesse avant les règles"
-            ],
-            [
-                4,
-                "premiers symptômes de grossesse"
-            ],
-            [
-                5,
-                "quand apparaissent les premiers symptômes de grossesse"
-            ],
-            [
-                6,
-                "les symptômes de grossesse"
-            ],
-            [
-                7,
-                "premier symptômes de grossesse"
+                "test bandelette infection urinaire"
             ],
             [
                 0,
-                "retard de règles"
+                "test grossesse positif"
             ],
             [
                 1,
-                "retard de règles test négatif"
+                "test grossesse positif 1h après"
             ],
             [
                 2,
-                "retard de règles causes"
+                "test grossesse positif puis négatif"
             ],
             [
                 3,
-                "retard de règles sans grossesse"
+                "test grossesse positif et fausse couche"
             ],
             [
                 4,
-                "retard de règles et pertes blanches"
+                "test grossesse positif mais pas enceinte"
             ],
             [
                 5,
-                "retard de règles 3 jours"
-            ],
-            [
-                6,
-                "retard de règles 5 jours"
-            ],
-            [
-                7,
-                "retard de règles déclenchement"
-            ],
-            [
-                8,
-                "retard de règles 10 jours"
-            ],
-            [
-                9,
-                "retard de règles 1 mois"
+                "test grossesse positif et après"
             ],
             [
                 0,
-                "planning familial"
+                "suivi grossesse"
             ],
             [
                 1,
-                "planning familial paris"
+                "suivi grossesse par semaine"
             ],
             [
                 2,
-                "planning familial lille"
+                "suivi grossesse semaine après semaine"
             ],
             [
                 3,
-                "planning familial lyon"
+                "suivi grossesse has"
             ],
             [
                 4,
-                "planning familial rennes"
-            ],
-            [
-                5,
-                "planning familial grenoble"
-            ],
-            [
-                6,
-                "planning familial nantes"
-            ],
-            [
-                7,
-                "planning familial marseille"
-            ],
-            [
-                8,
-                "planning familial bordeaux"
-            ],
-            [
-                9,
-                "planning familial strasbourg"
-            ],
-            [
-                0,
-                "contraception"
-            ],
-            [
-                1,
-                "contraception masculine"
-            ],
-            [
-                2,
-                "contraception naturelle"
-            ],
-            [
-                3,
-                "contraception féminine"
-            ],
-            [
-                4,
-                "contraception d'urgence"
-            ],
-            [
-                5,
-                "contraception définitive"
-            ],
-            [
-                6,
-                "contraception implant"
-            ],
-            [
-                7,
-                "contraception homme"
-            ],
-            [
-                8,
-                "contraception sans hormones"
-            ],
-            [
-                9,
-                "contraception orale"
+                "suivi grossesse semaine par semaine"
             ]
         ],
         "youtube": [
             [
                 0,
+                "test ovulation"
+            ],
+            [
+                1,
+                "test ovulation clearblue"
+            ],
+            [
+                2,
+                "test ovulation action"
+            ],
+            [
+                3,
+                "test ovulation positif enceinte"
+            ],
+            [
+                4,
+                "test ovulation positif"
+            ],
+            [
+                5,
+                "test ovulation negatif"
+            ],
+            [
+                6,
+                "test ovulation grossesse"
+            ],
+            [
+                7,
+                "test ovulation biosynex"
+            ],
+            [
+                8,
+                "test ovulation premom"
+            ],
+            [
+                9,
+                "test ovulation lh"
+            ],
+            [
+                0,
+                "symptômes grossesse"
+            ],
+            [
+                1,
+                "symptômes grossesse premiers jours"
+            ],
+            [
+                2,
+                "symptômes grossesse extra-utérine"
+            ],
+            [
+                3,
+                "symptômes grossesse avant règles"
+            ],
+            [
+                4,
+                "symptômes grossesse 1 semaine"
+            ],
+            [
+                5,
+                "symptomes grossesse gemellaire début"
+            ],
+            [
+                6,
+                "symptomes grossesse extra uterine"
+            ],
+            [
+                7,
+                "symptomes grossesse garcon"
+            ],
+            [
+                8,
+                "grossesse symptômes premières semaines"
+            ],
+            [
+                9,
+                "symptome grossesse fille"
+            ],
+            [
+                0,
+                "test grossesse sanguin"
+            ],
+            [
+                1,
+                "test de grossesse sanguin negatif mais enceinte"
+            ],
+            [
+                2,
+                "test de grossesse sanguin comment le lire"
+            ],
+            [
+                3,
+                "test de grossesse sanguin positif"
+            ],
+            [
+                0,
                 "fiabilité test de grossesse"
             ],
             [
                 0,
-                "test d'ovulation"
+                "retard règles"
             ],
             [
                 1,
-                "test d'ovulation action"
-            ],
-            [
-                2,
-                "test d'ovulation clearblue"
-            ],
-            [
-                3,
-                "test d'ovulation pour detecter une grossesse"
-            ],
-            [
-                4,
-                "test d'ovulation pour avoir un garçon"
-            ],
-            [
-                5,
-                "test d'ovulation positif 5 jours avant les regles"
-            ],
-            [
-                6,
-                "test d'ovulation clearblue digital"
-            ],
-            [
-                7,
-                "test d'ovulation clearblue digital francais"
-            ],
-            [
-                8,
-                "test d'ovulation vitalio"
-            ],
-            [
-                9,
-                "test d'ovulation maroc"
-            ],
-            [
-                0,
-                "symptômes de grossesse"
-            ],
-            [
-                1,
-                "symptômes de grossesse 1 mois"
-            ],
-            [
-                2,
-                "symptômes de grossesse 2 semaine"
-            ],
-            [
-                3,
-                "symptômes de grossesse avant les règles"
-            ],
-            [
-                4,
-                "symptômes de grossesse 2 mois"
-            ],
-            [
-                5,
-                "symptômes de grossesse 1 semaine"
-            ],
-            [
-                6,
-                "symptômes de grossesse 3 semaine"
-            ],
-            [
-                7,
-                "symptômes de grossesse la premiere semaine"
-            ],
-            [
-                8,
-                "symptômes de grossesse de jumeaux"
-            ],
-            [
-                9,
-                "symptômes de grossesse sous pilule"
-            ],
-            [
-                0,
-                "retard de règles"
-            ],
-            [
-                1,
-                "retard de règles et test négatif"
-            ],
-            [
-                2,
                 "retard de règles 3 jours"
             ],
             [
-                3,
-                "retard de règles 5 jours"
-            ],
-            [
-                4,
+                2,
                 "retard de règles 4 jours"
             ],
             [
-                5,
-                "retard de règles 1 semaine"
-            ],
-            [
-                6,
-                "retard de regles grossesse"
-            ],
-            [
-                7,
-                "retard de regles 2 mois"
-            ],
-            [
-                8,
-                "retard de regles adolescent"
+                3,
+                "retard des règles 2 jours"
             ],
             [
                 0,
-                "planning familial"
-            ],
-            [
-                1,
-                "planning familial ivg"
-            ],
-            [
-                2,
-                "planning familial naturel"
-            ],
-            [
-                3,
-                "planning familial en islam"
-            ],
-            [
-                4,
-                "planning familial appareil"
-            ],
-            [
-                5,
-                "planning familial implant"
-            ],
-            [
-                6,
-                "planning familial au senegal"
-            ],
-            [
-                7,
-                "planning familial luxembourg"
-            ],
-            [
-                8,
-                "planning familial sterilet"
-            ],
-            [
-                9,
-                "planning familial piqure"
+                "test grossesse bandelette"
             ],
             [
                 0,
-                "contraception"
+                "test grossesse positif"
             ],
             [
                 1,
-                "contraception masculine"
+                "test grossesse positif que faire"
             ],
             [
                 2,
-                "contraception naturelle"
+                "test grossesse positif trait clair"
             ],
             [
                 3,
-                "contraception islam"
+                "test grossesse positif puis negatif"
             ],
             [
                 4,
-                "contraception femme"
+                "test grossesse positif mais pas enceinte"
             ],
             [
                 5,
-                "contraception masculine anneau thermique"
+                "test de grossesse positif ou negatif"
             ],
             [
                 6,
-                "contraception feminine"
+                "test de grossesse positif faible clearblue"
             ],
             [
                 7,
-                "contraception sans hormones"
+                "test de grossesse positif prise de sang negatif"
             ],
             [
                 8,
-                "contraception hormonale"
+                "test de grossesse positif clearblue"
             ],
             [
                 9,
-                "contraception implant"
+                "video test grossesse...positif"
+            ],
+            [
+                0,
+                "suivi grossesse"
+            ],
+            [
+                1,
+                "suivi grossesse quebec"
+            ],
+            [
+                2,
+                "suivi grossesse semaine après semaine"
+            ],
+            [
+                3,
+                "suivi grossesse sage femme"
+            ],
+            [
+                4,
+                "consultation grossesse"
+            ],
+            [
+                5,
+                "suivi de grossesse semaine par semaine"
+            ],
+            [
+                6,
+                "suivi de grossesse echographie"
+            ],
+            [
+                7,
+                "suivi de grossesse cours"
             ]
         ]
     },
@@ -1086,20 +986,6 @@
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
-            },
-            {
-                "title": "Contraception",
-                "views": 1043,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
-            },
-            {
-                "title": "Aménorrhée",
-                "views": 810,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
             }
         ],
         "sections": 3,
@@ -1110,146 +996,133 @@
     },
     "pages": [
         {
-            "group": "Tests de grossesse",
-            "title": "test de grossesse précoce",
+            "group": "Symptômes et suivi",
+            "title": "symptômes grossesse",
             "intent": "informational",
             "keywords": [
-                "test de grossesse précoce",
-                "où acheter un test de grossesse",
+                "symptômes grossesse",
                 "grossesse",
-                "hormone hcg",
-                "lecture résultat",
-                "test pharmacie",
-                "test précoce",
-                "test urinaire",
-                "tests médicaux rapides",
-                "fiabilité test de grossesse",
-                "sensibilité test",
-                "test de grossesse sanguin"
+                "suivi grossesse",
+                "suivi grossesse has",
+                "suivi grossesse semaine après semaine",
+                "symptômes grossesse extra utérine",
+                "symptômes grossesse 1 semaine"
             ]
         },
         {
-            "group": "Tests de grossesse",
-            "title": "test de grossesse clearblue",
-            "intent": "commercial",
-            "keywords": [
-                "test de grossesse clearblue",
-                "test d'ovulation clearblue",
-                "test de grossesse réutilisable"
-            ]
-        },
-        {
-            "group": "Tests de grossesse",
-            "title": "test de grossesse positif",
-            "intent": "informational",
-            "keywords": [
-                "test de grossesse positif",
-                "grossesse nerveuse",
-                "symptômes de grossesse",
-                "faux test de grossesse positif",
-                "faux positif"
-            ]
-        },
-        {
-            "group": "Contraception",
-            "title": "planning familial",
-            "intent": "informational",
-            "keywords": [
-                "planning familial",
-                "contraception",
-                "contraception naturelle"
-            ]
-        },
-        {
-            "group": "Contraception",
-            "title": "contraception masculine",
-            "intent": "informational",
-            "keywords": [
-                "contraception masculine",
-                "contraception femme"
-            ]
-        },
-        {
-            "group": "Retard de règles",
+            "group": "Symptômes et suivi",
             "title": "retard de regles",
             "intent": "informational",
             "keywords": [
                 "retard de regles",
-                "date des règles",
-                "retard de règles test négatif",
+                "symptômes grossesse premiers jours",
+                "3 jours de retard de regles",
+                "retard règles 4 jours"
+            ]
+        },
+        {
+            "group": "Types de tests",
+            "title": "test de grossesse précoce",
+            "intent": "informational",
+            "keywords": [
+                "test de grossesse précoce",
+                "hormone hcg",
+                "ligne évaporée",
+                "sensibilité test",
+                "test urinaire",
+                "tests médicaux rapides",
+                "test de grossesse sanguin",
+                "test grossesse bandelette",
+                "test du lapin",
+                "test de la grenouille"
+            ]
+        },
+        {
+            "group": "Types de tests",
+            "title": "test de grossesse clearblue",
+            "intent": "commercial",
+            "keywords": [
+                "test de grossesse clearblue",
+                "test ovulation clearblue",
+                "fiabilité test grossesse"
+            ]
+        },
+        {
+            "group": "Utilisation et achat",
+            "title": "test ovulation",
+            "intent": "informational",
+            "keywords": [
+                "test ovulation",
+                "test ovulation positif",
+                "test ovulation action",
+                "test ovulation et grossesse"
+            ]
+        },
+        {
+            "group": "Utilisation et achat",
+            "title": "test de grossesse prix",
+            "intent": "commercial",
+            "keywords": [
+                "test de grossesse prix",
+                "test de grossesse action"
+            ]
+        },
+        {
+            "group": "Interprétation des résultats",
+            "title": "test de grossesse positif",
+            "intent": "informational",
+            "keywords": [
+                "test de grossesse positif",
+                "faux test de grossesse positif",
+                "faux positif",
+                "test de grossesse négatif",
                 "faux négatif",
-                "3 jours de retard de regles"
-            ]
-        },
-        {
-            "group": "Retard de règles",
-            "title": "symptômes de grossesse 1 semaine",
-            "intent": "informational",
-            "keywords": [
-                "symptômes de grossesse 1 semaine"
-            ]
-        },
-        {
-            "group": "Tests alternatifs",
-            "title": "test d'ovulation",
-            "intent": "informational",
-            "keywords": [
-                "test d'ovulation",
-                "test d'ovulation action"
-            ]
-        },
-        {
-            "group": "Tests alternatifs",
-            "title": "test de grossesse avec du sel",
-            "intent": "informational",
-            "keywords": [
-                "test de grossesse lapin",
-                "test du lapin"
+                "test grossesse positif que faire",
+                "confirmation médicale",
+                "date conception"
             ]
         }
     ],
     "categories": {
-        "planning familial": "complementary",
-        "retard de regles": "complementary",
+        "test de grossesse positif": "core",
         "test de grossesse clearblue": "core",
         "test de grossesse précoce": "core",
-        "retard de règles test négatif": "complementary",
-        "test d'ovulation": "complementary",
-        "3 jours de retard de regles": "complementary",
-        "contraception": "complementary",
-        "test d'ovulation clearblue": "commercial",
-        "test de grossesse avec du sel": "doubtful",
-        "fiabilité test de grossesse": "core",
-        "symptômes de grossesse": "complementary",
-        "test de grossesse dessin": "doubtful",
-        "test de grossesse positif": "core",
-        "contraception masculine": "complementary",
+        "test de grossesse sanguin": "core",
+        "retard de regles": "core",
+        "test ovulation": "core",
+        "suivi grossesse": "core",
+        "test ovulation clearblue": "core",
+        "fiabilité test grossesse": "complementary",
+        "symptômes grossesse": "core",
+        "test grossesse bandelette": "core",
+        "symptômes grossesse extra utérine": "complementary",
+        "symptômes grossesse premiers jours": "complementary",
+        "test ovulation positif": "complementary",
+        "test ovulation action": "complementary",
         "faux test de grossesse positif": "complementary",
-        "test de grossesse pour chienne": "doubtful",
-        "contraception naturelle": "complementary",
-        "test de grossesse réutilisable": "commercial",
-        "contraception femme": "complementary",
-        "symptômes de grossesse 1 semaine": "complementary",
-        "test de grossesse sanguin": "complementary",
-        "test d'ovulation action": "complementary",
-        "contraception in the bible": "doubtful",
-        "où acheter un test de grossesse": "commercial",
-        "test de grossesse lapin": "complementary",
-        "test ovulation chien": "doubtful",
-        "contraception act uk": "doubtful",
+        "3 jours de retard de regles": "complementary",
+        "symptômes grossesse 1 semaine": "complementary",
+        "test de grossesse négatif": "complementary",
+        "test grossesse positif que faire": "complementary",
+        "test ovulation et grossesse": "complementary",
+        "retard règles 4 jours": "complementary",
+        "suivi grossesse has": "complementary",
+        "test de grossesse action": "commercial",
+        "test de grossesse avec du sel": "doubtful",
+        "suivi grossesse semaine après semaine": "complementary",
+        "test de grossesse dessin": "doubtful",
+        "test de grossesse prix": "commercial",
         "test urinaire": "core",
-        "test précoce": "core",
         "hormone hcg": "core",
         "faux positif": "complementary",
         "faux négatif": "complementary",
         "sensibilité test": "core",
-        "lecture résultat": "core",
-        "date des règles": "complementary",
-        "grossesse nerveuse": "core",
-        "test pharmacie": "commercial",
+        "ligne évaporée": "complementary",
+        "date conception": "complementary",
+        "confirmation médicale": "complementary",
         "grossesse": "complementary",
         "tests médicaux rapides": "complementary",
         "test du lapin": "complementary",
-        "test de la grenouille": "doubtful"
+        "test de la grenouille": "complementary"
     }
 }

@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "running shoes flat feet",
-        "motion control shoes",
+        "motion control running shoes",
         "stability running shoes",
         "overpronation running shoes",
-        "cushioned running shoes",
-        "orthotic running shoes",
-        "wide running shoes",
-        "running shoes for heavy runners"
+        "orthotic inserts running",
+        "foot arch support",
+        "running gait analysis",
+        "podiatrist recommended shoes"
     ],
     "suggestions": {
         "amazon": [
@@ -106,43 +106,23 @@
             ],
             [
                 0,
-                "motion control shoes"
+                "motion control running shoes men"
             ],
             [
                 1,
-                "motion control shoes for women"
+                "motion control running shoes"
             ],
             [
                 2,
-                "motion control shoes for men"
+                "motion control running shoes for women"
             ],
             [
                 3,
-                "motion control shoes for overpronation"
+                "motion control running shoes maximum support"
             ],
             [
                 4,
-                "motion control shoes men overpronation"
-            ],
-            [
-                5,
-                "motion control shoes for men flat feet"
-            ],
-            [
-                6,
-                "motion control shoes for men hoka"
-            ],
-            [
-                7,
-                "motion control shoes for women flat feet"
-            ],
-            [
-                8,
-                "motion control shoes flat feet"
-            ],
-            [
-                9,
-                "motion control shoes hoka"
+                "motion control running shoes overpronation"
             ],
             [
                 0,
@@ -198,99 +178,55 @@
             ],
             [
                 0,
-                "max cushioned running shoes for women"
+                "foot arch support"
             ],
             [
                 1,
-                "cushioned running shoes for men"
+                "foot arch support brace"
             ],
             [
                 2,
-                "max cushioned running shoes for men"
+                "foot arch support inserts"
             ],
             [
                 3,
-                "new balance womens cushioned running shoes"
+                "dr foot arch support inserts"
             ],
             [
                 4,
-                "brooks glycerin cushioned running shoes"
+                "flat foot arch support"
             ],
             [
                 5,
-                "cushioned running shoes for women"
+                "foot arch support sleeve"
             ],
             [
                 6,
-                "cushioned running shoes daily training"
+                "foot arch supports for men"
             ],
             [
                 7,
-                "cushioned running shoes"
+                "foot arch support for flat feet"
             ],
             [
                 8,
-                "cushioned running shoes for girls"
+                "foot arch support gel pads"
             ],
             [
                 9,
-                "cushioned running shoes black"
+                "foot arch support band"
             ],
             [
                 0,
-                "orthotic running shoes women"
+                "podiatrist recommended shoes"
             ],
             [
                 1,
-                "orthotic running shoes for men"
+                "podiatrist recommended shoes for women"
             ],
             [
                 2,
-                "orthotic running shoes"
-            ],
-            [
-                0,
-                "wide running shoes for men"
-            ],
-            [
-                1,
-                "wide running shoes for women"
-            ],
-            [
-                2,
-                "wide running shoes"
-            ],
-            [
-                3,
-                "extra wide running shoes for men"
-            ],
-            [
-                4,
-                "runfalcon 5 wide running shoes"
-            ],
-            [
-                5,
-                "extra wide running shoes"
-            ],
-            [
-                6,
-                "nike wide running shoes for men"
-            ],
-            [
-                7,
-                "wide running shoes for boys"
-            ],
-            [
-                8,
-                "wide running shoes kids"
-            ],
-            [
-                9,
-                "wide running shoes adidas"
-            ],
-            [
-                0,
-                "running shoes for heavy runners"
+                "podiatrist recommended shoes for men"
             ]
         ],
         "bing": [
@@ -316,47 +252,43 @@
             ],
             [
                 0,
-                "motion control shoes"
+                "motion control running shoes"
             ],
             [
                 1,
-                "motion control shoes for women"
+                "motion control running shoes for men"
             ],
             [
                 2,
-                "motion control shoes for men"
+                "motion control running shoes for beginners"
             ],
             [
                 3,
-                "motion control shoes for flat feet"
+                "motion control running shoes for women nike"
             ],
             [
                 4,
-                "motion control shoes kids"
+                "motion control running shoes for women asics"
             ],
             [
                 5,
-                "motion control shoes brooks"
+                "motion control running shoes for women adidas"
             ],
             [
                 6,
-                "motion control shoes running"
+                "motion control running shoes for women"
             ],
             [
                 7,
-                "motion control shoes in canada"
+                "motion control running shoes for wide feet"
             ],
             [
                 8,
-                "motion control shoes for walking"
+                "motion control running shoes for stability"
             ],
             [
                 9,
-                "motion control shoes for overpronation"
-            ],
-            [
-                10,
-                "motion control shoes for men in canada"
+                "motion control running shoes for women brooks"
             ],
             [
                 0,
@@ -432,187 +364,175 @@
             ],
             [
                 0,
-                "cushioned running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "cushioned running shoes men"
+                "foot arch support insoles"
             ],
             [
                 2,
-                "cushioned running shoes women"
+                "foot arch supports for men"
             ],
             [
                 3,
-                "cushioned running shoes uk"
+                "foot arch supports for women"
             ],
             [
                 4,
-                "cushioned running shoes with wide toe box"
+                "foot arch support pads"
             ],
             [
                 5,
-                "cushioned running shoes with arch support"
+                "foot arch support shoes"
             ],
             [
                 6,
-                "best cushioned running shoes"
+                "foot arch support sleeve"
             ],
             [
                 7,
-                "most cushioned running shoes"
+                "foot arch support exercises"
             ],
             [
                 8,
-                "cushioned trail running shoes"
+                "foot arch support strap"
             ],
             [
                 9,
-                "cushioned stability running shoes"
-            ],
-            [
-                0,
-                "orthotic running shoes"
-            ],
-            [
-                1,
-                "orthotic running shoes for women"
-            ],
-            [
-                2,
-                "insole orthotic for running shoes"
-            ],
-            [
-                3,
-                "merrell orthotic shoes for running"
-            ],
-            [
-                0,
-                "wide running shoes"
-            ],
-            [
-                1,
-                "wide running shoes for men"
-            ],
-            [
-                2,
-                "wide running shoes women"
-            ],
-            [
-                3,
-                "wide running shoes mens nike"
-            ],
-            [
-                4,
-                "wide running shoes with laces"
-            ],
-            [
-                5,
-                "wide running shoes mens asics"
-            ],
-            [
-                6,
-                "wide running shoes with velcro"
-            ],
-            [
-                7,
-                "wide running shoes for women brooks"
-            ],
-            [
-                8,
-                "wide running shoes for women reviews"
-            ],
-            [
-                9,
-                "wide running shoes for women saucony"
+                "foot arch support wraps"
             ],
             [
                 10,
-                "wide running shoes for women size 11"
+                "foot arch support band"
             ],
             [
                 11,
-                "wide running shoes for women clearance"
+                "foot arch supports for flat feet"
             ],
             [
                 12,
-                "wide running shoes for women nike"
+                "foot arch support for city walking"
             ],
             [
                 13,
-                "wide running shoes for women asics"
+                "foot arch supports for fallen arches"
             ],
             [
                 0,
-                "running shoes for heavy runners"
+                "running gait analysis"
             ],
             [
                 1,
-                "best running shoes for heavy runners"
+                "running gait analysis near me"
             ],
             [
                 2,
-                "best trail running shoes for heavy runners"
+                "running gait analysis london"
             ],
             [
                 3,
-                "best running shoes for heavy runners 2026"
+                "running gait analysis apps"
             ],
             [
                 4,
-                "best hoka running shoes for heavy runners"
+                "running gait analysis courses"
             ],
             [
                 5,
-                "best running shoes for heavy runners 2025"
+                "running gait analysis leeds"
             ],
             [
                 6,
-                "best brooks running shoes for heavy runners"
+                "running gait analysis exeter"
             ],
             [
                 7,
-                "best men's running shoes for heavy runners"
+                "running gait analysis nyc"
             ],
             [
                 8,
-                "best daily running shoes for heavy runners"
+                "running gait analysis form"
             ],
             [
                 9,
-                "running shoes for heavy men"
+                "running gait analysis certification"
             ],
             [
                 10,
-                "good running shoes for heavy men"
+                "running gait analysis online"
             ],
             [
                 11,
-                "running sneakers for heavy runners"
+                "running gait analysis oxford"
             ],
             [
                 12,
-                "best running shoes for heavy women"
+                "running gait analysis sydney"
             ],
             [
                 13,
-                "best marathon shoes for heavy runners"
+                "running gait analysis cardiff"
+            ],
+            [
+                0,
+                "podiatrist recommended shoes for women"
+            ],
+            [
+                1,
+                "podiatrist recommended shoes"
+            ],
+            [
+                2,
+                "podiatrist recommended shoes for men"
+            ],
+            [
+                3,
+                "podiatrist recommended shoes for bunions"
+            ],
+            [
+                4,
+                "podiatrist recommended shoes for toddlers"
+            ],
+            [
+                5,
+                "podiatrist recommended shoes for kids"
+            ],
+            [
+                6,
+                "podiatrist recommended shoes for walking"
+            ],
+            [
+                7,
+                "podiatrist recommended shoes for arthritis"
+            ],
+            [
+                8,
+                "podiatrist recommended shoes australia"
+            ],
+            [
+                9,
+                "podiatrist recommended shoes for standing"
+            ],
+            [
+                10,
+                "podiatrist recommended shoes for bunions uk"
+            ],
+            [
+                11,
+                "podiatrist recommended shoes for neuropathy"
+            ],
+            [
+                12,
+                "podiatrist recommended shoes for nurses"
+            ],
+            [
+                13,
+                "podiatrist recommended shoes for supination"
             ],
             [
                 14,
-                "best on running shoes for running"
-            ],
-            [
-                15,
-                "running shoes for overweight runners"
-            ],
-            [
-                16,
-                "running shoes for heavier men"
-            ],
-            [
-                17,
-                "shoes good for running"
+                "podiatrist recommended shoes for hammer toes"
             ]
         ],
         "duckduckgo": [
@@ -638,35 +558,35 @@
             ],
             [
                 0,
-                "motion control shoes"
+                "motion control running shoes"
             ],
             [
                 1,
-                "motion control shoes for women"
+                "motion control running shoes for men"
             ],
             [
                 2,
-                "motion control shoes for men"
+                "motion control running shoes for beginners"
             ],
             [
                 3,
-                "motion control shoes for flat feet"
+                "motion control running shoes for women nike"
             ],
             [
                 4,
-                "motion control shoes kids"
+                "motion control running shoes for women asics"
             ],
             [
                 5,
-                "motion control shoes brooks"
+                "motion control running shoes for women adidas"
             ],
             [
                 6,
-                "motion control shoes running"
+                "motion control running shoes for wide feet"
             ],
             [
                 7,
-                "motion control shoes in canada"
+                "motion control running shoes for stability"
             ],
             [
                 0,
@@ -726,115 +646,99 @@
             ],
             [
                 0,
-                "cushioned running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "cushioned running shoes men"
+                "foot arch support insoles"
             ],
             [
                 2,
-                "cushioned running shoes women"
+                "foot arch supports for men"
             ],
             [
                 3,
-                "cushioned running shoes uk"
+                "foot arch supports for women"
             ],
             [
                 4,
-                "cushioned running shoes with wide toe box"
+                "foot arch support pads"
             ],
             [
                 5,
-                "cushioned running shoes with arch support"
+                "foot arch support shoes"
             ],
             [
                 6,
-                "best cushioned running shoes"
+                "foot arch support sleeve"
             ],
             [
                 7,
-                "cushioned stability running shoes"
+                "foot arch support exercises"
             ],
             [
                 0,
-                "orthotic running shoes"
+                "running gait analysis"
             ],
             [
                 1,
-                "orthotic running shoes for women"
+                "running gait analysis near me"
             ],
             [
                 2,
-                "insole orthotic for running shoes"
+                "running gait analysis london"
             ],
             [
                 3,
-                "merrell orthotic shoes for running"
-            ],
-            [
-                0,
-                "wide running shoes"
-            ],
-            [
-                1,
-                "wide running shoes for men"
-            ],
-            [
-                2,
-                "wide running shoes women"
-            ],
-            [
-                3,
-                "wide running shoes mens nike"
+                "running gait analysis apps"
             ],
             [
                 4,
-                "wide running shoes with laces"
+                "running gait analysis courses"
             ],
             [
                 5,
-                "wide running shoes mens asics"
+                "running gait analysis leeds"
             ],
             [
                 6,
-                "wide running shoes with velcro"
+                "running gait analysis exeter"
             ],
             [
                 7,
-                "wide running shoes for women brooks"
+                "running gait analysis nyc"
             ],
             [
                 0,
-                "running shoes for heavy runners"
+                "podiatrist recommended shoes for women"
             ],
             [
                 1,
-                "best running shoes for heavy runners"
+                "podiatrist recommended shoes"
             ],
             [
                 2,
-                "best trail running shoes for heavy runners"
+                "podiatrist recommended shoes for men"
             ],
             [
                 3,
-                "best running shoes for heavy runners 2026"
+                "podiatrist recommended shoes for bunions"
             ],
             [
                 4,
-                "best running shoes for heavy runners 2025"
+                "podiatrist recommended shoes for toddlers"
             ],
             [
                 5,
-                "best brooks running shoes for heavy runners"
+                "podiatrist recommended shoes for kids"
             ],
             [
                 6,
-                "best men's running shoes for heavy runners"
+                "podiatrist recommended shoes for walking"
             ],
             [
                 7,
-                "best daily running shoes for heavy runners"
+                "podiatrist recommended shoes for arthritis"
             ]
         ],
         "ebay": [
@@ -852,51 +756,15 @@
             ],
             [
                 0,
-                "mens cushioned running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "cushioned running shoes 10.5"
-            ],
-            [
-                0,
-                "wide running shoes men"
-            ],
-            [
-                1,
-                "wide running shoes"
+                "arch support foot pads"
             ],
             [
                 2,
-                "wide running shoes size 13 mens"
-            ],
-            [
-                3,
-                "wide running shoes woman"
-            ],
-            [
-                4,
-                "mens running shoes size 14 wide"
-            ],
-            [
-                5,
-                "mens running shoes size 13 wide"
-            ],
-            [
-                6,
-                "mens running shoes size 12 wide"
-            ],
-            [
-                7,
-                "womens running shoes 7.5 wide"
-            ],
-            [
-                8,
-                "mens running shoes size 9 wide"
-            ],
-            [
-                9,
-                "mens running shoes size 10 wide"
+                "foot arch support insoles"
             ]
         ],
         "google": [
@@ -942,43 +810,43 @@
             ],
             [
                 0,
-                "motion control shoes"
+                "motion control running shoes"
             ],
             [
                 1,
-                "motion control shoes for women"
+                "motion control running shoes for women"
             ],
             [
                 2,
-                "motion control shoes men"
+                "motion control running shoes for men"
             ],
             [
                 3,
-                "motion control shoes for flat feet"
+                "motion control running shoes for flat feet"
             ],
             [
                 4,
-                "motion control shoes for walking"
+                "motion control running shoes for overpronation"
             ],
             [
                 5,
-                "motion control shoes for overpronation"
+                "motion control running shoes new balance"
             ],
             [
                 6,
-                "motion control shoes for kids"
+                "motion control running shoes nike"
             ],
             [
                 7,
-                "motion control shoes new balance"
+                "motion control running shoes hoka"
             ],
             [
                 8,
-                "motion control shoes brooks"
+                "motion control tennis shoes"
             ],
             [
                 9,
-                "motion control shoes vs stability"
+                "motion control athletic shoes"
             ],
             [
                 0,
@@ -1062,163 +930,151 @@
             ],
             [
                 0,
-                "cushioned running shoes"
+                "orthotic inserts running shoes"
             ],
             [
                 1,
-                "cushioned running shoes women"
+                "orthotic inserts running"
             ],
             [
                 2,
-                "cushioned running shoes for men"
+                "shoe inserts running"
             ],
             [
                 3,
-                "cushioned running shoes with wide toe box"
+                "orthotic insoles running shoes"
             ],
             [
                 4,
-                "cushioned running shoes causing knee pain"
+                "shoe inserts running reddit"
             ],
             [
                 5,
-                "cushioned running shoes pros and cons"
+                "best orthotic inserts for running"
             ],
             [
                 6,
-                "cushioned running shoes nike"
-            ],
-            [
-                7,
-                "cushioned running shoes with good energy return"
-            ],
-            [
-                8,
-                "cushioned running shoes for plantar fasciitis"
-            ],
-            [
-                9,
-                "cushioned running shoes with arch support"
+                "can i run with orthotic inserts"
             ],
             [
                 0,
-                "orthotic running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "orthotic running shoes for women"
+                "foot arch support insoles"
             ],
             [
                 2,
-                "orthotic running shoes for men"
+                "foot arch support brace"
             ],
             [
                 3,
-                "orthotic running shoes canada"
+                "foot arch support inserts"
             ],
             [
                 4,
-                "orthotic running shoes near me"
+                "foot arch support shoes"
             ],
             [
                 5,
-                "orthopedic running shoes"
+                "foot arch support for flat feet"
             ],
             [
                 6,
-                "orthopedic running shoes for women"
+                "foot arch support sleeve"
             ],
             [
                 7,
-                "orthopedic running shoes for men"
+                "foot arch support for plantar fasciitis"
             ],
             [
                 8,
-                "orthotic tennis shoes"
+                "foot arch support band"
             ],
             [
                 9,
-                "orthotic tennis shoes for women"
+                "foot arch support tape"
             ],
             [
                 0,
-                "wide running shoes"
+                "running gait analysis near me"
             ],
             [
                 1,
-                "wide running shoes men"
+                "running gait analysis"
             ],
             [
                 2,
-                "wide running shoes women"
+                "running gait analysis app"
             ],
             [
                 3,
-                "wide running shoes for kids"
+                "running gait analysis physical therapy"
             ],
             [
                 4,
-                "wide running shoes near me"
+                "running gait analysis cost"
             ],
             [
                 5,
-                "wide running shoes reddit"
+                "running gait analysis software"
             ],
             [
                 6,
-                "wide running shoes with arch support"
+                "running gait analysis video"
             ],
             [
                 7,
-                "wide running shoes for flat feet"
+                "running gait analysis app free"
             ],
             [
                 8,
-                "wide running shoes nike"
+                "running gait analysis free"
             ],
             [
                 9,
-                "wide running shoes on sale"
+                "running gait analysis chicago"
             ],
             [
                 0,
-                "running shoes for heavy runners"
+                "podiatrist recommended shoes"
             ],
             [
                 1,
-                "running shoes for heavy runners with wide feet"
+                "podiatrist recommended shoes for neuropathy"
             ],
             [
                 2,
-                "running shoes for heavy runners reddit"
+                "podiatrist recommended shoes for achilles tendonitis"
             ],
             [
                 3,
-                "running shoes for heavy runners men"
+                "podiatrist recommended shoes for toddlers"
             ],
             [
                 4,
-                "running shoes for heavy runners women"
+                "podiatrist recommended shoes for supination"
             ],
             [
                 5,
-                "running shoes for heavy runners with flat feet"
+                "podiatrist recommended shoes for standing all day"
             ],
             [
                 6,
-                "running shoes for heavy runners 2025"
+                "podiatrist recommended shoes for plantar fasciitis"
             ],
             [
                 7,
-                "running shoes for heavier runners"
+                "podiatrist recommended shoes for teachers"
             ],
             [
                 8,
-                "running shoes for overweight runners"
+                "podiatrist recommended shoes for overpronation"
             ],
             [
                 9,
-                "best running shoes for heavy runners"
+                "podiatrist recommended shoes for bunions"
             ]
         ],
         "yahoo": [
@@ -1264,43 +1120,39 @@
             ],
             [
                 0,
-                "motion control shoes"
+                "motion control running shoes"
             ],
             [
                 1,
-                "motion control shoes for women"
+                "motion control running shoes for women"
             ],
             [
                 2,
-                "motion control shoes for overpronation"
+                "motion control running shoes for men"
             ],
             [
                 3,
-                "motion control shoes for men"
+                "motion control running shoes brooks"
             ],
             [
                 4,
-                "motion control shoes vs stability shoes"
+                "motion control running shoes runner's world"
             ],
             [
                 5,
-                "motion control shoes for flat feet"
+                "motion control running shoes review"
             ],
             [
                 6,
-                "motion control shoes brooks"
+                "motion control running shoes for flat feet"
             ],
             [
                 7,
-                "motion control shoes definition"
+                "motion control running shoes for overpronation"
             ],
             [
                 8,
-                "motion control shoes new balance"
-            ],
-            [
-                9,
-                "motion control shoes meaning"
+                "motion control running shoes men"
             ],
             [
                 0,
@@ -1376,147 +1228,127 @@
             ],
             [
                 0,
-                "cushioned running shoes"
-            ],
-            [
-                1,
-                "cushioned running shoes for women"
-            ],
-            [
-                2,
-                "cushioned running shoes & performance wear"
-            ],
-            [
-                3,
-                "cushioned running shoes for men"
-            ],
-            [
-                4,
-                "cushioned running shoes reviews"
-            ],
-            [
-                5,
-                "cushioned running shoes lumbar issues"
-            ],
-            [
-                6,
-                "cushioned running shoes with arch support"
-            ],
-            [
-                7,
-                "cushioned running shoes wide toe box"
-            ],
-            [
-                8,
-                "cushioned running shoes for high arches"
-            ],
-            [
-                9,
-                "cushioned running shoes for plantar fasciitis"
+                "orthotic inserts running shoes"
             ],
             [
                 0,
-                "orthotic running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "orthotic running shoes for women"
+                "foot arch support inserts"
             ],
             [
                 2,
-                "best orthotic running shoes for men"
+                "foot arch support brace"
             ],
             [
                 3,
-                "best orthotic running shoes"
+                "foot arch support insoles"
             ],
             [
                 4,
-                "orthotic running shoes for men"
+                "foot arch support wraps"
             ],
             [
                 5,
-                "best orthotic running shoes for women"
-            ],
-            [
-                0,
-                "wide running shoes"
-            ],
-            [
-                1,
-                "wide running shoes for men"
-            ],
-            [
-                2,
-                "wide running shoes for women"
-            ],
-            [
-                3,
-                "wide running shoes for high arches"
-            ],
-            [
-                4,
-                "wide running shoes vs narrow"
-            ],
-            [
-                5,
-                "wide running shoes carbon plate"
+                "foot arch support products"
             ],
             [
                 6,
-                "wide running shoes nike"
+                "foot arch support flat feet"
             ],
             [
                 7,
-                "wide running shoes on cloud"
+                "foot arch support pads"
             ],
             [
                 8,
-                "wide running shoes best"
+                "foot arch support for sandals"
             ],
             [
                 9,
-                "wide running shoes for kids"
+                "foot arch support shoes"
             ],
             [
                 0,
-                "running shoes for heavy runners"
+                "running gait analysis"
             ],
             [
                 1,
-                "best running shoes for heavy runners"
+                "running gait analysis near me"
             ],
             [
                 2,
-                "top running shoes for heavy runners"
+                "running gait analysis certification"
             ],
             [
                 3,
-                "budget running shoes for heavy runners"
+                "running gait analysis in houston texas"
             ],
             [
                 4,
-                "nike running shoes for heavy runners"
+                "running gait analysis chicago"
             ],
             [
                 5,
-                "best men's running shoes for heavy runners"
+                "running gait analysis madison wi"
             ],
             [
                 6,
-                "best cushioned running shoes for heavy runners"
+                "running gait analysis software"
             ],
             [
                 7,
-                "best neutral running shoes for heavy runners"
+                "running gait analysis dallas tx"
             ],
             [
                 8,
-                "best brooks running shoes for heavy runners"
+                "running gait analysis minnesota"
             ],
             [
                 9,
-                "best trail running shoes for heavy runners"
+                "running gait analysis research"
+            ],
+            [
+                0,
+                "podiatrist recommended shoes for women"
+            ],
+            [
+                1,
+                "podiatrist recommended shoes"
+            ],
+            [
+                2,
+                "podiatrist recommended shoes for plantar fasciitis"
+            ],
+            [
+                3,
+                "podiatrist recommended shoes for arthritis"
+            ],
+            [
+                4,
+                "podiatrist recommended shoes for bunions"
+            ],
+            [
+                5,
+                "podiatrist recommended shoes for supination"
+            ],
+            [
+                6,
+                "podiatrist recommended shoes for overpronation"
+            ],
+            [
+                7,
+                "podiatrist recommended shoes for standing"
+            ],
+            [
+                8,
+                "podiatrist recommended shoes for neuropathy"
+            ],
+            [
+                9,
+                "podiatrist recommended shoes for nurses"
             ]
         ],
         "youtube": [
@@ -1562,14 +1394,6 @@
             ],
             [
                 0,
-                "motion control shoes"
-            ],
-            [
-                1,
-                "motion control shoes for flat feet"
-            ],
-            [
-                2,
                 "motion control running shoes"
             ],
             [
@@ -1634,119 +1458,107 @@
             ],
             [
                 0,
-                "cushioned running shoes"
+                "foot arch support"
             ],
             [
                 1,
-                "supportive running shoes"
+                "foot arch support taping"
             ],
             [
                 2,
-                "max cushioned running shoes"
+                "foot arch support exercises"
             ],
             [
                 3,
-                "best cushioned running shoes"
+                "foot arch support sleeve"
             ],
             [
                 4,
-                "most cushioned running shoes"
+                "foot arch support pad"
             ],
             [
                 5,
-                "best cushioned running shoes in india"
+                "foot arch support for flat feet"
             ],
             [
                 6,
-                "max cushioned running shoes 2025"
+                "feet arch support"
             ],
             [
                 7,
-                "best cushioned running shoes under 5000"
+                "flat foot arch support"
             ],
             [
                 8,
-                "cushioned trail running shoes"
+                "flat foot arch support socks"
             ],
             [
                 9,
-                "top cushioned running shoes"
+                "flat foot arch support shoes"
             ],
             [
                 0,
-                "orthopedic running shoes"
-            ],
-            [
-                0,
-                "wide running shoes"
+                "running gait analysis"
             ],
             [
                 1,
-                "wide running shoes 2025"
+                "running gait analysis biomechanics"
             ],
             [
                 2,
-                "wide running shoes for flat feet"
+                "running gait analysis app"
             ],
             [
                 3,
-                "wide running shoes india"
+                "running gait analysis treadmill"
             ],
             [
                 4,
-                "big running shoes"
+                "running form analysis"
             ],
             [
                 5,
-                "wide sports shoes"
+                "running technique analysis usain bolt"
             ],
             [
                 6,
-                "wide feet running shoes india"
+                "running gait assessment"
             ],
             [
                 7,
-                "nike wide running shoes"
+                "runners need gait analysis"
             ],
             [
                 8,
-                "wide feet running shoes 2025"
+                "up and running gait analysis"
             ],
             [
                 9,
-                "wide toe box running shoes"
+                "gait analysis running shoes"
             ],
             [
                 0,
-                "running shoes for heavy runners"
+                "podiatrist recommended shoes"
             ],
             [
                 1,
-                "running shoes for heavy runners 2025"
+                "podiatrist recommended shoes for plantar fasciitis"
             ],
             [
                 2,
-                "running shoes for overweight runners"
+                "podiatrist approved shoes"
             ],
             [
                 3,
-                "best running shoes for heavy runners"
+                "podiatrist recommended sneakers"
             ],
             [
                 4,
-                "running shoes for heavy male runners 2025"
+                "podiatrist recommended sandals"
             ],
             [
                 5,
-                "best budget running shoes for heavy runners"
-            ],
-            [
-                6,
-                "best trail running shoes for heavy runners"
-            ],
-            [
-                7,
-                "best running shoes for overweight runners"
+                "podiatrist recommended walking shoes"
             ]
         ]
     },
@@ -1782,73 +1594,92 @@
     },
     "pages": [
         {
-            "group": "Gender-Specific Shoes",
-            "title": "best running shoes for flat feet women",
-            "intent": "commercial",
-            "keywords": [
-                "best running shoes for flat feet women",
-                "stability running shoes for women",
-                "running shoes flat feet women",
-                "overpronation running shoes women",
-                "wide running shoes for women"
-            ]
-        },
-        {
-            "group": "Gender-Specific Shoes",
+            "group": "Running Shoes for Flat Feet",
             "title": "best running shoes for flat feet men",
             "intent": "commercial",
             "keywords": [
                 "best running shoes for flat feet men",
-                "wide running shoes for men",
+                "running shoes flat feet men",
+                "stability features",
+                "stability running shoes",
                 "stability running shoes men",
+                "motion control running shoes men",
                 "overpronation running shoes men"
             ]
         },
         {
-            "group": "Performance & Support",
-            "title": "cushioned running shoes",
-            "intent": "informational",
+            "group": "Running Shoes for Flat Feet",
+            "title": "best running shoes for flat feet women",
+            "intent": "commercial",
             "keywords": [
-                "cushioned running shoes",
-                "nike air yeezy",
-                "mens cushioned running shoes",
-                "cushioned running shoes women"
+                "best running shoes for flat feet women",
+                "running shoes flat feet women",
+                "overpronation running shoes women",
+                "podiatrist recommended shoes for women",
+                "stability running shoes for women",
+                "motion control running shoes for women"
             ]
         },
         {
-            "group": "Performance & Support",
-            "title": "stability running shoes",
-            "intent": "informational",
-            "keywords": [
-                "stability running shoes",
-                "overpronation running shoes"
-            ]
-        },
-        {
-            "group": "Foot Conditions",
+            "group": "Running Shoes for Flat Feet",
             "title": "running shoes flat feet",
             "intent": "informational",
             "keywords": [
                 "running shoes flat feet",
-                "motion control shoes",
-                "orthotic running shoes",
-                "comparison of orthotics"
+                "breathable upper",
+                "comparison of orthotics",
+                "cushioned running shoes",
+                "cushioning midsole",
+                "durable outsole",
+                "heel counter support",
+                "pronation control",
+                "wide toe box",
+                "podiatrist recommended shoes",
+                "orthotic inserts running shoes"
             ]
         },
         {
-            "group": "Specialized Needs",
-            "title": "wide running shoes",
-            "intent": "commercial",
+            "group": "Foot Support and Insoles",
+            "title": "foot arch support",
+            "intent": "informational",
             "keywords": [
-                "wide running shoes"
+                "foot arch support",
+                "arch support design",
+                "foot arch support insoles",
+                "foot arch support inserts",
+                "arch support foot pads"
             ]
         },
         {
-            "group": "Specialized Needs",
-            "title": "running shoes for heavy runners",
+            "group": "Foot Support and Insoles",
+            "title": "foot arch support brace",
             "intent": "commercial",
             "keywords": [
-                "running shoes for heavy runners"
+                "foot arch support brace",
+                "best running shoes for flat feet and plantar fasciitis",
+                "podiatrist recommended shoes for plantar fasciitis",
+                "foot arch support sleeve"
+            ]
+        },
+        {
+            "group": "Running Gait and Analysis",
+            "title": "running gait analysis",
+            "intent": "informational",
+            "keywords": [
+                "running gait analysis",
+                "motion control technology",
+                "motion control running shoes",
+                "overpronation running shoes",
+                "running gait analysis app"
+            ]
+        },
+        {
+            "group": "Yearly Recommendations",
+            "title": "best running shoes for flat feet 2025",
+            "intent": "commercial",
+            "keywords": [
+                "best running shoes for flat feet 2025",
+                "nike air yeezy"
             ]
         }
     ],
@@ -1856,26 +1687,42 @@
         "best running shoes for flat feet men": "core",
         "best running shoes for flat feet women": "core",
         "running shoes flat feet": "core",
-        "wide running shoes": "core",
-        "motion control shoes": "core",
-        "running shoes for heavy runners": "core",
+        "foot arch support": "core",
+        "motion control running shoes": "core",
         "overpronation running shoes": "core",
-        "wide running shoes for men": "core",
-        "cushioned running shoes": "core",
-        "mens cushioned running shoes": "core",
+        "podiatrist recommended shoes": "core",
         "stability running shoes": "core",
-        "orthotic running shoes": "core",
         "stability running shoes men": "core",
-        "overpronation running shoes men": "core",
-        "running shoes flat feet women": "core",
         "stability running shoes for women": "core",
+        "running gait analysis": "core",
+        "motion control running shoes men": "core",
+        "overpronation running shoes men": "core",
         "overpronation running shoes women": "core",
-        "wide running shoes for women": "core",
-        "cushioned running shoes women": "core",
+        "running shoes flat feet women": "core",
+        "foot arch support insoles": "core",
+        "motion control running shoes for women": "core",
+        "podiatrist recommended shoes for women": "core",
+        "running shoes flat feet men": "core",
+        "foot arch support brace": "complementary",
+        "arch support foot pads": "core",
+        "foot arch support inserts": "core",
+        "running gait analysis app": "complementary",
+        "best running shoes for flat feet and plantar fasciitis": "core",
+        "podiatrist recommended shoes for plantar fasciitis": "core",
+        "foot arch support sleeve": "core",
+        "best running shoes for flat feet 2025": "core",
+        "orthotic inserts running shoes": "core",
+        "cushioned running shoes": "core",
+        "motion control technology": "complementary",
+        "arch support design": "core",
+        "pronation control": "core",
+        "stability features": "core",
+        "cushioning midsole": "complementary",
+        "durable outsole": "complementary",
+        "breathable upper": "complementary",
+        "wide toe box": "complementary",
+        "heel counter support": "core",
         "comparison of orthotics": "complementary",
-        "nike air yeezy": "commercial",
-        "motion control shoes for women": "doubtful",
-        "orthotic running shoes women": "doubtful",
-        "motion control shoes for men": "doubtful"
+        "nike air yeezy": "commercial"
     }
 }

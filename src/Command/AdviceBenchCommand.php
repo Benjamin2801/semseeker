@@ -4,8 +4,10 @@ namespace App\Command;
 
 use App\Ai\KeywordCategory;
 use App\Search\KeywordSearch;
+use App\Search\SearchResult;
 use App\Suggest\Keyword;
 use App\Suggest\SuggestionCollector;
+use App\Suggest\SuggestionMerger;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -17,6 +19,9 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 #[AsCommand(name: 'app:advice:bench', description: 'Analyse des expressions et affiche le conseil de chacune.')]
 final class AdviceBenchCommand extends Command
 {
+    // Juste, défendable, vu en seconde option ou dans la marge d'un seuil, faux, non mesuré.
+    private const MARKS = ['right' => '✔', 'ok' => '✔', 'acceptable' => '≈', 'option' => '~', 'fragile' => '~', 'wrong' => '✘', 'skip' => '·'];
+
     public function __construct(
         private readonly KeywordSearch $search,
         private readonly SuggestionCollector $collector,
@@ -31,7 +36,9 @@ final class AdviceBenchCommand extends Command
             ->addOption('lang', null, InputOption::VALUE_REQUIRED, 'Langue des suggestions', 'fr')
             ->addOption('core', null, InputOption::VALUE_NONE, 'Affiche aussi l\'article Wikipédia principal et les fondamentaux')
             ->addOption('expect', null, InputOption::VALUE_REQUIRED, 'Fichier d\'attentes (tests/Calibration/cases.json) : compare attendu et obtenu')
-            ->addOption('record', null, InputOption::VALUE_REQUIRED, 'Dossier où enregistrer chaque recherche pour la rejouer sans réseau');
+            ->addOption('record', null, InputOption::VALUE_REQUIRED, 'Dossier où enregistrer chaque recherche pour la rejouer sans réseau')
+            ->addOption('replay', null, InputOption::VALUE_REQUIRED, 'Dossier de recherches enregistrées : rejoue sans réseau ni IA (avec --expect)')
+            ->addOption('repeat', null, InputOption::VALUE_REQUIRED, 'Lance chaque recherche N fois et mesure ce qui varie d\'un passage à l\'autre', '1');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output): int
@@ -51,17 +58,31 @@ final class AdviceBenchCommand extends Command
             return Command::INVALID;
         }
         $record = $input->getOption('record');
+        $replay = $input->getOption('replay');
+        $repeat = null !== $replay ? 1 : max(1, (int) $input->getOption('repeat'));
 
         $rows = [];
-        $passed = 0;
+        $runs = [];
         foreach ($expressions as $expression) {
             $expression = (string) $expression;
             $expectation = $expectations[$expression] ?? null;
             $lang = $expectation->lang ?? (string) $input->getOption('lang');
-            $started = microtime(true);
-            $result = $this->search->search($expression, $lang);
+            if (null !== $replay) {
+                $path = rtrim((string) $replay, '/\\').'/'.($expectation?->slug() ?? '').'.json';
+                if (null === $expectation || !is_file($path)) {
+                    $io->warning(sprintf('« %s » : aucune recherche enregistrée.', $expression));
+                    continue;
+                }
+                $passes = [[BenchFixture::replay(json_decode((string) file_get_contents($path), true, flags: \JSON_THROW_ON_ERROR)), null]];
+            } else {
+                $passes = [];
+                for ($i = 0; $i < $repeat; ++$i) {
+                    $started = microtime(true);
+                    $passes[] = [$this->search->search($expression, $lang), microtime(true) - $started];
+                }
+            }
+            [$result, $elapsed] = $passes[0];
             $advice = $result->getAdvice();
-            $elapsed = microtime(true) - $started;
             if (null !== $record && null !== $expectation) {
                 // Les suggestions sont en cache depuis la recherche : les relire ne coûte aucune requête.
                 $fixture = BenchFixture::record($expression, $lang, $result, $this->collector->collect($expression, $lang, $result->concepts));
@@ -83,27 +104,68 @@ final class AdviceBenchCommand extends Command
                 $advice->depth,
                 $advice->orientation ?? '—',
                 null !== $result->field ? \count($result->field->groups).' / '.$result->field->getPageCount() : '—',
-                BenchExpectation::intentOf($result) ?? '—',
-                sprintf('%.1f s', $elapsed),
+                BenchExpectation::intentSummary($result),
+                null !== $elapsed ? sprintf('%.1f s', $elapsed) : '—',
             ];
+            if ($repeat > 1) {
+                $row[] = self::stability(array_column($passes, 0));
+            }
             if (null !== $expectation) {
                 $check = $expectation->check($result);
-                $passed += BenchExpectation::passes($check) ? 1 : 0;
                 $row[] = implode(' / ', array_map(static fn ($t): string => $t->value, $expectation->verdicts));
-                $row[] = implode(' ', array_map(static fn (string $name, ?bool $ok): string => match ($ok) {
-                    true => '✔'.$name,
-                    false => '✘'.$name,
-                    null => '·'.$name,
-                }, array_keys($check), $check));
+                $row[] = implode(' ', array_map(static fn (string $name, string $status): string => self::MARKS[$status].$name, array_keys($check), $check));
+                $field = $expectation->checkField($result);
+                $row[] = null !== $field ? sprintf('%s bruit %d %%, couverture %d %%',
+                    BenchExpectation::fieldPasses($field) ? (BenchExpectation::fieldIsFragile($field) ? '~' : '✔') : '✘',
+                    round(100 * $field['noiseShare']), round(100 * $field['coverage'])) : '—';
+                $runs[] = [$expectation, $result];
             }
             $rows[] = $row;
         }
         $headers = ['Expression', 'Verdict', 'Volet', 'Demande', 'Concept', 'Profondeur', 'Achat', 'Thèmes / pages', 'Intention', 'Durée'];
-        $io->table([] !== $expectations ? [...$headers, 'Attendu', 'Contrôle'] : $headers, $rows);
-        if ([] !== $expectations) {
-            $io->writeln(sprintf('%d / %d conformes aux attentes.', $passed, \count($rows)));
+        if ($repeat > 1) {
+            $headers[] = 'Stabilité';
+        }
+        $io->table([] !== $expectations ? [...$headers, 'Attendu', 'Contrôle', 'Champ'] : $headers, $rows);
+        if ([] !== $runs) {
+            $io->writeln('✔ juste · ≈ défendable · ~ fragile (seconde option ou marge d\'un seuil) · ✘ faux · · non mesuré');
+            $io->success(BenchExpectation::formatScorecard(BenchExpectation::scorecard($runs)));
         }
 
         return Command::SUCCESS;
+    }
+
+    /**
+     * Ce qui varie d'un passage à l'autre : le conseil, la famille d'intention du plan, les pages (recouvrement des
+     * mots-clés principaux avec le premier passage).
+     *
+     * @param list<SearchResult> $results
+     */
+    private static function stability(array $results): string
+    {
+        $verdicts = array_map(static fn (SearchResult $r): string => $r->getAdvice()->verdict->value, $results);
+        $business = array_map(static function (SearchResult $r): string {
+            $shares = BenchExpectation::intentShares($r);
+
+            return [] === $shares ? '—' : ($shares['commercial'] + $shares['transactional'] >= BenchExpectation::INTENT_SHARE[1] ? 'achat' : 'info');
+        }, $results);
+        $pages = array_map(static function (SearchResult $r): array {
+            $titles = [];
+            foreach ($r->field->groups ?? [] as $group) {
+                foreach ($group->pages as $page) {
+                    $titles[] = SuggestionMerger::key($page->main->text);
+                }
+            }
+
+            return array_unique($titles);
+        }, $results);
+        $overlap = [];
+        foreach (\array_slice($pages, 1) as $other) {
+            $union = array_unique([...$pages[0], ...$other]);
+            $overlap[] = [] !== $union ? \count(array_intersect($pages[0], $other)) / \count($union) : 1.0;
+        }
+        $same = static fn (array $values): string => \count(array_filter($values, static fn (string $v): bool => $v === $values[0])).'/'.\count($values);
+
+        return sprintf('conseil %s · intention %s · pages %d %%', $same($verdicts), $same($business), round(100 * array_sum($overlap) / max(1, \count($overlap))));
     }
 }

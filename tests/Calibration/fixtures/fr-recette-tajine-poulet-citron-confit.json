@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "tajine marocain",
-        "recette tajine agneau",
-        "tajine poulet olives",
-        "citron confit maison",
         "cuisine marocaine",
-        "plat traditionnel marocain",
+        "plat traditionnel",
         "épices tajine",
-        "cuisson tajine"
+        "cuisson tajine",
+        "recette végétarienne",
+        "accompagnement tajine",
+        "histoire tajine",
+        "ustensiles tajine"
     ],
     "suggestions": {
         "bing": [
@@ -61,42 +61,6 @@
         "amazon": [
             [
                 0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocaine"
-            ],
-            [
-                2,
-                "tajine marocain induction"
-            ],
-            [
-                3,
-                "tajine marocain terre cuite"
-            ],
-            [
-                4,
-                "tajine marocain tout feux"
-            ],
-            [
-                5,
-                "tajine marocain xxl"
-            ],
-            [
-                6,
-                "tajine marocain individuel"
-            ],
-            [
-                7,
-                "tajine marocain maquillage"
-            ],
-            [
-                8,
-                "tajine marocain inox"
-            ],
-            [
-                0,
                 "cuisine marocaine"
             ],
             [
@@ -113,6 +77,10 @@
             ],
             [
                 0,
+                "plat traditionnel"
+            ],
+            [
+                0,
                 "épices tajine"
             ],
             [
@@ -122,145 +90,49 @@
             [
                 0,
                 "cuisson tajine"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recettes végétariennes"
+            ],
+            [
+                2,
+                "recette végétarienne air fryer"
+            ],
+            [
+                3,
+                "recette végétarienne du monde"
+            ],
+            [
+                4,
+                "recettes végétariennes air fryer"
+            ],
+            [
+                5,
+                "recettes végétarienne air fryer"
+            ],
+            [
+                6,
+                "recettes végétariennes protéinées"
+            ],
+            [
+                7,
+                "recettes végétariennes thermomix"
+            ],
+            [
+                8,
+                "recettes végétariennes cookeo"
+            ],
+            [
+                9,
+                "recette végétarienne protéines"
             ]
         ],
         "bing": [
-            [
-                0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain poulet"
-            ],
-            [
-                2,
-                "tajine marocain agneau"
-            ],
-            [
-                3,
-                "tajine marocain recette"
-            ],
-            [
-                4,
-                "tajine marocain légumes"
-            ],
-            [
-                5,
-                "tajine marocain viande"
-            ],
-            [
-                6,
-                "tajine marocain poulet citron"
-            ],
-            [
-                7,
-                "tajine marocain poulet épices"
-            ],
-            [
-                8,
-                "tajine marocain poulet amandes"
-            ],
-            [
-                9,
-                "tajine marocain poulet pruneaux"
-            ],
-            [
-                10,
-                "tajine marocain aux fruits secs"
-            ],
-            [
-                11,
-                "tajine marocain poulet légumes"
-            ],
-            [
-                0,
-                "recette tajine agneau"
-            ],
-            [
-                1,
-                "recette tajine agneau pruneaux"
-            ],
-            [
-                2,
-                "recette tajine agneau marocaine"
-            ],
-            [
-                3,
-                "recette tajine agneau légumes"
-            ],
-            [
-                4,
-                "recette tajine agneau aux abricots"
-            ],
-            [
-                5,
-                "recette tajine agneau citron confit"
-            ],
-            [
-                6,
-                "recette tajine agneau marmiton"
-            ],
-            [
-                7,
-                "recette tajine agneau figues"
-            ],
-            [
-                8,
-                "recette tajine agneau poulet"
-            ],
-            [
-                9,
-                "recette tajine agneau aux coings"
-            ],
-            [
-                10,
-                "recette tajine agneau au four"
-            ],
-            [
-                11,
-                "recette tajine agneau citron confit olives"
-            ],
-            [
-                0,
-                "tajine poulet olives"
-            ],
-            [
-                1,
-                "tajine poulet olives citron"
-            ],
-            [
-                2,
-                "tajine poulet olives citron confit"
-            ],
-            [
-                3,
-                "tajine poulet olives facile"
-            ],
-            [
-                4,
-                "tajine poulet olives pommes de terre"
-            ],
-            [
-                5,
-                "tajine de poulet aux olives"
-            ],
-            [
-                6,
-                "recette tajine poulet citron olives"
-            ],
-            [
-                7,
-                "tajine poulet aux olives"
-            ],
-            [
-                0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "faire citron confit maison"
-            ],
             [
                 0,
                 "cuisine marocaine"
@@ -311,15 +183,51 @@
             ],
             [
                 0,
-                "plat traditionnel marocain"
+                "plat traditionnel"
             ],
             [
                 1,
-                "plat traditionnel marocain dessert"
+                "plat traditionnel français"
             ],
             [
                 2,
-                "plat traditionnel marocain recette"
+                "plat traditionnel espagnol"
+            ],
+            [
+                3,
+                "plat traditionnel algerien"
+            ],
+            [
+                4,
+                "plat traditionnel japonais"
+            ],
+            [
+                5,
+                "plat traditionnel italien"
+            ],
+            [
+                6,
+                "plat traditionnel portugais"
+            ],
+            [
+                7,
+                "plat traditionnel marocain"
+            ],
+            [
+                8,
+                "plat traditionnel russe"
+            ],
+            [
+                9,
+                "plat traditionnel chinois"
+            ],
+            [
+                10,
+                "plat traditionnel anglais"
+            ],
+            [
+                11,
+                "plat traditionnel allemand"
             ],
             [
                 0,
@@ -376,113 +284,77 @@
             [
                 5,
                 "cuisson tajine four"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recette végétarienne facile"
+            ],
+            [
+                2,
+                "recette végétarienne protéinée"
+            ],
+            [
+                3,
+                "recette végétarienne automne"
+            ],
+            [
+                4,
+                "recette végétarienne noël"
+            ],
+            [
+                5,
+                "recette végétarienne hiver"
+            ],
+            [
+                6,
+                "recette végétarienne facile et rapide"
+            ],
+            [
+                7,
+                "recette végétarienne rapide"
+            ],
+            [
+                8,
+                "recette végétarienne courgette"
+            ],
+            [
+                9,
+                "recette végétarienne originale"
+            ],
+            [
+                10,
+                "recette végétarienne gastronomique"
+            ],
+            [
+                11,
+                "recette végétarienne pois chiche"
+            ],
+            [
+                0,
+                "accompagnement tajine"
+            ],
+            [
+                1,
+                "accompagnement tajine poulet"
+            ],
+            [
+                2,
+                "accompagnement tajine agneau"
+            ],
+            [
+                3,
+                "accompagnement tajine poulet citron confit"
+            ],
+            [
+                0,
+                "histoire du tajine"
             ]
         ],
         "duckduckgo": [
-            [
-                0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain poulet"
-            ],
-            [
-                2,
-                "tajine marocain agneau"
-            ],
-            [
-                3,
-                "tajine marocain recette"
-            ],
-            [
-                4,
-                "tajine marocain légumes"
-            ],
-            [
-                5,
-                "tajine marocain viande"
-            ],
-            [
-                6,
-                "tajine marocain poulet citron"
-            ],
-            [
-                7,
-                "tajine marocain poulet épices"
-            ],
-            [
-                0,
-                "recette tajine agneau pruneaux"
-            ],
-            [
-                1,
-                "recette tajine agneau"
-            ],
-            [
-                2,
-                "recette tajine agneau marocaine"
-            ],
-            [
-                3,
-                "recette tajine agneau légumes"
-            ],
-            [
-                4,
-                "recette tajine agneau aux abricots"
-            ],
-            [
-                5,
-                "recette tajine agneau citron confit"
-            ],
-            [
-                6,
-                "recette tajine agneau marmiton"
-            ],
-            [
-                7,
-                "recette tajine agneau figues"
-            ],
-            [
-                0,
-                "tajine poulet olives"
-            ],
-            [
-                1,
-                "tajine poulet olives citron"
-            ],
-            [
-                2,
-                "tajine poulet olives citron confit"
-            ],
-            [
-                3,
-                "tajine poulet olives facile"
-            ],
-            [
-                4,
-                "tajine poulet olives pommes de terre"
-            ],
-            [
-                5,
-                "tajine de poulet aux olives"
-            ],
-            [
-                6,
-                "recette tajine poulet citron olives"
-            ],
-            [
-                7,
-                "tajine poulet aux olives"
-            ],
-            [
-                0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "faire citron confit maison"
-            ],
             [
                 0,
                 "cuisine marocaine"
@@ -517,15 +389,35 @@
             ],
             [
                 0,
-                "plat traditionnel marocain"
+                "plat traditionnel"
             ],
             [
                 1,
-                "plat traditionnel marocain dessert"
+                "plat traditionnel français"
             ],
             [
                 2,
-                "plat traditionnel marocain recette"
+                "plat traditionnel espagnol"
+            ],
+            [
+                3,
+                "plat traditionnel algerien"
+            ],
+            [
+                4,
+                "plat traditionnel japonais"
+            ],
+            [
+                5,
+                "plat traditionnel italien"
+            ],
+            [
+                6,
+                "plat traditionnel portugais"
+            ],
+            [
+                7,
+                "plat traditionnel marocain"
             ],
             [
                 0,
@@ -582,169 +474,61 @@
             [
                 5,
                 "cuisson tajine four"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recette végétarienne facile"
+            ],
+            [
+                2,
+                "recette végétarienne protéinée"
+            ],
+            [
+                3,
+                "recette végétarienne automne"
+            ],
+            [
+                4,
+                "recette végétarienne noël"
+            ],
+            [
+                5,
+                "recette végétarienne hiver"
+            ],
+            [
+                6,
+                "recette végétarienne facile et rapide"
+            ],
+            [
+                7,
+                "recette végétarienne rapide"
+            ],
+            [
+                0,
+                "accompagnement tajine"
+            ],
+            [
+                1,
+                "accompagnement tajine poulet"
+            ],
+            [
+                2,
+                "accompagnement tajine agneau"
+            ],
+            [
+                3,
+                "accompagnement tajine poulet citron confit"
+            ],
+            [
+                0,
+                "histoire du tajine"
             ]
         ],
         "google": [
-            [
-                0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain recette"
-            ],
-            [
-                2,
-                "tajine marocain poulet"
-            ],
-            [
-                3,
-                "tajine marocain traditionnel"
-            ],
-            [
-                4,
-                "tajine marocain agneau"
-            ],
-            [
-                5,
-                "tajine marocain kefta pomme de terre"
-            ],
-            [
-                6,
-                "tajine marocain aux pruneaux"
-            ],
-            [
-                7,
-                "tajine marocain legume"
-            ],
-            [
-                8,
-                "tajine marocain maquillage"
-            ],
-            [
-                9,
-                "tajine marocain ou algerien"
-            ],
-            [
-                0,
-                "recette tajine agneau"
-            ],
-            [
-                1,
-                "recette tajine agneau pruneaux"
-            ],
-            [
-                2,
-                "recette tajine agneau abricot"
-            ],
-            [
-                3,
-                "recette tajine agneau legume"
-            ],
-            [
-                4,
-                "recette tajine agneau citron confit"
-            ],
-            [
-                5,
-                "recette tajine agneau marmiton"
-            ],
-            [
-                6,
-                "recette tajine agneau au four"
-            ],
-            [
-                7,
-                "recette tajine agneau marocain"
-            ],
-            [
-                8,
-                "recette tajine agneau poulet"
-            ],
-            [
-                9,
-                "recette tajine agneau abricots amandes"
-            ],
-            [
-                0,
-                "tajine poulet olives marocain"
-            ],
-            [
-                1,
-                "tajine poulet olives"
-            ],
-            [
-                2,
-                "tajine poulet olives citron confit"
-            ],
-            [
-                3,
-                "tajine poulet olives citron"
-            ],
-            [
-                4,
-                "tajine poulet olives pomme de terre"
-            ],
-            [
-                5,
-                "tajine poulet olives cookeo"
-            ],
-            [
-                6,
-                "tajine poulet olives vertes"
-            ],
-            [
-                7,
-                "tajine poulet olives noires"
-            ],
-            [
-                8,
-                "tajine poulet olives frites"
-            ],
-            [
-                9,
-                "tajine poulet olives citron confit pommes de terre"
-            ],
-            [
-                0,
-                "citron confit maison pour tajine"
-            ],
-            [
-                1,
-                "citron confit maison"
-            ],
-            [
-                2,
-                "citron confit maison pour tajine rapide"
-            ],
-            [
-                3,
-                "citron confit maison rapide"
-            ],
-            [
-                4,
-                "citron confit maison sucre"
-            ],
-            [
-                5,
-                "citron confit maison conservation"
-            ],
-            [
-                6,
-                "citron confit maison express"
-            ],
-            [
-                7,
-                "citron confit maison lamotte"
-            ],
-            [
-                8,
-                "citron confit maison marocain"
-            ],
-            [
-                9,
-                "citrons confits maison à l'huile"
-            ],
             [
                 0,
                 "cuisine marocaine"
@@ -787,43 +571,43 @@
             ],
             [
                 0,
-                "plat traditionnel marocain"
+                "plat traditionnel"
             ],
             [
                 1,
-                "plat traditionnel marocain rfissa"
+                "plat traditionnel français"
             ],
             [
                 2,
-                "plat traditionnel marocain 8 lettres"
+                "plat traditionnel portugais"
             ],
             [
                 3,
-                "plat traditionnel marocain pastilla"
+                "plat traditionnel espagnol"
             ],
             [
                 4,
-                "plat traditionnel marocain marrakech"
+                "plat traditionnel marocain"
             ],
             [
                 5,
-                "plat traditionnel marocain mariage"
+                "plat traditionnel allemand"
             ],
             [
                 6,
-                "plat traditionnel marocain tajine"
+                "plat traditionnel anglais"
             ],
             [
                 7,
-                "plat traditionnel marocain ramadan"
+                "plat traditionnel algerien"
             ],
             [
                 8,
-                "plat traditionnel marocain pigeon"
+                "plat traditionnel russe"
             ],
             [
                 9,
-                "plat traditionnel marocain tanjia"
+                "plat traditionnel albanais"
             ],
             [
                 0,
@@ -904,6 +688,114 @@
             [
                 9,
                 "cuisson tajine terre cuite"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recette végétarienne été"
+            ],
+            [
+                2,
+                "recette végétarienne facile"
+            ],
+            [
+                3,
+                "recette végétarienne rapide soir"
+            ],
+            [
+                4,
+                "recette végétarienne rapide"
+            ],
+            [
+                5,
+                "recette végétarienne gastronomique"
+            ],
+            [
+                6,
+                "recette végétarienne pour la famille"
+            ],
+            [
+                7,
+                "recette végétarienne légère pour le soir"
+            ],
+            [
+                8,
+                "recette végétarienne protéinée"
+            ],
+            [
+                9,
+                "recette végétarienne facile et rapide"
+            ],
+            [
+                0,
+                "accompagnement tajine poulet"
+            ],
+            [
+                1,
+                "accompagnement tajine"
+            ],
+            [
+                2,
+                "accompagnement tajine agneau"
+            ],
+            [
+                3,
+                "accompagnement tajine kefta"
+            ],
+            [
+                4,
+                "accompagnement tajine poulet citron"
+            ],
+            [
+                5,
+                "accompagnement tajine poulet citron olives"
+            ],
+            [
+                6,
+                "accompagnement tajine poulet citron confit"
+            ],
+            [
+                7,
+                "accompagnement tajine tunisien"
+            ],
+            [
+                8,
+                "accompagnement tajine marocain"
+            ],
+            [
+                9,
+                "accompagnement tajine agneau pruneaux"
+            ],
+            [
+                0,
+                "histoire tajine"
+            ],
+            [
+                1,
+                "histoire tajinebanane"
+            ],
+            [
+                2,
+                "histoire tajine marocain"
+            ],
+            [
+                3,
+                "histoire du tajine tunisien"
+            ],
+            [
+                0,
+                "ustensiles tajine"
+            ],
+            [
+                1,
+                "tajine ustensiles de cuisine"
+            ],
+            [
+                2,
+                "instrument tajine"
             ]
         ],
         "indeed": [
@@ -913,122 +805,6 @@
             ]
         ],
         "yahoo": [
-            [
-                0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain au poulet"
-            ],
-            [
-                2,
-                "tajine marocain recette"
-            ],
-            [
-                3,
-                "tajine marocain agneau"
-            ],
-            [
-                4,
-                "tajine marocain traditionnelle"
-            ],
-            [
-                5,
-                "tajine marocain marmiton"
-            ],
-            [
-                6,
-                "tajine marocain amazon"
-            ],
-            [
-                7,
-                "tajine marocain frites"
-            ],
-            [
-                8,
-                "tajine marocain youtube"
-            ],
-            [
-                9,
-                "tajine marocain au veau"
-            ],
-            [
-                0,
-                "recette tajine agneau"
-            ],
-            [
-                1,
-                "recette tajine agneau pruneaux"
-            ],
-            [
-                2,
-                "recette tajine agneau légumes"
-            ],
-            [
-                3,
-                "recette tajine agneau abricot"
-            ],
-            [
-                4,
-                "recette tajine agneau courgette"
-            ],
-            [
-                5,
-                "recette tajine agneau fruits secs"
-            ],
-            [
-                6,
-                "recette tajine agneau citron"
-            ],
-            [
-                7,
-                "recette tajine agneau et poulet"
-            ],
-            [
-                8,
-                "recette tajine agneau carotte"
-            ],
-            [
-                9,
-                "recette tajine agneau au four"
-            ],
-            [
-                0,
-                "tajine poulet olives"
-            ],
-            [
-                1,
-                "tajine poulet olives citron"
-            ],
-            [
-                2,
-                "tajine poulet olives pommes de terre"
-            ],
-            [
-                3,
-                "tajine poulet olives vertes"
-            ],
-            [
-                4,
-                "tajine poulet olives marocain"
-            ],
-            [
-                5,
-                "tajine poulet olives citron confit"
-            ],
-            [
-                0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "faire citron confit maison"
-            ],
-            [
-                2,
-                "recette citron confit maison"
-            ],
             [
                 0,
                 "cuisine marocaine"
@@ -1071,43 +847,43 @@
             ],
             [
                 0,
-                "plat marocain"
+                "plat traditionnel"
             ],
             [
                 1,
-                "plat traditionnel marocain"
+                "plat traditionnel espagnol"
             ],
             [
                 2,
-                "plat marocain facile"
+                "plat traditionnel algérien"
             ],
             [
                 3,
-                "plat marocain fissa fissa"
+                "plat traditionnel anglais"
             ],
             [
                 4,
-                "plat marocain sfa"
+                "plat traditionnel irlandais"
             ],
             [
                 5,
-                "plat marocain pastilla"
+                "plats traditionnels français"
             ],
             [
                 6,
-                "plat marocain pattes de boeuf"
+                "plat traditionnel serbe"
             ],
             [
                 7,
-                "plat marocain poulet vermicelle"
+                "plat traditionnel indien"
             ],
             [
                 8,
-                "plat marocain sefa"
+                "plat traditionnel coréen"
             ],
             [
                 9,
-                "plat marocain tride"
+                "plat traditionnel roumain"
             ],
             [
                 0,
@@ -1140,137 +916,101 @@
             [
                 3,
                 "cuisson tajine agneau"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recette végétarienne facile"
+            ],
+            [
+                2,
+                "recette végétarienne gourmande"
+            ],
+            [
+                3,
+                "recette végétarienne plat principal"
+            ],
+            [
+                4,
+                "recette végétarienne indienne"
+            ],
+            [
+                5,
+                "recette végétarienne rapide"
+            ],
+            [
+                6,
+                "recette végétarienne thermomix"
+            ],
+            [
+                7,
+                "recette végétarienne pour noël"
+            ],
+            [
+                8,
+                "recette végétarienne cookeo"
+            ],
+            [
+                9,
+                "recette végétarienne haricots blancs"
+            ],
+            [
+                0,
+                "accompagnement tajine"
+            ],
+            [
+                1,
+                "accompagnement tajine poulet citron"
+            ],
+            [
+                2,
+                "accompagnement tajine agneau"
+            ],
+            [
+                3,
+                "accompagnement tajine poulet"
+            ],
+            [
+                4,
+                "vin accompagnement tajine poulet"
+            ],
+            [
+                0,
+                "histoire tajine poulet"
+            ],
+            [
+                1,
+                "histoire tajine d'agneau"
+            ],
+            [
+                2,
+                "histoire tajine marocain"
+            ],
+            [
+                3,
+                "histoire tajine tunisien"
+            ],
+            [
+                0,
+                "ustensiles tajine poulet"
+            ],
+            [
+                1,
+                "ustensiles tajine d'agneau"
+            ],
+            [
+                2,
+                "ustensiles tajine marocain"
+            ],
+            [
+                3,
+                "ustensiles tajine tunisien"
             ]
         ],
         "youtube": [
-            [
-                0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain poulet"
-            ],
-            [
-                2,
-                "tajine marocain viande"
-            ],
-            [
-                3,
-                "tajine marocain agneau"
-            ],
-            [
-                4,
-                "tajine marocain legume"
-            ],
-            [
-                5,
-                "tajine marocain boeuf"
-            ],
-            [
-                6,
-                "tajine marocain kefta"
-            ],
-            [
-                7,
-                "tajine marocain pruneaux"
-            ],
-            [
-                8,
-                "tajine marocain poisson"
-            ],
-            [
-                9,
-                "tajine marocain viande hachée"
-            ],
-            [
-                0,
-                "recette tajine agneau"
-            ],
-            [
-                1,
-                "recette tajine agneau marocain"
-            ],
-            [
-                2,
-                "recette tajine agneau legumes"
-            ],
-            [
-                3,
-                "recette tajine agneau abricot"
-            ],
-            [
-                4,
-                "recette tajine agneau olive"
-            ],
-            [
-                5,
-                "recette tajine agneau pruneaux"
-            ],
-            [
-                6,
-                "recette tajine agneau pomme de terre"
-            ],
-            [
-                7,
-                "recette tajine veau"
-            ],
-            [
-                8,
-                "recette tajine veau legumes"
-            ],
-            [
-                9,
-                "recette tajine mouton"
-            ],
-            [
-                0,
-                "tajine poulet olives"
-            ],
-            [
-                1,
-                "tajine poulet olives pomme de terre"
-            ],
-            [
-                2,
-                "tajine poulet olives marocain"
-            ],
-            [
-                3,
-                "tajine poulet olives citron"
-            ],
-            [
-                4,
-                "tajine poulet olives frites"
-            ],
-            [
-                5,
-                "tajine poulet olives choumicha"
-            ],
-            [
-                6,
-                "tajine poulet olives cookeo"
-            ],
-            [
-                7,
-                "tajine poulet olives citron confit"
-            ],
-            [
-                8,
-                "tajine poulet olives carottes"
-            ],
-            [
-                9,
-                "tajine poulet olives champignon"
-            ],
-            [
-                0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "comment faire du citron confit maison"
-            ],
             [
                 0,
                 "cuisine marocaine"
@@ -1313,19 +1053,43 @@
             ],
             [
                 0,
-                "plat traditionnel marocain"
+                "plat traditionnel français"
             ],
             [
                 1,
-                "recette cuisine marocaine"
+                "plat traditionnel"
             ],
             [
                 2,
-                "recette traditionnelle marocaine"
+                "plat traditionnel kabyle"
             ],
             [
                 3,
-                "recette couscous traditionnel marocain"
+                "plat traditionnel marocain"
+            ],
+            [
+                4,
+                "plat traditionnel algérien"
+            ],
+            [
+                5,
+                "plat traditionnel portugais"
+            ],
+            [
+                6,
+                "plat traditionnel de biskra"
+            ],
+            [
+                7,
+                "plat traditionnel mayotte"
+            ],
+            [
+                8,
+                "plat traditionnel tunisien"
+            ],
+            [
+                9,
+                "plat traditionnel coréen"
             ],
             [
                 0,
@@ -1362,6 +1126,50 @@
             [
                 6,
                 "cuisson pruneaux pour tajine"
+            ],
+            [
+                0,
+                "recette végétarienne"
+            ],
+            [
+                1,
+                "recette végétarienne facile"
+            ],
+            [
+                2,
+                "recette végétarienne protéinée"
+            ],
+            [
+                3,
+                "recette végétarienne air fryer"
+            ],
+            [
+                4,
+                "recette végétarienne noel"
+            ],
+            [
+                5,
+                "recette végétarienne gastronomique"
+            ],
+            [
+                6,
+                "recette végétarienne hiver"
+            ],
+            [
+                7,
+                "recette végétarienne indienne"
+            ],
+            [
+                8,
+                "recette végétarienne automne"
+            ],
+            [
+                9,
+                "recette végétarienne rapide"
+            ],
+            [
+                0,
+                "accompagnement tajine"
             ]
         ]
     },
@@ -1406,34 +1214,49 @@
             "intent": "informational",
             "keywords": [
                 "recette tajine poulet citron confit olives",
-                "coriandre fraîche",
-                "eau ou bouillon",
-                "oignons caramélisés",
-                "olives vertes",
-                "tajine poulet olives citron",
-                "tajine poulet olives citron confit",
-                "recette tajine poulet citron confit abricot"
+                "lime",
+                "miel",
+                "oignons",
+                "olives",
+                "épices tajine",
+                "epices tajine poulet",
+                "ras el hanout",
+                "safran",
+                "cuisson tajine au four"
             ]
         },
         {
             "group": "Recettes de tajine",
-            "title": "recette tajine agneau",
+            "title": "recette végétarienne facile",
             "intent": "informational",
             "keywords": [
-                "recette tajine agneau",
-                "recette tajine agneau pruneaux",
-                "recette tajine agneau légumes",
-                "recette tajine agneau abricot"
+                "recette végétarienne facile",
+                "recette végétarienne",
+                "recette végétarienne protéinée",
+                "recette végétarienne rapide"
             ]
         },
         {
-            "group": "Recettes de tajine",
-            "title": "tajine poulet olives",
+            "group": "Cuisson et accompagnement",
+            "title": "cuisson tajine en terre cuite",
             "intent": "informational",
             "keywords": [
-                "tajine poulet olives",
-                "tajine poulet olives pomme de terre",
-                "epices tajine poulet"
+                "cuisson tajine en terre cuite",
+                "cuisson tajine",
+                "terre cuite",
+                "cuisson tajine agneau",
+                "cuisson lente"
+            ]
+        },
+        {
+            "group": "Cuisson et accompagnement",
+            "title": "accompagnement tajine poulet",
+            "intent": "informational",
+            "keywords": [
+                "accompagnement tajine poulet",
+                "accompagnement tajine",
+                "plat unique",
+                "accompagnement tajine agneau"
             ]
         },
         {
@@ -1443,91 +1266,75 @@
             "keywords": [
                 "cuisine marocaine traditionnelle",
                 "cuisine marocaine",
-                "recette cuisine marocaine",
-                "plat traditionnel marocain",
-                "cuisine marocaine moderne"
+                "histoire du tajine",
+                "plat traditionnel marocain"
             ]
         },
         {
             "group": "Cuisine marocaine",
-            "title": "tajine marocain",
+            "title": "cuisine marocaine moderne",
             "intent": "informational",
             "keywords": [
-                "tajine marocain",
-                "plat tajine",
-                "tajine marocain poulet",
-                "tajine marocain agneau"
-            ]
-        },
-        {
-            "group": "Ingrédients",
-            "title": "épices tajine",
-            "intent": "informational",
-            "keywords": [
-                "épices tajine",
+                "cuisine marocaine moderne",
                 "épices tajine composition",
-                "safran",
-                "épices ras el hanout"
+                "cuisine marocaine recette"
             ]
         },
         {
-            "group": "Ingrédients",
-            "title": "citron confit maison",
+            "group": "Plats traditionnels",
+            "title": "plat traditionnel",
             "intent": "informational",
             "keywords": [
-                "citron confit maison",
-                "faire citron confit maison"
+                "plat traditionnel"
             ]
         },
         {
-            "group": "Cuisson du tajine",
-            "title": "cuisson tajine",
+            "group": "Plats traditionnels",
+            "title": "plat traditionnel français",
             "intent": "informational",
             "keywords": [
-                "cuisson tajine",
-                "cuisson tajine agneau",
-                "cuisson lente",
-                "cuisson tajine au four",
-                "cuisson tajine en terre cuite"
+                "plat traditionnel portugais",
+                "histoire tajine marocain"
             ]
         }
     ],
     "categories": {
         "cuisine marocaine": "core",
-        "recette tajine poulet citron confit olives": "core",
-        "cuisson tajine": "core",
-        "tajine marocain": "core",
+        "recette végétarienne": "complementary",
         "épices tajine": "core",
-        "citron confit maison": "core",
-        "plat traditionnel marocain": "core",
-        "recette tajine agneau": "complementary",
-        "tajine poulet olives": "core",
-        "tajine marocain poulet": "complementary",
-        "recette tajine agneau pruneaux": "complementary",
-        "tajine poulet olives citron": "core",
-        "recette tajine agneau légumes": "complementary",
+        "cuisson tajine": "core",
+        "plat traditionnel": "core",
+        "recette tajine poulet citron confit olives": "core",
+        "accompagnement tajine": "core",
+        "recette végétarienne facile": "complementary",
+        "plat traditionnel français": "doubtful",
         "cuisson tajine au four": "core",
-        "tajine marocain agneau": "complementary",
-        "tajine marocain recette": "doubtful",
         "cuisine marocaine traditionnelle": "core",
-        "tajine poulet olives pomme de terre": "complementary",
-        "recette tajine agneau abricot": "complementary",
+        "accompagnement tajine poulet": "core",
         "cuisson tajine en terre cuite": "core",
-        "tajine poulet olives citron confit": "core",
+        "plat traditionnel algérien": "doubtful",
+        "accompagnement tajine agneau": "complementary",
+        "plat traditionnel espagnol": "doubtful",
+        "recette végétarienne protéinée": "complementary",
         "cuisson tajine agneau": "complementary",
         "épices tajine composition": "core",
-        "recette tajine poulet citron confit abricot": "core",
-        "epices tajine poulet": "core",
-        "faire citron confit maison": "core",
-        "recette cuisine marocaine": "complementary",
+        "histoire du tajine": "core",
         "cuisine marocaine moderne": "complementary",
-        "épices ras el hanout": "complementary",
-        "oignons caramélisés": "complementary",
-        "olives vertes": "complementary",
-        "cuisson lente": "complementary",
-        "plat tajine": "core",
-        "coriandre fraîche": "complementary",
-        "safran": "complementary",
-        "eau ou bouillon": "complementary"
+        "epices tajine poulet": "complementary",
+        "plat traditionnel portugais": "complementary",
+        "cuisine marocaine recette": "complementary",
+        "plat traditionnel marocain": "complementary",
+        "histoire tajine marocain": "complementary",
+        "recette végétarienne rapide": "complementary",
+        "olives": "core",
+        "safran": "core",
+        "miel": "core",
+        "oignons": "core",
+        "ras el hanout": "core",
+        "terre cuite": "core",
+        "cuisson lente": "core",
+        "plat unique": "complementary",
+        "lime": "complementary",
+        "recette végétarienne noël": "doubtful"
     }
 }

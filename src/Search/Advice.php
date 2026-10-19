@@ -28,6 +28,7 @@ final class Advice
     private const LOCAL_FULL_SHARE = 0.3;
     private const JOB_CUE_FULL = 50;
     private const LOCAL_PARTIAL_MAX = 60;
+    private const LOCAL_DOMINANT_SHARE = 0.5;
 
     private const VARIANT_WORDS = 3;
     private const VARIANT_MAX_DEMAND = 70;
@@ -107,15 +108,19 @@ final class Advice
         $scores = self::scores($signals, $demand, $notoriety ?? 0, $depth, $orientation ?? 0, self::intentCount($result));
 
         uksort($scores, static fn (string $a, string $b): int => [$scores[$b], $signals->share(self::CUE_OF[$b] ?? $b)] <=> [$scores[$a], $signals->share(self::CUE_OF[$a] ?? $a)]);
-        $best = (string) array_key_first($scores);
-        $bestScore = (int) reset($scores);
+        // Le lieu est une dimension : sauf s'il est dans l'expression ou s'il domine les recherches (serrurier), les pages
+        // par ville déclinent la page principale (« cybersécurité entreprise » puis « … lyon ») au lieu de la remplacer.
+        $localFirst = $signals->seedLocal || $signals->localShare() >= self::LOCAL_DOMINANT_SHARE;
+        $candidates = $localFirst ? $scores : array_diff_key($scores, ['local' => true]);
+        $best = (string) array_key_first($candidates);
+        $bestScore = (int) reset($candidates);
 
         // Une avance de quelques points ne tient pas d'une recherche à l'autre : le guide complet garde la main.
         if ('pillar' !== $best && $bestScore - ($scores['pillar'] ?? 0) < self::LEAD_MARGIN) {
             [$best, $bestScore] = ['pillar', $scores['pillar']];
         }
 
-        $ownIntent = [] !== array_intersect(self::CUE_OF, $signals->seedCues);
+        $ownIntent = [] !== array_intersect(self::CUE_OF, $signals->seedCues) || $signals->seedLocal;
 
         $action = max($scores['service'] ?? 0, $scores['local'] ?? 0);
         $variant = $signals->words >= self::VARIANT_WORDS && !$ownIntent && $demand < self::VARIANT_MAX_DEMAND
@@ -210,7 +215,7 @@ final class Advice
             'service' => $cue('service'),
 
             // Sous 30 % de requêtes locales, le lieu se traite dans la page ; au-delà, il faut une page par ville.
-            'local' => $signals->localShare() >= self::LOCAL_FULL_SHARE ? 100 : self::LOCAL_PARTIAL_MAX * $signals->localShare() / self::LOCAL_FULL_SHARE,
+            'local' => $signals->seedLocal || $signals->localShare() >= self::LOCAL_FULL_SHARE ? 100 : self::LOCAL_PARTIAL_MAX * $signals->localShare() / self::LOCAL_FULL_SHARE,
 
             // Indeed suggère des offres pour presque tout (« pizzaiolo » pour « pizza ») : il faut que les suggestions
             // parlent elles-mêmes d'emploi.
@@ -220,6 +225,9 @@ final class Advice
         $seedTypes = array_keys(array_intersect(self::CUE_OF, $signals->seedCues));
         if ($signals->model && $market >= self::PRODUCT_MARKET) {
             $seedTypes = ['product'];
+        }
+        if ($signals->seedLocal) {
+            $seedTypes[] = 'local';
         }
         if ([] !== $seedTypes) {
             $scores = array_map(static fn (float $score): float => min(99, $score), $scores);

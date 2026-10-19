@@ -2,6 +2,7 @@
 
 namespace App\Ai;
 
+use App\Search\LexicalContext;
 use App\Search\Lexicon;
 
 enum KeywordCategory: string
@@ -21,13 +22,14 @@ enum KeywordCategory: string
         };
     }
 
-    public static function decide(?self $proposed, string $keyword, bool $rejected, string $seed = ''): ?self
+    public static function decide(?self $proposed, string $keyword, bool $rejected, string $seed = '', ?LexicalContext $context = null): ?self
     {
+        $context ??= LexicalContext::none();
         if ($rejected) {
             return self::Doubtful;
         }
         // Pour « meilleur grille pain », le mot « meilleur » ne rend pas commercial chaque suggestion qui le reprend.
-        if ([] !== array_diff(Lexicon::commercialWords($keyword), Lexicon::commercialWords($seed))) {
+        if ([] !== array_diff(Lexicon::commercialWords($context->read($keyword)), Lexicon::commercialWords($context->read($seed)))) {
             return self::Commercial;
         }
 

@@ -18,10 +18,10 @@
         "fuite d'eau",
         "débouchage canalisation",
         "installation chauffe-eau",
-        "réparation robinet",
-        "plombier pas cher",
-        "urgence plomberie",
-        "entretien chaudière"
+        "réparation wc",
+        "entretien chaudière",
+        "plomberie sanitaire",
+        "urgence plombier"
     ],
     "suggestions": {
         "bing": [
@@ -123,7 +123,7 @@
             ],
             [
                 0,
-                "réparation robinet"
+                "réparation wc"
             ],
             [
                 0,
@@ -136,6 +136,10 @@
             [
                 2,
                 "entretien chaudière fioul"
+            ],
+            [
+                0,
+                "plomberie sanitaire livre"
             ]
         ],
         "bing": [
@@ -317,119 +321,43 @@
             ],
             [
                 0,
-                "réparation robinet"
+                "réparation wc locataire ou propriétaire"
             ],
             [
                 1,
-                "réparation robinet qui fuit"
+                "réparation wc"
             ],
             [
                 2,
-                "réparation robinet thermostatique"
+                "réparation wc suspendu"
             ],
             [
                 3,
-                "réparation robinet cuisine"
+                "réparation wc type sanibroyeur"
             ],
             [
                 4,
-                "réparation robinet grohe"
+                "réparation windows 11"
             ],
             [
                 5,
-                "réparation robinet toulouse"
+                "réparation clé usb"
             ],
             [
                 6,
-                "réparation robinet mitigeur"
+                "réparation carte électronique"
             ],
             [
                 7,
-                "réparation robinet extérieur"
+                "réparation windows"
             ],
             [
                 8,
-                "kit réparation robinet extérieur canac"
+                "réparation windows 10"
             ],
             [
                 9,
-                "robinet moen réparation"
-            ],
-            [
-                0,
-                "plombier pas cher"
-            ],
-            [
-                1,
-                "plombier pas cher bruxelles"
-            ],
-            [
-                2,
-                "plombier pas cher 93"
-            ],
-            [
-                3,
-                "plombier pas cher ville de quebec"
-            ],
-            [
-                4,
-                "plombier pas cher paris"
-            ],
-            [
-                5,
-                "plombier pas cher trois-rivières"
-            ],
-            [
-                6,
-                "plomberie pas cher"
-            ],
-            [
-                0,
-                "urgence plomberie"
-            ],
-            [
-                1,
-                "urgence plomberie toulouse"
-            ],
-            [
-                2,
-                "urgence plomberie chambéry"
-            ],
-            [
-                3,
-                "urgence plomberie saint flour"
-            ],
-            [
-                4,
-                "urgence plomberie gaz chauffage"
-            ],
-            [
-                5,
-                "urgence plomberie 10"
-            ],
-            [
-                6,
-                "urgence plomberie lille"
-            ],
-            [
-                7,
-                "urgence plomberie brest"
-            ],
-            [
-                8,
-                "urgence plomberie dijon"
-            ],
-            [
-                9,
-                "urgence plomberie nantes"
-            ],
-            [
-                10,
-                "urgence plomberie lorient"
-            ],
-            [
-                11,
-                "urgence plomberie saint baldoph"
+                "réparation climatisation auto"
             ],
             [
                 0,
@@ -478,6 +406,102 @@
             [
                 11,
                 "entretien chaudière mazout"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
+            ],
+            [
+                1,
+                "plomberie sanitaire salle de bain"
+            ],
+            [
+                2,
+                "plomberie sanitaire du faso"
+            ],
+            [
+                3,
+                "plomberie sanitaire cuisine"
+            ],
+            [
+                4,
+                "plomberie sanitaire pau"
+            ],
+            [
+                5,
+                "plomberie sanitaire metz"
+            ],
+            [
+                6,
+                "plomberie sanitaire namur"
+            ],
+            [
+                7,
+                "plomberie sanitaire définition"
+            ],
+            [
+                8,
+                "plomberie sanitaire wc"
+            ],
+            [
+                9,
+                "plomberie sanitaire pdf"
+            ],
+            [
+                10,
+                "plomberie sanitaire pvc"
+            ],
+            [
+                11,
+                "plomberie sanitaire nancy"
+            ],
+            [
+                0,
+                "urgence plombier"
+            ],
+            [
+                1,
+                "urgence plombier bruxelles"
+            ],
+            [
+                2,
+                "urgence plombier grenoble"
+            ],
+            [
+                3,
+                "urgence plombier 24/7 à draveil energies tech"
+            ],
+            [
+                4,
+                "urgence plombier montréal"
+            ],
+            [
+                5,
+                "urgence plombier lyon"
+            ],
+            [
+                6,
+                "urgence plombier angers"
+            ],
+            [
+                7,
+                "urgence plombier limoges"
+            ],
+            [
+                8,
+                "urgence plombier toulouse"
+            ],
+            [
+                9,
+                "urgence plombier bergerac"
+            ],
+            [
+                10,
+                "urgence plombier paris"
+            ],
+            [
+                11,
+                "urgence plombier marseille"
             ]
         ],
         "duckduckgo": [
@@ -611,95 +635,35 @@
             ],
             [
                 0,
-                "réparation robinet qui fuit"
+                "réparation wc locataire ou propriétaire"
             ],
             [
                 1,
-                "réparation robinet"
+                "réparation wc"
             ],
             [
                 2,
-                "réparation robinet thermostatique"
+                "réparation wc suspendu"
             ],
             [
                 3,
-                "réparation robinet cuisine"
+                "réparation wc type sanibroyeur"
             ],
             [
                 4,
-                "réparation robinet extérieur"
+                "réparation windows 11"
             ],
             [
                 5,
-                "réparation robinet grohe"
+                "réparation clé usb"
             ],
             [
                 6,
-                "réparation robinet toulouse"
+                "réparation windows"
             ],
             [
                 7,
-                "réparation robinet mitigeur"
-            ],
-            [
-                0,
-                "plombier pas cher"
-            ],
-            [
-                1,
-                "plombier pas cher bruxelles"
-            ],
-            [
-                2,
-                "plombier pas cher 93"
-            ],
-            [
-                3,
-                "plombier pas cher ville de quebec"
-            ],
-            [
-                4,
-                "plombier pas cher paris"
-            ],
-            [
-                5,
-                "plombier pas cher trois-rivières"
-            ],
-            [
-                6,
-                "plomberie pas cher"
-            ],
-            [
-                0,
-                "urgence plomberie"
-            ],
-            [
-                1,
-                "urgence plomberie toulouse"
-            ],
-            [
-                2,
-                "urgence plomberie chambéry"
-            ],
-            [
-                3,
-                "urgence plomberie saint flour"
-            ],
-            [
-                4,
-                "urgence plomberie gaz chauffage"
-            ],
-            [
-                5,
-                "urgence plomberie 10"
-            ],
-            [
-                6,
-                "urgence plomberie lille"
-            ],
-            [
-                7,
-                "urgence plomberie brest"
+                "réparation carte électronique"
             ],
             [
                 0,
@@ -732,6 +696,70 @@
             [
                 7,
                 "entretien chaudière gaz obligation"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
+            ],
+            [
+                1,
+                "plomberie sanitaire salle de bain"
+            ],
+            [
+                2,
+                "plomberie sanitaire du faso"
+            ],
+            [
+                3,
+                "plomberie sanitaire cuisine"
+            ],
+            [
+                4,
+                "plomberie sanitaire pau"
+            ],
+            [
+                5,
+                "plomberie sanitaire metz"
+            ],
+            [
+                6,
+                "plomberie sanitaire namur"
+            ],
+            [
+                7,
+                "plomberie sanitaire définition"
+            ],
+            [
+                0,
+                "urgence plombier"
+            ],
+            [
+                1,
+                "urgence plombier bruxelles"
+            ],
+            [
+                2,
+                "urgence plombier grenoble"
+            ],
+            [
+                3,
+                "urgence plombier montréal"
+            ],
+            [
+                4,
+                "urgence plombier 24/7 à draveil energies tech"
+            ],
+            [
+                5,
+                "urgence plombier lyon"
+            ],
+            [
+                6,
+                "urgence plombier angers"
+            ],
+            [
+                7,
+                "urgence plombier limoges"
             ]
         ],
         "google": [
@@ -897,123 +925,43 @@
             ],
             [
                 0,
-                "réparation robinet extérieur"
+                "réparation wc"
             ],
             [
                 1,
-                "réparation robinet qui fuit"
+                "réparation wc suspendu"
             ],
             [
                 2,
-                "réparation robinet"
+                "réparation wc broyeur"
             ],
             [
                 3,
-                "réparation robinet locataire ou propriétaire"
+                "réparation wc suspendu fuite continue"
             ],
             [
                 4,
-                "réparation robinet salle de bain"
+                "réparation wc locataire ou propriétaire"
             ],
             [
                 5,
-                "réparation robinet de cuisine"
+                "réparation wc thetford c200"
             ],
             [
                 6,
-                "réparation robinet qui goutte"
+                "réparation wc japonais"
             ],
             [
                 7,
-                "réparation robinet grohe qui fuit"
+                "réparation wc encastrable"
             ],
             [
                 8,
-                "réparation robinet grohe"
+                "reparation wc suspendu geberit"
             ],
             [
                 9,
-                "réparation robinet antigel"
-            ],
-            [
-                0,
-                "plombier pas cher lyon"
-            ],
-            [
-                1,
-                "plombier pas cher"
-            ],
-            [
-                2,
-                "plombier pas cher autour de moi"
-            ],
-            [
-                3,
-                "plombier pas cher paris"
-            ],
-            [
-                4,
-                "plombier pas cher bordeaux"
-            ],
-            [
-                5,
-                "plombier pas cher rennes"
-            ],
-            [
-                6,
-                "plombier pas cher marseille"
-            ],
-            [
-                7,
-                "plombier pas cher particulier"
-            ],
-            [
-                8,
-                "plombier pas cher nice"
-            ],
-            [
-                9,
-                "plombier pas cher toulouse"
-            ],
-            [
-                0,
-                "urgence plomberie"
-            ],
-            [
-                1,
-                "urgence plomberie chambéry"
-            ],
-            [
-                2,
-                "urgence plomberie lyon"
-            ],
-            [
-                3,
-                "urgence plomberie saint flour"
-            ],
-            [
-                4,
-                "urgence plomberie gaz chauffage"
-            ],
-            [
-                5,
-                "urgence plomberie nantes"
-            ],
-            [
-                6,
-                "urgence plomberie clermont ferrand"
-            ],
-            [
-                7,
-                "urgence plomberie rennes"
-            ],
-            [
-                8,
-                "urgence plomberie paris"
-            ],
-            [
-                9,
-                "urgence plomberie nancy"
+                "dépannage wc bouché"
             ],
             [
                 0,
@@ -1054,6 +1002,86 @@
             [
                 9,
                 "entretien chaudière gaz prix"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
+            ],
+            [
+                1,
+                "plomberie sanitaire chauffage"
+            ],
+            [
+                2,
+                "plomberie sanitaire salle de bain"
+            ],
+            [
+                3,
+                "plomberie sanitaire pvc pdf"
+            ],
+            [
+                4,
+                "plomberie sanitaire wc"
+            ],
+            [
+                5,
+                "plomberie sanitaire - cours pdf"
+            ],
+            [
+                6,
+                "plomberie sanitaire idf"
+            ],
+            [
+                7,
+                "plomberie sanitaire pdf"
+            ],
+            [
+                8,
+                "plomberie sanitaire dakar"
+            ],
+            [
+                9,
+                "plomberie sanitaire tunisie"
+            ],
+            [
+                0,
+                "urgence plombier"
+            ],
+            [
+                1,
+                "urgence plombier lyon"
+            ],
+            [
+                2,
+                "urgence plombier annecy"
+            ],
+            [
+                3,
+                "urgence plombier autour de moi"
+            ],
+            [
+                4,
+                "urgence plombier paris"
+            ],
+            [
+                5,
+                "urgence plombier marseille"
+            ],
+            [
+                6,
+                "urgence plombier limoges"
+            ],
+            [
+                7,
+                "urgence plombier bordeaux"
+            ],
+            [
+                8,
+                "urgence plombier lille"
+            ],
+            [
+                9,
+                "urgence plombier caen"
             ]
         ],
         "indeed": [
@@ -1064,6 +1092,50 @@
             [
                 0,
                 "debouchage canalisation"
+            ],
+            [
+                0,
+                "reparation smartphone"
+            ],
+            [
+                1,
+                "reparation velos"
+            ],
+            [
+                2,
+                "réparation téléphone"
+            ],
+            [
+                3,
+                "réparation"
+            ],
+            [
+                4,
+                "préparation commande intérim"
+            ],
+            [
+                5,
+                "reparation electromenager"
+            ],
+            [
+                6,
+                "reparation ordinateur"
+            ],
+            [
+                7,
+                "reparation électronique"
+            ],
+            [
+                8,
+                "préparation colis à domicile"
+            ],
+            [
+                9,
+                "réparation informatique"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
             ]
         ],
         "yahoo": [
@@ -1209,63 +1281,27 @@
             ],
             [
                 0,
-                "réparation robinet mitigeur"
+                "réparation wc suspendu geberit"
             ],
             [
                 1,
-                "réparation robinet qui fuit"
+                "réparation wc"
             ],
             [
                 2,
-                "réparation robinet pivotant"
-            ],
-            [
-                0,
-                "plombier pas cher"
-            ],
-            [
-                1,
-                "plombier pas cher paris"
-            ],
-            [
-                2,
-                "plombier pas cher orléans"
+                "réparation fuite chasse d'eau wc"
             ],
             [
                 3,
-                "recherche plombier pas cher"
-            ],
-            [
-                0,
-                "urgence plomberie"
-            ],
-            [
-                1,
-                "urgence plomberie qui contacter"
-            ],
-            [
-                2,
-                "urgence plomberie à prix abordable"
-            ],
-            [
-                3,
-                "urgence plomberie prix bas"
+                "réparation chasse d'eau wc"
             ],
             [
                 4,
-                "urgence plomberie paris"
+                "réparation joint cuvette wc"
             ],
             [
                 5,
-                "urgence plomberie st gilles croix de vie"
-            ],
-            [
-                6,
-                "urgence plomberie bordeaux"
-            ],
-            [
-                7,
-                "urgence plomberie la rochelle"
+                "reparation wc suspendu"
             ],
             [
                 0,
@@ -1282,6 +1318,42 @@
             [
                 3,
                 "entretien chaudière locataire"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
+            ],
+            [
+                1,
+                "plomberie sanitaire accessoires"
+            ],
+            [
+                2,
+                "plomberie sanitaire robinetterie"
+            ],
+            [
+                3,
+                "plomberie sanitaire guadeloupe"
+            ],
+            [
+                4,
+                "plomberie sanitaire wc"
+            ],
+            [
+                0,
+                "urgence plombiers"
+            ],
+            [
+                1,
+                "urgence plombier paris"
+            ],
+            [
+                2,
+                "urgence plombier"
+            ],
+            [
+                3,
+                "urgence plombier fuite d'eau"
             ]
         ],
         "youtube": [
@@ -1427,47 +1499,39 @@
             ],
             [
                 0,
-                "réparation robinet qui goutte"
+                "réparation wc suspendu"
             ],
             [
                 1,
-                "réparation robinet de cuisine"
+                "réparation wc"
             ],
             [
                 2,
-                "réparation robinet extérieur"
+                "reparation wc suspendu grohe"
             ],
             [
                 3,
-                "réparation robinet"
+                "reparer wc suspendu qui fuit"
             ],
             [
                 4,
-                "réparation robinet mitigeur"
+                "reparer wc qui fuit"
             ],
             [
                 5,
-                "réparation robinet salle de bain"
+                "depannage wc suspendu geberit"
             ],
             [
                 6,
-                "réparation robinet mélangeur"
+                "reparation douchette wc"
             ],
             [
                 7,
-                "reparation robinet de douche"
+                "reparation flotteur wc"
             ],
             [
                 8,
-                "reparation robinet d'arrêt"
-            ],
-            [
-                9,
-                "reparation robinet toilette"
-            ],
-            [
-                0,
-                "dépannage plomberie"
+                "reparation mecanisme wc"
             ],
             [
                 0,
@@ -1508,6 +1572,46 @@
             [
                 9,
                 "entretien chaudière granulés"
+            ],
+            [
+                0,
+                "plomberie sanitaire"
+            ],
+            [
+                1,
+                "plomberie sanitaire cours"
+            ],
+            [
+                2,
+                "plomberie sanitaire installation"
+            ],
+            [
+                3,
+                "plomberie sanitaire evacuation"
+            ],
+            [
+                4,
+                "plomberie sanitaire exercice"
+            ],
+            [
+                5,
+                "plomberie sanitaire pvc"
+            ],
+            [
+                6,
+                "plombier sanitaire"
+            ],
+            [
+                7,
+                "installation sanitaire"
+            ],
+            [
+                8,
+                "installation sanitaire salle de bain"
+            ],
+            [
+                9,
+                "installation sanitaire multicouche"
             ]
         ]
     },
@@ -1529,7 +1633,9 @@
             }
         ],
         "sections": 5,
-        "types": []
+        "types": [
+            "artisan plombier-zingueur"
+        ]
     },
     "pages": [
         {
@@ -1538,14 +1644,18 @@
             "intent": "transactional",
             "keywords": [
                 "dépannage plomberie",
-                "dépannage plomberie paris",
+                "baignoire",
+                "douche",
                 "plomberie",
+                "robinetterie",
                 "salle de bain",
-                "soudure",
                 "tuyauterie",
                 "évier",
-                "urgence plomberie",
-                "plombier pas cher",
+                "fuite d'eau",
+                "fuite",
+                "urgence plombier",
+                "urgence plombier paris",
+                "fuite d'eau après compteur",
                 "dépannage plomberie en urgence"
             ]
         },
@@ -1555,28 +1665,15 @@
             "intent": "transactional",
             "keywords": [
                 "débouchage canalisation",
-                "détartrage",
-                "siphon",
+                "canalisation",
                 "débouchage canalisation wc",
-                "wc",
-                "débouchage canalisation karcher"
+                "débouchage canalisation karcher",
+                "débouchage canalisations eaux usées",
+                "débouchage canalisation haute pression"
             ]
         },
         {
-            "group": "Chauffage et eau chaude",
-            "title": "installation chauffe eau",
-            "intent": "transactional",
-            "keywords": [
-                "installation chauffe eau",
-                "installation chauffe-eau ariston 15l",
-                "ballon d'eau chaude",
-                "installation chauffe eau thermodynamique",
-                "installation chauffe eau électrique",
-                "installation chauffe eau solaire"
-            ]
-        },
-        {
-            "group": "Chauffage et eau chaude",
+            "group": "Réparation et entretien",
             "title": "entretien chaudière",
             "intent": "transactional",
             "keywords": [
@@ -1586,44 +1683,39 @@
             ]
         },
         {
-            "group": "Fuites et réparations",
-            "title": "fuite d'eau",
+            "group": "Réparation et entretien",
+            "title": "réparation wc",
             "intent": "transactional",
             "keywords": [
-                "fuite d'eau",
-                "joint d'étanchéité",
-                "réparation robinet qui fuit",
-                "fuite d'eau après compteur"
+                "réparation wc",
+                "wc",
+                "réparation wc suspendu",
+                "réparation wc locataire ou propriétaire"
             ]
         },
         {
-            "group": "Fuites et réparations",
-            "title": "réparation robinet",
+            "group": "Installation",
+            "title": "installation chauffe eau",
             "intent": "transactional",
             "keywords": [
-                "réparation robinet",
-                "réparation robinet de cuisine",
-                "réparation robinet extérieur",
-                "réparation robinet mitigeur",
-                "mitigeur"
+                "installation chauffe eau",
+                "installation chauffe-eau ariston 15l",
+                "chauffe-eau",
+                "installation chauffe eau thermodynamique",
+                "installation chauffe eau électrique",
+                "installation chauffe eau solaire"
             ]
         },
         {
-            "group": "Zones d'intervention",
+            "group": "Plombier Paris 15",
             "title": "plombier paris 15ème",
             "intent": "transactional",
             "keywords": [
                 "plombier paris 15ème",
-                "plombier paris 14",
-                "plombier paris 16"
-            ]
-        },
-        {
-            "group": "Zones d'intervention",
-            "title": "plombier pas cher paris",
-            "intent": "transactional",
-            "keywords": [
-                "plombier pas cher paris"
+                "dépannage plomberie paris",
+                "artisan plombier-zingueur",
+                "plombier chauffagiste paris 15",
+                "plombier paris 15 les mieux notés"
             ]
         }
     ],
@@ -1631,41 +1723,42 @@
         "débouchage canalisation": "commercial",
         "dépannage plomberie": "commercial",
         "fuite d'eau": "commercial",
+        "réparation wc": "commercial",
         "entretien chaudière": "commercial",
-        "installation chauffe eau": "commercial",
-        "réparation robinet": "commercial",
         "entretien chaudière fioul": "commercial",
+        "installation chauffe eau": "commercial",
+        "réparation wc suspendu": "commercial",
         "installation chauffe eau thermodynamique": "commercial",
-        "entretien chaudière gaz": "commercial",
-        "urgence plomberie": "commercial",
         "débouchage canalisation wc": "commercial",
-        "plombier pas cher": "commercial",
-        "réparation robinet qui fuit": "commercial",
+        "entretien chaudière gaz": "commercial",
+        "urgence plombier": "commercial",
         "fuite d'eau après compteur": "commercial",
         "installation chauffe eau électrique": "commercial",
-        "plombier paris 15ème": "commercial",
-        "plombier pas cher paris": "commercial",
-        "réparation robinet de cuisine": "commercial",
-        "réparation robinet extérieur": "commercial",
-        "plombier paris 14": "commercial",
+        "débouchage canalisation karcher": "commercial",
         "dépannage plomberie en urgence": "commercial",
         "installation chauffe eau solaire": "commercial",
-        "réparation robinet mitigeur": "commercial",
-        "installation chauffe-eau ariston 15l": "commercial",
-        "plombier paris 16": "commercial",
-        "débouchage canalisation karcher": "commercial",
+        "débouchage canalisations eaux usées": "commercial",
+        "débouchage canalisation haute pression": "commercial",
         "dépannage plomberie paris": "commercial",
+        "installation chauffe-eau ariston 15l": "commercial",
+        "réparation wc locataire ou propriétaire": "commercial",
+        "urgence plombier paris": "commercial",
+        "plombier paris 15ème": "commercial",
+        "plombier chauffagiste paris 15": "commercial",
+        "plombier paris 15 les mieux notés": "commercial",
         "tuyauterie": "commercial",
+        "robinetterie": "commercial",
         "salle de bain": "commercial",
-        "wc": "commercial",
         "évier": "commercial",
-        "ballon d'eau chaude": "commercial",
-        "soudure": "commercial",
-        "détartrage": "commercial",
-        "joint d'étanchéité": "commercial",
-        "siphon": "commercial",
-        "mitigeur": "commercial",
+        "douche": "commercial",
+        "baignoire": "commercial",
+        "wc": "commercial",
+        "chauffe-eau": "commercial",
+        "canalisation": "commercial",
+        "fuite": "commercial",
         "plomberie": "commercial",
-        "urgence plomberie saint flour": "doubtful"
+        "artisan plombier-zingueur": "commercial",
+        "plomberie sanitaire": "doubtful",
+        "plomberie sanitaire salle de bain": "doubtful"
     }
 }

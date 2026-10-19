@@ -8,9 +8,11 @@ use App\Search\Advice;
 use App\Search\Demand;
 use App\Search\DemandEstimate;
 use App\Search\KeywordFilter;
+use App\Search\LexicalContext;
 use App\Search\PageSignals;
 use App\Search\PageType;
 use App\Search\SearchResult;
+use App\Suggest\Keyword;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
@@ -20,7 +22,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class LexicalTrapsTest extends TestCase
 {
-    /** @return iterable<string, array{string, string, string, bool, ?string}> */
+    /** @return iterable<string, array{0: string, 1: string, 2: string, 3: bool, 4: ?string, 5?: list<string>}> */
     public static function filterCases(): iterable
     {
         yield 'code postal' => ['plombier 75015', 'plombier', 'fr', true, null];
@@ -34,7 +36,7 @@ final class LexicalTrapsTest extends TestCase
         yield 'couleur' => ['chaussures bordeaux femme', 'chaussures', 'fr', false, '« bordeaux » y est une couleur, au milieu de la requête'];
         yield 'pluriel homonyme' => ['cannes à pêche', 'canne à pêche', 'fr', false, null];
         yield 'paris sportifs' => ['paris sportifs', 'pronostic foot', 'fr', false, null];
-        yield 'pâtisserie' => ['paris brest', 'pâtisserie', 'fr', false, 'Un gâteau, pas une ville'];
+        yield 'pâtisserie' => ['paris brest', 'pâtisserie', 'fr', false, null, ['Paris-Brest']];
         yield 'histoire' => ['traité de versailles', 'première guerre mondiale', 'fr', false, null];
         yield 'chimie' => ['valence chimie', 'électron', 'fr', false, null];
         yield 'race de chien' => ['boston terrier', 'terrier', 'en', false, null];
@@ -42,10 +44,11 @@ final class LexicalTrapsTest extends TestCase
         yield 'titre' => ['20000 lieues sous les mers', 'jules verne', 'fr', false, 'Un nombre à cinq chiffres n\'est pas toujours un code postal'];
     }
 
+    /** @param list<string> $names titres Wikipédia que la recherche trouverait */
     #[DataProvider('filterCases')]
-    public function testFilterSetsAsideOnlyPlacesAndBusinesses(string $keyword, string $seed, string $lang, bool $excluded, ?string $gap): void
+    public function testFilterSetsAsideOnlyPlacesAndBusinesses(string $keyword, string $seed, string $lang, bool $excluded, ?string $gap, array $names = []): void
     {
-        self::expect($excluded === (new KeywordFilter())->excludes($keyword, $seed, $lang), $gap, sprintf('« %s » pour « %s »', $keyword, $seed));
+        self::expect($excluded === (new KeywordFilter())->excludes($keyword, $seed, $lang, LexicalContext::of($seed, $names)), $gap, sprintf('« %s » pour « %s »', $keyword, $seed));
     }
 
     /** @return iterable<string, array{string, string, list<PageType>, ?string}> */
@@ -57,15 +60,15 @@ final class LexicalTrapsTest extends TestCase
         yield 'métier' => ['devenir pilote de ligne', 'fr', [PageType::Job], null];
         yield 'définition' => ['what is kubernetes', 'en', [PageType::Definition], null];
         yield 'tutoriel anglais' => ['how to tie a tie', 'en', [PageType::HowTo], null];
-        yield 'aide soignante' => ['aide soignante', 'fr', [PageType::Job, PageType::Pillar], '« aide » y désigne un métier, pas une subvention'];
-        yield 'prix littéraire' => ['prix goncourt', 'fr', [PageType::Pillar, PageType::News], '« prix » y est une récompense'];
-        yield 'test médical' => ['test de grossesse', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::HowTo], '« test » y est un examen, pas un banc d\'essai'];
-        yield 'territoire' => ['nouvelle calédonie', 'fr', [PageType::Pillar], '« nouvelle » y fait partie d\'un nom propre'];
-        yield 'date' => ['date de péremption', 'fr', [PageType::Pillar, PageType::Definition], '« date » n\'annonce pas une actualité'];
-        yield 'vêtement' => ['crop top', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::Category], '« top » y est un vêtement'];
-        yield 'formation' => ['formation excel', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::Service, PageType::Category], 'Une offre de formation, pas un métier'];
-        yield 'citations' => ['quotes about love', 'en', [PageType::Pillar], '« quotes » y sont des citations, pas des devis'];
-        yield 'revue de littérature' => ['literature review', 'en', [PageType::Pillar, PageType::HowTo, PageType::Definition], 'Un exercice universitaire, pas des avis'];
+        yield 'aide soignante' => ['aide soignante', 'fr', [PageType::Job, PageType::Pillar], null];
+        yield 'prix littéraire' => ['prix goncourt', 'fr', [PageType::Pillar, PageType::News], null];
+        yield 'test médical' => ['test de grossesse', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::HowTo], null];
+        yield 'territoire' => ['nouvelle calédonie', 'fr', [PageType::Pillar], null];
+        yield 'date' => ['date de péremption', 'fr', [PageType::Pillar, PageType::Definition], null];
+        yield 'vêtement' => ['crop top', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::Category], null];
+        yield 'formation' => ['formation excel', 'fr', [PageType::Pillar, PageType::PillarCommercial, PageType::Service, PageType::Category], null];
+        yield 'citations' => ['quotes about love', 'en', [PageType::Pillar], null];
+        yield 'revue de littérature' => ['literature review', 'en', [PageType::Pillar, PageType::HowTo, PageType::Definition], null];
     }
 
     // Une expression qui porte elle-même un indice décide du type de page : ces indices doivent être sûrs.
@@ -79,7 +82,18 @@ final class LexicalTrapsTest extends TestCase
         self::expect(\in_array($verdict, $verdicts, true), $gap, sprintf('« %s » : %s', $seed, $verdict->value));
     }
 
-    /** @return iterable<string, array{list<string>, ?Intent, ?string}> */
+    // L'autre sens du doute : un « prix » que d'autres mots de prix confirment (tarif, coût) décide toujours.
+    public function testAmbiguousCueConfirmedByTheSuggestionsStillDecides(): void
+    {
+        $merged = array_map(static fn (string $t): Keyword => new Keyword($t, ['google' => 0], 50), ['cout isolation combles perdus', 'isolation combles perdus tarif', 'isolation combles perdus devis', 'isolation combles perdus laine']);
+        $confirmed = PageSignals::from('isolation combles perdus prix', 'fr', $merged, [], [], new KeywordFilter(), 0);
+        $alone = PageSignals::from('isolation combles perdus prix', 'fr', [], [], [], new KeywordFilter(), 0);
+
+        self::assertContains('price', $confirmed->seedCues);
+        self::assertNotContains('price', $alone->seedCues, 'Sans suggestion pour le confirmer, « prix » reste un doute.');
+    }
+
+    /** @return iterable<string, array{0: list<string>, 1: ?Intent, 2: ?string, 3?: list<string>}> */
     public static function intentCases(): iterable
     {
         yield 'prix' => [['canne à pêche prix', 'canne à pêche carpe', 'canne à pêche télescopique'], Intent::Commercial, null];
@@ -87,33 +101,37 @@ final class LexicalTrapsTest extends TestCase
         yield 'recette' => [['tajine poulet', 'tajine poulet olives', 'tajine poulet citron'], null, null];
         yield 'durée' => [['combien de temps cuire un oeuf', 'oeuf mollet', 'oeuf poché'], null, '« combien de temps » n\'est pas une question de prix'];
         yield 'citation' => [['quote of the day', 'love quote', 'inspirational quote'], null, '« quote » y est une citation'];
-        yield 'opérations' => [['order of operations', 'pemdas', 'order of operations worksheet'], null, '« order » y est un ordre de calcul'];
-        yield 'prix nobel' => [['prix nobel de la paix', 'prix nobel 2026', 'lauréats'], null, '« prix » y est une récompense'];
+        yield 'opérations' => [['order of operations', 'pemdas', 'order of operations worksheet'], null, null, ['Order of operations']];
+        yield 'prix nobel' => [['prix nobel de la paix', 'prix nobel 2026', 'lauréats'], null, null, ['Prix Nobel']];
     }
 
-    /** @param list<string> $keywords */
+    /**
+     * @param list<string> $keywords
+     * @param list<string> $names
+     */
     #[DataProvider('intentCases')]
-    public function testIntentGuardReadsBuyingWordsOnly(array $keywords, ?Intent $intent, ?string $gap): void
+    public function testIntentGuardReadsBuyingWordsOnly(array $keywords, ?Intent $intent, ?string $gap, array $names = []): void
     {
-        self::expect($intent === Intent::fromKeywords($keywords), $gap, implode(', ', $keywords));
+        self::expect($intent === Intent::fromKeywords($keywords, LexicalContext::of('', $names)), $gap, implode(', ', $keywords));
     }
 
-    /** @return iterable<string, array{string, string, ?KeywordCategory, ?string}> */
+    /** @return iterable<string, array{0: string, 1: string, 2: ?KeywordCategory, 3: ?string, 4?: list<string>}> */
     public static function categoryCases(): iterable
     {
         yield 'prix' => ['isolation combles prix', 'isolation combles', KeywordCategory::Commercial, null];
         yield 'enseigne' => ['canne à pêche decathlon', 'canne à pêche', KeywordCategory::Commercial, null];
         yield 'mot de l\'expression' => ['meilleur aspirateur balai sans fil', 'meilleur aspirateur balai', null, null];
-        yield 'prix littéraire' => ['prix goncourt 2026', 'goncourt', null, '« prix » y est une récompense'];
+        yield 'prix littéraire' => ['prix goncourt 2026', 'goncourt', null, null, ['Prix Goncourt']];
         yield 'durée' => ['combien de temps cuire un oeuf', 'oeuf', null, '« combien » n\'y parle pas d\'argent'];
-        yield 'électricité' => ['circuit électrique', 'électricité', null, 'Un circuit électrique n\'est pas un voyage organisé'];
+        yield 'électricité' => ['circuit électrique', 'électricité', null, null, ['Circuit électrique']];
         yield 'offre en ligne' => ['cours de piano en ligne', 'cours de piano', KeywordCategory::Commercial, null];
     }
 
+    /** @param list<string> $names */
     #[DataProvider('categoryCases')]
-    public function testCommercialCategoryNeedsABuyingWord(string $keyword, string $seed, ?KeywordCategory $category, ?string $gap): void
+    public function testCommercialCategoryNeedsABuyingWord(string $keyword, string $seed, ?KeywordCategory $category, ?string $gap, array $names = []): void
     {
-        self::expect($category === KeywordCategory::decide(null, $keyword, false, $seed), $gap, sprintf('« %s » pour « %s »', $keyword, $seed));
+        self::expect($category === KeywordCategory::decide(null, $keyword, false, $seed, LexicalContext::of($seed, $names)), $gap, sprintf('« %s » pour « %s »', $keyword, $seed));
     }
 
     private static function expect(bool $ok, ?string $gap, string $case): void
