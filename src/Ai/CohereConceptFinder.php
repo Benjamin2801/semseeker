@@ -25,7 +25,8 @@ final class CohereConceptFinder implements ConceptFinderInterface
         - Short search phrases (1 to 4 words), in the given language, lowercase.
         - Popular, concrete and distinct from each other, covering different facets of the field: synonyms,
           sub-topics, related needs and problems, products, services, and how-to or price questions. Include at
-          least three neighbouring topics of the same domain, which enrich a page about the seed.
+          least three neighbouring topics, which enrich a page about the seed: needs, problems, parts or steps
+          around the seed's own subject, never another kind of the same thing.
         - The search engine already knows every phrase starting with the seed: never just add words after the seed.
           A need or a service placed before it is welcome ("livraison pizza", "réparation vélo"): engines only
           find it from that word.
@@ -34,8 +35,14 @@ final class CohereConceptFinder implements ConceptFinderInterface
         - When the seed carries an intent (best, price, review, how to), the concepts explore its subject, not the
           intent, and never drift to the wider domain: types, brands, uses and problems of toasters for "meilleur grille
           pain", not "cuisine moderne" or "ustensiles de cuisine".
-        - When the seed narrows a subject with a qualifier (a diet, a style, a material, an audience), every
-          concept stays inside that niche: "boucherie halal", not "charcuterie italienne", for "charcuterie halal".
+        - When the seed narrows a subject with a qualifier (a type, a technique, a diet, a style, a material, an
+          audience), every concept stays inside that niche: "boucherie halal", not "charcuterie italienne", for
+          "charcuterie halal"; "batterie vélo électrique", not "vélo de route", for "vélo électrique"; "poêle à
+          granulés", not "chauffage électrique", for "chauffage au bois".
+          Another kind of the same thing is a different subject, even in the same domain.
+        - A concept never shares a word with the seed while meaning something else: no other product, insurance
+          or service named like it ("assurance auto" is not about "assurance vie"), and no consumer use of a
+          business subject ("logiciel de comptes personnels" for "comptabilité entreprise").
         - No brand names, no place names.
 
         ## Subject
@@ -76,7 +83,8 @@ final class CohereConceptFinder implements ConceptFinderInterface
     public function concepts(string $seed, string $lang): PendingConcepts
     {
         $seedKey = SuggestionMerger::key($seed);
-        $item = $this->cache->getItem('concepts.'.hash('xxh128', $lang.'|'.$seedKey));
+        // L'empreinte du prompt dans la clé : un prompt modifié ne sert pas les concepts de l'ancien pendant 7 jours.
+        $item = $this->cache->getItem('concepts.'.hash('xxh128', self::PROMPT.'|'.$lang.'|'.$seedKey));
         if ($item->isHit() && \is_array($cached = $item->get()) && isset($cached['concepts'])) {
             $ideas = [
                 'concepts' => array_values(array_map('strval', (array) $cached['concepts'])),
