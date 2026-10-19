@@ -32,14 +32,14 @@ final class SearchControllerTest extends WebTestCase
         self::assertSelectorTextContains('.tree-root', 'pain');
         self::assertSame(['Recettes', 'Achat'], $crawler->filter('.tree-topic')->each(static fn ($t) => $t->text()));
         $page = $crawler->filter('.tree-page')->first();
-        self::assertSame('Recettes maison', $page->filter('.concept-text')->text(), 'La page porte le mot-clé choisi par le modèle.');
+        self::assertSame('Recettes maison', $page->filter('.page-title')->text(), 'La page porte le mot-clé choisi par le modèle.');
         self::assertStringStartsWith('pain commun', $page->filter('.page-sections li.is-main')->text(), 'Le mot-clé principal ouvre la liste.');
         self::assertStringEndsWith('Variantes', $page->filter('.page-sections li:not(.is-main) .section-title')->text());
         $plan = $crawler->filter('[data-plan-text]')->html();
         self::assertStringContainsString("[Recettes]\nRecettes maison [Informationnelle]\n  pain commun, ", $plan);
         self::assertStringNotContainsString('H2', $plan, 'Ni H1, ni H2, ni mot-clé principal : seulement les regroupements.');
 
-        self::assertSame('Informationnelle', $page->filter('.intent')->text());
+        self::assertSame('Informationnelle', $page->filter('.page-intent')->text());
         self::assertSame('informational', $page->attr('data-intent'));
         self::assertSame('Transactionnelle 100 %', $crawler->filter('.tree-group')->eq(1)->filter('.intent-bar')->attr('title'));
         self::assertSame(['informational', 'transactional'], $crawler->filter('[data-intent-filter]')->each(static fn ($c) => $c->attr('data-intent-filter')));

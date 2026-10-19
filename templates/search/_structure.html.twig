@@ -153,17 +153,25 @@
                             <ol class="tree-pages">
                                 {% for page in group.pages %}
                                     <li class="tree-page" data-strong="{{ _self.strong(page.allKeywords) }}" data-intent="{{ page.intent ? page.intent.value }}">
-                                        <p class="concept-title{% if page.intent %} intent-{{ page.intent.value }}{% endif %}">
-                                            <span class="concept-text">{{ page.title }}</span>
-                                            <small>{% if page.intent %}<span class="intent">{{ _self.intent_label(page.intent.value) }}</span> · {% endif %}{{ 'structure.keywords'|trans({'%count%': page.allKeywords|length}) }}</small>
-                                        </p>
+                                        {# Le titre de page est le plus souvent son mot-clé principal : on ne l'affiche alors qu'une fois. #}
+                                        {% set merged = page.title|lower == page.main.text|lower %}
+                                        <div class="page-head{% if page.intent %} intent-{{ page.intent.value }}{% endif %}">
+                                            {% if merged %}
+                                                <p class="page-title" title="{{ 'structure.main'|trans }}">{{ _self.row(page.main.text, page.main, 'section-title is-main-row', true) }}</p>
+                                            {% else %}
+                                                <p class="page-title">{{ page.title }}</p>
+                                            {% endif %}
+                                            <small>{% if page.intent %}<span class="page-intent">{{ _self.intent_label(page.intent.value) }}</span> · {% endif %}{{ 'structure.keywords'|trans({'%count%': page.allKeywords|length}) }}</small>
+                                        </div>
                                         <ul class="page-sections">
-                                            <li class="is-main" title="{{ 'structure.main'|trans }}">
-                                                {{ _self.row(page.main.text, page.main, 'section-title is-main-row', true) }}
-                                                {% for item in page.keywords %}
-                                                    {{ _self.row(item.text, item, 'term row-sub') }}
-                                                {% endfor %}
-                                            </li>
+                                            {% if not merged or page.keywords is not empty %}
+                                                <li class="is-main" title="{{ 'structure.main'|trans }}">
+                                                    {% if not merged %}{{ _self.row(page.main.text, page.main, 'section-title is-main-row', true) }}{% endif %}
+                                                    {% for item in page.keywords %}
+                                                        {{ _self.row(item.text, item, 'term row-sub') }}
+                                                    {% endfor %}
+                                                </li>
+                                            {% endif %}
                                             {% for section in page.sections %}
                                                 <li data-strong="{{ _self.strong(section.keywords) }}">
                                                     {{ _self.row(section.titleKeyword ? section.titleKeyword.text : section.title, section.titleKeyword, 'section-title') }}
