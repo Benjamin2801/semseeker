@@ -37,10 +37,6 @@ final class PageSignals
 
         public readonly int $seedSuggestions = 0,
 
-        public readonly ?string $parentAlternative = null,
-        public readonly ?int $parentDemand = null,
-        public readonly ?int $parentKeywords = null,
-
         public readonly int $searched = 0,
 
         public readonly int $confirmedConcepts = 0,
@@ -102,11 +98,6 @@ final class PageSignals
             facets: \count($facets),
             seedSuggestions: \count(array_unique(array_map(static fn (RawSuggestion $s): string => SuggestionMerger::key($s->text), $fromSeed))),
         );
-    }
-
-    public function withMother(MotherPage $mother): self
-    {
-        return $this->with(['parent' => $mother->name, 'parentAlternative' => $mother->alternative, 'parentDemand' => $mother->demand, 'parentKeywords' => $mother->keywords]);
     }
 
     /**

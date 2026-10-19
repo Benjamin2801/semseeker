@@ -17,8 +17,5 @@ interface ContentPlannerInterface
      */
     public function draft(string $seed, array $keywords, array $scores, string $lang, float $maxDuration, array $types = [], array $articles = []): PlanDraft;
 
-    /**
-     * @param (\Closure(list<string>): void)|null $onStructure
-     */
-    public function assign(PlanDraft $draft, ?\Closure $onStructure = null): Plan;
+    public function assign(PlanDraft $draft): Plan;
 }

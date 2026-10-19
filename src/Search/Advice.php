@@ -68,10 +68,6 @@ final class Advice
 
         public readonly ?string $parent,
 
-        public readonly ?string $parentAlternative = null,
-        public readonly ?int $parentDemand = null,
-        public readonly ?int $parentKeywords = null,
-
         public readonly ?PageType $alternative = null,
     ) {
     }
@@ -140,7 +136,6 @@ final class Advice
         }
 
         return new self($verdict, $demand, $notoriety, $depth, $orientation, $variant, '' !== $signals->parent ? $signals->parent : null,
-            $signals->parentAlternative, $signals->parentDemand, $signals->parentKeywords,
             self::alternative($verdict, $scores, $demand, $orientation ?? 0, '' !== $signals->parent));
     }
 

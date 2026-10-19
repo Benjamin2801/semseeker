@@ -7,7 +7,7 @@ framework:
 
     # Incrémenter pour forcer les navigateurs à recharger CSS et JS après un déploiement.
     assets:
-        version: '158'
+        version: '161'
         version_format: '%%s?v=%%s'
 
 when@test:

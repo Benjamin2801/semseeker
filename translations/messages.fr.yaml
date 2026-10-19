@@ -246,12 +246,8 @@ advice:
         minor_commercial_section: "Une fourchette de prix, une aide ou un avis, en complément."
         mention: "L'expression et ses termes associés."
     support: "Renfort de la page mère la plus proche"
-    mother_page: "Page mère : « %parent% »"
     mother: "Sujet important"
     competitive: "(compétitive)"
-    mother_demand: "demande mesurée %demand%"
-    mother_keywords: "%count% mots-clés et sections dans le champ"
-    mother_alternative: "ou « %alternative% »"
     type:
         pillar: "Guide complet"
         pillar_commercial: "Guide complet commercial"

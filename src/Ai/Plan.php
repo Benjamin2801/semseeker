@@ -14,8 +14,6 @@ final class Plan
         public readonly array $categories = [],
         /** @var list<string> */
         public readonly array $onTopicArticles = [],
-        /** @var list<string> */
-        public readonly array $motherCandidates = [],
     ) {
     }
 }

@@ -244,12 +244,8 @@ advice:
         minor_commercial_section: "A price range, a grant or a review, as a complement."
         mention: "The phrase and its related terms."
     support: "Reinforcement of the closest parent page"
-    mother_page: "Parent page: “%parent%”"
     mother: "Key topic"
     competitive: "(competitive)"
-    mother_demand: "measured demand %demand%"
-    mother_keywords: "%count% keywords and sections in the field"
-    mother_alternative: "or “%alternative%”"
     type:
         pillar: "Complete guide"
         pillar_commercial: "Commercial complete guide"

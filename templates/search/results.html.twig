@@ -23,7 +23,7 @@
         {% if result.demand or result.wikipedia or result.keywords is not empty %}
             {% set advice = result.advice %}
             {% set verdict = advice.verdict.value %}
-            {% set measures = {demand: advice.demand, orientation: advice.orientation, notoriety: advice.notoriety, depth: advice.depth} %}
+            {% set measures = {demand: advice.demand, depth: advice.depth, notoriety: advice.notoriety, orientation: advice.orientation} %}
             {% set r = 42 * 0.01 %}
             {% set points = {
                 demand: [48, 48 - r * (advice.demand)],
@@ -90,7 +90,7 @@
                             <span class="advice-value is-{{ option.family }}">{{ include('search/_icon.svg.twig', {name: option.icon, size: 15}) }}{{ ('advice.type.' ~ option.value)|trans }}</span>
                         {% endfor %}
                         {% if advice.keyPage %}<span class="advice-secondary is-mother{% if advice.verdict.competitive %} is-competitive{% endif %}">{{ 'advice.mother'|trans }}{% if advice.verdict.competitive %} <span class="advice-competitive">{{ 'advice.competitive'|trans }}</span>{% endif %}</span>
-                        {% elseif advice.parent %}<span class="advice-secondary is-support" title="{{ ['advice.mother_page'|trans({'%parent%': advice.parent}), advice.parentDemand is not null ? 'advice.mother_demand'|trans({'%demand%': advice.parentDemand}), advice.parentKeywords is not null ? 'advice.mother_keywords'|trans({'%count%': advice.parentKeywords}), advice.parentAlternative ? 'advice.mother_alternative'|trans({'%alternative%': advice.parentAlternative})]|filter(p => p)|join(' · ') }}">{{ 'advice.support'|trans }}</span>{% endif %}
+                        {% elseif advice.parent %}<span class="advice-secondary is-support">{{ 'advice.support'|trans }}</span>{% endif %}
                     </p>
                     <div class="advice-axes">
                         <p class="overview-label">{{ 'advice.axes_label'|trans }}</p>

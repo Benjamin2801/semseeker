@@ -28,7 +28,7 @@ Live demo: https://net-labs.fr/semseeker (French and English)
   choosing a product, and terms of a transactional page become opportunities.
 - **Advises the page to write** from four measures (demand, concept interest, depth, purchase intent): a complete
   guide, a tutorial, a comparison, a service or category page… or a section of a parent page, with a second option
-  when two forms are close. The parent page is chosen among the LLM's candidates after measuring their real demand.
+  when two forms are close.
 - **Exports** the keywords and the plan as text, CSV or PDF, and suggests phrases from Google as you type.
 
 ## How a search runs
@@ -41,8 +41,7 @@ SearchController            24 h cache, 10 new searches per IP per day
     ├── WikipediaExplorer       articles, views, vocabulary, Wikidata    4 s budget
     ├── SuggestionMerger        dedupe, 0–100 interest
     ├── KeywordFilter           local, navigational and noise queries
-    ├── CohereContentPlanner    structure (19 s deadline), then placement in batches of 22    2 or 3 LLM calls
-    └── MotherPage              parent page candidates, measured during placement
+    └── CohereContentPlanner    structure (19 s deadline), then placement in batches of 22    2 or 3 LLM calls
 Advice                      page type or section, computed at display time
 AutocompleteController      Google suggestions for the search box, 24 h cache
 ```

@@ -7,7 +7,6 @@ use App\Search\Advice;
 use App\Search\Demand;
 use App\Search\DemandEstimate;
 use App\Search\KeywordFilter;
-use App\Search\MotherPage;
 use App\Search\PageSignals;
 use App\Search\PageType;
 use App\Search\SearchResult;
@@ -51,23 +50,6 @@ final class AdviceTest extends TestCase
         self::assertSame('recette crêpe', self::parent('recette crêpe facile'), 'Sans qualificatif.');
     }
 
-    public function testChoosesTheMotherPageAmongTheModelCandidates(): void
-    {
-        $mother = MotherPage::choose(['facture', 'facture électronique'], 'facture électronique obligatoire', null, ['facture' => 0.2, 'facture électronique' => 1.0]);
-
-        self::assertNotNull($mother);
-        self::assertSame('facture électronique', $mother->name, 'La demande mesurée l\'emporte sur le rang du modèle.');
-        self::assertSame('facture', $mother->alternative);
-        self::assertSame(100, $mother->demand);
-        self::assertSame('chino', MotherPage::choose(['vêtements homme', 'chino'], 'chino homme beige', null, [])?->name, 'Pas de sujet inventé hors du plan.');
-        self::assertNull(MotherPage::choose(['carte grise délai'], 'carte grise délai', null, []), 'Jamais l\'expression elle-même.');
-        self::assertSame('pâte à pizza', MotherPage::choose(['faire', 'pâte à pizza'], 'comment faire une pâte à pizza', null, [])?->name, 'Jamais une simple action.');
-
-        $signals = PageSignals::from('facture électronique obligatoire', 'fr', [], [], [], new KeywordFilter(), 0)->withMother($mother);
-        self::assertSame('facture électronique', $signals->parent);
-        self::assertSame('facture', $signals->parentAlternative);
-    }
-
     public function testChoosesThePageTypeTheSuggestionsPointTo(): void
     {
         $advice = Advice::of(self::searchResult(0.8, new PageSignals(20, ['price' => 8, 'review' => 6], 0, ['amazon' => 0.1])));
@@ -85,7 +67,7 @@ final class AdviceTest extends TestCase
         self::assertSame(PageType::Pillar, Advice::of(self::searchResult(1.0, $signals))->verdict, 'Sans intention d\x27achat : guide complet.');
     }
 
-    public function testTurnsObligationsIntoASectionAndNamesTheMotherPages(): void
+    public function testTurnsObligationsIntoASectionOfTheirParent(): void
     {
         $advice = Advice::of(self::searchResult(0.6, new PageSignals(20, [], 0, [], seedCues: ['regulation'])));
 

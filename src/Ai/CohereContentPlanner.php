@@ -78,16 +78,6 @@ final class CohereContentPlanner implements ContentPlannerInterface
             H2: "porte de garage sectionnelle", "porte de garage basculante", "porte de garage motorisée"
         Wrong: a page "Installation porte de garage coulissante" next to a page "Installation porte de garage".
 
-        ## Mother page
-        Return in "mother_candidates" the 2 best mother pages for the seed in a semantic SEO cluster, best first: the
-        page that should host the seed as a section, or that a page about the seed should support. Pick them among the
-        main keywords of the pages you designed, or a shorter phrase made of words of the seed. Rank them, in this order,
-        by: probable search volume (use the popularity scores and your knowledge of the market), probable depth of the
-        subject, probable commercial value, then conceptual centrality. For "logiciel de facturation gratuit", choose
-        between "logiciel de facturation" and "facturation en ligne" the one people search most and that can carry the
-        richest page. Never the seed itself, never a broad category ("vêtements", "pizza"). Return [] when the seed is
-        itself a head topic.
-
         ## Articles
         When numbered encyclopedia articles are given, return in "on_topic_articles" the numbers of those about the
         seed's precise subject or one of its facets. Leave out an article about a generic word of the seed alone
@@ -145,7 +135,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
             ]],
         ],
         'required' => ['name', 'pages'],
-    ]], 'on_topic_articles' => ['type' => 'array', 'items' => ['type' => 'integer']], 'mother_candidates' => ['type' => 'array', 'items' => ['type' => 'string']]], 'required' => ['groups', 'on_topic_articles', 'mother_candidates']];
+    ]], 'on_topic_articles' => ['type' => 'array', 'items' => ['type' => 'integer']]], 'required' => ['groups', 'on_topic_articles']];
 
     private const ASSIGN_SCHEMA = ['type' => 'object', 'properties' => ['results' => ['type' => 'array', 'items' => [
         'type' => 'object',
@@ -202,7 +192,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
         return new PlanDraft($seed, $lang, $keywords, $pending, $articles);
     }
 
-    public function assign(PlanDraft $draft, ?\Closure $onStructure = null): Plan
+    public function assign(PlanDraft $draft): Plan
     {
         if (!$draft->pending instanceof ResponseInterface) {
             return new Plan([]);
@@ -212,11 +202,6 @@ final class CohereContentPlanner implements ContentPlannerInterface
         $pages = $this->pages($json);
         if ([] === $pages) {
             return new Plan([]);
-        }
-
-        $mothers = \array_slice(array_values(array_filter(array_map(static fn (mixed $m): string => mb_strtolower(CohereChat::label($m, 60)), (array) ($json['mother_candidates'] ?? [])))), 0, 2);
-        if (null !== $onStructure) {
-            $onStructure($mothers);
         }
 
         $byPage = [];
@@ -244,7 +229,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
 
         $onTopic = array_filter((array) ($json['on_topic_articles'] ?? []), static fn (mixed $id): bool => \is_int($id) && isset($draft->articles[$id]));
 
-        return new Plan($this->toGroups($filled), $rejected, $categories, array_values(array_unique(array_map(static fn (int $id): string => $draft->articles[$id], $onTopic))), $mothers);
+        return new Plan($this->toGroups($filled), $rejected, $categories, array_values(array_unique(array_map(static fn (int $id): string => $draft->articles[$id], $onTopic))));
     }
 
     /**

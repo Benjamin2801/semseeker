@@ -176,7 +176,7 @@ final class KeywordSearchTest extends TestCase
                 return new PlanDraft($seed, $lang, $keywords, null);
             }
 
-            public function assign(PlanDraft $draft, ?\Closure $onStructure = null): Plan
+            public function assign(PlanDraft $draft): Plan
             {
                 ($this->onAssign)($draft->keywords);
                 if ($this->fails) {

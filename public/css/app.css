@@ -116,7 +116,7 @@ a {
 }
 
 .brand-accent {
-    color: var(--accent);
+    color: var(--mauve);
 }
 
 .lang-switch a {
@@ -622,12 +622,9 @@ a {
     color: var(--scale-1-text);
 }
 
-.lead-semantic {
-    color: var(--mauve);
-}
-
+.lead-semantic,
 .lead-commercial {
-    color: var(--intent-commercial);
+    font-weight: 700;
 }
 
 .home-lead {

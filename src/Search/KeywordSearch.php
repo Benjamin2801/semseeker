@@ -88,30 +88,12 @@ final class KeywordSearch
             $views = $this->wikipedia->viewsOf($unmeasured, $lang);
         };
 
-        $measures = [];
-
-        $ruleParent = $signals->parent;
-        $measureMothers = function (array $mothers) use (&$measures, $lang, $ruleParent): void {
-            foreach (\array_slice(array_values(array_unique(array_filter([$ruleParent, ...$mothers]))), 0, 2) as $mother) {
-                $measures[$mother] = $this->collector->measure($mother, $lang);
-            }
-        };
         $estimate = static function (array $keywords) use (&$views): array {
             return array_values(array_map(static fn (Keyword $k): Keyword => $k->isMeasured() ? $k : $k->withEstimate(Estimate::of($k, $views[$k->text] ?? 0)), $keywords));
         };
-        [$field, $rejected, $candidates, $onTopic, $mothers] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt, $meanwhile, $measureMothers, $estimate);
+        [$field, $rejected, $candidates, $onTopic] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt, $meanwhile, $estimate);
         $wikipedia = $wikipedia?->judged($onTopic);
         $candidates = $estimate($candidates);
-        $fills = [];
-        foreach ($measures as $mother => $started) {
-            $measured = $this->collector->collect((string) $mother, $lang, [], $started);
-            $fills[(string) $mother] = Demand::estimate($measured->suggestions, $measured->getRespondingSources())->fill ?? 0.0;
-        }
-        $mother = MotherPage::choose([] !== $measures ? array_map('strval', array_keys($measures)) : $mothers, $keyword, $field instanceof SemanticField ? $field : null, $fills);
-        if (null !== $mother) {
-            $signals = $signals->withMother($mother);
-        }
-
         $rejectedSet = array_flip($rejected);
         $excluded = array_values(array_filter(array_intersect_key($candidates, $rejectedSet), static fn (Keyword $k): bool => $k->isMeasured()));
         $kept = array_values(array_diff_key($candidates, $rejectedSet));
@@ -205,17 +187,16 @@ final class KeywordSearch
      * @param list<string>                           $articles
      * @param \Closure(): void                       $meanwhile
      * @param list<string>                           $concepts
-     * @param \Closure(list<string>): void           $onStructure
      * @param \Closure(list<Keyword>): list<Keyword> $estimate
      *
-     * @return array{SemanticField|string, list<int>, list<Keyword>, list<string>, list<string>}
+     * @return array{SemanticField|string, list<int>, list<Keyword>, list<string>}
      */
-    private function field(string $keyword, string $lang, array $candidates, array $concepts, array $types, array $articles, float $startedAt, \Closure $meanwhile, \Closure $onStructure, \Closure $estimate): array
+    private function field(string $keyword, string $lang, array $candidates, array $concepts, array $types, array $articles, float $startedAt, \Closure $meanwhile, \Closure $estimate): array
     {
         if (\count($candidates) < 2) {
             $meanwhile();
 
-            return [SearchResult::FIELD_TOO_FEW_KEYWORDS, [], $candidates, [], []];
+            return [SearchResult::FIELD_TOO_FEW_KEYWORDS, [], $candidates, []];
         }
 
         $remaining = self::STRUCTURE_DEADLINE_SECONDS - (microtime(true) - $startedAt);
@@ -223,7 +204,7 @@ final class KeywordSearch
             $this->logger->warning('Plan abandonné : délai dépassé');
             $meanwhile();
 
-            return [SearchResult::FIELD_TIMEOUT, [], $candidates, [], []];
+            return [SearchResult::FIELD_TIMEOUT, [], $candidates, []];
         }
 
         $draft = $this->planner->draft(
@@ -238,11 +219,11 @@ final class KeywordSearch
         $meanwhile();
 
         try {
-            $plan = $this->planner->assign($draft, $onStructure);
+            $plan = $this->planner->assign($draft);
         } catch (AiException $e) {
             $this->logger->warning('Plan IA indisponible', ['error' => $e->getMessage()]);
 
-            return [SearchResult::FIELD_UNAVAILABLE, [], $candidates, [], []];
+            return [SearchResult::FIELD_UNAVAILABLE, [], $candidates, []];
         }
 
         // Le modèle écarte parfois « livraison pizza » comme une entreprise à joindre : on le garde.
@@ -274,11 +255,11 @@ final class KeywordSearch
         // Un terme « à vérifier » reste dans la liste mais ne structure pas le plan.
         $kept = array_filter(array_diff_key($candidates, $rejectedSet), static fn (Keyword $k): bool => KeywordCategory::Doubtful !== $k->category);
         if (\count($kept) < 2) {
-            return [SearchResult::FIELD_TOO_FEW_KEYWORDS, $rejected, $candidates, $plan->onTopicArticles, $plan->motherCandidates];
+            return [SearchResult::FIELD_TOO_FEW_KEYWORDS, $rejected, $candidates, $plan->onTopicArticles];
         }
 
         $field = SemanticField::build($plan->groups, $kept, self::FIELD_MAX_GROUPS, self::FIELD_MAX_KEYWORDS_PER_GROUP);
 
-        return [[] !== $field->groups ? $field : SearchResult::FIELD_UNAVAILABLE, $rejected, $candidates, $plan->onTopicArticles, $plan->motherCandidates];
+        return [[] !== $field->groups ? $field : SearchResult::FIELD_UNAVAILABLE, $rejected, $candidates, $plan->onTopicArticles];
     }
 }

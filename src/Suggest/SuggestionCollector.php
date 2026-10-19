@@ -2,7 +2,6 @@
 
 namespace App\Suggest;
 
-use App\Search\Demand;
 use App\Suggest\Source\SuggestSourceInterface;
 use Psr\Cache\CacheItemPoolInterface;
 use Psr\Log\LoggerInterface;
@@ -38,12 +37,6 @@ final class SuggestionCollector
     public function start(string $keyword, string $lang): array
     {
         return $this->request([$keyword], $lang);
-    }
-
-    /** @return list<Pending> */
-    public function measure(string $query, string $lang): array
-    {
-        return $this->request([$query], $lang, Demand::MEASURING_SOURCES);
     }
 
     /**
@@ -93,12 +86,11 @@ final class SuggestionCollector
     }
 
     /**
-     * @param list<string>      $queries
-     * @param list<string>|null $only
+     * @param list<string> $queries
      *
      * @return list<Pending>
      */
-    private function request(array $queries, string $lang, ?array $only = null): array
+    private function request(array $queries, string $lang): array
     {
         $this->client ??= new RetryableHttpClient($this->httpClient->withOptions(self::REQUEST_OPTIONS), new StartupFailureRetryStrategy(), 1);
 
@@ -110,9 +102,6 @@ final class SuggestionCollector
 
         $pending = [];
         foreach ($this->sources as $source) {
-            if (null !== $only && !\in_array($source->getName(), $only, true)) {
-                continue;
-            }
             foreach ($queries as $query) {
                 $pending[] = [$source, $query, $cached[$query][$source->getName()] ?? $source->request($this->client, $query, $lang)];
             }
