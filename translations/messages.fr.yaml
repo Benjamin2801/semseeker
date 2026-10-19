@@ -1,0 +1,364 @@
+meta:
+    title: "SemSeeker — trouvez les angles décisifs"
+    description: "Découvrez le volume relatif et la qualité des intentions de recherche des termes qui constituent le champ sémantique d'un concept."
+
+nav:
+    language: "Langue"
+    theme: "Basculer entre thème clair et sombre"
+
+home:
+    # La promesse : le mot entre crochets est surligné.
+    title: "Trouvez les angles [décisifs]."
+    lead: "Analyse croisée de [champs sémantiques] et d'{angles commerciaux}"
+    method:
+        kicker: "La méthode"
+        title: "Comment profiter de notre solution en quelques clics et secondes ?"
+        type:
+            title: "Saisissez"
+            text: "Un produit, un service ou un métier."
+            output: "Une expression"
+            example: "maison écologique"
+        analyse:
+            title: "Analysez"
+            text: "Des centaines de signaux croisés, sans attendre."
+            output: "Résultat en ~20 s"
+        measure:
+            title: "Mesurez"
+            text: "Demande, intérêt du concept, profondeur et angle commercial"
+            output: "Mesure analytique"
+        structure:
+            title: "Structurez"
+            text: "Thèmes, pages et mots-clés, classés par intérêt."
+            output: "Structuration"
+            example_theme: "Construction"
+            example_a: "Maison ossature bois"
+            example_b: "Prix et aides"
+        integrate:
+            title: "Intégrez"
+            text: "Copiez ou exportez, puis placez les termes qui pèsent."
+            output: "Texte · CSV · PDF"
+    compare:
+        kicker: "La différence"
+        try: "Obtenez ce plan pour votre propre sujet, en 15 secondes →"
+        title: "Deux pages : structure aléatoire VS force de l'analyse puis du ciblage"
+        added: "Section ajoutée pour répondre à la demande"
+        before:
+            label: "Avant · page vitrine classique"
+            title: "Maison écologique : nos réalisations"
+            unknown: "demande ?"
+        after:
+            label: "Après · plan SemSeeker"
+            p1: "Maison écologique : définition et critères"
+            p2: "Maison écologique : types et prix"
+            p3: "Faire construire sa maison écologique"
+            t_label: "maison écologique label"
+            t_wood: "maison ossature bois"
+            t_materials: "matériaux écologiques"
+            t_price: "prix maison écologique"
+            t_builder: "constructeur maison écologique"
+            t_aids: "aides maison écologique"
+        h2:
+            presentation: "Présentation"
+            features: "Nos atouts"
+            pricing: "Nos tarifs"
+            demo: "Nous contacter"
+            labels: "Labels et normes"
+            types: "Bois, paille ou béton de chanvre ?"
+            materials: "Les matériaux"
+            cost: "Combien ça coûte ?"
+            builder: "Trouver un constructeur"
+            aids: "Aides et prêts"
+        key:
+            core: "Les termes sémantiques au cœur du sujet, ceux que toute page sur le sujet doit traiter pour être pertinente."
+            commercial: "Des requêtes réellement recherchées, souvent originales et moins disputées, proches de l'achat."
+            complementary: "Les notions voisines qui enrichissent le contenu et élargissent sa couverture."
+            intent: "Ce que veut l'internaute à ce stade : comprendre, comparer ou passer à l'action."
+            score: "L'intérêt de 0 à 100 : plus il est élevé, plus le terme est recherché et identifié tôt. Priorisez les plus forts."
+        cta: "Démarrer maintenant sur mon sujet →"
+    benefits:
+        kicker: "Les bénéfices"
+        before: "Avant"
+        after: "Après"
+        title: "Quels sont les bénéfices d'une analyse sémantico-commerciale ?"
+        claim: "Les concurrents optimisent des mots-clés en aveugle, vous exploitez les jonctions précises entre les axes sémantiques et commerciaux."
+        precision:
+            tag: "Précision"
+            before: "Des mots-clés choisis au feeling"
+            after: "Des termes mesurés par leur intérêt réel"
+        coverage:
+            tag: "Couverture"
+            before: "Une page par expression"
+            after: "Une page qui couvre tout un groupe de requêtes pertinentes"
+        visibility:
+            tag: "Visibilité"
+            before: "Des contenus jugés incomplets par les moteurs"
+            after: "Une réponse complète, jugée pertinente par les moteurs"
+        conversion:
+            tag: "Qualification"
+            before: "Des contenus à côté de l'intention"
+            after: "La bonne réponse, au bon stade du parcours d'achat"
+        opportunities:
+            tag: "Expressions"
+            before: "Des expressions rentables laissées aux concurrents"
+            after: "Les expressions qui convertissent, captées en premier"
+        time:
+            tag: "Temps"
+            before: "Des heures de recherche et d'analyse"
+            after: "Une analyse complète en quelques secondes"
+    principle:
+        kicker: "Le principe"
+        # Entre [- -] : barré en rouge ; entre [+ +] : souligné en vert.
+        title: "Produire moins de [-pages inutiles-] ou faibles, mais profiter de [+pages rentables+]"
+        text: "Chaque terme est mesuré sur deux axes indépendants, la %semantic% et la %demand%."
+        chart_title: "Demande de recherche et pertinence sémantique"
+        chart_desc: "Deux axes, de faible à forte : la pertinence sémantique en abscisse, la demande de recherche en ordonnée. Quatre zones : hors cible, zone de ciblage, contenu de soutien, écarté."
+        target: "Zone de ciblage"
+        target_help: "recherché et pertinent"
+        offtarget: "Hors cible"
+        offtarget_help: "recherché, sans lien"
+        support: "Contenu de soutien"
+        support_help: "pertinent, peu recherché"
+        discarded: "Écarté"
+        discarded_help: "ni recherché, ni lien logique fort"
+        low: "faible"
+        high: "forte"
+        x_axis: "Pertinence sémantique"
+        y_axis: "Demande de recherche"
+        chart_heading: "Pertinence et recherche des termes"
+        protocol: "Protocole"
+        cta: "Identifier la zone cible de mon sujet →"
+        legend: "Catégorie des termes :"
+        steps:
+            collect:
+                title: "Collecte de termes et de signaux"
+                text: "Plus de 10 sources de signaux"
+            measure:
+                title: "Mesure et analyse"
+                text: "La demande, l'intérêt commercial, le concept et la profondeur"
+            classify:
+                title: "Classification"
+                text: "Termes fondamentaux, opportunités et sujets annexes"
+            decide:
+                title: "Conseil"
+                text: "Page à écrire, concepts et termes à intégrer"
+    cta:
+        title: "Prenez une longueur d'avance sur votre marché."
+        text: "Une vision claire de ce qu'il ne faut pas rater et intégrer impérativement dans vos pages, pour travailler moins et obtenir bien plus de résultats."
+        button: "Lancer une analyse"
+    sources:
+        title: "Sources des données"
+    tech:
+        title: "Technologies du projet"
+
+search:
+    suggestions: "Suggestions de Google"
+    keyword_label: "Mot-clé"
+    keyword_placeholder: "ex. : maison écologique"
+    language_label: "Langue des suggestions"
+    language:
+        fr: "Français"
+        en: "Anglais"
+    stage:
+        collect: "Collecte des suggestions…"
+        score: "Calcul de l'intérêt…"
+        ai: "Analyse IA…"
+    submit: "Analyser"
+
+results:
+    title: "Résultats pour « %keyword% »"
+    heading: "{0}Aucun mot-clé trouvé pour « %keyword% »|{1}1 mot-clé trouvé pour « %keyword% »|]1,Inf[%count% mots-clés trouvés pour « %keyword% »"
+    score_help: "Indice d'intérêt des internautes, de 0 à 100 : plus un mot-clé est suggéré tôt, et par de nombreux moteurs, plus il est recherché."
+    empty: "Aucune suggestion trouvée. Essayez une expression plus courte."
+    col:
+        theme: "Thème"
+        page: "Concept"
+        keyword: "Mot-clé"
+        score: "Intérêt (0-100)"
+        category: "Catégorie"
+        estimate: "Estimation (non mesuré)"
+
+limit:
+    title: "Limite atteinte"
+    message: "Vous avez atteint la limite de 10 analyses par 24 heures. Nouvelle analyse possible à partir de %time%. Les recherches déjà faites restent disponibles."
+    back: "Retour à l'accueil"
+
+intent:
+    informational: "Informationnelle"
+    commercial: "Commerciale"
+    transactional: "Transactionnelle"
+
+wikipedia:
+    title: "Intérêt concept"
+    help: "Consultations de l'article sur les 30 derniers jours : la notoriété du sujet, pas un nombre de recherches."
+    sparkline: "Consultations quotidiennes sur 30 jours"
+    uncounted: "Hors du sujet précis (mot générique ou écarté par l'IA) : non compté dans la notoriété."
+    concept: "Article d'un concept voisin, compté dans la notoriété."
+
+analysis:
+    date_format: "d/m/Y H:i"
+    sources: "%ok%/%total% sources"
+    keywords: "%total% expressions → %kept% retenues"
+    themes: "{1}1 thème|]1,Inf[%count% thèmes"
+    pages: "{1}1 concept|]1,Inf[%count% concepts"
+
+origin:
+    wikipedia:
+        short: "W"
+        help: "Issu de Wikipédia : aucun moteur ne l'a suggéré, sa popularité est estimée (IA, Wikipédia, Wikidata)."
+    wikidata:
+        short: "D"
+        help: "Issu de Wikidata : aucun moteur ne l'a suggéré, sa popularité est estimée (IA, Wikipédia, Wikidata)."
+    ai:
+        short: "IA"
+        help: "Terme fondamental proposé par l'IA : aucun moteur ne l'a suggéré, sa popularité est estimée (IA, Wikipédia, Wikidata)."
+
+advice:
+    summary:
+        demand:
+            high: "Forte demande"
+            medium: "Demande moyenne"
+            low: "Faible demande"
+        balance:
+            informational: "intérêt surtout informationnel"
+            business: "intérêt surtout business"
+            balanced: "intérêt équilibré"
+    or: "ou"
+    title: "Conseil"
+    axes_label: "Axes"
+    concepts_logical: "Logiques"
+    concepts_searched: "Recherches"
+    axes:
+        pillar: "Définition, types, fonctionnement, avantages et limites, prix, FAQ."
+        pillar_commercial: "Définition, types, critères de choix, comparatif, prix et aides, avis, FAQ."
+        definition: "Définition, origine, exemples, notions proches."
+        howto: "Objectif, matériel, étapes numérotées et illustrées, erreurs à éviter, durée."
+        regulation_section: "Ce que dit le texte, qui est concerné, obligations, sanctions et démarches."
+        news: "Ce qui se passe, depuis quand, ce que ça change, chiffres clés, sources datées."
+        comparison: "Critères de choix, tableau des options, recommandation par profil."
+        category: "Produits filtrables, critères de choix, introduction, guide d'achat en bas de page."
+        product: "Caractéristiques, photos, prix, avis, disponibilité, bouton d'achat."
+        service: "Prestation, déroulé, zone d'intervention, tarifs indicatifs, demande de devis."
+        local: "Une page par ville : service, zone couverte, références locales, horaires, contact."
+        job: "Missions, salaire, formation, débouchés."
+        major_section: "Une définition, puis les termes fondamentaux du sujet."
+        faq_question: "La question en intertitre et sa réponse directe."
+        commercial_section: "Fourchettes de prix, ce qui fait varier le coût, aides et avis."
+        minor_commercial_section: "Une fourchette de prix, une aide ou un avis, en complément."
+        mention: "L'expression et ses termes associés."
+    support: "Renfort de la page mère la plus proche"
+    mother_page: "Page mère : « %parent% »"
+    mother: "Sujet important"
+    competitive: "(compétitive)"
+    mother_demand: "demande mesurée %demand%"
+    mother_keywords: "%count% mots-clés et sections dans le champ"
+    mother_alternative: "ou « %alternative% »"
+    type:
+        pillar: "Guide complet"
+        pillar_commercial: "Guide complet commercial"
+        definition: "Page définition"
+        howto: "Page tutorielle"
+        regulation_section: "Section réglementation majeure"
+        news: "Article d'actualité"
+        comparison: "Comparatif"
+        category: "Page catégorie"
+        product: "Fiche produit"
+        service: "Page service"
+        local: "Page(s) locale(s)"
+        job: "Fiche métier"
+        major_section: "Section importante"
+        faq_question: "Section de question / FAQ"
+        commercial_section: "Section commerciale majeure"
+        minor_commercial_section: "Section commerciale mineure"
+        mention: "Section légère"
+    gauge:
+        demand: "Demande"
+        demand_help: "À quel point l'expression est recherchée."
+        notoriety: "Intérêt concept"
+        notoriety_help: "À quel point le sujet est connu, d'après Wikipédia."
+        depth: "Profondeur"
+        depth_help: "La matière disponible pour une page complète."
+        orientation: "Commercial"
+        orientation_help: "La part du sujet tournée vers l'achat."
+
+failure:
+    timeout: "délai dépassé"
+    blocked: "accès refusé"
+    rate_limited: "trop de requêtes"
+    server_error: "erreur serveur"
+    invalid_response: "réponse illisible"
+    network: "erreur réseau"
+
+synthesis:
+    title: "Synthèse"
+    weight_help: "Nombre de termes · intérêt cumulé"
+
+category:
+    core:
+        title: "Fondamentaux"
+        help: "Le cœur du sujet, indispensable à une bonne couverture."
+    commercial:
+        title: "Opportunités"
+        help: "Prix, devis, aides, choix d'une solution : là où l'on décide."
+    complementary:
+        title: "Sujets annexes"
+        help: "Pour enrichir le contenu, sans être indispensables."
+    doubtful:
+        title: "À vérifier ou exclure"
+        help: "Termes ambigus, éloignés ou écartés par l'analyse."
+
+structure:
+    fallback:
+        title: "Plan indisponible pour cette analyse"
+        text: "Voici les mots-clés trouvés, classés par intérêt. Relancez la recherche dans quelques minutes pour obtenir la structure complète."
+    band:
+        strong: "Intérêt fort"
+        medium: "Intérêt moyen"
+        low: "Intérêt faible ou non mesuré"
+    title: "Champ sémantique"
+    keywords_title: "Mots-clés"
+    intent_filter: "Intention de recherche"
+    intent:
+        informational: "Informationnel"
+        commercial: "Commercial"
+        transactional: "Transactionnel"
+    filter: "Filtrer"
+    categories: "Catégories"
+    scale: "Intérêt"
+    unmeasured: "estimé"
+    unmeasured_help: "Terme qu'aucun moteur n'a suggéré (IA, Wikipédia W, Wikidata D) : sa popularité est estimée d'après l'IA et la présence sur Wikipédia et Wikidata, sans dépasser 28."
+    hide_low: "Masquer l'intérêt faible"
+    issue:
+        timeout: "L'analyse a pris trop de temps."
+        unavailable: "L'IA n'a pas pu proposer de structure cette fois-ci."
+        too_few_keywords: "Pas assez de mots-clés à structurer une fois le hors sujet écarté."
+    others: "Autres mots-clés"
+    main: "Mot-clé principal"
+    keywords: "{1}1 mot-clé|]1,Inf[%count% mots-clés"
+    copy: "Plan"
+    copied: "Plan copié ✓"
+    copy_terms: "Copier"
+    copy_keywords: "Mots-clés"
+    keywords_copied: "%count% copiés ✓"
+    export: "CSV"
+    export_pdf: "PDF"
+
+legal:
+    title: "Mentions légales"
+    publisher:
+        heading: "Éditeur"
+        siren: "SIREN : %siren%"
+        contact: "Contact :"
+    host:
+        heading: "Hébergeur"
+        text: "OVH SAS<br>2 rue Kellermann, 59100 Roubaix, France<br>ovhcloud.com"
+    data:
+        heading: "Données personnelles"
+        no_account: "SemSeeker ne propose pas de compte, ne dépose aucun cookie de suivi et n'utilise aucun outil de mesure d'audience."
+        ip: "Votre adresse IP est utilisée uniquement pour limiter le nombre de recherches (10 par 24 heures) ; ce compteur est supprimé automatiquement après 24 heures."
+        third_parties: "Pour produire les résultats, l'expression recherchée est transmise à Wikipédia, à Wikidata et à des services d'autocomplétion de moteurs de recherche tiers, puis les suggestions obtenues sont analysées par un service d'intelligence artificielle. Aucune autre donnée vous concernant ne leur est transmise. Les résultats sont conservés 24 heures en cache."
+    ip:
+        heading: "Propriété intellectuelle"
+        text: "Les suggestions affichées proviennent de moteurs de recherche tiers ; l'analyse et l'indice d'intérêt sont générés automatiquement et fournis à titre indicatif."
+
+footer:
+    tagline: "SemSeeker — un outil net-labs.fr"

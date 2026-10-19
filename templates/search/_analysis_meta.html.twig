@@ -1,0 +1,26 @@
+{% set field = result.field %}
+{% macro item(icon, content, class) %}
+    <li class="analysis-item {{ class }}">{{ include('search/_icon.svg.twig', {name: icon, size: 13}) }}<span>{{ content|raw }}</span></li>
+{% endmacro %}
+<footer class="analysis-meta">
+    <ul>
+        {{ _self.item('clock', '<time datetime="' ~ result.analyzedAt|date('c') ~ '">' ~ result.analyzedAt|date('analysis.date_format'|trans, 'Europe/Paris') ~ '</time>') }}
+        <li class="analysis-item{{ result.failedSources is not empty ? ' is-warning' }}">
+            {{- include('search/_icon.svg.twig', {name: 'sources', size: 13}) -}}
+            <span>
+                {{- 'analysis.sources'|trans({'%ok%': result.sourceCount - result.failedSources|length, '%total%': result.sourceCount}) -}}
+                {%- if result.failedSources is not empty %} (
+                    {%- for failure in result.failedSources -%}
+                        {% if not loop.first %}, {% endif %}<span class="analysis-failure" title="{{ failure.detail }}">{{ failure.acronym }} : {{ ('failure.' ~ failure.reason)|trans }}</span>
+                    {%- endfor -%}
+                ){% endif -%}
+            </span>
+        </li>
+        {{ _self.item('list', 'analysis.keywords'|trans({'%total%': result.total, '%kept%': result.keywords|length})|e) }}
+        {% if field %}
+            {{ _self.item('layers', 'analysis.themes'|trans({'%count%': field.groups|length})|e) }}
+            {{ _self.item('target', 'analysis.pages'|trans({'%count%': field.pageCount})|e) }}
+        {% endif %}
+        {{ _self.item('globe', lang|upper) }}
+    </ul>
+</footer>

@@ -1,0 +1,5 @@
+framework:
+    cache:
+        # Résultats de recherche (24 h) et compteurs de la limite par IP.
+        # Stockés dans des fichiers sous var/share/, conservés entre deux déploiements.
+        prefix_seed: semseeker

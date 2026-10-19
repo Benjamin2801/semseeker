@@ -1,0 +1,7 @@
+framework:
+    rate_limiter:
+        # Recherches non mises en cache, par adresse IP.
+        search:
+            policy: sliding_window
+            limit: 10
+            interval: '24 hours'

@@ -1,0 +1,28 @@
+{% if step == 'type' %}
+    <span class="shot-input">{{ 'home.method.type.example'|trans }}<span class="shot-caret"></span></span>
+{% elseif step == 'analyse' %}
+    <span class="shot-progress"><span class="is-done"></span><span class="is-done"></span><span></span></span>
+    <span class="shot-mono">~ 20 s</span>
+{% elseif step == 'measure' %}
+    {% set measures = {demand: 55, orientation: 63, notoriety: 25, depth: 41} %}
+    <span class="shot-measures">
+        <svg class="radar" viewBox="0 0 96 96" width="56" height="56">
+            <g class="radar-grid"><polygon points="48,6 90,48 48,90 6,48"/><polygon points="48,27 69,48 48,69 27,48"/></g>
+            <polygon class="radar-shape" points="48,{{ 48 - 0.42 * measures.demand }} {{ 48 + 0.42 * measures.orientation }},48 48,{{ 48 + 0.42 * measures.depth }} {{ 48 - 0.42 * measures.notoriety }},48"/>
+        </svg>
+        <span class="radar-legend">
+            {%- for name, value in measures %}<span class="gauge-{{ name }}" title="{{ ('advice.gauge.' ~ name)|trans }}"><span class="gauge-name"></span><span class="gauge-value">{{ value }}</span></span>{% endfor -%}
+        </span>
+    </span>
+{% elseif step == 'structure' %}
+    <span class="shot-tree">
+        <span class="shot-theme">{{ 'home.method.structure.example_theme'|trans }}</span>
+        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'target', size: 10, class: 'term-icon category-core'}) }}{{ 'home.method.structure.example_a'|trans }}<sup class="term-score score-tier-5">58</sup></span>
+        <span class="shot-page">{{ include('search/_icon.svg.twig', {name: 'tag', size: 10, class: 'term-icon category-commercial'}) }}{{ 'home.method.structure.example_b'|trans }}<sup class="term-score score-tier-3">27</sup></span>
+    </span>
+{% else %}
+    <span class="button-secondary is-small is-keywords">{{ include('search/_icon.svg.twig', {name: 'copy'}) }}{{ 'structure.copy_keywords'|trans }}</span>
+    <span class="button-secondary is-small is-plan">{{ include('search/_icon.svg.twig', {name: 'copy'}) }}{{ 'structure.copy'|trans }}</span>
+    <span class="button-secondary is-small is-csv">{{ include('search/_icon.svg.twig', {name: 'download'}) }}{{ 'structure.export'|trans }}</span>
+    <span class="button-secondary is-small is-pdf">{{ include('search/_icon.svg.twig', {name: 'download'}) }}{{ 'structure.export_pdf'|trans }}</span>
+{% endif %}

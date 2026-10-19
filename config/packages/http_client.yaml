@@ -1,0 +1,12 @@
+framework:
+    http_client:
+        # Une recherche envoie 7 requêtes par source, dont 14 au même serveur (Google et YouTube).
+        # Sans HTTP/2, les 6 connexions par serveur par défaut mettent des requêtes en file d'attente,
+        # et l'attente compte dans leur délai. Au-delà de 10, trop de résolutions DNS démarrent ensemble
+        # et l'hébergement refuse d'en lancer certaines (voir StartupFailureRetryStrategy).
+        max_host_connections: 10
+
+when@test:
+    framework:
+        http_client:
+            mock_response_factory: App\Tests\Http\FakeHttpResponses

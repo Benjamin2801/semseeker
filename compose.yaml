@@ -1,0 +1,12 @@
+services:
+    app:
+        build: .
+        ports:
+            - '8000:8000'
+        environment:
+            # Une clé Cohere ou plusieurs séparées par des virgules ; sans clé, les résultats s'affichent sans analyse IA.
+            COHERE_API_KEY: ${COHERE_API_KEY:-}
+        volumes:
+            - .:/app
+            # Les dépendances installées dans l'image restent celles du conteneur.
+            - /app/vendor

@@ -1,0 +1,17 @@
+{% set current_lang = lang ?? app.request.locale %}
+<form class="search-form" method="get" action="{{ path('search', {_locale: app.request.locale}) }}" data-loading-stages="{{ ['search.stage.collect', 'search.stage.score', 'search.stage.ai']|map(k => k|trans)|json_encode }}">
+    <div class="search-field">
+        <label class="visually-hidden" for="q">{{ 'search.keyword_label'|trans }}</label>
+        <input id="q" name="q" type="search" required maxlength="{{ max_keyword_length }}" value="{{ keyword ?? '' }}" placeholder="{{ 'search.keyword_placeholder'|trans }}" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="q-suggestions" autocomplete="off" data-autocomplete="{{ path('autocomplete', {_locale: app.request.locale}) }}">
+        <ul id="q-suggestions" class="suggest-list" role="listbox" aria-label="{{ 'search.suggestions'|trans }}" hidden></ul>
+
+        <label class="visually-hidden" for="lang">{{ 'search.language_label'|trans }}</label>
+        <select id="lang" name="lang" title="{{ 'search.language_label'|trans }}">
+            {% for locale in app.enabled_locales %}
+                <option value="{{ locale }}"{% if locale == current_lang %} selected{% endif %}>{{ locale|upper }}</option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <button type="submit">{{ 'search.submit'|trans }}</button>
+</form>

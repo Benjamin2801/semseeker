@@ -1,0 +1,23 @@
+{% import 'search/_structure.html.twig' as structure %}
+{% set measured = items|filter(i => i.keyword) %}
+<div class="synthesis-card {{ class }}">
+    <p class="synthesis-head">
+        {{ include('search/_icon.svg.twig', {name: icon, class: 'synthesis-icon', size: 15}) }}
+        <span class="synthesis-name">{{ title }}</span>
+        {% if items is not empty %}
+            <button type="button" class="button-secondary is-small" data-copy-terms hidden data-label-copied="{{ 'structure.keywords_copied'|trans({'%count%': items|length}) }}">
+                {{- include('search/_icon.svg.twig', {name: 'copy', size: 11, class: 'term-icon'}) }}<span data-label>{{ 'structure.copy_terms'|trans }}</span>
+            </button>
+        {% endif %}
+        <span class="synthesis-count" title="{{ 'synthesis.weight_help'|trans }}">{{ items|length }} · Σ {{ measured|reduce((sum, i) => sum + i.keyword.displayScore, 0) }}</span>
+    </p>
+    {% if items is empty %}
+        <p class="synthesis-empty">—</p>
+    {% else %}
+        <ul class="term-list{{ list_class ?? '' }}" tabindex="0" aria-label="{{ title }}">
+            {% for item in items %}
+                <li class="term{% if item.keyword and item.keyword.low %} is-low{% endif %}"><span>{{ item.text }}</span>{% if item.keyword %}{{ structure.score(item.keyword) }}{% endif %}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</div>

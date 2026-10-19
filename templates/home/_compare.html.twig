@@ -1,0 +1,78 @@
+{% set icons = enum_cases('App\\Ai\\KeywordCategory')|reduce((icons, c) => icons|merge({(c.value): c.icon}), {})|filter((icon, category) => category != 'doubtful') %}
+{% set tiers = constant('App\\Suggest\\Keyword::TIER_THRESHOLDS') %}
+{% set plan = [
+    {title: 'p1', intent: 'informational', sections: [
+        {h2: 'labels', added: true, term: ['t_label', 'core', 41]},
+    ]},
+    {title: 'p2', intent: 'commercial', sections: [
+        {h2: 'types', added: false, term: ['t_wood', 'core', 52]},
+        {h2: 'materials', added: false, term: ['t_materials', 'complementary', 27]},
+        {h2: 'cost', added: true, term: ['t_price', 'commercial', 47]},
+    ]},
+    {title: 'p3', intent: 'transactional', sections: [
+        {h2: 'builder', added: false, term: ['t_builder', 'commercial', 29]},
+        {h2: 'aids', added: false, term: ['t_aids', 'commercial', 18]},
+    ]},
+] %}
+<div class="compare">
+    <div class="compare-col is-before">
+        <p class="compare-label">{{ 'home.compare.before.label'|trans }}</p>
+        <p class="compare-page">{{ 'home.compare.before.title'|trans }}</p>
+        <ul class="compare-sections">
+            {% for h2 in ['presentation', 'features', 'pricing', 'demo'] %}
+                <li><span class="compare-h2">H2</span><span>{{ ('home.compare.h2.' ~ h2)|trans }}</span><span class="compare-term is-unknown">{{ 'home.compare.before.unknown'|trans }}</span></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="compare-col is-after">
+        <p class="compare-label">{{ 'home.compare.after.label'|trans }}</p>
+        {% for page in plan %}
+            <p class="compare-page">
+                <span class="compare-h2">H2</span>
+                <span>{{ ('home.compare.after.' ~ page.title)|trans }}</span>
+                <span class="intent intent-{{ page.intent }}">{{ ('intent.' ~ page.intent)|trans }}</span>
+            </p>
+            <ul class="compare-sections">
+                {% for section in page.sections %}
+                    {% set term = section.term %}
+                    <li>
+                        <span class="compare-h2{{ section.added ? ' is-added' }}" title="{{ section.added ? 'home.compare.added'|trans }}">{{ section.added ? 'H3 +' : 'H3' }}</span>
+                        <span>{{ ('home.compare.h2.' ~ section.h2)|trans }}</span>
+                        <span class="compare-term">
+                            {{- include('search/_icon.svg.twig', {name: icons[term[1]], size: 10, class: 'term-icon category-' ~ term[1]}) -}}
+                            {{ ('home.compare.after.' ~ term[0])|trans }}<sup class="term-score score-tier-{{ 1 + tiers|filter(t => term[2] >= t)|length }}">{{ term[2] }}</sup>
+                        </span>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+    </div>
+</div>
+
+<dl class="compare-key">
+    {% for category, icon in icons %}
+        <div>
+            <dt>{{ include('search/_icon.svg.twig', {name: icon, size: 12, class: 'term-icon category-' ~ category}) }}{{ ('category.' ~ category ~ '.title')|trans }}</dt>
+            <dd>{{ ('home.compare.key.' ~ category)|trans }}</dd>
+        </div>
+    {% endfor %}
+    <div>
+        <dt>
+            {%- for intent in ['informational', 'commercial', 'transactional'] -%}
+                <span class="intent intent-{{ intent }}">{{ ('intent.' ~ intent)|trans }}</span>
+            {%- endfor -%}
+        </dt>
+        <dd>{{ 'home.compare.key.intent'|trans }}</dd>
+    </div>
+    <div>
+        <dt class="score-scale">
+            <span class="term-score score-tier-1">&lt;&#8239;{{ tiers|first }}</span>
+            {%- for threshold in tiers %}
+                <span class="term-score score-tier-{{ loop.index + 1 }}">{{ loop.last ? threshold ~ '+' : threshold ~ '–' ~ (tiers[loop.index] - 1) }}</span>
+            {%- endfor %}
+        </dt>
+        <dd>{{ 'home.compare.key.score'|trans }}</dd>
+    </div>
+</dl>
+

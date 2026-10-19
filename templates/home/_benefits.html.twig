@@ -1,0 +1,17 @@
+{% set steps = ['type', 'analyse', 'measure', 'structure', 'integrate'] %}
+{% set benefits = {precision: 'target', coverage: 'layers', visibility: 'sources', conversion: 'tag', opportunities: 'help', time: 'clock'} %}
+<ul class="pairs">
+    <li class="pairs-head" aria-hidden="true">
+        <span class="pairs-label is-before">{{ 'home.benefits.before'|trans }}</span>
+        <span></span>
+        <span class="pairs-label is-after">{{ 'home.benefits.after'|trans }}</span>
+    </li>
+    {% for benefit, icon in benefits %}
+        <li class="step-{{ cycle(steps, loop.index0) }}">
+            <span class="pair-before" data-label="{{ 'home.benefits.before'|trans }}">{{ include('search/_icon.svg.twig', {name: 'x', size: 12, class: 'pair-x'}) }}<span>{{ ('home.benefits.' ~ benefit ~ '.before')|trans }}</span></span>
+            <span class="pair-arrow" aria-hidden="true">→</span>
+            <span class="pair-after" data-label="{{ 'home.benefits.after'|trans }}">{{ include('search/_icon.svg.twig', {name: icon, size: 15, class: 'pair-icon'}) }}<span class="pair-tag">{{ ('home.benefits.' ~ benefit ~ '.tag')|trans }}</span>{{ ('home.benefits.' ~ benefit ~ '.after')|trans }}</span>
+        </li>
+    {% endfor %}
+</ul>
+<p class="edge-claim">{{ 'home.benefits.claim'|trans }}</p>

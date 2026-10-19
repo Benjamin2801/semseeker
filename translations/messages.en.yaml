@@ -1,0 +1,362 @@
+meta:
+    title: "SemSeeker — find the decisive angles"
+    description: "Discover the relative volume and the quality of search intent of the terms that make up the semantic field of a concept."
+
+nav:
+    language: "Language"
+    theme: "Switch between light and dark theme"
+
+home:
+    title: "Find the [decisive] angles."
+    lead: "Cross-analysis of [semantic fields] and {commercial angles}"
+    method:
+        kicker: "The method"
+        title: "How to make the most of our solution in a few clicks and seconds?"
+        type:
+            title: "Type"
+            text: "A product, a service or a trade."
+            output: "One phrase"
+            example: "eco-friendly house"
+        analyse:
+            title: "Analyse"
+            text: "Hundreds of signals crossed, no waiting."
+            output: "Result in ~20 s"
+        measure:
+            title: "Measure"
+            text: "Demand, concept interest, depth and commercial angle"
+            output: "Analytical measure"
+        structure:
+            title: "Structure"
+            text: "Themes, pages and keywords, ranked by interest."
+            output: "Structuring"
+            example_theme: "Construction"
+            example_a: "Timber frame house"
+            example_b: "Prices and grants"
+        integrate:
+            title: "Integrate"
+            text: "Copy or export, then place the terms that matter."
+            output: "Text · CSV · PDF"
+    compare:
+        kicker: "The difference"
+        try: "Get this plan for your own topic, in 15 seconds →"
+        title: "Two pages: random structure VS the power of analysis, then targeting"
+        added: "Section added to meet the demand"
+        before:
+            label: "Before · classic brochure page"
+            title: "Eco-friendly homes: our projects"
+            unknown: "demand?"
+        after:
+            label: "After · SemSeeker plan"
+            p1: "Eco-friendly house: definition and criteria"
+            p2: "Eco-friendly house: types and prices"
+            p3: "Building your eco-friendly house"
+            t_label: "eco house certification"
+            t_wood: "timber frame house"
+            t_materials: "eco-friendly building materials"
+            t_price: "eco-friendly house cost"
+            t_builder: "eco house builder"
+            t_aids: "eco home grants"
+        h2:
+            presentation: "About us"
+            features: "Our strengths"
+            pricing: "Pricing"
+            demo: "Contact us"
+            labels: "Labels and standards"
+            types: "Timber, straw or hempcrete?"
+            materials: "Materials"
+            cost: "How much does it cost?"
+            builder: "Finding a builder"
+            aids: "Grants and loans"
+        key:
+            core: "The semantic terms at the heart of the topic, the ones every page on it must cover to be relevant."
+            commercial: "Genuinely searched queries, often original and less contested, close to purchase."
+            complementary: "Related notions that enrich the content and widen its coverage."
+            intent: "What the visitor wants at this stage: understand, compare or act."
+            score: "Interest from 0 to 100: the higher, the more searched and the earlier identified. Prioritise the strongest."
+        cta: "Start now on my topic →"
+    benefits:
+        kicker: "The benefits"
+        before: "Before"
+        after: "After"
+        title: "What are the benefits of a semantic and commercial analysis?"
+        claim: "Competitors optimise keywords blindly; you work the precise junctions between the semantic and commercial axes."
+        precision:
+            tag: "Precision"
+            before: "Keywords picked by gut feeling"
+            after: "Terms measured by their real interest"
+        coverage:
+            tag: "Coverage"
+            before: "One page per phrase"
+            after: "One page covering a whole group of relevant queries"
+        visibility:
+            tag: "Visibility"
+            before: "Content search engines see as incomplete"
+            after: "A complete answer, rated relevant by engines"
+        conversion:
+            tag: "Qualification"
+            before: "Content that misses the intent"
+            after: "The right answer, at the right stage of the buying journey"
+        opportunities:
+            tag: "Phrases"
+            before: "Profitable phrases left to competitors"
+            after: "The phrases that convert, captured first"
+        time:
+            tag: "Time"
+            before: "Hours of spreadsheet research"
+            after: "A complete analysis in seconds"
+    principle:
+        kicker: "The principle"
+        title: "Produce fewer [-useless-] or weak pages, and enjoy [+profitable pages+]"
+        text: "Every term is measured on two independent axes, %semantic% and %demand%."
+        chart_title: "Search demand and semantic relevance"
+        chart_desc: "Two axes, from low to high: semantic relevance horizontally, search demand vertically. Four zones: off target, target zone, supporting content, discarded."
+        target: "Target zone"
+        target_help: "searched and relevant"
+        offtarget: "Off target"
+        offtarget_help: "searched, unrelated"
+        support: "Supporting content"
+        support_help: "relevant, rarely searched"
+        discarded: "Discarded"
+        discarded_help: "not searched, no strong logical link"
+        low: "low"
+        high: "high"
+        x_axis: "Semantic relevance"
+        y_axis: "Search demand"
+        chart_heading: "Term relevance and search demand"
+        protocol: "Protocol"
+        cta: "Find my topic's target zone →"
+        legend: "Term categories:"
+        steps:
+            collect:
+                title: "Term and signal collection"
+                text: "More than 10 signal sources"
+            measure:
+                title: "Measurement and analysis"
+                text: "Demand, commercial interest, the concept and depth"
+            classify:
+                title: "Classification"
+                text: "Core terms, opportunities and related topics"
+            decide:
+                title: "Advice"
+                text: "Page to write, concepts and terms to include"
+    cta:
+        title: "Get ahead of your market."
+        text: "A clear view of what you must not miss and must include in your pages, to work less and get far more results."
+        button: "Run an analysis"
+    sources:
+        title: "Data sources"
+    tech:
+        title: "Built with"
+
+search:
+    suggestions: "Google suggestions"
+    keyword_label: "Keyword"
+    keyword_placeholder: "e.g. eco-friendly house"
+    language_label: "Suggestion language"
+    language:
+        fr: "French"
+        en: "English"
+    stage:
+        collect: "Collecting suggestions…"
+        score: "Measuring interest…"
+        ai: "AI analysis…"
+    submit: "Analyse"
+
+results:
+    title: "Results for “%keyword%”"
+    heading: "{0}No keywords found for “%keyword%”|{1}1 keyword found for “%keyword%”|]1,Inf[%count% keywords found for “%keyword%”"
+    score_help: "Search interest index, from 0 to 100: the earlier a keyword is suggested, and by the more engines, the more it is searched."
+    empty: "No suggestions found. Try a shorter phrase."
+    col:
+        theme: "Theme"
+        page: "Concept"
+        keyword: "Keyword"
+        score: "Interest (0-100)"
+        category: "Category"
+        estimate: "Estimate (not measured)"
+
+limit:
+    title: "Limit reached"
+    message: "You have reached the limit of 10 analyses per 24 hours. You can run a new one from %time% (Paris time). Searches already made remain available."
+    back: "Back to home"
+
+intent:
+    informational: "Informational"
+    commercial: "Commercial"
+    transactional: "Transactional"
+
+wikipedia:
+    title: "Concept interest"
+    help: "Article views over the last 30 days: how well-known the topic is, not a number of searches."
+    sparkline: "Daily views over 30 days"
+    uncounted: "Outside the precise topic (generic word or set aside by the AI): not counted in awareness."
+    concept: "Article of a related concept, counted in awareness."
+
+analysis:
+    date_format: "Y-m-d H:i"
+    sources: "%ok%/%total% sources"
+    keywords: "%total% phrases → %kept% kept"
+    themes: "{1}1 theme|]1,Inf[%count% themes"
+    pages: "{1}1 concept|]1,Inf[%count% concepts"
+
+origin:
+    wikipedia:
+        short: "W"
+        help: "From Wikipedia: no engine suggested it, its popularity is estimated (AI, Wikipedia, Wikidata)."
+    wikidata:
+        short: "D"
+        help: "From Wikidata: no engine suggested it, its popularity is estimated (AI, Wikipedia, Wikidata)."
+    ai:
+        short: "AI"
+        help: "Core term proposed by the AI: no engine suggested it, its popularity is estimated (AI, Wikipedia, Wikidata)."
+
+advice:
+    summary:
+        demand:
+            high: "High demand"
+            medium: "Medium demand"
+            low: "Low demand"
+        balance:
+            informational: "mostly informational interest"
+            business: "mostly business interest"
+            balanced: "balanced interest"
+    or: "or"
+    title: "Advice"
+    axes_label: "Axes"
+    concepts_logical: "Logical"
+    concepts_searched: "Searched"
+    axes:
+        pillar: "Definition, types, how it works, pros and cons, prices, FAQ."
+        pillar_commercial: "Definition, types, selection criteria, comparison, prices and grants, reviews, FAQ."
+        definition: "Definition, origin, examples, related notions."
+        howto: "Goal, equipment, numbered and illustrated steps, mistakes to avoid, duration."
+        regulation_section: "What the text says, who is concerned, obligations, penalties and procedures."
+        news: "What is happening, since when, what it changes, key figures, dated sources."
+        comparison: "Selection criteria, comparison table, recommendation by profile."
+        category: "Filterable products, selection criteria, intro, buying guide at the bottom."
+        product: "Specifications, photos, price, reviews, availability, buy button."
+        service: "The service, how it works, area covered, indicative rates, quote request."
+        local: "One page per city: service, area covered, local references, opening hours, contact."
+        job: "Duties, salary, training, career prospects."
+        major_section: "A definition, then the topic's core terms."
+        faq_question: "The question as a subheading and its direct answer."
+        commercial_section: "Price ranges, what drives the cost, grants and reviews."
+        minor_commercial_section: "A price range, a grant or a review, as a complement."
+        mention: "The phrase and its related terms."
+    support: "Reinforcement of the closest parent page"
+    mother_page: "Parent page: “%parent%”"
+    mother: "Key topic"
+    competitive: "(competitive)"
+    mother_demand: "measured demand %demand%"
+    mother_keywords: "%count% keywords and sections in the field"
+    mother_alternative: "or “%alternative%”"
+    type:
+        pillar: "Complete guide"
+        pillar_commercial: "Commercial complete guide"
+        definition: "Definition page"
+        howto: "Tutorial page"
+        regulation_section: "Major regulation section"
+        news: "News article"
+        comparison: "Comparison"
+        category: "Category page"
+        product: "Product page"
+        service: "Service page"
+        local: "Local page(s)"
+        job: "Job profile"
+        major_section: "Major section"
+        faq_question: "Question / FAQ section"
+        commercial_section: "Major commercial section"
+        minor_commercial_section: "Minor commercial section"
+        mention: "Minor section"
+    gauge:
+        demand: "Demand"
+        demand_help: "How much the phrase is searched."
+        notoriety: "Concept interest"
+        notoriety_help: "How well known the topic is, according to Wikipedia."
+        depth: "Depth"
+        depth_help: "The material available for a complete page."
+        orientation: "Commercial"
+        orientation_help: "The share of the topic turned towards buying."
+
+failure:
+    timeout: "timed out"
+    blocked: "access denied"
+    rate_limited: "too many requests"
+    server_error: "server error"
+    invalid_response: "unreadable response"
+    network: "network error"
+
+synthesis:
+    title: "Summary"
+    weight_help: "Number of terms · cumulative interest"
+
+category:
+    core:
+        title: "Fundamentals"
+        help: "The heart of the topic, essential for good coverage."
+    commercial:
+        title: "Opportunities"
+        help: "Prices, quotes, subsidies, choosing a solution: where decisions are made."
+    complementary:
+        title: "Related topics"
+        help: "To enrich the content, without being essential."
+    doubtful:
+        title: "To check or exclude"
+        help: "Ambiguous, distant or discarded terms."
+
+structure:
+    fallback:
+        title: "No plan for this analysis"
+        text: "Here are the keywords found, ranked by interest. Run the search again in a few minutes to get the full structure."
+    band:
+        strong: "High interest"
+        medium: "Medium interest"
+        low: "Low or unmeasured interest"
+    title: "Semantic field"
+    keywords_title: "Keywords"
+    intent_filter: "Search intent"
+    intent:
+        informational: "Informational"
+        commercial: "Commercial"
+        transactional: "Transactional"
+    filter: "Filter"
+    categories: "Categories"
+    scale: "Interest"
+    unmeasured: "estimated"
+    unmeasured_help: "Term no engine suggested (AI, Wikipedia W, Wikidata D): its popularity is estimated from the AI and its presence on Wikipedia and Wikidata, never above 28."
+    hide_low: "Hide low interest"
+    issue:
+        timeout: "The analysis took too long."
+        unavailable: "The AI could not suggest a structure this time."
+        too_few_keywords: "Not enough keywords to structure once off-topic queries are set aside."
+    others: "Other keywords"
+    main: "Main keyword"
+    keywords: "{1}1 keyword|]1,Inf[%count% keywords"
+    copy: "Plan"
+    copied: "Plan copied ✓"
+    copy_terms: "Copy"
+    copy_keywords: "Keywords"
+    keywords_copied: "%count% copied ✓"
+    export: "CSV"
+    export_pdf: "PDF"
+
+legal:
+    title: "Legal notice"
+    publisher:
+        heading: "Publisher"
+        siren: "Company number (SIREN): %siren%"
+        contact: "Contact:"
+    host:
+        heading: "Hosting"
+        text: "OVH SAS<br>2 rue Kellermann, 59100 Roubaix, France<br>ovhcloud.com"
+    data:
+        heading: "Personal data"
+        no_account: "SemSeeker has no user accounts, sets no tracking cookies and uses no analytics."
+        ip: "Your IP address is only used to limit the number of searches (10 per 24 hours); this counter is deleted automatically after 24 hours."
+        third_parties: "To produce the results, the searched phrase is sent to Wikipedia, Wikidata and third-party search engine autocomplete services, and the suggestions are then analysed by an artificial intelligence service. No other data about you is shared with them. Results are cached for 24 hours."
+    ip:
+        heading: "Intellectual property"
+        text: "The suggestions shown come from third-party search engines; the analysis and interest index are generated automatically and provided for information only."
+
+footer:
+    tagline: "SemSeeker — a net-labs.fr tool"

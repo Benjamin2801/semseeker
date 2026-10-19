@@ -1,0 +1,83 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <section class="hero">
+        {% set title = 'home.title'|trans %}
+        <h1 aria-label="{{ title|replace({'[': '', ']': ''}) }}">{{ title|e|replace({'[': '<mark>', ']': '</mark>'})|raw }}</h1>
+        <p class="lead">{{ 'home.lead'|trans|e|replace({'[': '<span class="lead-semantic">', ']': '</span>', '{': '<span class="lead-commercial">', '}': '</span>'})|raw }}</p>
+
+        {{ include('search/_form.html.twig') }}
+    </section>
+
+    <section class="home-section" aria-labelledby="benefits-title">
+        <p class="home-kicker">{{ 'home.benefits.kicker'|trans }}</p>
+        <h2 id="benefits-title">{{ 'home.benefits.title'|trans }}</h2>
+        {{ include('home/_benefits.html.twig') }}
+    </section>
+
+    <section class="home-section" aria-labelledby="compare-title">
+        {% set brands = {Google: '#4285F4', YouTube: '#FF0000', Bing: '#258FFA', DuckDuckGo: '#DE5833', Yahoo: '#6001D2', Amazon: '#FF9900', eBay: '#E53238', Indeed: '#2164F3', Wikidata: '#339966'} %}
+        <div class="home-sources">
+            <p class="home-kicker">{{ 'home.sources.title'|trans }}</p>
+            <ul class="sources-list">
+                {% for source, logo in {Google: 'google', YouTube: 'youtube', Bing: null, DuckDuckGo: 'duckduckgo', Yahoo: null, Amazon: 'amazon', eBay: 'ebay', Indeed: 'indeed', 'Wikipédia': 'wikipedia', Wikidata: 'wikidata'} %}
+                    <li{% if brands[source] is defined %} style="--brand: {{ brands[source] }}"{% endif %}>
+                        {%- if logo %}{{ source('home/logos/' ~ logo ~ '.svg')|replace({'<svg role="img" ': '<svg class="source-logo" aria-hidden="true" focusable="false" '})|raw }}
+                        {%- else %}<span class="source-mark" aria-hidden="true">{{ source|first }}</span>{% endif -%}
+                        {{ source }}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <p class="home-kicker">{{ 'home.compare.kicker'|trans }}</p>
+        <h2 id="compare-title">{{ 'home.compare.title'|trans }}</h2>
+        {{ include('home/_compare.html.twig') }}
+        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.compare.try'|trans }}</a></p>
+    </section>
+
+    <section class="home-section" aria-labelledby="principle-title">
+        <p class="home-kicker">{{ 'home.principle.kicker'|trans }}</p>
+        <h2 id="principle-title">{{ 'home.principle.title'|trans|e|replace({'[-': '<del>', '-]': '</del>', '[+': '<ins>', '+]': '</ins>'})|raw }}</h2>
+        <p class="home-lead">{{ 'home.principle.text'|trans({'%semantic%': '<span class="axis-semantic">' ~ 'home.principle.x_axis'|trans|lower ~ '</span>', '%demand%': '<span class="axis-demand">' ~ 'home.principle.y_axis'|trans|lower ~ '</span>'})|raw }}</p>
+        {{ include('home/_principle.html.twig') }}
+        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.principle.cta'|trans }}</a></p>
+    </section>
+
+    <section class="home-section" aria-labelledby="method-title">
+        <p class="home-kicker">{{ 'home.method.kicker'|trans }}</p>
+        <h2 id="method-title">{{ 'home.method.title'|trans }}</h2>
+        <ol class="method">
+            {% for step in ['type', 'analyse', 'measure', 'structure', 'integrate'] %}
+                <li class="method-card step-{{ step }}">
+                    <div class="method-shot" aria-hidden="true">{{ include('home/_shot.html.twig', {step: step}) }}</div>
+                    <p class="method-num">{{ '%02d'|format(loop.index) }}</p>
+                    <h3>{{ ('home.method.' ~ step ~ '.title')|trans }}</h3>
+                    <p>{{ ('home.method.' ~ step ~ '.text')|trans }}</p>
+                    <p class="method-output">{{ include('search/_icon.svg.twig', {name: 'check', size: 11}) }}{{ ('home.method.' ~ step ~ '.output')|trans }}</p>
+                </li>
+            {% endfor %}
+        </ol>
+        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.compare.cta'|trans }}</a></p>
+    </section>
+
+    <section class="home-cta">
+        <h2>{{ 'home.cta.title'|trans }}</h2>
+        <p>{{ 'home.cta.text'|trans }}</p>
+        <a class="cta-button" href="#q" data-to-form>{{ 'home.cta.button'|trans }}</a>
+    </section>
+
+    <div class="home-sources is-tech">
+        <p class="home-kicker">{{ 'home.tech.title'|trans }}</p>
+        <ul class="sources-list">
+            {% for name, tech in {OVHcloud: ['ovh', null], PHP: ['php', '#777BB4'], Symfony: ['symfony', null], Twig: [null, '#8DAA2B'], Cohere: [null, '#D85A30'], PHPUnit: [null, '#3C9CD7'], PHPStan: [null, null]} %}
+                <li{% if tech[1] %} style="--brand: {{ tech[1] }}"{% endif %}>
+                    {%- if tech[0] %}{{ source('home/logos/' ~ tech[0] ~ '.svg')|replace({'<svg role="img" ': '<svg class="source-logo" aria-hidden="true" focusable="false" '})|raw }}
+                    {%- else %}<span class="source-mark" aria-hidden="true">{{ name|first }}</span>{% endif -%}
+                    {{ name }}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+{% endblock %}

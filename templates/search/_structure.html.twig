@@ -1,0 +1,219 @@
+{% set field = result.field %}
+{% macro score(item) %}
+    {%- if item.measured %}<sup class="term-score score-tier-{{ item.scoreTier }}">{{ item.score }}</sup>
+    {%- else %}<sup class="term-score is-unmeasured{% if item.estimate %} is-estimated score-tier-{{ item.scoreTier }}{% endif %}" title="{{ ('origin.' ~ item.origin ~ '.help')|trans }}">{{ item.estimate ? '' : '—' }}<abbr>{{ ('origin.' ~ item.origin ~ '.short')|trans }}</abbr></sup>
+    {%- endif -%}
+{% endmacro %}
+{% macro category_icon(item) %}
+    {%- if item and item.category -%}
+        {{ include('search/_icon.svg.twig', {name: item.category.icon, class: 'term-icon category-' ~ item.category.value, size: 11}) }}
+    {%- endif -%}
+{% endmacro %}
+{% macro row(label, item, class, main = false) %}
+    <span class="row {{ class }}{% if item and item.low %} is-low{% endif %}"{% if item and item.category %} data-category="{{ item.category.value }}"{% endif %}><span class="row-label">{{ main ? include('search/_icon.svg.twig', {name: 'star', size: 11, class: 'term-icon is-main-icon'}) : _self.category_icon(item) }}{{ label }}</span>{% if item %}{{ _self.score(item) }}{% endif %}</span>
+{% endmacro %}
+{% macro strong(keywords) %}{{ keywords|filter(k => not k.low)|length }}{% endmacro %}
+{% macro intent_label(intent) %}{{ ('intent.' ~ intent)|trans }}{% endmacro %}
+
+<section class="structure" data-structure
+         data-label-copied="{{ 'structure.copied'|trans }}"
+         data-label-keywords-copied="{{ 'structure.keywords_copied'|trans }}"
+         data-filename="semseeker-{{ keyword|lower|replace({' ': '-'}) }}.csv">
+    <div class="structure-toolbar">
+        <div class="toolbar-row">
+            <h2 class="toolbar-title">{{ (field ? 'structure.title' : 'structure.keywords_title')|trans }}</h2>
+            <div class="toolbar-end">
+                <label class="toolbar-toggle"><input type="checkbox" data-hide-low> {{ 'structure.hide_low'|trans }}</label>
+                {% if not field %}
+                    <button type="button" class="button-secondary is-small is-keywords" data-copy-keywords>
+                        {{ include('search/_icon.svg.twig', {name: 'copy'}) }}<span data-label>{{ 'structure.copy_keywords'|trans }}</span>
+                    </button>
+                {% endif %}
+                {% if field %}
+                    <button type="button" class="button-secondary is-small is-plan" data-copy-plan>
+                        {{ include('search/_icon.svg.twig', {name: 'copy'}) }}<span data-label>{{ 'structure.copy'|trans }}</span>
+                    </button>
+                {% endif %}
+                <button type="button" class="button-secondary is-small is-csv" data-export>
+                    {{- include('search/_icon.svg.twig', {name: 'download'}) }}<span>{{ 'structure.export'|trans }}</span>
+                </button>
+                <button type="button" class="button-secondary is-small is-pdf" data-print hidden>
+                    {{- include('search/_icon.svg.twig', {name: 'download'}) }}<span>{{ 'structure.export_pdf'|trans }}</span>
+                </button>
+            </div>
+        </div>
+        <div class="toolbar-row is-legend">
+            {% if field %}
+                <div class="toolbar-group" role="group" aria-label="{{ 'structure.intent_filter'|trans }}">
+                    <span class="toolbar-label">{{ 'structure.filter'|trans }}</span>
+                    {% for intent in field.intents %}
+                        <button type="button" class="intent-chip intent-{{ intent.value }}" data-intent-filter="{{ intent.value }}" aria-pressed="false">{{ ('structure.intent.' ~ intent.value)|trans }}</button>
+                    {% endfor %}
+                    {% if field.intents is not empty %}<span class="toolbar-separator" aria-hidden="true"></span>{% endif %}
+                    {% for category in enum_cases('App\\Ai\\KeywordCategory')|filter(c => c.value != 'doubtful') %}
+                        <button type="button" class="intent-chip category-chip category-{{ category.value }}" data-category-filter="{{ category.value }}" aria-pressed="false">{{ include('search/_icon.svg.twig', {name: category.icon, size: 11, class: 'term-icon category-' ~ category.value}) }}{{ ('category.' ~ category.value ~ '.title')|trans }}</button>
+                    {% endfor %}
+                </div>
+            {% endif %}
+            {% set thresholds = constant('App\\Suggest\\Keyword::TIER_THRESHOLDS') %}
+            <p class="score-scale">
+                <span class="toolbar-label" title="{{ 'results.score_help'|trans }}">{{ 'structure.scale'|trans }}</span>
+                <span class="term-score score-tier-1">&lt;&#8239;{{ thresholds|first }}</span>
+                {%- for threshold in thresholds %}
+                    <span class="term-score score-tier-{{ loop.index + 1 }}">{{ loop.last ? threshold ~ '+' : threshold ~ '–' ~ (thresholds[loop.index] - 1) }}</span>
+                {%- endfor %}
+                <span class="term-score is-unmeasured is-estimated score-tier-2" title="{{ 'structure.unmeasured_help'|trans }}">≈</span>
+                <span class="legend-note">{{ 'structure.unmeasured'|trans }}</span>
+            </p>
+        </div>
+    </div>
+
+    <script type="application/json" data-keywords>{{ result.keywords|map(k => [k.text, k.measured ? k.score : null])|json_encode|raw }}</script>
+
+    <template data-keywords-text>
+        {%- set lines = [] -%}
+        {%- for category, keywords in result.categories -%}
+            {%- if keywords is not empty -%}
+                {%- set lines = lines|merge(lines is empty ? [] : ['']) -%}
+                {%- set lines = lines|merge([('category.' ~ category ~ '.title')|trans], keywords|map(k => k.text)) -%}
+            {%- endif -%}
+        {%- else -%}
+            {%- set lines = result.keywords|map(k => k.text) -%}
+        {%- endfor -%}
+        {{- lines|join("\n") -}}
+    </template>
+
+    {% if field %}
+        {% set rows = [] %}
+        {% for group in field.groups %}
+            {% for page in group.pages %}
+                {% for item in page.allKeywords|sort((a, b) => b.score <=> a.score) %}
+                    {% set rows = rows|merge([[group.name, page.title, item.text, item.measured ? item.score : null, item.category ? ('category.' ~ item.category.value ~ '.title')|trans, item.estimate]]) %}
+                {% endfor %}
+            {% endfor %}
+        {% endfor %}
+        {% for item in field.leftovers|merge(result.excluded) %}
+            {% set rows = rows|merge([['structure.others'|trans, '', item.text, item.measured ? item.score : null, item.category ? ('category.' ~ item.category.value ~ '.title')|trans, item.estimate]]) %}
+        {% endfor %}
+        {% set csv = {header: ['results.col.theme', 'results.col.page', 'results.col.keyword', 'results.col.score', 'results.col.category', 'results.col.estimate']|map(k => k|trans), rows: rows} %}
+    {% else %}
+        {% set csv = {header: ['results.col.keyword', 'results.col.score']|map(k => k|trans), rows: result.keywords|map(k => [k.text, k.measured ? k.score : null])} %}
+    {% endif %}
+    <script type="application/json" data-csv>{{ csv|json_encode|raw }}</script>
+
+    {% if not field %}
+        <div class="tree fallback" data-tree>
+            <div class="fallback-note" role="status">
+                {{ include('search/_icon.svg.twig', {name: 'help', size: 18, class: 'fallback-icon'}) }}
+                <div>
+                    <p class="fallback-title">{{ 'structure.fallback.title'|trans }}</p>
+                    <p>{{ ('structure.issue.' ~ (result.fieldIssue ?? 'unavailable'))|trans }} {{ 'structure.fallback.text'|trans }}</p>
+                </div>
+            </div>
+            {% set bands = {
+                strong: result.keywords|filter(k => k.measured and k.scoreTier >= 4),
+                medium: result.keywords|filter(k => k.measured and k.scoreTier == 3),
+                low: result.keywords|filter(k => not k.measured or k.low),
+            } %}
+            {% for band, keywords in bands|filter(k => k is not empty) %}
+                <div class="fallback-band">
+                    <p class="fallback-band-title">{{ ('structure.band.' ~ band)|trans }} <span class="tree-meta">{{ 'structure.keywords'|trans({'%count%': keywords|length}) }}</span></p>
+                    <ul class="term-list">
+                        {% for item in keywords %}
+                            <li class="term{% if item.low %} is-low{% endif %}"><span>{{ item.text }}</span>{{ _self.score(item) }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <div class="tree" data-tree>
+            <p class="tree-root">{{ keyword }}</p>
+            <ol class="tree-groups">
+                {% for group in field.groups %}
+                    {% set g = loop.index %}
+                    <li class="tree-group" data-strong="{{ _self.strong(group.allKeywords) }}">
+                        <details open>
+                            <summary class="tree-head">
+                                <span class="tree-num">{{ g }}</span>
+                                <span class="tree-topic">{{ group.name }}</span>
+                                {% set shares = group.intentShares %}
+                                {% if shares is not empty %}
+                                    {% set shares_label = shares|map((share, intent) => _self.intent_label(intent) ~ ' ' ~ share ~ ' %')|join(' · ') %}
+                                    <span class="intent-bar" role="img" aria-label="{{ shares_label }}" title="{{ shares_label }}">
+                                        {%- for intent, share in shares %}<span class="intent-{{ intent }}" style="width: {{ share }}%"></span>{% endfor -%}
+                                    </span>
+                                {% endif %}
+                                <span class="tree-meta">{{ 'structure.keywords'|trans({'%count%': group.keywordCount}) }} · Σ {{ group.allKeywords|reduce((sum, k) => sum + k.displayScore, 0) }}</span>
+                                <button type="button" class="button-secondary is-small tree-copy" hidden data-copy-theme="{{ group.allKeywords|map(k => k.text)|join("
+") }}" data-label-copied="{{ 'structure.keywords_copied'|trans({'%count%': group.allKeywords|length}) }}">
+                                    {{- include('search/_icon.svg.twig', {name: 'copy', size: 11}) }}<span data-label>{{ 'structure.copy_terms'|trans }}</span>
+                                </button>
+                            </summary>
+                            <ol class="tree-pages">
+                                {% for page in group.pages %}
+                                    <li class="tree-page" data-strong="{{ _self.strong(page.allKeywords) }}" data-intent="{{ page.intent ? page.intent.value }}">
+                                        <p class="concept-title{% if page.intent %} intent-{{ page.intent.value }}{% endif %}">
+                                            <span class="concept-text">{{ page.title }}</span>
+                                            <small>{% if page.intent %}<span class="intent">{{ _self.intent_label(page.intent.value) }}</span> · {% endif %}{{ 'structure.keywords'|trans({'%count%': page.allKeywords|length}) }}</small>
+                                        </p>
+                                        <ul class="page-sections">
+                                            <li class="is-main" title="{{ 'structure.main'|trans }}">
+                                                {{ _self.row(page.main.text, page.main, 'section-title is-main-row', true) }}
+                                                {% for item in page.keywords %}
+                                                    {{ _self.row(item.text, item, 'term row-sub') }}
+                                                {% endfor %}
+                                            </li>
+                                            {% for section in page.sections %}
+                                                <li data-strong="{{ _self.strong(section.keywords) }}">
+                                                    {{ _self.row(section.titleKeyword ? section.titleKeyword.text : section.title, section.titleKeyword, 'section-title') }}
+                                                    {% for item in section.otherKeywords %}
+                                                        {{ _self.row(item.text, item, 'term row-sub') }}
+                                                    {% endfor %}
+                                                </li>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                {% endfor %}
+                            </ol>
+                        </details>
+                    </li>
+                {% endfor %}
+
+                {% if field.leftovers is not empty %}
+                    <li class="tree-group is-others" data-strong="{{ _self.strong(field.leftovers) }}">
+                        <details open>
+                            <summary class="tree-head">
+                                <span class="tree-num" aria-hidden="true">·</span>
+                                <span class="tree-topic">{{ 'structure.others'|trans }}</span>
+                                <span class="tree-meta">{{ 'structure.keywords'|trans({'%count%': field.leftovers|length}) }} · Σ {{ field.leftovers|reduce((sum, k) => sum + k.displayScore, 0) }}</span>
+                                <button type="button" class="button-secondary is-small tree-copy" hidden data-copy-theme="{{ field.leftovers|map(k => k.text)|join("
+") }}" data-label-copied="{{ 'structure.keywords_copied'|trans({'%count%': field.leftovers|length}) }}">
+                                    {{- include('search/_icon.svg.twig', {name: 'copy', size: 11}) }}<span data-label>{{ 'structure.copy_terms'|trans }}</span>
+                                </button>
+                            </summary>
+                            <ul class="term-list is-columns tree-others">
+                                {%- for item in field.leftovers %}<li class="term{% if item.low %} is-low{% endif %}"{% if item.category %} data-category="{{ item.category.value }}"{% endif %}><span>{{ _self.category_icon(item) }}{{ item.text }}</span>{{ _self.score(item) }}</li>{% endfor -%}
+                            </ul>
+                        </details>
+                    </li>
+                {% endif %}
+            </ol>
+        </div>
+
+        <template data-plan-text>
+            {%- set lines = ['structure.title'|trans ~ ' : ' ~ keyword] -%}
+            {%- for group in field.groups -%}
+                {%- set lines = lines|merge(['', '[' ~ group.name ~ ']']) -%}
+                {%- for page in group.pages -%}
+                    {%- set intent = page.intent ? ' [' ~ _self.intent_label(page.intent.value) ~ ']' : '' -%}
+                    {%- set lines = lines|merge([page.title ~ intent, '  ' ~ page.allKeywords|sort((a, b) => b.score <=> a.score)|map(k => k.text)|join(', ')]) -%}
+                {%- endfor -%}
+            {%- endfor -%}
+            {%- if field.leftovers is not empty -%}
+                {%- set lines = lines|merge(['', 'structure.others'|trans ~ ' : ' ~ field.leftovers|map(k => k.text)|join(', ')]) -%}
+            {%- endif -%}
+            {{- lines|join("\n") -}}
+        </template>
+    {% endif %}
+</section>

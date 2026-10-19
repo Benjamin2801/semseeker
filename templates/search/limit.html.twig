@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ 'limit.title'|trans }}{% endblock %}
+
+{% block alternates %}{% endblock %}
+
+{% block head_extra %}
+    <meta name="robots" content="noindex">
+{% endblock %}
+
+{% block body %}
+    <section class="hero">
+        <h1>{{ 'limit.title'|trans }}</h1>
+        <p class="lead">{{ 'limit.message'|trans({'%time%': retry_after|date('H:i', 'Europe/Paris')}) }}</p>
+        <p><a href="{{ path('home', {_locale: app.request.locale}) }}">{{ 'limit.back'|trans }}</a></p>
+    </section>
+{% endblock %}

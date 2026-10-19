@@ -1,0 +1,58 @@
+<div class="principle">
+    <figure class="principle-figure">
+    <figcaption class="principle-protocol-title">{{ 'home.principle.chart_heading'|trans }}</figcaption>
+    <svg class="principle-chart" viewBox="0 0 460 340" role="img" aria-labelledby="principle-chart-title principle-chart-desc">
+        <title id="principle-chart-title">{{ 'home.principle.chart_title'|trans }}</title>
+        <desc id="principle-chart-desc">{{ 'home.principle.chart_desc'|trans }}</desc>
+        <rect class="zone" x="266" y="27" width="183" height="130"/>
+        <rect class="zone is-support" x="266" y="159" width="183" height="130"/>
+        <line class="axis" x1="80" y1="290" x2="450" y2="290"/>
+        <line class="axis" x1="80" y1="290" x2="80" y2="26"/>
+        <polygon class="axis-head" points="450,290 444,287 444,293"/>
+        <polygon class="axis-head" points="80,26 77,32 83,32"/>
+        <line class="split" x1="265" y1="26" x2="265" y2="290"/>
+        <line class="split" x1="80" y1="158" x2="450" y2="158"/>
+
+        <text class="label is-strong is-accent" x="440" y="44" text-anchor="end">{{ 'home.principle.target'|trans }}</text>
+        <text class="label is-accent" x="440" y="58" text-anchor="end">{{ 'home.principle.target_help'|trans }}</text>
+        <text class="label is-strong" x="90" y="44">{{ 'home.principle.offtarget'|trans }}</text>
+        <text class="label is-muted" x="90" y="58">{{ 'home.principle.offtarget_help'|trans }}</text>
+        <text class="label is-strong" x="275" y="266">{{ 'home.principle.support'|trans }}</text>
+        <text class="label is-muted" x="275" y="280">{{ 'home.principle.support_help'|trans }}</text>
+        <text class="label is-strong" x="90" y="266">{{ 'home.principle.discarded'|trans }}</text>
+        <text class="label is-muted" x="90" y="280">{{ 'home.principle.discarded_help'|trans }}</text>
+
+        <g class="dot category-core"><circle cx="320" cy="100" r="5"/><circle cx="345" cy="130" r="5"/></g>
+        <g class="dot category-commercial"><circle cx="405" cy="108" r="5"/><circle cx="380" cy="136" r="5"/></g>
+        <g class="dot category-complementary"><circle cx="300" cy="190" r="4.5"/><circle cx="345" cy="205" r="4.5"/><circle cx="390" cy="185" r="4.5"/><circle cx="425" cy="210" r="4.5"/><circle cx="320" cy="236" r="4.5"/><circle cx="400" cy="240" r="4.5"/></g>
+        <g class="dot is-muted"><circle cx="115" cy="88" r="4"/><circle cx="160" cy="80" r="4"/><circle cx="205" cy="92" r="4"/><circle cx="240" cy="84" r="4"/><circle cx="130" cy="122" r="4"/><circle cx="180" cy="114" r="4"/><circle cx="222" cy="130" r="4"/><circle cx="150" cy="144" r="4"/></g>
+        <g class="dot is-faint"><circle cx="110" cy="180" r="3"/><circle cx="140" cy="192" r="3"/><circle cx="175" cy="178" r="3"/><circle cx="210" cy="188" r="3"/><circle cx="240" cy="180" r="3"/><circle cx="120" cy="215" r="3"/><circle cx="155" cy="226" r="3"/><circle cx="195" cy="212" r="3"/><circle cx="230" cy="224" r="3"/><circle cx="135" cy="245" r="3"/><circle cx="205" cy="247" r="3"/></g>
+
+        <text class="label is-muted" x="84" y="306">{{ 'home.principle.low'|trans }}</text>
+        <text class="label is-muted" x="446" y="306" text-anchor="end">{{ 'home.principle.high'|trans }}</text>
+        <text class="label is-semantic" x="265" y="328" text-anchor="middle">{{ 'home.principle.x_axis'|trans }}</text>
+        <text class="label is-muted" x="72" y="290" text-anchor="end">{{ 'home.principle.low'|trans }}</text>
+        <text class="label is-muted" x="72" y="34" text-anchor="end">{{ 'home.principle.high'|trans }}</text>
+        <text class="label is-demand" x="28" y="158" text-anchor="middle" transform="rotate(-90 28 158)">{{ 'home.principle.y_axis'|trans }}</text>
+    </svg>
+    </figure>
+
+    <div class="principle-protocol">
+        <p class="principle-protocol-title">{{ 'home.principle.protocol'|trans }}</p>
+        <ol>
+            {% for step in ['collect', 'measure', 'classify', 'decide'] %}
+                <li>
+                    <span class="method-num">{{ '%02d'|format(loop.index) }}</span>
+                    <strong>{{ ('home.principle.steps.' ~ step ~ '.title')|trans }}</strong>
+                    <span>{{ ('home.principle.steps.' ~ step ~ '.text')|trans }}</span>
+                </li>
+            {% endfor %}
+        </ol>
+        <ul class="principle-legend">
+            <li class="principle-legend-title">{{ 'home.principle.legend'|trans }}</li>
+            {% for category in ['core', 'commercial', 'complementary'] %}
+                <li class="category-{{ category }}"><span></span>{{ ('category.' ~ category ~ '.title')|trans }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
