@@ -9,13 +9,28 @@
         {{ include('search/_form.html.twig') }}
     </section>
 
+    <section class="home-section" aria-labelledby="compare-title">
+        <p class="home-kicker">{{ 'home.compare.kicker'|trans }}</p>
+        <h2 id="compare-title">{{ 'home.compare.title'|trans }}</h2>
+        {{ include('home/_compare.html.twig') }}
+        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.compare.try'|trans }}</a></p>
+    </section>
+
     <section class="home-section" aria-labelledby="benefits-title">
         <p class="home-kicker">{{ 'home.benefits.kicker'|trans }}</p>
         <h2 id="benefits-title">{{ 'home.benefits.title'|trans }}</h2>
         {{ include('home/_benefits.html.twig') }}
     </section>
 
-    <section class="home-section" aria-labelledby="compare-title">
+    <section class="home-section" aria-labelledby="principle-title">
+        <p class="home-kicker">{{ 'home.principle.kicker'|trans }}</p>
+        <h2 id="principle-title">{{ 'home.principle.title'|trans|e|replace({'[-': '<del>', '-]': '</del>', '[+': '<ins>', '+]': '</ins>'})|raw }}</h2>
+        <p class="home-lead">{{ 'home.principle.text'|trans({'%semantic%': '<span class="axis-semantic">' ~ 'home.principle.x_axis'|trans|lower ~ '</span>', '%demand%': '<span class="axis-demand">' ~ 'home.principle.y_axis'|trans|lower ~ '</span>'})|raw }}</p>
+        {{ include('home/_principle.html.twig') }}
+        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.principle.cta'|trans }}</a></p>
+    </section>
+
+    <section class="home-section">
         {% set brands = {Google: '#4285F4', YouTube: '#FF0000', Bing: '#258FFA', DuckDuckGo: '#DE5833', Yahoo: '#6001D2', Amazon: '#FF9900', eBay: '#E53238', Indeed: '#2164F3', Wikidata: '#339966'} %}
         <div class="home-sources">
             <p class="home-kicker">{{ 'home.sources.title'|trans }}</p>
@@ -29,19 +44,6 @@
                 {% endfor %}
             </ul>
         </div>
-
-        <p class="home-kicker">{{ 'home.compare.kicker'|trans }}</p>
-        <h2 id="compare-title">{{ 'home.compare.title'|trans }}</h2>
-        {{ include('home/_compare.html.twig') }}
-        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.compare.try'|trans }}</a></p>
-    </section>
-
-    <section class="home-section" aria-labelledby="principle-title">
-        <p class="home-kicker">{{ 'home.principle.kicker'|trans }}</p>
-        <h2 id="principle-title">{{ 'home.principle.title'|trans|e|replace({'[-': '<del>', '-]': '</del>', '[+': '<ins>', '+]': '</ins>'})|raw }}</h2>
-        <p class="home-lead">{{ 'home.principle.text'|trans({'%semantic%': '<span class="axis-semantic">' ~ 'home.principle.x_axis'|trans|lower ~ '</span>', '%demand%': '<span class="axis-demand">' ~ 'home.principle.y_axis'|trans|lower ~ '</span>'})|raw }}</p>
-        {{ include('home/_principle.html.twig') }}
-        <p class="compare-cta"><a href="#q" data-to-form>{{ 'home.principle.cta'|trans }}</a></p>
     </section>
 
     <section class="home-section" aria-labelledby="method-title">
