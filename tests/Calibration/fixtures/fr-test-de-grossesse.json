@@ -1,7 +1,7 @@
 {
     "expression": "test de grossesse",
     "lang": "fr",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,12 @@
     ],
     "failed": [],
     "concepts": [
-        "test urinaire",
-        "test sanguin",
-        "fiabilité test",
-        "interprétation résultat",
-        "test précoce",
-        "test digital",
-        "test bandelette",
-        "date test"
+        "fiabilité test de grossesse",
+        "utilisation test de grossesse",
+        "prix test de grossesse",
+        "résultat test de grossesse",
+        "faux positif test de grossesse",
+        "achat test de grossesse en ligne"
     ],
     "suggestions": {
         "amazon": [
@@ -59,13 +57,13 @@
             "test de grossesse",
             "test de grossesse positif",
             "test de grossesse pharmacie prix",
-            "test de grossesse précoce",
             "test de grossesse prix",
             "test de grossesse clearblue",
             "test de grossesse quand le faire",
             "test de grossesse auchan",
             "test de grossesse action",
-            "test de grossesse pharmacie"
+            "test de grossesse pharmacie",
+            "test de grossesse carrefour"
         ],
         "yahoo": [
             "test de grossesse",
@@ -93,817 +91,375 @@
         ]
     },
     "related": {
-        "amazon": [
-            [
-                0,
-                "test urinaire thc"
-            ],
-            [
-                1,
-                "test urinaire"
-            ],
-            [
-                2,
-                "test urinaire drogue"
-            ],
-            [
-                3,
-                "test urinaire infection cystite"
-            ],
-            [
-                4,
-                "test urinaire infection"
-            ],
-            [
-                5,
-                "test urinaire thc 50 ng/ml"
-            ],
-            [
-                6,
-                "test urinaire thc autotest cannabis"
-            ],
-            [
-                7,
-                "test urinaire fille ou garcon grossesse"
-            ],
-            [
-                8,
-                "test urinaire cannabis"
-            ],
-            [
-                9,
-                "test urinaire cannabis thc"
-            ],
-            [
-                0,
-                "test sanguin grossesse"
-            ],
-            [
-                1,
-                "test sanguin"
-            ],
-            [
-                2,
-                "test sanguin hcg"
-            ],
-            [
-                3,
-                "test sanguin helicobacter pylori"
-            ],
-            [
-                4,
-                "test sanguin fer"
-            ],
-            [
-                0,
-                "test précoce"
-            ],
-            [
-                1,
-                "test précoce de grossesse"
-            ],
-            [
-                0,
-                "test digital grossesse"
-            ],
-            [
-                1,
-                "test digital"
-            ],
-            [
-                2,
-                "test digital precoce"
-            ],
-            [
-                3,
-                "test digital clearblue"
-            ],
-            [
-                0,
-                "test bandelette aquarium"
-            ],
-            [
-                1,
-                "test bandelette grossesse"
-            ],
-            [
-                2,
-                "test bandelette piscine"
-            ],
-            [
-                3,
-                "test bandelette urinaire"
-            ],
-            [
-                4,
-                "test bandelette hth spa"
-            ],
-            [
-                5,
-                "test bandelette spa"
-            ],
-            [
-                6,
-                "test bandelette ovulation"
-            ],
-            [
-                7,
-                "test bandelette aquarium tetra"
-            ],
-            [
-                8,
-                "test bandelettes"
-            ],
-            [
-                9,
-                "test bandelette hth"
-            ]
-        ],
         "bing": [
             [
                 0,
-                "test urinaire pharmacie"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "test urinaire dépistage drogue"
+                "faux test positif grossesse"
             ],
             [
                 2,
-                "test urinaire bandelette"
+                "faux test de grossesse positif blague"
             ],
             [
                 3,
-                "test urinaire alcool"
+                "test de grossesse dessin"
             ],
             [
                 4,
-                "test urinaire laboratoire"
+                "test de grossesse pour chienne"
+            ],
+            [
+                0,
+                "où acheter un test de grossesse"
+            ],
+            [
+                1,
+                "test de grossesse dessin"
+            ],
+            [
+                2,
+                "faux test positif grossesse"
+            ],
+            [
+                3,
+                "test de grossesse pour chienne"
+            ],
+            [
+                4,
+                "comment tester une enceinte"
             ],
             [
                 5,
-                "test urinaire protéine"
+                "test de grossesse avec du sel"
             ],
             [
                 6,
-                "test urinaire cbd"
+                "faux test de grossesse positif blague"
             ],
             [
                 7,
-                "test urinaire ist"
+                "où trouver mon certificat de grossesse"
+            ],
+            [
+                0,
+                "prix test de grossesse tunisie"
+            ],
+            [
+                1,
+                "où acheter un test de grossesse"
+            ],
+            [
+                2,
+                "test de grossesse dessin"
+            ],
+            [
+                3,
+                "test de grossesse pour chienne"
+            ],
+            [
+                4,
+                "faux test positif grossesse"
+            ],
+            [
+                5,
+                "certificat de grossesse ou trouver"
+            ],
+            [
+                6,
+                "où trouver mon certificat de grossesse"
+            ],
+            [
+                7,
+                "semaine de grossesse calcul"
             ],
             [
                 8,
-                "test urinaire mst"
+                "test de grossesse avec du sel"
             ],
             [
                 9,
-                "test urinaire pharmacie prix"
+                "calculatrice semaine de grossesse"
             ],
             [
                 10,
-                "test urinaire analyse complète"
-            ],
-            [
-                11,
-                "test urinaire pour cystite en pharmacie"
+                "tableau poids bébé pendant grossesse"
             ],
             [
                 0,
-                "test sanguin"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "test sanguin tsh"
+                "test de grossesse dessin"
             ],
             [
                 2,
-                "test sanguin alt"
+                "faux test positif grossesse"
             ],
             [
                 3,
-                "test sanguin crp"
+                "test de grossesse avec du sel"
             ],
             [
                 4,
-                "test sanguin psa"
+                "faux test de grossesse positif blague"
             ],
             [
                 5,
-                "test sanguin fsc"
+                "test de grossesse pour chienne"
+            ],
+            [
+                0,
+                "faux test de grossesse positif blague"
+            ],
+            [
+                1,
+                "où acheter un test de grossesse"
+            ],
+            [
+                2,
+                "vrai positif faux positif"
+            ],
+            [
+                3,
+                "taux de faux positifs"
+            ],
+            [
+                4,
+                "test de grossesse dessin"
+            ],
+            [
+                5,
+                "test de grossesse avec du sel"
             ],
             [
                 6,
-                "test sanguin alzheimer"
+                "faux positif et faux négatif"
             ],
             [
                 7,
-                "test sanguin hba1c"
+                "test des faux pas enfants"
             ],
             [
                 8,
-                "test sanguin tuberculose"
-            ],
-            [
-                9,
-                "test sanguin montréal"
-            ],
-            [
-                10,
-                "test sanguin b12"
-            ],
-            [
-                11,
-                "test sanguin créatinine"
+                "c'est quoi un faux positif"
             ],
             [
                 0,
-                "fiabilité test"
+                "test de grossesse dessin"
             ],
             [
                 1,
-                "fiabilité test adn"
+                "test de grossesse pour chienne"
             ],
             [
                 2,
-                "fiabilité test cancer colorectal"
+                "certificat de grossesse ou trouver"
             ],
             [
                 3,
-                "fiabilité test angine"
+                "faux test positif grossesse"
             ],
             [
                 4,
-                "fiabilité test clearblue"
+                "où trouver certificat de grossesse"
             ],
             [
                 5,
-                "fiabilité test adn myheritage"
+                "test son en ligne"
             ],
             [
                 6,
-                "fiabilité tesla model 3"
+                "acheter en grosse quantité"
             ],
             [
                 7,
-                "fiabilité tesla model y"
+                "son pour tester enceintes"
             ],
             [
                 8,
-                "fiabilité tesla"
-            ],
-            [
-                9,
-                "test fiabilité site internet"
-            ],
-            [
-                0,
-                "interprétation résultat prise de sang"
-            ],
-            [
-                1,
-                "interprétation résultat c.c.m.h"
-            ],
-            [
-                2,
-                "interprétation résultats cholestérol"
-            ],
-            [
-                3,
-                "interprétation résultats fibroscan"
-            ],
-            [
-                4,
-                "interprétation résultat ponction lombaire"
-            ],
-            [
-                5,
-                "interprétation résultats mmse"
-            ],
-            [
-                6,
-                "interprétation résultat y balance test"
-            ],
-            [
-                7,
-                "interprétation résultat pet scan"
-            ],
-            [
-                8,
-                "interprétation résultat pl"
-            ],
-            [
-                9,
-                "interprétation résultat mms"
-            ],
-            [
-                10,
-                "interprétation résultat moca"
-            ],
-            [
-                11,
-                "interprétation résultats sanguins"
-            ],
-            [
-                0,
-                "test précoce action"
-            ],
-            [
-                1,
-                "test précoce négatif"
-            ],
-            [
-                2,
-                "test precoce clearblue"
-            ],
-            [
-                3,
-                "test préconceptionnel"
-            ],
-            [
-                4,
-                "test précose clearblue"
-            ],
-            [
-                5,
-                "test précocité"
-            ],
-            [
-                6,
-                "test alzheimer précoce"
-            ],
-            [
-                7,
-                "clearblue test précoce"
-            ],
-            [
-                0,
-                "test digital circus"
-            ],
-            [
-                1,
-                "test digital"
-            ],
-            [
-                2,
-                "test digital camera quality"
-            ],
-            [
-                3,
-                "test digital marketing knowledge"
-            ],
-            [
-                4,
-                "test digital skills"
-            ],
-            [
-                5,
-                "test digitalni dovednosti"
-            ],
-            [
-                6,
-                "test digitalnega potrdila"
-            ],
-            [
-                7,
-                "test digital audio equipment"
-            ],
-            [
-                8,
-                "test digitalnych zručnosti"
-            ],
-            [
-                9,
-                "digital test center"
-            ],
-            [
-                0,
-                "test bandelette urinaire"
-            ],
-            [
-                1,
-                "test bandelette ilio tibiale"
-            ],
-            [
-                2,
-                "test bandelette piscine"
-            ],
-            [
-                3,
-                "test bandelette glucose"
-            ],
-            [
-                4,
-                "test bandelette"
-            ],
-            [
-                5,
-                "test bandelette ph"
-            ],
-            [
-                6,
-                "test bandelette jbl"
-            ],
-            [
-                7,
-                "test bandelette chlore"
-            ],
-            [
-                8,
-                "test bandelette aquarium"
-            ],
-            [
-                9,
-                "test bandelette allergène"
-            ],
-            [
-                10,
-                "test bandelette urinaire pharmacie"
-            ],
-            [
-                11,
-                "test bandelette spa"
-            ],
-            [
-                0,
-                "date test"
-            ],
-            [
-                1,
-                "date testing methods"
-            ],
-            [
-                2,
-                "date testing process"
-            ],
-            [
-                3,
-                "date testing equipment"
-            ],
-            [
-                4,
-                "date testing procedure"
-            ],
-            [
-                5,
-                "date testing standards"
-            ],
-            [
-                6,
-                "date testing techniques"
-            ],
-            [
-                7,
-                "date test arched"
-            ],
-            [
-                8,
-                "date test arched 2025"
-            ],
-            [
-                9,
-                "date festival de cannes 2026"
+                "test achat en ligne"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "test urinaire pharmacie"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "test urinaire dépistage drogue"
+                "faux test positif grossesse"
             ],
             [
                 2,
-                "test urinaire bandelette"
+                "faux test de grossesse positif blague"
             ],
             [
                 3,
-                "test urinaire alcool"
+                "test de grossesse dessin"
             ],
             [
                 4,
-                "test urinaire laboratoire"
-            ],
-            [
-                5,
-                "test urinaire protéine"
-            ],
-            [
-                6,
-                "test urinaire cbd"
-            ],
-            [
-                7,
-                "test urinaire ist"
+                "test de grossesse pour chienne"
             ],
             [
                 0,
-                "test sanguin"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "test sanguin tsh"
+                "test de grossesse dessin"
             ],
             [
                 2,
-                "test sanguin alt"
+                "faux test positif grossesse"
             ],
             [
                 3,
-                "test sanguin alzheimer"
+                "test de grossesse pour chienne"
             ],
             [
                 4,
-                "test sanguin psa"
+                "comment tester une enceinte"
             ],
             [
                 5,
-                "test sanguin fsc"
+                "test de grossesse avec du sel"
             ],
             [
                 6,
-                "test sanguin crp"
+                "faux test de grossesse positif blague"
             ],
             [
                 7,
-                "test sanguin hba1c"
+                "où trouver mon certificat de grossesse"
             ],
             [
                 0,
-                "fiabilité test cancer colorectal"
+                "prix test de grossesse tunisie"
             ],
             [
                 1,
-                "fiabilité test adn"
+                "où acheter un test de grossesse"
             ],
             [
                 2,
-                "fiabilité test angine"
+                "test de grossesse dessin"
             ],
             [
                 3,
-                "fiabilité test clearblue"
+                "test de grossesse pour chienne"
             ],
             [
                 4,
-                "fiabilité test adn myheritage"
+                "faux test positif grossesse"
             ],
             [
                 5,
-                "fiabilité test"
+                "certificat de grossesse ou trouver"
             ],
             [
                 6,
-                "fiabilité tesla model 3"
+                "où trouver mon certificat de grossesse"
             ],
             [
                 7,
-                "test fiabilité site internet"
+                "semaine de grossesse calcul"
             ],
             [
                 0,
-                "interprétation résultat prise de sang"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "interprétation résultat c.c.m.h"
+                "test de grossesse dessin"
             ],
             [
                 2,
-                "interprétation résultats cholestérol"
+                "faux test positif grossesse"
             ],
             [
                 3,
-                "interprétation résultats fibroscan"
+                "test de grossesse avec du sel"
             ],
             [
                 4,
-                "interprétation résultat ponction lombaire"
+                "faux test de grossesse positif blague"
             ],
             [
                 5,
-                "interprétation résultats mmse"
-            ],
-            [
-                6,
-                "interprétation résultat y balance test"
-            ],
-            [
-                7,
-                "interprétation résultat pet scan"
+                "test de grossesse pour chienne"
             ],
             [
                 0,
-                "test précoce action"
+                "faux test de grossesse positif blague"
             ],
             [
                 1,
-                "test précoce négatif"
+                "où acheter un test de grossesse"
             ],
             [
                 2,
-                "test precoce clearblue"
+                "vrai positif faux positif"
             ],
             [
                 3,
-                "test préconceptionnel"
+                "taux de faux positifs"
             ],
             [
                 4,
-                "test précose clearblue"
+                "test de grossesse dessin"
             ],
             [
                 5,
-                "test précocité"
+                "test de grossesse avec du sel"
             ],
             [
                 6,
-                "test alzheimer précoce"
+                "faux positif et faux négatif"
             ],
             [
                 7,
-                "clearblue test précoce"
+                "test des faux pas enfants"
             ],
             [
                 0,
-                "test digital circus"
+                "test de grossesse dessin"
             ],
             [
                 1,
-                "test digital"
+                "test de grossesse pour chienne"
             ],
             [
                 2,
-                "test digital camera quality"
+                "certificat de grossesse ou trouver"
             ],
             [
                 3,
-                "test digital marketing knowledge"
+                "faux test positif grossesse"
             ],
             [
                 4,
-                "test digital skills"
+                "où trouver certificat de grossesse"
             ],
             [
                 5,
-                "test digitalni dovednosti"
+                "test son en ligne"
             ],
             [
                 6,
-                "test digitalnega potrdila"
+                "acheter en grosse quantité"
             ],
             [
                 7,
-                "test digital audio equipment"
-            ],
-            [
-                0,
-                "test bandelette urinaire"
-            ],
-            [
-                1,
-                "test bandelette ilio tibiale"
-            ],
-            [
-                2,
-                "test bandelette piscine"
-            ],
-            [
-                3,
-                "test bandelette glucose"
-            ],
-            [
-                4,
-                "test bandelette"
-            ],
-            [
-                5,
-                "test bandelette ph"
-            ],
-            [
-                6,
-                "test bandelette jbl"
-            ],
-            [
-                7,
-                "test bandelette chlore"
-            ],
-            [
-                0,
-                "date test"
-            ],
-            [
-                1,
-                "date testing methods"
-            ],
-            [
-                2,
-                "date testing process"
-            ],
-            [
-                3,
-                "date testing equipment"
-            ],
-            [
-                4,
-                "date testing procedure"
-            ],
-            [
-                5,
-                "date testing standards"
-            ],
-            [
-                6,
-                "date testing techniques"
-            ],
-            [
-                7,
-                "date test arched"
+                "son pour tester enceintes"
             ]
         ],
         "google": [
-            [
-                0,
-                "test urinaire pharmacie"
-            ],
-            [
-                1,
-                "test urinaire"
-            ],
-            [
-                2,
-                "test urinaire thc"
-            ],
-            [
-                3,
-                "test urinaire laboratoire"
-            ],
-            [
-                4,
-                "test urinaire grossesse"
-            ],
-            [
-                5,
-                "test urinaire thc durée pour être négatif"
-            ],
-            [
-                6,
-                "test urinaire drogue"
-            ],
-            [
-                7,
-                "test urinaire thc laboratoire"
-            ],
-            [
-                8,
-                "test urinaire drogue laboratoire"
-            ],
-            [
-                9,
-                "test urinaire thc pharmacie"
-            ],
-            [
-                0,
-                "test sanguin grossesse"
-            ],
-            [
-                1,
-                "test sanguin"
-            ],
-            [
-                2,
-                "test sanguin grossesse pharmacie"
-            ],
-            [
-                3,
-                "test sanguin mst"
-            ],
-            [
-                4,
-                "test sanguin alzheimer"
-            ],
-            [
-                5,
-                "test sanguin prostate"
-            ],
-            [
-                6,
-                "test sanguin cancer"
-            ],
-            [
-                7,
-                "test sanguin homa"
-            ],
-            [
-                8,
-                "test sanguin bipolarité"
-            ],
-            [
-                9,
-                "test sanguin tuberculose"
-            ],
             [
                 0,
                 "fiabilité test de grossesse"
@@ -914,7 +470,7 @@
             ],
             [
                 2,
-                "fiabilité test vih 21 jours"
+                "fiabilité test de grossesse précoce"
             ],
             [
                 3,
@@ -922,721 +478,311 @@
             ],
             [
                 4,
-                "fiabilité test ovulation"
-            ],
-            [
-                5,
-                "fiabilité test trisomie 21"
-            ],
-            [
-                6,
-                "fiabilité test vih 30 jours"
-            ],
-            [
-                7,
-                "fiabilité test de grossesse précoce"
-            ],
-            [
-                8,
                 "fiabilité test de grossesse clearblue"
             ],
             [
-                9,
-                "fiabilité test clearblue"
-            ],
-            [
-                0,
-                "interprétation résultat pet scan"
-            ],
-            [
-                1,
-                "interprétation résultat thyroglobuline"
-            ],
-            [
-                2,
-                "interprétation résultat mmse"
-            ],
-            [
-                3,
-                "interprétation résultat prise de sang chlamydia"
-            ],
-            [
-                4,
-                "interprétation résultats prise de sang"
-            ],
-            [
                 5,
-                "interprétation résultats fibroscan"
+                "fiabilité test de grossesse sanguin"
             ],
             [
                 6,
-                "interprétation résultats d dimères"
+                "fiabilité test de grossesse clearblue précoce"
             ],
             [
                 7,
-                "interprétation résultats ostéodensitométrie"
+                "fiabilité test de grossesse positif"
             ],
             [
                 8,
-                "interprétation résultats cholestérol"
+                "fiabilité test de grossesse négatif"
             ],
             [
                 9,
-                "interprétation résultats cmv"
+                "fiabilité test de grossesse carrefour"
             ],
             [
                 0,
-                "test précoce de grossesse"
+                "utilisation test de grossesse"
             ],
             [
                 1,
-                "test précoce clearblue"
+                "utilisation test de grossesse clearblue"
             ],
             [
                 2,
-                "test précoce action"
+                "utilisation test de grossesse urinaire"
             ],
             [
                 3,
-                "test précoce de grossesse quand le faire"
-            ],
-            [
-                4,
-                "test précoce"
-            ],
-            [
-                5,
-                "test précoce clearblue avis"
-            ],
-            [
-                6,
-                "test précoce quand le faire"
-            ],
-            [
-                7,
-                "test précoce action avis"
-            ],
-            [
-                8,
-                "test précoce de grossesse action"
-            ],
-            [
-                9,
-                "test précoce clearblue positif"
+                "comment utiliser test de grossesse"
             ],
             [
                 0,
-                "test digital circus"
+                "prix test de grossesse"
             ],
             [
                 1,
-                "test digital clearblue"
+                "prix test de grossesse pharmacie"
             ],
             [
                 2,
-                "test digital"
+                "prix test de grossesse sanguin"
             ],
             [
                 3,
-                "test digital clearblue precoce"
+                "prix test de grossesse pharmacie moins cher"
             ],
             [
                 4,
-                "test digital precoce"
+                "prix test de grossesse clearblue"
             ],
             [
                 5,
-                "test digital grossesse"
+                "prix test de grossesse action"
             ],
             [
                 6,
-                "test digital circus idrlabs"
+                "prix test de grossesse moins cher"
             ],
             [
                 7,
-                "test digital circus pourcentage"
+                "prix test de grossesse leclerc"
             ],
             [
                 8,
-                "test digital faux positif"
+                "prix test de grossesse carrefour"
             ],
             [
                 9,
-                "test digital circus tutorial"
+                "prix test de grossesse intermarché"
             ],
             [
                 0,
-                "test bandelette piscine"
+                "résultat test de grossesse"
             ],
             [
                 1,
-                "test bandelette urinaire"
+                "résultat test de grossesse positif"
             ],
             [
                 2,
-                "test bandelette urinaire pharmacie"
+                "résultat test de grossesse clearblue"
             ],
             [
                 3,
-                "test bandelette infection urinaire"
+                "résultat test de grossesse sanguin positif"
             ],
             [
                 4,
-                "test bandelette beaux jours"
+                "résultat test de grossesse prise de sang"
             ],
             [
                 5,
-                "test bandelette"
+                "résultat test de grossesse 2 barres"
             ],
             [
                 6,
-                "test bandelettes spa"
+                "resultat test de grossesse 1 barre"
             ],
             [
                 7,
-                "test bandelette urinaire cystite"
+                "resultat test de grossesse clearblue positif"
             ],
             [
                 8,
-                "test bandelette aquarium"
+                "resultat test de grossesse negatif"
             ],
             [
                 9,
-                "test bandelette cash piscine"
+                "resultat test de grossesse c et t"
             ],
             [
                 0,
-                "date test de grossesse"
+                "faux positif test de grossesse"
             ],
             [
                 1,
-                "date test match rugby"
+                "faux positif test de grossesse positif photo réel"
             ],
             [
                 2,
-                "date test de positionnement seconde"
+                "faux positif test de grossesse cause"
             ],
             [
                 3,
-                "date test adn"
+                "faux positif test de grossesse clearblue"
             ],
             [
                 4,
-                "date test trisomie 21"
+                "faux positif test de grossesse probabilité"
             ],
             [
                 5,
-                "date test wolverine ps5"
+                "faux positif test de grossesse invalide"
             ],
             [
                 6,
-                "date test technique ski alpin 2027"
+                "faux positif test de grossesse forum"
             ],
             [
                 7,
-                "date test match rugby 2026"
+                "faux positif test de grossesse urinaire"
             ],
             [
                 8,
-                "date test duskblood"
+                "faux positif test de grossesse action"
             ],
             [
                 9,
-                "date test aion 2"
-            ]
-        ],
-        "indeed": [
-            [
-                0,
-                "game tester"
+                "faux positif test de grossesse pourcentage"
             ],
             [
-                1,
-                "attestation capacité transport"
+                0,
+                "achat test de grossesse en ligne"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "test urinaire"
-            ],
-            [
-                1,
-                "test urinaire cannabis"
-            ],
-            [
-                2,
-                "test urinaire thc"
-            ],
-            [
-                3,
-                "test urinaire grossesse"
-            ],
-            [
-                4,
-                "test urinaire ecbu"
-            ],
-            [
-                5,
-                "test urinaire pharmacie"
-            ],
-            [
-                6,
-                "test urinaire bandelette"
-            ],
-            [
-                7,
-                "test urinaire sans ordonnance"
-            ],
-            [
-                8,
-                "test urinaire positif"
-            ],
-            [
-                9,
-                "test urinaire cocaine"
-            ],
-            [
-                0,
-                "test sanguin"
-            ],
-            [
-                1,
-                "test sanguin grossesse"
-            ],
-            [
-                2,
-                "test sanguin covid 19"
-            ],
-            [
-                3,
-                "test sanguin psa"
-            ],
-            [
-                4,
-                "test sanguin crp"
-            ],
-            [
-                5,
-                "test sanguin nfs"
-            ],
-            [
-                6,
-                "test sanguin vih"
-            ],
-            [
-                7,
-                "test sanguin homa"
-            ],
-            [
-                8,
-                "test sanguin cancer"
-            ],
-            [
-                9,
-                "test sanguin hormonal"
-            ],
-            [
-                0,
                 "fiabilité test de grossesse"
             ],
             [
                 1,
-                "fiabilité test antigénique"
+                "fiabilité test de grossesse clearblue"
+            ],
+            [
+                0,
+                "utilisation test de grossesse positif"
+            ],
+            [
+                1,
+                "utilisation test de grossesse maison"
             ],
             [
                 2,
-                "fiabilité test vih 4 semaines"
+                "utilisation test de grossesse clearblue"
             ],
             [
                 3,
-                "fiabilité test elisa vih"
+                "utilisation test de grossesse négatif"
+            ],
+            [
+                0,
+                "prix test de grossesse"
+            ],
+            [
+                1,
+                "prix test de grossesse en pharmacie"
+            ],
+            [
+                2,
+                "prix d'un test de grossesse"
+            ],
+            [
+                3,
+                "prix test de grossesse pharmacie"
             ],
             [
                 4,
-                "fiabilité test adn origines"
-            ],
-            [
-                5,
-                "fiabilité test rapide covid"
+                "prix de test de grossesse"
             ],
             [
                 0,
-                "interprétation résultats cholestérol"
+                "résultat test de grossesse positif"
             ],
             [
                 1,
-                "interprétation résultats prise de sang"
+                "résultat test de grossesse maison"
             ],
             [
                 2,
-                "interprétation résultats tension"
-            ],
-            [
-                0,
-                "test précoce de grossesse"
-            ],
-            [
-                1,
-                "test précoce clearblue"
-            ],
-            [
-                2,
-                "test de grossesse précoce"
+                "résultat test de grossesse clearblue"
             ],
             [
                 3,
-                "test précoce de grossesse clearblue"
-            ],
-            [
-                4,
-                "test grossesse précoce"
-            ],
-            [
-                5,
-                "test clearblue précoce"
-            ],
-            [
-                6,
-                "test alzheimer précoce"
-            ],
-            [
-                7,
-                "test pour enfant précoce"
-            ],
-            [
-                8,
-                "test grossesse ultra précoce"
-            ],
-            [
-                9,
-                "test de grossesse ultra précoce"
+                "résultat test de grossesse négatif"
             ],
             [
                 0,
-                "test digital clearblue"
+                "faux positif test de grossesse positif"
             ],
             [
                 1,
-                "test digital"
+                "faux positif test de grossesse maison"
             ],
             [
                 2,
-                "test digital circus"
+                "faux positif test de grossesse clearblue"
             ],
             [
                 3,
-                "test clearblue digital"
-            ],
-            [
-                4,
-                "test de grossesse digital"
-            ],
-            [
-                5,
-                "test grossesse digital"
+                "faux positif test de grossesse négatif"
             ],
             [
                 0,
-                "test bandelette urinaire"
+                "achat test de grossesse en ligne gestion documents"
             ],
             [
                 1,
-                "test bandelette piscine"
+                "achat test de grossesse en ligne assurance habitation souscrire"
             ],
             [
                 2,
-                "test bandelettes infection urinaire"
+                "achat test de grossesse en ligne compte bancaire gratuit"
             ],
             [
                 3,
-                "mode emploi aqua test bandelette piscine"
-            ],
-            [
-                4,
-                "test bandelette infection urinaire"
-            ],
-            [
-                5,
-                "leclerc test bandelette piscine"
-            ],
-            [
-                0,
-                "date test débit"
-            ],
-            [
-                1,
-                "date test adsl"
-            ],
-            [
-                2,
-                "date test speed"
-            ],
-            [
-                3,
-                "date test antigénique"
+                "achat test de grossesse en ligne de mire"
             ]
         ],
         "youtube": [
             [
                 0,
-                "test urinaire thc"
-            ],
-            [
-                1,
-                "test urinaire"
-            ],
-            [
-                2,
-                "test urinaire permis"
-            ],
-            [
-                3,
-                "test urinaire bebe"
-            ],
-            [
-                4,
-                "test urinaire pharmacie"
-            ],
-            [
-                5,
-                "test urinaire laboratoire comment faire"
-            ],
-            [
-                6,
-                "test urinaire drogue"
-            ],
-            [
-                7,
-                "test urinaire ecbu"
-            ],
-            [
-                8,
-                "test urinaire bandelette comment faire"
-            ],
-            [
-                9,
-                "test urinaire 24h"
-            ],
-            [
-                0,
-                "test sanguin de grossesse"
-            ],
-            [
-                1,
-                "test sanguin"
-            ],
-            [
-                2,
-                "test sanguin negatif mais enceinte"
-            ],
-            [
-                3,
-                "prélèvement sanguin"
-            ],
-            [
-                4,
-                "prélèvement sanguin avec seringue"
-            ],
-            [
-                5,
-                "prélèvement sanguin avec epicranienne"
-            ],
-            [
-                6,
-                "prélèvement sanguin sur picc line"
-            ],
-            [
-                7,
-                "prélèvement sanguin sur midline"
-            ],
-            [
-                8,
-                "prélèvement sanguin avec vacutainer"
-            ],
-            [
-                9,
-                "prélèvement sanguin enfant"
-            ],
-            [
-                0,
                 "fiabilité test de grossesse"
             ],
             [
+                0,
+                "utilisation test de grossesse"
+            ],
+            [
                 1,
-                "reliability test cronbach alpha spss 27"
+                "utilisation test de grossesse clearblue"
             ],
             [
                 2,
-                "reliability test"
+                "comment utiliser test de grossesse hcg"
             ],
             [
                 3,
-                "reliability test cronbach alpha jamovi"
-            ],
-            [
-                4,
-                "reliability test cronbach alpha"
-            ],
-            [
-                5,
-                "reliability test cronbach alpha excel"
-            ],
-            [
-                6,
-                "reliability testing"
-            ],
-            [
-                7,
-                "reliability test in research"
-            ],
-            [
-                8,
-                "reliability test cronbach alpha spss amharic"
-            ],
-            [
-                9,
-                "reliability test for multiple-choice questions"
+                "comment utiliser test de grossesse clearblue"
             ],
             [
                 0,
-                "test précoce de grossesse"
-            ],
-            [
-                1,
-                "test de grossesse précoce action"
-            ],
-            [
-                2,
-                "test de grossesse précoce clearblue"
-            ],
-            [
-                3,
-                "test precoce di gravidanza"
-            ],
-            [
-                4,
-                "test precoce clearblue"
+                "prix test de grossesse"
             ],
             [
                 0,
-                "test digital oncf"
+                "résultat test de grossesse"
             ],
             [
                 1,
-                "test digital"
+                "resultat test de grossesse positif"
             ],
             [
                 2,
-                "test digital clearblue"
+                "resultat test de grossesse negatif"
             ],
             [
                 3,
-                "test digital oncf 2025"
-            ],
-            [
-                4,
-                "test digitaler bilderrahmen"
-            ],
-            [
-                5,
-                "quiz digital circus"
-            ],
-            [
-                6,
-                "digital test emlyon"
-            ],
-            [
-                7,
-                "test orange digital center"
-            ],
-            [
-                8,
-                "test dolby digital 5.1"
-            ],
-            [
-                9,
-                "test clearblue digital démonté positif"
+                "test de grossesse elle test resultat"
             ],
             [
                 0,
-                "test bandelette aquarium"
+                "faux positif de test de grossesse"
             ],
             [
                 1,
-                "test bandelette ph"
-            ],
-            [
-                2,
-                "test bandelette urinaire"
-            ],
-            [
-                3,
-                "test bandelette ilio tibiale"
-            ],
-            [
-                4,
-                "test bandelette grossesse"
-            ],
-            [
-                5,
-                "test bandelette spa"
-            ],
-            [
-                6,
-                "test urinaire bandelette comment faire"
-            ],
-            [
-                7,
-                "test ovulation bandelette"
-            ],
-            [
-                8,
-                "test dureté eau bandelette"
-            ],
-            [
-                9,
-                "test de grossesse bandelette positif"
-            ],
-            [
-                0,
-                "date test"
-            ],
-            [
-                1,
-                "date testing"
-            ],
-            [
-                2,
-                "blind date test"
-            ],
-            [
-                3,
-                "dating test"
-            ],
-            [
-                4,
-                "lat test date 2025"
-            ],
-            [
-                5,
-                "driving test date change"
-            ],
-            [
-                6,
-                "test date for license malayalam"
-            ],
-            [
-                7,
-                "dates testosterone"
-            ],
-            [
-                8,
-                "test date edukkan malayalam"
-            ],
-            [
-                9,
-                "test date of assistant election commissioner"
+                "test de grossesse clearblue faux positif"
             ]
         ]
     },
@@ -1644,132 +790,158 @@
         "articles": [
             {
                 "title": "Test de grossesse",
-                "views": 201,
+                "views": 195,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             }
         ],
         "sections": 3,
-        "types": []
+        "types": [
+            "test du lapin",
+            "test de la grenouille"
+        ]
     },
     "pages": [
         {
-            "group": "Types de tests",
-            "title": "test de grossesse clearblue",
-            "intent": "commercial",
-            "keywords": [
-                "test de grossesse clearblue",
-                "test digital clearblue",
-                "test précoce clearblue",
-                "clearblue test de grossesse precoce"
-            ]
-        },
-        {
-            "group": "Types de tests",
-            "title": "test bandelette urinaire",
-            "intent": "informational",
-            "keywords": [
-                "test bandelette urinaire",
-                "test urinaire",
-                "test urinaire pharmacie",
-                "test bandelette"
-            ]
-        },
-        {
-            "group": "Types de tests",
-            "title": "test sanguin",
-            "intent": "informational",
-            "keywords": [
-                "test sanguin",
-                "hormone hcg",
-                "test de grossesse sanguin",
-                "interprétation résultat prise de sang"
-            ]
-        },
-        {
-            "group": "Types de tests",
-            "title": "test digital",
-            "intent": "commercial",
-            "keywords": [
-                "test digital",
-                "test digital grossesse"
-            ]
-        },
-        {
-            "group": "Fiabilité et interprétation",
+            "group": "Résultats et fiabilité",
             "title": "fiabilité test de grossesse",
             "intent": "informational",
             "keywords": [
                 "fiabilité test de grossesse",
-                "fiabilité test",
-                "test de grossesse positif",
-                "résultat positif",
-                "test de grossesse négatif",
-                "résultat négatif"
+                "fiabilité à 99%",
+                "hormone hcg",
+                "sensibilité du test",
+                "faux test de grossesse positif",
+                "faux positif test de grossesse positif",
+                "résultat test de grossesse positif"
             ]
         },
         {
-            "group": "Fiabilité et interprétation",
-            "title": "interprétation résultats",
+            "group": "Résultats et fiabilité",
+            "title": "résultat test de grossesse",
             "intent": "informational",
             "keywords": [
-                "date test"
+                "résultat test de grossesse",
+                "lecture du résultat",
+                "test de grossesse positif",
+                "test de grossesse négatif",
+                "resultat test de grossesse negatif"
             ]
         },
         {
-            "group": "Tests précoces",
+            "group": "Types de tests de grossesse",
+            "title": "test de grossesse clearblue",
+            "intent": "commercial",
+            "keywords": [
+                "test de grossesse clearblue",
+                "clearblue test de grossesse precoce",
+                "test digital",
+                "utilisation test de grossesse clearblue",
+                "résultat test de grossesse clearblue",
+                "fiabilité test de grossesse clearblue"
+            ]
+        },
+        {
+            "group": "Types de tests de grossesse",
             "title": "test de grossesse précoce",
             "intent": "informational",
             "keywords": [
                 "test de grossesse précoce",
+                "grossesse",
                 "test précoce",
-                "test précoce action"
+                "test urinaire",
+                "tests médicaux rapides",
+                "test de grossesse sanguin",
+                "test sanguin",
+                "test de grossesse pour chienne"
             ]
         },
         {
-            "group": "Méthodes alternatives",
-            "title": "test de grossesse avec du sel",
+            "group": "Prix et achat",
+            "title": "test de grossesse prix",
+            "intent": "commercial",
+            "keywords": [
+                "test de grossesse prix",
+                "test de grossesse pharmacie prix",
+                "où acheter un test de grossesse",
+                "achat test de grossesse en ligne"
+            ]
+        },
+        {
+            "group": "Utilisation et conseils",
+            "title": "utilisation test de grossesse",
             "intent": "informational",
             "keywords": [
+                "utilisation test de grossesse",
+                "bandelette réactive",
+                "délai d'utilisation",
+                "test de grossesse action",
                 "test de grossesse avec du sel",
-                "test de grossesse action"
+                "test de grossesse réutilisable"
+            ]
+        },
+        {
+            "group": "Tests alternatifs",
+            "title": "test de grossesse maison",
+            "intent": "informational",
+            "keywords": [
+                "test de grossesse maison",
+                "faux positif test de grossesse maison",
+                "test de grossesse dessin",
+                "test du lapin",
+                "test de la grenouille"
             ]
         }
     ],
     "categories": {
         "test de grossesse clearblue": "core",
-        "test sanguin": "core",
+        "faux test de grossesse positif": "core",
         "test de grossesse précoce": "core",
-        "test bandelette urinaire": "core",
-        "test digital": "core",
-        "test de grossesse sanguin": "core",
-        "test urinaire": "core",
-        "test digital clearblue": "core",
-        "test précoce clearblue": "core",
-        "test urinaire pharmacie": "commercial",
+        "test de grossesse prix": "commercial",
         "fiabilité test de grossesse": "core",
         "test de grossesse positif": "core",
-        "test digital circus": "doubtful",
-        "clearblue test de grossesse precoce": "core",
-        "interprétation résultat prise de sang": "core",
-        "test digital grossesse": "complementary",
-        "interprétation résultats cholestérol": "doubtful",
-        "date test": "complementary",
+        "résultat test de grossesse positif": "core",
+        "utilisation test de grossesse clearblue": "core",
+        "test de grossesse clearblue faux positif": "doubtful",
+        "test de grossesse sanguin": "core",
+        "test de grossesse pharmacie prix": "commercial",
+        "résultat test de grossesse": "core",
+        "utilisation test de grossesse": "core",
+        "test de grossesse action": "commercial",
         "test de grossesse négatif": "complementary",
-        "test précoce action": "complementary",
-        "test de grossesse action": "complementary",
+        "resultat test de grossesse negatif": "complementary",
         "test de grossesse avec du sel": "complementary",
-        "test précoce": "complementary",
+        "résultat test de grossesse clearblue": "complementary",
+        "fiabilité test de grossesse clearblue": "complementary",
+        "test de grossesse dessin": "complementary",
+        "test de grossesse maison": "complementary",
+        "test de grossesse pour chienne": "complementary",
+        "clearblue test de grossesse precoce": "commercial",
+        "où acheter un test de grossesse": "commercial",
+        "test de grossesse réutilisable": "complementary",
+        "achat test de grossesse en ligne": "commercial",
+        "faux positif test de grossesse positif": "complementary",
+        "faux positif test de grossesse maison": "complementary",
+        "test urinaire": "core",
+        "test sanguin": "core",
+        "bandelette réactive": "core",
         "hormone hcg": "core",
-        "fiabilité test": "complementary",
-        "résultat positif": "core",
-        "résultat négatif": "core",
-        "test bandelette": "complementary",
-        "test urinaire thc": "doubtful",
-        "test bandelette piscine": "doubtful",
-        "test bandelette aquarium": "doubtful",
-        "test bandelette ilio tibiale": "doubtful",
-        "test urinaire drogue": "doubtful"
+        "sensibilité du test": "core",
+        "délai d'utilisation": "core",
+        "lecture du résultat": "core",
+        "fiabilité à 99%": "core",
+        "test précoce": "core",
+        "test digital": "core",
+        "grossesse": "complementary",
+        "tests médicaux rapides": "complementary",
+        "test du lapin": "complementary",
+        "test de la grenouille": "complementary",
+        "test de grossesse tunisie": "doubtful",
+        "faux test de grossesse positif blague": "doubtful",
+        "prix test de grossesse tunisie": "doubtful",
+        "achat test de grossesse en ligne gestion documents": "doubtful",
+        "utilisation test de grossesse positif": "doubtful",
+        "achat test de grossesse en ligne assurance habitation souscrire": "doubtful"
     }
 }

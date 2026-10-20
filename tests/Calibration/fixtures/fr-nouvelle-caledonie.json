@@ -1,7 +1,7 @@
 {
     "expression": "nouvelle calédonie",
     "lang": "fr",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "voyage nouvelle calédonie",
-        "plages nouvelle calédonie",
-        "randonnée nouvelle calédonie",
-        "culture kanak",
-        "lagon nouvelle calédonie",
-        "climat nouvelle calédonie",
-        "cuisine nouvelle calédonie",
-        "faune nouvelle calédonie"
+        "carte nouvelle calédonie",
+        "histoire kanak",
+        "culture calédonienne",
+        "tourisme nouvelle calédonie",
+        "économie calédonienne",
+        "politique nouvelle calédonie",
+        "parc naturel mer de corail",
+        "vols nouvelle calédonie"
     ],
     "suggestions": {
         "amazon": [
@@ -106,667 +106,623 @@
         "bing": [
             [
                 0,
-                "voyage nouvelle calédonie"
+                "carte nouvelle-calédonie"
             ],
             [
                 1,
-                "voyage nouvelle calédonie tout inclus"
+                "carte nouvelle calédonie détaillée"
             ],
             [
                 2,
-                "voyage nouvelle calédonie circuit"
+                "carte nouvelle calédonie dans le monde"
             ],
             [
                 3,
-                "voyage nouvelle calédonie vol + hotel"
+                "carte nouvelle calédonie provinces"
             ],
             [
                 4,
-                "voyage en nouvelle calédonie"
+                "carte nouvelle calédonie polynésie française"
             ],
             [
                 5,
-                "agence voyage nouvelle calédonie"
+                "nouvelle calédonie carte"
             ],
             [
                 6,
-                "agence de voyage en nouvelle caledonie"
-            ],
-            [
-                0,
-                "plage nouvelle calédonie"
-            ],
-            [
-                0,
-                "randonnée nouvelle calédonie"
-            ],
-            [
-                0,
-                "culture kanak"
-            ],
-            [
-                1,
-                "culture kanak nouvelle calédonie"
-            ],
-            [
-                2,
-                "culture kanak la terre"
-            ],
-            [
-                3,
-                "culture kakao"
-            ],
-            [
-                4,
-                "culture kaktus"
-            ],
-            [
-                5,
-                "culture kaki france"
-            ],
-            [
-                6,
-                "la naissance dans la culture kanak"
+                "la nouvelle calédonie carte"
             ],
             [
                 7,
-                "la personne dans la culture kanak"
+                "nouvelle calédonie carte monde"
             ],
             [
                 8,
-                "photo de la culture kanak"
-            ],
-            [
-                9,
-                "langue culture kanak"
+                "nouvelle calédonie carte océanie"
             ],
             [
                 0,
-                "lagon nouvelle calédonie"
+                "histoire kanak"
             ],
             [
                 1,
-                "lagoon nouvelle calédonie"
+                "histoire canac"
             ],
             [
                 2,
-                "lagon de nouvelle calédonie"
+                "histoire kakashi"
             ],
             [
                 3,
-                "lagon de la nouvelle calédonie"
+                "histoire des kanak"
             ],
             [
                 0,
-                "climat nouvelle calédonie"
-            ],
-            [
-                0,
-                "cuisine nouvelle calédonie"
-            ],
-            [
-                0,
-                "faune nouvelle calédonie"
+                "tourisme nouvelle calédonie"
             ],
             [
                 1,
-                "faune de nouvelle calédonie"
+                "nouvelle caledonie tourisme"
+            ],
+            [
+                2,
+                "tourisme en nouvelle calédonie"
+            ],
+            [
+                3,
+                "tourisme province sud nouvelle calédonie"
+            ],
+            [
+                4,
+                "tourisme province nord nouvelle calédonie"
+            ],
+            [
+                5,
+                "nouvelle calédonie tourisme point sud"
+            ],
+            [
+                6,
+                "le tourisme en nouvelle calédonie"
+            ],
+            [
+                0,
+                "économie calédonienne"
+            ],
+            [
+                0,
+                "politique nouvelle calédonie"
+            ],
+            [
+                0,
+                "parc naturel mer de corail"
+            ],
+            [
+                1,
+                "où se trouve la mer de corail"
+            ],
+            [
+                2,
+                "pays situé en mer de corail"
+            ],
+            [
+                3,
+                "mer de corail carte"
+            ],
+            [
+                4,
+                "pays mer de corail"
+            ],
+            [
+                5,
+                "la mer de corail"
+            ],
+            [
+                6,
+                "île de corail écologie"
+            ],
+            [
+                7,
+                "corail dans la mer"
+            ],
+            [
+                8,
+                "mer de corail australie"
+            ],
+            [
+                9,
+                "île de corail tourisme"
+            ],
+            [
+                10,
+                "parc départemental des cormailles"
+            ],
+            [
+                11,
+                "ou se situe la barrière de corail"
+            ],
+            [
+                0,
+                "vols nouvelle calédonie"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "voyage nouvelle calédonie"
+                "carte nouvelle-calédonie"
             ],
             [
                 1,
-                "voyage nouvelle calédonie tout inclus"
+                "carte nouvelle calédonie détaillée"
             ],
             [
                 2,
-                "voyage nouvelle calédonie circuit"
+                "carte nouvelle calédonie dans le monde"
             ],
             [
                 3,
-                "voyage nouvelle calédonie vol + hotel"
+                "carte nouvelle calédonie provinces"
             ],
             [
                 4,
-                "voyage en nouvelle calédonie"
+                "carte nouvelle calédonie polynésie française"
             ],
             [
                 5,
-                "agence voyage nouvelle calédonie"
+                "nouvelle calédonie carte"
             ],
             [
                 6,
-                "agence de voyage en nouvelle caledonie"
-            ],
-            [
-                0,
-                "plage nouvelle calédonie"
-            ],
-            [
-                0,
-                "randonnée nouvelle calédonie"
-            ],
-            [
-                0,
-                "culture kanak"
-            ],
-            [
-                1,
-                "culture kanak nouvelle calédonie"
-            ],
-            [
-                2,
-                "culture kanak la terre"
-            ],
-            [
-                3,
-                "culture kakao"
-            ],
-            [
-                4,
-                "culture kaktus"
-            ],
-            [
-                5,
-                "culture kaki france"
-            ],
-            [
-                6,
-                "la naissance dans la culture kanak"
+                "la nouvelle calédonie carte"
             ],
             [
                 7,
-                "photo de la culture kanak"
+                "nouvelle calédonie carte monde"
             ],
             [
                 0,
-                "lagon nouvelle calédonie"
+                "histoire kanak"
             ],
             [
                 1,
-                "lagoon nouvelle calédonie"
+                "histoire canac"
             ],
             [
                 2,
-                "lagon de nouvelle calédonie"
+                "histoire kakashi"
             ],
             [
                 3,
-                "lagon de la nouvelle calédonie"
+                "histoire des kanak"
             ],
             [
                 0,
-                "climat nouvelle calédonie"
-            ],
-            [
-                0,
-                "cuisine nouvelle calédonie"
-            ],
-            [
-                0,
-                "faune nouvelle calédonie"
+                "tourisme nouvelle calédonie"
             ],
             [
                 1,
-                "faune de nouvelle calédonie"
+                "nouvelle caledonie tourisme"
+            ],
+            [
+                2,
+                "tourisme en nouvelle calédonie"
+            ],
+            [
+                3,
+                "tourisme province sud nouvelle calédonie"
+            ],
+            [
+                4,
+                "tourisme province nord nouvelle calédonie"
+            ],
+            [
+                5,
+                "nouvelle calédonie tourisme point sud"
+            ],
+            [
+                6,
+                "le tourisme en nouvelle calédonie"
+            ],
+            [
+                0,
+                "économie calédonienne"
+            ],
+            [
+                0,
+                "politique nouvelle calédonie"
+            ],
+            [
+                0,
+                "parc naturel mer de corail"
+            ],
+            [
+                1,
+                "où se trouve la mer de corail"
+            ],
+            [
+                2,
+                "pays situé en mer de corail"
+            ],
+            [
+                3,
+                "mer de corail carte"
+            ],
+            [
+                4,
+                "pays mer de corail"
+            ],
+            [
+                5,
+                "la mer de corail"
+            ],
+            [
+                6,
+                "île de corail écologie"
+            ],
+            [
+                7,
+                "corail dans la mer"
+            ],
+            [
+                0,
+                "vols nouvelle calédonie"
             ]
         ],
         "google": [
             [
                 0,
+                "carte nouvelle calédonie"
+            ],
+            [
+                1,
+                "carte nouvelle calédonie et polynésie française"
+            ],
+            [
+                2,
+                "carte nouvelle calédonie maps"
+            ],
+            [
+                3,
+                "carte nouvelle calédonie pdf"
+            ],
+            [
+                4,
+                "carte nouvelle calédonie avec villes"
+            ],
+            [
+                5,
+                "carte nouvelle calédonie satellite"
+            ],
+            [
+                6,
+                "carte nouvelle calédonie dans le monde"
+            ],
+            [
+                7,
+                "carte nouvelle calédonie google map"
+            ],
+            [
+                8,
+                "carte nouvelle calédonie noir et blanc"
+            ],
+            [
+                9,
+                "carte nouvelle calédonie dessin"
+            ],
+            [
+                0,
+                "histoire kanak"
+            ],
+            [
+                1,
+                "histoire kanaky"
+            ],
+            [
+                2,
+                "kanak histoire oubliée"
+            ],
+            [
+                3,
+                "histoire des kanaks en nouvelle calédonie"
+            ],
+            [
+                4,
+                "histoire peuple kanak"
+            ],
+            [
+                5,
+                "histoire de tea kanake"
+            ],
+            [
+                6,
+                "histoire du drapeau kanak"
+            ],
+            [
+                0,
+                "culture calédonienne"
+            ],
+            [
+                0,
+                "tourisme nouvelle calédonie"
+            ],
+            [
+                1,
+                "tourisme nouvelle calédonie 2025"
+            ],
+            [
+                2,
+                "tourisme nouvelle calédonie 2032"
+            ],
+            [
+                3,
                 "voyage nouvelle calédonie"
             ],
             [
-                1,
-                "voyage nouvelle calédonie prix"
-            ],
-            [
-                2,
-                "voyage nouvelle calédonie mathilde panot"
-            ],
-            [
-                3,
-                "voyage nouvelle calédonie leclerc"
-            ],
-            [
                 4,
+                "vacances nouvelle calédonie"
+            ],
+            [
+                5,
                 "voyage nouvelle calédonie tout compris"
             ],
             [
-                5,
-                "voyage nouvelle calédonie vol hôtel"
-            ],
-            [
                 6,
-                "voyage nouvelle calédonie avion"
+                "vacances nouvelle calédonie 2026"
             ],
             [
                 7,
-                "voyage nouvelle calédonie all inclusive"
+                "voyage nouvelle calédonie leclerc"
             ],
             [
                 8,
-                "voyage nouvelle calédonie gouvernement"
+                "voyage nouvelle calédonie prix"
             ],
             [
                 9,
-                "voyage nouvelle calédonie passeport"
+                "visite nouvelle calédonie"
             ],
             [
                 0,
-                "plages nouvelle calédonie"
+                "politique nouvelle calédonie"
             ],
             [
                 1,
-                "plage nouvelle calédonie requin"
+                "situation politique nouvelle calédonie"
             ],
             [
                 2,
-                "belle plage nouvelle calédonie"
+                "parti politique nouvelle calédonie"
             ],
             [
                 3,
-                "plage paita nouvelle calédonie"
+                "statut politique nouvelle calédonie"
             ],
             [
                 4,
-                "plage paysage nouvelle calédonie"
-            ],
-            [
-                0,
-                "randonnée nouvelle calédonie"
-            ],
-            [
-                1,
-                "carte randonnée nouvelle calédonie"
-            ],
-            [
-                2,
-                "guide randonnée nouvelle calédonie"
-            ],
-            [
-                3,
-                "application randonnée nouvelle calédonie"
-            ],
-            [
-                4,
-                "randonnée sud nouvelle calédonie"
+                "climat politique nouvelle calédonie"
             ],
             [
                 5,
-                "randonnée équestre nouvelle calédonie"
+                "actualité politique nouvelle calédonie"
             ],
             [
                 6,
-                "randonnée nord nouvelle calédonie"
+                "organisation politique nouvelle calédonie"
             ],
             [
                 7,
-                "grande randonnée nouvelle calédonie"
+                "femme politique nouvelle calédonie"
             ],
             [
                 8,
-                "randonnée mont dore nouvelle calédonie"
+                "contexte politique nouvelle calédonie"
             ],
             [
                 9,
-                "randonnée province sud nouvelle calédonie"
+                "système politique nouvelle calédonie"
             ],
             [
                 0,
-                "culture kanak"
+                "parc naturel mer de corail"
             ],
             [
                 1,
-                "culture kanak nouvelle-calédonie"
+                "parc naturel marin mer de corail"
             ],
             [
                 2,
-                "culture kanak wikipedia"
+                "parc naturel de la mer de corail nouvelle calédonie"
             ],
             [
                 3,
-                "culture kanak dessin"
+                "parc naturel de la mer de corail carte"
             ],
             [
                 4,
-                "tradition kanak"
-            ],
-            [
-                5,
-                "kanaky culture"
-            ],
-            [
-                6,
-                "igname culture kanak"
-            ],
-            [
-                7,
-                "image culture kanak"
-            ],
-            [
-                8,
-                "langue culture kanak"
-            ],
-            [
-                9,
-                "livre culture kanak"
+                "parc naturel de la mer de corail recrutement"
             ],
             [
                 0,
-                "lagon nouvelle calédonie"
+                "vols nouvelle calédonie"
             ],
             [
                 1,
-                "lagon nouvelle calédonie carte"
+                "vol nouvelle calédonie paris"
             ],
             [
                 2,
-                "lagune nouvelle caledonie"
+                "vol nouvelle calédonie tahiti"
             ],
             [
                 3,
-                "survol lagon nouvelle calédonie"
+                "vol nouvelle calédonie temps"
             ],
             [
                 4,
-                "photo lagon nouvelle calédonie"
+                "vol nouvelle calédonie australie"
             ],
             [
                 5,
-                "lagon bleu nouvelle calédonie"
+                "vol nouvelle calédonie pas cher"
             ],
             [
                 6,
-                "superficie lagon nouvelle calédonie"
+                "vol nouvelle calédonie france"
             ],
             [
                 7,
-                "lagon de nouvelle calédonie patrimoine mondial"
+                "vol nouvelle calédonie polynésie française"
             ],
             [
                 8,
-                "grand lagon nouvelle calédonie"
+                "vol nouvelle calédonie prix"
             ],
             [
                 9,
-                "poisson lagon nouvelle calédonie"
-            ],
-            [
-                0,
-                "climat nouvelle calédonie"
-            ],
-            [
-                1,
-                "météo nouvelle calédonie"
-            ],
-            [
-                2,
-                "température nouvelle calédonie"
-            ],
-            [
-                3,
-                "météo nouvelle calédonie 15 jours"
-            ],
-            [
-                4,
-                "météo nouvelle calédonie nouméa"
-            ],
-            [
-                5,
-                "température nouvelle calédonie hiver"
-            ],
-            [
-                6,
-                "météo nouvelle calédonie bulletin"
-            ],
-            [
-                7,
-                "météo nouvelle calédonie carte"
-            ],
-            [
-                8,
-                "météo nouvelle calédonie aujourd hui"
-            ],
-            [
-                9,
-                "météo nouvelle calédonie cyclone"
-            ],
-            [
-                0,
-                "cuisine nouvelle calédonie"
-            ],
-            [
-                1,
-                "recette nouvelle calédonie"
-            ],
-            [
-                2,
-                "gastronomie nouvelle calédonie"
-            ],
-            [
-                3,
-                "bami recette nouvelle calédonie"
-            ],
-            [
-                4,
-                "recette bougna nouvelle calédonie"
-            ],
-            [
-                5,
-                "recette traditionnelle nouvelle calédonie"
-            ],
-            [
-                6,
-                "livre recette nouvelle calédonie"
-            ],
-            [
-                7,
-                "recette squash nouvelle calédonie"
-            ],
-            [
-                8,
-                "recette chouchoute nouvelle calédonie"
-            ],
-            [
-                9,
-                "recette achard nouvelle calédonie"
-            ],
-            [
-                0,
-                "faune nouvelle calédonie"
-            ],
-            [
-                1,
-                "animaux nouvelle calédonie"
-            ],
-            [
-                2,
-                "faune dangereuse nouvelle calédonie"
-            ],
-            [
-                3,
-                "faune terrestre nouvelle calédonie"
-            ],
-            [
-                4,
-                "animaux dangereux nouvelle calédonie"
-            ],
-            [
-                5,
-                "animaux endémique nouvelle calédonie"
-            ],
-            [
-                6,
-                "quarantaine animaux nouvelle calédonie"
-            ],
-            [
-                7,
-                "animaux venimeux nouvelle calédonie"
-            ],
-            [
-                8,
-                "animaux marins nouvelle calédonie"
-            ],
-            [
-                9,
-                "importation animaux nouvelle calédonie"
+                "vol nouvelle calédonie air france"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "voyage nouvelle calédonie"
+                "carte nouvelle-calédonie"
             ],
             [
                 1,
-                "voyage nouvelle calédonie tout inclus"
+                "carte nouvelle calédonie polynésie française"
             ],
             [
                 2,
-                "voyage nouvelle calédonie tout compris"
+                "carte nouvelle calédonie détaillée"
             ],
             [
                 3,
-                "agence de voyage nouvelle calédonie"
+                "carte nouvelle calédonie situation géographique"
             ],
             [
                 4,
-                "prix voyage nouvelle calédonie"
-            ],
-            [
-                5,
-                "agence voyage nouvelle calédonie"
+                "carte nouvelle-calédonie nouméa"
             ],
             [
                 0,
-                "plages nouvelle-calédonie wikipédia"
+                "histoire kanaky"
             ],
             [
                 1,
-                "plages nouvelle calédonie actualité"
+                "histoire kanak nouvelle"
             ],
             [
                 2,
-                "plages nouvelle calédonie carte géographique"
+                "histoire kanako"
             ],
             [
                 3,
-                "plages nouvelle-calédonie carte"
+                "histoire kanaka"
             ],
             [
                 0,
-                "randonnée du mont dore nouvelle calédonie"
-            ],
-            [
-                0,
-                "culture kanak"
-            ],
-            [
-                0,
-                "lagon nouvelle calédonie actualités"
+                "culture calédonienne des"
             ],
             [
                 1,
-                "lagon nouvelle calédonie carte monde"
+                "culture calédonienne d'immobilier"
             ],
             [
                 2,
-                "lagon nouvelle-calédonie carte"
-            ],
-            [
-                3,
-                "lagon nouvelle calédonie carte géographique"
+                "culture calédonienne"
             ],
             [
                 0,
-                "climat nouvelle calédonie actualités"
+                "tourisme nouvelle calédonie"
             ],
             [
                 1,
-                "climat nouvelle calédonie carte monde"
+                "office du tourisme nouvelle calédonie"
             ],
             [
                 2,
-                "climat nouvelle-calédonie carte"
+                "office tourisme nouvelle calédonie"
             ],
             [
                 3,
-                "climat nouvelle calédonie carte géographique"
+                "office de tourisme nouvelle calédonie"
+            ],
+            [
+                4,
+                "bts tourisme nouvelle calédonie"
             ],
             [
                 0,
-                "cuisine nouvelle-calédonie wikipédia"
+                "economie calédonienne des"
             ],
             [
                 1,
-                "cuisine nouvelle calédonie actualité"
+                "economie calédonienne d'immobilier"
             ],
             [
                 2,
-                "cuisine nouvelle calédonie carte géographique"
-            ],
-            [
-                3,
-                "cuisine nouvelle-calédonie carte"
+                "economie calédonienne"
             ],
             [
                 0,
-                "faune de nouvelle calédonie"
+                "politique nouvelle calédonie"
+            ],
+            [
+                1,
+                "situation politique nouvelle calédonie"
+            ],
+            [
+                0,
+                "parc naturel mer de corail australie"
+            ],
+            [
+                0,
+                "vols nouvelle calédonie"
+            ],
+            [
+                1,
+                "prix vols nouvelle calédonie"
             ]
         ],
         "youtube": [
             [
                 0,
+                "carte de la nouvelle calédonie"
+            ],
+            [
+                0,
+                "histoire kanak"
+            ],
+            [
+                1,
+                "histoire kanaky"
+            ],
+            [
+                2,
+                "kanak histoire oubliée"
+            ],
+            [
+                3,
+                "nepishoo histoire kanak"
+            ],
+            [
+                4,
+                "histoire du peuple kanak"
+            ],
+            [
+                0,
                 "voyage nouvelle calédonie"
             ],
             [
-                0,
-                "plage nouvelle caledonie"
-            ],
-            [
-                0,
-                "randonnee nouvelle caledonie"
-            ],
-            [
-                0,
-                "culture kanak"
-            ],
-            [
                 1,
-                "roumadyval culture kanak"
+                "tourisme nouvelle caledonie"
             ],
             [
                 2,
-                "kanak culture"
+                "visite nouvelle caledonie"
             ],
             [
                 0,
-                "lagon nouvelle calédonie"
-            ],
-            [
-                0,
-                "meteo nouvelle caledonie"
-            ],
-            [
-                0,
-                "recette nouvelle calédonie"
-            ],
-            [
-                1,
-                "cuisine nouvelle caledonie"
-            ],
-            [
-                2,
-                "recette bougna nouvelle calédonie"
-            ],
-            [
-                0,
-                "animaux nouvelle caledonie"
+                "politique nouvelle caledonie"
             ]
         ]
     },
@@ -774,7 +730,7 @@
         "articles": [
             {
                 "title": "Nouvelle-Calédonie",
-                "views": 16527,
+                "views": 15974,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -785,149 +741,157 @@
     },
     "pages": [
         {
-            "group": "Informations pratiques",
-            "title": "nouvelle calédonie heure",
-            "intent": "informational",
-            "keywords": [
-                "nouvelle calédonie heure",
-                "nouvelle calédonie actualités",
-                "nouvelle calédonie la 1ère",
-                "meteo nouvelle caledonie"
-            ]
-        },
-        {
-            "group": "Informations pratiques",
+            "group": "Géographie",
             "title": "nouvelle calédonie carte",
             "intent": "informational",
             "keywords": [
                 "nouvelle calédonie carte",
-                "nouméa",
+                "nouvelle calédonie superficie",
+                "océan pacifique",
                 "nouvelle calédonie map",
-                "lagon nouvelle calédonie carte"
+                "carte nouvelle calédonie détaillée",
+                "carte nouvelle calédonie dans le monde"
             ]
         },
         {
-            "group": "Nature",
-            "title": "randonnée nouvelle calédonie",
+            "group": "Géographie",
+            "title": "nouvelle calédonie heure",
             "intent": "informational",
             "keywords": [
-                "randonnée nouvelle calédonie",
-                "parc provincial de la rivière bleue",
-                "plage nouvelle calédonie",
-                "île des pins",
-                "climat nouvelle calédonie"
-            ]
-        },
-        {
-            "group": "Nature",
-            "title": "faune nouvelle calédonie",
-            "intent": "informational",
-            "keywords": [
-                "faune nouvelle calédonie",
-                "biodiversité unique",
-                "nickel",
-                "lagon nouvelle calédonie",
-                "grand lagon sud",
-                "animaux nouvelle caledonie"
+                "nouvelle calédonie heure",
+                "carte nouvelle calédonie et polynésie française"
             ]
         },
         {
             "group": "Culture",
-            "title": "culture kanak",
+            "title": "histoire kanak",
             "intent": "informational",
             "keywords": [
-                "culture kanak",
-                "calédoniens",
-                "collectivité d'outre-mer",
-                "collectivité territoriale en france",
-                "histoire coloniale",
+                "histoire kanak",
                 "kanak",
                 "peuple autochtone",
-                "souveraineté",
-                "sui generis",
-                "culture kanak nouvelle calédonie",
-                "tribus kanak",
-                "timbre nouvelle calédonie",
-                "nouvelle calédonie drapeau"
+                "histoire kanaky",
+                "kanak histoire oubliée",
+                "histoire peuple kanak"
             ]
         },
         {
             "group": "Culture",
-            "title": "cuisine nouvelle calédonie",
+            "title": "culture calédonienne",
             "intent": "informational",
             "keywords": [
-                "cuisine nouvelle calédonie",
-                "recette nouvelle calédonie",
-                "recette bougna nouvelle calédonie"
+                "culture calédonienne",
+                "timbre nouvelle calédonie",
+                "nouvelle calédonie musique",
+                "nouvelle calédonie drapeau",
+                "drapeau calédonien",
+                "timbres neufs nouvelle calédonie"
             ]
         },
         {
-            "group": "Voyage",
-            "title": "voyage nouvelle calédonie",
+            "group": "Tourisme",
+            "title": "tourisme nouvelle calédonie",
             "intent": "commercial",
             "keywords": [
+                "tourisme nouvelle calédonie",
+                "iles loyauté",
+                "lagon calédonien",
+                "nouméa",
                 "voyage nouvelle calédonie",
-                "voyage nouvelle calédonie tout inclus",
-                "voyage nouvelle calédonie prix",
-                "voyage nouvelle calédonie tout compris"
+                "nouvelle caledonie hôtel",
+                "nouvelle calédonie routard"
             ]
         },
         {
-            "group": "Voyage",
-            "title": "nouvelle caledonie hôtel",
+            "group": "Tourisme",
+            "title": "vols nouvelle calédonie",
             "intent": "transactional",
             "keywords": [
-                "nouvelle caledonie hôtel",
-                "nouvelle calédonie routard",
-                "nouvelle calédonie tourisme"
+                "vols nouvelle calédonie",
+                "prix vols nouvelle calédonie",
+                "parc naturel mer de corail"
+            ]
+        },
+        {
+            "group": "Politique",
+            "title": "politique nouvelle calédonie",
+            "intent": "informational",
+            "keywords": [
+                "politique nouvelle calédonie",
+                "accord de nouméa",
+                "collectivité d'outre-mer",
+                "collectivité territoriale en france",
+                "nickel",
+                "province des iles",
+                "province nord",
+                "province sud",
+                "sui generis",
+                "situation politique nouvelle calédonie",
+                "nouvelle calédonie indépendance",
+                "souveraineté"
+            ]
+        },
+        {
+            "group": "Politique",
+            "title": "nouvelle calédonie actualités",
+            "intent": "informational",
+            "keywords": [
+                "nouvelle calédonie actualités",
+                "nouvelle calédonie la 1ère",
+                "nouvelle calédonie reportage"
             ]
         }
     ],
     "categories": {
-        "culture kanak": "core",
-        "voyage nouvelle calédonie": "core",
-        "faune nouvelle calédonie": "core",
-        "lagon nouvelle calédonie": "core",
-        "plage nouvelle calédonie": "core",
-        "randonnée nouvelle calédonie": "core",
         "nouvelle calédonie carte": "core",
-        "cuisine nouvelle calédonie": "core",
+        "politique nouvelle calédonie": "core",
+        "tourisme nouvelle calédonie": "core",
+        "histoire kanak": "core",
+        "vols nouvelle calédonie": "commercial",
+        "histoire kanaky": "core",
         "nouvelle calédonie heure": "core",
+        "carte nouvelle calédonie et polynésie française": "complementary",
         "nouvelle calédonie map": "core",
         "nouvelle calédonie actualités": "core",
-        "climat nouvelle calédonie": "complementary",
         "nouvelle calédonie la 1ère": "complementary",
-        "animaux nouvelle caledonie": "complementary",
-        "meteo nouvelle caledonie": "complementary",
-        "recette nouvelle calédonie": "complementary",
-        "culture kanak nouvelle calédonie": "complementary",
-        "voyage nouvelle calédonie tout inclus": "commercial",
-        "lagon nouvelle calédonie carte": "complementary",
+        "parc naturel mer de corail": "commercial",
+        "culture calédonienne": "complementary",
+        "carte nouvelle calédonie détaillée": "complementary",
+        "situation politique nouvelle calédonie": "complementary",
+        "voyage nouvelle calédonie": "complementary",
+        "kanak histoire oubliée": "complementary",
         "nouvelle caledonie hôtel": "commercial",
-        "voyage nouvelle calédonie prix": "commercial",
-        "nouvelle calédonie reportage": "doubtful",
+        "nouvelle calédonie reportage": "complementary",
         "nouvelle calédonie routard": "commercial",
         "timbre nouvelle calédonie": "complementary",
-        "recette bougna nouvelle calédonie": "complementary",
-        "voyage nouvelle calédonie tout compris": "commercial",
         "nouvelle calédonie drapeau": "complementary",
-        "nouvelle calédonie tourisme": "commercial",
+        "nouvelle calédonie musique": "complementary",
+        "carte nouvelle calédonie dans le monde": "complementary",
+        "nouvelle calédonie carte du monde": "doubtful",
+        "histoire peuple kanak": "complementary",
+        "nouvelle calédonie indépendance": "complementary",
+        "timbres neufs nouvelle calédonie": "commercial",
+        "prix vols nouvelle calédonie": "commercial",
+        "nouvelle calédonie superficie": "complementary",
         "nouméa": "core",
-        "grand lagon sud": "complementary",
-        "parc provincial de la rivière bleue": "complementary",
-        "tribus kanak": "core",
-        "île des pins": "complementary",
-        "biodiversité unique": "core",
-        "nickel": "complementary",
-        "histoire coloniale": "complementary",
-        "calédoniens": "core",
         "kanak": "core",
-        "espace schengen": "doubtful",
-        "océan pacifique": "doubtful",
+        "nickel": "core",
+        "lagon calédonien": "core",
+        "iles loyauté": "core",
+        "province sud": "core",
+        "province nord": "core",
+        "province des iles": "core",
+        "accord de nouméa": "core",
+        "drapeau calédonien": "core",
+        "océan pacifique": "core",
         "collectivité d'outre-mer": "complementary",
         "peuple autochtone": "complementary",
         "collectivité territoriale en france": "complementary",
         "souveraineté": "complementary",
-        "sui generis": "complementary"
+        "sui generis": "complementary",
+        "économie calédonienne": "doubtful",
+        "nouvelle-calédonie wikipédia": "doubtful",
+        "nouvelle calédonie dom ou tom": "doubtful",
+        "nouvelle calédonienne": "doubtful"
     }
 }

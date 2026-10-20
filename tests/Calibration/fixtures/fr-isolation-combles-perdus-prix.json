@@ -1,7 +1,7 @@
 {
     "expression": "isolation combles perdus prix",
     "lang": "fr",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "laine de verre",
-        "laine de roche",
         "ouate de cellulose",
-        "épaisseur isolation",
-        "résistance thermique",
-        "isolation écologique",
-        "coût isolation combles",
-        "aide financière isolation"
+        "isolant en vrac",
+        "performance thermique",
+        "prix isolation combles",
+        "pose isolant combles",
+        "aides financières isolation",
+        "réglementation thermique 2023"
     ],
     "suggestions": {
         "bing": [
@@ -104,46 +104,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche echappement"
-            ],
-            [
-                2,
-                "laine de roche isolation"
-            ],
-            [
-                3,
-                "laine de roche echappement moto"
-            ],
-            [
-                4,
-                "laine de roche cheminée"
-            ],
-            [
-                5,
-                "laine de roche isolation échappement moto"
-            ],
-            [
-                6,
-                "laine de roche moto"
-            ],
-            [
-                7,
-                "laine de roche isolation thermique"
-            ],
-            [
-                8,
-                "laine de roche en vrac"
-            ],
-            [
-                9,
-                "laine de roche hydroponie"
-            ],
-            [
-                0,
                 "ouate de cellulose"
             ],
             [
@@ -181,30 +141,6 @@
             [
                 9,
                 "ouate de cellulose panneau"
-            ],
-            [
-                0,
-                "résistance thermique"
-            ],
-            [
-                1,
-                "résistance thermique 3300 thermomix"
-            ],
-            [
-                2,
-                "résistance thermique pour spa power"
-            ],
-            [
-                3,
-                "résistance thermique ghd"
-            ],
-            [
-                4,
-                "résistance thermique 3300"
-            ],
-            [
-                5,
-                "résistance thermique 3300 thermomix 19 90"
             ]
         ],
         "bing": [
@@ -258,54 +194,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche rockwool"
-            ],
-            [
-                2,
-                "laine de roche 200mm"
-            ],
-            [
-                3,
-                "laine de roche 100 mm"
-            ],
-            [
-                4,
-                "laine de roche 45mm"
-            ],
-            [
-                5,
-                "laine de roche 40 mm"
-            ],
-            [
-                6,
-                "laine de roche 140 mm"
-            ],
-            [
-                7,
-                "laine de roche soufflée"
-            ],
-            [
-                8,
-                "laine de roche 300 mm"
-            ],
-            [
-                9,
-                "laine de roche 120mm"
-            ],
-            [
-                10,
-                "laine de roche ou laine de verre"
-            ],
-            [
-                11,
-                "laine de roche leroy merlin"
-            ],
-            [
-                0,
                 "ouate de cellulose"
             ],
             [
@@ -354,155 +242,123 @@
             ],
             [
                 0,
-                "épaisseur isolation intérieure mur"
+                "isolant en vrac"
             ],
             [
                 1,
-                "épaisseur isolation extérieure"
+                "isolant en vrac pour combles"
             ],
             [
                 2,
-                "épaisseur isolation comble"
+                "isolant en vrac pour plancher"
             ],
             [
                 3,
-                "épaisseur isolation intérieure"
+                "isolant en vrac toiture"
             ],
             [
                 4,
-                "épaisseur isolation phonique"
-            ],
-            [
-                5,
-                "épaisseur isolation mur extérieur"
-            ],
-            [
-                6,
-                "epaisseur isolation + placo"
-            ],
-            [
-                7,
-                "épaisseur isolation"
-            ],
-            [
-                8,
-                "epaisseur isolation laine de verre"
-            ],
-            [
-                9,
-                "épaisseur isolation toiture"
+                "isolant en vrac fiche technique"
             ],
             [
                 0,
-                "résistance thermique"
+                "performance thermique"
             ],
             [
                 1,
-                "résistance thermique formule"
+                "performance thermique ud"
             ],
             [
                 2,
-                "résistance thermique unité"
+                "performance thermique uw"
             ],
             [
                 3,
-                "résistance thermique ba13"
+                "performance thermique fenetre"
             ],
             [
                 4,
-                "résistance thermique laine de verre"
+                "performance thermique sw"
             ],
             [
                 5,
-                "résistance thermique polystyrène"
+                "performance thermique ug"
             ],
             [
                 6,
-                "résistance thermique conduction"
+                "performance thermique tlw"
             ],
             [
                 7,
-                "résistance thermique polyuréthane"
+                "performance thermique porte entrée"
             ],
             [
                 8,
-                "résistance thermique béton"
+                "performance thermique menuiserie uw"
             ],
             [
                 9,
-                "résistance thermique isolant"
+                "performance thermique vitrage"
             ],
             [
                 10,
-                "résistance thermique laine de bois"
+                "performance thermique ug uw"
             ],
             [
                 11,
-                "résistance thermique laine de roche"
+                "performance thermique vitrage uw"
             ],
             [
                 0,
-                "isolation écologique"
+                "prix isolation combles"
             ],
             [
                 1,
-                "isolation écologique conteneur"
+                "prix isolation combles au m2"
             ],
             [
                 2,
-                "isolation ecologique maison"
+                "prix isolation combles perdus"
             ],
             [
                 3,
-                "isolation ecologique combles"
+                "prix isolation combles perdus 100m2"
             ],
             [
                 4,
-                "isolation ecologique interieur"
+                "prix isolation combles par soufflage"
             ],
             [
                 5,
-                "isolation ecologique toiture"
+                "prix isolation combles laine de roche"
             ],
             [
                 6,
-                "mp isolation écologique"
+                "prix isolation combles 100m2"
             ],
             [
                 7,
-                "bourbon isolation ecologique avis"
+                "prix isolation combles aménageables"
+            ],
+            [
+                8,
+                "prix isolation combles perdus laine de roche"
+            ],
+            [
+                9,
+                "prix isolation combles perdus par soufflage"
             ],
             [
                 0,
-                "coût isolation combles"
-            ],
-            [
-                1,
-                "coût isolation combles perdus"
-            ],
-            [
-                2,
-                "coût isolation combles au m2"
-            ],
-            [
-                3,
-                "coût isolation combles aménageables"
+                "aides financières isolation extérieure"
             ],
             [
                 0,
-                "aide financière isolation"
+                "réglementation thermique 2025"
             ],
             [
                 1,
-                "aide financière isolation maison"
-            ],
-            [
-                2,
-                "aide financière isolation extérieure"
-            ],
-            [
-                3,
-                "aide financière isolation thermique"
+                "réglementation thermique 2024"
             ]
         ],
         "duckduckgo": [
@@ -540,38 +396,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche 200mm"
-            ],
-            [
-                2,
-                "laine de roche rockwool"
-            ],
-            [
-                3,
-                "laine de roche 100 mm"
-            ],
-            [
-                4,
-                "laine de roche 40 mm"
-            ],
-            [
-                5,
-                "laine de roche 140 mm"
-            ],
-            [
-                6,
-                "laine de roche soufflée"
-            ],
-            [
-                7,
-                "laine de roche 45mm"
-            ],
-            [
-                0,
                 "ouate de cellulose"
             ],
             [
@@ -604,131 +428,99 @@
             ],
             [
                 0,
-                "épaisseur isolation intérieure mur"
+                "isolant en vrac"
             ],
             [
                 1,
-                "épaisseur isolation extérieure"
+                "isolant en vrac pour combles"
             ],
             [
                 2,
-                "épaisseur isolation comble"
+                "isolant en vrac pour plancher"
             ],
             [
                 3,
-                "épaisseur isolation intérieure"
+                "isolant en vrac toiture"
             ],
             [
                 4,
-                "épaisseur isolation phonique"
-            ],
-            [
-                5,
-                "épaisseur isolation mur extérieur"
-            ],
-            [
-                6,
-                "epaisseur isolation + placo"
-            ],
-            [
-                7,
-                "épaisseur isolation"
+                "isolant en vrac fiche technique"
             ],
             [
                 0,
-                "résistance thermique"
+                "performance thermique"
             ],
             [
                 1,
-                "résistance thermique formule"
+                "performance thermique ud"
             ],
             [
                 2,
-                "résistance thermique unité"
+                "performance thermique uw"
             ],
             [
                 3,
-                "résistance thermique ba13"
+                "performance thermique fenetre"
             ],
             [
                 4,
-                "résistance thermique laine de verre"
+                "performance thermique sw"
             ],
             [
                 5,
-                "résistance thermique polystyrène"
+                "performance thermique ug"
             ],
             [
                 6,
-                "résistance thermique conduction"
+                "performance thermique tlw"
             ],
             [
                 7,
-                "résistance thermique polyuréthane"
+                "performance thermique porte entrée"
             ],
             [
                 0,
-                "isolation écologique"
+                "prix isolation combles au m2"
             ],
             [
                 1,
-                "isolation écologique conteneur"
+                "prix isolation combles"
             ],
             [
                 2,
-                "isolation ecologique maison"
+                "prix isolation combles perdus 100m2"
             ],
             [
                 3,
-                "isolation ecologique combles"
+                "prix isolation combles perdus"
             ],
             [
                 4,
-                "isolation ecologique interieur"
+                "prix isolation combles par soufflage"
             ],
             [
                 5,
-                "isolation ecologique toiture"
+                "prix isolation combles laine de roche"
             ],
             [
                 6,
-                "mp isolation écologique"
+                "prix isolation combles aménageables"
             ],
             [
                 7,
-                "bourbon isolation ecologique avis"
+                "prix isolation combles 100m2"
             ],
             [
                 0,
-                "coût isolation combles"
-            ],
-            [
-                1,
-                "coût isolation combles perdus"
-            ],
-            [
-                2,
-                "coût isolation combles au m2"
-            ],
-            [
-                3,
-                "coût isolation combles aménageables"
+                "aides financières isolation extérieure"
             ],
             [
                 0,
-                "aide financière isolation"
+                "réglementation thermique 2025"
             ],
             [
                 1,
-                "aide financière isolation maison"
-            ],
-            [
-                2,
-                "aide financière isolation extérieure"
-            ],
-            [
-                3,
-                "aide financière isolation thermique"
+                "réglementation thermique 2024"
             ]
         ],
         "ebay": [
@@ -780,46 +572,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche 100mm"
-            ],
-            [
-                2,
-                "laine de roche 200mm"
-            ],
-            [
-                3,
-                "laine de roche ou laine de verre"
-            ],
-            [
-                4,
-                "laine de roche 45 mm"
-            ],
-            [
-                5,
-                "laine de roche rockwool"
-            ],
-            [
-                6,
-                "laine de roche echappement"
-            ],
-            [
-                7,
-                "laine de roche leroy merlin"
-            ],
-            [
-                8,
-                "laine de roche soufflée"
-            ],
-            [
-                9,
-                "laine de roche prix m2"
-            ],
-            [
-                0,
                 "ouate de cellulose"
             ],
             [
@@ -860,203 +612,195 @@
             ],
             [
                 0,
-                "épaisseur isolation mur intérieur"
+                "isolant en vrac"
             ],
             [
                 1,
-                "épaisseur isolation extérieure"
+                "isolant en vrac pour combles"
             ],
             [
                 2,
-                "épaisseur isolation toiture"
+                "isolant en vrac brico dépôt"
             ],
             [
                 3,
-                "épaisseur isolation mur extérieur"
+                "isolant en vrac pour mur"
             ],
             [
                 4,
-                "épaisseur isolation mur rt 2020"
+                "isolant en vrac fibre de cellulose"
             ],
             [
                 5,
-                "épaisseur isolation comble rt 2020"
+                "isolant en vrac leroy merlin"
             ],
             [
                 6,
-                "épaisseur isolation phonique mur intérieur"
+                "isolant en vrac pour sol"
             ],
             [
                 7,
-                "épaisseur isolation"
+                "isolant en vrac fibre de bois"
             ],
             [
                 8,
-                "épaisseur isolation combles"
+                "isolant en vrac cellulose"
             ],
             [
                 9,
-                "épaisseur isolation intérieur"
+                "isolant en vrac pour plancher"
             ],
             [
                 0,
-                "résistance thermique"
+                "performance thermique fenetre"
             ],
             [
                 1,
-                "résistance thermique unité"
+                "performance thermique"
             ],
             [
                 2,
-                "résistance thermique laine de bois"
+                "performance thermique ud"
             ],
             [
                 3,
-                "résistance thermique laine de verre"
+                "performance thermique uw"
             ],
             [
                 4,
-                "résistance thermique siporex 20 cm"
+                "performance thermique porte entrée"
             ],
             [
                 5,
-                "résistance thermique isolant"
+                "performance thermique fenetre uw"
             ],
             [
                 6,
-                "résistance thermique laine de verre 100mm"
+                "performance thermique laine de verre"
             ],
             [
                 7,
-                "résistance thermique formule"
+                "performance thermique volet roulant"
             ],
             [
                 8,
-                "résistance thermique r"
+                "performance thermique porte"
             ],
             [
                 9,
-                "résistance thermique laine de bois 100 mm"
+                "performance thermique double vitrage"
             ],
             [
                 0,
-                "isolation écologique"
+                "prix isolation combles"
             ],
             [
                 1,
-                "isolation écologique toiture"
+                "prix isolation combles perdus 100m2"
             ],
             [
                 2,
-                "isolation écologique combles"
+                "prix isolation combles m2"
             ],
             [
                 3,
-                "isolation écologique mur intérieur"
+                "prix isolation combles par soufflage"
             ],
             [
                 4,
-                "isolation écologique par l extérieur"
+                "prix isolation combles perdus"
             ],
             [
                 5,
-                "isolation écologique livre"
+                "prix isolation combles 50m2"
             ],
             [
                 6,
-                "isolation écologique 57"
+                "prix isolation combles 100m2"
             ],
             [
                 7,
-                "isolation écologique plafond"
+                "prix isolation combles perdus par soufflage"
             ],
             [
                 8,
-                "isolation écologique sol"
+                "prix isolation combles laine de verre"
             ],
             [
                 9,
-                "isolation ecologique interieur"
+                "prix isolation combles ouate de cellulose"
             ],
             [
                 0,
-                "coût isolation combles"
+                "pose isolant combles perdus"
             ],
             [
                 1,
-                "coût isolation combles perdus"
+                "pose isolant comble"
             ],
             [
                 2,
-                "coût isolation combles soufflage"
+                "pose isolant toiture"
             ],
             [
                 3,
-                "cout isolation combles m2"
+                "pose isolant toiture plate"
             ],
             [
                 4,
-                "cout isolation combles aménagés"
+                "pose isolation comble amenageable"
             ],
             [
                 5,
-                "cout isolation combles perdus au m2"
-            ],
-            [
-                6,
-                "cout isolation combles ouate de cellulose"
-            ],
-            [
-                7,
-                "cout isolation combles perdus soufflage"
-            ],
-            [
-                8,
-                "cout isolation combles laine de verre"
-            ],
-            [
-                9,
-                "cout isolation combles perdus ouate cellulose"
+                "prix pose isolation combles perdus"
             ],
             [
                 0,
-                "aide financière isolation maison"
+                "aides financières isolation"
             ],
             [
                 1,
-                "aide financière isolation"
+                "aides financières isolation combles"
             ],
             [
                 2,
-                "aide financiere isolation exterieur"
+                "aides financières isolation extérieure"
             ],
             [
                 3,
+                "aides financieres isolation maison"
+            ],
+            [
+                4,
+                "aides travaux isolation"
+            ],
+            [
+                5,
+                "aides travaux isolation 2025"
+            ],
+            [
+                6,
+                "aides travaux isolation murs extérieurs"
+            ],
+            [
+                7,
+                "aide travaux isolation 2026"
+            ],
+            [
+                8,
                 "aide financiere isolation toiture"
             ],
             [
-                4,
-                "aide financière isolation 2025"
-            ],
-            [
-                5,
-                "aide financiere isolation interieur"
-            ],
-            [
-                6,
-                "aide financière isolation combles"
-            ],
-            [
-                7,
-                "aide financiere isolation phonique"
-            ],
-            [
-                8,
-                "aide financiere isolation murs exterieurs"
-            ],
-            [
                 9,
-                "aide financière isolation thermique"
+                "aide travaux isolation copropriété"
+            ],
+            [
+                0,
+                "normes isolation thermique 2023"
+            ],
+            [
+                1,
+                "réglementation thermique bâtiment existant 2023"
             ]
         ],
         "yahoo": [
@@ -1102,46 +846,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche rockwool"
-            ],
-            [
-                2,
-                "laine de roche leroy merlin"
-            ],
-            [
-                3,
-                "laine de roche soufflée"
-            ],
-            [
-                4,
-                "laine de roche prix"
-            ],
-            [
-                5,
-                "laine de roche castorama"
-            ],
-            [
-                6,
-                "laine de roche danger"
-            ],
-            [
-                7,
-                "laine de roche ou laine de verre"
-            ],
-            [
-                8,
-                "laine de roche brico dépôt"
-            ],
-            [
-                9,
-                "laine de roche isover"
-            ],
-            [
-                0,
                 "ouate de céllulose"
             ],
             [
@@ -1182,103 +886,71 @@
             ],
             [
                 0,
-                "épaisseur isolation mur intérieur"
+                "isolant en vrac pour combles"
             ],
             [
                 1,
-                "épaisseur isolation mur extérieur"
+                "isolant en vrac brico dépôt"
             ],
             [
                 2,
-                "épaisseur isolation placo"
+                "isolant en vrac pour plancher"
+            ],
+            [
+                0,
+                "performance thermique uw"
+            ],
+            [
+                1,
+                "performance thermique fenêtre"
+            ],
+            [
+                2,
+                "chape isolante performance thermique"
             ],
             [
                 3,
-                "épaisseur isolation combles perdus"
-            ],
-            [
-                4,
-                "épaisseur isolation par l'extérieur"
-            ],
-            [
-                5,
-                "épaisseur isolation comble aménageable"
-            ],
-            [
-                6,
-                "épaisseur isolation laine de verre"
-            ],
-            [
-                7,
-                "épaisseur isolation toiture rt 2020"
+                "performance isolation thermique"
             ],
             [
                 0,
-                "résistance thermique"
+                "prix isolation combles"
             ],
             [
                 1,
-                "résistance thermique des matériaux"
+                "prix isolation combles maison"
             ],
             [
                 2,
-                "résistance thermique laine-de-verre"
+                "prix isolation combles perdus 100m2"
             ],
             [
                 3,
-                "résistance thermique laine-de-roche"
-            ],
-            [
-                4,
-                "résistance thermique des isolants"
-            ],
-            [
-                5,
-                "résistance thermique polystyrène"
-            ],
-            [
-                6,
-                "résistance thermique polyuréthane"
-            ],
-            [
-                7,
-                "résistance thermique parpaing"
-            ],
-            [
-                8,
-                "résistance thermique du bois"
-            ],
-            [
-                9,
-                "résistance thermique rt 2012"
+                "prix isolation combles par soufflage"
             ],
             [
                 0,
-                "isolation écologique"
+                "pose isolant combles perdus"
+            ],
+            [
+                0,
+                "aides isolation maison"
             ],
             [
                 1,
-                "isolation écologique des murs intérieurs"
+                "aides isolation thermique"
             ],
             [
                 2,
-                "bombe isolation écologique"
+                "aides isolation des combles"
+            ],
+            [
+                3,
+                "aides isolation par l'extérieur"
             ],
             [
                 0,
-                "coût isolation combles"
-            ],
-            [
-                1,
-                "coût isolation combles au m2"
-            ],
-            [
-                2,
-                "coût isolation des combles"
-            ],
-            [
-                0,
-                "aide financière isolation maison"
+                "réglementation thermique actuel 2023"
             ]
         ],
         "youtube": [
@@ -1324,46 +996,6 @@
             ],
             [
                 0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche echappement"
-            ],
-            [
-                2,
-                "laine de roche soufflée"
-            ],
-            [
-                3,
-                "laine de roche ou laine de verre"
-            ],
-            [
-                4,
-                "laine de roche plafond"
-            ],
-            [
-                5,
-                "laine de roche comble"
-            ],
-            [
-                6,
-                "laine de roche rockwool"
-            ],
-            [
-                7,
-                "laine de roche pot d'échappement"
-            ],
-            [
-                8,
-                "laine de roche ou laine de bois"
-            ],
-            [
-                9,
-                "laine de roche a epandre"
-            ],
-            [
-                0,
                 "ouate de cellulose"
             ],
             [
@@ -1404,218 +1036,216 @@
             ],
             [
                 0,
-                "épaisseur isolation mur intérieur"
-            ],
-            [
-                1,
-                "rt 2020 épaisseur isolation mur"
+                "isolation en vrac"
             ],
             [
                 0,
-                "résistance thermique"
+                "tronçonneuse parkside performance thermique"
+            ],
+            [
+                0,
+                "pose isolant combles perdus"
             ],
             [
                 1,
-                "resistance thermique cylindrique"
+                "pose isolant toiture"
             ],
             [
                 2,
-                "resistance thermique isolant"
+                "pose isolant toiture plate"
             ],
             [
                 3,
-                "resistance thermique exercices corrigés"
-            ],
-            [
-                4,
-                "resistance ciment thermique kerastase"
-            ],
-            [
-                5,
-                "calcul resistance thermique"
-            ],
-            [
-                6,
-                "kerastase resistance thermique"
-            ],
-            [
-                7,
-                "calculer la résistance thermique d'une paroi"
-            ],
-            [
-                0,
-                "isolation écologique"
+                "pose isolation comble amenageable"
             ]
         ]
     },
     "wikipedia": {
         "articles": [
             {
-                "title": "Combles",
-                "views": 200,
-                "counted": false,
-                "fromConcept": false,
-                "coverage": 0.261
-            },
-            {
                 "title": "Isolation thermique du bâtiment",
-                "views": 407,
+                "views": 391,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.391
             },
             {
                 "title": "Lost : Les Disparus",
-                "views": 15592,
+                "views": 15136,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.217
             },
             {
-                "title": "Résistance thermique",
-                "views": 1421,
+                "title": "Combles",
+                "views": 190,
+                "counted": true,
+                "fromConcept": false,
+                "coverage": 0.261
+            },
+            {
+                "title": "Laine de verre",
+                "views": 988,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
-                "title": "Laine de roche",
-                "views": 1280,
+                "title": "Ouate de cellulose",
+                "views": 604,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             }
         ],
-        "sections": 8,
+        "sections": 13,
         "types": []
     },
     "pages": [
         {
-            "group": "Matériaux d'isolation",
+            "group": "Types d'isolants",
             "title": "ouate de cellulose",
             "intent": "commercial",
             "keywords": [
                 "ouate de cellulose",
-                "isolation écologique",
                 "ouate de cellulose isolation",
-                "ouate de cellulose en vrac",
-                "frein vapeur",
                 "ouate de cellulose panneau",
                 "ouate de cellulose soufflée",
-                "isolation projetée"
+                "ouate de cellulose en vrac",
+                "ouate de cellulose danger"
             ]
         },
         {
-            "group": "Matériaux d'isolation",
+            "group": "Types d'isolants",
             "title": "laine de verre",
             "intent": "commercial",
             "keywords": [
                 "laine de verre",
-                "laine de roche ou laine de verre",
-                "laine minérale",
-                "résistance thermique laine-de-verre",
-                "laine de verre 100mm"
+                "aérogel",
+                "convection",
+                "isolation phonique",
+                "laine de verre 200mm",
+                "laine de verre 200 mm",
+                "laine de verre 100mm",
+                "laine de verre 300 mm",
+                "laine de verre soufflée"
             ]
         },
         {
-            "group": "Matériaux d'isolation",
-            "title": "laine de roche",
-            "intent": "commercial",
-            "keywords": [
-                "laine de roche",
-                "laine de roche 200mm",
-                "laine de roche rockwool",
-                "laine de roche soufflée",
-                "isolation soufflée"
-            ]
-        },
-        {
-            "group": "Coûts et aides",
+            "group": "Prix et devis",
             "title": "isolation combles perdus prix m2",
             "intent": "commercial",
             "keywords": [
                 "isolation combles perdus prix m2",
-                "coût isolation combles perdus",
-                "performance énergétique",
-                "coût isolation combles",
-                "coût isolation combles au m2"
+                "prix isolation combles perdus 100m2",
+                "prix isolation combles par soufflage",
+                "prix isolation combles au m2",
+                "prix au m²",
+                "prix isolation combles perdus par soufflage"
             ]
         },
         {
-            "group": "Coûts et aides",
-            "title": "aide financière isolation maison",
-            "intent": "informational",
+            "group": "Prix et devis",
+            "title": "prix isolation combles",
+            "intent": "commercial",
             "keywords": [
-                "aide financière isolation maison",
-                "aide financière isolation"
+                "prix isolation combles",
+                "chauffage",
+                "consommation énergétique des bâtiments",
+                "aides financières isolation extérieure",
+                "aides financières",
+                "ouate de cellulose prix"
+            ]
+        },
+        {
+            "group": "Isolants en vrac",
+            "title": "isolant en vrac pour combles",
+            "intent": "commercial",
+            "keywords": [
+                "isolant en vrac pour combles",
+                "isolant en vrac",
+                "isolant en vrac pour plancher",
+                "isolant en vrac brico dépôt"
+            ]
+        },
+        {
+            "group": "Pose et installation",
+            "title": "pose isolant combles perdus",
+            "intent": "transactional",
+            "keywords": [
+                "pose isolant combles perdus",
+                "pose isolant toiture",
+                "pose isolant toiture plate",
+                "pose isolation comble amenageable"
             ]
         },
         {
             "group": "Performance thermique",
-            "title": "résistance thermique",
+            "title": "isolation combles perdus que choisir",
             "intent": "informational",
             "keywords": [
-                "résistance thermique",
-                "resistance thermique isolant",
-                "résistance thermique unité"
+                "isolation combles perdus que choisir",
+                "laine de verre ou laine de roche",
+                "laine minérale"
             ]
         },
         {
-            "group": "Épaisseurs et techniques",
-            "title": "épaisseur isolation mur intérieur",
+            "group": "Performance thermique",
+            "title": "performance thermique fenetre",
             "intent": "informational",
             "keywords": [
-                "épaisseur isolation extérieure"
-            ]
-        },
-        {
-            "group": "Épaisseurs et techniques",
-            "title": "épaisseur isolation combles perdus",
-            "intent": "informational",
-            "keywords": [
-                "épaisseur isolation combles perdus"
+                "diagnostic de performance énergétique",
+                "niveau d'isolation thermique d'un bâtiment",
+                "transfert_thermique"
             ]
         }
     ],
     "categories": {
         "laine de verre": "core",
-        "laine de roche": "core",
         "ouate de cellulose": "core",
-        "résistance thermique": "core",
         "isolation combles perdus prix m2": "core",
-        "isolation écologique": "complementary",
-        "coût isolation combles": "commercial",
-        "épaisseur isolation mur intérieur": "doubtful",
+        "prix isolation combles": "core",
+        "pose isolant combles perdus": "commercial",
         "ouate de cellulose panneau": "core",
-        "aide financière isolation maison": "core",
-        "laine de roche rockwool": "core",
+        "prix isolation combles perdus 100m2": "core",
+        "isolant en vrac pour combles": "core",
+        "performance thermique fenetre": "doubtful",
+        "performance thermique uw": "doubtful",
         "ouate de cellulose isolation": "core",
-        "coût isolation combles au m2": "commercial",
-        "laine de roche ou laine de verre": "complementary",
-        "laine de roche soufflée": "core",
         "ouate de cellulose soufflée": "core",
-        "résistance thermique laine-de-verre": "core",
-        "épaisseur isolation mur extérieur": "doubtful",
         "laine de verre 100mm": "core",
-        "resistance thermique isolant": "core",
-        "aide financière isolation": "complementary",
-        "coût isolation combles perdus": "commercial",
-        "épaisseur isolation extérieure": "complementary",
+        "prix isolation combles par soufflage": "core",
+        "isolant en vrac": "core",
+        "laine de verre ou laine de roche": "complementary",
+        "performance thermique": "doubtful",
+        "aides financières isolation extérieure": "commercial",
+        "prix isolation combles au m2": "complementary",
+        "isolant en vrac pour plancher": "complementary",
         "ouate de cellulose en vrac": "complementary",
-        "laine de roche 200mm": "complementary",
-        "résistance thermique unité": "complementary",
-        "épaisseur isolation combles perdus": "complementary",
+        "performance thermique ud": "doubtful",
+        "isolant en vrac brico dépôt": "commercial",
+        "pose isolant toiture": "commercial",
+        "laine de verre 200mm": "complementary",
+        "pose isolant toiture plate": "commercial",
+        "laine de verre 300 mm": "complementary",
+        "pose isolation comble amenageable": "commercial",
+        "prix isolation combles perdus par soufflage": "complementary",
+        "laine de verre 200 mm": "complementary",
+        "laine de verre soufflée": "complementary",
+        "ouate de cellulose prix": "commercial",
+        "isolation combles perdus que choisir": "complementary",
+        "ouate de cellulose danger": "complementary",
         "laine minérale": "complementary",
-        "épaisseur isolation": "doubtful",
-        "frein vapeur": "complementary",
-        "isolation soufflée": "complementary",
-        "isolation projetée": "complementary",
-        "performance énergétique": "complementary",
-        "département français": "doubtful",
-        "région française": "doubtful",
-        "commune": "doubtful",
-        "somme": "doubtful",
-        "hauts-de-france": "doubtful",
-        "laine de roche echappement": "doubtful"
+        "prix au m²": "commercial",
+        "aides financières": "commercial",
+        "transfert_thermique": "complementary",
+        "bâtiments publics": "doubtful",
+        "convection": "complementary",
+        "chauffage": "complementary",
+        "niveau d'isolation thermique d'un bâtiment": "complementary",
+        "diagnostic de performance énergétique": "complementary",
+        "isolation phonique": "complementary",
+        "aérogel": "complementary",
+        "consommation énergétique des bâtiments": "complementary"
     }
 }

@@ -1,7 +1,7 @@
 {
     "expression": "recette tajine poulet citron confit",
     "lang": "fr",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "tajine marocain",
-        "épices tajine",
+        "ingrédients tajine poulet",
         "cuisson tajine",
-        "citron confit maison",
-        "olives pour tajine",
-        "recette traditionnelle",
-        "plat marocain",
-        "cuisine maghrébine"
+        "épices tajine marocain",
+        "accompagnement tajine",
+        "tajine poulet olives",
+        "tajine poulet temps cuisson",
+        "tajine poulet sans citron confit",
+        "origine tajine marocain"
     ],
     "suggestions": {
         "bing": [
@@ -61,176 +61,16 @@
         "amazon": [
             [
                 0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocaine"
-            ],
-            [
-                2,
-                "tajine marocain induction"
-            ],
-            [
-                3,
-                "tajine marocain terre cuite"
-            ],
-            [
-                4,
-                "tajine marocain tout feux"
-            ],
-            [
-                5,
-                "tajine marocain xxl"
-            ],
-            [
-                6,
-                "tajine marocain individuel"
-            ],
-            [
-                7,
-                "tajine marocain maquillage"
-            ],
-            [
-                8,
-                "tajine marocain inox"
-            ],
-            [
-                0,
-                "épices tajine"
-            ],
-            [
-                1,
-                "épices tajine marocain"
-            ],
-            [
-                0,
                 "cuisson tajine"
             ],
             [
                 0,
-                "recette traditionnelle"
-            ],
-            [
-                0,
-                "plat marocain"
-            ],
-            [
-                1,
-                "plat marocain terre cuite"
-            ],
-            [
-                2,
-                "plat marocain couscous"
-            ],
-            [
-                3,
-                "plat marocain 40 cm"
-            ],
-            [
-                4,
-                "plat marocain grand"
-            ],
-            [
-                5,
-                "plat marocain bleu"
-            ],
-            [
-                6,
-                "plat marocain céramique"
-            ],
-            [
-                7,
-                "plat marocain multicolore"
-            ],
-            [
-                8,
-                "plat marocain en terre"
-            ],
-            [
-                0,
-                "cuisine maghrebine"
+                "épices tajine marocain"
             ]
         ],
         "bing": [
             [
                 0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain poulet"
-            ],
-            [
-                2,
-                "tajine marocain agneau"
-            ],
-            [
-                3,
-                "tajine marocain recette"
-            ],
-            [
-                4,
-                "tajine marocain légumes"
-            ],
-            [
-                5,
-                "tajine marocain poulet amandes"
-            ],
-            [
-                6,
-                "tajine marocain poulet pruneaux"
-            ],
-            [
-                7,
-                "tajine marocain aux fruits secs"
-            ],
-            [
-                8,
-                "tajine marocain viande"
-            ],
-            [
-                9,
-                "tajine marocain traditionnelle"
-            ],
-            [
-                10,
-                "tajine marocain poulet légumes"
-            ],
-            [
-                0,
-                "épices tajine"
-            ],
-            [
-                1,
-                "epices tajine poulet"
-            ],
-            [
-                2,
-                "épices tajine composition"
-            ],
-            [
-                3,
-                "épices tajine ducros"
-            ],
-            [
-                4,
-                "tajine de poulet aux épices"
-            ],
-            [
-                5,
-                "epices pour tajine"
-            ],
-            [
-                6,
-                "épices à tajine"
-            ],
-            [
-                7,
-                "epices à tajine"
-            ],
-            [
-                0,
                 "cuisson tajine"
             ],
             [
@@ -255,180 +95,68 @@
             ],
             [
                 0,
-                "citron confit maison"
+                "épices pour tajine marocain"
             ],
             [
                 1,
-                "faire citron confit maison"
+                "tajine marocain poulet épices"
             ],
             [
                 0,
-                "recette traditionnelle"
+                "accompagnement tajine"
             ],
             [
                 1,
-                "recette traditionnelle française"
+                "accompagnement tajine agneau"
             ],
             [
                 2,
-                "recette traditionnelle italienne"
+                "accompagnement tajine poulet"
             ],
             [
                 3,
-                "recette traditionnelle clafoutis"
-            ],
-            [
-                4,
-                "recette traditionnelle de soupe"
-            ],
-            [
-                5,
-                "recette traditionnelle de tarte"
-            ],
-            [
-                6,
-                "recette traditionnelle lasagnes"
-            ],
-            [
-                7,
-                "recette traditionnelle d osso bucco"
-            ],
-            [
-                8,
-                "recette traditionnelle de gratin"
-            ],
-            [
-                9,
-                "recette traditionnelle de crêpes"
-            ],
-            [
-                10,
-                "recette traditionnelle de ragoût"
-            ],
-            [
-                11,
-                "recette traditionnelle française facile"
+                "accompagnement tajine poulet citron confit"
             ],
             [
                 0,
-                "plat marocain"
+                "tajine poulet olives"
             ],
             [
                 1,
-                "plat marocain traditionnel"
+                "tajine poulet olives citron"
             ],
             [
                 2,
-                "plat marocain 6 lettres"
+                "tajine poulet olives citron confit"
             ],
             [
                 3,
-                "plat marocain rfissa"
+                "tajine poulet olives facile"
             ],
             [
                 4,
-                "plat marocain pastilla"
+                "tajine de poulet aux olives"
             ],
             [
                 5,
-                "plat marocain sefa"
+                "recette tajine poulet citron olives"
             ],
             [
                 6,
-                "plat marocain cheveux d'ange"
-            ],
-            [
-                7,
-                "plat marocain vermicelle"
-            ],
-            [
-                8,
-                "plat marocain oeuf"
-            ],
-            [
-                9,
-                "plat marocain tajine"
-            ],
-            [
-                10,
-                "plat marocain pigeon"
-            ],
-            [
-                11,
-                "plat marocain msemen"
+                "tajine poulet aux olives"
             ],
             [
                 0,
-                "cuisine maghrébine"
+                "temps de cuisson tajine poulet"
+            ],
+            [
+                0,
+                "tajine poulet citron confit marocaine"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "tajine marocain"
-            ],
-            [
-                1,
-                "tajine marocain poulet"
-            ],
-            [
-                2,
-                "tajine marocain agneau"
-            ],
-            [
-                3,
-                "tajine marocain recette"
-            ],
-            [
-                4,
-                "tajine marocain légumes"
-            ],
-            [
-                5,
-                "tajine marocain poulet amandes"
-            ],
-            [
-                6,
-                "tajine marocain poulet pruneaux"
-            ],
-            [
-                7,
-                "tajine marocain aux fruits secs"
-            ],
-            [
-                0,
-                "épices tajine"
-            ],
-            [
-                1,
-                "epices tajine poulet"
-            ],
-            [
-                2,
-                "épices tajine composition"
-            ],
-            [
-                3,
-                "épices tajine ducros"
-            ],
-            [
-                4,
-                "tajine de poulet aux épices"
-            ],
-            [
-                5,
-                "epices pour tajine"
-            ],
-            [
-                6,
-                "épices à tajine"
-            ],
-            [
-                7,
-                "epices à tajine"
-            ],
-            [
-                0,
                 "cuisson tajine"
             ],
             [
@@ -453,161 +181,105 @@
             ],
             [
                 0,
-                "citron confit maison"
+                "épices pour tajine marocain"
             ],
             [
                 1,
-                "faire citron confit maison"
+                "tajine marocain poulet épices"
             ],
             [
                 0,
-                "recette traditionnelle"
+                "accompagnement tajine"
             ],
             [
                 1,
-                "recette traditionnelle française"
+                "accompagnement tajine agneau"
             ],
             [
                 2,
-                "recette traditionnelle italienne"
+                "accompagnement tajine poulet"
             ],
             [
                 3,
-                "recette traditionnelle clafoutis"
-            ],
-            [
-                4,
-                "recette traditionnelle de soupe"
-            ],
-            [
-                5,
-                "recette traditionnelle de tarte"
-            ],
-            [
-                6,
-                "recette traditionnelle lasagnes"
-            ],
-            [
-                7,
-                "recette traditionnelle d osso bucco"
+                "accompagnement tajine poulet citron confit"
             ],
             [
                 0,
-                "plat marocain"
+                "tajine poulet olives"
             ],
             [
                 1,
-                "plat marocain traditionnel"
+                "tajine poulet olives citron"
             ],
             [
                 2,
-                "plat marocain 6 lettres"
+                "tajine poulet olives citron confit"
             ],
             [
                 3,
-                "plat marocain rfissa"
+                "tajine poulet olives facile"
             ],
             [
                 4,
-                "plat marocain pastilla"
+                "tajine de poulet aux olives"
             ],
             [
                 5,
-                "plat marocain sefa"
+                "recette tajine poulet citron olives"
             ],
             [
                 6,
-                "plat marocain cheveux d'ange"
-            ],
-            [
-                7,
-                "plat marocain vermicelle"
+                "tajine poulet aux olives"
             ],
             [
                 0,
-                "cuisine maghrébine"
+                "temps de cuisson tajine poulet"
+            ],
+            [
+                0,
+                "tajine poulet citron confit marocaine"
             ]
         ],
         "google": [
             [
                 0,
-                "tajine marocain"
+                "ingrédients tajine poulet"
             ],
             [
                 1,
-                "tajine marocain recette"
+                "ingredients tajine poulet citron"
             ],
             [
                 2,
-                "tajine marocain poulet"
+                "recettes tajine poulet"
             ],
             [
                 3,
-                "tajine marocain traditionnel"
+                "recettes tajine poulet citron confit"
             ],
             [
                 4,
-                "tajine marocain agneau"
+                "recettes tajine poulet legumes"
             ],
             [
                 5,
-                "tajine marocain kefta pomme de terre"
+                "recettes tajine poulet citron"
             ],
             [
                 6,
-                "tajine marocain aux pruneaux"
+                "recettes tajine poulet olives"
             ],
             [
                 7,
-                "tajine marocain legume"
+                "recettes tajine poulet abricots amandes"
             ],
             [
                 8,
-                "tajine marocain maquillage"
+                "recettes tajine poulet pruneaux"
             ],
             [
                 9,
-                "tajine marocain ou algerien"
-            ],
-            [
-                0,
-                "épices tajine"
-            ],
-            [
-                1,
-                "épices tajine poulet"
-            ],
-            [
-                2,
-                "épices tajine agneau"
-            ],
-            [
-                3,
-                "épices tajine poulet citron confit"
-            ],
-            [
-                4,
-                "épices tajine composition"
-            ],
-            [
-                5,
-                "épices tajine légumes"
-            ],
-            [
-                6,
-                "épices tajine agneau pruneaux"
-            ],
-            [
-                7,
-                "épices tajine maison"
-            ],
-            [
-                8,
-                "epices tajine poulet citron"
-            ],
-            [
-                9,
-                "epices tajine marocain"
+                "recettes tajine poulet citron olives"
             ],
             [
                 0,
@@ -651,217 +323,157 @@
             ],
             [
                 0,
-                "citron confit maison pour tajine"
+                "epices tajine marocain"
             ],
             [
                 1,
-                "citron confit maison"
+                "épices tajine composition"
             ],
             [
                 2,
-                "citron confit maison pour tajine rapide"
+                "épices tajine poulet marocain"
+            ],
+            [
+                0,
+                "accompagnement tajine poulet"
+            ],
+            [
+                1,
+                "accompagnement tajine"
+            ],
+            [
+                2,
+                "accompagnement tajine agneau"
             ],
             [
                 3,
-                "citron confit maison rapide"
+                "accompagnement tajine kefta"
             ],
             [
                 4,
-                "citron confit maison sucre"
+                "accompagnement tajine poulet citron"
             ],
             [
                 5,
-                "citron confit maison conservation"
+                "accompagnement tajine poulet citron olives"
             ],
             [
                 6,
-                "citron confit maison express"
+                "accompagnement tajine poulet citron confit"
             ],
             [
                 7,
-                "citron confit maison lamotte"
+                "accompagnement tajine tunisien"
             ],
             [
                 8,
-                "citron confit maison marocain"
+                "accompagnement tajine marocain"
             ],
             [
                 9,
-                "citrons confits maison à l'huile"
+                "accompagnement tajine agneau pruneaux"
             ],
             [
                 0,
-                "olives pour tajine"
+                "tajine poulet olives marocain"
             ],
             [
                 1,
-                "quelles olives pour tajine"
+                "tajine poulet olives"
             ],
             [
                 2,
-                "quelles olives pour tajine poulet"
+                "tajine poulet olives citron confit"
             ],
             [
                 3,
-                "olives vertes pour tajine"
-            ],
-            [
-                0,
-                "recette traditionnelle clafoutis"
-            ],
-            [
-                1,
-                "recette traditionnelle de confiture de mûres"
-            ],
-            [
-                2,
-                "recette traditionnelle tian légumes"
-            ],
-            [
-                3,
-                "recette traditionnelle madeleine moelleuse"
+                "tajine poulet olives citron"
             ],
             [
                 4,
-                "recette traditionnelle crème aux œufs"
+                "tajine poulet olives pomme de terre"
             ],
             [
                 5,
-                "recette traditionnelle"
+                "tajine poulet olives cookeo"
             ],
             [
                 6,
-                "recette traditionnelle feijoada portugaise"
+                "tajine poulet olives vertes"
             ],
             [
                 7,
-                "recette traditionnelle clafoutis flan"
+                "tajine poulet olives noires"
             ],
             [
                 8,
-                "recette traditionnelle gâteau de savoie marmiton"
+                "tajine poulet olives frites"
             ],
             [
                 9,
-                "recette traditionnelle caramel au beurre salé"
+                "tajine poulet olives citron confit pommes de terre"
             ],
             [
                 0,
-                "plat marocain"
+                "tajine poulet temps cuisson"
             ],
             [
                 1,
-                "plat marocain rfissa"
+                "tajine poulet olive temps de cuisson"
             ],
             [
                 2,
-                "plat marocain liste"
+                "tajine poulet au four temps de cuisson"
             ],
             [
                 3,
-                "plat marocain oeuf tomate"
+                "temps cuisson tajine poulet cocotte minute"
             ],
             [
                 4,
-                "plat marocain pastilla"
-            ],
-            [
-                5,
-                "plat marocain avec msemen"
-            ],
-            [
-                6,
-                "plat marocain connu"
-            ],
-            [
-                7,
-                "plat marocain 6 lettres"
-            ],
-            [
-                8,
-                "plat marocain pigeon"
-            ],
-            [
-                9,
-                "plat marocain vermicelle poulet"
+                "temps cuisson tajine poulet citron"
             ],
             [
                 0,
-                "cuisine maghrébine"
+                "tajine poulet sans citron confit"
             ],
             [
                 1,
-                "cuisine maghrébine recettes"
+                "tajine poulet olive sans citron confit"
             ],
             [
                 2,
-                "restaurant cuisine maghrébine"
+                "tajine poulet citron confit sans four"
             ],
             [
                 3,
-                "meilleure cuisine maghrébine"
+                "tajine poulet citron confit sans plat à tajine"
             ],
             [
-                4,
-                "livre cuisine maghrébine"
+                0,
+                "tajine origine marocaine"
+            ],
+            [
+                1,
+                "origine tajine maroc"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "tajine marocain"
+                "ingredients tajine poulet citron"
             ],
             [
                 1,
-                "tajine marocain au poulet"
+                "ingredients tajine poulet pruneaux"
             ],
             [
                 2,
-                "tajine marocain recette"
+                "ingredients tajine poulet abricot"
             ],
             [
                 3,
-                "tajine marocain agneau"
-            ],
-            [
-                4,
-                "tajine marocain traditionnelle"
-            ],
-            [
-                5,
-                "tajine marocain marmiton"
-            ],
-            [
-                6,
-                "tajine marocain amazon"
-            ],
-            [
-                7,
-                "tajine marocain frites"
-            ],
-            [
-                8,
-                "tajine marocain youtube"
-            ],
-            [
-                9,
-                "tajine marocain au veau"
-            ],
-            [
-                0,
-                "épices tajine"
-            ],
-            [
-                1,
-                "épices tajine maison"
-            ],
-            [
-                2,
-                "liste des épices tajines"
-            ],
-            [
-                3,
-                "composition épices tajine"
+                "ingredients tajine poulet aux olives"
             ],
             [
                 0,
@@ -881,177 +493,141 @@
             ],
             [
                 0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "faire citron confit maison"
-            ],
-            [
-                2,
-                "recette citron confit maison"
+                "épices pour tajine marocain"
             ],
             [
                 0,
-                "olives pour tajine poulet"
+                "accompagnement tajine"
             ],
             [
                 1,
-                "olives pour tajine d'agneau"
+                "accompagnement tajine poulet citron"
             ],
             [
                 2,
-                "olives pour tajine marocain"
+                "accompagnement tajine agneau"
             ],
             [
                 3,
-                "olives pour tajine tunisien"
-            ],
-            [
-                0,
-                "recette traditionnelle"
-            ],
-            [
-                1,
-                "recette traditionnelle de limoncello"
-            ],
-            [
-                2,
-                "recette traditionnelle de grand mère"
-            ],
-            [
-                3,
-                "recette traditionnelle de la paella"
+                "accompagnement tajine poulet"
             ],
             [
                 4,
-                "recette traditionnelle française"
-            ],
-            [
-                5,
-                "recette traditionnelle du couscous"
-            ],
-            [
-                6,
-                "recette traditionnelle blanquette de veau"
-            ],
-            [
-                7,
-                "recette traditionnelle du cassoulet"
-            ],
-            [
-                8,
-                "recette traditionnelle croque monsieur"
-            ],
-            [
-                9,
-                "recette traditionnelle de la tartiflette"
+                "vin accompagnement tajine poulet"
             ],
             [
                 0,
-                "plat marocain"
+                "tajine poulet olives"
             ],
             [
                 1,
-                "plat marocain facile"
+                "tajine poulet olives citron"
             ],
             [
                 2,
-                "plat marocain fissa fissa"
+                "tajine poulet olives pommes de terre"
             ],
             [
                 3,
-                "plat marocain sfa"
+                "tajine poulet olives vertes"
             ],
             [
                 4,
-                "plat marocain pastilla"
+                "tajine poulet olives marocain"
             ],
             [
                 5,
-                "plat marocain pattes de boeuf"
-            ],
-            [
-                6,
-                "plat marocain traditionnel"
-            ],
-            [
-                7,
-                "plat marocain poulet vermicelle"
-            ],
-            [
-                8,
-                "plat marocain en 6 lettres"
-            ],
-            [
-                9,
-                "plat marocain sefa"
+                "tajine poulet olives citron confit"
             ],
             [
                 0,
-                "cuisine maghrébines"
+                "tajine poulet temps cuisson oeuf dur"
             ],
             [
                 1,
-                "cuisine maghrébine‏"
+                "tajine poulet temps cuisson poulet"
             ],
             [
                 2,
-                "cuisine maghrebine rousse"
+                "tajine poulet temps cuisson oeuf coque"
             ],
             [
                 3,
-                "cuisine maghrebine x"
+                "tajine poulet temps cuisson asperges"
+            ],
+            [
+                0,
+                "tajine poulet sans citron confit recette"
+            ],
+            [
+                1,
+                "tajine poulet sans citron confit au sel"
+            ],
+            [
+                2,
+                "tajine poulet sans citron confit sucré"
+            ],
+            [
+                3,
+                "tajine poulet sans citron confit express"
+            ],
+            [
+                0,
+                "origine tajine marocain au poulet"
+            ],
+            [
+                1,
+                "origine tajine marocain recette"
+            ],
+            [
+                2,
+                "origine tajine marocaine"
+            ],
+            [
+                3,
+                "origine tajine marocain agneau"
             ]
         ],
         "youtube": [
             [
                 0,
-                "tajine marocain"
+                "recettes tajine poulet"
             ],
             [
                 1,
-                "tajine marocain poulet"
+                "recette tajine poulet olives"
             ],
             [
                 2,
-                "tajine marocain viande"
+                "recette tajine poulet tunisien"
             ],
             [
                 3,
-                "tajine marocain agneau"
+                "recette tajine poulet legumes marocaine"
             ],
             [
                 4,
-                "tajine marocain legume"
+                "recette tajine poulet pomme de terre"
             ],
             [
                 5,
-                "tajine marocain boeuf"
+                "recette tajine poulet olives marocain"
             ],
             [
                 6,
-                "tajine marocain kefta"
+                "recette tajine poulet citron confit"
             ],
             [
                 7,
-                "tajine marocain pruneaux"
+                "recette tajine poulet pruneaux"
             ],
             [
                 8,
-                "tajine marocain poisson"
+                "recette tajine poulet abricot"
             ],
             [
                 9,
-                "tajine marocain viande hachée"
-            ],
-            [
-                0,
-                "epices tajine"
-            ],
-            [
-                1,
-                "épices pour tajine"
+                "recette tajine poulet raisin sec oignon"
             ],
             [
                 0,
@@ -1083,95 +659,47 @@
             ],
             [
                 0,
-                "citron confit maison"
-            ],
-            [
-                1,
-                "comment faire du citron confit maison"
+                "accompagnement tajine"
             ],
             [
                 0,
-                "recette traditionnelle française"
+                "tajine poulet olives"
             ],
             [
                 1,
-                "recette traditionnelle algérienne"
+                "tajine poulet olives pomme de terre"
             ],
             [
                 2,
-                "recette traditionnelle"
+                "tajine poulet olives marocain"
             ],
             [
                 3,
-                "recette traditionnelle tartiflette"
+                "tajine poulet olives citron"
             ],
             [
                 4,
-                "recette traditionnelle kabyle"
+                "tajine poulet olives frites"
             ],
             [
                 5,
-                "recette traditionnelle tiramisu"
+                "tajine poulet olives choumicha"
             ],
             [
                 6,
-                "recette traditionnelle marocaine"
+                "tajine poulet olives cookeo"
             ],
             [
                 7,
-                "recette traditionnelle cassoulet"
+                "tajine poulet olives citron confit"
             ],
             [
                 8,
-                "recette traditionnelle tunisienne"
+                "tajine poulet olives carottes"
             ],
             [
                 9,
-                "recette traditionnelle carbonara"
-            ],
-            [
-                0,
-                "plat marocain"
-            ],
-            [
-                1,
-                "plat marocain rfissa"
-            ],
-            [
-                2,
-                "plat marocain pour invité"
-            ],
-            [
-                3,
-                "plat marocain rapide"
-            ],
-            [
-                4,
-                "plat marocain facile"
-            ],
-            [
-                5,
-                "plat marocain facile et rapide"
-            ],
-            [
-                6,
-                "plat marocain viande pruneaux"
-            ],
-            [
-                7,
-                "plat marocain tajine"
-            ],
-            [
-                8,
-                "plat marocain poulet"
-            ],
-            [
-                9,
-                "plat marocain tanjia"
-            ],
-            [
-                0,
-                "cuisine maghrébine"
+                "tajine poulet olives champignon"
             ]
         ]
     },
@@ -1179,31 +707,24 @@
         "articles": [
             {
                 "title": "Citron confit au sel",
-                "views": 127,
+                "views": 123,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.387
             },
             {
                 "title": "Poulet au citron",
-                "views": 236,
+                "views": 228,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.387
             },
             {
                 "title": "Tajine",
-                "views": 4127,
+                "views": 3984,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.194
-            },
-            {
-                "title": "Cuisine maghrébine",
-                "views": 318,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
             }
         ],
         "sections": 4,
@@ -1212,139 +733,145 @@
     "pages": [
         {
             "group": "Recettes de tajine",
-            "title": "recette tajine poulet citron confit olives",
+            "title": "recette tajine poulet citron confit",
             "intent": "informational",
             "keywords": [
+                "recettes tajine poulet",
+                "recette tajine poulet citron confit cyril lignac",
+                "tajine poulet citron confit marocaine",
                 "recette tajine poulet citron confit olives",
-                "recette traditionnelle",
-                "accompagnement semoule",
-                "oignon émincé",
-                "olives vertes",
+                "tajine poulet olives citron confit",
                 "recette tajine poulet olive citron confit marocaine",
+                "recette tajine poulet citron confit olives vertes",
                 "recette tajine poulet citron confit abricot",
                 "recette tajine poulet citron confit legumes"
             ]
         },
         {
             "group": "Recettes de tajine",
-            "title": "tajine marocain poulet",
+            "title": "recette tajine poulet olives",
             "intent": "informational",
             "keywords": [
-                "tajine marocain poulet",
-                "poulet fermier",
-                "epices tajine poulet"
+                "recette tajine poulet olives",
+                "tajine poulet olives",
+                "olives",
+                "tajine poulet olives citron",
+                "tajine poulet olives marocain",
+                "tajine poulet olives pomme de terre",
+                "tajine poulet olives vertes"
             ]
         },
         {
             "group": "Recettes de tajine",
-            "title": "tajine marocain agneau",
+            "title": "tajine poulet sans citron confit",
             "intent": "informational",
             "keywords": [
-                "tajine marocain agneau",
-                "cuisson tajine agneau"
+                "tajine poulet sans citron confit",
+                "tajine poulet sans citron confit recette"
             ]
         },
         {
-            "group": "Recettes de tajine",
-            "title": "tajine marocain légumes",
-            "intent": "informational",
-            "keywords": [
-                "tajine marocain légumes"
-            ]
-        },
-        {
-            "group": "Cuisine marocaine",
-            "title": "plat marocain",
-            "intent": "informational",
-            "keywords": [
-                "plat marocain",
-                "cuisine maghrebine",
-                "plat marocain rfissa",
-                "plat marocain pastilla",
-                "plat marocain facile",
-                "plat marocain traditionnel"
-            ]
-        },
-        {
-            "group": "Cuisine marocaine",
-            "title": "tajine marocain",
-            "intent": "informational",
-            "keywords": [
-                "tajine marocain",
-                "tajine marocain recette"
-            ]
-        },
-        {
-            "group": "Ingrédients",
-            "title": "épices tajine",
-            "intent": "informational",
-            "keywords": [
-                "épices tajine",
-                "épices ras el hanout",
-                "épices tajine composition",
-                "épices tajine maison"
-            ]
-        },
-        {
-            "group": "Ingrédients",
-            "title": "citron confit maison",
-            "intent": "informational",
-            "keywords": [
-                "citron confit maison",
-                "faire citron confit maison"
-            ]
-        },
-        {
-            "group": "Techniques de cuisson",
+            "group": "Cuisson du tajine",
             "title": "cuisson tajine",
             "intent": "informational",
             "keywords": [
                 "cuisson tajine",
-                "cuisson lente",
-                "cuisson tajine au four",
                 "cuisson tajine en terre cuite",
-                "terre cuite"
+                "tajine en terre cuite",
+                "cuisson tajine agneau",
+                "temps de cuisson tajine poulet"
+            ]
+        },
+        {
+            "group": "Cuisson du tajine",
+            "title": "cuisson tajine au four",
+            "intent": "informational",
+            "keywords": [
+                "cuisson tajine au four",
+                "cuisson tajine au four température"
+            ]
+        },
+        {
+            "group": "Accompagnements",
+            "title": "accompagnement tajine",
+            "intent": "informational",
+            "keywords": [
+                "accompagnement tajine",
+                "semoule",
+                "accompagnement tajine agneau",
+                "accompagnement tajine poulet",
+                "accompagnement tajine poulet citron",
+                "accompagnement tajine poulet citron confit"
+            ]
+        },
+        {
+            "group": "Ingrédients",
+            "title": "ingredients tajine poulet citron",
+            "intent": "informational",
+            "keywords": [
+                "ingredients tajine poulet citron",
+                "coriandre",
+                "huile d'olive",
+                "oignon",
+                "épices tajine marocain",
+                "tajine marocain poulet épices",
+                "safran",
+                "épices ras el hanout",
+                "ingrédients tajine poulet"
+            ]
+        },
+        {
+            "group": "Origine et culture",
+            "title": "tajine origine marocaine",
+            "intent": "informational",
+            "keywords": [
+                "tajine origine marocaine",
+                "origine tajine marocain au poulet"
             ]
         }
     ],
     "categories": {
-        "cuisine maghrebine": "complementary",
-        "plat marocain": "core",
-        "tajine marocain": "core",
-        "épices tajine": "core",
         "cuisson tajine": "core",
         "recette tajine poulet citron confit olives": "core",
-        "recette traditionnelle": "core",
-        "citron confit maison": "core",
-        "tajine marocain poulet": "core",
-        "tajine marocain recette": "core",
-        "tajine marocain agneau": "complementary",
+        "épices tajine marocain": "core",
+        "accompagnement tajine": "core",
+        "tajine poulet olives": "core",
+        "tajine poulet olives citron": "core",
         "cuisson tajine au four": "core",
-        "cuisson tajine en terre cuite": "core",
-        "plat marocain rfissa": "complementary",
+        "cuisson tajine en terre cuite": "complementary",
+        "accompagnement tajine agneau": "complementary",
+        "accompagnement tajine poulet": "complementary",
+        "tajine poulet olives citron confit": "core",
+        "tajine poulet olives marocain": "complementary",
         "cuisson tajine agneau": "complementary",
-        "épices tajine composition": "core",
-        "plat marocain pastilla": "complementary",
-        "epices tajine poulet": "core",
-        "faire citron confit maison": "core",
-        "tajine marocain légumes": "complementary",
-        "plat marocain facile": "complementary",
+        "tajine poulet olives pomme de terre": "complementary",
+        "temps de cuisson tajine poulet": "complementary",
+        "ingredients tajine poulet citron": "core",
+        "recettes tajine poulet": "core",
+        "tajine origine marocaine": "complementary",
+        "tajine marocain poulet épices": "core",
+        "accompagnement tajine poulet citron": "complementary",
         "recette tajine poulet olive citron confit marocaine": "complementary",
-        "plat marocain traditionnel": "complementary",
         "recette tajine poulet citron confit abricot": "complementary",
+        "recette tajine poulet olives": "complementary",
         "recette tajine poulet citron confit legumes": "complementary",
-        "épices tajine maison": "complementary",
-        "poulet fermier": "core",
+        "recette tajine poulet citron confit olives vertes": "complementary",
+        "accompagnement tajine poulet citron confit": "complementary",
+        "cuisson tajine au four température": "complementary",
+        "tajine poulet olives vertes": "complementary",
+        "tajine poulet citron confit marocaine": "complementary",
+        "ingrédients tajine poulet": "complementary",
+        "origine tajine marocain au poulet": "complementary",
+        "recette tajine poulet citron confit cyril lignac": "complementary",
+        "tajine poulet sans citron confit": "complementary",
+        "tajine poulet sans citron confit recette": "complementary",
+        "oignon": "complementary",
+        "huile d'olive": "complementary",
+        "safran": "complementary",
+        "coriandre": "complementary",
+        "olives": "complementary",
+        "semoule": "complementary",
         "épices ras el hanout": "complementary",
-        "oignon émincé": "complementary",
-        "olives vertes": "complementary",
-        "cuisson lente": "complementary",
-        "terre cuite": "complementary",
-        "plat unique": "doubtful",
-        "saveurs méditerranéennes": "doubtful",
-        "accompagnement semoule": "complementary",
-        "lime": "doubtful",
-        "recette traditionnelle française": "doubtful",
-        "recette traditionnelle clafoutis": "doubtful"
+        "tajine en terre cuite": "core"
     }
 }

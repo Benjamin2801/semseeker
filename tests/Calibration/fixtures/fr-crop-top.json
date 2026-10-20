@@ -1,7 +1,7 @@
 {
     "expression": "crop top",
     "lang": "fr",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,10 @@
     ],
     "failed": [],
     "concepts": [
-        "haut court",
         "débardeur court",
         "t-shirt court",
-        "mode été",
-        "vêtement femme",
-        "style décontracté",
-        "tendance actuelle",
-        "coordonnée ensemble"
+        "haut court femme",
+        "haut court manches longues"
     ],
     "suggestions": {
         "amazon": [
@@ -37,8 +33,8 @@
             "crop top femme sexy"
         ],
         "bing": [
-            "crop top",
             "crop top femme",
+            "crop top",
             "crop top homme",
             "crop top noir femme",
             "crop top fille",
@@ -46,19 +42,19 @@
             "crop top noir",
             "crop top definition",
             "crop tops for women",
-            "crop top zara",
             "crop top men",
+            "crop top zara",
             "crop top crochet"
         ],
         "duckduckgo": [
             "crop top",
             "crop top femme",
             "crop top homme",
+            "crop top noir femme",
             "crop top fille",
-            "crop top blanc",
             "crop top noir",
-            "crop top definition",
-            "crop tops for women"
+            "crop top blanc",
+            "crop top definition"
         ],
         "ebay": [
             "crop top"
@@ -102,46 +98,6 @@
     },
     "related": {
         "amazon": [
-            [
-                0,
-                "haut court femme"
-            ],
-            [
-                1,
-                "haut court manche longue"
-            ],
-            [
-                2,
-                "haut court"
-            ],
-            [
-                3,
-                "haut court femme chic et elegant"
-            ],
-            [
-                4,
-                "haut court manche longue femme"
-            ],
-            [
-                5,
-                "haut court femme crop top"
-            ],
-            [
-                6,
-                "haut court femme crop top sexy"
-            ],
-            [
-                7,
-                "haut court sport femme"
-            ],
-            [
-                8,
-                "haut court sexy"
-            ],
-            [
-                9,
-                "haut court violet"
-            ],
             [
                 0,
                 "débardeur court femme"
@@ -224,100 +180,48 @@
             ],
             [
                 0,
-                "vêtement femme"
+                "haut court femme"
             ],
             [
                 1,
-                "vêtement femme grande taille"
+                "haut court femme chic et elegant"
             ],
             [
                 2,
-                "vêtement femme automne"
+                "haut court femme crop top"
             ],
             [
                 3,
-                "sous vêtement femme très sexy"
+                "haut court femme crop top sexy"
             ],
             [
                 4,
-                "vêtement femme guess"
+                "haut court femme manche longue dentelle"
             ],
             [
                 5,
-                "vêtement femme hiver"
+                "haut court femme sport rose"
             ],
             [
                 6,
-                "vêtement femme sexy chic"
+                "haut court femme chic"
             ],
             [
                 7,
-                "vêtement femme enceinte"
+                "haut court femme hiver"
             ],
             [
                 8,
-                "vêtement femme only"
+                "haut court femme manche longue"
             ],
             [
                 9,
-                "vêtement femme rose"
-            ],
-            [
-                0,
-                "tendance actuelle"
+                "haut court femme sport"
             ]
         ],
         "bing": [
             [
                 0,
-                "haut court"
-            ],
-            [
-                1,
-                "haut court moulant"
-            ],
-            [
-                2,
-                "haut court élégant"
-            ],
-            [
-                3,
-                "haut court en coton"
-            ],
-            [
-                4,
-                "haut court à manches"
-            ],
-            [
-                5,
-                "haut court décontracté"
-            ],
-            [
-                6,
-                "haut court femme"
-            ],
-            [
-                7,
-                "haut court blanc"
-            ],
-            [
-                8,
-                "haucourt-moulaine"
-            ],
-            [
-                9,
-                "haut court en dentelle"
-            ],
-            [
-                10,
-                "hautecourt romanèche"
-            ],
-            [
-                11,
-                "hautecourt"
-            ],
-            [
-                0,
                 "débardeur court femme"
             ],
             [
@@ -374,196 +278,60 @@
             ],
             [
                 0,
-                "mode été 2026"
-            ],
-            [
-                1,
-                "mode été 2026 femme"
-            ],
-            [
-                2,
-                "mode été"
-            ],
-            [
-                3,
-                "mode été 2025"
-            ],
-            [
-                4,
-                "mode été 2027"
-            ],
-            [
-                5,
-                "mode été 2026 couleur"
-            ],
-            [
-                6,
-                "mode été 2026 tendance"
-            ],
-            [
-                7,
-                "mode été 2026 accessoires"
-            ],
-            [
-                8,
-                "mode été 2026 homme"
-            ],
-            [
-                9,
-                "mode été 2025 femme"
-            ],
-            [
-                10,
-                "mode été 2026 femme 60 ans"
+                "haut court femme"
             ],
             [
                 0,
-                "vêtement femme"
+                "haut manches longues femme"
             ],
             [
                 1,
-                "vêtement femme grande taille"
+                "haut à manche longue"
             ],
             [
                 2,
-                "vêtement femme en ligne"
+                "haut manches longues homme"
             ],
             [
                 3,
-                "vêtement femme chic"
+                "haut femme manche longue"
             ],
             [
                 4,
-                "vêtement femme tendance"
+                "haut manche longue large"
             ],
             [
                 5,
-                "vêtement femme shein"
+                "haut manche courte femme"
             ],
             [
                 6,
-                "vêtement femme temu"
+                "haut blanc manches longues"
             ],
             [
                 7,
-                "vêtement femme 60 ans"
+                "haut manches longues dentelle"
             ],
             [
                 8,
-                "vêtement femme zara"
+                "haut sport manche longue"
             ],
             [
                 9,
-                "vêtement femme forte"
+                "haut technique à manches longues"
             ],
             [
                 10,
-                "vêtement femme chic et tendance"
+                "haut manche longue femme sport"
             ],
             [
                 11,
-                "vêtement femme grande taille moderne"
-            ],
-            [
-                0,
-                "style décontracté"
-            ],
-            [
-                1,
-                "style décontracté homme"
-            ],
-            [
-                2,
-                "style décontracté femme"
-            ],
-            [
-                3,
-                "style décontracté chic homme"
-            ],
-            [
-                4,
-                "style décontracté chic"
-            ],
-            [
-                5,
-                "style automne décontracté"
-            ],
-            [
-                0,
-                "tendance actuelle"
-            ],
-            [
-                1,
-                "tendance actuelle mode"
-            ],
-            [
-                2,
-                "tendances actuelles sur bing"
-            ],
-            [
-                3,
-                "tendance actuelle lunettes homme"
-            ],
-            [
-                4,
-                "tendance actuelle 2026"
-            ],
-            [
-                5,
-                "tendance actuelle en restauration"
-            ],
-            [
-                6,
-                "tendance actuelle du marché immobilier"
-            ],
-            [
-                7,
-                "supprimer tendance actuelle edge"
-            ],
-            [
-                8,
-                "dollar tendance actuelle"
-            ],
-            [
-                9,
-                "supprimer tendance actuelle"
+                "haut de sport femme manche longue"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "haut court"
-            ],
-            [
-                1,
-                "haut court moulant"
-            ],
-            [
-                2,
-                "haut court élégant"
-            ],
-            [
-                3,
-                "haut court en coton"
-            ],
-            [
-                4,
-                "haut court à manches"
-            ],
-            [
-                5,
-                "haut court décontracté"
-            ],
-            [
-                6,
-                "haut court femme"
-            ],
-            [
-                7,
-                "haut court blanc"
-            ],
-            [
-                0,
                 "débardeur court femme"
             ],
             [
@@ -620,192 +388,42 @@
             ],
             [
                 0,
-                "mode été 2026"
-            ],
-            [
-                1,
-                "mode été 2026 femme"
-            ],
-            [
-                2,
-                "mode été"
-            ],
-            [
-                3,
-                "mode été 2025"
-            ],
-            [
-                4,
-                "mode été 2027"
-            ],
-            [
-                5,
-                "mode été 2026 couleur"
-            ],
-            [
-                6,
-                "mode été 2026 tendance"
-            ],
-            [
-                7,
-                "mode été 2026 accessoires"
-            ],
-            [
-                0,
-                "vêtement femme"
-            ],
-            [
-                1,
-                "vêtement femme grande taille"
-            ],
-            [
-                2,
-                "vêtement femme chic"
-            ],
-            [
-                3,
-                "vêtement femme en ligne"
-            ],
-            [
-                4,
-                "vêtement femme tendance"
-            ],
-            [
-                5,
-                "vêtement femme shein"
-            ],
-            [
-                6,
-                "vêtement femme temu"
-            ],
-            [
-                7,
-                "vêtement femme 60 ans"
-            ],
-            [
-                0,
-                "style décontracté"
-            ],
-            [
-                1,
-                "style décontracté homme"
-            ],
-            [
-                2,
-                "style décontracté femme"
-            ],
-            [
-                3,
-                "style décontracté chic homme"
-            ],
-            [
-                4,
-                "style décontracté chic"
-            ],
-            [
-                5,
-                "style automne décontracté"
-            ],
-            [
-                0,
-                "tendance actuelle"
-            ],
-            [
-                1,
-                "tendance actuelle mode"
-            ],
-            [
-                2,
-                "tendances actuelles sur bing"
-            ],
-            [
-                3,
-                "tendance actuelle lunettes homme"
-            ],
-            [
-                4,
-                "tendance actuelle 2026"
-            ],
-            [
-                5,
-                "tendance actuelle en restauration"
-            ],
-            [
-                6,
-                "tendance actuelle du marché immobilier"
-            ],
-            [
-                7,
-                "supprimer tendance actuelle edge"
-            ]
-        ],
-        "ebay": [
-            [
-                0,
-                "vêtement femme"
-            ],
-            [
-                1,
-                "vêtement femme ancien"
-            ],
-            [
-                2,
-                "sous vêtement femme"
-            ],
-            [
-                3,
-                "sous vêtement sexy femme"
-            ],
-            [
-                4,
-                "costume vêtement d'époque femme"
-            ],
-            [
-                5,
-                "lot vêtement femme"
-            ]
-        ],
-        "google": [
-            [
-                0,
                 "haut court femme"
             ],
             [
+                0,
+                "haut manches longues femme"
+            ],
+            [
                 1,
-                "haut court"
+                "haut à manche longue"
             ],
             [
                 2,
-                "haut court femme chic"
+                "haut manches longues homme"
             ],
             [
                 3,
-                "haut court blanc"
+                "haut femme manche longue"
             ],
             [
                 4,
-                "haut court blanc femme"
+                "haut manche longue large"
             ],
             [
                 5,
-                "haut court femme zara"
+                "haut manche courte femme"
             ],
             [
                 6,
-                "haut court manche longue"
+                "haut blanc manches longues"
             ],
             [
                 7,
-                "haut court dentelle"
-            ],
-            [
-                8,
-                "haut court noir"
-            ],
-            [
-                9,
-                "haut court large femme"
-            ],
+                "haut manches longues dentelle"
+            ]
+        ],
+        "google": [
             [
                 0,
                 "débardeur court femme"
@@ -888,204 +506,86 @@
             ],
             [
                 0,
-                "mode été 2026 femme"
-            ],
-            [
-                1,
-                "mode été 2026 femme 60 ans"
-            ],
-            [
-                2,
-                "mode été 2026"
-            ],
-            [
-                3,
-                "mode été 2026 homme"
-            ],
-            [
-                4,
-                "mode été 2026 femme 50 ans"
-            ],
-            [
-                5,
-                "mode été"
-            ],
-            [
-                6,
-                "mode été homme"
-            ],
-            [
-                7,
-                "mode été fenêtre pvc"
-            ],
-            [
-                8,
-                "mode été/hiver chaudière gaz de dietrich"
-            ],
-            [
-                9,
-                "mode été 2027"
-            ],
-            [
-                0,
-                "vêtement femme"
-            ],
-            [
-                1,
-                "vêtement femme en ligne"
-            ],
-            [
-                2,
-                "vêtement femme pas cher"
-            ],
-            [
-                3,
-                "vêtement femme chic et tendance"
-            ],
-            [
-                4,
-                "vêtement femme chic"
-            ],
-            [
-                5,
-                "vêtement femme petite taille 1m50"
-            ],
-            [
-                6,
-                "vêtement femme grande taille"
-            ],
-            [
-                7,
-                "vêtement femme chic en ligne"
-            ],
-            [
-                8,
-                "vêtement femme grande taille chic"
-            ],
-            [
-                9,
-                "vêtement femme tendance"
-            ],
-            [
-                0,
-                "style décontracté"
-            ],
-            [
-                1,
-                "style décontracté homme"
-            ],
-            [
-                2,
-                "style décontracté femme"
-            ],
-            [
-                3,
-                "style décontracté chic"
-            ],
-            [
-                4,
-                "style décontracté chic homme"
-            ],
-            [
-                5,
-                "style décontracté chic femme"
-            ],
-            [
-                6,
-                "style décontracté homme mariage"
-            ],
-            [
-                7,
-                "style décontracté mariage"
-            ],
-            [
-                8,
-                "style décontracté été homme"
-            ],
-            [
-                0,
-                "tendance actuelle"
-            ],
-            [
-                1,
-                "tendance actuelle mode femme"
-            ],
-            [
-                2,
-                "tendance actuelle mode"
-            ],
-            [
-                3,
-                "tendance actuelle mode homme"
-            ],
-            [
-                4,
-                "tendance actuelle consommation"
-            ],
-            [
-                5,
-                "tendance actuelle salle de bain"
-            ],
-            [
-                6,
-                "tendance actuelle ongles"
-            ],
-            [
-                7,
-                "tendance actuelle peinture artistique"
-            ],
-            [
-                8,
-                "tendance actuelle bijoux"
-            ],
-            [
-                9,
-                "tendance actuelle lunettes femme"
-            ],
-            [
-                0,
-                "coordonner ensemble"
-            ],
-            [
-                1,
-                "coordonnées ensemble"
-            ],
-            [
-                2,
-                "coordination ensemble"
-            ],
-            [
-                3,
-                "ensemble coordonné femme"
-            ]
-        ],
-        "indeed": [
-            [
-                0,
-                "haute couture"
-            ],
-            [
-                1,
-                "harcourt"
-            ]
-        ],
-        "yahoo": [
-            [
-                0,
                 "haut court femme"
             ],
             [
                 1,
-                "haut court noir de marque"
+                "haut court femme chic"
             ],
             [
                 2,
-                "jupe taille haute et haut court"
+                "haut court femme zara"
             ],
             [
                 3,
-                "ensemble jogging femme le haut court"
+                "haut court femme manche longue"
             ],
+            [
+                4,
+                "haut court femme blanc"
+            ],
+            [
+                5,
+                "haut court femme dentelle"
+            ],
+            [
+                6,
+                "haut court femme noir"
+            ],
+            [
+                7,
+                "haut court femme habillé"
+            ],
+            [
+                8,
+                "haut court femme enceinte"
+            ],
+            [
+                9,
+                "haut court femme shein"
+            ],
+            [
+                0,
+                "haut court manches longues"
+            ],
+            [
+                1,
+                "top court manches longues"
+            ],
+            [
+                2,
+                "haut court manche longue femme"
+            ],
+            [
+                3,
+                "haut court manche longue sport"
+            ],
+            [
+                4,
+                "haut court manche longue noir"
+            ],
+            [
+                5,
+                "haut court à manches longues dri fit pour femme"
+            ],
+            [
+                6,
+                "top court manche longue blanc"
+            ],
+            [
+                7,
+                "top court manche longue noir"
+            ],
+            [
+                8,
+                "top court manche longue femme"
+            ],
+            [
+                9,
+                "top court manche longue zara"
+            ]
+        ],
+        "yahoo": [
             [
                 0,
                 "débardeur court"
@@ -1112,174 +612,54 @@
             ],
             [
                 0,
-                "mode été"
+                "haut femme"
             ],
             [
                 1,
-                "mode été 2026"
+                "haut court femme"
             ],
             [
                 2,
-                "mode été femme"
+                "haut femme chic"
             ],
             [
                 3,
-                "mode été homme"
+                "haut femme habillé"
             ],
             [
                 4,
-                "mode été hiver baie vitrée"
+                "haut femme original"
             ],
             [
                 5,
-                "mode été 2026 combinaison panthère"
+                "haut femme crochet"
             ],
             [
                 6,
-                "mode été 2025 prêt à porter féminin crochet"
+                "haut femme dentelle"
             ],
             [
                 7,
-                "mode été 2026 femme"
+                "haut femme rouge"
             ],
             [
                 8,
-                "mode été 2025 prêt à porter féminin"
+                "haut femme en lin"
             ],
             [
                 9,
-                "mode été 2024"
+                "haut femme shein"
             ],
             [
                 0,
-                "vêtement femme"
+                "haut court manches longues femme"
             ],
             [
                 1,
-                "vêtement femme grande taille"
-            ],
-            [
-                2,
-                "vêtement femme fashion"
-            ],
-            [
-                3,
-                "vêtement femme classe et chic"
-            ],
-            [
-                4,
-                "vêtement femme chic"
-            ],
-            [
-                5,
-                "vêtement femme ronde"
-            ],
-            [
-                6,
-                "vêtement femme en ligne"
-            ],
-            [
-                7,
-                "vêtement femme converse"
-            ],
-            [
-                8,
-                "vêtement femme mode"
-            ],
-            [
-                9,
-                "vêtement femme shein"
-            ],
-            [
-                0,
-                "style décontracté"
-            ],
-            [
-                1,
-                "style décontracté chic"
-            ],
-            [
-                2,
-                "housse de canapé style décontracté"
-            ],
-            [
-                3,
-                "style décontracté chic femme"
-            ],
-            [
-                4,
-                "style décontracté chic homme"
-            ],
-            [
-                0,
-                "tendance actuelle"
-            ],
-            [
-                1,
-                "tendance actuelle chemise homme mode"
-            ],
-            [
-                2,
-                "tendance actuelle 974 coiffure"
-            ],
-            [
-                3,
-                "tendance actuelle sur les mur en beige"
-            ],
-            [
-                4,
-                "tendance actuelle des visuels des agences de marketing digital"
-            ],
-            [
-                0,
-                "coordonnee ensemble nike"
-            ],
-            [
-                1,
-                "coordonnee ensemble lacoste"
-            ],
-            [
-                2,
-                "coordonnee ensemble tailleur"
-            ],
-            [
-                3,
-                "coordonnee ensemble femme"
+                "haut court manches longues ou 3/4"
             ]
         ],
         "youtube": [
-            [
-                0,
-                "haut court crochet"
-            ],
-            [
-                1,
-                "haut et court"
-            ],
-            [
-                2,
-                "haut et court film"
-            ],
-            [
-                3,
-                "haut manche courte crochet"
-            ],
-            [
-                4,
-                "la haut court metrage"
-            ],
-            [
-                5,
-                "haut et court distribution"
-            ],
-            [
-                6,
-                "haut les coeurs court metrage 2021"
-            ],
-            [
-                7,
-                "haut et court logo"
-            ],
             [
                 0,
                 "haut court crochet"
@@ -1307,122 +687,6 @@
             [
                 4,
                 "yuzi t shirt in court"
-            ],
-            [
-                0,
-                "mode été mode hiver fenêtre"
-            ],
-            [
-                1,
-                "mode été 2025"
-            ],
-            [
-                2,
-                "mode été 2026"
-            ],
-            [
-                3,
-                "mode été 2025 femme"
-            ],
-            [
-                4,
-                "tendance été 2025 femme"
-            ],
-            [
-                5,
-                "mode ete hiver tronçonneuse"
-            ],
-            [
-                6,
-                "mode ete"
-            ],
-            [
-                7,
-                "tendance été 2025"
-            ],
-            [
-                8,
-                "mode ete climatiseur"
-            ],
-            [
-                9,
-                "mode printemps été 2026"
-            ],
-            [
-                0,
-                "vêtement femme"
-            ],
-            [
-                1,
-                "vetement femme 2025"
-            ],
-            [
-                2,
-                "vetement femme 2024"
-            ],
-            [
-                3,
-                "vetement femme crochet"
-            ],
-            [
-                4,
-                "vetement femme enceinte"
-            ],
-            [
-                5,
-                "vetement femme ronde"
-            ],
-            [
-                6,
-                "vetement femme grande taille"
-            ],
-            [
-                7,
-                "vetement femme classe"
-            ],
-            [
-                8,
-                "vetement femme temu"
-            ],
-            [
-                9,
-                "veste femme"
-            ],
-            [
-                0,
-                "style décontracté homme"
-            ],
-            [
-                1,
-                "style décontracté femme"
-            ],
-            [
-                0,
-                "tendance actuelle"
-            ],
-            [
-                1,
-                "tendance actuelle musique"
-            ],
-            [
-                2,
-                "tendance actuelle 2025"
-            ],
-            [
-                3,
-                "tendances actuelles de la didactique de la discipline"
-            ],
-            [
-                4,
-                "mode actuelle"
-            ],
-            [
-                5,
-                "tendances actuelles de la didactique"
-            ],
-            [
-                6,
-                "tresses tendance actuelle"
             ]
         ]
     },
@@ -1430,7 +694,7 @@
         "articles": [
             {
                 "title": "Haut court",
-                "views": 478,
+                "views": 456,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -1441,133 +705,127 @@
     },
     "pages": [
         {
-            "group": "Types de Crop Tops",
+            "group": "Types de crop tops",
             "title": "crop top femme",
             "intent": "commercial",
             "keywords": [
                 "crop top femme",
-                "vêtement femme",
-                "crop top moulant",
-                "crop top sport",
+                "t-shirt court",
+                "t-shirt court femme",
+                "haut femme",
                 "crop top dentelle",
-                "crop top ample",
-                "crop top col v",
-                "crop top imprimé",
-                "crop top manches courtes",
-                "crop top uni",
                 "crop top blanc",
+                "crop top manche longue",
+                "haut manches longues femme",
+                "haut court manches longues ou 3/4",
+                "haut à manche longue",
                 "crop top noir",
-                "crop top crochet"
+                "crop top noir femme"
             ]
         },
         {
-            "group": "Types de Crop Tops",
+            "group": "Types de crop tops",
             "title": "crop top homme",
             "intent": "commercial",
             "keywords": [
                 "crop top homme",
+                "débardeur court",
                 "t-shirt court homme",
                 "débardeur court homme"
             ]
         },
         {
-            "group": "Types de Crop Tops",
+            "group": "Types de crop tops",
             "title": "crop top fille",
             "intent": "commercial",
             "keywords": [
-                "crop top fille"
+                "crop top fille",
+                "t-shirt court fille",
+                "crop top crochet fillette"
             ]
         },
         {
-            "group": "Hauts Courts",
-            "title": "haut court",
-            "intent": "informational",
+            "group": "Styles et occasions",
+            "title": "crop top sexy",
+            "intent": "commercial",
             "keywords": [
-                "haut court",
-                "t-shirt court",
-                "t-shirt court femme",
-                "débardeur court femme",
-                "débardeur court",
-                "haut court femme"
+                "crop top sexy",
+                "crop top moulant",
+                "haut court femme",
+                "haut court femme chic",
+                "haut court femme chic et elegant",
+                "t shirt court oversize"
             ]
         },
         {
-            "group": "Hauts Courts",
+            "group": "Styles et occasions",
+            "title": "crop top sport",
+            "intent": "commercial",
+            "keywords": [
+                "crop top sport",
+                "débardeur court femme",
+                "débardeur court blanc",
+                "débardeur court femme sport"
+            ]
+        },
+        {
+            "group": "Guides et conseils",
             "title": "crop top définition",
             "intent": "informational",
             "keywords": [
-                "crop top définition"
+                "crop top définition",
+                "haut court manches longues femme",
+                "haut court manches longues"
             ]
         },
         {
-            "group": "Styles et Tendances",
-            "title": "style décontracté",
+            "group": "Matériaux et designs",
+            "title": "crop top crochet",
             "intent": "informational",
             "keywords": [
-                "style décontracté",
-                "style décontracté chic",
-                "style décontracté chic homme",
-                "style décontracté homme",
-                "style décontracté femme"
-            ]
-        },
-        {
-            "group": "Styles et Tendances",
-            "title": "tendance actuelle",
-            "intent": "informational",
-            "keywords": [
-                "tendance actuelle",
-                "mode été 2026",
-                "mode été 2026 femme"
-            ]
-        },
-        {
-            "group": "Achat et Conseils",
-            "title": "vêtement femme en ligne",
-            "intent": "transactional",
-            "keywords": [
-                "vêtement femme en ligne",
-                "vêtement femme grande taille",
-                "vêtement femme chic"
+                "crop top crochet",
+                "crop top aloise sauvage",
+                "haut court crochet"
             ]
         }
     ],
     "categories": {
-        "vêtement femme": "core",
         "crop top femme": "core",
-        "tendance actuelle": "core",
         "t-shirt court": "core",
-        "crop top blanc": "core",
         "crop top homme": "core",
+        "crop top blanc": "core",
         "débardeur court femme": "core",
-        "débardeur court": "core",
-        "haut court": "core",
-        "t-shirt court femme": "core",
-        "vêtement femme grande taille": "commercial",
-        "mode été 2026": "core",
         "haut court femme": "core",
-        "style décontracté": "core",
+        "débardeur court": "core",
+        "t-shirt court femme": "core",
         "crop top fille": "core",
-        "style décontracté homme": "core",
-        "mode été": "doubtful",
         "crop top noir": "core",
-        "style décontracté femme": "core",
         "t-shirt court homme": "core",
-        "mode été 2026 femme": "complementary",
-        "style décontracté chic": "complementary",
-        "crop top définition": "complementary",
-        "vêtement femme en ligne": "commercial",
-        "vêtement femme chic": "commercial",
+        "crop top définition": "core",
+        "haut court manches longues femme": "core",
         "débardeur court homme": "complementary",
-        "style décontracté chic homme": "complementary",
+        "débardeur court femme sport": "complementary",
         "crop top crochet": "complementary",
+        "débardeur court blanc": "complementary",
+        "crop top manche longue": "complementary",
+        "haut court femme chic": "complementary",
+        "t shirt court oversize": "complementary",
+        "crop top aloise sauvage": "complementary",
+        "crop top sexy": "complementary",
+        "crop top noir femme": "complementary",
+        "crop top try on haul": "doubtful",
+        "haut manches longues femme": "complementary",
+        "crop top crochet fillette": "complementary",
+        "haut court crochet": "complementary",
+        "haut court manches longues": "complementary",
+        "haut femme": "complementary",
+        "haut à manche longue": "complementary",
+        "t-shirt court fille": "complementary",
+        "haut court femme chic et elegant": "complementary",
+        "haut court manches longues ou 3/4": "complementary",
         "crop top dentelle": "complementary",
-        "crop top manches courtes": "core",
-        "crop top col v": "core",
+        "crop top sport": "complementary",
         "crop top moulant": "complementary",
-        "crop top ample": "core",
-        "crop top imprimé": "core",
-        "crop top uni": "core",
-        "crop top sport": "complementary"
+        "marcel courthiade": "doubtful"
     }
 }

@@ -1,7 +1,7 @@
 {
     "expression": "how to tie a tie",
     "lang": "en",
-    "recorded": "2026-10-20",
+    "recorded": "2026-10-21",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "tie knot types",
-        "necktie tying steps",
-        "ascot tying guide",
-        "bow tie instructions",
-        "tie dimple creation",
-        "formal attire tips",
+        "four in hand knot",
+        "windsor knot",
+        "half windsor",
+        "tie dimple",
         "tie clip placement",
-        "tie length adjustment"
+        "silk tie care",
+        "ascot tying",
+        "bow tie vs necktie"
     ],
     "suggestions": {
         "amazon": [
@@ -32,18 +32,18 @@
             "how to tie a tie and other things my mother taught me"
         ],
         "bing": [
-            "how to tie a tie",
             "how to tie a tie easy",
+            "how to tie a tie",
             "how to tie a tie youtube",
             "how to tie a tie windsor",
             "how to tie a tie easily",
-            "how to tie a tie video",
             "how to tie a tie step by step",
+            "how to tie a tie video",
             "how to tie a tie jayson tatum",
             "how to tie a tie on your arm",
             "how to tie a tie simple",
-            "how to tie a tie wikihow",
             "how to tie a tie windsor knot",
+            "how to tie a tie wikihow",
             "how to tie a tie 2025",
             "how to tie a tie free",
             "how to tie a tie for kids",
@@ -106,137 +106,181 @@
         "amazon": [
             [
                 0,
-                "formal attire tops for women"
+                "windsor knot tie"
             ],
             [
                 1,
-                "formal attire tops"
+                "windsor knot"
+            ],
+            [
+                2,
+                "windsor knot book"
+            ],
+            [
+                3,
+                "windsor knot novel"
+            ],
+            [
+                4,
+                "windsor knot sj bennett"
+            ],
+            [
+                5,
+                "windsor knot clip on tie"
+            ],
+            [
+                0,
+                "half windsor tie"
+            ],
+            [
+                0,
+                "tie dimple clip"
+            ],
+            [
+                1,
+                "tie dimple maker"
+            ],
+            [
+                2,
+                "tie dimple"
             ]
         ],
         "bing": [
             [
                 0,
-                "tie knot types"
+                "four in hand knot"
             ],
             [
                 1,
-                "tie knots types rope"
+                "four in hand knot tie"
             ],
             [
                 2,
-                "tie knot styles"
+                "four in hand knot tips"
             ],
             [
                 3,
-                "standard tie knot types"
+                "four in hand knot steps"
             ],
             [
                 4,
-                "mass tie knot types"
+                "four in hand knot tutorial"
             ],
             [
                 5,
-                "tie rope knot types"
+                "four in hand knot variations"
             ],
             [
                 6,
-                "is tie a type of knot"
-            ],
-            [
-                0,
-                "tying a necktie step by step"
-            ],
-            [
-                0,
-                "bow tie instructions"
-            ],
-            [
-                1,
-                "bow tie instructions easy"
-            ],
-            [
-                2,
-                "bow tie diy instructions"
-            ],
-            [
-                3,
-                "tying bow tie instructions"
-            ],
-            [
-                4,
-                "bow tie quilt instructions"
-            ],
-            [
-                5,
-                "eton bow tie instructions"
-            ],
-            [
-                6,
-                "bow tie knot instructions"
+                "four in hand knot guide"
             ],
             [
                 7,
-                "adjustable bow tie instructions"
-            ],
-            [
-                0,
-                "formal attire top"
-            ],
-            [
-                1,
-                "formal attire psd"
-            ],
-            [
-                2,
-                "formal attire is required"
-            ],
-            [
-                3,
-                "formal attire is mandatory"
-            ],
-            [
-                4,
-                "formal attire is required for this event"
-            ],
-            [
-                5,
-                "formal attire template"
-            ],
-            [
-                6,
-                "formal attire template for men"
-            ],
-            [
-                7,
-                "formal attire traduzione"
+                "four in hand knot vs half windsor"
             ],
             [
                 8,
-                "formal attire template for women"
+                "four in hand knot vs windsor"
+            ],
+            [
+                0,
+                "windsor knot"
+            ],
+            [
+                1,
+                "windsor knot tie"
+            ],
+            [
+                2,
+                "windsor knot instructions"
+            ],
+            [
+                3,
+                "windsor knot step by step"
+            ],
+            [
+                4,
+                "windsor knot tie steps"
+            ],
+            [
+                5,
+                "windsor knot tutorial"
+            ],
+            [
+                6,
+                "windsor knot youtube"
+            ],
+            [
+                7,
+                "windsor knot video"
+            ],
+            [
+                8,
+                "windsor knot tie instructions"
+            ],
+            [
+                0,
+                "half windsor knot"
+            ],
+            [
+                1,
+                "half windsor"
+            ],
+            [
+                2,
+                "half windsor tie knot"
+            ],
+            [
+                3,
+                "half windsor vs full windsor"
+            ],
+            [
+                4,
+                "half windsor tie"
+            ],
+            [
+                5,
+                "half windsor knot tie instructions"
+            ],
+            [
+                6,
+                "half windsor knot diagram"
+            ],
+            [
+                7,
+                "half windsor diagram"
+            ],
+            [
+                8,
+                "half windsor vs four in hand"
             ],
             [
                 9,
-                "formal attire template png"
+                "half windsor knot instructions"
             ],
             [
                 10,
-                "formal attire template male"
+                "half windsor knot video tutorial"
             ],
             [
                 11,
-                "formal attire suit"
+                "half windsor knot tutorial"
             ],
             [
                 12,
-                "formal attire transparent background"
+                "half windsor knot vs full"
             ],
             [
                 13,
-                "formal attire template for id"
+                "half windsor knot vs full windsor"
             ],
             [
-                14,
-                "formal attire toowoomba"
+                0,
+                "tie dimple"
+            ],
+            [
+                1,
+                "tie dimple clip"
             ],
             [
                 0,
@@ -249,262 +293,554 @@
             [
                 2,
                 "proper tie clip placement"
+            ],
+            [
+                0,
+                "silk tie crafts"
+            ],
+            [
+                1,
+                "silk tie crossword"
+            ],
+            [
+                2,
+                "silk tie crossword clue"
+            ],
+            [
+                3,
+                "silk icare"
+            ],
+            [
+                4,
+                "silk tie company"
+            ],
+            [
+                5,
+                "silk tiered maxi dress"
+            ],
+            [
+                6,
+                "silk tie sale"
+            ],
+            [
+                7,
+                "silk tiered dress"
+            ],
+            [
+                8,
+                "silk tiered dress uk"
+            ],
+            [
+                9,
+                "silk tiered dress uk blue"
+            ],
+            [
+                10,
+                "silk tie scrap to jewellery"
+            ],
+            [
+                11,
+                "silk tie and pocket square set"
+            ],
+            [
+                12,
+                "silk tie and handkerchief set"
+            ],
+            [
+                13,
+                "silk tie hs code"
+            ],
+            [
+                14,
+                "silk tie easter eggs"
+            ],
+            [
+                0,
+                "ascot tying"
+            ],
+            [
+                1,
+                "ascot things to do"
+            ],
+            [
+                2,
+                "ascot tyres"
+            ],
+            [
+                3,
+                "ascot travel"
+            ],
+            [
+                4,
+                "ascot today"
+            ],
+            [
+                5,
+                "ascot trial"
+            ],
+            [
+                6,
+                "ascot tickets"
+            ],
+            [
+                7,
+                "ascot taxis"
+            ],
+            [
+                8,
+                "ascot train station"
+            ],
+            [
+                9,
+                "ascot travel services"
+            ],
+            [
+                0,
+                "bow tie vs necktie"
+            ],
+            [
+                1,
+                "difference between bow and bow tie"
+            ],
+            [
+                2,
+                "bowtie or bow tie"
+            ],
+            [
+                3,
+                "bow tie and tie"
+            ],
+            [
+                4,
+                "youtube how to tie a necktie bow"
+            ],
+            [
+                5,
+                "youtube how to tie a necktie bowtie"
+            ],
+            [
+                6,
+                "bow tie or tie for wedding"
+            ],
+            [
+                7,
+                "wearing a bow tie"
+            ],
+            [
+                8,
+                "how to tie bow tie"
+            ],
+            [
+                9,
+                "how to wear bow tie"
+            ],
+            [
+                10,
+                "bow ties for big necks"
+            ],
+            [
+                11,
+                "are bow ties in style"
+            ],
+            [
+                12,
+                "bow tie for women"
+            ],
+            [
+                13,
+                "bow tie neck dress"
+            ],
+            [
+                14,
+                "types of bow tie"
+            ],
+            [
+                15,
+                "how to do a bow tie"
+            ],
+            [
+                16,
+                "black tie vs bow tie"
+            ],
+            [
+                17,
+                "how to fit a bow tie"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "tie knot types"
+                "four in hand knot"
             ],
             [
                 1,
-                "tie knots types rope"
+                "four in hand knot tie"
             ],
             [
                 2,
-                "tie knot styles"
+                "four in hand knot tips"
             ],
             [
                 3,
-                "standard tie knot types"
+                "four in hand knot steps"
             ],
             [
                 4,
-                "mass tie knot types"
+                "four in hand knot tutorial"
             ],
             [
                 5,
-                "tie rope knot types"
+                "four in hand knot variations"
             ],
             [
                 6,
-                "is tie a type of knot"
-            ],
-            [
-                0,
-                "tying a necktie step by step"
-            ],
-            [
-                0,
-                "bow tie instructions"
-            ],
-            [
-                1,
-                "bow tie instructions easy"
-            ],
-            [
-                2,
-                "bow tie diy instructions"
-            ],
-            [
-                3,
-                "tying bow tie instructions"
-            ],
-            [
-                4,
-                "bow tie quilt instructions"
-            ],
-            [
-                5,
-                "eton bow tie instructions"
-            ],
-            [
-                6,
-                "bow tie knot instructions"
+                "four in hand knot guide"
             ],
             [
                 7,
-                "adjustable bow tie instructions"
+                "four in hand knot vs half windsor"
             ],
             [
                 0,
-                "formal attire top"
+                "windsor knot"
             ],
             [
                 1,
-                "formal attire psd"
+                "windsor knot tie"
             ],
             [
                 2,
-                "formal attire is required"
+                "windsor knot instructions"
             ],
             [
                 3,
-                "formal attire is mandatory"
+                "windsor knot step by step"
             ],
             [
                 4,
-                "formal attire is required for this event"
+                "windsor knot tie steps"
             ],
             [
                 5,
-                "formal attire template"
+                "windsor knot tutorial"
             ],
             [
                 6,
-                "formal attire template for men"
+                "windsor knot youtube"
             ],
             [
                 7,
-                "formal attire traduzione"
+                "windsor knot video"
             ],
             [
                 0,
-                "tie clip placement with jacket"
+                "half windsor knot"
             ],
             [
                 1,
+                "half windsor"
+            ],
+            [
+                2,
+                "half windsor tie knot"
+            ],
+            [
+                3,
+                "half windsor vs full windsor"
+            ],
+            [
+                4,
+                "half windsor tie"
+            ],
+            [
+                5,
+                "half windsor knot tie instructions"
+            ],
+            [
+                6,
+                "half windsor diagram"
+            ],
+            [
+                7,
+                "half windsor knot video tutorial"
+            ],
+            [
+                0,
+                "tie dimple"
+            ],
+            [
+                1,
+                "tie dimple clip"
+            ],
+            [
+                0,
                 "tie clip placement"
+            ],
+            [
+                1,
+                "tie clip placement with jacket"
             ],
             [
                 2,
                 "proper placement for tie clip"
+            ],
+            [
+                0,
+                "silk tie crafts"
+            ],
+            [
+                1,
+                "silk tie crossword"
+            ],
+            [
+                2,
+                "silk tie crossword clue"
+            ],
+            [
+                3,
+                "silk icare"
+            ],
+            [
+                4,
+                "silk tie company"
+            ],
+            [
+                5,
+                "silk tiered maxi dress"
+            ],
+            [
+                6,
+                "silk tie sale"
+            ],
+            [
+                7,
+                "silk tiered dress"
+            ],
+            [
+                0,
+                "ascot tying"
+            ],
+            [
+                1,
+                "ascot things to do"
+            ],
+            [
+                2,
+                "ascot tyres"
+            ],
+            [
+                3,
+                "ascot travel"
+            ],
+            [
+                4,
+                "ascot today"
+            ],
+            [
+                5,
+                "ascot trial"
+            ],
+            [
+                6,
+                "ascot tickets"
+            ],
+            [
+                7,
+                "ascot taxis"
+            ],
+            [
+                0,
+                "bow tie vs necktie"
+            ],
+            [
+                1,
+                "difference between bow and bow tie"
+            ],
+            [
+                2,
+                "bowtie or bow tie"
+            ],
+            [
+                3,
+                "bow tie and tie"
+            ],
+            [
+                4,
+                "youtube how to tie a necktie bow"
+            ],
+            [
+                5,
+                "youtube how to tie a necktie bowtie"
+            ],
+            [
+                6,
+                "bow tie or tie for wedding"
+            ],
+            [
+                7,
+                "wearing a bow tie"
             ]
         ],
         "google": [
             [
                 0,
-                "tie knot types"
+                "four in hand knot"
             ],
             [
                 1,
-                "tie knot types windsor"
+                "four in hand knot tie"
             ],
             [
                 2,
-                "tie knot types chart"
+                "four in hand knot vs half windsor"
             ],
             [
                 3,
-                "tie knot types with pictures"
+                "four in hand knot with dimple"
             ],
             [
                 4,
-                "tie knot types rope"
+                "four in hand knot tutorial"
             ],
             [
                 5,
-                "tie knot types for wedding"
+                "four in hand knot vs windsor"
             ],
             [
                 6,
-                "tie knot types video"
+                "four in hand knot vs full windsor"
             ],
             [
                 7,
-                "tie knot types for men"
+                "four in hand knot video"
             ],
             [
                 8,
-                "necktie knot types"
+                "four in hand knot vs double windsor"
             ],
             [
                 9,
-                "windsor knot types"
+                "four in hand knot vs simple knot"
             ],
             [
                 0,
-                "ascot tie guide"
+                "windsor knot"
             ],
             [
                 1,
-                "ascot tying instructions"
+                "windsor knot tie"
             ],
             [
                 2,
-                "can you use a regular tie as an ascot"
+                "windsor knot steps"
             ],
             [
                 3,
-                "how to tie an ascot"
+                "windsor knot tutorial"
             ],
             [
                 4,
-                "how to tie a tie as an ascot"
+                "windsor knot video"
             ],
             [
                 5,
-                "how to tie a formal ascot"
-            ],
-            [
-                0,
-                "bow tie instructions"
-            ],
-            [
-                1,
-                "bow tie instructions for beginners"
-            ],
-            [
-                2,
-                "bow tie instructions with clip"
-            ],
-            [
-                3,
-                "bow tie instructions youtube"
-            ],
-            [
-                4,
-                "bow tie instructions video"
-            ],
-            [
-                5,
-                "bow tie tutorial"
+                "windsor knot instructions"
             ],
             [
                 6,
-                "bow tie steps"
+                "windsor knot vs four in hand"
             ],
             [
                 7,
-                "bow tie tutorial for beginners"
+                "windsor knot book"
             ],
             [
                 8,
-                "bow tie fold"
+                "windsor knot full"
             ],
             [
                 9,
-                "bow tie fold napkin"
+                "windsor knot diagram"
             ],
             [
                 0,
-                "formal dressing tips for men"
+                "half windsor knot"
             ],
             [
                 1,
-                "formal wear tips"
+                "half windsor"
             ],
             [
                 2,
-                "formal dress tips"
+                "half windsor knot tie"
             ],
             [
                 3,
-                "business attire tips"
+                "half windsor vs full windsor"
             ],
             [
                 4,
-                "formal attire guide"
+                "half windsor tie"
             ],
             [
                 5,
-                "formal attire guide for men"
+                "half windsor knot vs full"
             ],
             [
                 6,
-                "formal attire dress code"
+                "half windsor vs four in hand"
             ],
             [
                 7,
-                "formal attire example"
+                "half windsor knot instructions"
             ],
             [
                 8,
-                "what to wear for formal dress code"
+                "half windsor knot step by step"
             ],
             [
                 9,
-                "formal vs informal dress code"
+                "half windsor knot video"
+            ],
+            [
+                0,
+                "tie dimple"
+            ],
+            [
+                1,
+                "tie dimple vs no dimple"
+            ],
+            [
+                2,
+                "tie dimple or not"
+            ],
+            [
+                3,
+                "tie dimple clip"
+            ],
+            [
+                4,
+                "tie dimple tool"
+            ],
+            [
+                5,
+                "tie dimple reddit"
+            ],
+            [
+                6,
+                "tie dimple knot"
+            ],
+            [
+                7,
+                "tie dimple meaning"
+            ],
+            [
+                8,
+                "tie dimple tutorial"
+            ],
+            [
+                9,
+                "tie dimple.yes or no"
             ],
             [
                 0,
@@ -548,129 +884,225 @@
             ],
             [
                 0,
-                "bow tie length adjustment"
+                "silk tie care"
             ],
             [
                 1,
-                "tie rod length adjustment"
+                "silk tie care instructions"
             ],
             [
                 2,
-                "how to adjust tie length"
+                "silk tie price"
             ],
             [
                 3,
-                "how to set tie length"
+                "silk tie brands"
+            ],
+            [
+                0,
+                "ascot tying"
+            ],
+            [
+                1,
+                "ascot tying instructions"
+            ],
+            [
+                2,
+                "ascot tying styles"
+            ],
+            [
+                3,
+                "tying ascot scarf"
             ],
             [
                 4,
-                "how to choose tie length"
+                "can you use a regular tie as an ascot"
+            ],
+            [
+                5,
+                "how to tie a tie as an ascot"
+            ],
+            [
+                0,
+                "bow tie vs necktie"
+            ],
+            [
+                1,
+                "bow tie vs necktie wedding"
+            ],
+            [
+                2,
+                "bow tie vs necktie usage"
+            ],
+            [
+                3,
+                "bow tie or necktie"
+            ],
+            [
+                4,
+                "bow tie or necktie for wedding"
+            ],
+            [
+                5,
+                "bow tie or necktie with tuxedo"
+            ],
+            [
+                6,
+                "bow tie or necktie for groom"
+            ],
+            [
+                7,
+                "bow tie or necktie for prom"
+            ],
+            [
+                8,
+                "bow tie vs ties"
+            ],
+            [
+                9,
+                "tuxedo bow tie vs necktie"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "tie knot types"
+                "four in hand knot"
             ],
             [
                 1,
-                "tie knot types guide"
+                "four in hand knot tie"
             ],
             [
                 2,
-                "dress tie knot types"
+                "four in hand knot vs windsor"
             ],
             [
                 3,
-                "dress tie knot types for men"
+                "four in hand knot instructions"
             ],
             [
                 4,
-                "how to tie knot types"
+                "four-in-hand knot pictures"
+            ],
+            [
+                5,
+                "four in hand knot history"
+            ],
+            [
+                6,
+                "four in hand knot scarf"
+            ],
+            [
+                7,
+                "four in hand knot step by step"
+            ],
+            [
+                8,
+                "four in hand knot rope army"
+            ],
+            [
+                9,
+                "four-in-hand knots"
             ],
             [
                 0,
-                "necktie tying steps pdf"
+                "windsor knot"
             ],
             [
                 1,
-                "necktie tying steps printable"
+                "windsor knot step by step"
             ],
             [
                 2,
-                "necktie tying steps video"
+                "windsor knot tie"
             ],
             [
                 3,
-                "necktie tying steps instructions"
-            ],
-            [
-                0,
-                "ascot tying guide pdf"
-            ],
-            [
-                1,
-                "ascot tying guide printable"
-            ],
-            [
-                2,
-                "ascot tying guide youtube"
-            ],
-            [
-                3,
-                "ascot tying guide video"
-            ],
-            [
-                0,
-                "bow tie instructions"
-            ],
-            [
-                1,
-                "bow tie instructions easy"
-            ],
-            [
-                2,
-                "bow tie instructions pdf"
-            ],
-            [
-                3,
-                "bow tie instructions printable"
+                "windsor knot tutorial"
             ],
             [
                 4,
-                "bow tie instructions for dummies"
+                "windsor knot video"
+            ],
+            [
+                5,
+                "windsor knot instructions"
+            ],
+            [
+                6,
+                "windsor knot tie instructions"
+            ],
+            [
+                7,
+                "windsor knot youtube"
+            ],
+            [
+                8,
+                "windsor knot clip-on neckties for men"
+            ],
+            [
+                9,
+                "windsor knot diagram"
             ],
             [
                 0,
-                "tie dimple creation tool"
+                "half windsor knot"
             ],
             [
                 1,
-                "tie dimple creation kit"
+                "half windsor"
             ],
             [
                 2,
-                "tie dimple creation tools"
+                "half windsor knot step by step"
             ],
             [
                 3,
-                "tie dimple creation video"
+                "half windsor tie knot"
+            ],
+            [
+                4,
+                "half windsor vs full windsor pictures"
+            ],
+            [
+                5,
+                "half windsor tie"
+            ],
+            [
+                6,
+                "half windsor instructions"
+            ],
+            [
+                7,
+                "half windsor with a ribbon"
+            ],
+            [
+                8,
+                "half windsor necktie"
+            ],
+            [
+                9,
+                "half windsor knot instructions"
             ],
             [
                 0,
-                "formal attire tips for women"
+                "tie dimple"
             ],
             [
                 1,
-                "formal attire tips for men"
+                "tie dimple tool"
             ],
             [
                 2,
-                "formal attire tips for a"
+                "tie dimple maker"
             ],
             [
                 3,
-                "formal attire tips men"
+                "tie dimple or not"
+            ],
+            [
+                4,
+                "tie dimples"
             ],
             [
                 0,
@@ -694,141 +1126,197 @@
             ],
             [
                 0,
-                "tie length adjustment chart"
+                "silk tie care instructions"
             ],
             [
                 1,
-                "tie length adjustment tool"
+                "silk tie career"
             ],
             [
                 2,
-                "tie length adjustment for men"
+                "silk tie careers"
             ],
             [
                 3,
-                "tie length adjustment instructions"
+                "silk tie care and maintenance"
+            ],
+            [
+                0,
+                "ascot tying instructions"
+            ],
+            [
+                1,
+                "ascot neck scarf tying"
+            ],
+            [
+                2,
+                "ascot tying"
+            ],
+            [
+                0,
+                "bow tie vs necktie"
+            ],
+            [
+                1,
+                "bow tie vs necktie for wedding"
             ]
         ],
         "youtube": [
             [
                 0,
-                "tie knot types"
+                "four in hand knot scarf"
             ],
             [
                 1,
-                "tie knot styles"
+                "four in hand knot gentleman's gazette"
             ],
             [
                 2,
-                "tie knot styles for school"
+                "four in hand knot"
             ],
             [
                 3,
-                "tie knot styles for wedding"
+                "four in hand knot tie"
             ],
             [
                 4,
-                "tie knot styles for men"
+                "four in hand knot with dimple"
             ],
             [
                 5,
-                "tie knot styles easy"
+                "four in hand knot tutorial"
             ],
             [
                 6,
-                "tie knot styles dress"
+                "four in hand knot vs half windsor"
             ],
             [
                 7,
-                "tie knot styles malayalam"
+                "four in hand knot slow"
             ],
             [
                 8,
-                "tie knot styles shoes"
-            ],
-            [
-                9,
-                "tie knot styles pants"
+                "four in hand knot step by step"
             ],
             [
                 0,
-                "bow tie instructions"
+                "windsor knot scarf"
             ],
             [
                 1,
-                "bow tie tutorial easy clip"
+                "windsor knot agsu"
             ],
             [
                 2,
-                "bow tie tutorial easy ribbon"
+                "windsor knot"
             ],
             [
                 3,
-                "bow tie tutorial easy paper"
+                "windsor knot tie"
             ],
             [
                 4,
-                "bow tie tutorial easy crochet"
+                "windsor knot air force"
             ],
             [
                 5,
-                "bow tie tutorial easy gift"
+                "windsor knot easy"
             ],
             [
                 6,
-                "bow tie tutorial easy women"
+                "windsor knot mirrored"
             ],
             [
                 7,
-                "bow tie tutorial easy sewing"
+                "windsor knot with dimple"
             ],
             [
                 8,
-                "bow tie tutorial easy for girls"
+                "windsor knot left handed"
             ],
             [
                 9,
-                "bow tie tutorial easy for frock"
+                "windsor knot army"
             ],
             [
                 0,
-                "formal dress tips for male"
+                "half windsor formal tie"
             ],
             [
                 1,
-                "formal outfit tips for men"
+                "half windsor knot"
             ],
             [
                 2,
-                "formal dressing tips for skinny guys"
+                "half windsor tie"
             ],
             [
                 3,
-                "formal outfit tips"
+                "half windsor"
             ],
             [
                 4,
-                "formal dressing tips for fat guys"
+                "half windsor vs full windsor"
             ],
             [
                 5,
-                "formal dressing tips for women"
+                "half windsor pov"
             ],
             [
                 6,
-                "formal suit tips"
+                "half windsor knot wedding"
             ],
             [
                 7,
-                "formal fashion tips for men"
+                "half windsor knot mirrored"
             ],
             [
                 8,
-                "formal dress tips and tricks"
+                "half windsor knot gentleman"
             ],
             [
                 9,
-                "formal dress tips for male tamil"
+                "half windsor knot with dimple"
+            ],
+            [
+                0,
+                "tie dimple"
+            ],
+            [
+                1,
+                "tie dimple or not"
+            ],
+            [
+                2,
+                "tie dimple tutorial"
+            ],
+            [
+                3,
+                "tie simple bow ribbon"
+            ],
+            [
+                4,
+                "tie simple bow"
+            ],
+            [
+                5,
+                "tie simple fishing knot"
+            ],
+            [
+                6,
+                "tie simple gele"
+            ],
+            [
+                7,
+                "tie simple ribbon"
+            ],
+            [
+                8,
+                "tie simple turban"
+            ],
+            [
+                9,
+                "tie simple hack"
             ],
             [
                 0,
@@ -841,6 +1329,14 @@
             [
                 2,
                 "neck tie clip placement"
+            ],
+            [
+                0,
+                "ascot tying"
+            ],
+            [
+                0,
+                "bow tie or necktie"
             ]
         ]
     },
@@ -848,10 +1344,24 @@
         "articles": [
             {
                 "title": "The 85 Ways to Tie a Tie",
-                "views": 1145,
+                "views": 1066,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.5
+            },
+            {
+                "title": "Windsor knot",
+                "views": 4100,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Four-in-hand knot",
+                "views": 2948,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 4,
@@ -864,32 +1374,85 @@
             "intent": "informational",
             "keywords": [
                 "how to tie a tie step by step",
-                "necktie",
-                "tie dimple",
-                "tie length",
                 "how to tie a tie easy",
-                "how to tie a tie easily",
-                "how to tie a tie step by step instructions",
-                "tying a necktie step by step"
+                "windsor knot step by step",
+                "knot tightness",
+                "thomas fink",
+                "tie length",
+                "yong mao",
+                "half windsor knot",
+                "half windsor tie",
+                "half windsor",
+                "half windsor tie knot",
+                "windsor knot instructions",
+                "how to tie a tie windsor"
             ]
         },
         {
             "group": "Tie Knots",
-            "title": "tie knot types",
+            "title": "windsor knot",
             "intent": "informational",
             "keywords": [
-                "tie knot types",
-                "four-in-hand knot",
-                "half-windsor knot",
-                "tie care",
-                "tie material",
-                "tie occasion",
-                "tie pattern",
-                "tie width",
                 "windsor knot",
-                "tie knot styles",
-                "how to tie a tie windsor",
-                "how to tie a tie windsor knot"
+                "windsor",
+                "windsor knot tie",
+                "half windsor vs full windsor",
+                "windsor knot tutorial"
+            ]
+        },
+        {
+            "group": "Tie Knots",
+            "title": "four in hand knot",
+            "intent": "commercial",
+            "keywords": [
+                "four in hand knot",
+                "four in hand knot tutorial",
+                "four in hand knot vs half windsor",
+                "four in hand knot vs windsor",
+                "four in hand",
+                "four in hand knot tie"
+            ]
+        },
+        {
+            "group": "Tie Accessories",
+            "title": "tie dimple",
+            "intent": "informational",
+            "keywords": [
+                "tie dimple",
+                "tie dimple or not",
+                "tie dimple maker"
+            ]
+        },
+        {
+            "group": "Tie Accessories",
+            "title": "tie clip placement",
+            "intent": "informational",
+            "keywords": [
+                "tie clip placement",
+                "tie bar",
+                "tie clip",
+                "tie dimple clip",
+                "tie clip placement with jacket"
+            ]
+        },
+        {
+            "group": "Alternative Tie Styles",
+            "title": "bow tie vs necktie",
+            "intent": "commercial",
+            "keywords": [
+                "bow tie vs necktie",
+                "necktie",
+                "bow tie vs necktie wedding",
+                "bow tie or necktie"
+            ]
+        },
+        {
+            "group": "Alternative Tie Styles",
+            "title": "ascot tying",
+            "intent": "informational",
+            "keywords": [
+                "ascot tying",
+                "ascot tying instructions"
             ]
         },
         {
@@ -899,91 +1462,66 @@
             "keywords": [
                 "how to tie a tie video",
                 "how to tie a tie youtube",
-                "how to tie a tie pov"
+                "windsor knot video",
+                "how to tie a tie on your arm"
             ]
         },
         {
-            "group": "Learning Resources",
-            "title": "how to tie a tie book",
-            "intent": "commercial",
-            "keywords": [
-                "how to tie a tie book",
-                "how to tie a tie poster",
-                "how to tie a tie denlinger"
-            ]
-        },
-        {
-            "group": "Alternative Ties",
-            "title": "bow tie instructions",
+            "group": "Tie Care",
+            "title": "silk tie care instructions",
             "intent": "informational",
             "keywords": [
-                "bow tie instructions",
-                "bow tie instructions easy",
-                "bow tie length adjustment"
-            ]
-        },
-        {
-            "group": "Alternative Ties",
-            "title": "ascot tie guide",
-            "intent": "informational",
-            "keywords": [
-                "ascot tie guide",
-                "ascot tying guide pdf"
-            ]
-        },
-        {
-            "group": "Tie Accessories",
-            "title": "tie clip placement",
-            "intent": "informational",
-            "keywords": [
-                "tie clip placement",
-                "tie clip placement with jacket",
-                "proper tie clip placement",
-                "tie pin placement"
+                "silk tie care instructions",
+                "silk tie"
             ]
         }
     ],
     "categories": {
         "how to tie a tie step by step": "core",
+        "tie dimple": "core",
+        "windsor knot": "core",
         "how to tie a tie easy": "core",
-        "bow tie instructions": "core",
+        "windsor knot tie": "core",
         "tie clip placement": "core",
-        "tie knot types": "core",
+        "half windsor knot": "core",
+        "ascot tying": "complementary",
+        "four in hand knot": "core",
+        "half windsor tie": "core",
+        "four in hand knot tie": "core",
+        "half windsor": "core",
+        "bow tie vs necktie": "complementary",
         "how to tie a tie video": "core",
         "how to tie a tie youtube": "core",
+        "tie dimple clip": "core",
+        "tie dimple or not": "core",
+        "half windsor tie knot": "core",
+        "how to tie a tie on your arm": "core",
+        "half windsor vs full windsor": "core",
+        "windsor knot tutorial": "complementary",
+        "ascot tying instructions": "complementary",
+        "silk tie care instructions": "complementary",
+        "windsor knot instructions": "complementary",
         "tie clip placement with jacket": "complementary",
-        "bow tie instructions easy": "complementary",
+        "bow tie vs necktie wedding": "complementary",
+        "four in hand knot tutorial": "complementary",
         "how to tie a tie windsor": "complementary",
-        "tie knot styles": "complementary",
-        "proper tie clip placement": "complementary",
-        "tie knots types rope": "doubtful",
-        "how to tie a tie book": "commercial",
-        "how to tie a tie step by step instructions": "complementary",
-        "how to tie a tie windsor knot": "complementary",
-        "how to tie a tie poster": "commercial",
-        "how to tie a tie denlinger": "commercial",
-        "how to tie a tie pov": "complementary",
-        "tie pin placement": "complementary",
-        "how to tie a tie easily": "complementary",
-        "tying a necktie step by step": "complementary",
-        "ascot tie guide": "complementary",
-        "ascot tying guide pdf": "complementary",
-        "bow tie length adjustment": "complementary",
-        "four-in-hand knot": "core",
-        "windsor knot": "core",
-        "half-windsor knot": "core",
-        "tie dimple": "core",
+        "bow tie or necktie": "complementary",
+        "tie dimple maker": "complementary",
+        "windsor knot step by step": "complementary",
+        "four in hand knot vs half windsor": "complementary",
+        "windsor knot video": "complementary",
+        "four in hand knot vs windsor": "complementary",
+        "four in hand": "core",
+        "windsor": "core",
+        "tricot fabric": "doubtful",
+        "silk tie": "core",
+        "tie clip": "core",
+        "tie bar": "core",
+        "knot tightness": "complementary",
         "tie length": "core",
-        "tie width": "core",
-        "tie pattern": "core",
-        "tie material": "core",
-        "tie occasion": "core",
-        "tie care": "core",
         "necktie": "core",
-        "thomas fink": "doubtful",
-        "yong mao": "doubtful",
-        "how to tie a tie on your arm": "doubtful",
-        "formal attire top": "doubtful",
-        "how to tie a scarf": "doubtful"
+        "neckcloth": "doubtful",
+        "thomas fink": "complementary",
+        "yong mao": "complementary"
     }
 }

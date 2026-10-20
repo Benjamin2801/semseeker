@@ -13,8 +13,8 @@ parameters:
     # Longueur maximale de l'expression saisie (formulaire et contrôleur).
     app.search.max_keyword_length: 80
     # Expressions gardées après la fusion (les plus populaires), rangées par l'IA dans le champ sémantique avec
-    # 16 termes de Wikipédia au plus : 44 candidats, deux paquets de rangement.
-    app.ai.max_candidates: 28
+    # 16 termes de Wikipédia au plus : 50 candidats, trois paquets de rangement en parallèle (22 s au plus mesuré).
+    app.ai.max_candidates: 34
     # Modèle Cohere (https://docs.cohere.com/v2/docs/models).
     app.cohere.model: 'command-a-03-2025'
 
