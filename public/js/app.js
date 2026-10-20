@@ -199,7 +199,10 @@ document.querySelectorAll('[data-autocomplete]').forEach((input) => {
     let controller;
     let active = -1;
 
+    // Fermer annule aussi la demande en cours : une réponse tardive ne rouvre pas le panneau après le choix.
     const close = () => {
+        clearTimeout(timer);
+        controller?.abort();
         list.hidden = true;
         input.setAttribute('aria-expanded', 'false');
         input.removeAttribute('aria-activedescendant');
@@ -265,4 +268,6 @@ document.querySelectorAll('[data-autocomplete]').forEach((input) => {
         }
     });
     input.addEventListener('blur', close);
+    // Entrée sans suggestion choisie envoie le formulaire : le panneau se replie aussi.
+    input.form?.addEventListener('submit', close);
 });

@@ -1898,22 +1898,13 @@ a {
     transition: transform 0.3s ease-out;
 }
 
-body.is-loading .results {
+body.is-loading .results,
+body.is-loading .home-section,
+body.is-loading .home-cta {
     filter: blur(2px);
     opacity: 0.45;
     pointer-events: none;
     transition: filter 0.3s, opacity 0.3s;
-}
-
-body.is-loading .hero {
-    padding-block: 8px;
-}
-
-body.is-loading .hero h1,
-body.is-loading .hero .lead,
-body.is-loading .home-section,
-body.is-loading .home-cta {
-    display: none;
 }
 
 .search-form button.is-loading {
