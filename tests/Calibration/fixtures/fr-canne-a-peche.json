@@ -1,7 +1,7 @@
 {
     "expression": "canne à pêche",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -16,12 +16,12 @@
     "concepts": [
         "pêche à la ligne",
         "leurre souple",
-        "moulinet spinning",
+        "moulinet casting",
         "accessoire pêche",
+        "détecteur touche",
         "pêche en mer",
         "pêche à la mouche",
-        "pêche au coup",
-        "pêche au carnassier"
+        "entretien canne"
     ],
     "suggestions": {
         "amazon": [
@@ -189,43 +189,43 @@
             ],
             [
                 0,
-                "moulinet spinning"
+                "moulinet casting"
             ],
             [
                 1,
-                "moulinet spinning 3000"
+                "moulinet casting shimano"
             ],
             [
                 2,
-                "moulinet spinning 2000"
+                "moulinet casting daiwa"
             ],
             [
                 3,
-                "moulinet spinning 2500"
+                "moulinet casting abu garcia"
             ],
             [
                 4,
-                "moulinet spinning pêche en mer"
+                "moulinet casting gaucher"
             ],
             [
                 5,
-                "moulinet spinning 4000"
+                "moulinet casting mer"
             ],
             [
                 6,
-                "moulinet spinning daiwa"
+                "moulinet casting eau douce"
             ],
             [
                 7,
-                "moulinet spinning shimano"
+                "moulinet casting big bait"
             ],
             [
                 8,
-                "moulinet spinning carnassier"
+                "moulinet casting shimano calcutta"
             ],
             [
                 9,
-                "moulinet spinning pêche aux leurres daiwa ninja 23 lt 2500 xh - daiwa"
+                "moulinet casting dc"
             ],
             [
                 0,
@@ -266,6 +266,30 @@
             [
                 9,
                 "accessoires pêche à pied"
+            ],
+            [
+                0,
+                "détecteur touche carpe"
+            ],
+            [
+                1,
+                "détecteur touche peche"
+            ],
+            [
+                2,
+                "détecteur touche"
+            ],
+            [
+                3,
+                "détecteur touche fox"
+            ],
+            [
+                4,
+                "détecteur touche lumineux"
+            ],
+            [
+                5,
+                "détecteur touches carpe"
             ],
             [
                 0,
@@ -310,26 +334,6 @@
             [
                 2,
                 "pêche à la mouche moulinet"
-            ],
-            [
-                0,
-                "pêche au coup"
-            ],
-            [
-                1,
-                "pêche au coup matériel"
-            ],
-            [
-                2,
-                "pêche au coup carpe"
-            ],
-            [
-                3,
-                "pêche au coup canne"
-            ],
-            [
-                0,
-                "pêche au carnassier"
             ]
         ],
         "bing": [
@@ -431,51 +435,51 @@
             ],
             [
                 0,
-                "moulinet spinning"
+                "moulinet casting savage gear"
             ],
             [
                 1,
-                "moulinet spinning 3000"
+                "moulinet casting droitier"
             ],
             [
                 2,
-                "moulinet spinning daiwa"
+                "moulinet casting silure"
             ],
             [
                 3,
-                "moulinet spinning mer"
+                "moulinet casting shimano slx xt dc"
             ],
             [
                 4,
-                "moulinet spinning 3500"
+                "moulinet casting modus"
             ],
             [
                 5,
-                "moulinet spinning 2000"
+                "moulinet casting daiwa tatula 2024"
             ],
             [
                 6,
-                "moulinet spinning 5000"
+                "moulinet casting automatique"
             ],
             [
                 7,
-                "moulinet spinning 1500"
+                "moulinet casting main gauche"
             ],
             [
                 8,
-                "moulinet spinning 4000"
+                "moulinet casting 13 fishing origin r1"
             ],
             [
                 9,
-                "moulinet spinning 1000"
+                "moulinet casting shimano calcutta conquest md"
             ],
             [
                 10,
-                "moulinet spinning sakura"
+                "moulinet casting shimano slx 151 hg"
             ],
             [
                 11,
-                "moulinet spinning mer 3000"
+                "moulinet casting 13 fishing modus sz2 bc lh"
             ],
             [
                 0,
@@ -504,6 +508,38 @@
             [
                 6,
                 "accessoire de peche"
+            ],
+            [
+                0,
+                "détecteur touche clavier"
+            ],
+            [
+                1,
+                "détecteur touche carpe"
+            ],
+            [
+                2,
+                "detecteur touche"
+            ],
+            [
+                3,
+                "detecteur de touche carpe"
+            ],
+            [
+                4,
+                "détecteur retouche photo"
+            ],
+            [
+                5,
+                "detecteur de touche peche"
+            ],
+            [
+                6,
+                "detecteur de touche"
+            ],
+            [
+                7,
+                "detecteur de touche pour canne"
             ],
             [
                 0,
@@ -603,83 +639,43 @@
             ],
             [
                 0,
-                "pêche au coup"
+                "entretien canne à pêche"
             ],
             [
                 1,
-                "pêche au coup étang technique"
+                "entretien annuel"
             ],
             [
                 2,
-                "pêche au coup decathlon"
+                "entretien canexel"
             ],
             [
                 3,
-                "peche au coup en etang"
+                "entretien canna en pot"
             ],
             [
                 4,
-                "pêche au coup matériel"
+                "entretien cannas"
             ],
             [
                 5,
-                "pêche au coup à la chinoise"
+                "entretien cannage chaise"
             ],
             [
                 6,
-                "pêche au coup c'est quoi"
+                "entretien canalisation"
             ],
             [
                 7,
-                "pêche au coup carpodrome"
+                "entretien canna hiver"
             ],
             [
                 8,
-                "pêche au coup à la grande canne"
+                "entretien canapé cuir"
             ],
             [
                 9,
-                "pêche au coup avec jean desqué"
-            ],
-            [
-                10,
-                "peche au coup gardon"
-            ],
-            [
-                11,
-                "peche au coup competition"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "pêche au carnassier date"
-            ],
-            [
-                2,
-                "pêche au carnassier en étang"
-            ],
-            [
-                3,
-                "pêche aux carnassiers"
-            ],
-            [
-                4,
-                "pêche aux carnassiers en étang"
-            ],
-            [
-                5,
-                "peche au carnassier"
-            ],
-            [
-                6,
-                "aliexpress pêche carnassier"
-            ],
-            [
-                7,
-                "pêche carnassier belgique"
+                "entretien panneaux photovoltaïques"
             ]
         ],
         "duckduckgo": [
@@ -749,35 +745,35 @@
             ],
             [
                 0,
-                "moulinet spinning"
+                "moulinet casting savage gear"
             ],
             [
                 1,
-                "moulinet spinning 3000"
+                "moulinet casting droitier"
             ],
             [
                 2,
-                "moulinet spinning daiwa"
+                "moulinet casting silure"
             ],
             [
                 3,
-                "moulinet spinning mer"
+                "moulinet casting shimano slx xt dc"
             ],
             [
                 4,
-                "moulinet spinning 3500"
+                "moulinet casting modus"
             ],
             [
                 5,
-                "moulinet spinning 2000"
+                "moulinet casting daiwa tatula 2024"
             ],
             [
                 6,
-                "moulinet spinning 5000"
+                "moulinet casting automatique"
             ],
             [
                 7,
-                "moulinet spinning 1500"
+                "moulinet casting main gauche"
             ],
             [
                 0,
@@ -809,35 +805,67 @@
             ],
             [
                 0,
+                "détecteur touche clavier"
+            ],
+            [
+                1,
+                "détecteur touche carpe"
+            ],
+            [
+                2,
+                "detecteur touche"
+            ],
+            [
+                3,
+                "detecteur de touche carpe"
+            ],
+            [
+                4,
+                "détecteur retouche photo"
+            ],
+            [
+                5,
+                "detecteur de touche peche"
+            ],
+            [
+                6,
+                "detecteur de touche"
+            ],
+            [
+                7,
+                "detecteur de touche pour canne"
+            ],
+            [
+                0,
                 "pêche en mer"
             ],
             [
                 1,
-                "pêche en mer saint gilles croix de vie"
+                "pêche en mer neustadt"
             ],
             [
                 2,
-                "pêche en mer decathlon"
+                "pêche en mer saint gilles croix de vie"
             ],
             [
                 3,
-                "pêche en mer quiberon"
+                "pêche en mer decathlon"
             ],
             [
                 4,
-                "pêche en mer oléron"
+                "pêche en mer quiberon"
             ],
             [
                 5,
-                "pêche en mer ff14"
+                "pêche en mer oléron"
             ],
             [
                 6,
-                "pêche en mer erquy"
+                "pêche en mer ff14"
             ],
             [
                 7,
-                "pêche en mer bretagne"
+                "pêche en mer erquy"
             ],
             [
                 0,
@@ -873,73 +901,49 @@
             ],
             [
                 0,
-                "pêche au coup"
+                "entretien canne à pêche"
             ],
             [
                 1,
-                "pêche au coup étang technique"
+                "entretien annuel"
             ],
             [
                 2,
-                "pêche au coup decathlon"
+                "entretien canna en pot"
             ],
             [
                 3,
-                "pêche au coup matériel"
+                "entretien canexel"
             ],
             [
                 4,
-                "pêche au coup à la chinoise"
+                "entretien panneaux photovoltaïques"
             ],
             [
                 5,
-                "pêche au coup c'est quoi"
+                "entretien cannage chaise"
             ],
             [
                 6,
-                "pêche au coup carpodrome"
+                "entretien canalisation"
             ],
             [
                 7,
-                "pêche au coup à la grande canne"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "pêche au carnassier date"
-            ],
-            [
-                2,
-                "pêche au carnassier en étang"
-            ],
-            [
-                3,
-                "pêche aux carnassiers"
-            ],
-            [
-                4,
-                "pêche aux carnassiers en étang"
-            ],
-            [
-                5,
-                "peche au carnassier"
-            ],
-            [
-                6,
-                "aliexpress pêche carnassier"
-            ],
-            [
-                7,
-                "pêche carnassier belgique"
+                "entretien cannas"
             ]
         ],
         "ebay": [
             [
                 0,
                 "leurre souple"
+            ],
+            [
+                0,
+                "moulinet casting"
+            ],
+            [
+                0,
+                "détecteur de touche"
             ],
             [
                 0,
@@ -956,18 +960,6 @@
             [
                 2,
                 "moulinet pêche à la mouche"
-            ],
-            [
-                0,
-                "pêche au coup"
-            ],
-            [
-                1,
-                "flotteurs pêche au coup"
-            ],
-            [
-                2,
-                "canne à pêche au coup"
             ]
         ],
         "google": [
@@ -1013,83 +1005,83 @@
             ],
             [
                 0,
+                "leurre souple"
+            ],
+            [
+                1,
                 "leurre souple truite"
             ],
             [
-                1,
+                2,
                 "leurre souple bar"
             ],
             [
-                2,
+                3,
                 "leurre souple brochet"
             ],
             [
-                3,
+                4,
                 "leurre souple decathlon"
             ],
             [
-                4,
+                5,
                 "leurre souple perche"
             ],
             [
-                5,
+                6,
                 "leurre souple shad"
             ],
             [
-                6,
+                7,
                 "leurre souple sandre"
             ],
             [
-                7,
+                8,
                 "leurre souple mer"
             ],
             [
-                8,
+                9,
                 "leurre souple pour le bar du bord"
             ],
             [
-                9,
-                "leurre souple megabass"
-            ],
-            [
                 0,
-                "moulinet spinning"
+                "moulinet casting"
             ],
             [
                 1,
-                "moulinet spinning shimano"
+                "moulinet casting shimano"
             ],
             [
                 2,
-                "moulinet spinning daiwa"
+                "moulinet casting decathlon"
             ],
             [
                 3,
-                "moulinet spinning 4000"
+                "moulinet casting daiwa"
             ],
             [
                 4,
-                "moulinet spinning 2500"
+                "moulinet casting abu garcia"
             ],
             [
                 5,
-                "moulinet spinning 1000"
+                "moulinet casting big bait"
             ],
             [
                 6,
-                "moulinet spinning 3000"
+                "moulinet casting mer"
             ],
             [
                 7,
-                "moulinet spinning decathlon"
+                "moulinet casting daiwa tatula 200"
             ],
             [
                 8,
-                "moulinet spinning 2000"
+                "moulinet casting anti perruque"
             ],
             [
                 9,
-                "moulinet spinning 1500"
+                "moulinet casting 13 fishing"
             ],
             [
                 0,
@@ -1130,6 +1122,46 @@
             [
                 9,
                 "matériel pêche carpe"
+            ],
+            [
+                0,
+                "détecteur touche"
+            ],
+            [
+                1,
+                "détecteur peche carpe"
+            ],
+            [
+                2,
+                "détecteur peche"
+            ],
+            [
+                3,
+                "détecteur touche silure"
+            ],
+            [
+                4,
+                "detecteur touche carpe"
+            ],
+            [
+                5,
+                "detecteur touche surfcasting"
+            ],
+            [
+                6,
+                "detecteur touche peche"
+            ],
+            [
+                7,
+                "detecteur touche decathlon"
+            ],
+            [
+                8,
+                "detecteur touche clavier"
+            ],
+            [
+                9,
+                "detecteur touche feeder"
             ],
             [
                 0,
@@ -1213,83 +1245,43 @@
             ],
             [
                 0,
-                "pêche au coup"
+                "entretien canne de provence"
             ],
             [
                 1,
-                "pêche au coup decathlon"
+                "entretien canne a peche"
             ],
             [
                 2,
-                "pêche au coup gardon"
+                "entretien canne à pêche carbone"
             ],
             [
                 3,
-                "pêche au coup matériel"
+                "entretien canne a gratter"
             ],
             [
                 4,
-                "pêche au coup avec moulinet"
+                "entretien canne a sucre"
             ],
             [
                 5,
-                "pêche au coup débutant"
+                "entretien canne du muet"
             ],
             [
                 6,
-                "pêche au coup en rivière"
+                "entretien canne en liege"
             ],
             [
                 7,
-                "pêche au coup carpe"
+                "entretien canne billard"
             ],
             [
                 8,
-                "pêche au coup en rivière avec courant"
+                "cannelier entretien"
             ],
             [
                 9,
-                "pêche au coup en mer"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "pêche au carnassier 2026"
-            ],
-            [
-                2,
-                "pêche au carnassier dans le gers"
-            ],
-            [
-                3,
-                "peche au carnassier date"
-            ],
-            [
-                4,
-                "peche au carnassier ouverture"
-            ],
-            [
-                5,
-                "peche au carnassier en belgique"
-            ],
-            [
-                6,
-                "pêche au carnassier 2025"
-            ],
-            [
-                7,
-                "peche au carnassier autour de moi"
-            ],
-            [
-                8,
-                "peche au carnassier fermeture"
-            ],
-            [
-                9,
-                "peche au carnassier c est quoi"
+                "canneberge entretien"
             ]
         ],
         "indeed": [
@@ -1361,19 +1353,43 @@
             ],
             [
                 0,
-                "moulinet spinning"
+                "moulinet casting"
             ],
             [
                 1,
-                "moulinet spinning daiwa"
+                "moulinet casting daiwa"
             ],
             [
                 2,
-                "moulinet spinning shimano"
+                "moulinet casting shimano"
             ],
             [
                 3,
-                "meilleur moulinet spinning"
+                "moulinet casting abu garcia"
+            ],
+            [
+                4,
+                "moulinet casting mer"
+            ],
+            [
+                5,
+                "moulinet casting big bait"
+            ],
+            [
+                6,
+                "moulinet casting penn"
+            ],
+            [
+                7,
+                "moulinet casting sakura"
+            ],
+            [
+                8,
+                "moulinet casting silure"
+            ],
+            [
+                9,
+                "moulinet casting gaucher"
             ],
             [
                 0,
@@ -1394,6 +1410,14 @@
             [
                 4,
                 "accessoire bateau pêche"
+            ],
+            [
+                0,
+                "détecteur touche jaune rouge"
+            ],
+            [
+                1,
+                "détecteur de touche"
             ],
             [
                 0,
@@ -1469,35 +1493,19 @@
             ],
             [
                 0,
-                "pêche au coup étang"
+                "entretien cannes"
             ],
             [
                 1,
-                "pêche au coup bodineau"
+                "entretien cannelle"
             ],
             [
                 2,
-                "pêche au coup decathlon"
+                "entretien canneberge"
             ],
             [
                 3,
-                "péche au coup"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "ouverture de la pêche au carnassier"
-            ],
-            [
-                2,
-                "barbecue pêche au carnassier"
-            ],
-            [
-                3,
-                "décathlon pêche au carnassier"
+                "entretien cannelé"
             ]
         ],
         "youtube": [
@@ -1583,43 +1591,43 @@
             ],
             [
                 0,
-                "moulinet spinning"
+                "moulinet casting"
             ],
             [
                 1,
-                "moulinet spinning aliexpress"
+                "moulinet casting aliexpress"
             ],
             [
                 2,
-                "moulinet spinning daiwa exceler lt 2023"
+                "moulinet casting decathlon"
             ],
             [
                 3,
-                "moulinet spinning daiwa prorex lt 2024"
+                "moulinet casting 13 fishing modus sz2"
             ],
             [
                 4,
-                "moulinet spinning daiwa caldia mq lt 2022"
+                "moulinet casting reglage"
             ],
             [
                 5,
-                "moulinet spinning shimano vanford fa"
+                "moulinet casting big bait"
             ],
             [
                 6,
-                "moulinet spinning daiwa legalis lt 2023"
+                "moulinet casting shimano curado dc"
             ],
             [
                 7,
-                "moulinet spinning shimano ultegra fd"
+                "moulinet casting temu"
             ],
             [
                 8,
-                "moulinet spinning brochet"
+                "moulinet casting shimano"
             ],
             [
                 9,
-                "moulinet spinning okuma ceymar sw-x"
+                "moulinet casting caperlan"
             ],
             [
                 0,
@@ -1632,6 +1640,46 @@
             [
                 2,
                 "matériel pêche à la carpe"
+            ],
+            [
+                0,
+                "detecteur touche carpe"
+            ],
+            [
+                1,
+                "detecteur de touche peche"
+            ],
+            [
+                2,
+                "détecteur de touche surfcasting"
+            ],
+            [
+                3,
+                "detecteur de touche"
+            ],
+            [
+                4,
+                "détecteur de touche decathlon"
+            ],
+            [
+                5,
+                "detecteur de touche hirisi"
+            ],
+            [
+                6,
+                "detecteur de touche action"
+            ],
+            [
+                7,
+                "detecteur de touche carpe decathlon"
+            ],
+            [
+                8,
+                "detecteur de touche silure"
+            ],
+            [
+                9,
+                "detecteur de touche aliexpress"
             ],
             [
                 0,
@@ -1715,83 +1763,11 @@
             ],
             [
                 0,
-                "pêche au coup"
+                "entretien canne a peche"
             ],
             [
                 1,
-                "pêche au coup carpe"
-            ],
-            [
-                2,
-                "pêche au coup en étang"
-            ],
-            [
-                3,
-                "pêche au coup en rivière"
-            ],
-            [
-                4,
-                "pêche au coup en canal"
-            ],
-            [
-                5,
-                "pêche au coup gardon"
-            ],
-            [
-                6,
-                "pêche au coup en hiver"
-            ],
-            [
-                7,
-                "pêche au coup avec olivier"
-            ],
-            [
-                8,
-                "pêche au coup en mer"
-            ],
-            [
-                9,
-                "pêche au coup matériel"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "peche au carnassier debutant"
-            ],
-            [
-                2,
-                "peche au carnassier 2025"
-            ],
-            [
-                3,
-                "peche carnassier au leurre"
-            ],
-            [
-                4,
-                "peche carnassier au vif"
-            ],
-            [
-                5,
-                "peche carnassier au bouchon"
-            ],
-            [
-                6,
-                "peche carnassier au posé"
-            ],
-            [
-                7,
-                "peche carnassier au ver de terre"
-            ],
-            [
-                8,
-                "vidéo pêche au carnassier"
-            ],
-            [
-                9,
-                "peche carnassier hiver"
+                "entretien canne en liege"
             ]
         ]
     },
@@ -1799,21 +1775,21 @@
         "articles": [
             {
                 "title": "Canne à pêche",
-                "views": 202,
+                "views": 193,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
                 "title": "Pêche à la mouche",
-                "views": 471,
+                "views": 423,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Pêche sportive",
-                "views": 435,
+                "views": 414,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1829,23 +1805,20 @@
             "intent": "commercial",
             "keywords": [
                 "canne à pêche casting",
-                "action de canne",
-                "anneaux de départ",
-                "appât",
-                "bambou",
+                "anneaux sic",
                 "canne carbone",
-                "canne casting",
-                "canne à emmanchement",
-                "hameçon",
-                "longueur de canne",
-                "poignée en liège",
-                "puissance de canne",
-                "roseau",
-                "équilibrage de canne",
+                "canne spinning",
+                "longueur canne",
+                "poignée ergonomique",
+                "porte-moulinet",
+                "puissance canne",
+                "sensibilité canne",
                 "canne à pêche décathlon",
                 "canne à pêche mer",
                 "canne à pêche télescopique",
-                "canne télescopique"
+                "canne télescopique",
+                "canne à pêche action",
+                "action rapide"
             ]
         },
         {
@@ -1854,19 +1827,8 @@
             "intent": "commercial",
             "keywords": [
                 "canne à pêche enfant",
-                "pêche à la ligne",
-                "pêche à la ligne enfant",
-                "pêche à la ligne jeu"
-            ]
-        },
-        {
-            "group": "Types de cannes à pêche",
-            "title": "canne à pêche au coup",
-            "intent": "commercial",
-            "keywords": [
-                "canne à pêche au coup",
-                "pêche au coup decathlon",
-                "pêche au coup matériel"
+                "leurre souple brochet",
+                "pêche à la ligne enfant"
             ]
         },
         {
@@ -1875,8 +1837,9 @@
             "intent": "informational",
             "keywords": [
                 "pêche à la mouche",
-                "pêche au carnassier",
-                "leurre souple"
+                "leurre souple",
+                "leurre souple perche",
+                "leurre souple truite"
             ]
         },
         {
@@ -1885,85 +1848,86 @@
             "intent": "informational",
             "keywords": [
                 "pêche en mer",
-                "pêche à la ligne en mer",
+                "pêche en mer du bord",
                 "accessoire pêche en mer",
                 "pêche en mer en bateau"
             ]
         },
         {
-            "group": "Techniques de pêche",
-            "title": "pêche au coup",
+            "group": "Équipement de pêche",
+            "title": "moulinet casting",
+            "intent": "commercial",
+            "keywords": [
+                "moulinet casting",
+                "détecteur de touche",
+                "moulinet",
+                "moulinet casting shimano",
+                "moulinet casting daiwa"
+            ]
+        },
+        {
+            "group": "Équipement de pêche",
+            "title": "accessoires pêche",
+            "intent": "commercial",
+            "keywords": [
+                "accessoires pêche",
+                "détecteur touche carpe",
+                "entretien canne à pêche",
+                "détecteur touche peche"
+            ]
+        },
+        {
+            "group": "Pêche à la ligne",
+            "title": "pêche à la ligne",
             "intent": "informational",
             "keywords": [
-                "pêche au coup",
-                "pêche au coup étang",
-                "pêche en mer du bord"
-            ]
-        },
-        {
-            "group": "Matériel de pêche",
-            "title": "moulinet spinning",
-            "intent": "commercial",
-            "keywords": [
-                "moulinet spinning",
-                "moulinet",
-                "accessoires pêche",
-                "moulinet spinning daiwa"
-            ]
-        },
-        {
-            "group": "Leurre souple",
-            "title": "leurre souple brochet",
-            "intent": "commercial",
-            "keywords": [
-                "leurre souple brochet",
-                "leurre souple truite",
+                "pêche à la ligne",
+                "appât",
+                "hameçon",
                 "leurre souple bar",
-                "leurre souple perche"
+                "pêche à la ligne en mer"
             ]
         }
     ],
     "categories": {
         "pêche en mer": "core",
         "canne à pêche casting": "core",
+        "leurre souple": "core",
         "pêche à la mouche": "core",
         "canne à pêche décathlon": "commercial",
-        "pêche au coup": "core",
-        "accessoires pêche": "complementary",
-        "leurre souple": "core",
-        "moulinet spinning": "core",
-        "pêche au carnassier": "core",
+        "détecteur de touche": "core",
+        "accessoires pêche": "core",
+        "moulinet casting": "core",
         "canne à pêche mer": "core",
-        "leurre souple brochet": "core",
-        "pêche à la ligne": "complementary",
+        "pêche à la ligne": "core",
+        "leurre souple brochet": "complementary",
         "canne à pêche enfant": "core",
-        "leurre souple bar": "core",
-        "pêche à la ligne enfant": "core",
-        "moulinet spinning daiwa": "commercial",
-        "canne à pêche au coup": "core",
-        "pêche à la ligne jeu": "complementary",
-        "leurre souple perche": "core",
-        "pêche au coup matériel": "core",
-        "accessoire pêche en mer": "core",
-        "leurre souple truite": "core",
-        "pêche au coup decathlon": "commercial",
-        "pêche au coup étang": "core",
+        "pêche à la ligne enfant": "complementary",
+        "leurre souple bar": "complementary",
+        "détecteur touche carpe": "complementary",
+        "entretien canne à pêche": "complementary",
+        "moulinet casting shimano": "commercial",
+        "détecteur touche peche": "complementary",
+        "pêche à la ligne jeu": "doubtful",
+        "leurre souple perche": "complementary",
+        "accessoire pêche en mer": "complementary",
+        "moulinet casting daiwa": "commercial",
         "pêche en mer du bord": "core",
         "pêche à la ligne en mer": "core",
+        "leurre souple truite": "core",
         "pêche en mer en bateau": "core",
         "canne à pêche télescopique": "complementary",
-        "canne casting": "core",
+        "canne à pêche action": "complementary",
+        "canne spinning": "complementary",
         "canne télescopique": "core",
-        "canne carbone": "core",
-        "canne à emmanchement": "complementary",
-        "anneaux de départ": "complementary",
-        "poignée en liège": "complementary",
-        "puissance de canne": "complementary",
-        "action de canne": "complementary",
-        "longueur de canne": "complementary",
-        "équilibrage de canne": "complementary",
-        "bambou": "complementary",
-        "roseau": "complementary",
+        "canne carbone": "complementary",
+        "anneaux sic": "complementary",
+        "puissance canne": "complementary",
+        "action rapide": "complementary",
+        "poignée ergonomique": "complementary",
+        "porte-moulinet": "complementary",
+        "sensibilité canne": "complementary",
+        "longueur canne": "complementary",
         "hameçon": "complementary",
         "appât": "complementary",
         "moulinet": "complementary"

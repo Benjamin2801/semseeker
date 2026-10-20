@@ -1462,8 +1462,8 @@
             "tourisme médical",
             "grand tour",
             "backpacking",
-            "circumnavigation",
             "migration pendulaire",
+            "circumnavigation",
             "excursion",
             "convoi",
             "visite d'état"
@@ -1483,11 +1483,11 @@
                 "saison voyage japon",
                 "sites touristiques japon",
                 "sécurité japon",
+                "tourisme",
                 "voyagiste",
                 "visa japon",
-                "visa japon maroc",
-                "visa japon algerie",
                 "transport japon",
+                "chemin de fer",
                 "transport",
                 "hébergement japon"
             ]
@@ -1503,11 +1503,22 @@
             ]
         },
         {
+            "group": "Planification",
+            "title": "voyage au japon en famille",
+            "intent": "informational",
+            "keywords": [
+                "voyage au japon en famille",
+                "voyage au japon 2 semaines"
+            ]
+        },
+        {
             "group": "Culture",
             "title": "cuisine japonaise",
             "intent": "informational",
             "keywords": [
                 "cuisine japonaise",
+                "cuisine japonaise facile",
+                "cuisine japonaise livre",
                 "cuisine japonaise recettes",
                 "cuisine japonaise maison",
                 "cuisine japonaise traditionnelle"
@@ -1519,8 +1530,7 @@
             "intent": "informational",
             "keywords": [
                 "culture japonaise",
-                "culture japonaise manga",
-                "culture japonaise traditionnelle"
+                "culture japonaise manga"
             ]
         },
         {
@@ -1539,17 +1549,18 @@
             "intent": "informational",
             "keywords": [
                 "voyage kyoto",
+                "culture japonaise traditionnelle",
                 "voyage japon kyoto"
             ]
         },
         {
-            "group": "Voyage en famille",
-            "title": "voyage au japon en famille",
+            "group": "Pratique",
+            "title": "visa japon tourisme",
             "intent": "informational",
             "keywords": [
-                "voyage au japon en famille",
-                "voyage au japon 2 semaines",
-                "cuisine japonaise facile"
+                "visa japon tourisme",
+                "visa japon france",
+                "visa japon maroc"
             ]
         }
     ],
@@ -1565,31 +1576,33 @@
         "voyage au japon budget": "commercial",
         "voyage au japon prix": "commercial",
         "cuisine japonaise recettes": "complementary",
-        "cuisine japonaise traditionnelle": "core",
+        "cuisine japonaise traditionnelle": "complementary",
         "hébergement japon": "core",
         "transport japon carte": "complementary",
         "culture japonaise manga": "complementary",
-        "voyage au japon 2 semaines": "complementary",
-        "visa japon tourisme": "doubtful",
+        "voyage au japon 2 semaines": "core",
+        "visa japon tourisme": "core",
         "cuisine japonaise facile": "complementary",
-        "visa japon france": "doubtful",
+        "visa japon france": "complementary",
         "voyage tokyo tout inclus": "commercial",
-        "cuisine japonaise livre": "doubtful",
+        "cuisine japonaise livre": "commercial",
         "culture japonaise traditionnelle": "complementary",
         "visa japon maroc": "complementary",
         "cuisine japonaise maison": "complementary",
         "voyage tokyo prix": "commercial",
         "voyage japon kyoto": "complementary",
-        "visa japon algerie": "complementary",
         "itinéraire japon": "core",
         "saison voyage japon": "core",
         "sites touristiques japon": "core",
         "sécurité japon": "core",
+        "chemin de fer": "complementary",
+        "tourisme": "complementary",
         "guide de voyage": "complementary",
         "transport": "complementary",
         "voyagiste": "commercial",
         "agence de voyages": "commercial",
         "exploration": "complementary",
-        "hébergement japonais en france": "doubtful"
+        "hébergement japonais en france": "doubtful",
+        "visa japon algerie": "doubtful"
     }
 }

@@ -70,7 +70,7 @@
         "topics": ["prix|cout", "rentabilite", "subvention|aide|prime", "autoconsommation", "raccordement", "installateur", "onduleur"], "noise": ["engin spatial"],
         "why": "Faire installer des panneaux, pas un tutoriel générique sur le solaire."},
     {"expression": "isolation thermique maison", "verdicts": ["pillar", "pillar_commercial", "service", "category"], "acceptable": ["major_section"], "page": true, "intent": ["informational", "commercial"],
-        "topics": ["combles", "murs", "exterieur", "fenetres", "subvention|aide|prime", "isolant"], "noise": ["phonique"], "fieldGap": "L'isolation phonique occupe plus de 10 % du plan d'une recherche thermique",
+        "topics": ["combles", "murs", "exterieur", "fenetres", "subvention|aide|prime", "isolant"], "noise": ["phonique"],
         "why": "Un projet global d'isolation : guide ou page service ; « maison » ajoute peu, la même page que « isolation thermique » se défend. SERP mixte."},
     {"expression": "cybersécurité entreprise", "verdicts": ["pillar", "service", "category"], "acceptable": ["local"], "page": true, "intent": "commercial",
         "topics": ["audit", "formation|sensibilisation", "rgpd", "ransomware|rancongiciel", "sauvegarde", "pare-feu|firewall", "phishing|hameconnage"], "noise": ["ps5", "samsung", "maroc"],

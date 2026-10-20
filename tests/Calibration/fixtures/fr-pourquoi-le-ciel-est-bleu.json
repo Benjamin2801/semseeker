@@ -1,7 +1,7 @@
 {
     "expression": "pourquoi le ciel est bleu",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -51,9 +51,9 @@
             "pourquoi le ciel est bleu lumni"
         ],
         "google": [
-            "pourquoi le ciel est bleu",
             "pourquoi le ciel est bleu explication enfant",
             "pourquoi le ciel est bleu le jour",
+            "pourquoi le ciel est bleue",
             "pourquoi le ciel est bleu alors que l'espace est noir",
             "pourquoi le ciel est bleu la nuit",
             "pourquoi le ciel est bleu livre",
@@ -442,11 +442,11 @@
         "duckduckgo": [
             [
                 0,
-                "couleur du ciel"
+                "couleur du ciel en 5 lettres"
             ],
             [
                 1,
-                "couleur du ciel en 5 lettres"
+                "couleur du ciel"
             ],
             [
                 2,
@@ -1310,21 +1310,21 @@
         "articles": [
             {
                 "title": "Couleur du ciel",
-                "views": 980,
+                "views": 947,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
                 "title": "Atmosphère terrestre",
-                "views": 5333,
+                "views": 5158,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Arc-en-ciel",
-                "views": 5168,
+                "views": 4995,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1352,10 +1352,12 @@
             "intent": "informational",
             "keywords": [
                 "diffusion de la lumière",
-                "dispersion de la lumière",
+                "diffusion rayleigh",
                 "longueur d'onde",
                 "réfraction",
                 "spectre lumineux",
+                "spectre visible",
+                "épaisseur optique",
                 "phénomène optique",
                 "diffusion dynamique de la lumière"
             ]
@@ -1368,10 +1370,8 @@
                 "couleur du ciel",
                 "azur",
                 "bleu",
-                "ciel diurne",
                 "lumière bleue",
                 "perception",
-                "perception des couleurs",
                 "pourquoi le ciel est bleu explication simple",
                 "pourquoi le ciel est bleu explication enfant"
             ]
@@ -1382,12 +1382,9 @@
             "intent": "informational",
             "keywords": [
                 "atmosphère terrestre",
-                "assombrissement global",
                 "couche d'ozone",
                 "fenêtre atmosphérique",
                 "molécules d'air",
-                "particules en suspension",
-                "épaisseur optique",
                 "composition atmosphère terrestre",
                 "atmosphère terrestre et la vie"
             ]
@@ -1399,7 +1396,7 @@
             "keywords": [
                 "ciel nocturne",
                 "ciel nocturne ce soir",
-                "ciel nocturne mars"
+                "un ciel nocturne coloré"
             ]
         },
         {
@@ -1408,18 +1405,18 @@
             "intent": "informational",
             "keywords": [
                 "rayonnement solaire",
+                "soleil",
                 "rayonnement solaire sur la terre",
-                "rayons du soleil",
                 "rayonnement solaire incident"
             ]
         },
         {
-            "group": "Ressources éducatives",
-            "title": "rayonnement solaire enseignement scientifique",
+            "group": "Explications et ressources",
+            "title": "pourquoi le ciel est bleu le jour",
             "intent": "informational",
             "keywords": [
-                "couleur des nuages",
                 "pourquoi le ciel est bleu le jour",
+                "couleur des nuages",
                 "nuage"
             ]
         }
@@ -1433,10 +1430,11 @@
         "couleur du ciel": "core",
         "pourquoi le ciel est bleu explication simple": "core",
         "pourquoi le ciel est bleu wikipédia": "doubtful",
-        "arc-en-ciel couleur": "complementary",
         "pourquoi le ciel est bleu explication enfant": "core",
+        "arc-en-ciel couleur": "complementary",
         "couleur des nuages": "complementary",
         "phénomène optique": "complementary",
+        "pourquoi le ciel est bleu rap": "doubtful",
         "rayonnement solaire enseignement scientifique": "doubtful",
         "pourquoi le ciel est bleu livre": "doubtful",
         "pourquoi le ciel est bleu signol": "doubtful",
@@ -1444,32 +1442,29 @@
         "composition atmosphère terrestre": "complementary",
         "arc-en-ciel 2": "complementary",
         "ciel nocturne ce soir": "complementary",
+        "pourquoi le ciel est bleu le jour": "complementary",
+        "un ciel nocturne coloré": "complementary",
         "atmosphère terrestre et la vie": "complementary",
         "rayonnement solaire sur la terre": "complementary",
-        "ciel nocturne mars": "complementary",
-        "pourquoi le ciel est bleu le jour": "complementary",
+        "ciel nocturne mars": "doubtful",
         "rayonnement solaire incident": "complementary",
         "arc-en-ciel 1": "complementary",
         "diffusion dynamique de la lumière": "complementary",
         "lumière bleue": "core",
-        "longueur d'onde": "core",
+        "diffusion rayleigh": "core",
+        "soleil": "core",
         "molécules d'air": "core",
-        "rayons du soleil": "core",
-        "particules en suspension": "complementary",
-        "couche d'ozone": "complementary",
+        "longueur d'onde": "core",
         "réfraction": "complementary",
-        "dispersion de la lumière": "core",
-        "ciel diurne": "core",
-        "perception des couleurs": "complementary",
+        "couche d'ozone": "complementary",
+        "spectre visible": "core",
         "nuage": "complementary",
         "spectre lumineux": "complementary",
         "bleu": "complementary",
         "perception": "complementary",
         "azur": "complementary",
         "épaisseur optique": "complementary",
-        "assombrissement global": "complementary",
-        "fenêtre atmosphérique": "complementary",
-        "pourquoi le ciel est bleu rap": "doubtful",
-        "un ciel nocturne coloré": "doubtful"
+        "assombrissement global": "doubtful",
+        "fenêtre atmosphérique": "complementary"
     }
 }

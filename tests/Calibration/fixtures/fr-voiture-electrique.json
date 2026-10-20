@@ -1,7 +1,7 @@
 {
     "expression": "voiture électrique",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -395,15 +395,15 @@
             ],
             [
                 0,
-                "subvention voiture électrique québec"
+                "subvention voiture électrique"
             ],
             [
                 1,
-                "subvention voiture électrique canada"
+                "subvention voiture électrique québec"
             ],
             [
                 2,
-                "subvention voiture électrique"
+                "subvention voiture électrique canada"
             ],
             [
                 3,
@@ -435,11 +435,11 @@
             ],
             [
                 10,
-                "subvention voiture électrique québec 2026"
+                "subvention voiture électrique vaud"
             ],
             [
                 11,
-                "subvention voiture électrique vaud"
+                "subvention voiture électrique québec 2026"
             ],
             [
                 0,
@@ -455,11 +455,11 @@
             ],
             [
                 0,
-                "voiture occasion électrique"
+                "voiture occasion électrique la centrale"
             ],
             [
                 1,
-                "voiture occasion électrique la centrale"
+                "voiture occasion électrique"
             ],
             [
                 2,
@@ -471,7 +471,7 @@
             ],
             [
                 4,
-                "voiture occasion électrique lld"
+                "voiture occasion electrique belgique"
             ],
             [
                 5,
@@ -479,7 +479,7 @@
             ],
             [
                 6,
-                "voiture occasion electrique belgique"
+                "voiture occasion électrique lld"
             ],
             [
                 7,
@@ -653,11 +653,11 @@
             ],
             [
                 4,
-                "batterie voiture électrique enfant 12v"
+                "batterie voiture électrique capacité"
             ],
             [
                 5,
-                "batterie voiture électrique capacité"
+                "batterie voiture électrique enfant 12v"
             ],
             [
                 6,
@@ -761,19 +761,19 @@
             ],
             [
                 4,
-                "mobilité durable saint luke's"
-            ],
-            [
-                5,
                 "mobilité durable 2026"
             ],
             [
-                6,
+                5,
                 "mobilité durable fpt"
             ],
             [
-                7,
+                6,
                 "mobilité durable vélo"
+            ],
+            [
+                7,
+                "mobilité durable forfait"
             ]
         ],
         "ebay": [
@@ -1575,21 +1575,21 @@
         "articles": [
             {
                 "title": "Voiture électrique",
-                "views": 1972,
+                "views": 1930,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
                 "title": "Automobile hybride électrique",
-                "views": 1486,
+                "views": 1441,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Station de recharge",
-                "views": 540,
+                "views": 522,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1598,8 +1598,8 @@
         "sections": 12,
         "types": [
             "tesla model 3",
-            "tesla roadster",
             "nissan leaf",
+            "tesla roadster",
             "tesla model x",
             "bmw i3",
             "tesla model y",
@@ -1612,21 +1612,33 @@
     "pages": [
         {
             "group": "Types de voitures électriques",
+            "title": "voiture électrique enfant",
+            "intent": "transactional",
+            "keywords": [
+                "voiture électrique enfant",
+                "batterie voiture électrique enfant",
+                "batterie voiture électrique enfant 12v"
+            ]
+        },
+        {
+            "group": "Types de voitures électriques",
             "title": "voiture électrique chinoise",
             "intent": "commercial",
             "keywords": [
                 "voiture électrique chinoise",
-                "subvention voiture électrique",
-                "voiture électrique prix",
                 "nissan leaf",
-                "tesla model 3",
-                "tesla roadster",
-                "voiture électrique modèle",
+                "voiture électrique citadine",
+                "voiture électrique familiale",
+                "voiture électrique luxe",
+                "voiture électrique neuve",
+                "voiture électrique utilitaire",
                 "véhicule électrique",
-                "voiture électrique byd",
-                "autonomie voiture électrique byd",
+                "électromobilité",
                 "voiture électrique renault",
-                "renault zoe"
+                "renault zoe",
+                "voiture électrique byd",
+                "tesla model 3",
+                "tesla roadster"
             ]
         },
         {
@@ -1635,7 +1647,6 @@
             "intent": "commercial",
             "keywords": [
                 "voiture hybride",
-                "toyota mirai",
                 "voiture hybride rechargeable",
                 "voiture hybride occasion"
             ]
@@ -1646,44 +1657,43 @@
             "intent": "commercial",
             "keywords": [
                 "voiture électrique occasion",
-                "voiture électrique assurance",
-                "voiture électrique neuve",
-                "voiture électrique sans permis",
-                "autonomie voiture électrique 2026"
+                "voiture occasion électrique la centrale"
             ]
         },
         {
-            "group": "Batteries et recharge",
+            "group": "Recharge et autonomie",
             "title": "borne de recharge",
             "intent": "informational",
             "keywords": [
                 "borne de recharge",
-                "borne de recharge vehicule electrique",
+                "borne de recharge rapide",
                 "station de recharge",
+                "temps de recharge",
                 "borne de recharge à domicile",
+                "borne de recharge vehicule electrique",
                 "borne de recharge schneider"
             ]
         },
         {
-            "group": "Batteries et recharge",
-            "title": "batterie voiture électrique",
+            "group": "Recharge et autonomie",
+            "title": "autonomie voiture électrique",
             "intent": "informational",
             "keywords": [
-                "batterie voiture électrique",
-                "batterie d'accumulateurs",
-                "pile à combustible",
                 "autonomie voiture électrique",
-                "autonomie voiture électrique comparatif"
+                "autonomie réelle",
+                "efficacité énergétique et impact climatique des voitures électriques",
+                "autonomie voiture électrique comparatif",
+                "autonomie voiture électrique byd"
             ]
         },
         {
             "group": "Entretien et accessoires",
-            "title": "voiture électrique enfant",
-            "intent": "transactional",
+            "title": "batterie voiture électrique",
+            "intent": "informational",
             "keywords": [
-                "voiture électrique enfant",
-                "batterie voiture électrique enfant",
-                "batterie voiture électrique enfant 12v"
+                "batterie voiture électrique",
+                "chargeur voiture électrique",
+                "batterie lithium-ion"
             ]
         },
         {
@@ -1692,20 +1702,17 @@
             "intent": "commercial",
             "keywords": [
                 "entretien voiture électrique",
-                "chargeur voiture électrique",
                 "entretien voiture électrique prix"
             ]
         },
         {
-            "group": "Mobilité durable",
-            "title": "mobilité durable",
+            "group": "Aspects financiers",
+            "title": "subvention voiture électrique",
             "intent": "informational",
             "keywords": [
+                "subvention voiture électrique",
                 "mobilité durable",
-                "efficacité énergétique et impact climatique des voitures électriques",
                 "sortie des combustibles fossiles",
-                "électromobilité",
-                "mobilité durable définition",
                 "forfait mobilité durable"
             ]
         }
@@ -1714,46 +1721,53 @@
         "borne de recharge": "core",
         "voiture électrique enfant": "commercial",
         "batterie voiture électrique": "core",
-        "mobilité durable": "complementary",
+        "mobilité durable": "core",
         "voiture hybride": "complementary",
         "voiture électrique chinoise": "core",
         "voiture électrique occasion": "core",
-        "entretien voiture électrique": "complementary",
+        "entretien voiture électrique": "core",
         "autonomie voiture électrique": "core",
         "voiture hybride rechargeable": "complementary",
         "subvention voiture électrique": "commercial",
         "voiture électrique renault": "core",
         "entretien voiture électrique prix": "commercial",
-        "mobilité durable définition": "complementary",
+        "mobilité durable définition": "doubtful",
         "voiture électrique byd": "core",
         "batterie voiture électrique enfant": "commercial",
         "batterie voiture électrique enfant 12v": "commercial",
-        "forfait mobilité durable": "commercial",
-        "voiture électrique sans permis": "complementary",
+        "forfait mobilité durable": "core",
         "borne de recharge à domicile": "commercial",
-        "voiture électrique 2026": "doubtful",
         "borne de recharge vehicule electrique": "complementary",
         "chargeur voiture électrique": "complementary",
-        "voiture hybride occasion": "commercial",
+        "voiture hybride occasion": "complementary",
         "autonomie voiture électrique comparatif": "commercial",
+        "voiture occasion électrique la centrale": "complementary",
         "autonomie voiture électrique byd": "complementary",
-        "borne de recharge schneider": "commercial",
-        "autonomie voiture électrique 2026": "complementary",
-        "voiture électrique neuve": "commercial",
-        "voiture électrique assurance": "commercial",
-        "voiture électrique modèle": "core",
-        "voiture électrique prix": "commercial",
-        "pile à combustible": "complementary",
-        "batterie d'accumulateurs": "complementary",
+        "borne de recharge schneider": "complementary",
+        "voiture électrique neuve": "core",
+        "batterie lithium-ion": "core",
+        "autonomie réelle": "complementary",
+        "temps de recharge": "complementary",
+        "borne de recharge rapide": "complementary",
+        "voiture électrique citadine": "core",
+        "voiture électrique familiale": "core",
+        "voiture électrique luxe": "core",
+        "voiture électrique utilitaire": "core",
+        "automobile": "doubtful",
+        "pile à combustible": "doubtful",
+        "dihydrogène": "doubtful",
+        "batterie d'accumulateurs": "doubtful",
         "renault zoe": "complementary",
-        "toyota mirai": "complementary",
+        "toyota mirai": "doubtful",
         "efficacité énergétique et impact climatique des voitures électriques": "complementary",
         "électromobilité": "complementary",
         "station de recharge": "complementary",
         "sortie des combustibles fossiles": "complementary",
         "véhicule électrique": "complementary",
-        "tesla model 3": "complementary",
-        "tesla roadster": "complementary",
-        "nissan leaf": "complementary"
+        "tesla model 3": "commercial",
+        "nissan leaf": "commercial",
+        "tesla roadster": "commercial",
+        "voiture électrique sans permis": "doubtful",
+        "voiture électrique 2026": "doubtful"
     }
 }

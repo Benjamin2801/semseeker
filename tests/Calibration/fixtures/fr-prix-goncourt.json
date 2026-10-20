@@ -1,7 +1,7 @@
 {
     "expression": "prix goncourt",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "livre gagnant goncourt",
-        "lauréat goncourt",
-        "histoire prix goncourt",
-        "règlement prix goncourt",
-        "jury goncourt",
-        "prix littéraire français",
+        "lauréat prix goncourt",
+        "livre prix goncourt",
+        "prix femina",
         "prix renaudot",
-        "prix femina"
+        "academie goncourt",
+        "roman prix goncourt",
+        "prix litteraire",
+        "histoire prix goncourt"
     ],
     "suggestions": {
         "amazon": [
@@ -96,6 +96,30 @@
         "amazon": [
             [
                 0,
+                "livre prix goncourt"
+            ],
+            [
+                1,
+                "livre prix goncourt 2025 la maison vide"
+            ],
+            [
+                2,
+                "livre prix goncourt 2024"
+            ],
+            [
+                3,
+                "livre prix goncourt 2025"
+            ],
+            [
+                0,
+                "prix femina"
+            ],
+            [
+                1,
+                "prix femina 2026"
+            ],
+            [
+                0,
                 "prix renaudot"
             ],
             [
@@ -136,45 +160,133 @@
             ],
             [
                 0,
-                "prix femina"
+                "roman prix goncourt"
+            ],
+            [
+                0,
+                "prix litteraires 2026"
             ],
             [
                 1,
-                "prix femina 2026"
+                "prix litteraires"
+            ],
+            [
+                2,
+                "prix litteraires 2025"
+            ],
+            [
+                3,
+                "prix litteraires poche"
+            ],
+            [
+                4,
+                "prix litteraire"
+            ],
+            [
+                5,
+                "prix litteraire le monde"
+            ],
+            [
+                6,
+                "prix litteraires 2023"
+            ],
+            [
+                7,
+                "prix litteraires 2022"
             ]
         ],
         "bing": [
             [
                 0,
-                "lauréat goncourt 2025"
+                "lauréat prix goncourt"
             ],
             [
                 1,
-                "lauréat goncourt des lycéens 2025"
+                "lauréat prix goncourt 2025"
             ],
             [
                 2,
-                "lauréats goncourt"
+                "lauréat prix goncourt 2024"
             ],
             [
                 0,
-                "historique prix goncourt"
+                "livre prix goncourt 2026"
             ],
             [
                 1,
-                "prix goncourt histoire"
+                "livre prix goncourt 2025"
+            ],
+            [
+                2,
+                "livre prix goncourt"
+            ],
+            [
+                3,
+                "livre prix goncourt 2023"
+            ],
+            [
+                4,
+                "livre prix goncourt 2024"
+            ],
+            [
+                5,
+                "livre prix goncourt 2021"
+            ],
+            [
+                6,
+                "livre prix goncourt 2022"
+            ],
+            [
+                7,
+                "livre prix goncourt des lycéens"
             ],
             [
                 0,
-                "jury goncourt"
+                "prix femina"
             ],
             [
                 1,
-                "jury goncourt 2025"
+                "prix femina 2026"
             ],
             [
-                0,
-                "prix littéraire français"
+                2,
+                "prix femina 2025"
+            ],
+            [
+                3,
+                "prix femina 2024"
+            ],
+            [
+                4,
+                "prix femina étranger 2025"
+            ],
+            [
+                5,
+                "prix femina etranger"
+            ],
+            [
+                6,
+                "prix femina des lycéens"
+            ],
+            [
+                7,
+                "prix femina 2023"
+            ],
+            [
+                8,
+                "prix femina essai"
+            ],
+            [
+                9,
+                "prix femina 2022"
+            ],
+            [
+                10,
+                "prix femina des lycéens 2025"
+            ],
+            [
+                11,
+                "prix femina étranger 2024"
             ],
             [
                 0,
@@ -226,6 +338,128 @@
             ],
             [
                 0,
+                "academie goncourt"
+            ],
+            [
+                1,
+                "académie goncourt membres"
+            ],
+            [
+                2,
+                "académie goncourt 2025"
+            ],
+            [
+                3,
+                "académie goncourt colette"
+            ],
+            [
+                0,
+                "roman prix goncourt"
+            ],
+            [
+                1,
+                "roman prix goncourt 2025"
+            ],
+            [
+                2,
+                "quel roman a reçu le prix goncourt 2023"
+            ],
+            [
+                0,
+                "prix litteraires"
+            ],
+            [
+                1,
+                "prix littéraires 2025"
+            ],
+            [
+                2,
+                "prix litteraires francais"
+            ],
+            [
+                3,
+                "prix littéraire le monde"
+            ],
+            [
+                4,
+                "prix litteraire citoyenneté"
+            ],
+            [
+                5,
+                "prix littéraires 2026"
+            ],
+            [
+                6,
+                "prix littéraire unicef"
+            ],
+            [
+                7,
+                "prix litteraire paca"
+            ],
+            [
+                8,
+                "prix littéraire ado"
+            ],
+            [
+                9,
+                "prix littéraire fnac"
+            ],
+            [
+                0,
+                "historique prix goncourt"
+            ],
+            [
+                1,
+                "prix goncourt histoire"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "lauréat prix goncourt"
+            ],
+            [
+                1,
+                "lauréat prix goncourt 2025"
+            ],
+            [
+                2,
+                "lauréat prix goncourt 2024"
+            ],
+            [
+                0,
+                "livre prix goncourt 2026"
+            ],
+            [
+                1,
+                "livre prix goncourt 2025"
+            ],
+            [
+                2,
+                "livre prix goncourt"
+            ],
+            [
+                3,
+                "livre prix goncourt 2023"
+            ],
+            [
+                4,
+                "livre prix goncourt 2024"
+            ],
+            [
+                5,
+                "livre prix goncourt 2021"
+            ],
+            [
+                6,
+                "livre prix goncourt 2022"
+            ],
+            [
+                7,
+                "livre prix goncourt des lycéens"
+            ],
+            [
+                0,
                 "prix femina"
             ],
             [
@@ -255,56 +489,6 @@
             [
                 7,
                 "prix femina 2023"
-            ],
-            [
-                8,
-                "prix femina essai"
-            ],
-            [
-                9,
-                "prix femina 2022"
-            ],
-            [
-                10,
-                "prix femina des lycéens 2025"
-            ],
-            [
-                11,
-                "prix femina étranger 2024"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "lauréat goncourt 2025"
-            ],
-            [
-                1,
-                "lauréat goncourt des lycéens 2025"
-            ],
-            [
-                2,
-                "lauréats goncourt"
-            ],
-            [
-                0,
-                "historique prix goncourt"
-            ],
-            [
-                1,
-                "prix goncourt histoire"
-            ],
-            [
-                0,
-                "jury goncourt"
-            ],
-            [
-                1,
-                "jury goncourt 2025"
-            ],
-            [
-                0,
-                "prix littéraire français"
             ],
             [
                 0,
@@ -340,237 +524,153 @@
             ],
             [
                 0,
-                "prix femina"
+                "academie goncourt"
             ],
             [
                 1,
-                "prix femina 2026"
+                "académie goncourt membres"
             ],
             [
                 2,
-                "prix femina 2025"
+                "académie goncourt 2025"
             ],
             [
                 3,
-                "prix femina 2024"
+                "académie goncourt colette"
+            ],
+            [
+                0,
+                "roman prix goncourt"
+            ],
+            [
+                1,
+                "roman prix goncourt 2025"
+            ],
+            [
+                2,
+                "quel roman a reçu le prix goncourt 2023"
+            ],
+            [
+                0,
+                "prix litteraires"
+            ],
+            [
+                1,
+                "prix littéraires 2025"
+            ],
+            [
+                2,
+                "prix litteraires francais"
+            ],
+            [
+                3,
+                "prix littéraire le monde"
             ],
             [
                 4,
-                "prix femina étranger 2025"
+                "prix litteraire citoyenneté"
             ],
             [
                 5,
-                "prix femina etranger"
+                "prix littéraires 2026"
             ],
             [
                 6,
-                "prix femina des lycéens"
+                "prix littéraire unicef"
             ],
             [
                 7,
-                "prix femina 2023"
+                "prix litteraire paca"
+            ],
+            [
+                0,
+                "historique prix goncourt"
+            ],
+            [
+                1,
+                "prix goncourt histoire"
             ]
         ],
         "google": [
             [
                 0,
-                "livre gagnant prix goncourt"
+                "lauréat prix goncourt 2026"
             ],
             [
                 1,
-                "livre gagnant prix goncourt 2025"
-            ],
-            [
-                0,
-                "laureat goncourt 2025"
-            ],
-            [
-                1,
-                "laureat goncourt"
+                "laureat prix goncourt 2025"
             ],
             [
                 2,
-                "laureat goncourt 1955"
+                "laureat prix goncourt"
             ],
             [
                 3,
-                "laureat goncourt 1903"
+                "laureat prix goncourt 2008"
             ],
             [
                 4,
-                "lauréat goncourt des lycéens"
+                "laureat prix goncourt 2011"
             ],
             [
                 5,
-                "laureat goncourt 2026"
+                "laureat prix goncourt 2024"
             ],
             [
                 6,
-                "laureat goncourt 2024"
+                "lauréat prix goncourt 2021"
             ],
             [
                 7,
-                "laureat goncourt des lyceens 2025"
+                "laureat prix goncourt 2023"
             ],
             [
                 8,
-                "laureat goncourt 1988"
+                "lauréat prix goncourt 2022"
             ],
             [
                 9,
-                "laureat goncourt 1955 mots fléchés"
+                "lauréats prix goncourt des lycéens"
             ],
             [
                 0,
-                "histoire prix goncourt"
+                "livre prix goncourt"
             ],
             [
                 1,
-                "historique prix goncourt"
+                "livre prix goncourt 2026"
             ],
             [
                 2,
-                "histoire du prix goncourt 2025"
+                "livre prix goncourt 2025"
             ],
             [
                 3,
-                "roman historique prix goncourt"
+                "livre prix goncourt des lycéens"
             ],
             [
                 4,
-                "prix goncourt histoire avion"
+                "livre prix goncourt 2024"
             ],
             [
                 5,
-                "prix goncourt histoire d'amour"
-            ],
-            [
-                0,
-                "reglement prix goncourt"
-            ],
-            [
-                1,
-                "la loi prix goncourt"
-            ],
-            [
-                0,
-                "jury goncourt"
-            ],
-            [
-                1,
-                "jury goncourt 2026"
-            ],
-            [
-                2,
-                "jury goncourt 2025"
-            ],
-            [
-                3,
-                "jury goncourt et renaudot"
-            ],
-            [
-                4,
-                "jury goncourt membres"
-            ],
-            [
-                5,
-                "jury goncourt des lycéens"
+                "livre prix goncourt 2025 la maison vide"
             ],
             [
                 6,
-                "jury goncourt 2024"
+                "livre prix goncourt des lycéens 2025"
             ],
             [
                 7,
-                "jury goncourt premier roman"
+                "livre prix goncourt 2023"
             ],
             [
                 8,
-                "jules goncourt"
+                "livre prix goncourt la maison vide"
             ],
             [
                 9,
-                "goncourt jury deliberation"
-            ],
-            [
-                0,
-                "prix littéraire français"
-            ],
-            [
-                1,
-                "prix littéraire français créé en 1892"
-            ],
-            [
-                2,
-                "prix littéraire français décerné depuis 1903"
-            ],
-            [
-                3,
-                "prix littéraire français créé en 1926"
-            ],
-            [
-                4,
-                "prix littéraire français 2025"
-            ],
-            [
-                5,
-                "prix littéraire français fondé par testament"
-            ],
-            [
-                6,
-                "prix littéraires français 2026"
-            ],
-            [
-                7,
-                "prix littéraires français 2024"
-            ],
-            [
-                8,
-                "prix livre français"
-            ],
-            [
-                9,
-                "prix litteraire francais mots fléchés"
-            ],
-            [
-                0,
-                "prix renaudot"
-            ],
-            [
-                1,
-                "prix renaudot 2026"
-            ],
-            [
-                2,
-                "prix renaudot des lycéens"
-            ],
-            [
-                3,
-                "prix renaudot 2025"
-            ],
-            [
-                4,
-                "prix renaudot 2026 deuxieme selection"
-            ],
-            [
-                5,
-                "prix renaudot 2024"
-            ],
-            [
-                6,
-                "prix renaudot liste"
-            ],
-            [
-                7,
-                "prix renaudot des lycéens 2026"
-            ],
-            [
-                8,
-                "prix renaudot 2023"
-            ],
-            [
-                9,
-                "prix renaudot des lycéens liste"
+                "livre prix goncourt 2021"
             ],
             [
                 0,
@@ -611,88 +711,6 @@
             [
                 9,
                 "prix femina 2017"
-            ]
-        ],
-        "yahoo": [
-            [
-                0,
-                "livre goncourt"
-            ],
-            [
-                1,
-                "livre goncourt 2024"
-            ],
-            [
-                0,
-                "lauréat goncourt"
-            ],
-            [
-                1,
-                "lauréat prix goncourt"
-            ],
-            [
-                0,
-                "histoire prix goncourt 2024"
-            ],
-            [
-                1,
-                "histoire prix goncourt 2025"
-            ],
-            [
-                2,
-                "histoire prix goncourt des lycéens"
-            ],
-            [
-                3,
-                "histoire prix goncourt 2026"
-            ],
-            [
-                0,
-                "reglement prix goncourt 2024"
-            ],
-            [
-                1,
-                "reglement prix goncourt 2025"
-            ],
-            [
-                2,
-                "reglement prix goncourt des lycéens"
-            ],
-            [
-                3,
-                "reglement prix goncourt 2026"
-            ],
-            [
-                0,
-                "jury goncourt"
-            ],
-            [
-                1,
-                "membres jury goncourt"
-            ],
-            [
-                2,
-                "jury prix goncourt"
-            ],
-            [
-                3,
-                "jury du goncourt"
-            ],
-            [
-                0,
-                "prix littéraire française"
-            ],
-            [
-                1,
-                "prix littéraire français façile"
-            ],
-            [
-                2,
-                "prix littéraire français anglais"
-            ],
-            [
-                3,
-                "prix littéraire français facile"
             ],
             [
                 0,
@@ -700,23 +718,205 @@
             ],
             [
                 1,
-                "prix renaudot 2025"
-            ],
-            [
-                2,
                 "prix renaudot 2026"
             ],
             [
-                3,
+                2,
                 "prix renaudot des lycéens"
             ],
             [
+                3,
+                "prix renaudot 2026 deuxieme selection"
+            ],
+            [
                 4,
-                "prix renaudot liste"
+                "prix renaudot 2025"
             ],
             [
                 5,
-                "prix renaudot essai"
+                "prix renaudot 2024"
+            ],
+            [
+                6,
+                "prix renaudot liste"
+            ],
+            [
+                7,
+                "prix renaudot des lycéens 2026"
+            ],
+            [
+                8,
+                "prix renaudot 2023"
+            ],
+            [
+                9,
+                "prix renaudot des lycéens liste"
+            ],
+            [
+                0,
+                "académie goncourt"
+            ],
+            [
+                1,
+                "academie goncourt wikipedia"
+            ],
+            [
+                2,
+                "academie goncourt president"
+            ],
+            [
+                3,
+                "academie goncourt 2023"
+            ],
+            [
+                4,
+                "académie goncourt membres"
+            ],
+            [
+                5,
+                "académie goncourt c est quoi"
+            ],
+            [
+                6,
+                "academie goncourt 2025"
+            ],
+            [
+                7,
+                "académie goncourt adresse"
+            ],
+            [
+                8,
+                "academie goncourt colette"
+            ],
+            [
+                9,
+                "académie goncourt contact"
+            ],
+            [
+                0,
+                "roman prix goncourt"
+            ],
+            [
+                1,
+                "roman prix goncourt 2026"
+            ],
+            [
+                2,
+                "roman prix goncourt 2025"
+            ],
+            [
+                3,
+                "roman prix goncourt 2024"
+            ],
+            [
+                4,
+                "roman prix goncourt 2023"
+            ],
+            [
+                5,
+                "roman prix goncourt 2022"
+            ],
+            [
+                6,
+                "roman prix goncourt ia"
+            ],
+            [
+                7,
+                "livre prix goncourt 2025"
+            ],
+            [
+                8,
+                "livre prix goncourt"
+            ],
+            [
+                9,
+                "livre prix goncourt 2026"
+            ],
+            [
+                0,
+                "prix littéraire"
+            ],
+            [
+                1,
+                "prix littéraires 2026"
+            ],
+            [
+                2,
+                "prix littéraire le monde"
+            ],
+            [
+                3,
+                "prix littéraires 2025"
+            ],
+            [
+                4,
+                "prix littéraire le monde 2026"
+            ],
+            [
+                5,
+                "prix litteraire jeunesse"
+            ],
+            [
+                6,
+                "prix littéraire 2024"
+            ],
+            [
+                7,
+                "prix litteraire lyceens"
+            ],
+            [
+                8,
+                "prix littéraire français"
+            ],
+            [
+                9,
+                "prix litteraire zonta"
+            ],
+            [
+                0,
+                "histoire prix goncourt"
+            ],
+            [
+                1,
+                "historique prix goncourt"
+            ],
+            [
+                2,
+                "histoire du prix goncourt 2025"
+            ],
+            [
+                3,
+                "roman historique prix goncourt"
+            ],
+            [
+                4,
+                "prix goncourt histoire avion"
+            ],
+            [
+                5,
+                "prix goncourt histoire d'amour"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "lauréat prix goncourt"
+            ],
+            [
+                1,
+                "lauréat du prix goncourt"
+            ],
+            [
+                0,
+                "livre prix goncourt"
+            ],
+            [
+                1,
+                "livre prix goncourt 2021"
+            ],
+            [
+                2,
+                "livre prix goncourt 2024"
             ],
             [
                 0,
@@ -753,12 +953,144 @@
             [
                 8,
                 "prix femina 2024"
+            ],
+            [
+                0,
+                "prix renaudot"
+            ],
+            [
+                1,
+                "prix renaudot 2025"
+            ],
+            [
+                2,
+                "prix renaudot 2026"
+            ],
+            [
+                3,
+                "prix renaudot des lycéens"
+            ],
+            [
+                4,
+                "prix renaudot liste"
+            ],
+            [
+                5,
+                "prix renaudot essai"
+            ],
+            [
+                0,
+                "académie goncourt"
+            ],
+            [
+                1,
+                "académie goncourt membres"
+            ],
+            [
+                2,
+                "académie goncourt collection œuvres othello"
+            ],
+            [
+                3,
+                "académie goncourt collection les grands écrivains œuvres othello"
+            ],
+            [
+                4,
+                "site académie goncourt"
+            ],
+            [
+                0,
+                "roman prix goncourt 2024"
+            ],
+            [
+                1,
+                "roman prix goncourt 2025"
+            ],
+            [
+                2,
+                "roman prix goncourt des lycéens"
+            ],
+            [
+                3,
+                "roman prix goncourt 2026"
+            ],
+            [
+                0,
+                "prix littéraires"
+            ],
+            [
+                1,
+                "prix littéraire 2023"
+            ],
+            [
+                2,
+                "prix littéraires 2025"
+            ],
+            [
+                3,
+                "prix littéraire des lycéens"
+            ],
+            [
+                4,
+                "prix littéraire pasolini"
+            ],
+            [
+                5,
+                "prix littéraire france télévision"
+            ],
+            [
+                6,
+                "prix littéraires en france"
+            ],
+            [
+                7,
+                "prix littéraire 30 millions d'amis"
+            ],
+            [
+                8,
+                "prix littéraire castel"
+            ],
+            [
+                9,
+                "prix littéraire kessel"
+            ],
+            [
+                0,
+                "histoire prix goncourt 2024"
+            ],
+            [
+                1,
+                "histoire prix goncourt 2025"
+            ],
+            [
+                2,
+                "histoire prix goncourt des lycéens"
+            ],
+            [
+                3,
+                "histoire prix goncourt 2026"
             ]
         ],
         "youtube": [
             [
                 0,
-                "histoire prix goncourt"
+                "livre prix goncourt"
+            ],
+            [
+                1,
+                "livre audio prix goncourt"
+            ],
+            [
+                0,
+                "prix femina"
+            ],
+            [
+                1,
+                "prix femina 2025"
+            ],
+            [
+                2,
+                "prix femina 2025 en direct"
             ],
             [
                 0,
@@ -778,15 +1110,23 @@
             ],
             [
                 0,
-                "prix femina"
+                "livre prix goncourt"
             ],
             [
                 1,
-                "prix femina 2025"
+                "livre audio prix goncourt"
             ],
             [
-                2,
-                "prix femina 2025 en direct"
+                0,
+                "prix littéraire"
+            ],
+            [
+                1,
+                "prix litteraire 2025"
+            ],
+            [
+                0,
+                "histoire prix goncourt"
             ]
         ]
     },
@@ -794,14 +1134,21 @@
         "articles": [
             {
                 "title": "Prix Goncourt",
-                "views": 18115,
+                "views": 17657,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
                 "title": "Prix Femina",
-                "views": 2899,
+                "views": 2813,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Liste de prix littéraires",
+                "views": 1892,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -817,39 +1164,38 @@
             "intent": "informational",
             "keywords": [
                 "prix goncourt 2025",
-                "histoire prix goncourt 2025",
-                "cérémonie remise prix",
-                "dotation financière",
-                "impact ventes livres",
-                "prix goncourt de la biographie",
-                "prix goncourt de la nouvelle",
-                "prix goncourt de la poésie",
-                "sélection finale",
+                "prix goncourt liste",
+                "prix goncourt discours",
+                "prix goncourt dotation",
+                "prix goncourt reglement",
+                "prix goncourt valeur",
                 "prix goncourt 2024",
-                "prix goncourt 2023",
                 "prix goncourt 2026",
-                "lauréat goncourt 2025"
+                "lauréat prix goncourt",
+                "laureat goncourt"
             ]
         },
         {
             "group": "Prix Goncourt",
             "title": "prix goncourt des lyceens",
-            "intent": "informational",
+            "intent": "commercial",
             "keywords": [
                 "prix goncourt des lyceens",
-                "prix goncourt des lycéens 2025",
-                "lauréat goncourt des lycéens 2025"
+                "prix renaudot des lycéens",
+                "prix goncourt des lycéens 2025"
             ]
         },
         {
             "group": "Prix Goncourt",
-            "title": "jury goncourt",
+            "title": "academie goncourt",
             "intent": "informational",
             "keywords": [
-                "jury goncourt",
                 "academie goncourt",
-                "jury goncourt 2025",
-                "membres jury goncourt"
+                "edmond goncourt",
+                "frères goncourt",
+                "jury goncourt",
+                "histoire prix goncourt",
+                "académie goncourt membres"
             ]
         },
         {
@@ -859,9 +1205,24 @@
             "keywords": [
                 "prix renaudot",
                 "prix renaudot 2025",
-                "prix renaudot 2024",
                 "prix renaudot 2026",
-                "prix renaudot des lycéens"
+                "prix renaudot 2024"
+            ]
+        },
+        {
+            "group": "Autres prix littéraires",
+            "title": "prix litteraires",
+            "intent": "commercial",
+            "keywords": [
+                "prix litteraires",
+                "liste de prix littéraires",
+                "liste des prix littéraires français",
+                "prix goncourt de la biographie",
+                "prix goncourt de la nouvelle",
+                "prix goncourt de la poésie",
+                "prix littéraires 2025",
+                "prix litteraires 2026",
+                "prix littéraire le monde"
             ]
         },
         {
@@ -870,37 +1231,40 @@
             "intent": "commercial",
             "keywords": [
                 "prix femina",
-                "prix femina 2024",
                 "prix femina 2026",
-                "prix femina 2025",
-                "prix femina etranger"
+                "prix femina 2025"
             ]
         },
         {
-            "group": "Histoire et lauréats",
-            "title": "histoire prix goncourt",
-            "intent": "informational",
-            "keywords": [
-                "histoire prix goncourt",
-                "archives goncourt",
-                "controverses goncourt",
-                "lauréat goncourt",
-                "laureats célèbres",
-                "romans goncourt",
-                "historique prix goncourt",
-                "frères goncourt"
-            ]
-        },
-        {
-            "group": "Prix littéraires français",
-            "title": "prix littéraire français",
+            "group": "Livres et romans",
+            "title": "livre prix goncourt",
             "intent": "commercial",
             "keywords": [
-                "prix littéraire français",
-                "prix femina essai",
-                "liste de prix littéraires",
-                "liste des prix littéraires français",
-                "prix littéraire"
+                "livre prix goncourt",
+                "roman prix goncourt",
+                "livre prix goncourt 2024",
+                "livre prix goncourt 2025"
+            ]
+        },
+        {
+            "group": "Livres et romans",
+            "title": "roman prix goncourt 2025",
+            "intent": "commercial",
+            "keywords": [
+                "roman prix goncourt 2025"
+            ]
+        },
+        {
+            "group": "Histoire et archives",
+            "title": "historique prix goncourt",
+            "intent": "informational",
+            "keywords": [
+                "historique prix goncourt",
+                "1892 en littérature",
+                "1903",
+                "prix goncourt deuxieme guerre",
+                "prix goncourt premiere guerre",
+                "prix goncourt 2023"
             ]
         }
     ],
@@ -911,47 +1275,45 @@
         "prix goncourt 2026": "core",
         "prix femina": "commercial",
         "prix renaudot": "commercial",
+        "prix litteraires": "commercial",
+        "livre prix goncourt": "core",
+        "prix littéraires 2025": "commercial",
         "prix renaudot 2025": "commercial",
         "prix femina 2026": "commercial",
         "prix renaudot 2026": "commercial",
         "prix femina 2025": "commercial",
-        "jury goncourt": "core",
+        "academie goncourt": "core",
+        "roman prix goncourt": "core",
         "prix renaudot des lycéens": "commercial",
         "histoire prix goncourt": "core",
-        "lauréat goncourt": "core",
-        "prix goncourt 2023": "core",
+        "livre prix goncourt 2024": "core",
+        "lauréat prix goncourt": "core",
+        "roman prix goncourt 2025": "core",
+        "prix goncourt 2023": "complementary",
         "prix goncourt des lycéens 2025": "core",
-        "lauréat goncourt 2025": "core",
-        "prix littéraire français": "commercial",
+        "académie goncourt membres": "core",
+        "livre prix goncourt 2025": "core",
+        "prix litteraires 2026": "commercial",
+        "prix littéraire le monde": "commercial",
         "prix renaudot 2024": "commercial",
         "historique prix goncourt": "core",
-        "jury goncourt 2025": "core",
-        "histoire prix goncourt 2025": "complementary",
-        "prix femina 2024": "commercial",
-        "prix femina etranger": "commercial",
-        "membres jury goncourt": "complementary",
-        "lauréat goncourt des lycéens 2025": "complementary",
-        "prix femina essai": "commercial",
-        "academie goncourt": "core",
-        "romans goncourt": "core",
-        "edmond charles roujon": "doubtful",
-        "laureats célèbres": "complementary",
-        "cérémonie remise prix": "commercial",
-        "dotation financière": "complementary",
-        "sélection finale": "complementary",
-        "impact ventes livres": "complementary",
-        "controverses goncourt": "core",
-        "archives goncourt": "core",
-        "prix littéraire": "commercial",
-        "edmond de goncourt": "doubtful",
-        "1892 en littérature": "doubtful",
-        "1903": "doubtful",
+        "edmond goncourt": "core",
+        "jury goncourt": "core",
+        "laureat goncourt": "core",
+        "prix goncourt premiere guerre": "core",
+        "prix goncourt deuxieme guerre": "core",
+        "prix goncourt liste": "complementary",
+        "prix goncourt reglement": "core",
+        "prix goncourt valeur": "core",
+        "prix goncourt dotation": "core",
+        "prix goncourt discours": "core",
+        "1892 en littérature": "complementary",
+        "1903": "complementary",
         "liste de prix littéraires": "commercial",
         "liste des prix littéraires français": "commercial",
         "frères goncourt": "complementary",
         "prix goncourt de la poésie": "complementary",
         "prix goncourt de la nouvelle": "complementary",
-        "prix goncourt de la biographie": "complementary",
-        "prix femina des lycéens": "doubtful"
+        "prix goncourt de la biographie": "complementary"
     }
 }

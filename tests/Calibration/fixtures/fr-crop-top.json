@@ -1,7 +1,7 @@
 {
     "expression": "crop top",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,12 @@
     ],
     "failed": [],
     "concepts": [
-        "débardeur court",
         "haut court",
+        "débardeur court",
         "t-shirt court",
-        "vêtement court",
         "mode été",
-        "style décontracté",
-        "tendance vestimentaire",
-        "haut moulant"
+        "vêtement femme",
+        "style années 90"
     ],
     "suggestions": {
         "amazon": [
@@ -104,46 +102,6 @@
         "amazon": [
             [
                 0,
-                "débardeur court femme"
-            ],
-            [
-                1,
-                "débardeur court"
-            ],
-            [
-                2,
-                "débardeur court blanc femme"
-            ],
-            [
-                3,
-                "débardeur court col roulé femme"
-            ],
-            [
-                4,
-                "débardeur court homme"
-            ],
-            [
-                5,
-                "débardeur court sport"
-            ],
-            [
-                6,
-                "débardeur court pour femme fines bretelles sans rembourrage"
-            ],
-            [
-                7,
-                "débardeur court femme sport"
-            ],
-            [
-                8,
-                "débardeur court rouge"
-            ],
-            [
-                9,
-                "débardeur court sans manches pour femme avec bretelles spaghetti"
-            ],
-            [
-                0,
                 "haut court femme"
             ],
             [
@@ -181,6 +139,46 @@
             [
                 9,
                 "haut court gothique"
+            ],
+            [
+                0,
+                "débardeur court femme"
+            ],
+            [
+                1,
+                "débardeur court"
+            ],
+            [
+                2,
+                "débardeur court blanc femme"
+            ],
+            [
+                3,
+                "débardeur court col roulé femme"
+            ],
+            [
+                4,
+                "débardeur court homme"
+            ],
+            [
+                5,
+                "débardeur court sport"
+            ],
+            [
+                6,
+                "débardeur court pour femme fines bretelles sans rembourrage"
+            ],
+            [
+                7,
+                "débardeur court femme sport"
+            ],
+            [
+                8,
+                "débardeur court rouge"
+            ],
+            [
+                9,
+                "débardeur court sans manches pour femme avec bretelles spaghetti"
             ],
             [
                 0,
@@ -224,78 +222,46 @@
             ],
             [
                 0,
-                "style décontracté"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté femme"
-            ],
-            [
-                0,
-                "haut moulant femme"
-            ],
-            [
-                1,
-                "haut moulant manche longue"
+                "vêtement femme grande taille"
             ],
             [
                 2,
-                "haut moulant"
+                "sous vêtement femme très sexy"
             ],
             [
                 3,
-                "haut moulant femme sexy"
+                "vêtement femme automne"
             ],
             [
                 4,
-                "haut moulant sport femme"
+                "vêtement femme guess"
             ],
             [
                 5,
-                "haut moulant homme"
+                "vêtement femme sexy chic"
             ],
             [
                 6,
-                "haut moulant noir manche longue"
+                "vêtement femme hiver"
             ],
             [
                 7,
-                "haut moulant transparent"
+                "vêtement femme enceinte"
             ],
             [
                 8,
-                "haut moulant fille"
+                "vêtement femme rose"
             ],
             [
                 9,
-                "haut moulant rouge"
+                "vêtement femme octobre rose"
             ]
         ],
         "bing": [
-            [
-                0,
-                "débardeur court"
-            ],
-            [
-                1,
-                "débardeur court femme"
-            ],
-            [
-                2,
-                "débardeur court homme"
-            ],
-            [
-                3,
-                "débardeur court blanc"
-            ],
-            [
-                4,
-                "débardeur court femme sport"
-            ],
-            [
-                5,
-                "débardeur course à pied homme"
-            ],
             [
                 0,
                 "haut court"
@@ -338,6 +304,30 @@
             ],
             [
                 0,
+                "débardeur court"
+            ],
+            [
+                1,
+                "débardeur court femme"
+            ],
+            [
+                2,
+                "débardeur court homme"
+            ],
+            [
+                3,
+                "débardeur court blanc"
+            ],
+            [
+                4,
+                "débardeur court femme sport"
+            ],
+            [
+                5,
+                "débardeur course à pied homme"
+            ],
+            [
+                0,
                 "t-shirt court"
             ],
             [
@@ -371,46 +361,6 @@
             [
                 8,
                 "court dri-fit advantage slam t-shirt herren"
-            ],
-            [
-                0,
-                "vêtement court"
-            ],
-            [
-                1,
-                "vêtement course à pied femme"
-            ],
-            [
-                2,
-                "vêtement course à pied"
-            ],
-            [
-                3,
-                "vêtement course à pied homme"
-            ],
-            [
-                4,
-                "vêtement country"
-            ],
-            [
-                5,
-                "vêtement courir"
-            ],
-            [
-                6,
-                "vêtement couture"
-            ],
-            [
-                7,
-                "vêtement corteiz"
-            ],
-            [
-                8,
-                "vêtement country femme western"
-            ],
-            [
-                9,
-                "vêtement country homme"
             ],
             [
                 0,
@@ -458,94 +408,82 @@
             ],
             [
                 0,
-                "style décontracté"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté homme"
+                "vêtement femme grande taille"
             ],
             [
                 2,
-                "style décontracté femme"
+                "vêtement femme en ligne"
             ],
             [
                 3,
-                "style décontracté chic homme"
+                "vêtement femme chic"
             ],
             [
                 4,
-                "style décontracté chic"
+                "vêtement femme temu"
             ],
             [
                 5,
-                "style automne décontracté"
+                "vêtement femme tendance"
+            ],
+            [
+                6,
+                "vêtement femme shein"
+            ],
+            [
+                7,
+                "vêtement femme zara"
+            ],
+            [
+                8,
+                "vêtement femme 60 ans"
+            ],
+            [
+                9,
+                "vêtement femme cérémonie"
+            ],
+            [
+                10,
+                "vêtement femme forte"
+            ],
+            [
+                11,
+                "vêtement femme grande taille moderne"
             ],
             [
                 0,
-                "tendance vestimentaire 2026"
+                "style années 90"
             ],
             [
                 1,
-                "tendance vestimentaire automne 2026"
+                "style années 90 homme"
             ],
             [
                 2,
-                "tendance vestimentaire 2025"
+                "style années 90 femme"
             ],
             [
                 3,
-                "tendance vestimentaire femme 2026"
+                "stylo années 90"
             ],
             [
                 4,
-                "tendance vestimentaire"
+                "style année 90 2000"
             ],
             [
                 5,
-                "tendance vestimentaire 2025 femme"
+                "style année 90 usa"
             ],
             [
-                0,
-                "haut moulant"
-            ],
-            [
-                1,
-                "haut moulant manche longue"
-            ],
-            [
-                2,
-                "haut moulant noir"
-            ],
-            [
-                3,
-                "haut moulant homme"
+                6,
+                "style années 80"
             ]
         ],
         "duckduckgo": [
-            [
-                0,
-                "débardeur court"
-            ],
-            [
-                1,
-                "débardeur court femme"
-            ],
-            [
-                2,
-                "débardeur court homme"
-            ],
-            [
-                3,
-                "débardeur court blanc"
-            ],
-            [
-                4,
-                "débardeur court femme sport"
-            ],
-            [
-                5,
-                "débardeur course à pied homme"
-            ],
             [
                 0,
                 "haut court"
@@ -577,6 +515,30 @@
             [
                 7,
                 "haut court blanc"
+            ],
+            [
+                0,
+                "débardeur court"
+            ],
+            [
+                1,
+                "débardeur court femme"
+            ],
+            [
+                2,
+                "débardeur court homme"
+            ],
+            [
+                3,
+                "débardeur court blanc"
+            ],
+            [
+                4,
+                "débardeur court femme sport"
+            ],
+            [
+                5,
+                "débardeur course à pied homme"
             ],
             [
                 0,
@@ -612,38 +574,6 @@
             ],
             [
                 0,
-                "vêtement court"
-            ],
-            [
-                1,
-                "vêtement course à pied femme"
-            ],
-            [
-                2,
-                "vêtement course à pied"
-            ],
-            [
-                3,
-                "vêtement course à pied homme"
-            ],
-            [
-                4,
-                "vêtement country"
-            ],
-            [
-                5,
-                "vêtement courir"
-            ],
-            [
-                6,
-                "vêtement couture"
-            ],
-            [
-                7,
-                "vêtement corteiz"
-            ],
-            [
-                0,
                 "mode été 2026"
             ],
             [
@@ -676,110 +606,92 @@
             ],
             [
                 0,
-                "style décontracté"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté homme"
+                "vêtement femme grande taille"
             ],
             [
                 2,
-                "style décontracté femme"
+                "vêtement femme chic"
             ],
             [
                 3,
-                "style décontracté chic homme"
+                "vêtement femme en ligne"
             ],
             [
                 4,
-                "style décontracté chic"
+                "vêtement femme temu"
             ],
             [
                 5,
-                "style automne décontracté"
-            ],
-            [
-                0,
-                "tendance vestimentaire 2026"
-            ],
-            [
-                1,
-                "tendance vestimentaire automne 2026"
-            ],
-            [
-                2,
-                "tendance vestimentaire 2025"
-            ],
-            [
-                3,
-                "tendance vestimentaire femme 2026"
-            ],
-            [
-                4,
-                "tendance vestimentaire"
-            ],
-            [
-                5,
-                "tendance vestimentaire 2025 femme"
-            ],
-            [
-                0,
-                "haut moulant"
-            ],
-            [
-                1,
-                "haut moulant manche longue"
-            ],
-            [
-                2,
-                "haut moulant noir"
-            ],
-            [
-                3,
-                "haut moulant homme"
-            ]
-        ],
-        "google": [
-            [
-                0,
-                "débardeur court femme"
-            ],
-            [
-                1,
-                "débardeur court"
-            ],
-            [
-                2,
-                "débardeur court femme sport"
-            ],
-            [
-                3,
-                "débardeur court blanc"
-            ],
-            [
-                4,
-                "débardeur court de running adi365 iconic"
-            ],
-            [
-                5,
-                "débardeur court homme"
+                "vêtement femme tendance"
             ],
             [
                 6,
-                "débardeur court femme zara"
+                "vêtement femme shein"
             ],
             [
                 7,
-                "débardeur court zara"
+                "vêtement femme zara"
             ],
             [
-                8,
-                "debardeur court noir"
+                0,
+                "style années 90"
             ],
             [
-                9,
-                "debardeur court running femme"
+                1,
+                "style années 90 homme"
             ],
+            [
+                2,
+                "style années 90 femme"
+            ],
+            [
+                3,
+                "stylo années 90"
+            ],
+            [
+                4,
+                "style année 90 2000"
+            ],
+            [
+                5,
+                "style année 90 usa"
+            ],
+            [
+                6,
+                "style années 80"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "vêtement femme"
+            ],
+            [
+                1,
+                "vêtement femme ancien"
+            ],
+            [
+                2,
+                "sous vêtement femme"
+            ],
+            [
+                3,
+                "sous vêtement sexy femme"
+            ],
+            [
+                4,
+                "costume vêtement d'époque femme"
+            ],
+            [
+                5,
+                "lot vêtement femme"
+            ]
+        ],
+        "google": [
             [
                 0,
                 "haut court femme"
@@ -819,6 +731,46 @@
             [
                 9,
                 "haut court large femme"
+            ],
+            [
+                0,
+                "débardeur court femme"
+            ],
+            [
+                1,
+                "débardeur court"
+            ],
+            [
+                2,
+                "débardeur court femme sport"
+            ],
+            [
+                3,
+                "débardeur court blanc"
+            ],
+            [
+                4,
+                "débardeur court de running adi365 iconic"
+            ],
+            [
+                5,
+                "débardeur court homme"
+            ],
+            [
+                6,
+                "débardeur court femme zara"
+            ],
+            [
+                7,
+                "débardeur court zara"
+            ],
+            [
+                8,
+                "debardeur court noir"
+            ],
+            [
+                9,
+                "debardeur court running femme"
             ],
             [
                 0,
@@ -862,46 +814,6 @@
             ],
             [
                 0,
-                "vêtement court 5 lettres"
-            ],
-            [
-                1,
-                "vetement court circuit"
-            ],
-            [
-                2,
-                "vetement court mots fléchés"
-            ],
-            [
-                3,
-                "vetement court"
-            ],
-            [
-                4,
-                "robe courte"
-            ],
-            [
-                5,
-                "robe courte femme"
-            ],
-            [
-                6,
-                "robe courte mariage"
-            ],
-            [
-                7,
-                "robe courte blanche"
-            ],
-            [
-                8,
-                "robe courte manche longue"
-            ],
-            [
-                9,
-                "robe courte mariage civil"
-            ],
-            [
-                0,
                 "mode été 2026 femme"
             ],
             [
@@ -942,119 +854,83 @@
             ],
             [
                 0,
-                "style décontracté"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté homme"
+                "vêtement femme en ligne"
             ],
             [
                 2,
-                "style décontracté femme"
+                "vêtement femme pas cher"
             ],
             [
                 3,
-                "style décontracté chic"
+                "vêtement femme chic et tendance"
             ],
             [
                 4,
-                "style décontracté chic homme"
+                "vêtement femme chic"
             ],
             [
                 5,
-                "style décontracté chic femme"
+                "vêtement femme petite taille 1m50"
             ],
             [
                 6,
-                "style décontracté homme mariage"
+                "vêtement femme grande taille"
             ],
             [
                 7,
-                "style décontracté mariage"
+                "vêtement femme chic en ligne"
             ],
             [
                 8,
-                "style décontracté été homme"
-            ],
-            [
-                0,
-                "tendance vestimentaire 2026"
-            ],
-            [
-                1,
-                "tendance vestimentaire automne 2026"
-            ],
-            [
-                2,
-                "tendance vestimentaire"
-            ],
-            [
-                3,
-                "tendance vestimentaire femme 2026"
-            ],
-            [
-                4,
-                "tendance vestimentaire femme automne 2026"
-            ],
-            [
-                5,
-                "tendance vestimentaire ete 2026"
-            ],
-            [
-                6,
-                "tendance vestimentaire hiver 2026"
-            ],
-            [
-                7,
-                "tendance vestimentaire pour l'automne"
-            ],
-            [
-                8,
-                "tendance vestimentaire cet hiver"
+                "vêtement femme grande taille chic"
             ],
             [
                 9,
-                "tendance vestimentaire homme 2026"
+                "vêtement femme tendance"
             ],
             [
                 0,
-                "haut moulant femme"
+                "style années 90"
             ],
             [
                 1,
-                "haut moulant"
+                "style années 90 femme"
             ],
             [
                 2,
-                "haut moulant manche longue"
+                "style années 90 homme"
             ],
             [
                 3,
-                "haut moulant homme"
+                "look années 90 pour soirée"
             ],
             [
                 4,
-                "haut moulant noir"
+                "look années 90"
             ],
             [
                 5,
-                "haut moulant femme manche longue"
+                "tenue années 90"
             ],
             [
                 6,
-                "haut moulant zara"
+                "look années 90 2000 pour soirée"
             ],
             [
                 7,
-                "haut moulant noir femme"
+                "style annee 90 2000"
             ],
             [
                 8,
-                "haut moulant h&m"
+                "style année 90 2000 homme"
             ],
             [
                 9,
-                "haut moulant sport homme"
+                "look années 90 pour soirée homme"
             ]
         ],
         "indeed": [
@@ -1068,14 +944,6 @@
             ]
         ],
         "yahoo": [
-            [
-                0,
-                "débardeur court"
-            ],
-            [
-                1,
-                "débardeur court femme"
-            ],
             [
                 0,
                 "haut court femme"
@@ -1094,6 +962,14 @@
             ],
             [
                 0,
+                "débardeur court"
+            ],
+            [
+                1,
+                "débardeur court femme"
+            ],
+            [
+                0,
                 "t-shirt court"
             ],
             [
@@ -1107,10 +983,6 @@
             [
                 3,
                 "t shirt court et large"
-            ],
-            [
-                0,
-                "vêtement féminin très court"
             ],
             [
                 0,
@@ -1154,66 +1026,78 @@
             ],
             [
                 0,
-                "style décontracté"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté chic"
+                "vêtement femme grande taille"
             ],
             [
                 2,
-                "housse de canapé style décontracté"
+                "vêtement femme fashion"
             ],
             [
                 3,
-                "style décontracté chic femme"
+                "vêtement femme classe et chic"
             ],
             [
                 4,
-                "style décontracté chic homme"
+                "vêtement femme chic"
+            ],
+            [
+                5,
+                "vêtement femme ronde"
+            ],
+            [
+                6,
+                "vêtement femme en ligne"
+            ],
+            [
+                7,
+                "vêtement femme converse"
+            ],
+            [
+                8,
+                "vêtement femme mode"
+            ],
+            [
+                9,
+                "vêtement femme shein"
             ],
             [
                 0,
-                "tendance vestimentaire religieuse"
+                "style années 90"
             ],
             [
                 1,
-                "tendance vestimentaire définition"
+                "style des années 90"
             ],
             [
                 2,
-                "tendance vestimentairement"
+                "style annees 90-2000"
             ],
             [
                 3,
-                "tendance vestimentaire synonyme"
+                "style femme années 90"
             ],
             [
-                0,
-                "haut moulant femme"
+                4,
+                "style vestimentaire des années 90"
             ],
             [
-                1,
-                "haut moulant"
+                5,
+                "style grunge années 90"
             ],
             [
-                2,
-                "haut moulant fille"
+                6,
+                "style vestimentaire femme années 90"
             ],
             [
-                3,
-                "haut moulant dentelle"
+                7,
+                "style vestimentaire homme années 90"
             ]
         ],
         "youtube": [
-            [
-                0,
-                "haut court crochet"
-            ],
-            [
-                1,
-                "marcel courthiade"
-            ],
             [
                 0,
                 "haut court crochet"
@@ -1248,6 +1132,14 @@
             ],
             [
                 0,
+                "haut court crochet"
+            ],
+            [
+                1,
+                "marcel courthiade"
+            ],
+            [
+                0,
                 "t-shirt court"
             ],
             [
@@ -1265,46 +1157,6 @@
             [
                 4,
                 "yuzi t shirt in court"
-            ],
-            [
-                0,
-                "robe courte"
-            ],
-            [
-                1,
-                "robe courte en pagne"
-            ],
-            [
-                2,
-                "robe courte africaine en pagne"
-            ],
-            [
-                3,
-                "robe courte pour jeune fille"
-            ],
-            [
-                4,
-                "robe courte ovale en pagne"
-            ],
-            [
-                5,
-                "robe courte de soirée"
-            ],
-            [
-                6,
-                "robe courte en tissu"
-            ],
-            [
-                7,
-                "robe courte en soie"
-            ],
-            [
-                8,
-                "robe courte tunique"
-            ],
-            [
-                9,
-                "robe courte crochet"
             ],
             [
                 0,
@@ -1348,23 +1200,51 @@
             ],
             [
                 0,
-                "style décontracté homme"
+                "vêtement femme"
             ],
             [
                 1,
-                "style décontracté femme"
+                "vetement femme 2025"
+            ],
+            [
+                2,
+                "vetement femme 2024"
+            ],
+            [
+                3,
+                "vetement femme crochet"
+            ],
+            [
+                4,
+                "vetement femme enceinte"
+            ],
+            [
+                5,
+                "vetement femme ronde"
+            ],
+            [
+                6,
+                "vetement femme grande taille"
+            ],
+            [
+                7,
+                "vetement femme classe"
+            ],
+            [
+                8,
+                "vetement femme temu"
+            ],
+            [
+                9,
+                "veste femme"
             ],
             [
                 0,
-                "tendance vestimentaire"
-            ],
-            [
-                0,
-                "haut moulant"
+                "style annees 90"
             ],
             [
                 1,
-                "haut moulant femme"
+                "look annees 90"
             ]
         ]
     },
@@ -1372,7 +1252,7 @@
         "articles": [
             {
                 "title": "Haut court",
-                "views": 481,
+                "views": 470,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -1383,121 +1263,129 @@
     },
     "pages": [
         {
-            "group": "Types de crop tops",
+            "group": "Types de Crop Tops",
             "title": "crop top femme",
             "intent": "commercial",
             "keywords": [
                 "crop top femme",
-                "débardeur",
-                "haut",
-                "t-shirt",
-                "haut moulant",
-                "haut moulant femme",
+                "vêtement femme",
                 "haut court femme",
-                "haut moulant manche longue",
-                "t-shirt court",
-                "t-shirt court femme",
-                "débardeur court",
-                "débardeur court femme"
-            ]
-        },
-        {
-            "group": "Types de crop tops",
-            "title": "crop top blanc",
-            "intent": "commercial",
-            "keywords": [
+                "vêtement femme chic",
+                "crop top coton",
+                "crop top dos nu",
+                "crop top à bretelles",
+                "crop top à smocks",
+                "crop top à volants",
                 "crop top blanc",
-                "haut court",
-                "crop top noir"
+                "t-shirt court femme",
+                "crop top noir",
+                "crop top crochet",
+                "crop top manche longue"
             ]
         },
         {
-            "group": "Types de crop tops",
+            "group": "Types de Crop Tops",
             "title": "crop top homme",
             "intent": "commercial",
             "keywords": [
                 "crop top homme",
-                "t-shirt court homme",
+                "débardeur court femme",
                 "débardeur court homme",
-                "haut moulant homme"
+                "t-shirt court homme"
             ]
         },
         {
-            "group": "Styles et occasions",
-            "title": "style décontracté",
-            "intent": "informational",
-            "keywords": [
-                "style décontracté",
-                "style décontracté chic",
-                "style décontracté chic homme",
-                "style décontracté femme",
-                "style décontracté homme"
-            ]
-        },
-        {
-            "group": "Styles et occasions",
-            "title": "mode été",
-            "intent": "informational",
-            "keywords": [
-                "mode été"
-            ]
-        },
-        {
-            "group": "Tendances et définitions",
-            "title": "crop top définition",
-            "intent": "informational",
-            "keywords": [
-                "crop top définition",
-                "tendance vestimentaire 2026"
-            ]
-        },
-        {
-            "group": "Pour les enfants",
+            "group": "Types de Crop Tops",
             "title": "crop top fille",
             "intent": "commercial",
             "keywords": [
                 "crop top fille"
             ]
+        },
+        {
+            "group": "Styles et Tendances",
+            "title": "mode été",
+            "intent": "informational",
+            "keywords": [
+                "mode été",
+                "mode été 2026",
+                "mode été 2026 femme",
+                "mode été 2025"
+            ]
+        },
+        {
+            "group": "Styles et Tendances",
+            "title": "style années 90",
+            "intent": "informational",
+            "keywords": [
+                "style années 90",
+                "style années 90 femme",
+                "style annees 90-2000",
+                "style années 90 homme"
+            ]
+        },
+        {
+            "group": "Guide et Définitions",
+            "title": "crop top définition",
+            "intent": "informational",
+            "keywords": [
+                "crop top définition",
+                "t-shirt court",
+                "débardeur court",
+                "haut court"
+            ]
+        },
+        {
+            "group": "Achat et Variantes",
+            "title": "vêtement femme grande taille",
+            "intent": "commercial",
+            "keywords": [
+                "vêtement femme grande taille"
+            ]
+        },
+        {
+            "group": "Achat et Variantes",
+            "title": "vêtement femme en ligne",
+            "intent": "transactional",
+            "keywords": [
+                "vêtement femme en ligne"
+            ]
         }
     ],
     "categories": {
+        "vêtement femme": "core",
         "crop top femme": "core",
         "t-shirt court": "core",
-        "haut moulant": "core",
         "crop top homme": "core",
         "crop top blanc": "core",
-        "style décontracté": "complementary",
+        "style années 90": "core",
         "débardeur court": "core",
-        "débardeur court femme": "core",
-        "haut moulant femme": "core",
-        "t-shirt court femme": "core",
+        "débardeur court femme": "complementary",
+        "t-shirt court femme": "complementary",
         "haut court": "core",
-        "mode été 2026": "doubtful",
+        "vêtement femme grande taille": "core",
+        "mode été 2026": "commercial",
         "haut court femme": "core",
-        "style décontracté femme": "complementary",
         "crop top noir": "core",
-        "style décontracté homme": "complementary",
-        "crop top fille": "complementary",
+        "crop top fille": "core",
         "mode été": "complementary",
-        "haut moulant manche longue": "complementary",
+        "style années 90 femme": "core",
         "t-shirt court homme": "core",
-        "tendance vestimentaire": "doubtful",
-        "mode été 2026 femme": "doubtful",
-        "style décontracté chic": "complementary",
+        "mode été 2026 femme": "commercial",
+        "vêtement femme en ligne": "commercial",
+        "vêtement femme chic": "complementary",
         "crop top définition": "complementary",
-        "tendance vestimentaire 2026": "complementary",
         "débardeur court homme": "complementary",
-        "haut moulant homme": "complementary",
-        "style décontracté chic homme": "complementary",
-        "débardeur": "complementary",
-        "t-shirt": "complementary",
-        "haut": "complementary",
-        "mode": "doubtful",
-        "style": "doubtful",
-        "tendance": "doubtful",
-        "moulant": "doubtful",
-        "court": "doubtful",
-        "été": "doubtful",
-        "nombril": "doubtful"
+        "crop top crochet": "complementary",
+        "style annees 90-2000": "complementary",
+        "mode été 2025": "complementary",
+        "style années 90 homme": "complementary",
+        "crop top manche longue": "complementary",
+        "crop top coton": "core",
+        "crop top dos nu": "core",
+        "crop top à volants": "core",
+        "crop top à bretelles": "core",
+        "crop top à smocks": "core",
+        "débardeur court femme sport": "doubtful"
     }
 }

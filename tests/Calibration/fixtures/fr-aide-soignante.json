@@ -1,7 +1,7 @@
 {
     "expression": "aide soignante",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -19,9 +19,9 @@
         "salaire aide soignante",
         "emploi aide soignante",
         "stage aide soignante",
-        "infirmière",
-        "soins à domicile",
-        "maison de retraite"
+        "diplôme aide soignante",
+        "mission aide soignante",
+        "soins infirmiers"
     ],
     "suggestions": {
         "amazon": [
@@ -44,18 +44,18 @@
             "aide soignante code rome",
             "aide soignante a domicile",
             "aide soignante de nuit",
+            "aide soignante niveau de diplôme",
             "aide soignante en anglais",
             "aide soignante libérale",
-            "aide soignante niveau de diplôme",
-            "aide soignante interim",
-            "aide soignante formation grenoble"
+            "aide soignante formation grenoble",
+            "aide soignante interim"
         ],
         "duckduckgo": [
             "aide soignante formation",
             "aide soignante fiche métier",
             "aide soignante salaire",
-            "aide soignante la whitechapel",
-            "aide soignante la spitalfields",
+            "aide soignante la gospel oak",
+            "aide soignante la west hampstead",
             "aide soignante code rome",
             "aide soignante emploi",
             "aide soignante a domicile"
@@ -149,79 +149,47 @@
             ],
             [
                 0,
-                "ciseaux infirmière"
+                "diplôme aide soignante"
+            ],
+            [
+                0,
+                "soins infirmiers"
             ],
             [
                 1,
-                "déguisement infirmière halloween"
+                "soins infirmiers à domicile"
             ],
             [
                 2,
-                "costume infirmière halloween"
+                "soins infirmiers en psychiatrie"
             ],
             [
                 3,
-                "tenue infirmière sexy érotique"
+                "soins infirmiers en néonatologie"
             ],
             [
                 4,
-                "infirmière"
+                "soins infirmiers aux urgences"
             ],
             [
                 5,
-                "infirmière halloween"
+                "soins infirmiers en soins intensifs"
             ],
             [
                 6,
-                "infirmière accessoire"
+                "soins infirmiers serviette de protection pour soins infirmiers"
             ],
             [
                 7,
-                "infirmière libérale"
+                "soins infirmiers fiches techniques"
             ],
             [
                 8,
-                "infirmière zombie"
+                "soins infirmiers en pédiatrie"
             ],
             [
                 9,
-                "infirmière tour de cou"
-            ],
-            [
-                0,
-                "soins à domicile"
-            ],
-            [
-                0,
-                "maison de retraite 2"
-            ],
-            [
-                1,
-                "maison de retraite dvd"
-            ],
-            [
-                2,
-                "maison de retraite"
-            ],
-            [
-                3,
-                "maison de retraite 2 dvd"
-            ],
-            [
-                4,
-                "maison de retraite blu ray"
-            ],
-            [
-                5,
-                "maison de retraite film"
-            ],
-            [
-                6,
-                "maison de retraite la série"
-            ],
-            [
-                7,
-                "maison de retraite coffret"
+                "soins infirmiers réanimation"
             ]
         ],
         "bing": [
@@ -455,143 +423,119 @@
             ],
             [
                 0,
-                "infirmière à domicile"
+                "diplôme aide soignante"
             ],
             [
                 1,
-                "infirmière"
+                "diplôme aide soignante niveau"
             ],
             [
                 2,
-                "infirmière libérale"
+                "diplôme aide soignante perdu"
             ],
             [
                 3,
-                "infirmière asalée"
+                "diplôme aide soignante niveau 4"
             ],
             [
                 4,
-                "infirmière en pratique avancée"
+                "diplôme aide soignante niveau bac"
             ],
             [
                 5,
-                "infirmière puéricultrice"
+                "diplôme aide soignante pdf"
             ],
             [
                 6,
-                "infirmière scolaire"
+                "diplôme aide soignante vae"
             ],
             [
                 7,
-                "infirmière ipa"
+                "diplôme aide soignante formation"
             ],
             [
                 8,
-                "infirmière en anglais"
+                "diplôme aide soignante en alternance"
             ],
             [
                 9,
-                "infirmière à domicile à proximité"
+                "diplôme aide soignante nom"
             ],
             [
                 10,
-                "infirmières libérales à domicile"
+                "diplôme aide soignante 2024"
             ],
             [
                 11,
-                "infirmière à domicile autour de moi"
+                "diplôme aide soignante ifsi"
             ],
             [
                 0,
-                "soins à domicile"
+                "mission aide soignante"
             ],
             [
                 1,
-                "soins à domicile de la côte"
+                "mission aide soignante ehpad"
             ],
             [
                 2,
-                "soins à domicile fribourg"
+                "mission aide soignante de nuit"
             ],
             [
                 3,
-                "soins à domicile delémont"
+                "mission aide soignante en ssiad"
             ],
             [
                 4,
-                "soins à domicile genève"
+                "mission aide soignante à domicile"
+            ],
+            [
+                0,
+                "soins infirmiers"
+            ],
+            [
+                1,
+                "soins infirmiers a domicile"
+            ],
+            [
+                2,
+                "soins infirmiers cours"
+            ],
+            [
+                3,
+                "soins infirmiers cégep"
+            ],
+            [
+                4,
+                "soins infirmiers de base"
             ],
             [
                 5,
-                "soins à domicile saint-jérôme"
+                "soins infirmiers pdf"
             ],
             [
                 6,
-                "soins à domicile luxembourg"
+                "soins infirmiers udem"
             ],
             [
                 7,
-                "soins à domicile neuchâtel"
+                "soins infirmiers en médecine"
             ],
             [
                 8,
-                "soins à domicile estavayer"
+                "soins infirmiers pour infirmière auxiliaire"
             ],
             [
                 9,
-                "soins à domicile vaud"
+                "soins infirmiers auxiliaires"
             ],
             [
                 10,
-                "soins à domicile jura"
+                "soins infirmiers france rodrigue"
             ],
             [
                 11,
-                "soins à domicile porrentruy"
-            ],
-            [
-                0,
-                "maison de retraite"
-            ],
-            [
-                1,
-                "maison de retraite film"
-            ],
-            [
-                2,
-                "maison de retraite 2"
-            ],
-            [
-                3,
-                "maison de retraite médicalisée"
-            ],
-            [
-                4,
-                "maison de retraite série"
-            ],
-            [
-                5,
-                "maison de retraite grenoble"
-            ],
-            [
-                6,
-                "maison de retraite en anglais"
-            ],
-            [
-                7,
-                "maison de retraite saint joseph"
-            ],
-            [
-                8,
-                "maison de retraite du petit-saconnex"
-            ],
-            [
-                9,
-                "maison de retraite film 2"
-            ],
-            [
-                10,
-                "maison de retraite autour de moi"
+                "soins infirmiers auxiliaires la cité"
             ]
         ],
         "duckduckgo": [
@@ -661,11 +605,11 @@
             ],
             [
                 0,
-                "salaire aide soignante"
+                "salaire aide soignante 2026"
             ],
             [
                 1,
-                "salaire aide soignante 2026"
+                "salaire aide soignante"
             ],
             [
                 2,
@@ -673,11 +617,11 @@
             ],
             [
                 3,
-                "salaire aide soignante suisse"
+                "salaire aide soignante débutante"
             ],
             [
                 4,
-                "salaire aide soignante débutante"
+                "salaire aide soignante suisse"
             ],
             [
                 5,
@@ -709,19 +653,19 @@
             ],
             [
                 4,
-                "emploi aide soignante champ de ourique"
-            ],
-            [
-                5,
                 "emploi aide soignante dijon"
             ],
             [
-                6,
+                5,
                 "emploi aide soignante alternance"
             ],
             [
-                7,
+                6,
                 "emploi aide soignante alternance ile de fr"
+            ],
+            [
+                7,
+                "emploi aide soignante luxembourg"
             ],
             [
                 0,
@@ -757,129 +701,87 @@
             ],
             [
                 0,
-                "infirmière à domicile"
+                "diplôme aide soignante"
             ],
             [
                 1,
-                "infirmière innenstadt"
+                "diplôme aide soignante niveau"
             ],
             [
                 2,
-                "infirmière"
+                "diplôme aide soignante perdu"
             ],
             [
                 3,
-                "infirmière libérale"
+                "diplôme aide soignante niveau 4"
             ],
             [
                 4,
-                "infirmière asalée"
+                "diplôme aide soignante niveau bac"
             ],
             [
                 5,
-                "infirmière en pratique avancée"
+                "diplôme aide soignante pdf"
             ],
             [
                 6,
-                "infirmière puéricultrice"
+                "diplôme aide soignante vae"
             ],
             [
                 7,
-                "infirmière ipa"
+                "diplôme aide soignante formation"
             ],
             [
                 0,
-                "soins à domicile"
+                "mission aide soignante"
             ],
             [
                 1,
-                "soins à domicile de la côte"
+                "mission aide soignante ehpad"
             ],
             [
                 2,
-                "soins à domicile fribourg"
+                "mission aide soignante de nuit"
             ],
             [
                 3,
-                "soins à domicile delémont"
+                "mission aide soignante en ssiad"
             ],
             [
                 4,
-                "soins à domicile genève"
+                "mission aide soignante à domicile"
+            ],
+            [
+                0,
+                "soins infirmiers"
+            ],
+            [
+                1,
+                "soins infirmiers a domicile"
+            ],
+            [
+                2,
+                "soins infirmiers cours"
+            ],
+            [
+                3,
+                "soins infirmiers cégep"
+            ],
+            [
+                4,
+                "soins infirmiers de base"
             ],
             [
                 5,
-                "soins à domicile saint-jérôme"
+                "soins infirmiers pdf"
             ],
             [
                 6,
-                "soins à domicile luxembourg"
+                "soins infirmiers udem"
             ],
             [
                 7,
-                "soins à domicile neuchâtel"
-            ],
-            [
-                0,
-                "maison de retraite"
-            ],
-            [
-                1,
-                "maison de retraite anglezarke"
-            ],
-            [
-                2,
-                "maison de retraite 2"
-            ],
-            [
-                3,
-                "maison de retraite film"
-            ],
-            [
-                4,
-                "maison de retraite série"
-            ],
-            [
-                5,
-                "maison de retraite médicalisée"
-            ],
-            [
-                6,
-                "maison de retraite en anglais"
-            ],
-            [
-                7,
-                "maison de retraite saint joseph"
-            ]
-        ],
-        "ebay": [
-            [
-                0,
-                "infirmière"
-            ],
-            [
-                1,
-                "infirmière ww1"
-            ],
-            [
-                2,
-                "croix rouge infirmière"
-            ],
-            [
-                3,
-                "militaria infirmière"
-            ],
-            [
-                4,
-                "carte postale infirmiere"
-            ],
-            [
-                5,
-                "figurine infirmière"
-            ],
-            [
-                6,
-                "cpa infirmière"
+                "soins infirmiers en médecine"
             ]
         ],
         "google": [
@@ -1085,123 +987,119 @@
             ],
             [
                 0,
-                "infirmière grenoble"
+                "diplôme aide soignante"
             ],
             [
                 1,
-                "infirmière echirolles"
+                "diplôme aide soignante niveau"
             ],
             [
                 2,
-                "infirmière à domicile"
+                "diplôme aide soignante 2026"
             ],
             [
                 3,
-                "infirmière"
+                "diplôme aide soignante niveau 3"
             ],
             [
                 4,
-                "infirmière libérale"
+                "diplôme aide soignante bac"
             ],
             [
                 5,
-                "infirmière puéricultrice"
+                "diplôme aide soignante formation"
             ],
             [
                 6,
-                "infirmière à domicile autour de moi"
+                "diplôme aide soignante équivalence bac"
             ],
             [
                 7,
-                "infirmière sassenage"
+                "diplôme aide soignante niveau 4 ou 5"
             ],
             [
                 8,
-                "infirmière en pratique avancée"
+                "diplôme aide soignante candidat libre"
             ],
             [
                 9,
-                "infirmière asalée"
+                "diplôme aide soignante équivalence"
             ],
             [
                 0,
-                "soins à domicile"
+                "mission aide soignante"
             ],
             [
                 1,
-                "soins à domicile genève"
+                "mission aide soignante ehpad"
             ],
             [
                 2,
-                "soins à domicile genève emploi"
+                "mission aide soignante de nuit"
             ],
             [
                 3,
-                "soins à domicile aide-soignante"
+                "mission aide soignante hublo"
             ],
             [
                 4,
-                "soins à domicile personnes âgées"
+                "mission aide soignante application"
             ],
             [
                 5,
-                "soins à domicile vaud"
+                "mission aide soignante interim"
             ],
             [
                 6,
-                "soins à domicile infirmière"
+                "mission aide soignante auto-entrepreneur"
             ],
             [
                 7,
-                "soins à domicile mots fléchés"
+                "mission aide soignante a domicile"
             ],
             [
                 8,
-                "soins à domicile après hospitalisation"
-            ],
-            [
-                9,
-                "soins à domicile définition"
+                "mission aide soignante etranger"
             ],
             [
                 0,
-                "maison de retraite grenoble"
+                "soins infirmiers à domicile"
             ],
             [
                 1,
-                "maison de retraite echirolles"
+                "soins infirmiers"
             ],
             [
                 2,
-                "maison de retraite"
+                "soins infirmiers à domicile prescription"
             ],
             [
                 3,
-                "maison de retraite film"
+                "soins infirmiers en cabinet"
             ],
             [
                 4,
-                "maison de retraite 2"
+                "soins infirmiers à domicile tarifs"
             ],
             [
                 5,
-                "maison de retraite autour de moi"
+                "soins infirmiers définition"
             ],
             [
                 6,
-                "maison de retraite serie"
+                "soins infirmiers après opération cataracte"
             ],
             [
                 7,
-                "maison de retraite film 2"
+                "soins infirmiers apres operation hernie inguinale"
             ],
             [
                 8,
-                "maison de retraite 2 distribution"
+                "soins infirmiers en oncologie pdf"
             ],
             [
                 9,
-                "maison de retraite (film) distribution"
+                "soins infirmiers sans ordonnance"
             ]
         ],
         "indeed": [
@@ -1219,87 +1117,7 @@
             ],
             [
                 0,
-                "infirmière coordinatrice"
-            ],
-            [
-                1,
-                "infirmière puéricultrice"
-            ],
-            [
-                2,
-                "infirmière liberale"
-            ],
-            [
-                3,
-                "infirmière scolaire"
-            ],
-            [
-                4,
-                "infirmière esthétique"
-            ],
-            [
-                5,
-                "infirmière préleveuse"
-            ],
-            [
-                6,
-                "infirmier ehpad"
-            ],
-            [
-                7,
-                "infirmière entreprise"
-            ],
-            [
-                8,
-                "infirmière médecine esthétique"
-            ],
-            [
-                9,
-                "infirmière vacation"
-            ],
-            [
-                0,
-                "soins à domicile"
-            ],
-            [
-                0,
-                "maison de retraite"
-            ],
-            [
-                1,
-                "maison de retraite sans diplômes"
-            ],
-            [
-                2,
-                "maison de retraite job étudiant"
-            ],
-            [
-                3,
-                "maison de retraite ash"
-            ],
-            [
-                4,
-                "maison de retraite cuisine"
-            ],
-            [
-                5,
-                "maison de retraite ménage"
-            ],
-            [
-                6,
-                "maison de retraite auxiliaire de vie"
-            ],
-            [
-                7,
-                "maison de retraite commis de cuisine"
-            ],
-            [
-                8,
-                "maison de retraite week end"
-            ],
-            [
-                9,
-                "maison de retraite hôtesse d'accueil"
+                "soins infirmiers"
             ]
         ],
         "yahoo": [
@@ -1485,107 +1303,87 @@
             ],
             [
                 0,
-                "infirmière"
+                "diplôme aide soignante"
             ],
             [
                 1,
-                "infirmière à domicile"
+                "diplôme aide soignante quel niveau"
             ],
             [
                 2,
-                "infirmière libérale"
+                "diplôme aide soignante par équivalence"
             ],
             [
                 3,
-                "infirmières chaudes"
+                "diplôme aide soignante niveau"
             ],
             [
                 4,
-                "infirmière scolaire"
+                "diplôme aide soignante 2022"
             ],
             [
                 5,
-                "infirmière puéricultrice"
+                "diplôme aide soignante durée"
             ],
             [
                 6,
-                "infirmières bulgares"
-            ],
-            [
-                7,
-                "infirmières vicieuses"
-            ],
-            [
-                8,
-                "infirmière en pratique avancée"
-            ],
-            [
-                9,
-                "infirmières de charme"
+                "diplôme aide soignante à distance"
             ],
             [
                 0,
-                "soins à domicile"
+                "mission aide-soignante"
             ],
             [
                 1,
-                "soins à domicile personnes âgées"
+                "mission aide soignante formation"
             ],
             [
                 2,
-                "soins à domicile paris"
+                "mission aide soignante à domicile"
             ],
             [
                 3,
-                "soins à domicile la source lausanne"
-            ],
-            [
-                4,
-                "soins à domicile pour personnes âgées"
-            ],
-            [
-                5,
-                "soins à domicile personnes âgées tarif"
+                "mission aide soignante salaire"
             ],
             [
                 0,
-                "maison de retraite avec petit budget"
+                "soins infirmiers"
             ],
             [
                 1,
-                "maison de retraite"
+                "soins infirmiers à domicile"
             ],
             [
                 2,
-                "maison de retraite abordable"
+                "soins infirmiers pdf"
             ],
             [
                 3,
-                "maison de retraite prix mensuel tout compris"
+                "soins infirmiers en chirurgie"
             ],
             [
                 4,
-                "maison de retraite médicalisée"
+                "soins infirmiers définition"
             ],
             [
                 5,
-                "maison de retraite film"
+                "soins infirmiers de base"
             ],
             [
                 6,
-                "maison de retraite tarif"
+                "soins infirmiers en pédiatrie"
             ],
             [
                 7,
-                "maison de retraite ehpad"
+                "soins infirmiers des plaies"
             ],
             [
                 8,
-                "maison de retraite autour de moi"
+                "soins infirmiers en cardiologie"
             ],
             [
                 9,
-                "maison de retraite 2"
+                "soins infirmiers en psychiatrie"
             ]
         ],
         "youtube": [
@@ -1743,123 +1541,107 @@
             ],
             [
                 0,
-                "infirmière"
+                "diplome aide soignante"
             ],
             [
                 1,
-                "infirmière fauve"
+                "formation aide soignante 2025"
             ],
             [
                 2,
-                "infirmière puéricultrice"
+                "formation aide soignante module 1"
             ],
             [
                 3,
-                "infirmière libérale"
+                "formation aide soignante croix rouge"
             ],
             [
                 4,
-                "infirmière scolaire"
+                "formation aide soignante en tunisie"
             ],
             [
                 5,
-                "infirmière militaire"
+                "formation aide soignante en allemagne"
             ],
             [
                 6,
-                "infirmière bloc opératoire"
+                "formation aide soignante au canada"
             ],
             [
                 7,
-                "infirmière anesthésiste"
+                "formation aide soignante en cote d'ivoire"
             ],
             [
                 8,
-                "infirmière reportage"
+                "formation aide soignante en algérie"
             ],
             [
                 9,
-                "infirmière asmr"
+                "formation aide soignante au senegal"
             ],
             [
                 0,
-                "soins à domicile"
+                "role aide soignante"
             ],
             [
                 1,
-                "aide à domicile"
+                "role aide soignante en reanimation"
             ],
             [
                 2,
-                "aide à domicile reportage"
+                "role aide soignante au urgence"
             ],
             [
                 3,
-                "aide à domicile auto entrepreneur"
+                "role aide soignante en maternité"
             ],
             [
                 4,
-                "aides à domicile les temps modestes"
+                "role d'aide soignante a l'hopital"
             ],
             [
                 5,
-                "aide à domicile chanson"
-            ],
-            [
-                6,
-                "aide à domicile admr"
-            ],
-            [
-                7,
-                "aide à domicile film nigerian en francais"
-            ],
-            [
-                8,
-                "aide à domicile musique"
-            ],
-            [
-                9,
-                "aide à domicile toilette"
+                "faisant fonction aide soignante"
             ],
             [
                 0,
-                "maison de retraite"
+                "soins infirmiers"
             ],
             [
                 1,
-                "maison de retraite 2"
+                "soins infirmiers de base"
             ],
             [
                 2,
-                "maison de retraite bande annonce"
+                "soins infirmiers picc line"
             ],
             [
                 3,
-                "maison de retraite 2 film complet en francais"
+                "soins infirmiers en psychiatrie"
             ],
             [
                 4,
-                "maison de retraite 2 bande annonce"
+                "soins infirmiers prise de sang"
             ],
             [
                 5,
-                "maison de retraite film"
+                "soins infirmiers en médecine"
             ],
             [
                 6,
-                "maison de retraite 1"
+                "soins infirmiers aux urgences"
             ],
             [
                 7,
-                "maison de retraite tunisie"
+                "soins infirmiers toilette complète au lit"
             ],
             [
                 8,
-                "maison de retraite kev adams"
+                "soins infirmiers en chirurgie"
             ],
             [
                 9,
-                "maison de retraite musique"
+                "soins infirmiers en geriatrie"
             ]
         ]
     },
@@ -1867,21 +1649,14 @@
         "articles": [
             {
                 "title": "Aide-soignant",
-                "views": 557,
+                "views": 537,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.308
             },
             {
-                "title": "Infirmier",
-                "views": 1078,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
-            },
-            {
-                "title": "Maison de retraite",
-                "views": 435,
+                "title": "Soin infirmier",
+                "views": 472,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1892,82 +1667,89 @@
     },
     "pages": [
         {
-            "group": "Formation",
+            "group": "Formation et concours",
             "title": "aide soignante formation",
             "intent": "informational",
             "keywords": [
                 "aide soignante formation",
                 "diplôme aide soignante",
-                "stage aide soignante",
+                "aide soignante fiche métier",
                 "concours aide soignante",
                 "formation aide soignante en alternance"
             ]
         },
         {
-            "group": "Formation",
+            "group": "Formation et concours",
             "title": "concours aide soignante 2026",
             "intent": "informational",
             "keywords": [
                 "concours aide soignante 2026",
-                "formation aide soignante 2026",
+                "diplôme aide soignante niveau",
                 "concours aide soignante 2027",
+                "formation aide soignante 2026",
                 "concours aide soignante 2025"
             ]
         },
         {
-            "group": "Pratique",
-            "title": "aide soignante fiche métier",
+            "group": "Environnement de travail",
+            "title": "aide soignante hôpital",
             "intent": "informational",
             "keywords": [
-                "aide soignante fiche métier",
-                "aide médico-psychologique",
-                "auxiliaire de vie sociale",
-                "compétences aide soignante",
-                "gestes techniques aide soignante",
-                "hygiène aide soignante",
-                "métiers du paramédical",
-                "organisation travail aide soignante",
-                "profession paramédicale",
-                "professionnel de santé",
-                "quatorze besoins fondamentaux selon virginia henderson",
-                "relation patient aide soignante",
-                "rôle aide soignante",
-                "soins fondamentaux",
-                "sécurité patient aide soignante",
-                "éthique aide soignante",
-                "évolution carrière aide soignante",
-                "infirmière",
-                "infirmière scolaire",
-                "actes de la vie quotidienne",
-                "infirmier",
-                "psychiatrie",
-                "infirmière libérale",
-                "infirmière puéricultrice"
+                "aide soignante hôpital",
+                "stage aide soignante",
+                "stage aide soignante ehpad",
+                "stage aide soignante hôpital"
             ]
         },
         {
-            "group": "Pratique",
-            "title": "soins à domicile",
+            "group": "Environnement de travail",
+            "title": "aide soignante à domicile",
             "intent": "informational",
             "keywords": [
-                "soins à domicile",
-                "infirmière à domicile",
-                "aide soignante hôpital"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "aide soignante emploi",
-            "intent": "transactional",
-            "keywords": [
-                "aide soignante emploi",
                 "aide soignante à domicile",
                 "aide soignante nuit",
-                "emploi aide soignante de nuit"
+                "tenue aide soignante femme"
             ]
         },
         {
-            "group": "Carrière",
+            "group": "Pratique professionnelle",
+            "title": "soins infirmiers",
+            "intent": "informational",
+            "keywords": [
+                "soins infirmiers",
+                "quatorze besoins fondamentaux selon virginia henderson",
+                "soins fondamentaux",
+                "soins infirmiers à domicile",
+                "soins infirmiers de base"
+            ]
+        },
+        {
+            "group": "Pratique professionnelle",
+            "title": "mission aide soignante",
+            "intent": "informational",
+            "keywords": [
+                "mission aide soignante",
+                "accompagnement patient",
+                "actes de la vie quotidienne",
+                "documentation soins",
+                "gestes techniques",
+                "hygiène patient",
+                "infirmier",
+                "métiers du paramédical",
+                "profession paramédicale",
+                "professionnel de santé",
+                "prévention infection",
+                "psychiatrie",
+                "relation patient",
+                "surveillance patient",
+                "équipe soignante",
+                "éthique soins",
+                "mission aide soignante ehpad",
+                "mission aide soignante à domicile"
+            ]
+        },
+        {
+            "group": "Carrière et emploi",
             "title": "aide soignante salaire",
             "intent": "informational",
             "keywords": [
@@ -1977,62 +1759,55 @@
             ]
         },
         {
-            "group": "Établissements",
-            "title": "maison de retraite",
+            "group": "Carrière et emploi",
+            "title": "aide soignante emploi",
             "intent": "commercial",
             "keywords": [
-                "maison de retraite"
-            ]
-        },
-        {
-            "group": "Établissements",
-            "title": "stage aide soignante ehpad",
-            "intent": "informational",
-            "keywords": [
-                "stage aide soignante ehpad",
-                "stage aide soignante hôpital"
+                "aide soignante emploi",
+                "aide médico-psychologique",
+                "auxiliaire de vie sociale",
+                "emploi aide soignante de nuit"
             ]
         }
     ],
     "categories": {
         "aide soignante formation": "core",
-        "soins à domicile": "commercial",
-        "maison de retraite": "core",
-        "infirmière": "complementary",
+        "soins infirmiers": "complementary",
+        "diplôme aide soignante": "core",
         "stage aide soignante": "core",
         "aide soignante à domicile": "commercial",
         "aide soignante salaire": "core",
         "concours aide soignante": "core",
-        "infirmière libérale": "complementary",
-        "aide soignante nuit": "commercial",
-        "maison de retraite 2": "doubtful",
-        "infirmière puéricultrice": "complementary",
-        "maison de retraite film": "doubtful",
+        "aide soignante nuit": "core",
+        "soins infirmiers à domicile": "commercial",
         "salaire aide soignante en suisse": "commercial",
-        "aide soignante emploi": "commercial",
+        "aide soignante emploi": "core",
+        "mission aide soignante": "core",
         "concours aide soignante 2026": "core",
         "formation aide soignante 2026": "core",
-        "infirmière à domicile": "commercial",
         "formation aide soignante en alternance": "core",
-        "aide soignante fiche métier": "core",
+        "aide soignante fiche métier": "complementary",
+        "diplôme aide soignante niveau": "core",
         "concours aide soignante 2027": "core",
         "concours aide soignante 2025": "core",
-        "infirmière scolaire": "complementary",
         "emploi aide soignante de nuit": "commercial",
         "stage aide soignante ehpad": "complementary",
         "stage aide soignante hôpital": "complementary",
-        "aide soignante hôpital": "complementary",
+        "soins infirmiers de base": "core",
+        "aide soignante hôpital": "core",
+        "mission aide soignante ehpad": "complementary",
         "salaire aide soignante de nuit": "complementary",
-        "diplôme aide soignante": "core",
-        "compétences aide soignante": "core",
-        "rôle aide soignante": "core",
-        "hygiène aide soignante": "core",
-        "relation patient aide soignante": "core",
-        "gestes techniques aide soignante": "core",
-        "éthique aide soignante": "core",
-        "organisation travail aide soignante": "core",
-        "sécurité patient aide soignante": "core",
-        "évolution carrière aide soignante": "core",
+        "mission aide soignante à domicile": "commercial",
+        "tenue aide soignante femme": "complementary",
+        "hygiène patient": "core",
+        "surveillance patient": "core",
+        "relation patient": "core",
+        "équipe soignante": "core",
+        "gestes techniques": "core",
+        "prévention infection": "core",
+        "accompagnement patient": "core",
+        "documentation soins": "core",
+        "éthique soins": "core",
         "psychiatrie": "complementary",
         "infirmier": "complementary",
         "profession paramédicale": "complementary",

@@ -1,7 +1,7 @@
 {
     "expression": "plombier paris 15",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -365,7 +365,7 @@
             ],
             [
                 1,
-                "entretien chaudière fioul autour de moi"
+                "entretien chaudière"
             ],
             [
                 2,
@@ -373,7 +373,7 @@
             ],
             [
                 3,
-                "entretien chaudière"
+                "entretien chaudière fioul autour de moi"
             ],
             [
                 4,
@@ -393,11 +393,11 @@
             ],
             [
                 8,
-                "entretien chaudière gaz obligatoire"
+                "entretien chaudière prix"
             ],
             [
                 9,
-                "entretien chaudière prix"
+                "entretien chaudière gaz obligatoire"
             ],
             [
                 10,
@@ -469,11 +469,11 @@
             ],
             [
                 3,
-                "urgence plombier 24/7 à draveil energies tech"
+                "urgence plombier montréal"
             ],
             [
                 4,
-                "urgence plombier montréal"
+                "urgence plombier 24/7 à draveil energies tech"
             ],
             [
                 5,
@@ -489,11 +489,11 @@
             ],
             [
                 8,
-                "urgence plombier toulouse"
+                "urgence plombier bergerac"
             ],
             [
                 9,
-                "urgence plombier bergerac"
+                "urgence plombier toulouse"
             ],
             [
                 10,
@@ -511,31 +511,31 @@
             ],
             [
                 1,
-                "dépannage plomberie innenstadt"
+                "dépannage plomberie gospel oak"
             ],
             [
                 2,
-                "dépannage plomberie 24h 24"
+                "dépannage plomberie west hampstead"
             ],
             [
                 3,
-                "dépannage plomberie à proximité"
+                "dépannage plomberie 24h 24"
             ],
             [
                 4,
-                "dépannage plomberie dijon"
+                "dépannage plomberie à proximité"
             ],
             [
                 5,
-                "dépannage plomberie paris"
+                "dépannage plomberie dijon"
             ],
             [
                 6,
-                "dépannage plomberie urgence"
+                "dépannage plomberie paris"
             ],
             [
                 7,
-                "dépannage plomberie lille"
+                "dépannage plomberie urgence"
             ],
             [
                 0,
@@ -715,19 +715,19 @@
             ],
             [
                 4,
-                "plomberie sanitaire pau"
+                "plomberie sanitaire saint luke's"
             ],
             [
                 5,
-                "plomberie sanitaire metz"
+                "plomberie sanitaire pau"
             ],
             [
                 6,
-                "plomberie sanitaire namur"
+                "plomberie sanitaire metz"
             ],
             [
                 7,
-                "plomberie sanitaire définition"
+                "plomberie sanitaire namur"
             ],
             [
                 0,
@@ -743,11 +743,11 @@
             ],
             [
                 3,
-                "urgence plombier montréal"
+                "urgence plombier 24/7 à draveil energies tech"
             ],
             [
                 4,
-                "urgence plombier 24/7 à draveil energies tech"
+                "urgence plombier montréal"
             ],
             [
                 5,
@@ -1619,14 +1619,14 @@
         "articles": [
             {
                 "title": "Plombier",
-                "views": 2510,
+                "views": 2489,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.571
             },
             {
                 "title": "15",
-                "views": 126,
+                "views": 121,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.143
@@ -1644,19 +1644,15 @@
             "intent": "transactional",
             "keywords": [
                 "dépannage plomberie",
-                "baignoire",
-                "douche",
                 "plomberie",
-                "robinetterie",
-                "salle de bain",
                 "tuyauterie",
-                "évier",
+                "réparation wc",
+                "réparation wc locataire ou propriétaire",
+                "wc",
                 "fuite d'eau",
                 "fuite",
                 "urgence plombier",
-                "urgence plombier paris",
-                "fuite d'eau après compteur",
-                "dépannage plomberie en urgence"
+                "urgence plombier paris"
             ]
         },
         {
@@ -1668,12 +1664,24 @@
                 "canalisation",
                 "débouchage canalisation wc",
                 "débouchage canalisation karcher",
-                "débouchage canalisations eaux usées",
-                "débouchage canalisation haute pression"
+                "débouchage canalisations eaux usées"
             ]
         },
         {
-            "group": "Réparation et entretien",
+            "group": "Chauffage et chauffe-eau",
+            "title": "installation chauffe eau",
+            "intent": "transactional",
+            "keywords": [
+                "installation chauffe eau",
+                "chauffe-eau",
+                "installation chauffe eau thermodynamique",
+                "installation chauffe-eau ariston 15l",
+                "installation chauffe eau électrique",
+                "installation chauffe eau solaire"
+            ]
+        },
+        {
+            "group": "Chauffage et chauffe-eau",
             "title": "entretien chaudière",
             "intent": "transactional",
             "keywords": [
@@ -1683,44 +1691,53 @@
             ]
         },
         {
-            "group": "Réparation et entretien",
-            "title": "réparation wc",
-            "intent": "transactional",
+            "group": "Plomberie sanitaire",
+            "title": "plomberie sanitaire",
+            "intent": "informational",
             "keywords": [
-                "réparation wc",
-                "wc",
+                "plomberie sanitaire",
+                "baignoire",
+                "douche",
+                "robinetterie",
+                "évier",
                 "réparation wc suspendu",
-                "réparation wc locataire ou propriétaire"
+                "plomberie sanitaire salle de bain",
+                "salle de bain"
             ]
         },
         {
-            "group": "Installation",
-            "title": "installation chauffe eau",
+            "group": "Plomberie sanitaire",
+            "title": "fuite d'eau après compteur",
             "intent": "transactional",
             "keywords": [
-                "installation chauffe eau",
-                "installation chauffe-eau ariston 15l",
-                "chauffe-eau",
-                "installation chauffe eau thermodynamique",
-                "installation chauffe eau électrique",
-                "installation chauffe eau solaire"
-            ]
-        },
-        {
-            "group": "Plombier Paris 15",
-            "title": "plombier paris 15ème",
-            "intent": "transactional",
-            "keywords": [
+                "fuite d'eau après compteur",
                 "plombier paris 15ème",
-                "dépannage plomberie paris",
-                "artisan plombier-zingueur",
+                "dépannage plomberie en urgence"
+            ]
+        },
+        {
+            "group": "Artisans et services",
+            "title": "débouchage canalisation haute pression",
+            "intent": "transactional",
+            "keywords": [
+                "débouchage canalisation haute pression",
+                "dépannage plomberie paris"
+            ]
+        },
+        {
+            "group": "Artisans et services",
+            "title": "plombier paris 15 les mieux notés",
+            "intent": "commercial",
+            "keywords": [
+                "plombier paris 15 les mieux notés",
                 "plombier chauffagiste paris 15",
-                "plombier paris 15 les mieux notés"
+                "artisan plombier-zingueur"
             ]
         }
     ],
     "categories": {
         "débouchage canalisation": "commercial",
+        "plomberie sanitaire": "core",
         "dépannage plomberie": "commercial",
         "fuite d'eau": "commercial",
         "réparation wc": "commercial",
@@ -1737,6 +1754,7 @@
         "débouchage canalisation karcher": "commercial",
         "dépannage plomberie en urgence": "commercial",
         "installation chauffe eau solaire": "commercial",
+        "plomberie sanitaire salle de bain": "complementary",
         "débouchage canalisations eaux usées": "commercial",
         "débouchage canalisation haute pression": "commercial",
         "dépannage plomberie paris": "commercial",
@@ -1744,21 +1762,19 @@
         "réparation wc locataire ou propriétaire": "commercial",
         "urgence plombier paris": "commercial",
         "plombier paris 15ème": "commercial",
-        "plombier chauffagiste paris 15": "commercial",
-        "plombier paris 15 les mieux notés": "commercial",
+        "plombier chauffagiste paris 15": "complementary",
+        "plombier paris 15 les mieux notés": "complementary",
         "tuyauterie": "commercial",
-        "robinetterie": "commercial",
-        "salle de bain": "commercial",
-        "évier": "commercial",
-        "douche": "commercial",
-        "baignoire": "commercial",
+        "robinetterie": "core",
+        "salle de bain": "core",
+        "évier": "core",
+        "douche": "core",
+        "baignoire": "core",
         "wc": "commercial",
         "chauffe-eau": "commercial",
         "canalisation": "commercial",
         "fuite": "commercial",
         "plomberie": "commercial",
-        "artisan plombier-zingueur": "commercial",
-        "plomberie sanitaire": "doubtful",
-        "plomberie sanitaire salle de bain": "doubtful"
+        "artisan plombier-zingueur": "commercial"
     }
 }

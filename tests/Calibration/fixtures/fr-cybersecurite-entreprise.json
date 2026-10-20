@@ -1,7 +1,7 @@
 {
     "expression": "cybersécurité entreprise",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -31,12 +31,12 @@
             "cybersécurité entreprise conseils",
             "cybersécurité entreprise formation",
             "cybersécurité entreprise solutions",
-            "cybersécurité entreprise lyon",
             "cybersécurité entreprises technologiques",
+            "cybersécurité entreprise lyon",
             "cybersécurité entreprise liste",
             "cybersécurité entreprise france",
-            "cybersécurité entreprise rennes",
-            "cybersécurité entreprise française"
+            "cybersécurité entreprise française",
+            "cybersécurité entreprise rennes"
         ],
         "duckduckgo": [
             "cybersécurité entreprise",
@@ -506,14 +506,14 @@
         "articles": [
             {
                 "title": "Cybersécurité",
-                "views": 3463,
+                "views": 3372,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.565
             },
             {
                 "title": "Entreprise",
-                "views": 5151,
+                "views": 5000,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.435
@@ -535,7 +535,6 @@
                 "sauvegarde données entreprise",
                 "protection données personnelles maroc",
                 "protection données personnelles france",
-                "protection données personnelles belgique",
                 "protection des données personnelles rgpd",
                 "conformité rgpd"
             ]
@@ -546,17 +545,17 @@
             "intent": "commercial",
             "keywords": [
                 "sécurité réseau entreprise",
-                "authentification multifacteur",
+                "gestion identités accès",
                 "pare-feu entreprise",
-                "sécurité des applications web",
+                "sécurité des applications",
+                "sécurité des emails",
                 "sécurité des endpoints",
-                "sécurité des infrastructures critiques",
                 "sécurité des systèmes d'information",
                 "securite informatique en entreprise",
                 "cloud security enterprise",
+                "sécurité des infrastructures du cloud",
                 "sécurité du cloud",
-                "securite cloud entreprise dédié",
-                "sécurité des infrastructures du cloud"
+                "securite cloud entreprise dédié"
             ]
         },
         {
@@ -566,9 +565,8 @@
             "keywords": [
                 "audit cybersécurité",
                 "identity threat detection and response",
-                "plan continuité activité",
                 "gestion des risques cybersécurité",
-                "gestion vulnérabilités",
+                "plan de reprise activité",
                 "cybersécurité entreprise audit",
                 "cybersécurité entreprise risques"
             ]
@@ -579,37 +577,39 @@
             "intent": "informational",
             "keywords": [
                 "gestion cyber",
-                "menaces cyber entreprise de",
                 "cyberdéfense",
-                "cybersécurité entreprise conseils"
+                "cybersécurité entreprise conseils",
+                "politique sécurité entreprise",
+                "menaces cyber entreprise de"
             ]
         },
         {
-            "group": "Assurance et formation",
-            "title": "cyber assurance entreprise",
-            "intent": "commercial",
+            "group": "Assurance et secteurs spécifiques",
+            "title": "cybersécurité entreprise transport",
+            "intent": "informational",
             "keywords": [
-                "cyber assurance entreprise",
-                "cyber assurance entreprise multirisque",
+                "cybersécurité entreprise transport",
+                "cybersécurité entreprise fibre",
                 "cybersécurité entreprise maroc"
             ]
         },
         {
-            "group": "Assurance et formation",
+            "group": "Assurance et secteurs spécifiques",
+            "title": "cyber assurance entreprise",
+            "intent": "commercial",
+            "keywords": [
+                "cyber assurance entreprise",
+                "cyber assurance entreprise multirisque"
+            ]
+        },
+        {
+            "group": "Formation et sensibilisation",
             "title": "formation sensibilisation cybersécurité",
             "intent": "informational",
             "keywords": [
                 "formation sensibilisation cybersécurité",
-                "formation cybersécurité",
-                "cybersécurité entreprise formation"
-            ]
-        },
-        {
-            "group": "Secteurs spécifiques",
-            "title": "cybersécurité entreprise france",
-            "intent": "informational",
-            "keywords": [
-                "cybersécurité entreprise france"
+                "cybersécurité entreprise formation",
+                "formation cybersécurité"
             ]
         }
     ],
@@ -617,21 +617,20 @@
         "audit cybersécurité": "core",
         "protection données personnelles": "core",
         "gestion des risques cybersécurité": "core",
-        "protection données personnelles maroc": "core",
+        "protection données personnelles maroc": "complementary",
         "cyber assurance entreprise": "core",
         "formation sensibilisation cybersécurité": "core",
         "sécurité réseau entreprise": "core",
-        "protection données personnelles france": "core",
+        "protection données personnelles france": "complementary",
         "securite informatique en entreprise": "core",
-        "cybersécurité entreprise france": "core",
-        "protection données personnelles belgique": "core",
+        "cybersécurité entreprise france": "doubtful",
+        "protection données personnelles belgique": "doubtful",
         "cybersécurité entreprise audit": "core",
-        "cybersécurité entreprise transport": "doubtful",
+        "cybersécurité entreprise transport": "complementary",
         "protection des données personnelles rgpd": "core",
         "cybersécurité entreprise risques": "core",
-        "cybersécurité entreprise isolation": "doubtful",
         "cybersécurité entreprise conseils": "complementary",
-        "cybersécurité entreprise fibre": "doubtful",
+        "cybersécurité entreprise fibre": "complementary",
         "cybersécurité entreprise formation": "complementary",
         "cloud security enterprise": "complementary",
         "cyber assurance entreprise multirisque": "complementary",
@@ -643,18 +642,19 @@
         "pare-feu entreprise": "core",
         "chiffrement données": "complementary",
         "sauvegarde données entreprise": "core",
-        "plan continuité activité": "complementary",
-        "gestion vulnérabilités": "complementary",
+        "politique sécurité entreprise": "core",
+        "gestion identités accès": "complementary",
         "sécurité des endpoints": "complementary",
-        "authentification multifacteur": "complementary",
-        "sécurité des applications web": "complementary",
+        "sécurité des applications": "complementary",
+        "plan de reprise activité": "complementary",
         "conformité rgpd": "complementary",
-        "sécurité des infrastructures critiques": "complementary",
+        "sécurité des emails": "complementary",
         "cyberdéfense": "complementary",
         "sécurité des systèmes d'information": "complementary",
         "sécurité du cloud": "complementary",
         "sécurité des infrastructures du cloud": "complementary",
         "identity threat detection and response": "complementary",
+        "cybersécurité entreprise isolation": "doubtful",
         "protection données personnelles burkina faso": "doubtful",
         "protection données personnelles canada": "doubtful"
     }

@@ -1,7 +1,7 @@
 {
     "expression": "meilleur aspirateur balai",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -16,11 +16,11 @@
     "concepts": [
         "aspirateur sans fil",
         "aspirateur robot",
-        "aspirateur traîneau",
-        "aspirateur à main",
         "accessoires aspirateur",
-        "filtre hepa",
-        "nettoyage sol",
+        "entretien aspirateur",
+        "aspirateur traîneau",
+        "aspirateur silencieux",
+        "aspirateur puissant",
         "comparatif aspirateur"
     ],
     "suggestions": {
@@ -181,6 +181,14 @@
             ],
             [
                 0,
+                "entretien aspirateur"
+            ],
+            [
+                1,
+                "entretien aspirateur laveur"
+            ],
+            [
+                0,
                 "aspirateur traîneau sans sac"
             ],
             [
@@ -221,123 +229,83 @@
             ],
             [
                 0,
-                "aspirateur à main"
+                "aspirateur silencieux et puissant"
             ],
             [
                 1,
-                "aspirateur à main sans fil"
+                "aspirateur silencieux"
             ],
             [
                 2,
-                "aspirateur à main puissant"
+                "aspirateur silencieux sans sac"
             ],
             [
                 3,
-                "aspirateur à main sans fil puissant"
+                "aspirateur silencieux et puissant sans sac"
             ],
             [
                 4,
-                "aspirateur à main pour voiture"
+                "aspirateur silencieux avec sac"
             ],
             [
                 5,
-                "aspirateur à main black et decker"
+                "aspirateur silencieux sans fil"
             ],
             [
                 6,
-                "aspirateur à main compact voiture"
+                "aspirateur silencieux rowenta"
             ],
             [
                 7,
-                "aspirateur à main sans fil pour voiture"
+                "aspirateur silencieux et puissant avec sac"
             ],
             [
                 8,
-                "aspirateur à main rowenta"
+                "aspirateur silencieux et puissant rowenta"
             ],
             [
                 9,
-                "aspirateur à main sans fil rowenta"
+                "aspirateur silencieux compact"
             ],
             [
                 0,
-                "filtre hepa"
+                "aspirateur puissant sans sac"
             ],
             [
                 1,
-                "filtre hepa aspirateur"
+                "aspirateur puissant sans fil"
             ],
             [
                 2,
-                "filtre hepa h13"
+                "aspirateur puissant voiture"
             ],
             [
                 3,
-                "filtre hepa aspirateur rowenta"
+                "aspirateur puissant poils d'animaux"
             ],
             [
                 4,
-                "filtre hepa tesla model y"
+                "petit aspirateur puissant"
             ],
             [
                 5,
-                "filtre hepa dyson"
+                "aspirateur puissant avec sac"
             ],
             [
                 6,
-                "filtre hepa 12"
+                "mini aspirateur puissant"
             ],
             [
                 7,
-                "filtre hepa rowenta silence force"
+                "aspirateur puissant et silencieux"
             ],
             [
                 8,
-                "filtre hepa 13"
+                "aspirateur puissant pour voiture"
             ],
             [
                 9,
-                "filtre hepa aspirateur rowenta silence force"
-            ],
-            [
-                0,
-                "ecovacs produit nettoyage sol"
-            ],
-            [
-                1,
-                "nettoyage sol"
-            ],
-            [
-                2,
-                "balai nettoyage sol"
-            ],
-            [
-                3,
-                "nettoyage sol maison"
-            ],
-            [
-                4,
-                "kit nettoyage sol"
-            ],
-            [
-                5,
-                "nettoyage sol professionnel"
-            ],
-            [
-                6,
-                "brosse nettoyage sol"
-            ],
-            [
-                7,
-                "nettoyage sol carrelage"
-            ],
-            [
-                8,
-                "nettoyage sol produit"
-            ],
-            [
-                9,
-                "nettoyage sol vileda"
+                "aspirateur puissant sans sac 3000w"
             ],
             [
                 0,
@@ -451,102 +419,6 @@
             ],
             [
                 0,
-                "aspirateur traîneau"
-            ],
-            [
-                1,
-                "aspirateur traîneau miele"
-            ],
-            [
-                2,
-                "aspirateur traîneau avec sac puissant"
-            ],
-            [
-                3,
-                "aspirateur traîneau puissant"
-            ],
-            [
-                4,
-                "aspirateur traîneau darty"
-            ],
-            [
-                5,
-                "aspirateur traîneau boulanger"
-            ],
-            [
-                6,
-                "aspirateur traîneau leclerc"
-            ],
-            [
-                7,
-                "aspirateur traîneau silencieux"
-            ],
-            [
-                8,
-                "aspirateur traîneau sans sac"
-            ],
-            [
-                9,
-                "aspirateur traîneau rowenta silence force"
-            ],
-            [
-                10,
-                "aspirateur traîneau electrolux avec sac"
-            ],
-            [
-                11,
-                "aspirateur traîneau sans sac rowenta"
-            ],
-            [
-                0,
-                "aspirateur à main"
-            ],
-            [
-                1,
-                "aspirateur à main sans fil"
-            ],
-            [
-                2,
-                "aspirateur à main puissant"
-            ],
-            [
-                3,
-                "aspirateur à main dyson"
-            ],
-            [
-                4,
-                "aspirateur à main bosch"
-            ],
-            [
-                5,
-                "aspirateur à main black et decker"
-            ],
-            [
-                6,
-                "aspirateur à main shark"
-            ],
-            [
-                7,
-                "aspirateur à main darty"
-            ],
-            [
-                8,
-                "aspirateur à main dyson car+boat"
-            ],
-            [
-                9,
-                "aspirateur à main sans fil puissant"
-            ],
-            [
-                10,
-                "aspirateur à main electrolux rapido 12v"
-            ],
-            [
-                11,
-                "aspirateur à main sans fil darty"
-            ],
-            [
-                0,
                 "accessoires aspirateur"
             ],
             [
@@ -595,99 +467,191 @@
             ],
             [
                 0,
-                "filtre hepa"
+                "entretien aspirateur balai"
             ],
             [
                 1,
-                "filtre hepa aspirateur"
+                "entretien aspirateur robot"
             ],
             [
                 2,
-                "filtre hepa h14"
+                "entretien aspirateur dyson"
             ],
             [
                 3,
-                "filtre hepa h13"
+                "entretien aspirateur dyson v11"
             ],
             [
                 4,
-                "filtre hepa définition"
+                "entretien aspirateur dyson v10"
             ],
             [
                 5,
-                "filtre hepa dyson"
+                "entretien aspirateur dyson v12"
             ],
             [
                 6,
-                "filtre hepa 13"
+                "entretien aspirateur dyson v15"
             ],
             [
                 7,
-                "filtre hepa tesla model y"
+                "entretien aspirateur"
             ],
             [
                 8,
-                "filtre hepa c'est quoi"
+                "entretien aspirateur tineco"
             ],
             [
                 9,
-                "filtre hepa 14"
+                "entretien aspirateur dyson v8"
             ],
             [
                 10,
-                "filtre hepa tesla"
-            ],
-            [
-                11,
-                "filtre hepa miele"
+                "entretien aspirateur balai hoover"
             ],
             [
                 0,
-                "nettoyage sol"
+                "aspirateur traîneau"
             ],
             [
                 1,
-                "nettoyage sol carrelage"
+                "aspirateur traîneau miele"
             ],
             [
                 2,
-                "nettoyage sol maison"
+                "aspirateur traîneau avec sac puissant"
             ],
             [
                 3,
-                "nettoyage sol nice"
+                "aspirateur traîneau puissant"
             ],
             [
                 4,
-                "nettoyage sol monaco"
+                "aspirateur traîneau darty"
             ],
             [
                 5,
-                "nettoyage sol souple aire de jeux"
+                "aspirateur traîneau boulanger"
             ],
             [
                 6,
-                "nettoyage sol vapeur"
+                "aspirateur traîneau leclerc"
             ],
             [
                 7,
-                "nettoyage sol pvc"
+                "aspirateur traîneau silencieux"
             ],
             [
                 8,
-                "nettoyage sol professionnel"
+                "aspirateur traîneau sans sac"
             ],
             [
                 9,
-                "nettoyage sol industriel"
+                "aspirateur traîneau rowenta silence force"
             ],
             [
                 10,
-                "nettoyage sol sportif"
+                "aspirateur traîneau electrolux avec sac"
             ],
             [
                 11,
-                "nettoyage sol cuisine professionnelle"
+                "aspirateur traîneau sans sac rowenta"
+            ],
+            [
+                0,
+                "aspirateur silencieux"
+            ],
+            [
+                1,
+                "aspirateur silencieux et puissant comparatif"
+            ],
+            [
+                2,
+                "aspirateur silencieux 57 db"
+            ],
+            [
+                3,
+                "aspirateur silencieux et puissant"
+            ],
+            [
+                4,
+                "aspirateur silencieux sans sac"
+            ],
+            [
+                5,
+                "aspirateur silencieux rowenta"
+            ],
+            [
+                6,
+                "aspirateur silencieux et économique"
+            ],
+            [
+                7,
+                "aspirateur silencieux electrolux"
+            ],
+            [
+                8,
+                "aspirateur silencieux boulanger"
+            ],
+            [
+                9,
+                "aspirateur silencieux sans fil"
+            ],
+            [
+                10,
+                "aspirateur silencieux professionnel"
+            ],
+            [
+                11,
+                "aspirateur silencieux sans sac puissant"
+            ],
+            [
+                0,
+                "aspirateur puissant"
+            ],
+            [
+                1,
+                "aspirateur puissant et silencieux"
+            ],
+            [
+                2,
+                "aspirateur puissant 3000w"
+            ],
+            [
+                3,
+                "aspirateur puissant sans sac"
+            ],
+            [
+                4,
+                "aspirateur puissant sans fil"
+            ],
+            [
+                5,
+                "aspirateur puissant poil animaux"
+            ],
+            [
+                6,
+                "aspirateur puissant pour nettoyage voiture"
+            ],
+            [
+                7,
+                "aspirateur puissant maison"
+            ],
+            [
+                8,
+                "aspirateur puissant et silencieux sans sac"
+            ],
+            [
+                9,
+                "aspirateur puissant pour voiture"
+            ],
+            [
+                10,
+                "aspirateur puissant karcher"
+            ],
+            [
+                11,
+                "aspirateur puissant sans fil rowenta"
             ],
             [
                 0,
@@ -753,19 +717,19 @@
             ],
             [
                 4,
-                "aspirateur sans fil pour innenstadt"
-            ],
-            [
-                5,
                 "aspirateur sans fil boulanger"
             ],
             [
-                6,
+                5,
                 "aspirateur sans fil bosch"
             ],
             [
-                7,
+                6,
                 "aspirateur sans fil lidl"
+            ],
+            [
+                7,
+                "aspirateur sans fil puissant"
             ],
             [
                 0,
@@ -801,70 +765,6 @@
             ],
             [
                 0,
-                "aspirateur traîneau miele"
-            ],
-            [
-                1,
-                "aspirateur traîneau"
-            ],
-            [
-                2,
-                "aspirateur traîneau avec sac puissant"
-            ],
-            [
-                3,
-                "aspirateur traîneau puissant"
-            ],
-            [
-                4,
-                "aspirateur traîneau darty"
-            ],
-            [
-                5,
-                "aspirateur traîneau boulanger"
-            ],
-            [
-                6,
-                "aspirateur traîneau leclerc"
-            ],
-            [
-                7,
-                "aspirateur traîneau silencieux"
-            ],
-            [
-                0,
-                "aspirateur à main"
-            ],
-            [
-                1,
-                "aspirateur à main sans fil"
-            ],
-            [
-                2,
-                "aspirateur à main puissant"
-            ],
-            [
-                3,
-                "aspirateur à main dyson"
-            ],
-            [
-                4,
-                "aspirateur à main bosch"
-            ],
-            [
-                5,
-                "aspirateur à main black et decker"
-            ],
-            [
-                6,
-                "aspirateur à main shark"
-            ],
-            [
-                7,
-                "aspirateur à main darty"
-            ],
-            [
-                0,
                 "accessoires aspirateur"
             ],
             [
@@ -897,67 +797,131 @@
             ],
             [
                 0,
-                "filtre hepa"
+                "entretien aspirateur balai"
             ],
             [
                 1,
-                "filtre hepa aspirateur"
+                "entretien aspirateur robot"
             ],
             [
                 2,
-                "filtre hepa h14"
+                "entretien aspirateur dyson"
             ],
             [
                 3,
-                "filtre hepa h13"
+                "entretien aspirateur dyson v11"
             ],
             [
                 4,
-                "filtre hepa définition"
+                "entretien aspirateur dyson v10"
             ],
             [
                 5,
-                "filtre hepa dyson"
+                "entretien aspirateur dyson v12"
             ],
             [
                 6,
-                "filtre hepa 13"
+                "entretien aspirateur dyson v15"
             ],
             [
                 7,
-                "filtre hepa tesla model y"
+                "entretien aspirateur"
             ],
             [
                 0,
-                "nettoyage sol"
+                "aspirateur traîneau miele"
             ],
             [
                 1,
-                "nettoyage sol carrelage"
+                "aspirateur traîneau"
             ],
             [
                 2,
-                "nettoyage sol maison"
+                "aspirateur traîneau avec sac puissant"
             ],
             [
                 3,
-                "nettoyage sol nice"
+                "aspirateur traîneau puissant"
             ],
             [
                 4,
-                "nettoyage sol monaco"
+                "aspirateur traîneau darty"
             ],
             [
                 5,
-                "nettoyage sol souple aire de jeux"
+                "aspirateur traîneau boulanger"
             ],
             [
                 6,
-                "nettoyage sol vapeur"
+                "aspirateur traîneau leclerc"
             ],
             [
                 7,
-                "nettoyage sol pvc"
+                "aspirateur traîneau silencieux"
+            ],
+            [
+                0,
+                "aspirateur silencieux"
+            ],
+            [
+                1,
+                "aspirateur silencieux et puissant comparatif"
+            ],
+            [
+                2,
+                "aspirateur silencieux 57 db"
+            ],
+            [
+                3,
+                "aspirateur silencieux et puissant"
+            ],
+            [
+                4,
+                "aspirateur silencieux sans sac"
+            ],
+            [
+                5,
+                "aspirateur silencieux rowenta"
+            ],
+            [
+                6,
+                "aspirateur silencieux et économique"
+            ],
+            [
+                7,
+                "aspirateur silencieux electrolux"
+            ],
+            [
+                0,
+                "aspirateur puissant"
+            ],
+            [
+                1,
+                "aspirateur puissant et silencieux"
+            ],
+            [
+                2,
+                "aspirateur puissant 3000w"
+            ],
+            [
+                3,
+                "aspirateur puissant sans sac"
+            ],
+            [
+                4,
+                "aspirateur puissant sans fil"
+            ],
+            [
+                5,
+                "aspirateur puissant poil animaux"
+            ],
+            [
+                6,
+                "aspirateur puissant pour nettoyage voiture"
+            ],
+            [
+                7,
+                "aspirateur puissant maison"
             ],
             [
                 0,
@@ -1036,14 +1000,6 @@
             [
                 0,
                 "aspirateur traîneau"
-            ],
-            [
-                0,
-                "aspirateur à main sans fil"
-            ],
-            [
-                1,
-                "aspirateur à main"
             ]
         ],
         "google": [
@@ -1129,86 +1085,6 @@
             ],
             [
                 0,
-                "aspirateur traîneau sans sac"
-            ],
-            [
-                1,
-                "aspirateur traîneau"
-            ],
-            [
-                2,
-                "aspirateur traîneau avec sac"
-            ],
-            [
-                3,
-                "aspirateur traîneau dyson"
-            ],
-            [
-                4,
-                "aspirateur traîneau rowenta"
-            ],
-            [
-                5,
-                "aspirateur traîneau puissant"
-            ],
-            [
-                6,
-                "aspirateur traîneau avec sac silencieux et puissant"
-            ],
-            [
-                7,
-                "aspirateur traîneau avec sac 2000w"
-            ],
-            [
-                8,
-                "aspirateur traîneau sans sac puissant"
-            ],
-            [
-                9,
-                "aspirateur traîneau sans sac silencieux et puissant"
-            ],
-            [
-                0,
-                "aspirateur à main"
-            ],
-            [
-                1,
-                "aspirateur à main sans fil"
-            ],
-            [
-                2,
-                "aspirateur à main puissant"
-            ],
-            [
-                3,
-                "aspirateur à main sans fil puissant"
-            ],
-            [
-                4,
-                "aspirateur à main dyson"
-            ],
-            [
-                5,
-                "aspirateur à main lidl"
-            ],
-            [
-                6,
-                "aspirateur à main black et decker"
-            ],
-            [
-                7,
-                "aspirateur à main rowenta"
-            ],
-            [
-                8,
-                "aspirateur à main action"
-            ],
-            [
-                9,
-                "aspirateur à main boulanger"
-            ],
-            [
-                0,
                 "accessoires aspirateur rowenta"
             ],
             [
@@ -1249,83 +1125,163 @@
             ],
             [
                 0,
-                "filtre hepa"
+                "entretien aspirateur dyson"
             ],
             [
                 1,
-                "filtre hepa aspirateur"
+                "entretien aspirateur"
             ],
             [
                 2,
-                "filtre hepa tesla model y"
+                "entretien aspirateur dyson v8"
             ],
             [
                 3,
-                "filtre hepa dyson"
+                "entretien aspirateur rowenta"
             ],
             [
                 4,
-                "filtre hepa midea portasplit"
+                "entretien aspirateur dyson v10"
             ],
             [
                 5,
-                "filtre hepa h13"
+                "entretien aspirateur dyson v12"
             ],
             [
                 6,
-                "filtre hepa pour aspirateur"
+                "entretien aspirateur laveur rowenta x clean 10"
             ],
             [
                 7,
-                "filtre hepa aspirateur rowenta"
+                "entretien aspirateur dyson v15"
             ],
             [
                 8,
-                "filtre hepa 13"
+                "entretien aspirateur karcher"
             ],
             [
                 9,
-                "filtre hepa purificateur d'air"
+                "entretien aspirateur laveur"
             ],
             [
                 0,
-                "nettoyage sol"
+                "aspirateur traîneau sans sac"
             ],
             [
                 1,
-                "nettoyage sol carrelage"
+                "aspirateur traîneau"
             ],
             [
                 2,
-                "nettoyage sol pvc clipsable"
+                "aspirateur traîneau avec sac"
             ],
             [
                 3,
-                "nettoyage sol vapeur"
+                "aspirateur traîneau dyson"
             ],
             [
                 4,
-                "nettoyage sol professionnel"
+                "aspirateur traîneau rowenta"
             ],
             [
                 5,
-                "nettoyage sol stratifié"
+                "aspirateur traîneau puissant"
             ],
             [
                 6,
-                "nettoyage sol maison"
+                "aspirateur traîneau avec sac silencieux et puissant"
             ],
             [
                 7,
-                "nettoyage sol pvc gerflor"
+                "aspirateur traîneau avec sac 2000w"
             ],
             [
                 8,
-                "nettoyage sol bicarbonate de soude"
+                "aspirateur traîneau sans sac puissant"
             ],
             [
                 9,
-                "nettoyage sol vinaigre blanc"
+                "aspirateur traîneau sans sac silencieux et puissant"
+            ],
+            [
+                0,
+                "aspirateur silencieux"
+            ],
+            [
+                1,
+                "aspirateur silencieux et puissant"
+            ],
+            [
+                2,
+                "aspirateur silencieux sans sac"
+            ],
+            [
+                3,
+                "aspirateur silencieux rowenta"
+            ],
+            [
+                4,
+                "aspirateur silencieux et puissant sans sac"
+            ],
+            [
+                5,
+                "aspirateur silencieux electrolux"
+            ],
+            [
+                6,
+                "aspirateur silencieux avec sac"
+            ],
+            [
+                7,
+                "aspirateur silencieux sans fil"
+            ],
+            [
+                8,
+                "aspirateur silencieux pas cher"
+            ],
+            [
+                9,
+                "aspirateur silencieux darty"
+            ],
+            [
+                0,
+                "aspirateur puissant"
+            ],
+            [
+                1,
+                "aspirateur puissant sans sac"
+            ],
+            [
+                2,
+                "aspirateur puissant et silencieux"
+            ],
+            [
+                3,
+                "aspirateur puissant pour voiture"
+            ],
+            [
+                4,
+                "aspirateur puissant sans fil"
+            ],
+            [
+                5,
+                "aspirateur puissant pas cher"
+            ],
+            [
+                6,
+                "aspirateur puissant avec sac"
+            ],
+            [
+                7,
+                "aspirateur puissant professionnel"
+            ],
+            [
+                8,
+                "aspirateur puissant et silencieux sans sac"
+            ],
+            [
+                9,
+                "aspirateur puissant poils animaux"
             ],
             [
                 0,
@@ -1366,48 +1322,6 @@
             [
                 9,
                 "comparatif aspirateur laveur balai"
-            ]
-        ],
-        "indeed": [
-            [
-                0,
-                "nettoyage soir"
-            ],
-            [
-                1,
-                "nettoyage salle cinéma"
-            ],
-            [
-                2,
-                "nettoyage collège"
-            ],
-            [
-                3,
-                "nettoyage école"
-            ],
-            [
-                4,
-                "nettoyage hôtel"
-            ],
-            [
-                5,
-                "nettoyage hospitalier"
-            ],
-            [
-                6,
-                "nettoyage voiture"
-            ],
-            [
-                7,
-                "nettoyage hôpital"
-            ],
-            [
-                8,
-                "nettoyage sans expérience"
-            ],
-            [
-                9,
-                "nettoyage école emplois"
             ]
         ],
         "yahoo": [
@@ -1493,86 +1407,6 @@
             ],
             [
                 0,
-                "aspirateur traîneau"
-            ],
-            [
-                1,
-                "aspirateur traîneau dyson"
-            ],
-            [
-                2,
-                "aspirateur traîneau sans sac"
-            ],
-            [
-                3,
-                "aspirateur traîneau rowenta"
-            ],
-            [
-                4,
-                "aspirateur traîneau sans fil"
-            ],
-            [
-                5,
-                "aspirateur traîneau miele"
-            ],
-            [
-                6,
-                "aspirateur traîneau electrolux"
-            ],
-            [
-                7,
-                "aspirateur traîneau puissant"
-            ],
-            [
-                8,
-                "aspirateur traîneaux meilleur choix"
-            ],
-            [
-                9,
-                "aspirateur traîneaux le plus puissant"
-            ],
-            [
-                0,
-                "aspirateur à main"
-            ],
-            [
-                1,
-                "aspirateur à main sans fil"
-            ],
-            [
-                2,
-                "aspirateur à main puissant"
-            ],
-            [
-                3,
-                "aspirateur à main dyson"
-            ],
-            [
-                4,
-                "aspirateur à main black et decker"
-            ],
-            [
-                5,
-                "aspirateur à main electrolux"
-            ],
-            [
-                6,
-                "aspirateur à main chez darty"
-            ],
-            [
-                7,
-                "aspirateur à main rowenta"
-            ],
-            [
-                8,
-                "aspirateur à main lidl"
-            ],
-            [
-                9,
-                "aspirateur à main philips"
-            ],
-            [
-                0,
                 "accessoires aspirateur"
             ],
             [
@@ -1613,83 +1447,131 @@
             ],
             [
                 0,
-                "filtre hepa"
+                "entretien aspirateur dyson"
             ],
             [
                 1,
-                "filtre hepa pour aspirateur"
+                "entretien aspirateur dyson v7"
             ],
             [
                 2,
-                "filtre hepa 13"
+                "entretien aspirateur dyson v8"
             ],
             [
                 3,
-                "filtre hepa rowenta"
-            ],
-            [
-                4,
-                "filtre hepa dyson"
-            ],
-            [
-                5,
-                "filtre hepa h13"
-            ],
-            [
-                6,
-                "filtre hepa h14"
-            ],
-            [
-                7,
-                "filtre hepa 10"
-            ],
-            [
-                8,
-                "filtre hepa 14"
-            ],
-            [
-                9,
-                "filtre hepa mini"
+                "entretien aspirateur dyson v12"
             ],
             [
                 0,
-                "nettoyage sol"
+                "aspirateur traîneau"
             ],
             [
                 1,
-                "nettoyage sol carrelage"
+                "aspirateur traîneau dyson"
             ],
             [
                 2,
-                "nettoyage sol marbre"
+                "aspirateur traîneau sans sac"
             ],
             [
                 3,
-                "nettoyage sol vapeur"
+                "aspirateur traîneau rowenta"
             ],
             [
                 4,
-                "nettoyage sol pvc"
+                "aspirateur traîneau sans fil"
             ],
             [
                 5,
-                "nettoyage sol karcher"
+                "aspirateur traîneau miele"
             ],
             [
                 6,
-                "nettoyage sol béton"
+                "aspirateur traîneau electrolux"
             ],
             [
                 7,
-                "nettoyage sol en briques"
+                "aspirateur traîneau puissant"
             ],
             [
                 8,
-                "nettoyage sol gerflor"
+                "aspirateur traîneaux meilleur choix"
             ],
             [
                 9,
-                "nettoyage sol leclerc"
+                "aspirateur traîneaux le plus puissant"
+            ],
+            [
+                0,
+                "aspirateur silencieux"
+            ],
+            [
+                1,
+                "aspirateur silencieux et puissant"
+            ],
+            [
+                2,
+                "aspirateur silencieux sans sac"
+            ],
+            [
+                3,
+                "aspirateur silencieux que choisir"
+            ],
+            [
+                4,
+                "aspirateur silencieux bosch"
+            ],
+            [
+                5,
+                "aspirateur silencieux electrolux"
+            ],
+            [
+                6,
+                "aspirateur silencieux 62 db"
+            ],
+            [
+                7,
+                "aspirateur silencieux et léger"
+            ],
+            [
+                8,
+                "aspirateur silencieux dyson"
+            ],
+            [
+                0,
+                "aspirateur puissant"
+            ],
+            [
+                1,
+                "aspirateur puissant et silencieux"
+            ],
+            [
+                2,
+                "aspirateur puissant pour nettoyage voiture"
+            ],
+            [
+                3,
+                "aspirateur puissant 2800w"
+            ],
+            [
+                4,
+                "aspirateur puissant pour voiture"
+            ],
+            [
+                5,
+                "aspirateur puissant sans sac"
+            ],
+            [
+                6,
+                "aspirateur puissant sans fil"
+            ],
+            [
+                7,
+                "aspirateur puissant pour piscine"
+            ],
+            [
+                8,
+                "aspirateur puissant cdiscount"
             ],
             [
                 0,
@@ -1815,6 +1697,30 @@
             ],
             [
                 0,
+                "entretien aspirateur dyson"
+            ],
+            [
+                1,
+                "entretien aspirateur rowenta"
+            ],
+            [
+                2,
+                "entretien aspirateur dyson v8"
+            ],
+            [
+                3,
+                "entretien aspirateur karcher"
+            ],
+            [
+                4,
+                "entretien aspirateur central"
+            ],
+            [
+                5,
+                "entretien robot aspirateur"
+            ],
+            [
+                0,
                 "aspirateur traîneau dyson big balltm parquet 2"
             ],
             [
@@ -1855,123 +1761,79 @@
             ],
             [
                 0,
-                "aspirateur à main"
+                "aspirateur silencieux"
             ],
             [
                 1,
-                "aspirateur à main thomson thmsc1500"
+                "aspirateur silencieux rowenta"
             ],
             [
                 2,
-                "aspirateur à main v1 pro"
+                "aspirateur balai silencieux"
             ],
             [
                 3,
-                "aspirateur à main valberg cyclonic-h2.3"
+                "aspirateur robot silencieux"
             ],
             [
                 4,
-                "aspirateur à main action"
+                "meilleur aspirateur silencieux"
             ],
             [
                 5,
-                "aspirateur à main lidl"
+                "aspirateur laveur silencieux"
             ],
             [
                 6,
-                "aspirateur à main cyclonique sans fil 20 v"
+                "aspirateur sans fil silencieux"
             ],
             [
                 7,
-                "aspirateur à main dyson car+boat"
+                "aspirateur sans sac silencieux"
             ],
             [
                 8,
-                "aspirateur à main sans fil pksa 20-li d2 20 v"
-            ],
-            [
-                9,
-                "aspirateur à main pour voiture"
+                "aspirateur le plus silencieux"
             ],
             [
                 0,
-                "filtre hepa tesla"
+                "aspirateur puissant"
             ],
             [
                 1,
-                "filtre hepa"
+                "aspirateur puissant pour voiture"
             ],
             [
                 2,
-                "filtre hepa aspirateur"
+                "aspirateur puissant pas cher"
             ],
             [
                 3,
-                "filtre hepa tesla y"
+                "aspirateur puissant sans fil"
             ],
             [
                 4,
-                "nettoyer filtre hepa aspirateur"
+                "aspirateur voiture puissant"
             ],
             [
                 5,
-                "nettoyer filtre hepa"
+                "aspirateur balai puissant"
             ],
             [
                 6,
-                "rowenta hepa filtre nasıl takılır"
+                "aspirateur traineau puissant"
             ],
             [
                 7,
-                "hepa filtre temizleme"
+                "aspirateur balai puissant comparatif"
             ],
             [
                 8,
-                "hepa filtre nedir"
+                "mini aspirateur puissant"
             ],
             [
                 9,
-                "hepa filtre nasıl temizlenir"
-            ],
-            [
-                0,
-                "nettoyage sol"
-            ],
-            [
-                1,
-                "nettoyage sol carrelage"
-            ],
-            [
-                2,
-                "nettoyage sol pvc"
-            ],
-            [
-                3,
-                "nettoyage sol lino"
-            ],
-            [
-                4,
-                "nettoyage sol exterieur"
-            ],
-            [
-                5,
-                "nettoyage sol terre cuite"
-            ],
-            [
-                6,
-                "nettoyage sol voiture"
-            ],
-            [
-                7,
-                "nettoyage sol beton"
-            ],
-            [
-                8,
-                "nettoyage sol monobrosse"
-            ],
-            [
-                9,
-                "nettoyage sol travertin"
+                "aspirateur super puissant"
             ],
             [
                 0,
@@ -2019,21 +1881,21 @@
         "articles": [
             {
                 "title": "Aspirateur",
-                "views": 1981,
+                "views": 1956,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.667
             },
             {
                 "title": "Balai",
-                "views": 486,
+                "views": 477,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.333
             },
             {
                 "title": "Robot aspirateur",
-                "views": 707,
+                "views": 700,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -2057,19 +1919,25 @@
             "keywords": [
                 "meilleur aspirateur balai sans fil",
                 "meilleur aspirateur balai sans fil 2026",
-                "aspirateur léger",
-                "autonomie batterie",
-                "bac à poussière",
-                "brosse motorisée",
+                "aspirateur balai avec autonomie élevée",
+                "aspirateur balai avec brosse",
+                "aspirateur balai léger",
+                "aspirateur balai pour moquette",
+                "aspirateur balai pour poils d'animaux",
+                "aspirateur balai pour sols durs",
+                "aspirateur balai rechargeable",
+                "aspiration centralisée",
                 "déchets",
-                "filtre lavable",
-                "mode turbo",
+                "filtration",
+                "kobold",
+                "moquette",
                 "poussière",
-                "puissance aspiration",
-                "station de chargement",
+                "tapis",
                 "aspirateur sans fil",
-                "aspirateur à main sans fil",
-                "aspirateur sans fil puissant"
+                "aspirateur balai sans fil",
+                "aspirateur sans fil puissant",
+                "aspirateur balai puissant",
+                "aspirateur sans fil dyson"
             ]
         },
         {
@@ -2080,17 +1948,7 @@
                 "aspirateur robot",
                 "aspirateur robot laveur",
                 "comparatif aspirateur robot",
-                "aspirateur robot dyson"
-            ]
-        },
-        {
-            "group": "Types d'aspirateurs",
-            "title": "aspirateur à main",
-            "intent": "commercial",
-            "keywords": [
-                "aspirateur à main",
-                "aspirateur à main puissant",
-                "accessoires aspirateur"
+                "aspirateur robot dreame"
             ]
         },
         {
@@ -2099,8 +1957,8 @@
             "intent": "commercial",
             "keywords": [
                 "aspirateur traîneau",
-                "aspirateur sans sac",
-                "aspirateur traîneau sans sac"
+                "aspirateur traîneau sans sac",
+                "aspirateur traîneau puissant"
             ]
         },
         {
@@ -2109,9 +1967,9 @@
             "intent": "commercial",
             "keywords": [
                 "comparatif aspirateur balai",
-                "comparatif aspirateur",
                 "meilleur aspirateur balai 2025",
-                "meilleur aspirateur balai 2026"
+                "meilleur aspirateur balai 2026",
+                "meilleur aspirateur balai laveur"
             ]
         },
         {
@@ -2120,54 +1978,39 @@
             "intent": "commercial",
             "keywords": [
                 "comparatif aspirateur laveur",
-                "meilleur aspirateur balai laveur"
-            ]
-        },
-        {
-            "group": "Filtres et accessoires",
-            "title": "filtre hepa",
-            "intent": "informational",
-            "keywords": [
-                "filtre hepa",
-                "filtration",
-                "filtre hepa aspirateur"
-            ]
-        },
-        {
-            "group": "Filtres et accessoires",
-            "title": "nettoyage sol",
-            "intent": "informational",
-            "keywords": [
-                "nettoyage sol",
-                "moquette",
-                "tapis",
-                "nettoyage sol carrelage"
-            ]
-        },
-        {
-            "group": "Marques et modèles",
-            "title": "aspirateur sans fil rowenta",
-            "intent": "commercial",
-            "keywords": [
                 "aspirateur sans fil rowenta",
                 "accessoires aspirateur rowenta"
             ]
         },
         {
-            "group": "Marques et modèles",
-            "title": "aspirateur sans fil dyson",
+            "group": "Caractéristiques",
+            "title": "aspirateur silencieux",
             "intent": "commercial",
             "keywords": [
-                "aspirateur sans fil dyson",
-                "kobold"
+                "aspirateur silencieux",
+                "aspirateur silencieux et puissant",
+                "aspirateur balai silencieux",
+                "aspirateur silencieux sans sac"
             ]
         },
         {
-            "group": "Marques et modèles",
-            "title": "aspirateur robot dreame",
+            "group": "Caractéristiques",
+            "title": "aspirateur puissant",
             "intent": "commercial",
             "keywords": [
-                "aspirateur robot dreame"
+                "aspirateur puissant",
+                "aspirateur puissant pour voiture",
+                "aspirateur puissant sans sac"
+            ]
+        },
+        {
+            "group": "Entretien et accessoires",
+            "title": "entretien aspirateur dyson",
+            "intent": "commercial",
+            "keywords": [
+                "entretien aspirateur dyson",
+                "accessoires aspirateur",
+                "comparatif aspirateur"
             ]
         }
     ],
@@ -2175,45 +2018,47 @@
         "meilleur aspirateur balai sans fil": "core",
         "aspirateur robot": "core",
         "aspirateur sans fil": "core",
-        "aspirateur à main": "core",
         "aspirateur sans fil rowenta": "commercial",
-        "filtre hepa": "complementary",
-        "nettoyage sol": "complementary",
-        "aspirateur robot laveur": "complementary",
+        "aspirateur silencieux": "core",
         "aspirateur traîneau": "core",
-        "aspirateur à main sans fil": "core",
+        "aspirateur robot laveur": "complementary",
         "comparatif aspirateur laveur": "commercial",
-        "filtre hepa aspirateur": "complementary",
         "comparatif aspirateur balai": "commercial",
-        "nettoyage sol carrelage": "complementary",
+        "aspirateur puissant": "core",
+        "entretien aspirateur dyson": "complementary",
+        "aspirateur silencieux et puissant": "core",
         "meilleur aspirateur balai 2025": "core",
-        "aspirateur sans fil dyson": "commercial",
+        "aspirateur sans fil puissant": "core",
+        "aspirateur sans fil dyson": "core",
+        "aspirateur silencieux sans sac": "core",
+        "aspirateur traîneau sans sac": "core",
+        "aspirateur puissant pour voiture": "core",
+        "aspirateur puissant sans sac": "core",
         "aspirateur robot dreame": "commercial",
-        "aspirateur traîneau sans sac": "complementary",
-        "aspirateur à main puissant": "complementary",
         "comparatif aspirateur robot": "commercial",
         "accessoires aspirateur": "complementary",
         "accessoires aspirateur rowenta": "commercial",
         "meilleur aspirateur balai 2026": "core",
         "meilleur aspirateur balai laveur": "core",
         "meilleur aspirateur balai sans fil 2026": "core",
-        "aspirateur sans fil puissant": "core",
+        "aspirateur traîneau puissant": "core",
         "comparatif aspirateur": "commercial",
-        "aspirateur robot dyson": "core",
-        "autonomie batterie": "complementary",
-        "puissance aspiration": "core",
-        "brosse motorisée": "core",
-        "bac à poussière": "core",
-        "filtre lavable": "core",
-        "mode turbo": "core",
-        "station de chargement": "core",
-        "aspirateur léger": "core",
-        "aspirateur sans sac": "core",
+        "aspirateur balai sans fil": "complementary",
+        "aspirateur balai puissant": "complementary",
+        "aspirateur balai silencieux": "complementary",
+        "aspirateur balai léger": "core",
+        "aspirateur balai rechargeable": "core",
+        "aspirateur balai avec brosse": "core",
+        "aspirateur balai pour poils d'animaux": "core",
+        "aspirateur balai pour sols durs": "core",
+        "aspirateur balai pour moquette": "core",
+        "aspirateur balai avec autonomie élevée": "core",
         "poussière": "complementary",
         "déchets": "complementary",
         "tapis": "complementary",
         "moquette": "complementary",
         "filtration": "complementary",
+        "aspiration centralisée": "complementary",
         "kobold": "commercial"
     }
 }

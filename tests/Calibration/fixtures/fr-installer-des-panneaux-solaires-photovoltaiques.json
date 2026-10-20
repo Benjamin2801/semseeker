@@ -1,7 +1,7 @@
 {
     "expression": "installer des panneaux solaires photovoltaïques",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "prix installation panneaux solaires",
+        "énergie solaire",
+        "panneaux solaires thermiques",
+        "coût installation panneaux solaires",
         "subvention panneaux solaires",
-        "batterie stockage solaire",
         "entretien panneaux solaires",
-        "panneaux solaires intégrés",
-        "solaire thermique",
-        "énergie renouvelable",
-        "autoconsommation électrique"
+        "batterie stockage solaire",
+        "onduleur solaire",
+        "raccordement réseau électrique"
     ],
     "suggestions": {
         "google": [
@@ -42,6 +42,50 @@
     },
     "related": {
         "amazon": [
+            [
+                0,
+                "énergie solaire"
+            ],
+            [
+                1,
+                "énergie solaire maison"
+            ],
+            [
+                2,
+                "énergie solaire livre"
+            ],
+            [
+                3,
+                "énergie solaire et éolienne"
+            ],
+            [
+                4,
+                "énergie solaire 14 en 1"
+            ],
+            [
+                5,
+                "énergie solaire buki"
+            ],
+            [
+                6,
+                "énergie solaire portable"
+            ],
+            [
+                7,
+                "énergie solaire jeux"
+            ],
+            [
+                8,
+                "énergie solaire pour lampe de camping"
+            ],
+            [
+                9,
+                "énergie solaire enfant"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
             [
                 0,
                 "batterie stockage solaire 10kw"
@@ -84,45 +128,177 @@
             ],
             [
                 0,
-                "solaire thermique"
+                "onduleur solaire"
             ],
             [
-                0,
-                "énergie renouvelable"
+                1,
+                "micro onduleur solaire"
+            ],
+            [
+                2,
+                "onduleur solaire hybride"
+            ],
+            [
+                3,
+                "onduleur solaire 3000w"
+            ],
+            [
+                4,
+                "onduleur solaire hybride avec batterie"
+            ],
+            [
+                5,
+                "onduleur solaire 12v"
+            ],
+            [
+                6,
+                "onduleur solaire hors réseau autonome"
+            ],
+            [
+                7,
+                "onduleur solaire hybride 48v"
+            ],
+            [
+                8,
+                "onduleur solaire 2000w"
+            ],
+            [
+                9,
+                "onduleur solaire 1000w"
             ]
         ],
         "bing": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "energie solaire"
             ],
             [
                 1,
-                "prix installation panneaux solaires 3 kwc"
+                "energie solaire photovoltaique"
             ],
             [
                 2,
-                "prix installation panneaux solaires 9kw"
+                "energie solaire definition"
             ],
             [
                 3,
-                "installation de panneaux solaires"
+                "energie solaire thermique"
             ],
             [
                 4,
-                "combien coûte installation panneaux solaire"
+                "énergie solaire 85"
             ],
             [
                 5,
-                "prix de panneau solaire"
+                "energie solaire quebec"
             ],
             [
                 6,
-                "installation panneau solaire particulier"
+                "énergie solaire image"
             ],
             [
                 7,
-                "coût d'installation panneau solaire"
+                "energie solaire maroc"
+            ],
+            [
+                8,
+                "energie solaire avantages et inconvenients"
+            ],
+            [
+                9,
+                "énergie solaire fonctionnement"
+            ],
+            [
+                10,
+                "energie solaire thermodynamique"
+            ],
+            [
+                11,
+                "énergie solaire inconvénients"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
+            [
+                1,
+                "panneaux solaires thermiques définition"
+            ],
+            [
+                2,
+                "panneaux solaires thermiques prix"
+            ],
+            [
+                3,
+                "panneaux solaires thermiques eau chaude"
+            ],
+            [
+                4,
+                "panneaux solaires thermiques inconvénients"
+            ],
+            [
+                5,
+                "panneaux solaires thermiques fonctionnement"
+            ],
+            [
+                6,
+                "panneaux solaires thermiques avantages"
+            ],
+            [
+                7,
+                "panneaux solaires thermiques pour piscine"
+            ],
+            [
+                8,
+                "panneaux solaires thermiques au sol"
+            ],
+            [
+                9,
+                "panneaux solaires thermiques composition"
+            ],
+            [
+                10,
+                "panneaux solaires thermiques durée de vie"
+            ],
+            [
+                0,
+                "coût installation panneaux solaires"
+            ],
+            [
+                1,
+                "coût installation panneaux solaires 3kwc"
+            ],
+            [
+                2,
+                "installation de panneaux solaires prix"
+            ],
+            [
+                3,
+                "prix moyen installation panneaux solaires"
+            ],
+            [
+                4,
+                "coût de la pose de panneaux solaires"
+            ],
+            [
+                5,
+                "prix d'installation de panneaux solaires"
+            ],
+            [
+                6,
+                "prix de l'installation de panneaux solaires"
+            ],
+            [
+                7,
+                "prix installation panneau solaire"
+            ],
+            [
+                8,
+                "coût d'un panneau solaire"
+            ],
+            [
+                9,
+                "tarif installation panneau solaire"
             ],
             [
                 0,
@@ -163,6 +339,22 @@
             [
                 9,
                 "subvention installation panneaux solaires"
+            ],
+            [
+                0,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                1,
+                "entretien panneaux solaires"
+            ],
+            [
+                2,
+                "entretien panneaux solaires thermiques"
+            ],
+            [
+                3,
+                "entretien et nettoyage de panneaux solaires"
             ],
             [
                 0,
@@ -210,181 +402,161 @@
             ],
             [
                 0,
-                "entretien panneaux solaires photovoltaïques"
+                "onduleur solaire"
             ],
             [
                 1,
-                "entretien panneaux solaires"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "entretien panneaux solaires thermiques"
+                "onduleur solaire 3000w"
             ],
             [
                 3,
-                "entretien et nettoyage de panneaux solaires"
-            ],
-            [
-                0,
-                "panneaux solaires intégrés à la toiture"
-            ],
-            [
-                1,
-                "panneaux solaires intégrés au bâti"
-            ],
-            [
-                2,
-                "panneaux solaires intégrés"
-            ],
-            [
-                0,
-                "solaire thermique"
-            ],
-            [
-                1,
-                "solaire thermique et photovoltaïque"
-            ],
-            [
-                2,
-                "solaire thermique domestique"
-            ],
-            [
-                3,
-                "solaire thermique france"
+                "onduleur solaire triphasé"
             ],
             [
                 4,
-                "solaire thermique eau chaude"
+                "onduleur solaire deye"
             ],
             [
                 5,
-                "solaire thermique au sol"
+                "onduleur solaire 1000w"
             ],
             [
                 6,
-                "solaire thermique ecs"
+                "onduleur solaire huawei"
             ],
             [
                 7,
-                "solaire thermique cesi"
+                "onduleur solaire 2000w"
             ],
             [
                 8,
-                "solaire thermique vaud"
+                "onduleur solaire 5000w"
             ],
             [
                 9,
-                "solaire thermique ademe"
+                "onduleur solaire victron"
             ],
             [
                 10,
-                "solaire thermique avantages"
+                "onduleur solaire 6kw"
             ],
             [
                 11,
-                "solaire thermique avantages et inconvénients"
+                "onduleur solaire hybride 3kw"
             ],
             [
                 0,
-                "energie renouvelable"
+                "raccordement reseau electrique"
             ],
             [
                 1,
-                "energie renouvelable dofus"
+                "raccordement au réseau électrique"
             ],
             [
                 2,
-                "energie renouvelable definition"
-            ],
-            [
-                3,
-                "énergie renouvelable exemple"
-            ],
-            [
-                4,
-                "énergie renouvelable image"
-            ],
-            [
-                5,
-                "énergie renouvelable en anglais"
-            ],
-            [
-                6,
-                "énergie renouvelable solaire"
-            ],
-            [
-                7,
-                "energie renouvelable definition simple"
-            ],
-            [
-                8,
-                "énergie renouvelable éolienne"
-            ],
-            [
-                9,
-                "énergie renouvelable liste"
-            ],
-            [
-                0,
-                "auto consommation électrique"
-            ],
-            [
-                1,
-                "autoconsommation électrique que choisir"
-            ],
-            [
-                2,
-                "autoconsommation électrique photovoltaïque"
-            ],
-            [
-                3,
-                "auto consommation électrique maison"
-            ],
-            [
-                4,
-                "auto consommation électrique avantages"
-            ],
-            [
-                5,
-                "auto consommation électrique installation"
-            ],
-            [
-                6,
-                "auto consommation électrique fonctionnement"
+                "raccordement réseau électrique"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "energie solaire"
             ],
             [
                 1,
-                "prix installation panneaux solaires 3 kwc"
+                "energie solaire photovoltaique"
             ],
             [
                 2,
-                "prix installation panneaux solaires 9kw"
+                "energie solaire definition"
             ],
             [
                 3,
-                "installation de panneaux solaires"
+                "energie solaire thermique"
             ],
             [
                 4,
-                "combien coûte installation panneaux solaire"
+                "énergie solaire 85"
             ],
             [
                 5,
-                "prix de panneau solaire"
+                "energie solaire quebec"
             ],
             [
                 6,
-                "installation panneau solaire particulier"
+                "énergie solaire image"
             ],
             [
                 7,
-                "coût d'installation panneau solaire"
+                "energie solaire maroc"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
+            [
+                1,
+                "panneaux solaires thermiques définition"
+            ],
+            [
+                2,
+                "panneaux solaires thermiques prix"
+            ],
+            [
+                3,
+                "panneaux solaires thermiques eau chaude"
+            ],
+            [
+                4,
+                "panneaux solaires thermiques inconvénients"
+            ],
+            [
+                5,
+                "panneaux solaires thermiques fonctionnement"
+            ],
+            [
+                6,
+                "panneaux solaires thermiques avantages"
+            ],
+            [
+                7,
+                "panneaux solaires thermiques pour piscine"
+            ],
+            [
+                0,
+                "coût installation panneaux solaires"
+            ],
+            [
+                1,
+                "coût installation panneaux solaires 3kwc"
+            ],
+            [
+                2,
+                "installation de panneaux solaires prix"
+            ],
+            [
+                3,
+                "prix moyen installation panneaux solaires"
+            ],
+            [
+                4,
+                "coût de la pose de panneaux solaires"
+            ],
+            [
+                5,
+                "prix d'installation de panneaux solaires"
+            ],
+            [
+                6,
+                "prix de l'installation de panneaux solaires"
+            ],
+            [
+                7,
+                "prix installation panneau solaire"
             ],
             [
                 0,
@@ -420,6 +592,22 @@
             ],
             [
                 0,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                1,
+                "entretien panneaux solaires"
+            ],
+            [
+                2,
+                "entretien panneaux solaires thermiques"
+            ],
+            [
+                3,
+                "entretien et nettoyage de panneaux solaires"
+            ],
+            [
+                0,
                 "batterie stockage solaire"
             ],
             [
@@ -452,165 +640,183 @@
             ],
             [
                 0,
-                "entretien panneaux solaires photovoltaïques"
+                "onduleur solaire"
             ],
             [
                 1,
-                "entretien panneaux solaires"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "entretien panneaux solaires thermiques"
+                "onduleur solaire 3000w"
             ],
             [
                 3,
-                "entretien et nettoyage de panneaux solaires"
-            ],
-            [
-                0,
-                "panneaux solaires intégrés à la toiture"
-            ],
-            [
-                1,
-                "panneaux solaires intégrés au bâti"
-            ],
-            [
-                2,
-                "panneaux solaires intégrés"
-            ],
-            [
-                0,
-                "solaire thermique"
-            ],
-            [
-                1,
-                "solaire thermique et photovoltaïque"
-            ],
-            [
-                2,
-                "solaire thermique domestique"
-            ],
-            [
-                3,
-                "solaire thermique france"
+                "onduleur solaire triphasé"
             ],
             [
                 4,
-                "solaire thermique eau chaude"
+                "onduleur solaire deye"
             ],
             [
                 5,
-                "solaire thermique au sol"
+                "onduleur solaire 1000w"
             ],
             [
                 6,
-                "solaire thermique ecs"
+                "onduleur solaire huawei"
             ],
             [
                 7,
-                "solaire thermique cesi"
+                "onduleur solaire 2000w"
             ],
             [
                 0,
-                "energie renouvelable"
+                "raccordement reseau electrique"
             ],
             [
                 1,
-                "energie renouvelable dofus"
+                "raccordement au réseau électrique"
             ],
             [
                 2,
-                "energie renouvelable definition"
-            ],
-            [
-                3,
-                "énergie renouvelable exemple"
-            ],
-            [
-                4,
-                "énergie renouvelable image"
-            ],
-            [
-                5,
-                "énergie renouvelable en anglais"
-            ],
-            [
-                6,
-                "énergie renouvelable solaire"
-            ],
-            [
-                7,
-                "energie renouvelable definition simple"
-            ],
+                "raccordement réseau électrique"
+            ]
+        ],
+        "ebay": [
             [
                 0,
-                "auto consommation électrique"
+                "onduleur solaire"
             ],
             [
                 1,
-                "autoconsommation électrique que choisir"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "autoconsommation électrique photovoltaïque"
-            ],
-            [
-                3,
-                "auto consommation électrique maison"
-            ],
-            [
-                4,
-                "auto consommation électrique avantages"
-            ],
-            [
-                5,
-                "auto consommation électrique installation"
-            ],
-            [
-                6,
-                "auto consommation électrique fonctionnement"
+                "micro onduleur solaire"
             ]
         ],
         "google": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "énergie solaire"
             ],
             [
                 1,
-                "prix installation panneaux solaires 6kw"
+                "énergie solaire photovoltaïque"
             ],
             [
                 2,
-                "prix installation panneaux solaires avec batterie"
+                "énergie solaire définition"
             ],
             [
                 3,
-                "prix installation panneaux solaires 3kw"
+                "énergie solaire thermique"
             ],
             [
                 4,
-                "prix installation panneaux solaires belgique"
+                "énergie solaire fonctionnement"
             ],
             [
                 5,
-                "prix kit panneaux solaires"
+                "énergie solaire chine"
             ],
             [
                 6,
-                "cout installation panneaux solaires 6kwc"
+                "énergie solaire en france"
             ],
             [
                 7,
-                "prix installation panneaux photovoltaïques"
+                "énergie solaire photovoltaïque pdf"
             ],
             [
                 8,
-                "prix installation panneau solaire 6kw avec batterie"
+                "énergie solaire 85"
             ],
             [
                 9,
-                "prix installation panneau solaire 3kw avec batterie"
+                "énergie solaire en espagne"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
+            [
+                1,
+                "panneaux solaires thermiques pour eau chaude sanitaire"
+            ],
+            [
+                2,
+                "panneaux solaires thermiques piscine"
+            ],
+            [
+                3,
+                "panneaux solaires thermiques autorisation"
+            ],
+            [
+                4,
+                "panneaux solaires thermiques prix"
+            ],
+            [
+                5,
+                "panneaux solaires thermiques ou photovoltaïques"
+            ],
+            [
+                6,
+                "panneaux solaires thermiques tubes sous vide"
+            ],
+            [
+                7,
+                "panneaux solaires thermiques fonctionnement"
+            ],
+            [
+                8,
+                "panneaux solaires thermiques inconvénients"
+            ],
+            [
+                9,
+                "panneaux solaires thermiques et hybrides"
+            ],
+            [
+                0,
+                "coût installation panneaux solaires"
+            ],
+            [
+                1,
+                "coût installation panneaux solaires 3kwc"
+            ],
+            [
+                2,
+                "coût installation panneaux solaires 6kwc"
+            ],
+            [
+                3,
+                "coût installation panneaux solaires 6kw"
+            ],
+            [
+                4,
+                "coût installation panneaux solaires 9kw"
+            ],
+            [
+                5,
+                "cout installation panneaux solaires 9kwc"
+            ],
+            [
+                6,
+                "cout installation panneaux solaires belgique"
+            ],
+            [
+                7,
+                "cout installation panneaux solaires avec batterie"
+            ],
+            [
+                8,
+                "cout installation panneaux solaires edf"
+            ],
+            [
+                9,
+                "cout installation panneaux solaires 3kw"
             ],
             [
                 0,
@@ -654,46 +860,6 @@
             ],
             [
                 0,
-                "batterie stockage solaire"
-            ],
-            [
-                1,
-                "batterie stockage solaire 10kw"
-            ],
-            [
-                2,
-                "batterie stockage solaire 5kw"
-            ],
-            [
-                3,
-                "batterie stockage solaire maison"
-            ],
-            [
-                4,
-                "batterie stockage solaire 15 kw"
-            ],
-            [
-                5,
-                "batterie stockage solaire enphase"
-            ],
-            [
-                6,
-                "batterie stockage solaire grande capacité"
-            ],
-            [
-                7,
-                "batterie stockage solaire 20kw"
-            ],
-            [
-                8,
-                "batterie stockage solaire plug and play"
-            ],
-            [
-                9,
-                "batterie stockage solaire 100 kwh"
-            ],
-            [
-                0,
                 "entretien panneaux solaires"
             ],
             [
@@ -734,179 +900,187 @@
             ],
             [
                 0,
-                "panneaux solaires intégrés à la toiture"
+                "batterie stockage solaire"
             ],
             [
                 1,
-                "panneaux solaires intégrés au bâti"
+                "batterie stockage solaire 10kw"
             ],
             [
                 2,
-                "panneaux solaires intégrés"
+                "batterie stockage solaire 5kw"
             ],
             [
                 3,
-                "panneaux photovoltaïques intégrés ou superposés"
+                "batterie stockage solaire maison"
             ],
             [
                 4,
-                "panneaux photovoltaïques intégrés"
+                "batterie stockage solaire 15 kw"
             ],
             [
                 5,
-                "capteurs solaires intégrés"
+                "batterie stockage solaire enphase"
             ],
             [
                 6,
-                "panneaux solaires non intégrés au bâti"
+                "batterie stockage solaire grande capacité"
             ],
             [
                 7,
-                "tuiles avec panneaux solaires intégrés"
-            ],
-            [
-                0,
-                "solaire thermique"
-            ],
-            [
-                1,
-                "solaire thermique chauffage"
-            ],
-            [
-                2,
-                "solaire thermique piscine"
-            ],
-            [
-                3,
-                "solaire thermique france"
-            ],
-            [
-                4,
-                "solaire thermique ademe"
-            ],
-            [
-                5,
-                "solaire thermique viessmann"
-            ],
-            [
-                6,
-                "solaire thermique vs solaire photovoltaique"
-            ],
-            [
-                7,
-                "solaire thermique autovidangeable"
+                "batterie stockage solaire 20kw"
             ],
             [
                 8,
-                "solaire thermique fonctionnement"
+                "batterie stockage solaire plug and play"
             ],
             [
                 9,
-                "solaire thermique pdf"
+                "batterie stockage solaire 100 kwh"
             ],
             [
                 0,
-                "énergie renouvelable"
+                "onduleur solaire"
             ],
             [
                 1,
-                "énergie renouvelable définition"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "énergie renouvelable dofus"
+                "onduleur solaire 3000w"
             ],
             [
                 3,
-                "énergie renouvelable exemple"
+                "onduleur solaire triphasé"
             ],
             [
                 4,
-                "énergie renouvelable france"
+                "onduleur solaire 5000w"
             ],
             [
                 5,
-                "énergie renouvelable en anglais"
+                "onduleur solaire 400w"
             ],
             [
                 6,
-                "énergie renouvelable et non renouvelable"
+                "onduleur solaire huawei"
             ],
             [
                 7,
-                "énergie renouvelable chine"
+                "onduleur solaire hybride 3kw"
             ],
             [
                 8,
-                "énergie renouvelable allemagne"
+                "onduleur solaire 1000w"
             ],
             [
                 9,
-                "énergie renouvelable liste"
+                "onduleur solaire 2000w"
             ],
             [
                 0,
-                "autoconsommation électrique"
+                "raccordement réseau électrique"
             ],
             [
                 1,
-                "autoconsommation électrique photovoltaique"
+                "branchement réseau électrique maison"
             ],
             [
                 2,
-                "autoconsommation électrique avec stockage"
+                "raccordement au réseau électrique public"
             ],
             [
                 3,
-                "autoconsommation électrique avec batterie"
+                "éolienne raccordement au réseau électrique"
             ],
             [
                 4,
-                "autoconsommation voiture électrique"
-            ],
-            [
-                5,
-                "kit autoconsommation électrique"
-            ],
-            [
-                6,
-                "schéma électrique autoconsommation photovoltaique"
-            ],
-            [
-                7,
-                "compteur électrique autoconsommation"
+                "coût raccordement au réseau électrique"
             ]
         ],
         "indeed": [
             [
                 0,
-                "énergie renouvelable"
-            ],
-            [
-                1,
-                "énergie renouvelable alternance"
+                "énergie solaire"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "énergie solaire"
             ],
             [
                 1,
-                "prix installation panneaux solaires maison"
+                "énergie solaire photovoltaïque"
             ],
             [
                 2,
-                "prix installation panneaux solaires 9kw"
+                "énergie solaire et habitation"
             ],
             [
                 3,
-                "prix moyen installation panneaux solaires"
+                "énergie solaire thermique"
             ],
             [
                 4,
-                "prix prime installation panneaux solaires"
+                "énergie solaire définition"
+            ],
+            [
+                5,
+                "énergie solaire maroc"
+            ],
+            [
+                6,
+                "énergie solaire wikipédia"
+            ],
+            [
+                7,
+                "énergie solaire en france"
+            ],
+            [
+                8,
+                "énergie solaire avantage et inconvénient"
+            ],
+            [
+                9,
+                "énergie solaire pdf"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
+            [
+                1,
+                "panneaux solaires thermiques inconvénients"
+            ],
+            [
+                2,
+                "panneaux solaires thermiques pour piscine"
+            ],
+            [
+                3,
+                "panneaux solaires thermiques chauffage"
+            ],
+            [
+                4,
+                "panneaux solaires thermiques fonctionnement"
+            ],
+            [
+                5,
+                "panneaux solaires thermiques avantages inconvénients"
+            ],
+            [
+                0,
+                "coût installation panneaux solaires"
+            ],
+            [
+                1,
+                "coût installation panneaux solaires 3kwc"
+            ],
+            [
+                2,
+                "coût installation panneaux solaires 9kw"
             ],
             [
                 0,
@@ -930,6 +1104,18 @@
             ],
             [
                 0,
+                "entretien panneaux solaires"
+            ],
+            [
+                1,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                2,
+                "entretien des panneaux solaires"
+            ],
+            [
+                0,
                 "batterie stockage solaire"
             ],
             [
@@ -946,141 +1132,85 @@
             ],
             [
                 0,
-                "entretien panneaux solaires"
+                "onduleur solaire"
             ],
             [
                 1,
-                "entretien panneaux solaires photovoltaïques"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "entretien des panneaux solaires"
-            ],
-            [
-                0,
-                "panneaux solaires intègres"
-            ],
-            [
-                0,
-                "solaire thermique"
-            ],
-            [
-                1,
-                "solaire thermique pdf"
-            ],
-            [
-                2,
-                "solaire thermique copropriété"
+                "onduleur solaire les composantes"
             ],
             [
                 3,
-                "solaire thermique fonctionnement"
+                "onduleur solaire 48v"
             ],
             [
                 4,
-                "solaire thermique autovidangeable"
+                "onduleur solaire triphasé"
             ],
             [
                 5,
-                "solaire thermique de dietrich"
-            ],
-            [
-                6,
-                "solaire thermique toit terrasse"
-            ],
-            [
-                7,
-                "solaire thermique tube sous vide"
+                "onduleur.solaire prix.maroc"
             ],
             [
                 0,
-                "énergie renouvelable"
-            ],
-            [
-                1,
-                "énergie renouvelable définition"
-            ],
-            [
-                2,
-                "énergie renouvelable solaire"
-            ],
-            [
-                3,
-                "énergie renouvelable et non renouvelable"
-            ],
-            [
-                4,
-                "énergie renouvelable dofus"
-            ],
-            [
-                5,
-                "énergie renouvelable exemple"
-            ],
-            [
-                6,
-                "énergie renouvelable biomasse"
-            ],
-            [
-                7,
-                "énergie renouvelable en cm2"
-            ],
-            [
-                8,
-                "énergie renouvelable en france"
-            ],
-            [
-                9,
-                "énergie renouvelable 10 l"
-            ],
-            [
-                0,
-                "autoconsommation électrique scooter"
-            ],
-            [
-                1,
-                "autoconsommation électrique voiture"
-            ],
-            [
-                2,
-                "autoconsommation électrique définition"
-            ],
-            [
-                3,
-                "autoconsommation électrique"
-            ],
-            [
-                4,
-                "autoconsommation électrique trottinette"
-            ],
-            [
-                5,
-                "autoconsommation électriques"
-            ],
-            [
-                6,
-                "autoconsommation électrique hepu"
-            ],
-            [
-                7,
-                "autoconsommation électrique taser"
-            ],
-            [
-                8,
-                "autoconsommation électrique dépôt"
-            ],
-            [
-                9,
-                "autoconsommation électrique synonyme"
+                "raccordement au réseau électrique"
             ]
         ],
         "youtube": [
             [
                 0,
-                "prix installation panneau solaire"
+                "énergie solaire"
             ],
             [
                 1,
+                "énergie solaire et photosynthèse - 1ère enseignement scientifique"
+            ],
+            [
+                2,
+                "énergie solaire photovoltaïque"
+            ],
+            [
+                3,
+                "énergie solaire thermique"
+            ],
+            [
+                4,
+                "énergie solaire comment ça marche"
+            ],
+            [
+                5,
+                "énergie solaire enfant"
+            ],
+            [
+                6,
+                "énergie solaire photosynthèse et nutrition"
+            ],
+            [
+                7,
+                "énergie solaire fonctionnement"
+            ],
+            [
+                8,
+                "énergie solaire maison"
+            ],
+            [
+                9,
+                "énergie solaire thermique cours"
+            ],
+            [
+                0,
+                "panneaux solaires thermiques"
+            ],
+            [
+                0,
                 "cout installation panneau solaire"
+            ],
+            [
+                1,
+                "prix installation panneau solaire"
             ],
             [
                 2,
@@ -1092,6 +1222,10 @@
             ],
             [
                 0,
+                "nettoyage panneaux solaires"
+            ],
+            [
+                0,
                 "batterie stockage solaire"
             ],
             [
@@ -1100,87 +1234,43 @@
             ],
             [
                 0,
-                "nettoyage panneaux solaires"
-            ],
-            [
-                0,
-                "solaire thermique"
+                "onduleur solaire"
             ],
             [
                 1,
-                "solaire thermique chauffage"
+                "onduleur solaire hybride"
             ],
             [
                 2,
-                "solaire thermique diy"
+                "onduleur solaire triphasé"
             ],
             [
                 3,
-                "solaire thermique cours"
+                "onduleur solaire sans batterie"
             ],
             [
                 4,
-                "solaire thermique chauffe eau"
+                "onduleur solaire huawei"
             ],
             [
                 5,
-                "capteur thermique"
+                "onduleur solaire شرح"
             ],
             [
                 6,
-                "panneau thermique"
+                "onduleur solaire must"
             ],
             [
                 7,
-                "panneau solaire thermique"
+                "onduleur solaire deye"
             ],
             [
                 8,
-                "centrale solaire thermique"
+                "régulateur solaire"
             ],
             [
                 9,
-                "capteur solaire thermique"
-            ],
-            [
-                0,
-                "énergie renouvelable"
-            ],
-            [
-                1,
-                "énergie renouvelable et non renouvelable"
-            ],
-            [
-                2,
-                "énergie renouvelable dofus"
-            ],
-            [
-                3,
-                "énergie renouvelable documentaire"
-            ],
-            [
-                4,
-                "énergie renouvelable et non renouvelable cm2"
-            ],
-            [
-                5,
-                "énergie renouvelable c'est pas sorcier"
-            ],
-            [
-                6,
-                "énergie renouvelable cours"
-            ],
-            [
-                7,
-                "énergie renouvelable en france"
-            ],
-            [
-                8,
-                "énergie renouvelable hydraulique"
-            ],
-            [
-                9,
-                "énergie renouvelable photovoltaïque"
+                "micro onduleur solaire"
             ]
         ]
     },
@@ -1188,21 +1278,21 @@
         "articles": [
             {
                 "title": "Capteur solaire photovoltaïque",
-                "views": 724,
+                "views": 698,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.757
             },
             {
-                "title": "Énergie renouvelable",
-                "views": 3820,
+                "title": "Énergie solaire",
+                "views": 1928,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
-                "title": "Énergie solaire thermique",
-                "views": 312,
+                "title": "Capteur solaire thermique",
+                "views": 324,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1216,65 +1306,19 @@
     },
     "pages": [
         {
-            "group": "Types de panneaux solaires",
-            "title": "installation des panneaux solaires photovoltaïques",
-            "intent": "informational",
-            "keywords": [
-                "installation des panneaux solaires photovoltaïques",
-                "énergie renouvelable",
-                "montage des panneaux solaires photovoltaique",
-                "cellule photovoltaïque",
-                "centrale solaire photovoltaïque",
-                "courant continu",
-                "générateur électrique",
-                "kit solaire",
-                "onduleur",
-                "onduleur solaire",
-                "orientation panneaux",
-                "panneau photovoltaïque à concentration",
-                "production d'électricité",
-                "raccordement réseau",
-                "rayonnement solaire",
-                "énergie solaire",
-                "énergie solaire photovoltaïque",
-                "panneaux solaires intégrés à la toiture",
-                "montage sur toit",
-                "panneaux solaires intégrés au bâti",
-                "tuiles solaires thermiques"
-            ]
-        },
-        {
-            "group": "Types de panneaux solaires",
-            "title": "solaire thermique",
-            "intent": "informational",
-            "keywords": [
-                "solaire thermique",
-                "solaire thermique chauffage",
-                "entretien panneaux solaires thermiques"
-            ]
-        },
-        {
-            "group": "Coûts et subventions",
-            "title": "subvention panneaux solaires",
-            "intent": "informational",
-            "keywords": [
-                "subvention panneaux solaires",
-                "subvention panneaux solaires 2025",
-                "subvention panneaux solaires 2026"
-            ]
-        },
-        {
-            "group": "Coûts et subventions",
-            "title": "prix installation panneaux solaires",
+            "group": "Équipement",
+            "title": "onduleur solaire",
             "intent": "commercial",
             "keywords": [
-                "prix installation panneaux solaires",
-                "installer des panneaux solaires photovoltaïques prix",
-                "prix installation panneaux solaires 9kw"
+                "onduleur solaire",
+                "micro onduleur solaire",
+                "onduleur solaire hybride",
+                "onduleur solaire triphasé",
+                "onduleur solaire 3000w"
             ]
         },
         {
-            "group": "Stockage d'énergie",
+            "group": "Équipement",
             "title": "batterie stockage solaire",
             "intent": "commercial",
             "keywords": [
@@ -1285,75 +1329,124 @@
             ]
         },
         {
-            "group": "Entretien et autoconsommation",
+            "group": "Types de panneaux solaires",
+            "title": "énergie solaire photovoltaique",
+            "intent": "informational",
+            "keywords": [
+                "energie solaire photovoltaique",
+                "énergie solaire",
+                "cellule photovoltaïque",
+                "centrale solaire photovoltaïque",
+                "courant continu",
+                "panneau photovoltaïque à concentration",
+                "rayonnement solaire",
+                "energie solaire definition",
+                "panneaux solaires pour engin spatial"
+            ]
+        },
+        {
+            "group": "Types de panneaux solaires",
+            "title": "panneaux solaires thermiques",
+            "intent": "informational",
+            "keywords": [
+                "panneaux solaires thermiques",
+                "panneaux solaires thermiques piscine",
+                "panneaux solaires thermiques inconvénients",
+                "tuiles solaires thermiques"
+            ]
+        },
+        {
+            "group": "Installation",
+            "title": "coût installation panneaux solaires",
+            "intent": "commercial",
+            "keywords": [
+                "coût installation panneaux solaires",
+                "prix installation panneau solaire",
+                "coût installation panneaux solaires 3kwc",
+                "installer des panneaux solaires photovoltaïques prix"
+            ]
+        },
+        {
+            "group": "Installation",
+            "title": "installation des panneaux solaires photovoltaïques",
+            "intent": "informational",
+            "keywords": [
+                "installation des panneaux solaires photovoltaïques",
+                "câblage électrique",
+                "installation au sol",
+                "installation sur toit",
+                "micro-onduleurs",
+                "permis de construire",
+                "structure de montage",
+                "système de surveillance",
+                "raccordement reseau electrique",
+                "connexion au réseau",
+                "montage des panneaux solaires photovoltaique"
+            ]
+        },
+        {
+            "group": "Aides et entretien",
+            "title": "subvention panneaux solaires",
+            "intent": "informational",
+            "keywords": [
+                "subvention panneaux solaires",
+                "subvention panneaux solaires 2025",
+                "subvention panneaux solaires 2026"
+            ]
+        },
+        {
+            "group": "Aides et entretien",
             "title": "entretien panneaux solaires",
             "intent": "informational",
             "keywords": [
                 "entretien panneaux solaires",
-                "durée de vie panneaux",
-                "nettoyage panneaux",
-                "surchauffe panneaux",
                 "entretien panneaux solaires photovoltaïques"
-            ]
-        },
-        {
-            "group": "Entretien et autoconsommation",
-            "title": "autoconsommation électrique photovoltaique",
-            "intent": "informational",
-            "keywords": [
-                "autoconsommation électrique photovoltaique",
-                "autoconsommation électrique",
-                "autoconsommation électrique voiture"
             ]
         }
     ],
     "categories": {
-        "énergie renouvelable": "core",
+        "onduleur solaire": "core",
+        "énergie solaire": "core",
+        "onduleur solaire hybride": "core",
+        "panneaux solaires thermiques": "core",
         "batterie stockage solaire": "core",
-        "prix installation panneaux solaires": "commercial",
-        "solaire thermique": "core",
+        "coût installation panneaux solaires": "commercial",
         "subvention panneaux solaires": "commercial",
+        "energie solaire photovoltaique": "core",
         "installation des panneaux solaires photovoltaïques": "core",
-        "entretien panneaux solaires": "core",
-        "entretien panneaux solaires photovoltaïques": "core",
-        "panneaux solaires intègres": "doubtful",
-        "énergie renouvelable définition": "doubtful",
+        "raccordement reseau electrique": "core",
+        "entretien panneaux solaires": "complementary",
+        "energie solaire thermique": "doubtful",
+        "onduleur solaire triphasé": "core",
+        "coût installation panneaux solaires 3kwc": "commercial",
+        "entretien panneaux solaires photovoltaïques": "complementary",
         "batterie stockage solaire maison": "core",
         "batterie stockage solaire 10kw": "core",
-        "panneaux solaires intégrés à la toiture": "core",
-        "énergie renouvelable et non renouvelable": "doubtful",
-        "énergie renouvelable exemple": "doubtful",
+        "onduleur solaire 3000w": "core",
+        "energie solaire definition": "complementary",
+        "panneaux solaires thermiques piscine": "complementary",
+        "panneaux solaires thermiques inconvénients": "complementary",
         "subvention panneaux solaires 2025": "commercial",
-        "panneaux solaires intégrés au bâti": "complementary",
-        "solaire thermique chauffage": "complementary",
-        "autoconsommation électrique photovoltaique": "complementary",
+        "micro onduleur solaire": "complementary",
+        "prix installation panneau solaire": "commercial",
         "subvention panneaux solaires 2026": "commercial",
-        "autoconsommation électrique": "complementary",
         "installer des panneaux solaires photovoltaïques prix": "commercial",
-        "prix installation panneaux solaires 9kw": "commercial",
-        "autoconsommation électrique voiture": "complementary",
         "batterie stockage solaire 5kw": "complementary",
         "montage des panneaux solaires photovoltaique": "complementary",
-        "entretien panneaux solaires thermiques": "complementary",
-        "onduleur solaire": "core",
-        "montage sur toit": "core",
-        "orientation panneaux": "core",
-        "production d'électricité": "core",
-        "raccordement réseau": "core",
-        "kit solaire": "commercial",
-        "surchauffe panneaux": "core",
-        "nettoyage panneaux": "core",
-        "durée de vie panneaux": "core",
-        "onduleur": "complementary",
-        "générateur électrique": "complementary",
+        "structure de montage": "complementary",
+        "câblage électrique": "complementary",
+        "micro-onduleurs": "complementary",
+        "système de surveillance": "complementary",
+        "permis de construire": "complementary",
+        "installation sur toit": "complementary",
+        "installation au sol": "complementary",
+        "connexion au réseau": "complementary",
         "rayonnement solaire": "complementary",
         "courant continu": "complementary",
         "cellule photovoltaïque": "complementary",
         "centrale solaire photovoltaïque": "complementary",
-        "énergie solaire": "complementary",
-        "énergie solaire photovoltaïque": "complementary",
         "panneau photovoltaïque à concentration": "complementary",
         "tuiles solaires thermiques": "complementary",
-        "energie renouvelable dofus": "doubtful"
+        "panneaux solaires pour engin spatial": "complementary"
     }
 }

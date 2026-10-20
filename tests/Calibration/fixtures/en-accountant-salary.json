@@ -1,7 +1,7 @@
 {
     "expression": "accountant salary",
     "lang": "en",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "accountant job description",
-        "accountant qualifications",
-        "accountant vs bookkeeper",
-        "accountant certification",
-        "accountant career path",
-        "accountant job outlook",
-        "accountant skills",
-        "accountant education requirements"
+        "accounting software",
+        "tax preparation services",
+        "financial planning",
+        "bookkeeping",
+        "cpa certification",
+        "accounting firms",
+        "payroll management"
     ],
     "suggestions": {
         "bing": [
@@ -99,6 +99,152 @@
         ]
     },
     "related": {
+        "amazon": [
+            [
+                0,
+                "accounting software"
+            ],
+            [
+                1,
+                "accounting software no subscription"
+            ],
+            [
+                2,
+                "accounting software small business"
+            ],
+            [
+                3,
+                "accounting software for home"
+            ],
+            [
+                4,
+                "accounting software small business desktop"
+            ],
+            [
+                5,
+                "accounting software for mac"
+            ],
+            [
+                6,
+                "accounting software for pc"
+            ],
+            [
+                7,
+                "accounting software for non profit"
+            ],
+            [
+                8,
+                "accounting software with payroll"
+            ],
+            [
+                9,
+                "accounting software for home use"
+            ],
+            [
+                0,
+                "financial planning books"
+            ],
+            [
+                1,
+                "financial planning"
+            ],
+            [
+                2,
+                "financial planning for dummies"
+            ],
+            [
+                3,
+                "financial planning and analysis"
+            ],
+            [
+                4,
+                "financial planning software"
+            ],
+            [
+                5,
+                "financial planning workbook"
+            ],
+            [
+                6,
+                "financial planning binder"
+            ],
+            [
+                7,
+                "financial planning portfolio"
+            ],
+            [
+                8,
+                "financial planning and analysis jack alexander"
+            ],
+            [
+                9,
+                "financial planning journal"
+            ],
+            [
+                0,
+                "ledger books for bookkeeping"
+            ],
+            [
+                1,
+                "bookkeeping record book"
+            ],
+            [
+                2,
+                "bookkeeping"
+            ],
+            [
+                3,
+                "bookkeeping for dummies"
+            ],
+            [
+                4,
+                "bookkeeping ledger"
+            ],
+            [
+                5,
+                "bookkeeping supplies"
+            ],
+            [
+                6,
+                "bookkeeping book"
+            ],
+            [
+                7,
+                "bookkeeping software"
+            ],
+            [
+                8,
+                "dome bookkeeping record book"
+            ],
+            [
+                9,
+                "bookkeeping for beginners"
+            ],
+            [
+                0,
+                "cpa certification"
+            ],
+            [
+                0,
+                "accounting forms"
+            ],
+            [
+                1,
+                "accounting forms or workbook"
+            ],
+            [
+                0,
+                "payroll management 2025 edition"
+            ],
+            [
+                1,
+                "payroll management"
+            ],
+            [
+                2,
+                "payroll management 2026"
+            ]
+        ],
         "bing": [
             [
                 0,
@@ -142,233 +288,697 @@
             ],
             [
                 0,
-                "accountant qualifications"
+                "accounting software"
             ],
             [
                 1,
-                "accountant qualifications uk"
+                "accounting software for small business"
             ],
             [
                 2,
-                "accountant qualifications needed"
+                "accounting software free"
             ],
             [
                 3,
-                "accountant qualifications and skills"
+                "accounting software for nonprofits"
             ],
             [
                 4,
-                "accountant qualifications australia"
+                "accounting software for home use"
             ],
             [
                 5,
-                "accountant qualifications list"
+                "accounting software programs"
             ],
             [
                 6,
-                "accountant qualifications required"
+                "accounting software similar to quickbooks"
             ],
             [
                 7,
-                "accountant qualifications in south africa"
+                "accounting software for churches"
             ],
             [
                 8,
-                "accounting qualifications uk online"
+                "accounting software list"
             ],
             [
                 9,
-                "accounting qualifications unisa"
+                "accounting software examples"
             ],
             [
                 10,
-                "accounting qualifications ranked"
+                "accounting software with payroll"
             ],
             [
                 11,
-                "accounting qualifications ireland"
+                "accounting software for construction company"
+            ],
+            [
+                12,
+                "accounting software for accountants"
+            ],
+            [
+                13,
+                "accounting software for personal use"
+            ],
+            [
+                14,
+                "accounting software for nonprofits free"
+            ],
+            [
+                15,
+                "accounting software for small business free"
+            ],
+            [
+                16,
+                "accounting software for multinationals"
+            ],
+            [
+                17,
+                "accounting software peachtree"
+            ],
+            [
+                18,
+                "accounting software in walla walla washington"
+            ],
+            [
+                19,
+                "accounting software flint mi"
+            ],
+            [
+                20,
+                "accounting software in irving texas"
+            ],
+            [
+                21,
+                "accounting software in little rock ar"
+            ],
+            [
+                22,
+                "accounting software in amarillo texas"
+            ],
+            [
+                23,
+                "accounting software in broken arrow ok"
+            ],
+            [
+                24,
+                "accounting software in grand rapids mi"
             ],
             [
                 0,
-                "accountant vs bookkeeper"
+                "tax preparation services"
             ],
             [
                 1,
-                "accountant vs bookkeeper difference"
+                "tax preparation services near me"
             ],
             [
                 2,
-                "accountant vs bookkeeper vs cpa"
-            ],
-            [
-                0,
-                "accountant certification"
-            ],
-            [
-                1,
-                "accountant certification in cali"
-            ],
-            [
-                2,
-                "accountant certification letter"
+                "tax preparation services near me reviews"
             ],
             [
                 3,
-                "accountant certification online"
+                "tax preparation services frisco tx"
             ],
             [
                 4,
-                "accountant certification in chicago il"
+                "tax preparation services cape cod"
             ],
             [
                 5,
-                "accountant certification uk"
-            ],
-            [
-                0,
-                "accountant career path"
-            ],
-            [
-                1,
-                "accountant career path uk"
-            ],
-            [
-                2,
-                "accounting career pathways"
-            ],
-            [
-                3,
-                "accounting career path nz"
-            ],
-            [
-                4,
-                "accounting career paths and salaries"
-            ],
-            [
-                5,
-                "accounting career paths and opportunities"
+                "tax preparation services market"
             ],
             [
                 6,
-                "chartered accountant career path"
+                "tax preparation services prices"
             ],
             [
                 7,
-                "group accountant career path"
+                "tax preparation services for seniors"
             ],
             [
                 8,
-                "staff accountant career path"
-            ],
-            [
-                0,
-                "accountant job outlook"
-            ],
-            [
-                1,
-                "accountant job outlook 2026"
-            ],
-            [
-                2,
-                "accounting job outlook 2030"
-            ],
-            [
-                3,
-                "accounting job outlook bls"
-            ],
-            [
-                4,
-                "accounting job outlook reddit"
-            ],
-            [
-                5,
-                "forensic accountant job outlook"
-            ],
-            [
-                6,
-                "tax accountant job outlook"
-            ],
-            [
-                0,
-                "accountant skills"
-            ],
-            [
-                1,
-                "accountant skills resume"
-            ],
-            [
-                2,
-                "accountant skills for cv"
-            ],
-            [
-                3,
-                "accountant skills needed"
-            ],
-            [
-                4,
-                "accountant skills and qualities"
-            ],
-            [
-                5,
-                "accountant skills required"
-            ],
-            [
-                6,
-                "accountant skills list"
-            ],
-            [
-                7,
-                "accountant skills resume samples"
-            ],
-            [
-                8,
-                "accountant skills assessment"
+                "tax preparation services online"
             ],
             [
                 9,
-                "accountant assistant skills"
+                "tax preparation services on call"
+            ],
+            [
+                10,
+                "tax preparation services on site"
+            ],
+            [
+                11,
+                "tax preparation services online canada"
+            ],
+            [
+                12,
+                "tax preparation services oakland ca cpa"
+            ],
+            [
+                13,
+                "tax preparation services online cost"
+            ],
+            [
+                14,
+                "tax preparation services online free"
+            ],
+            [
+                15,
+                "tax preparation services near me open now"
+            ],
+            [
+                16,
+                "tax preparation services online india"
+            ],
+            [
+                17,
+                "tax preparation services chicago"
+            ],
+            [
+                18,
+                "tax preparation services pacific beach"
+            ],
+            [
+                19,
+                "tax preparation services rates durham"
+            ],
+            [
+                20,
+                "tax preparation services rates denver"
+            ],
+            [
+                21,
+                "tax preparation services rates delaware"
+            ],
+            [
+                22,
+                "tax preparation services pacific grove"
+            ],
+            [
+                23,
+                "tax preparation services rates duluth"
+            ],
+            [
+                24,
+                "tax preparation services pacific heights"
             ],
             [
                 0,
-                "accountant education requirements"
+                "financial planning"
             ],
             [
                 1,
-                "accountant education requirements management"
+                "financial planning association"
             ],
             [
                 2,
-                "accountant education requirements usa"
+                "financial planning software"
             ],
             [
                 3,
-                "accountant education requirements canada"
+                "financial planning magazine"
             ],
             [
                 4,
-                "forensic accountant education requirements"
+                "financial planning tools"
             ],
             [
                 5,
-                "tax accountant education requirements"
+                "financial planning and analysis"
             ],
             [
                 6,
-                "accountant job education requirements"
+                "financial planning services"
             ],
             [
                 7,
-                "staff accountant education requirements"
+                "financial planning ministry"
+            ],
+            [
+                8,
+                "financial planning process"
+            ],
+            [
+                9,
+                "financial planning jobs"
+            ],
+            [
+                10,
+                "financial planning pyramid"
+            ],
+            [
+                11,
+                "financial planning calculator"
+            ],
+            [
+                12,
+                "financial planning month"
+            ],
+            [
+                13,
+                "financial planning for new graduates"
+            ],
+            [
+                14,
+                "financial planning near me"
+            ],
+            [
+                15,
+                "financial planning texas smarter with money"
+            ],
+            [
+                16,
+                "financial planning definition"
+            ],
+            [
+                17,
+                "financial planning template"
+            ],
+            [
+                18,
+                "financial planning & analysis"
+            ],
+            [
+                19,
+                "financial planning tools free"
+            ],
+            [
+                20,
+                "financial planning association fpa"
+            ],
+            [
+                21,
+                "financial planning for beginners"
+            ],
+            [
+                22,
+                "financial planning certification"
+            ],
+            [
+                23,
+                "financial planning software for individuals"
+            ],
+            [
+                24,
+                "financial planning and analysis jobs"
+            ],
+            [
+                0,
+                "bookkeeping"
+            ],
+            [
+                1,
+                "bookkeeping software"
+            ],
+            [
+                2,
+                "bookkeeping jobs"
+            ],
+            [
+                3,
+                "bookkeeping courses"
+            ],
+            [
+                4,
+                "bookkeeping certification"
+            ],
+            [
+                5,
+                "bookkeeping services"
+            ],
+            [
+                6,
+                "bookkeeping jobs near me"
+            ],
+            [
+                7,
+                "bookkeeping meaning"
+            ],
+            [
+                8,
+                "bookkeeping classes"
+            ],
+            [
+                9,
+                "bookkeeping near me"
+            ],
+            [
+                10,
+                "bookkeeping jobs remote"
+            ],
+            [
+                11,
+                "bookkeeping app"
+            ],
+            [
+                12,
+                "bookkeeping business"
+            ],
+            [
+                13,
+                "bookkeeping templates"
+            ],
+            [
+                14,
+                "bookkeeping for dummies"
+            ],
+            [
+                15,
+                "bookkeeping vs accounting"
+            ],
+            [
+                16,
+                "bookkeeping software for small business"
+            ],
+            [
+                17,
+                "bookkeeping software free"
+            ],
+            [
+                18,
+                "bookkeeping courses online"
+            ],
+            [
+                19,
+                "bookkeeping courses online free"
+            ],
+            [
+                20,
+                "bookkeeping for small business"
+            ],
+            [
+                21,
+                "bookkeeping certificate online"
+            ],
+            [
+                22,
+                "bookkeeping services near me"
+            ],
+            [
+                23,
+                "bookkeeping sample"
+            ],
+            [
+                24,
+                "bookkeeping xero"
+            ],
+            [
+                0,
+                "cpa certification"
+            ],
+            [
+                1,
+                "cpa certification requirements"
+            ],
+            [
+                2,
+                "cpa certification online"
+            ],
+            [
+                3,
+                "cpa certification meaning"
+            ],
+            [
+                4,
+                "cpa certification courses"
+            ],
+            [
+                5,
+                "cpa certification verification"
+            ],
+            [
+                6,
+                "cpa certification texas"
+            ],
+            [
+                7,
+                "cpa certification california"
+            ],
+            [
+                8,
+                "cpa certification ohio"
+            ],
+            [
+                9,
+                "cpa certification florida"
+            ],
+            [
+                10,
+                "cpa certification ny"
+            ],
+            [
+                11,
+                "cpa certification online texas"
+            ],
+            [
+                12,
+                "cpa certification washington state"
+            ],
+            [
+                13,
+                "cpa certification colorado"
+            ],
+            [
+                14,
+                "cpa certification in virginia"
+            ],
+            [
+                15,
+                "cpa certification oregon"
+            ],
+            [
+                16,
+                "cpa certification missouri"
+            ],
+            [
+                17,
+                "cpa certification maryland"
+            ],
+            [
+                18,
+                "cpa certification requirements texas"
+            ],
+            [
+                19,
+                "cpa certification georgia"
+            ],
+            [
+                20,
+                "cpa certification illinois"
+            ],
+            [
+                21,
+                "cpa certification massachusetts"
+            ],
+            [
+                22,
+                "cpa certification requirements florida"
+            ],
+            [
+                23,
+                "cpa certification requirements california"
+            ],
+            [
+                0,
+                "accounting firms"
+            ],
+            [
+                1,
+                "accounting firms near me"
+            ],
+            [
+                2,
+                "accounting firms for sale"
+            ],
+            [
+                3,
+                "accounting firms ranking"
+            ],
+            [
+                4,
+                "accounting firms near me hiring"
+            ],
+            [
+                5,
+                "accounting firms by revenue"
+            ],
+            [
+                6,
+                "accounting firms by size"
+            ],
+            [
+                7,
+                "accounting firms in south africa"
+            ],
+            [
+                8,
+                "accounting firms in chicago"
+            ],
+            [
+                9,
+                "accounting firms ranked by revenue"
+            ],
+            [
+                10,
+                "accounting firms in canada"
+            ],
+            [
+                11,
+                "accounting firms charlotte nc"
+            ],
+            [
+                12,
+                "accounting firms for sale near me"
+            ],
+            [
+                13,
+                "accounting firms indianapolis"
+            ],
+            [
+                14,
+                "accounting firms in columbus ohio"
+            ],
+            [
+                15,
+                "accounting firms raleigh nc"
+            ],
+            [
+                16,
+                "accounting firms in farmington nm"
+            ],
+            [
+                17,
+                "accounting firms in annapolis md"
+            ],
+            [
+                18,
+                "accounting firms in dallas"
+            ],
+            [
+                19,
+                "accounting firms seattle"
+            ],
+            [
+                20,
+                "accounting firms in atlanta"
+            ],
+            [
+                21,
+                "accounting firms in boston"
+            ],
+            [
+                22,
+                "accounting firms in georgia"
+            ],
+            [
+                23,
+                "accounting firms wilmington nc"
+            ],
+            [
+                24,
+                "accounting firms in minneapolis"
+            ],
+            [
+                0,
+                "payroll management"
+            ],
+            [
+                1,
+                "payroll management auburn maine"
+            ],
+            [
+                2,
+                "payroll management system"
+            ],
+            [
+                3,
+                "payroll management companies"
+            ],
+            [
+                4,
+                "payroll management software"
+            ],
+            [
+                5,
+                "payroll management courses"
+            ],
+            [
+                6,
+                "payroll management maine"
+            ],
+            [
+                7,
+                "payroll management meaning"
+            ],
+            [
+                8,
+                "payroll management login"
+            ],
+            [
+                9,
+                "payroll management services"
+            ],
+            [
+                10,
+                "payroll management assistance"
+            ],
+            [
+                11,
+                "payroll management system project"
+            ],
+            [
+                12,
+                "payroll management platform"
+            ],
+            [
+                13,
+                "payroll management steven bragg pdf"
+            ],
+            [
+                14,
+                "payroll management jobs in baltimore md"
+            ],
+            [
+                15,
+                "payroll management steven bragg epub"
+            ],
+            [
+                16,
+                "payroll management steven bragg pdf download"
+            ],
+            [
+                17,
+                "payroll management assistance newark de"
+            ],
+            [
+                18,
+                "payroll management auburn me"
+            ],
+            [
+                19,
+                "payroll management delaware"
+            ],
+            [
+                20,
+                "payroll management newark de"
+            ],
+            [
+                21,
+                "payroll management services alexandria la"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "accountant job description for resume"
+                "accountant job description"
             ],
             [
                 1,
-                "accountant job description"
+                "accountant job description for resume"
             ],
             [
                 2,
@@ -380,11 +990,11 @@
             ],
             [
                 4,
-                "accountant job description for cv"
+                "accountant job description uk"
             ],
             [
                 5,
-                "accountant job description uk"
+                "accountant job description for cv"
             ],
             [
                 6,
@@ -396,195 +1006,285 @@
             ],
             [
                 0,
-                "accountant qualifications"
+                "accounting software"
             ],
             [
                 1,
-                "accountant qualifications uk"
+                "accounting software for small business"
             ],
             [
                 2,
-                "accountant qualifications needed"
+                "accounting software free"
             ],
             [
                 3,
-                "accountant qualifications and skills"
+                "accounting software for nonprofits"
             ],
             [
                 4,
-                "accountant qualifications australia"
+                "accounting software support aghards"
             ],
             [
                 5,
-                "accountant qualifications list"
+                "accounting software support thornhill"
             ],
             [
                 6,
-                "accountant qualifications required"
+                "accounting software for home use"
             ],
             [
                 7,
-                "accountant qualifications in south africa"
+                "accounting software similar to quickbooks"
             ],
             [
                 0,
-                "accountant vs bookkeeper"
+                "tax preparation services near me"
             ],
             [
                 1,
-                "accountant vs bookkeeper difference"
+                "tax preparation services near me reviews"
             ],
             [
                 2,
-                "accountant vs bookkeeper vs cpa"
-            ],
-            [
-                0,
-                "accountant certification"
-            ],
-            [
-                1,
-                "accountant certification in cali"
-            ],
-            [
-                2,
-                "accountant certification letter"
+                "tax preparation services bogderries"
             ],
             [
                 3,
-                "accountant certification online"
+                "tax preparation services ballynaguilsha"
             ],
             [
                 4,
-                "accountant certification in chicago il"
+                "tax preparation services frisco tx"
             ],
             [
                 5,
-                "accountant certification uk"
-            ],
-            [
-                0,
-                "accountant career path"
-            ],
-            [
-                1,
-                "accountant career path uk"
-            ],
-            [
-                2,
-                "accounting career pathways"
-            ],
-            [
-                3,
-                "accounting career path nz"
-            ],
-            [
-                4,
-                "accounting career paths and salaries"
-            ],
-            [
-                5,
-                "accounting career paths and opportunities"
+                "tax preparation services cape cod"
             ],
             [
                 6,
-                "chartered accountant career path"
+                "tax preparation services for seniors"
             ],
             [
                 7,
-                "group accountant career path"
+                "tax preparation services market"
             ],
             [
                 0,
-                "accountant job outlook"
+                "financial planning association"
             ],
             [
                 1,
-                "accountant job outlook 2026"
+                "financial planning warfield park"
             ],
             [
                 2,
-                "accounting job outlook 2030"
+                "financial planning hayley green warfield"
             ],
             [
                 3,
-                "accounting job outlook bls"
+                "financial planning software"
             ],
             [
                 4,
-                "accounting job outlook reddit"
+                "financial planning"
             ],
             [
                 5,
-                "forensic accountant job outlook"
+                "financial planning magazine"
             ],
             [
                 6,
-                "tax accountant job outlook"
-            ],
-            [
-                0,
-                "accountant skills"
-            ],
-            [
-                1,
-                "accountant skills resume"
-            ],
-            [
-                2,
-                "accountant skills for cv"
-            ],
-            [
-                3,
-                "accountant skills needed"
-            ],
-            [
-                4,
-                "accountant skills and qualities"
-            ],
-            [
-                5,
-                "accountant skills required"
-            ],
-            [
-                6,
-                "accountant skills resume samples"
+                "financial planning and analysis"
             ],
             [
                 7,
-                "accountant skills assessment"
+                "financial planning tools"
             ],
             [
                 0,
-                "accountant education requirements"
+                "bookkeeping"
             ],
             [
                 1,
-                "accountant education requirements management"
+                "bookkeeping software"
             ],
             [
                 2,
-                "accountant education requirements usa"
+                "bookkeeping jobs"
             ],
             [
                 3,
-                "accountant education requirements canada"
+                "bookkeeping courses"
             ],
             [
                 4,
-                "forensic accountant education requirements"
+                "bookkeeping for innenstadt"
             ],
             [
                 5,
-                "tax accountant education requirements"
+                "bookkeeping for nordend-west"
             ],
             [
                 6,
-                "accountant job education requirements"
+                "bookkeeping certification"
             ],
             [
                 7,
-                "cost accountant education requirements"
+                "bookkeeping services"
+            ],
+            [
+                0,
+                "cpa certification"
+            ],
+            [
+                1,
+                "cpa certification requirements"
+            ],
+            [
+                2,
+                "cpa certification online"
+            ],
+            [
+                3,
+                "cpa certification meaning"
+            ],
+            [
+                4,
+                "cpa certification courses"
+            ],
+            [
+                5,
+                "cpa certification verification"
+            ],
+            [
+                6,
+                "cpa certification ohio"
+            ],
+            [
+                7,
+                "cpa certification florida"
+            ],
+            [
+                0,
+                "accounting firms"
+            ],
+            [
+                1,
+                "accounting firms near me"
+            ],
+            [
+                2,
+                "accounting firms for sale"
+            ],
+            [
+                3,
+                "accounting firms ranking"
+            ],
+            [
+                4,
+                "accounting firms near innenstadt"
+            ],
+            [
+                5,
+                "accounting firms near nordend-west"
+            ],
+            [
+                6,
+                "accounting firms near me hiring"
+            ],
+            [
+                7,
+                "accounting firms by revenue"
+            ],
+            [
+                0,
+                "payroll management"
+            ],
+            [
+                1,
+                "payroll management auburn maine"
+            ],
+            [
+                2,
+                "payroll management system"
+            ],
+            [
+                3,
+                "payroll management companies"
+            ],
+            [
+                4,
+                "payroll management software"
+            ],
+            [
+                5,
+                "payroll management courses"
+            ],
+            [
+                6,
+                "payroll management maine"
+            ],
+            [
+                7,
+                "payroll management meaning"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "accounting software small business"
+            ],
+            [
+                1,
+                "accounting software"
+            ],
+            [
+                2,
+                "sage 50 accounting software"
+            ],
+            [
+                3,
+                "peachtree accounting software"
+            ],
+            [
+                4,
+                "sage50 accounting software pro"
+            ],
+            [
+                0,
+                "fundamentals of financial planning 8th edition"
+            ],
+            [
+                1,
+                "college for financial planning"
+            ],
+            [
+                2,
+                "fundamentals of financial planning"
+            ],
+            [
+                0,
+                "bookkeeping for dummies"
+            ],
+            [
+                1,
+                "bookkeeping software"
+            ],
+            [
+                2,
+                "bookkeeping all-in-one for dummies"
+            ],
+            [
+                3,
+                "bookkeeping"
+            ],
+            [
+                4,
+                "dome monthly bookkeeping record"
+            ],
+            [
+                5,
+                "20th century bookkeeping and accounting"
             ]
         ],
         "google": [
@@ -630,289 +1330,341 @@
             ],
             [
                 0,
-                "accountant qualifications"
+                "accounting software"
             ],
             [
                 1,
-                "accountant qualifications uk"
+                "accounting software for small business"
             ],
             [
                 2,
-                "accountant qualifications needed"
+                "accounting software for small business free"
             ],
             [
                 3,
-                "accountant qualifications nz"
+                "accounting software for nonprofits"
             ],
             [
                 4,
-                "accountant qualifications in kenya"
+                "accounting software programs"
             ],
             [
                 5,
-                "accountant qualifications in south africa"
+                "accounting software other than quickbooks"
             ],
             [
                 6,
-                "accountant qualifications and skills"
+                "accounting software for personal use"
             ],
             [
                 7,
-                "accountant qualifications australia"
+                "accounting software for small business with payroll"
             ],
             [
                 8,
-                "accountant qualifications ireland"
+                "accounting software for churches"
             ],
             [
                 9,
-                "accountant qualifications check"
+                "accounting software free"
             ],
             [
                 0,
-                "accountant vs bookkeeper"
+                "tax preparation services"
             ],
             [
                 1,
-                "accountant vs bookkeeper vs cpa"
+                "tax preparation services near me"
             ],
             [
                 2,
-                "accountant vs bookkeeper difference"
+                "tax preparation services online"
             ],
             [
                 3,
-                "accountant vs bookkeeper salary"
+                "tax preparation services for seniors"
             ],
             [
                 4,
-                "accountant vs bookkeeper reddit"
+                "tax preparation services cost"
             ],
             [
                 5,
-                "cpa vs bookkeeper"
+                "tax preparation services meaning"
             ],
             [
                 6,
-                "accountant and bookkeeper"
+                "tax preparation services wikipedia"
             ],
             [
                 7,
-                "accountant and bookkeeper near me"
+                "tax prep services"
             ],
             [
                 8,
-                "accountant and bookkeeper noc code"
+                "tax filing services"
             ],
             [
                 9,
-                "accountant and bookkeeper jobs"
+                "tax filing services near me"
             ],
             [
                 0,
-                "accountant certification"
+                "financial planning"
             ],
             [
                 1,
-                "accountant certification online"
+                "financial planning association"
             ],
             [
                 2,
-                "accountant certification salary"
+                "financial planning and analysis"
             ],
             [
                 3,
-                "accountant certification types"
+                "financial planning software"
             ],
             [
                 4,
-                "accountant certification programs"
+                "financial planning ministry"
             ],
             [
                 5,
-                "accountant certification cost"
+                "financial planning jobs"
             ],
             [
                 6,
-                "accountant certification requirements"
+                "financial planning certification"
             ],
             [
                 7,
-                "accountant certification canada"
+                "financial planning and analysis jobs"
             ],
             [
                 8,
-                "accountant certification letter"
+                "financial planning software for individuals"
             ],
             [
                 9,
-                "accountant certification uk"
+                "financial planning near me"
             ],
             [
                 0,
-                "accountant career path"
+                "bookkeeping"
             ],
             [
                 1,
-                "accountant career path and salary"
+                "bookkeeping jobs"
             ],
             [
                 2,
-                "accountant career path uk"
+                "bookkeeping certification"
             ],
             [
                 3,
-                "accountant career pathway"
+                "bookkeeping jobs near me"
             ],
             [
                 4,
-                "reddit accounting career path"
+                "bookkeeping course"
             ],
             [
                 5,
-                "accountant career path australia"
+                "bookkeeping jobs remote"
             ],
             [
                 6,
-                "accountant career path canada"
+                "bookkeeping software"
             ],
             [
                 7,
-                "cpa career paths"
+                "bookkeeping meaning"
             ],
             [
                 8,
-                "bookkeeper career path"
+                "bookkeeping services"
             ],
             [
                 9,
-                "cpa career path reddit"
+                "bookkeeping certification online"
             ],
             [
                 0,
-                "accountant job outlook"
+                "cpa certification"
             ],
             [
                 1,
-                "accountant job outlook us"
+                "cpa certification requirements"
             ],
             [
                 2,
-                "accountant job outlook canada"
+                "cpa certification cost"
             ],
             [
                 3,
-                "accountant job outlook with ai"
+                "cpa certification online"
             ],
             [
                 4,
-                "accountant job outlook australia"
+                "cpa certification programs"
             ],
             [
                 5,
-                "accountant job outlook 2026"
+                "cpa certification lookup"
             ],
             [
                 6,
-                "accountant job outlook reddit"
+                "cpa certification course"
             ],
             [
                 7,
-                "accounting job outlook 2025"
+                "cpa certification salary"
             ],
             [
                 8,
-                "accounting job outlook 2030"
+                "cpa certification meaning"
             ],
             [
                 9,
-                "accounting job outlook ontario"
+                "cpa certification medical"
             ],
             [
                 0,
-                "accountant skills"
+                "accounting firms"
             ],
             [
                 1,
-                "accountant skills needed"
+                "accounting firms near me"
             ],
             [
                 2,
-                "accountant skills and qualities"
+                "accounting firms for sale"
             ],
             [
                 3,
-                "accountant skills for resume"
+                "accounting firms ranked"
             ],
             [
                 4,
-                "accountant skills required"
+                "accounting firms hiring near me"
             ],
             [
                 5,
-                "accountant skills for cv"
+                "accounting firms by revenue"
             ],
             [
                 6,
-                "accountant skills assessment"
+                "accounting firms for sale near me"
             ],
             [
                 7,
-                "accountant skills list"
+                "accounting firms hiring"
             ],
             [
                 8,
-                "accountant skills assessment australia"
+                "accounting firms in chicago"
             ],
             [
                 9,
-                "accountant skills for claude"
+                "accounting firms by size"
             ],
             [
                 0,
-                "accountant education requirements"
+                "payroll management"
             ],
             [
                 1,
-                "accountant education requirements canada"
+                "payroll management system"
             ],
             [
                 2,
-                "cpa education requirements"
+                "payroll management company"
             ],
             [
                 3,
-                "cpa education requirements california"
+                "payroll management software"
             ],
             [
                 4,
-                "accountant school requirements"
+                "payroll management inc"
             ],
             [
                 5,
-                "cpa education requirements by state"
+                "payroll management jobs"
             ],
             [
                 6,
-                "cpa education requirements texas"
+                "payroll management certification"
             ],
             [
                 7,
-                "cpa education requirements ny"
+                "payroll management services"
             ],
             [
                 8,
-                "cpa education requirements florida"
+                "payroll management assistance"
             ],
             [
                 9,
-                "cpa education requirements illinois"
+                "payroll management solutions"
             ]
         ],
         "indeed": [
             [
                 0,
-                "accountant bookkeeper"
+                "financial planning and analysis"
+            ],
+            [
+                1,
+                "financial planning"
+            ],
+            [
+                2,
+                "financial planning analyst"
+            ],
+            [
+                3,
+                "financial planning and analysis manager"
+            ],
+            [
+                0,
+                "bookkeeping"
+            ],
+            [
+                1,
+                "bookkeeping remote"
+            ],
+            [
+                2,
+                "bookkeeping entry level"
+            ],
+            [
+                3,
+                "bookkeeping assistant"
+            ],
+            [
+                4,
+                "bookkeeping part time"
+            ],
+            [
+                5,
+                "bookkeeping accounting"
+            ],
+            [
+                6,
+                "bookkeeping clerk"
+            ],
+            [
+                0,
+                "a certification"
+            ],
+            [
+                1,
+                "cphq certification"
+            ],
+            [
+                0,
+                "accounting firm"
             ]
         ],
         "yahoo": [
@@ -958,219 +1710,283 @@
             ],
             [
                 0,
-                "accountant qualifications"
+                "accounting software"
             ],
             [
                 1,
-                "accountant qualifications list"
+                "accounting software for small business"
             ],
             [
                 2,
-                "accountant qualifications and skills"
+                "accounting software similar to quickbooks"
             ],
             [
                 3,
-                "accountant qualifications summary"
+                "accounting software free"
             ],
             [
                 4,
-                "accountant qualifications needed"
-            ],
-            [
-                0,
-                "accountant vs bookkeeper"
-            ],
-            [
-                1,
-                "accountant vs bookkeeper difference"
-            ],
-            [
-                2,
-                "accountant vs bookkeeper job description"
-            ],
-            [
-                3,
-                "cpa vs accountant vs bookkeeper"
-            ],
-            [
-                4,
-                "staff accountant vs bookkeeper"
+                "accounting software for churches"
             ],
             [
                 5,
-                "accountant vs bookkeeper what is the difference"
+                "accounting software for nonprofits"
             ],
             [
                 6,
-                "what is an accountant vs bookkeeper"
-            ],
-            [
-                0,
-                "accountant certification"
-            ],
-            [
-                1,
-                "accountant certification requirements by state"
-            ],
-            [
-                2,
-                "accountant certification courses near me"
-            ],
-            [
-                3,
-                "accountant certification programs"
-            ],
-            [
-                4,
-                "accountant certification online free"
-            ],
-            [
-                5,
-                "accountant certification process"
-            ],
-            [
-                6,
-                "accountant certification letter"
+                "accounting software rental property"
             ],
             [
                 7,
-                "accounting certification without a degree"
+                "accounting software for home use"
             ],
             [
                 8,
-                "accounting certification and training institute"
+                "accounting software compatible with quickbooks"
             ],
             [
                 9,
-                "accountant certification courses"
+                "accounting software programs"
             ],
             [
                 0,
-                "accountant career path"
+                "tax preparation services"
             ],
             [
                 1,
-                "certified management accountant career path"
+                "tax preparation services near me"
             ],
             [
                 2,
-                "forensic accountant career path"
+                "tax preparation services reviews"
             ],
             [
                 3,
-                "tax accountant career path"
+                "tax preparation services near me zip code"
             ],
             [
                 4,
-                "fund accountant career path"
+                "tax preparation services for seniors"
             ],
             [
                 5,
-                "staff accountant career path"
+                "tax preparation services engagement letter"
             ],
             [
                 6,
-                "cost accountant career path"
+                "tax preparation services near me for seniors"
             ],
             [
                 7,
-                "accountant career paths"
-            ],
-            [
-                0,
-                "accountant job outlook"
-            ],
-            [
-                1,
-                "forensic accountant job outlook"
-            ],
-            [
-                2,
-                "certified public accountant job outlook"
-            ],
-            [
-                3,
-                "government accountant job outlook"
-            ],
-            [
-                4,
-                "accountant job forecast"
-            ],
-            [
-                0,
-                "accountant skills"
-            ],
-            [
-                1,
-                "accountant skills resume"
-            ],
-            [
-                2,
-                "accountant skills and qualities"
-            ],
-            [
-                3,
-                "accountant skills needed"
-            ],
-            [
-                4,
-                "accountant skills required"
-            ],
-            [
-                5,
-                "accountant skills examples"
-            ],
-            [
-                6,
-                "accountant skills list"
-            ],
-            [
-                7,
-                "accountant skills and abilities"
+                "tax preparation services at walmart"
             ],
             [
                 8,
-                "accountant skills resume samples"
+                "tax preparation services in my area"
             ],
             [
                 9,
-                "accountant skills for cv"
+                "tax preparation services tucson az"
             ],
             [
                 0,
-                "accountant education requirements"
+                "financial planning"
             ],
             [
                 1,
-                "certified public accountant education requirements"
+                "financial planning association"
             ],
             [
                 2,
-                "forensic accountant education requirements"
+                "financial planning software"
             ],
             [
                 3,
-                "media production accountant education requirements"
+                "financial planning ministry"
             ],
             [
                 4,
-                "staff accountant education requirements"
+                "financial planning and analysis"
             ],
             [
                 5,
-                "tax accountant education requirements"
+                "financial planning for retirement"
             ],
             [
                 6,
-                "chartered accountant education requirements"
+                "financial planning company"
             ],
             [
                 7,
-                "junior accountant education requirements"
+                "financial planning worksheet"
             ],
             [
                 8,
-                "accountant education requirements usa"
+                "financial planning software for individuals"
+            ],
+            [
+                9,
+                "financial planning magazine"
+            ],
+            [
+                0,
+                "bookkeeping"
+            ],
+            [
+                1,
+                "bookkeeping certification"
+            ],
+            [
+                2,
+                "bookkeeping software"
+            ],
+            [
+                3,
+                "bookkeeping jobs"
+            ],
+            [
+                4,
+                "bookkeeping courses"
+            ],
+            [
+                5,
+                "bookkeeping services"
+            ],
+            [
+                6,
+                "bookkeeping jobs near me"
+            ],
+            [
+                7,
+                "bookkeeping software for small business"
+            ],
+            [
+                8,
+                "bookkeeping services near me"
+            ],
+            [
+                9,
+                "bookkeeping meaning"
+            ],
+            [
+                0,
+                "cpa certification"
+            ],
+            [
+                1,
+                "cpa certification requirements"
+            ],
+            [
+                2,
+                "cpa certification meaning"
+            ],
+            [
+                3,
+                "cpa certification requirements by state"
+            ],
+            [
+                4,
+                "cpa certification in new york"
+            ],
+            [
+                5,
+                "cpa certification courses"
+            ],
+            [
+                6,
+                "cpa certification texas"
+            ],
+            [
+                7,
+                "cpa certification program"
+            ],
+            [
+                8,
+                "cpa certification cost"
+            ],
+            [
+                9,
+                "cpa certification near me"
+            ],
+            [
+                0,
+                "accounting firms"
+            ],
+            [
+                1,
+                "accounting firms near me"
+            ],
+            [
+                2,
+                "accounting firms for sale"
+            ],
+            [
+                3,
+                "accounting firms big 4"
+            ],
+            [
+                4,
+                "accounting firms ranked"
+            ],
+            [
+                5,
+                "accounting firms in my area"
+            ],
+            [
+                6,
+                "accounting firms hiring"
+            ],
+            [
+                7,
+                "accounting firms naples fl"
+            ],
+            [
+                8,
+                "accounting firms by size"
+            ],
+            [
+                9,
+                "accounting firms indianapolis"
+            ],
+            [
+                0,
+                "payroll management"
+            ],
+            [
+                1,
+                "payroll management auburn maine"
+            ],
+            [
+                2,
+                "payroll management system"
+            ],
+            [
+                3,
+                "payroll management software"
+            ],
+            [
+                4,
+                "payroll management assistance newark de"
+            ],
+            [
+                5,
+                "payroll management companies"
+            ],
+            [
+                6,
+                "payroll management services"
+            ],
+            [
+                7,
+                "payroll management course"
+            ],
+            [
+                8,
+                "payroll management job description"
+            ],
+            [
+                9,
+                "payroll management meaning"
             ]
         ],
         "youtube": [
@@ -1216,123 +2032,219 @@
             ],
             [
                 0,
-                "accountant job qualifications"
+                "accounting software demo"
             ],
             [
                 1,
-                "accounting qualifications"
-            ],
-            [
-                0,
-                "accountant vs bookkeeper"
-            ],
-            [
-                1,
-                "cpa vs bookkeeper"
+                "accounting software free download for pc"
             ],
             [
                 2,
-                "accountant vs chartered accountant"
-            ],
-            [
-                0,
-                "accountant certification"
-            ],
-            [
-                1,
-                "accounting certification courses"
-            ],
-            [
-                2,
-                "accounting certification in canada"
+                "accounting software developer"
             ],
             [
                 3,
-                "quickbooks online accountant certification"
+                "accounting software video"
             ],
             [
                 4,
-                "quickbooks online accountant certification answers"
-            ],
-            [
-                0,
-                "accountant career path"
-            ],
-            [
-                1,
-                "accountant career growth"
-            ],
-            [
-                2,
-                "cpa career path"
-            ],
-            [
-                3,
-                "tax accountant career path"
-            ],
-            [
-                4,
-                "fund accountant career path"
-            ],
-            [
-                0,
-                "accountant job opportunities"
-            ],
-            [
-                1,
-                "accounting job outlook"
-            ],
-            [
-                2,
-                "accountant job growth"
-            ],
-            [
-                3,
-                "accountant job market"
-            ],
-            [
-                0,
-                "accountant skills"
-            ],
-            [
-                1,
-                "accountant skills 2025"
-            ],
-            [
-                2,
-                "accountant skills telugu"
-            ],
-            [
-                3,
-                "accountant skills required"
-            ],
-            [
-                4,
-                "accountant skills tamil"
+                "accounting software myanmar"
             ],
             [
                 5,
-                "accountant skills malayalam"
+                "accounting software for amazon sellers"
             ],
             [
                 6,
-                "accounting skills interview questions"
+                "accounting software free download full version"
             ],
             [
                 7,
-                "senior accountant skills"
+                "accounting software အသုံးပြုနည်း"
             ],
             [
                 8,
-                "junior accountant skills"
+                "accounting software mobile app"
             ],
             [
                 9,
-                "accounting skills course"
+                "accounting software"
             ],
             [
                 0,
-                "cpa education requirements"
+                "tax preparation services"
+            ],
+            [
+                1,
+                "tax preparation services near me"
+            ],
+            [
+                0,
+                "financial planning"
+            ],
+            [
+                1,
+                "financial planning and analysis"
+            ],
+            [
+                2,
+                "financial planning career"
+            ],
+            [
+                3,
+                "financial planning 2025"
+            ],
+            [
+                4,
+                "financial planning podcast"
+            ],
+            [
+                5,
+                "financial planning for early retirement"
+            ],
+            [
+                6,
+                "financial planning and analysis interview questions"
+            ],
+            [
+                7,
+                "financial planning for couples"
+            ],
+            [
+                8,
+                "financial planning for young adults"
+            ],
+            [
+                9,
+                "financial planning case study"
+            ],
+            [
+                0,
+                "bookkeeping"
+            ],
+            [
+                1,
+                "bookkeeping job"
+            ],
+            [
+                2,
+                "bookkeeping for restaurants"
+            ],
+            [
+                3,
+                "bookkeeping for rental property"
+            ],
+            [
+                4,
+                "bookkeeping services"
+            ],
+            [
+                5,
+                "bookkeeping podcast"
+            ],
+            [
+                6,
+                "bookkeeping for ebay sellers"
+            ],
+            [
+                7,
+                "bookkeeping jobs working from home"
+            ],
+            [
+                8,
+                "bookkeeping jobs no experience"
+            ],
+            [
+                9,
+                "bookkeeping interview questions and answers"
+            ],
+            [
+                0,
+                "cpa certification"
+            ],
+            [
+                1,
+                "cpa certification canada"
+            ],
+            [
+                0,
+                "accounting firms"
+            ],
+            [
+                1,
+                "accounting firms football tournament"
+            ],
+            [
+                2,
+                "accounting firms football"
+            ],
+            [
+                3,
+                "accounting firms in india"
+            ],
+            [
+                4,
+                "accounting firms in south africa"
+            ],
+            [
+                5,
+                "accounting firms in dubai"
+            ],
+            [
+                6,
+                "accounting firms in kenya"
+            ],
+            [
+                7,
+                "accounting for partnership firm"
+            ],
+            [
+                8,
+                "top accounting firms"
+            ],
+            [
+                9,
+                "how accounting firms work"
+            ],
+            [
+                0,
+                "payroll management"
+            ],
+            [
+                1,
+                "payroll management system"
+            ],
+            [
+                2,
+                "payroll management system helldivers 2"
+            ],
+            [
+                3,
+                "payroll management app"
+            ],
+            [
+                4,
+                "payroll management tutorial"
+            ],
+            [
+                5,
+                "payroll management system in asp.net"
+            ],
+            [
+                6,
+                "payroll management job"
+            ],
+            [
+                7,
+                "payroll management system project"
+            ],
+            [
+                8,
+                "payroll management system demo"
+            ],
+            [
+                9,
+                "payroll management system website"
             ]
         ]
     },
@@ -1340,17 +2252,31 @@
         "articles": [
             {
                 "title": "Accountant",
-                "views": 5346,
+                "views": 5192,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.625
             },
             {
                 "title": "Salary",
-                "views": 4753,
+                "views": 4669,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.375
+            },
+            {
+                "title": "Bookkeeping",
+                "views": 5265,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Accounting software",
+                "views": 1825,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 16,
@@ -1358,168 +2284,159 @@
             "auditor",
             "external auditor",
             "mustawfi",
+            "british qualified accountants",
             "accounting analyst",
             "chief accountant",
             "junior accountant",
-            "british qualified accountants",
             "tabularius",
-            "chartered cost accountant",
-            "forensic accountant"
+            "miseur",
+            "chartered cost accountant"
         ]
     },
     "pages": [
         {
-            "group": "Career",
+            "group": "Accountant Roles",
             "title": "accountant job description",
             "intent": "informational",
             "keywords": [
                 "accountant job description",
-                "accounting software",
-                "auditing",
-                "financial reporting",
-                "financial statement",
-                "journal entries",
-                "tax preparation",
-                "accountant vs bookkeeper",
-                "auditor",
                 "bookkeeping",
-                "credit manager",
-                "external auditor",
-                "accountant job description for resume"
-            ]
-        },
-        {
-            "group": "Career",
-            "title": "accountant career path",
-            "intent": "informational",
-            "keywords": [
-                "accountant career path",
+                "accounting firms",
+                "bookkeeping jobs",
                 "accounting",
-                "big four",
-                "public sector",
-                "accountant job outlook",
-                "accountant career path uk"
-            ]
-        },
-        {
-            "group": "Skills",
-            "title": "accountant skills",
-            "intent": "informational",
-            "keywords": [
-                "accountant skills",
-                "financial analysis",
-                "accountant skills required",
-                "accountant skills needed",
-                "accountant skills resume"
-            ]
-        },
-        {
-            "group": "Skills",
-            "title": "accountant qualifications needed",
-            "intent": "informational",
-            "keywords": [
-                "accountant qualifications needed",
-                "accountant skills and qualities",
-                "accountant qualifications uk"
-            ]
-        },
-        {
-            "group": "Education",
-            "title": "accountant certification",
-            "intent": "informational",
-            "keywords": [
-                "accountant certification",
-                "certified public accountant",
-                "chartered accountant",
-                "chartered certified accountant",
-                "cpa certification",
-                "accountant qualifications",
-                "accountant certification online"
-            ]
-        },
-        {
-            "group": "Education",
-            "title": "accountant education requirements",
-            "intent": "informational",
-            "keywords": [
-                "accountant education requirements",
                 "accounting ethics",
                 "accounting principles",
-                "accounting standards",
-                "cpa education requirements",
-                "accountant education requirements canada"
+                "auditing",
+                "auditor",
+                "external auditor",
+                "payroll management",
+                "payroll processing",
+                "bookkeeping services",
+                "journal entries"
             ]
         },
         {
-            "group": "Salary",
+            "group": "Accountant Roles",
             "title": "accountant salary range",
             "intent": "informational",
             "keywords": [
                 "accountant salary range",
+                "big four",
                 "accountant salary entry level",
-                "accountant salary per month"
+                "accountant salary in dubai"
             ]
         },
         {
-            "group": "Salary",
-            "title": "accountant salary in dubai",
+            "group": "Accounting Tools",
+            "title": "accounting software",
+            "intent": "commercial",
+            "keywords": [
+                "accounting software",
+                "accounting software small business",
+                "accounting software for nonprofits"
+            ]
+        },
+        {
+            "group": "Accounting Tools",
+            "title": "bookkeeping software",
+            "intent": "commercial",
+            "keywords": [
+                "bookkeeping software",
+                "payroll management software",
+                "payroll management system"
+            ]
+        },
+        {
+            "group": "Accounting Services",
+            "title": "financial planning",
+            "intent": "commercial",
+            "keywords": [
+                "financial planning",
+                "financial reporting",
+                "financial statements",
+                "financial planning and analysis",
+                "financial planning software"
+            ]
+        },
+        {
+            "group": "Accounting Services",
+            "title": "tax preparation services",
+            "intent": "commercial",
+            "keywords": [
+                "tax preparation services",
+                "tax preparation services for seniors",
+                "tax laws",
+                "tax planning"
+            ]
+        },
+        {
+            "group": "Accounting Certifications",
+            "title": "cpa certification",
             "intent": "informational",
             "keywords": [
-                "accountant salary in dubai",
-                "accountant salary in singapore",
-                "accountant salary california"
+                "cpa certification",
+                "certified public accountant",
+                "chartered accountant",
+                "chartered certified accountant",
+                "cpa certification requirements",
+                "cpa certification meaning"
+            ]
+        },
+        {
+            "group": "Accounting Certifications",
+            "title": "bookkeeping certification",
+            "intent": "informational",
+            "keywords": [
+                "bookkeeping certification",
+                "bookkeeping courses"
             ]
         }
     ],
     "categories": {
-        "accountant career path": "core",
-        "accountant certification": "core",
-        "accountant job description": "core",
-        "accountant skills": "core",
-        "accountant vs bookkeeper": "core",
-        "accountant education requirements": "core",
-        "accountant job outlook": "core",
-        "accountant qualifications": "core",
-        "accountant salary range": "core",
-        "accountant salary entry level": "core",
-        "accountant job description for resume": "complementary",
-        "accountant vs bookkeeper difference": "doubtful",
-        "accountant skills resume": "complementary",
-        "accountant skills required": "complementary",
-        "accountant vs bookkeeper vs cpa": "doubtful",
-        "accountant skills needed": "complementary",
-        "accountant salary in dubai": "core",
-        "accountant qualifications needed": "core",
-        "accountant skills and qualities": "complementary",
-        "accountant qualifications and skills": "doubtful",
-        "accountant qualifications uk": "complementary",
-        "cpa education requirements": "complementary",
-        "accountant career path uk": "core",
-        "accountant salary in singapore": "core",
-        "accountant certification online": "commercial",
-        "accountant education requirements canada": "complementary",
-        "accountant salary per month": "complementary",
-        "accountant salary california": "complementary",
-        "cpa certification": "core",
+        "bookkeeping": "core",
+        "financial planning": "complementary",
         "accounting software": "complementary",
-        "financial reporting": "complementary",
-        "tax preparation": "complementary",
-        "auditing": "complementary",
-        "bookkeeping": "complementary",
-        "financial analysis": "complementary",
-        "accounting principles": "complementary",
-        "accounting ethics": "complementary",
-        "accounting standards": "complementary",
-        "big four": "complementary",
+        "accounting firms": "commercial",
+        "cpa certification": "core",
+        "payroll management": "core",
+        "financial planning and analysis": "complementary",
+        "accounting software small business": "complementary",
+        "accountant job description": "core",
+        "tax preparation services": "core",
+        "payroll management system": "complementary",
+        "bookkeeping software": "complementary",
+        "bookkeeping jobs": "commercial",
+        "accountant salary range": "core",
+        "financial planning software": "complementary",
+        "financial planning association": "doubtful",
+        "accountant salary entry level": "core",
+        "cpa certification requirements": "core",
+        "accountant job description for resume": "doubtful",
+        "bookkeeping certification": "complementary",
+        "accountant salary in dubai": "core",
+        "payroll management software": "complementary",
+        "accounting software for nonprofits": "complementary",
+        "bookkeeping courses": "complementary",
+        "bookkeeping services": "complementary",
+        "cpa certification meaning": "complementary",
+        "tax preparation services for seniors": "complementary",
+        "certified public accountant": "core",
+        "accounting principles": "core",
+        "financial statements": "core",
+        "tax laws": "core",
+        "auditing": "core",
+        "payroll processing": "complementary",
+        "financial reporting": "core",
+        "accounting ethics": "core",
+        "tax planning": "core",
+        "big four": "commercial",
         "accounting": "core",
         "chartered certified accountant": "core",
         "chartered accountant": "core",
-        "financial statement": "complementary",
-        "public sector": "complementary",
-        "certified public accountant": "core",
+        "public sector": "doubtful",
         "journal entries": "complementary",
-        "credit manager": "complementary",
         "auditor": "complementary",
-        "external auditor": "complementary"
+        "external auditor": "complementary",
+        "accounting firms for sale": "doubtful"
     }
 }

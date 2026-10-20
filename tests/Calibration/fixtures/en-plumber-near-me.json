@@ -1,7 +1,7 @@
 {
     "expression": "plumber near me",
     "lang": "en",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -258,11 +258,11 @@
             ],
             [
                 1,
-                "emergency plumber"
+                "emergency plumbers in my area"
             ],
             [
                 2,
-                "emergency plumbers in my area"
+                "emergency plumber west palm beach dee maria"
             ],
             [
                 3,
@@ -274,7 +274,7 @@
             ],
             [
                 5,
-                "emergency plumber west palm beach dee maria"
+                "emergency plumber"
             ],
             [
                 6,
@@ -294,11 +294,11 @@
             ],
             [
                 10,
-                "emergency plumber palm beach"
+                "emergency plumber boca raton dee maria plumb"
             ],
             [
                 11,
-                "emergency plumber boca raton dee maria plumb"
+                "emergency plumber palm beach"
             ],
             [
                 12,
@@ -310,47 +310,47 @@
             ],
             [
                 14,
-                "emergency plumber andover"
-            ],
-            [
-                15,
                 "emergency plumber raleigh nc"
             ],
             [
+                15,
+                "emergency plumber kansas city coupons"
+            ],
+            [
                 16,
-                "emergency plumber dallas"
-            ],
-            [
-                17,
-                "emergency plumber portland"
-            ],
-            [
-                18,
                 "emergency plumber corona ca"
             ],
             [
+                17,
+                "emergency plumber kansas city metro"
+            ],
+            [
+                18,
+                "emergency plumber andover"
+            ],
+            [
                 19,
-                "emergency plumber amarillo"
-            ],
-            [
-                20,
-                "emergency plumber kansas city ks"
-            ],
-            [
-                21,
-                "emergency plumber kansas city mo"
-            ],
-            [
-                22,
                 "emergency plumber kansas city area"
             ],
             [
-                23,
+                20,
                 "emergency plumber kansas city cost"
             ],
             [
+                21,
+                "emergency plumber dallas"
+            ],
+            [
+                22,
+                "emergency plumber kansas city mo"
+            ],
+            [
+                23,
+                "emergency plumber kansas city ks"
+            ],
+            [
                 24,
-                "emergency plumber kansas city metro"
+                "emergency plumber portland"
             ],
             [
                 0,
@@ -810,15 +810,15 @@
             ],
             [
                 0,
-                "sewer line inspection"
-            ],
-            [
-                1,
                 "sewer line inspection camera"
             ],
             [
-                2,
+                1,
                 "sewer line inspection cost"
+            ],
+            [
+                2,
+                "sewer line inspection"
             ],
             [
                 3,
@@ -842,15 +842,15 @@
             ],
             [
                 8,
-                "sewer line inspection video"
+                "sewer line inspection near whitefish bay wi"
             ],
             [
                 9,
-                "sewer line inspection report"
+                "sewer line inspection video"
             ],
             [
                 10,
-                "sewer line inspection near whitefish bay wi"
+                "sewer line inspection report"
             ],
             [
                 11,
@@ -868,11 +868,11 @@
             ],
             [
                 1,
-                "emergency plumber townplots"
+                "emergency plumber clewer green"
             ],
             [
                 2,
-                "emergency plumber sleveen"
+                "emergency plumber dedworth"
             ],
             [
                 3,
@@ -896,23 +896,23 @@
             ],
             [
                 0,
-                "plumbing services"
-            ],
-            [
-                1,
-                "plumbing services king's island"
-            ],
-            [
-                2,
-                "plumbing services prior's-land"
-            ],
-            [
-                3,
                 "plumbing services near me"
             ],
             [
-                4,
+                1,
+                "plumbing services clewer green"
+            ],
+            [
+                2,
+                "plumbing services dedworth"
+            ],
+            [
+                3,
                 "plumbing services near me reviews"
+            ],
+            [
+                4,
+                "plumbing services"
             ],
             [
                 5,
@@ -932,11 +932,11 @@
             ],
             [
                 1,
-                "drain cleaning innenstadt"
+                "drain cleaning st luke's"
             ],
             [
                 2,
-                "drain cleaning nordend-west"
+                "drain cleaning broadgate"
             ],
             [
                 3,
@@ -964,11 +964,11 @@
             ],
             [
                 1,
-                "leaky faucet repair maryborough"
+                "leaky faucet repair prior's-land"
             ],
             [
                 2,
-                "leaky faucet repair ballytegan"
+                "leaky faucet repair mount kennet"
             ],
             [
                 3,
@@ -996,11 +996,11 @@
             ],
             [
                 1,
-                "toilet installation maryborough"
+                "toilet installation clewer green"
             ],
             [
                 2,
-                "toilet installation ballytegan"
+                "toilet installation dedworth"
             ],
             [
                 3,
@@ -2162,7 +2162,7 @@
         "articles": [
             {
                 "title": "Plumber",
-                "views": 5204,
+                "views": 5080,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.538
@@ -2176,72 +2176,26 @@
     },
     "pages": [
         {
-            "group": "Fixture Installation and Repair",
-            "title": "toilet installation",
-            "intent": "informational",
-            "keywords": [
-                "toilet installation",
-                "install",
-                "toilet installation kit",
-                "toilet installation cost",
-                "toilet installation near me"
-            ]
-        },
-        {
-            "group": "Fixture Installation and Repair",
-            "title": "water heater repair",
-            "intent": "informational",
-            "keywords": [
-                "water heater repair",
-                "water heater repair kit",
-                "water heater repair near me"
-            ]
-        },
-        {
-            "group": "Fixture Installation and Repair",
-            "title": "leaky faucet repair",
-            "intent": "informational",
-            "keywords": [
-                "leaky faucet repair",
-                "leaky faucet repair kit"
-            ]
-        },
-        {
-            "group": "Pipe and Sewer Repair",
-            "title": "pipe replacement",
-            "intent": "informational",
-            "keywords": [
-                "pipe replacement",
-                "pipe fittings",
-                "piping",
-                "pipe stem replacement",
-                "pipe replacement cost",
-                "pipe replacement without digging"
-            ]
-        },
-        {
-            "group": "Pipe and Sewer Repair",
-            "title": "sewer line inspection",
-            "intent": "informational",
-            "keywords": [
-                "sewer line inspection",
-                "sewage",
-                "sewer line inspection camera",
-                "sewer line inspection cost"
-            ]
-        },
-        {
             "group": "Drain Cleaning",
             "title": "drain cleaning",
             "intent": "informational",
             "keywords": [
                 "drain cleaning",
+                "sewer line inspection camera",
+                "sewer line inspection",
                 "drainage",
-                "list of tools and equipment",
                 "drain cleaning machine",
                 "drain cleaning tool",
-                "drain snake",
                 "drain cleaning bladder"
+            ]
+        },
+        {
+            "group": "Drain Cleaning",
+            "title": "drain cleaning near me",
+            "intent": "transactional",
+            "keywords": [
+                "drain cleaning near me",
+                "drain unblocking"
             ]
         },
         {
@@ -2250,16 +2204,12 @@
             "intent": "commercial",
             "keywords": [
                 "plumbing services",
-                "maintenance",
                 "pipefitter",
+                "piping",
                 "plumbing",
-                "plumbing codes",
-                "plumbing fixtures",
-                "plumbing maintenance",
-                "plumbing tools",
-                "plumbing warranty",
-                "water pressure",
-                "plumber near me free estimate"
+                "plumbing services near me",
+                "plumber near me free estimate",
+                "plumber near me residential"
             ]
         },
         {
@@ -2269,7 +2219,49 @@
             "keywords": [
                 "emergency plumber",
                 "plumbing emergency",
+                "plumber near me emergency",
                 "emergency plumbers in my area"
+            ]
+        },
+        {
+            "group": "Water Heater & Toilet Services",
+            "title": "toilet installation",
+            "intent": "commercial",
+            "keywords": [
+                "toilet installation",
+                "toilet installation kit",
+                "toilet installation cost",
+                "toilet installation near me"
+            ]
+        },
+        {
+            "group": "Water Heater & Toilet Services",
+            "title": "water heater repair",
+            "intent": "informational",
+            "keywords": [
+                "water heater repair",
+                "water heater repair near me",
+                "water heater repair kit"
+            ]
+        },
+        {
+            "group": "Pipe Repair & Replacement",
+            "title": "pipe replacement",
+            "intent": "commercial",
+            "keywords": [
+                "pipe replacement",
+                "pipe stem replacement",
+                "pipe replacement cost",
+                "pipe replacement without digging"
+            ]
+        },
+        {
+            "group": "Pipe Repair & Replacement",
+            "title": "leaky faucet repair",
+            "intent": "informational",
+            "keywords": [
+                "leaky faucet repair",
+                "leaky faucet repair kit"
             ]
         }
     ],
@@ -2279,45 +2271,34 @@
         "leaky faucet repair": "commercial",
         "water heater repair": "commercial",
         "pipe replacement": "core",
-        "sewer line inspection camera": "core",
-        "sewer line inspection": "core",
+        "sewer line inspection camera": "complementary",
+        "sewer line inspection": "complementary",
         "toilet installation": "core",
         "drain cleaning machine": "complementary",
         "drain cleaning tool": "complementary",
-        "emergency plumber": "commercial",
         "drain cleaning bladder": "complementary",
-        "plumber near me emergency": "doubtful",
+        "emergency plumber": "commercial",
+        "plumber near me emergency": "commercial",
         "water heater repair kit": "commercial",
+        "plumbing services near me": "core",
         "water heater repair near me": "commercial",
-        "drain cleaning near me": "doubtful",
+        "drain cleaning near me": "commercial",
         "pipe stem replacement": "complementary",
-        "plumbing services near me": "doubtful",
         "leaky faucet repair kit": "commercial",
         "pipe replacement without digging": "complementary",
         "toilet installation kit": "complementary",
         "pipe replacement cost": "commercial",
         "plumber near me free estimate": "commercial",
         "toilet installation cost": "commercial",
-        "sewer line inspection cost": "commercial",
+        "plumber near me residential": "commercial",
         "emergency plumbers in my area": "commercial",
         "toilet installation near me": "commercial",
-        "plumbing tools": "complementary",
-        "drain snake": "complementary",
-        "plumbing fixtures": "complementary",
-        "water pressure": "complementary",
-        "pipe fittings": "complementary",
-        "plumbing codes": "complementary",
-        "plumbing maintenance": "complementary",
+        "drain unblocking": "commercial",
         "plumbing emergency": "commercial",
-        "plumbing warranty": "commercial",
         "plumbing": "core",
-        "sewage": "complementary",
         "drainage": "complementary",
-        "install": "complementary",
-        "maintenance": "complementary",
-        "list of tools and equipment": "complementary",
         "pipefitter": "complementary",
         "piping": "complementary",
-        "plumber near me residential": "doubtful"
+        "sewer line inspection cost": "doubtful"
     }
 }

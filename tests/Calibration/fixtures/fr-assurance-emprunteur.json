@@ -1,7 +1,7 @@
 {
     "expression": "assurance emprunteur",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -26,14 +26,14 @@
             "assurance emprunteur",
             "assurance emprunteur agipi",
             "assurance emprunteur meilleurtaux",
+            "assurance emprunteur credit agricole",
             "assurance emprunteur maif",
             "assurance emprunteur sogecap",
             "assurance emprunteur prêt immobilier",
             "assurance emprunteur macif",
             "assurance emprunteur comparatif",
             "assurance emprunteur generali",
-            "assurance emprunteur groupama",
-            "assurance emprunteur crédit agricole"
+            "assurance emprunteur groupama"
         ],
         "duckduckgo": [
             "assurance emprunteur allianz",
@@ -43,7 +43,7 @@
             "assurance emprunteur maif",
             "assurance emprunteur sogecap",
             "assurance emprunteur prêt immobilier",
-            "assurance emprunteur macif"
+            "assurance emprunteur credit agricole"
         ],
         "google": [
             "assurance emprunteur",
@@ -277,7 +277,7 @@
         "articles": [
             {
                 "title": "Assurance de prêt",
-                "views": 99,
+                "views": 95,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -294,49 +294,23 @@
             "keywords": [
                 "comparateur assurance emprunteur",
                 "assurance emprunteur immobilier",
-                "assurance emprunteur comparatif",
                 "comparateur assurance emprunteur gratuit",
                 "comparateur assurance emprunteur immobilier",
                 "déléégation assurance emprunteur immobilier",
+                "assurance emprunteur en ligne",
+                "comparateur assurance emprunteur en ligne",
                 "comparateur assurance emprunteur ade",
-                "comparateur assurance emprunteur que choisir",
-                "comparateur assurance emprunteur en ligne"
+                "comparateur assurance emprunteur que choisir"
             ]
         },
         {
-            "group": "Conseils",
-            "title": "assurance emprunteur explication",
-            "intent": "informational",
-            "keywords": [
-                "assurance emprunteur explication",
-                "changer assurance emprunteur",
-                "droit à l'oubli",
-                "fiche d'information",
-                "garanties assurance emprunteur",
-                "incapacité temporaire",
-                "invalidité permanente",
-                "perte d'emploi",
-                "questionnaire de santé",
-                "questionnaire médical",
-                "taux d'assurance",
-                "délégation assurance emprunteur",
-                "délégation assurance emprunteur sci",
-                "délégation assurance emprunteur loi",
-                "déléégation d'assurance",
-                "assurance emprunteur quotité",
-                "negocier assurance emprunteur",
-                "assurance emprunteur remboursement"
-            ]
-        },
-        {
-            "group": "Conseils",
-            "title": "meilleur assurance emprunteur",
+            "group": "Comparateurs",
+            "title": "assurance emprunteur comparatif",
             "intent": "commercial",
             "keywords": [
+                "assurance emprunteur comparatif",
                 "meilleur assurance emprunteur",
-                "assurance emprunteur meilleurtaux",
-                "assurance emprunteur en ligne",
-                "déléégation assurance emprunteur pas cher"
+                "assurance emprunteur meilleurtaux"
             ]
         },
         {
@@ -348,9 +322,34 @@
                 "assurance emprunteur axa",
                 "assurance emprunteur sogecap",
                 "assurance emprunteur allianz",
-                "assurance emprunteur macif",
                 "assurance emprunteur credit agricole",
+                "assurance emprunteur macif",
                 "assurance emprunteur agipi"
+            ]
+        },
+        {
+            "group": "Conseils",
+            "title": "assurance emprunteur explication",
+            "intent": "informational",
+            "keywords": [
+                "assurance emprunteur explication",
+                "coût de l'assurance",
+                "droit à l'oubli",
+                "délai de carence",
+                "exclusions assurance emprunteur",
+                "fiche d'information",
+                "garanties assurance emprunteur",
+                "questionnaire médical",
+                "risques aggravés",
+                "taux d'assurance",
+                "délégation assurance emprunteur",
+                "délégation assurance emprunteur sci",
+                "déléégation assurance emprunteur pas cher",
+                "délégation assurance emprunteur loi",
+                "negocier assurance emprunteur",
+                "changer assurance emprunteur",
+                "assurance emprunteur quotité",
+                "assurance emprunteur remboursement"
             ]
         }
     ],
@@ -360,12 +359,12 @@
         "assurance emprunteur maif": "core",
         "comparateur assurance emprunteur immobilier": "core",
         "assurance emprunteur allianz": "core",
-        "assurance emprunteur macif": "core",
+        "assurance emprunteur credit agricole": "core",
         "délégation assurance emprunteur": "core",
+        "assurance emprunteur macif": "core",
         "délégation assurance emprunteur sci": "complementary",
-        "assurance emprunteur credit agricole": "complementary",
-        "assurance emprunteur comparatif": "commercial",
         "assurance emprunteur agipi": "complementary",
+        "assurance emprunteur comparatif": "commercial",
         "assurance emprunteur quotité": "complementary",
         "assurance emprunteur explication": "complementary",
         "comparateur assurance emprunteur ade": "complementary",
@@ -387,12 +386,10 @@
         "droit à l'oubli": "complementary",
         "taux d'assurance": "complementary",
         "garanties assurance emprunteur": "core",
-        "invalidité permanente": "core",
-        "incapacité temporaire": "core",
-        "perte d'emploi": "core",
+        "exclusions assurance emprunteur": "core",
+        "délai de carence": "complementary",
         "fiche d'information": "complementary",
-        "déléégation d'assurance": "core",
-        "questionnaire de santé": "complementary",
-        "banque": "doubtful"
+        "risques aggravés": "complementary",
+        "coût de l'assurance": "commercial"
     }
 }

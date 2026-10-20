@@ -1,7 +1,7 @@
 {
     "expression": "isolation thermique maison",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -16,12 +16,12 @@
     "concepts": [
         "isolation des combles",
         "isolation des murs",
+        "isolation des fenêtres",
         "isolation par l'extérieur",
         "isolation écologique",
         "étanchéité à l'air",
-        "isolation phonique",
-        "subvention isolation",
-        "diagnostic thermique"
+        "pont thermique",
+        "subvention isolation"
     ],
     "suggestions": {
         "amazon": [
@@ -35,7 +35,7 @@
         "duckduckgo": [
             "isolation thermique maison",
             "isolation thermique maison individuelle",
-            "contr��le isolation thermique maison"
+            "contrôle isolation thermique maison"
         ],
         "google": [
             "isolation thermique maison",
@@ -73,43 +73,7 @@
             ],
             [
                 0,
-                "isolation phonique"
-            ],
-            [
-                1,
-                "isolation phonique porte"
-            ],
-            [
-                2,
-                "isolation phonique voiture"
-            ],
-            [
-                3,
-                "plaque isolation phonique"
-            ],
-            [
-                4,
-                "isolation phonique mur"
-            ],
-            [
-                5,
-                "isolation phonique fenetre"
-            ],
-            [
-                6,
-                "isolation phonique porte d'entrée"
-            ],
-            [
-                7,
-                "isolation phonique sol"
-            ],
-            [
-                8,
-                "isolation phonique tuyau pvc 100"
-            ],
-            [
-                9,
-                "isolation phonique porte chambre"
+                "pont thermique"
             ]
         ],
         "bing": [
@@ -211,6 +175,30 @@
             ],
             [
                 0,
+                "isolation des fenêtres"
+            ],
+            [
+                1,
+                "isolation des fenêtres anciennes"
+            ],
+            [
+                2,
+                "isolation des fenêtres double vitrage"
+            ],
+            [
+                3,
+                "isolation des fenêtres intérieures"
+            ],
+            [
+                4,
+                "isolation thermique des fenêtres"
+            ],
+            [
+                5,
+                "isolation autour des fenêtres"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -259,11 +247,11 @@
             ],
             [
                 0,
-                "isolation écologique conteneur"
+                "isolation écologique"
             ],
             [
                 1,
-                "isolation écologique"
+                "isolation écologique conteneur"
             ],
             [
                 2,
@@ -283,11 +271,11 @@
             ],
             [
                 6,
-                "mp isolation écologique"
+                "isolation ecologique toiture"
             ],
             [
                 7,
-                "isolation ecologique toiture"
+                "mp isolation écologique"
             ],
             [
                 8,
@@ -343,51 +331,51 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation phonique mur"
+                "pont thermique définition"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "pont thermique isolation"
             ],
             [
                 3,
-                "isolation phonique sol"
+                "pont thermique c'est quoi"
             ],
             [
                 4,
-                "isolation phonique porte"
+                "pont thermique fenetre"
             ],
             [
                 5,
-                "isolation phonique mur mitoyen intérieur"
+                "pont thermique dpe"
             ],
             [
                 6,
-                "isolation phonique plancher bois"
+                "pont thermique paroi"
             ],
             [
                 7,
-                "isolation phonique sous carrelage"
+                "pont thermique maison"
             ],
             [
                 8,
-                "isolation phonique cloison"
+                "pont thermique isolation mur"
             ],
             [
                 9,
-                "isolation phonique bureau"
+                "pont thermique définition toiture"
             ],
             [
                 10,
-                "isolation phonique plafond appartement"
+                "pont thermique définition mur"
             ],
             [
                 11,
-                "isolation phonique mur intérieur"
+                "pont thermique définition maison"
             ],
             [
                 0,
@@ -436,42 +424,6 @@
             [
                 11,
                 "subvention isolation maison québec"
-            ],
-            [
-                0,
-                "diagnostic thermique"
-            ],
-            [
-                1,
-                "diagnostic thermique maison"
-            ],
-            [
-                2,
-                "diagnostic thermique maison tarif"
-            ],
-            [
-                3,
-                "diagnostic thermique appartement"
-            ],
-            [
-                4,
-                "diagnostic thermique location"
-            ],
-            [
-                5,
-                "diagnostic thermique validité"
-            ],
-            [
-                6,
-                "diagnostic thermique obligatoire"
-            ],
-            [
-                7,
-                "diagnostic thermique gratuit engie"
-            ],
-            [
-                8,
-                "diagnostic thermique maison gratuit"
             ]
         ],
         "duckduckgo": [
@@ -541,6 +493,30 @@
             ],
             [
                 0,
+                "isolation des fenêtres"
+            ],
+            [
+                1,
+                "isolation des fenêtres anciennes"
+            ],
+            [
+                2,
+                "isolation des fenêtres double vitrage"
+            ],
+            [
+                3,
+                "isolation des fenêtres intérieures"
+            ],
+            [
+                4,
+                "isolation thermique des fenêtres"
+            ],
+            [
+                5,
+                "isolation autour des fenêtres"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -637,35 +613,35 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation phonique mur"
+                "pont thermique définition"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "pont thermique isolation"
             ],
             [
                 3,
-                "isolation phonique sol"
+                "pont thermique c'est quoi"
             ],
             [
                 4,
-                "isolation phonique porte"
+                "pont thermique fenetre"
             ],
             [
                 5,
-                "isolation phonique mur mitoyen intérieur"
+                "pont thermique dpe"
             ],
             [
                 6,
-                "isolation phonique plancher bois"
+                "pont thermique paroi"
             ],
             [
                 7,
-                "isolation phonique sous carrelage"
+                "pont thermique maison"
             ],
             [
                 0,
@@ -698,38 +674,6 @@
             [
                 7,
                 "subvention isolation sous sol"
-            ],
-            [
-                0,
-                "diagnostic thermique"
-            ],
-            [
-                1,
-                "diagnostic thermique maison"
-            ],
-            [
-                2,
-                "diagnostic thermique maison tarif"
-            ],
-            [
-                3,
-                "diagnostic thermique appartement"
-            ],
-            [
-                4,
-                "diagnostic thermique location"
-            ],
-            [
-                5,
-                "diagnostic thermique validité"
-            ],
-            [
-                6,
-                "diagnostic thermique obligatoire"
-            ],
-            [
-                7,
-                "diagnostic thermique gratuit engie"
             ]
         ],
         "google": [
@@ -812,6 +756,10 @@
             [
                 9,
                 "isolation des murs par insufflation avis"
+            ],
+            [
+                0,
+                "isolation des fenêtres"
             ],
             [
                 0,
@@ -935,43 +883,43 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation phonique mur"
+                "pont thermique def"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "pont thermique fenetre"
             ],
             [
                 3,
-                "isolation phonique sol"
+                "pont thermique maison"
             ],
             [
                 4,
-                "isolation phonique porte"
+                "pont thermique c'est quoi"
             ],
             [
                 5,
-                "isolation phonique mur mitoyen"
+                "pont thermique moisissure"
             ],
             [
                 6,
-                "isolation phonique mur chambre"
+                "pont thermique isolation"
             ],
             [
                 7,
-                "isolation phonique cloison"
+                "pont thermique condensation"
             ],
             [
                 8,
-                "isolation phonique plancher bois"
+                "pont thermique dpe"
             ],
             [
                 9,
-                "isolation phonique voiture"
+                "pont thermique balcon rénovation"
             ],
             [
                 0,
@@ -1012,46 +960,6 @@
             [
                 9,
                 "subvention isolation quebec"
-            ],
-            [
-                0,
-                "diagnostic thermique"
-            ],
-            [
-                1,
-                "diagnostic thermique maison"
-            ],
-            [
-                2,
-                "diagnostic thermique gratuit edf"
-            ],
-            [
-                3,
-                "diagnostic thermique gratuit"
-            ],
-            [
-                4,
-                "diagnostic thermique prix"
-            ],
-            [
-                5,
-                "diagnostic thermique appartement"
-            ],
-            [
-                6,
-                "diagnostic thermique maison prix"
-            ],
-            [
-                7,
-                "diagnostic thermique obligatoire"
-            ],
-            [
-                8,
-                "diagnostic thermique gratuit engie"
-            ],
-            [
-                9,
-                "diagnostic thermique location"
             ]
         ],
         "yahoo": [
@@ -1137,6 +1045,22 @@
             ],
             [
                 0,
+                "isolation des fenêtres"
+            ],
+            [
+                1,
+                "isolation des fenêtres anciennes"
+            ],
+            [
+                2,
+                "isolation des fenêtres pour l'hiver"
+            ],
+            [
+                3,
+                "isolation des fenêtres en bois"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -1217,43 +1141,43 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation phonique murs"
+                "pont thermique définition"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "pont thermique isolation"
             ],
             [
                 3,
-                "isolation phonique porte"
+                "pont thermique maison"
             ],
             [
                 4,
-                "isolation phonique plancher"
+                "pont thermique moisissure"
             ],
             [
                 5,
-                "isolation phonique sol"
+                "pont thermique dpe"
             ],
             [
                 6,
-                "isolation phonique cloison"
+                "pont thermique fenetre"
             ],
             [
                 7,
-                "isolation phonique intérieur maison"
+                "pont thermique cuisine"
             ],
             [
                 8,
-                "isolation phonique appartement"
+                "pont thermique plafond"
             ],
             [
                 9,
-                "isolation phonique mur mitoyen"
+                "pont thermique schéma"
             ],
             [
                 0,
@@ -1270,30 +1194,6 @@
             [
                 3,
                 "subvention isolation par l'extérieur"
-            ],
-            [
-                0,
-                "diagnostic thermique"
-            ],
-            [
-                1,
-                "diagnostic thermique maison individuelle"
-            ],
-            [
-                2,
-                "diagnostic thermique maison tarif"
-            ],
-            [
-                3,
-                "diagnostic thermique gratuit"
-            ],
-            [
-                4,
-                "exemple de diagnostic thermique"
-            ],
-            [
-                5,
-                "location diagnostic thermique"
             ]
         ],
         "youtube": [
@@ -1379,6 +1279,10 @@
             ],
             [
                 0,
+                "isolation autour des fenêtres"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -1447,83 +1351,43 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation phonique mur interieur"
+                "pont thermique fenetre"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "pont thermique isolation intérieure"
             ],
             [
                 3,
-                "isolation phonique plancher bois"
+                "pont thermique humidité"
             ],
             [
                 4,
-                "isolation phonique mur mitoyen"
+                "pont thermique dalle béton"
             ],
             [
                 5,
-                "isolation phonique porte d'entrée"
+                "pont thermique dpe"
             ],
             [
                 6,
-                "isolation phonique porte"
+                "pont thermique moisissure"
             ],
             [
                 7,
-                "isolation phonique voiture"
+                "pont thermique baie vitrée"
             ],
             [
                 8,
-                "isolation phonique sol"
+                "pont thermique plancher"
             ],
             [
                 9,
-                "isolation phonique plafond appartement"
-            ],
-            [
-                0,
-                "analyse thermique"
-            ],
-            [
-                1,
-                "analyse thermique différentielle atd"
-            ],
-            [
-                2,
-                "etude thermique batiment"
-            ],
-            [
-                3,
-                "etude thermique re2020"
-            ],
-            [
-                4,
-                "analyse thermique atg"
-            ],
-            [
-                5,
-                "analyse thermique simple"
-            ],
-            [
-                6,
-                "etude thermique"
-            ],
-            [
-                7,
-                "etude thermique maison"
-            ],
-            [
-                8,
-                "analyse thermique dsc"
-            ],
-            [
-                9,
-                "etude thermique revit"
+                "pont thermique plafond"
             ]
         ]
     },
@@ -1531,21 +1395,21 @@
         "articles": [
             {
                 "title": "Isolation thermique",
-                "views": 432,
+                "views": 421,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.75
             },
             {
                 "title": "Maison",
-                "views": 2106,
-                "counted": true,
+                "views": 2037,
+                "counted": false,
                 "fromConcept": false,
                 "coverage": 0.25
             },
             {
-                "title": "Isolation phonique",
-                "views": 314,
+                "title": "Pont thermique",
+                "views": 836,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1573,11 +1437,9 @@
                 "isolation par l'extérieur",
                 "isolation des murs par l'intérieur",
                 "isolation des murs intérieur",
-                "enduit acrylique",
                 "isolation multicouche",
                 "isolation thermique du bâtiment",
                 "réglementation thermique",
-                "transfert thermique",
                 "isolation des murs",
                 "isolation des murs par l'extérieur",
                 "isolation des murs extérieurs",
@@ -1586,14 +1448,13 @@
         },
         {
             "group": "Types d'isolation",
-            "title": "isolation phonique",
-            "intent": "informational",
+            "title": "isolation des combles",
+            "intent": "transactional",
             "keywords": [
-                "isolation phonique",
-                "isolation phonique mur",
-                "isolation phonique porte",
-                "isolation phonique plafond",
-                "isolation phonique sol"
+                "isolation des combles",
+                "isolation des combles par soufflage",
+                "isolation des combles a 1€",
+                "isolation des combles 1 euro"
             ]
         },
         {
@@ -1602,94 +1463,89 @@
             "intent": "informational",
             "keywords": [
                 "isolation écologique",
+                "enduit acrylique",
                 "facteur 4",
-                "facteur 9",
                 "fibre de bois",
                 "habitat passif",
+                "isolant en vrac",
                 "isolant mince",
                 "isolant naturel",
-                "isolant rigide",
                 "isolant réfléchissant",
-                "isolant souple",
+                "isolant synthétique",
                 "laine de roche",
-                "laine de verre",
                 "mousse polyuréthane",
                 "ouate de cellulose",
-                "isolation thermique maison individuelle",
-                "isolation des combles aménageables"
+                "isolation des combles perdus",
+                "isolation des combles aménageables",
+                "laine de verre"
             ]
         },
         {
-            "group": "Etanchéité et diagnostic",
+            "group": "Problèmes thermiques",
+            "title": "pont thermique",
+            "intent": "informational",
+            "keywords": [
+                "pont thermique",
+                "pont thermique définition",
+                "transfert thermique",
+                "isolation des fenêtres",
+                "pont thermique fenetre",
+                "isolation des fenêtres anciennes",
+                "pont thermique isolation",
+                "pont thermique maison",
+                "pont thermique dpe"
+            ]
+        },
+        {
+            "group": "Étanchéité",
             "title": "étanchéité à l'air",
             "intent": "informational",
             "keywords": [
                 "étanchéité à l'air",
-                "etancheite a l air d une maison",
-                "étanchéité à l'air des bâtiments"
+                "étanchéité à l'air des bâtiments",
+                "etancheite a l air d une maison"
             ]
         },
         {
-            "group": "Etanchéité et diagnostic",
-            "title": "diagnostic thermique",
-            "intent": "commercial",
-            "keywords": [
-                "diagnostic thermique",
-                "diagnostic thermique maison",
-                "diagnostic thermique maison tarif"
-            ]
-        },
-        {
-            "group": "Isolation des combles",
-            "title": "isolation des combles",
-            "intent": "informational",
-            "keywords": [
-                "isolation des combles",
-                "isolation des combles perdus",
-                "isolation des combles par soufflage",
-                "isolation des combles a 1€",
-                "isolation des combles 1 euro"
-            ]
-        },
-        {
-            "group": "Subventions et aides",
+            "group": "Aides financières",
             "title": "subvention isolation maison",
             "intent": "informational",
             "keywords": [
                 "subvention isolation maison",
-                "subvention isolation"
+                "subvention isolation",
+                "isolation thermique maison individuelle"
             ]
         }
     ],
     "categories": {
         "isolation par l'extérieur": "core",
-        "isolation phonique": "complementary",
+        "pont thermique": "core",
         "étanchéité à l'air": "core",
-        "isolation des combles": "core",
+        "isolation des combles": "commercial",
         "isolation écologique": "core",
         "isolation des murs": "core",
-        "isolation phonique mur": "complementary",
-        "isolation phonique porte": "complementary",
         "isolation des combles perdus": "core",
-        "isolation phonique plafond": "complementary",
-        "diagnostic thermique": "core",
+        "isolation des fenêtres": "complementary",
         "isolation des murs par l'intérieur": "complementary",
         "isolation thermique maison individuelle": "core",
         "isolation des murs extérieurs": "core",
-        "isolation des combles par soufflage": "core",
+        "isolation des combles par soufflage": "commercial",
         "isolation des murs intérieur": "complementary",
+        "pont thermique fenetre": "core",
         "isolation des murs par l'extérieur": "core",
         "isolation par l'extérieur prix": "commercial",
-        "isolation phonique sol": "complementary",
         "subvention isolation maison": "commercial",
         "isolation des combles aménageables": "core",
         "etancheite a l air d une maison": "core",
         "isolation des combles a 1€": "commercial",
-        "diagnostic thermique maison": "core",
+        "pont thermique isolation": "core",
+        "isolation des fenêtres anciennes": "complementary",
+        "pont thermique définition": "core",
         "subvention isolation": "commercial",
         "étanchéité à l'air des bâtiments": "core",
+        "pont thermique dpe": "core",
+        "pont thermique maison": "core",
         "isolation des combles 1 euro": "commercial",
-        "diagnostic thermique maison tarif": "commercial",
         "laine de verre": "core",
         "laine de roche": "core",
         "ouate de cellulose": "core",
@@ -1697,14 +1553,12 @@
         "fibre de bois": "core",
         "isolant mince": "complementary",
         "isolant naturel": "complementary",
+        "isolant synthétique": "complementary",
         "isolant réfléchissant": "complementary",
-        "isolant rigide": "complementary",
-        "isolant souple": "complementary",
+        "isolant en vrac": "complementary",
         "transfert thermique": "complementary",
         "réglementation thermique": "complementary",
-        "diagnostic de performance énergétique collectif": "doubtful",
         "facteur 4": "complementary",
-        "facteur 9": "complementary",
         "habitat passif": "complementary",
         "isolation multicouche": "complementary",
         "isolation thermique du bâtiment": "complementary",

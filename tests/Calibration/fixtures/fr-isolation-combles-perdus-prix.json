@@ -1,7 +1,7 @@
 {
     "expression": "isolation combles perdus prix",
     "lang": "fr",
-    "recorded": "2026-10-19",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -19,9 +19,9 @@
         "laine de roche",
         "isolation écologique",
         "étanchéité à l'air",
-        "barrière antivapeur",
-        "isolation phonique",
-        "subvention isolation"
+        "barrière vapeur",
+        "isolation soufflée",
+        "économie d'énergie"
     ],
     "suggestions": {
         "bing": [
@@ -188,61 +188,25 @@
             ],
             [
                 0,
-                "isolation phonique"
-            ],
-            [
-                1,
-                "isolation phonique porte"
-            ],
-            [
-                2,
-                "isolation phonique voiture"
-            ],
-            [
-                3,
-                "plaque isolation phonique"
-            ],
-            [
-                4,
-                "isolation phonique mur"
-            ],
-            [
-                5,
-                "isolation phonique fenetre"
-            ],
-            [
-                6,
-                "isolation phonique porte d'entrée"
-            ],
-            [
-                7,
-                "isolation phonique sol"
-            ],
-            [
-                8,
-                "isolation phonique tuyau pvc 100"
-            ],
-            [
-                9,
-                "isolation phonique porte chambre"
+                "économie d'énergie"
             ]
         ],
         "bing": [
             [
                 0,
-                "isolation thermique"
-            ],
-            [
-                1,
                 "isolation thermique extérieure"
             ],
             [
-                2,
+                1,
                 "isolation thermique intérieure"
             ],
             [
-                3,
+                2,
                 "isolation thermique par l'extérieur"
+            ],
+            [
+                3,
+                "isolation thermique"
             ],
             [
                 4,
@@ -262,19 +226,19 @@
             ],
             [
                 8,
-                "isolation thermique sol"
-            ],
-            [
-                9,
-                "isolation thermique definition"
-            ],
-            [
-                10,
                 "isolation thermique extérieure maison"
             ],
             [
-                11,
+                9,
                 "isolation thermique intérieure des murs"
+            ],
+            [
+                10,
+                "isolation thermique definition"
+            ],
+            [
+                11,
+                "isolation thermique sol"
             ],
             [
                 0,
@@ -374,11 +338,11 @@
             ],
             [
                 0,
-                "isolation écologique conteneur"
+                "isolation écologique"
             ],
             [
                 1,
-                "isolation écologique"
+                "isolation écologique conteneur"
             ],
             [
                 2,
@@ -398,11 +362,11 @@
             ],
             [
                 6,
-                "mp isolation écologique"
+                "isolation ecologique toiture"
             ],
             [
                 7,
-                "isolation ecologique toiture"
+                "mp isolation écologique"
             ],
             [
                 8,
@@ -458,99 +422,95 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "barrière vapeur"
             ],
             [
                 1,
-                "isolation phonique mur"
-            ],
-            [
-                2,
-                "isolation phonique plafond"
-            ],
-            [
-                3,
-                "isolation phonique sol"
-            ],
-            [
-                4,
-                "isolation phonique porte"
-            ],
-            [
-                5,
-                "isolation phonique mur mitoyen intérieur"
-            ],
-            [
-                6,
-                "isolation phonique plancher bois"
-            ],
-            [
-                7,
-                "isolation phonique sous carrelage"
-            ],
-            [
-                8,
-                "isolation phonique cloison"
-            ],
-            [
-                9,
-                "isolation phonique bureau"
-            ],
-            [
-                10,
-                "isolation phonique plafond appartement"
-            ],
-            [
-                11,
-                "isolation phonique mur intérieur"
+                "barrière pare vapeur derbicoat hp"
             ],
             [
                 0,
-                "subvention isolation maison 2026"
+                "isolation soufflée"
             ],
             [
                 1,
-                "subvention isolation"
+                "isolation soufflée pour combles"
             ],
             [
                 2,
-                "subvention isolation toiture"
+                "isolation soufflée sous toiture"
             ],
             [
                 3,
-                "subvention isolation maison"
+                "isolation soufflée prix m2"
             ],
             [
                 4,
-                "subvention isolation maison 2025"
+                "isolation soufflée dans les murs"
             ],
             [
                 5,
-                "subvention isolation entretoit"
+                "isolation soufflée knauf"
             ],
             [
                 6,
-                "subvention isolation grenier"
+                "isolation soufflée pour combles prix"
             ],
             [
                 7,
-                "subvention isolation sous sol"
+                "isolation ouate de cellulose soufflée"
             ],
             [
                 8,
-                "subvention isolation extérieure"
+                "isolation laine soufflée"
+            ],
+            [
+                0,
+                "économie d'énergie"
+            ],
+            [
+                1,
+                "economie d'energie sas"
+            ],
+            [
+                2,
+                "économie d'énergie pc"
+            ],
+            [
+                3,
+                "économie d'énergie saint ouen"
+            ],
+            [
+                4,
+                "économie d'énergie entreprise"
+            ],
+            [
+                5,
+                "économie d'énergie iphone"
+            ],
+            [
+                6,
+                "économie d'énergie logo"
+            ],
+            [
+                7,
+                "économie d'énergie edf"
+            ],
+            [
+                8,
+                "économie d'énergie cee"
             ],
             [
                 9,
-                "subvention isolation québec"
+                "économie d'énergie engie"
             ],
             [
                 10,
-                "subvention isolation vaud"
+                "économie d'énergie usb"
             ],
             [
                 11,
-                "subvention isolation maison québec"
+                "économie d'énergie la poste"
             ]
         ],
         "duckduckgo": [
@@ -716,67 +676,75 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "barrière vapeur"
             ],
             [
                 1,
-                "isolation phonique mur"
-            ],
-            [
-                2,
-                "isolation phonique plafond"
-            ],
-            [
-                3,
-                "isolation phonique sol"
-            ],
-            [
-                4,
-                "isolation phonique porte"
-            ],
-            [
-                5,
-                "isolation phonique mur mitoyen intérieur"
-            ],
-            [
-                6,
-                "isolation phonique plancher bois"
-            ],
-            [
-                7,
-                "isolation phonique sous carrelage"
+                "barrière pare vapeur derbicoat hp"
             ],
             [
                 0,
-                "subvention isolation maison 2026"
+                "isolation soufflée"
             ],
             [
                 1,
-                "subvention isolation"
+                "isolation soufflée pour combles"
             ],
             [
                 2,
-                "subvention isolation toiture"
+                "isolation soufflée sous toiture"
             ],
             [
                 3,
-                "subvention isolation maison"
+                "isolation soufflée prix m2"
             ],
             [
                 4,
-                "subvention isolation maison 2025"
+                "isolation soufflée dans les murs"
             ],
             [
                 5,
-                "subvention isolation entretoit"
+                "isolation soufflée knauf"
             ],
             [
                 6,
-                "subvention isolation grenier"
+                "isolation soufflée pour combles prix"
             ],
             [
                 7,
-                "subvention isolation sous sol"
+                "isolation ouate de cellulose soufflée"
+            ],
+            [
+                0,
+                "économie d'énergie"
+            ],
+            [
+                1,
+                "economie d'energie sas"
+            ],
+            [
+                2,
+                "économie d'énergie pc"
+            ],
+            [
+                3,
+                "économie d'énergie saint ouen"
+            ],
+            [
+                4,
+                "économie d'énergie entreprise"
+            ],
+            [
+                5,
+                "économie d'énergie iphone"
+            ],
+            [
+                6,
+                "économie d'énergie logo"
+            ],
+            [
+                7,
+                "économie d'énergie edf"
             ]
         ],
         "ebay": [
@@ -988,83 +956,87 @@
             ],
             [
                 0,
-                "isolation phonique"
-            ],
-            [
-                1,
-                "isolation phonique mur"
-            ],
-            [
-                2,
-                "isolation phonique plafond"
-            ],
-            [
-                3,
-                "isolation phonique sol"
-            ],
-            [
-                4,
-                "isolation phonique porte"
-            ],
-            [
-                5,
-                "isolation phonique mur mitoyen"
-            ],
-            [
-                6,
-                "isolation phonique mur chambre"
-            ],
-            [
-                7,
-                "isolation phonique cloison"
-            ],
-            [
-                8,
-                "isolation phonique plancher bois"
-            ],
-            [
-                9,
-                "isolation phonique voiture"
+                "barrière vapeur"
             ],
             [
                 0,
-                "subvention isolation exterieur 2026"
+                "isolation soufflée"
             ],
             [
                 1,
-                "subvention isolation"
+                "isolation soufflée prix m2"
             ],
             [
                 2,
-                "subvention isolation toiture"
+                "isolation soufflée combles"
             ],
             [
                 3,
-                "subvention isolation 2026"
+                "isolation soufflée ouate de cellulose"
             ],
             [
                 4,
-                "subvention isolation exterieur"
+                "isolation soufflée brico dépôt"
             ],
             [
                 5,
-                "subvention isolation combles"
+                "isolation soufflée leroy merlin"
             ],
             [
                 6,
-                "subvention isolation maison"
+                "isolation soufflée plafond"
             ],
             [
                 7,
-                "subvention isolation entretoit"
+                "isolation soufflée laine de roche"
             ],
             [
                 8,
-                "subvention isolation grenier"
+                "isolation soufflée rampant"
             ],
             [
                 9,
-                "subvention isolation quebec"
+                "isolation soufflée sous plancher"
+            ],
+            [
+                0,
+                "economie d'énergie"
+            ],
+            [
+                1,
+                "economie d'énergie samsung"
+            ],
+            [
+                2,
+                "économie d'énergie smartphone"
+            ],
+            [
+                3,
+                "economie d'énergie iphone"
+            ],
+            [
+                4,
+                "économie d'énergie adaptative samsung"
+            ],
+            [
+                5,
+                "économie d'énergie sas"
+            ],
+            [
+                6,
+                "économie d'énergie sur téléphone"
+            ],
+            [
+                7,
+                "économie d'énergie saint ouen"
+            ],
+            [
+                8,
+                "économie d'énergie adaptative"
+            ],
+            [
+                9,
+                "économie d'énergie climatisation"
             ]
         ],
         "indeed": [
@@ -1075,6 +1047,10 @@
             [
                 1,
                 "isolation thermique exterieur"
+            ],
+            [
+                0,
+                "économie d'énergie"
             ]
         ],
         "yahoo": [
@@ -1240,59 +1216,55 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "barriere vapeur d'eau"
             ],
             [
                 1,
-                "isolation phonique murs"
+                "barriere vapeur du"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "barriere vapeur sèche"
             ],
             [
                 3,
-                "isolation phonique porte"
-            ],
-            [
-                4,
-                "isolation phonique plancher"
-            ],
-            [
-                5,
-                "isolation phonique sol"
-            ],
-            [
-                6,
-                "isolation phonique cloison"
-            ],
-            [
-                7,
-                "isolation phonique intérieur maison"
-            ],
-            [
-                8,
-                "isolation phonique appartement"
-            ],
-            [
-                9,
-                "isolation phonique mur mitoyen"
+                "barriere vapeur chinois"
             ],
             [
                 0,
-                "subvention isolation maison"
+                "isolation soufflée"
             ],
             [
                 1,
-                "subvention isolation thermique"
+                "isolation soufflée prix m2"
             ],
             [
                 2,
-                "subvention isolation combles"
+                "isolation laine de roche soufflée"
             ],
             [
                 3,
-                "subvention isolation par l'extérieur"
+                "isolation laine minérale soufflée"
+            ],
+            [
+                4,
+                "isolation soufflée dans les murs"
+            ],
+            [
+                5,
+                "isolation laine soufflée"
+            ],
+            [
+                6,
+                "isolation par laine soufflée"
+            ],
+            [
+                0,
+                "économie d'énergie"
+            ],
+            [
+                1,
+                "économie d'énergie gouvernement"
             ]
         ],
         "youtube": [
@@ -1446,43 +1418,71 @@
             ],
             [
                 0,
-                "isolation phonique"
+                "isolation soufflée"
             ],
             [
                 1,
-                "isolation phonique mur interieur"
+                "isolation soufflée mur"
             ],
             [
                 2,
-                "isolation phonique plafond"
+                "isolation soufflée combles"
             ],
             [
                 3,
-                "isolation phonique plancher bois"
+                "isolation soufflée sous toiture"
             ],
             [
                 4,
-                "isolation phonique mur mitoyen"
+                "isolation cellulose soufflée"
             ],
             [
                 5,
-                "isolation phonique porte d'entrée"
+                "isolation laine soufflée"
             ],
             [
                 6,
-                "isolation phonique porte"
+                "isolation grenier laine soufflée"
+            ],
+            [
+                0,
+                "économie d'énergie"
+            ],
+            [
+                1,
+                "economie d'énergie iphone"
+            ],
+            [
+                2,
+                "économiseur d'énergie électrique"
+            ],
+            [
+                3,
+                "économiseur d'énergie"
+            ],
+            [
+                4,
+                "economiseur d'énergie intelligent"
+            ],
+            [
+                5,
+                "economie d'energie dans une maison"
+            ],
+            [
+                6,
+                "mode économie d'énergie iphone"
             ],
             [
                 7,
-                "isolation phonique voiture"
+                "mode économie d'énergie actif c4"
             ],
             [
                 8,
-                "isolation phonique sol"
+                "mode économie d'énergie actif"
             ],
             [
                 9,
-                "isolation phonique plafond appartement"
+                "mode économie d'énergie"
             ]
         ]
     },
@@ -1490,35 +1490,35 @@
         "articles": [
             {
                 "title": "Isolation thermique du bâtiment",
-                "views": 415,
+                "views": 399,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.391
             },
             {
                 "title": "Lost : Les Disparus",
-                "views": 15151,
+                "views": 14849,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.217
             },
             {
                 "title": "Combles",
-                "views": 197,
+                "views": 188,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.261
             },
             {
                 "title": "Laine de roche",
-                "views": 1278,
+                "views": 1235,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Laine de verre",
-                "views": 1008,
+                "views": 980,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1529,44 +1529,26 @@
     },
     "pages": [
         {
-            "group": "Types d'isolation",
-            "title": "isolation phonique",
-            "intent": "informational",
-            "keywords": [
-                "isolation phonique",
-                "isolation phonique mur",
-                "isolation phonique porte",
-                "isolation phonique plafond",
-                "isolation phonique sol"
-            ]
-        },
-        {
-            "group": "Types d'isolation",
-            "title": "isolation thermique",
-            "intent": "informational",
-            "keywords": [
-                "isolation thermique",
-                "isolation thermique fenetre",
-                "consommation énergétique des bâtiments",
-                "niveau d'isolation thermique d'un bâtiment",
-                "performance énergétique",
-                "isolation thermique par l'extérieur",
-                "isolation thermique extérieure",
-                "isolation thermique toiture",
-                "isolation thermique mur interieur"
-            ]
-        },
-        {
-            "group": "Matériaux d'isolation",
-            "title": "laine de roche",
+            "group": "Coûts et prix",
+            "title": "isolation combles perdus prix m2",
             "intent": "commercial",
             "keywords": [
-                "laine de roche",
-                "isolation projetée",
-                "laine de roche rockwool",
-                "laine de roche soufflée",
-                "isolation soufflée",
-                "laine de roche 200mm"
+                "isolation combles perdus prix m2",
+                "coût isolation",
+                "résistance thermique",
+                "transfert thermique",
+                "transfert_thermique",
+                "épaisseur isolation",
+                "isolation thermique",
+                "isolation thermique par l'extérieur",
+                "isolation thermique fenetre",
+                "isolation thermique extérieure",
+                "isolation thermique toiture",
+                "niveau d'isolation thermique d'un bâtiment",
+                "économie d'énergie",
+                "consommation énergétique des bâtiments",
+                "diagnostic de performance énergétique",
+                "performance énergétique"
             ]
         },
         {
@@ -1575,94 +1557,103 @@
             "intent": "commercial",
             "keywords": [
                 "laine de verre",
-                "frein vapeur",
-                "laine minérale",
-                "résistance thermique",
-                "épaisseur isolation",
+                "laine de roche ou laine de verre",
+                "isolation phonique",
+                "isolation rouleaux",
                 "laine de verre 100mm",
-                "laine de roche ou laine de verre"
+                "laine de verre 200mm"
             ]
         },
         {
-            "group": "Coûts et subventions",
-            "title": "isolation combles perdus prix m2",
+            "group": "Matériaux d'isolation",
+            "title": "laine de roche",
             "intent": "commercial",
             "keywords": [
-                "isolation combles perdus prix m2",
-                "diagnostic de performance énergétique",
-                "prix au m²",
-                "subvention isolation maison",
-                "subvention isolation",
-                "subvention isolation toiture"
+                "laine de roche",
+                "laine de roche rockwool",
+                "laine de roche soufflée",
+                "laine de roche 200mm"
             ]
         },
         {
-            "group": "Coûts et subventions",
-            "title": "isolation écologique",
-            "intent": "informational",
-            "keywords": [
-                "isolation écologique",
-                "aérogel"
-            ]
-        },
-        {
-            "group": "Étanchéité à l'air",
+            "group": "Techniques d'isolation",
             "title": "étanchéité à l'air",
             "intent": "informational",
             "keywords": [
                 "étanchéité à l'air",
+                "étanchéité combles",
                 "etancheite a l air d une maison",
                 "étanchéité à l'air des bâtiments",
                 "membrane d étanchéité à l'air"
+            ]
+        },
+        {
+            "group": "Techniques d'isolation",
+            "title": "isolation soufflée",
+            "intent": "informational",
+            "keywords": [
+                "isolation soufflée",
+                "isolation projetée",
+                "isolation soufflée pour combles",
+                "isolation soufflée prix m2"
+            ]
+        },
+        {
+            "group": "Isolation écologique",
+            "title": "isolation écologique",
+            "intent": "informational",
+            "keywords": [
+                "isolation écologique",
+                "aérogel",
+                "barrière vapeur",
+                "frein vapeur"
             ]
         }
     ],
     "categories": {
         "laine de verre": "core",
+        "économie d'énergie": "core",
         "isolation thermique": "core",
-        "isolation phonique": "core",
         "laine de roche": "core",
         "étanchéité à l'air": "core",
         "isolation combles perdus prix m2": "core",
-        "isolation écologique": "core",
-        "isolation phonique mur": "core",
-        "isolation phonique porte": "core",
-        "isolation phonique plafond": "core",
-        "isolation thermique par l'extérieur": "core",
+        "isolation soufflée": "core",
+        "isolation écologique": "complementary",
+        "isolation thermique par l'extérieur": "complementary",
+        "barrière vapeur": "complementary",
         "laine de roche rockwool": "core",
-        "isolation phonique sol": "core",
+        "isolation soufflée pour combles": "core",
+        "isolation soufflée prix m2": "core",
         "laine de roche ou laine de verre": "complementary",
         "laine de verre 100mm": "complementary",
+        "laine de roche echappement": "doubtful",
         "isolation thermique fenetre": "complementary",
-        "subvention isolation maison": "commercial",
         "laine de roche soufflée": "complementary",
         "etancheite a l air d une maison": "complementary",
-        "isolation thermique toiture": "complementary",
         "isolation thermique extérieure": "complementary",
+        "isolation thermique toiture": "complementary",
         "laine de roche 200mm": "complementary",
-        "subvention isolation": "commercial",
         "étanchéité à l'air des bâtiments": "complementary",
-        "isolation thermique mur interieur": "complementary",
+        "isolation thermique mur interieur": "doubtful",
         "membrane d étanchéité à l'air": "complementary",
-        "subvention isolation toiture": "commercial",
-        "laine minérale": "complementary",
-        "rouleau laine": "doubtful",
+        "isolation écologique des murs intérieurs": "doubtful",
+        "laine de verre 200mm": "complementary",
         "épaisseur isolation": "complementary",
-        "résistance thermique": "complementary",
+        "résistance thermique": "core",
         "frein vapeur": "complementary",
-        "isolation soufflée": "complementary",
-        "prix au m²": "commercial",
         "isolation projetée": "complementary",
+        "isolation rouleaux": "complementary",
         "performance énergétique": "complementary",
-        "transfert thermique": "doubtful",
-        "transfert_thermique": "doubtful",
-        "bâtiments publics": "doubtful",
-        "convection": "doubtful",
+        "étanchéité combles": "core",
+        "coût isolation": "commercial",
+        "transfert thermique": "complementary",
+        "transfert_thermique": "complementary",
         "niveau d'isolation thermique d'un bâtiment": "complementary",
         "diagnostic de performance énergétique": "complementary",
+        "isolation phonique": "complementary",
         "aérogel": "complementary",
         "consommation énergétique des bâtiments": "complementary",
         "chien de porte": "doubtful",
-        "laine de roche echappement": "doubtful"
+        "economie d'énergie iphone": "doubtful"
     }
 }
