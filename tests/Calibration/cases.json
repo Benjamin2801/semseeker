@@ -44,7 +44,7 @@
     {"expression": "nouvelle calédonie", "verdicts": ["pillar"], "page": true, "intent": "informational",
         "topics": ["voyage|tourisme", "histoire", "kanak", "climat|meteo", "carte", "lagon", "referendum|independance"],
         "why": "Un territoire : guide encyclopédique et touristique ; « nouvelle » n'y annonce aucune actualité."},
-    {"expression": "crop top", "verdicts": ["category", "pillar_commercial"], "page": true, "intent": "commercial", "gap": "Cas limite : guide complet ; la catégorie n'arrive qu'en seconde option selon le passage (Amazon plein, mais suggestions peu tournées vers l'achat)",
+    {"expression": "crop top", "verdicts": ["category", "pillar_commercial"], "page": true, "intent": "commercial",
         "topics": ["coupe|forme|ajuste|oversize", "coton|cotele|maille|matiere", "manche longue", "comment porter|tenue|look", "avec quoi|associer|jean|jupe"], "fieldGap": "Le plan suit les filtres d'une boutique (femme, homme, fille, sport) sans parler de matière ni de façon de le porter",
         "why": "Un vêtement : pages catégorie de boutiques ; « top » n'y est pas un classement."},
     {"expression": "how to tie a tie", "lang": "en", "verdicts": ["howto"], "page": true, "intent": "informational",

@@ -15,13 +15,9 @@
     "failed": [],
     "concepts": [
         "débardeur court",
-        "t-shirt court femme",
-        "haut court dentelle",
-        "haut court noir",
-        "débardeur court femme",
-        "t-shirt court homme",
-        "coordination crop top jupe",
-        "entretien haut court"
+        "t-shirt court",
+        "haut court femme",
+        "coordonnées crop top"
     ],
     "suggestions": {
         "amazon": [
@@ -148,39 +144,79 @@
             ],
             [
                 1,
-                "t-shirt court femme rose"
-            ],
-            [
-                0,
-                "haut court dentelle femme"
-            ],
-            [
-                1,
-                "haut court dentelle"
+                "t-shirt court homme"
             ],
             [
                 2,
-                "haut court dentelle debardeur"
+                "t-shirt court"
+            ],
+            [
+                3,
+                "t-shirt court adidas femme"
+            ],
+            [
+                4,
+                "t-shirt court pour enfant"
+            ],
+            [
+                5,
+                "t-shirt court col v"
+            ],
+            [
+                6,
+                "t-shirt court manche longue femme"
+            ],
+            [
+                7,
+                "t-shirt court à manches longues"
+            ],
+            [
+                8,
+                "t-shirt court femme rose"
+            ],
+            [
+                9,
+                "t-shirt court dentelle"
             ],
             [
                 0,
-                "haut court noir"
+                "haut court femme"
             ],
             [
                 1,
-                "haut court noir epaule denudee"
+                "haut court femme chic et elegant"
             ],
             [
-                0,
-                "débardeur court femme"
+                2,
+                "haut court femme crop top"
             ],
             [
-                1,
-                "débardeur court femme sport"
+                3,
+                "haut court femme crop top sexy"
             ],
             [
-                0,
-                "t-shirt court homme"
+                4,
+                "haut court femme manche longue dentelle"
+            ],
+            [
+                5,
+                "haut court femme sport rose"
+            ],
+            [
+                6,
+                "haut court femme chic"
+            ],
+            [
+                7,
+                "haut court femme hiver"
+            ],
+            [
+                8,
+                "haut court femme manche longue"
+            ],
+            [
+                9,
+                "haut court femme sport"
             ]
         ],
         "bing": [
@@ -190,79 +226,59 @@
             ],
             [
                 1,
-                "débardeur court homme"
-            ],
-            [
-                2,
-                "débardeur court femme sport"
-            ],
-            [
-                3,
-                "débardeur court blanc"
-            ],
-            [
-                4,
-                "débardeur course à pied homme"
-            ],
-            [
-                5,
                 "débardeur court"
             ],
             [
-                0,
-                "t-shirt court femme"
-            ],
-            [
-                1,
-                "t-shirt court homme"
-            ],
-            [
-                2,
-                "t shirt court femme"
-            ],
-            [
-                0,
-                "haut court en dentelle"
-            ],
-            [
-                0,
-                "débardeur court femme"
-            ],
-            [
-                1,
-                "débardeur court femme sport"
-            ],
-            [
                 2,
                 "débardeur court homme"
             ],
             [
+                3,
+                "débardeur court femme sport"
+            ],
+            [
+                4,
+                "débardeur court blanc"
+            ],
+            [
+                5,
+                "débardeur course à pied homme"
+            ],
+            [
                 0,
-                "t-shirt court homme"
+                "t-shirt court"
             ],
             [
                 1,
+                "t-shirt court fille"
+            ],
+            [
+                2,
                 "t-shirt court femme"
             ],
             [
-                2,
-                "t shirt court homme"
+                3,
+                "t-shirt court homme"
             ],
             [
-                3,
-                "court dry victory t-shirt hommes"
+                4,
+                "t shirt corteiz"
+            ],
+            [
+                5,
+                "t shirt clem qui court"
+            ],
+            [
+                6,
+                "nike court t shirt"
+            ],
+            [
+                7,
+                "court dri-fit advantage slam t-shirt herren"
             ],
             [
                 0,
-                "jupe courte crop top"
-            ],
-            [
-                1,
-                "ensemble crop top jupe longue"
-            ],
-            [
-                2,
-                "juicy couture crop top"
+                "haut court femme"
             ]
         ],
         "duckduckgo": [
@@ -292,59 +308,39 @@
             ],
             [
                 0,
+                "t-shirt court"
+            ],
+            [
+                1,
+                "t-shirt court fille"
+            ],
+            [
+                2,
                 "t-shirt court femme"
-            ],
-            [
-                1,
-                "t-shirt court homme"
-            ],
-            [
-                2,
-                "t shirt court femme"
-            ],
-            [
-                0,
-                "haut court en dentelle"
-            ],
-            [
-                0,
-                "débardeur court femme"
-            ],
-            [
-                1,
-                "débardeur court femme sport"
-            ],
-            [
-                2,
-                "débardeur court homme"
-            ],
-            [
-                0,
-                "t-shirt court homme"
-            ],
-            [
-                1,
-                "t-shirt court femme"
-            ],
-            [
-                2,
-                "t shirt court homme"
             ],
             [
                 3,
-                "court dry victory t-shirt hommes"
+                "t-shirt court homme"
+            ],
+            [
+                4,
+                "t shirt corteiz"
+            ],
+            [
+                5,
+                "t shirt clem qui court"
+            ],
+            [
+                6,
+                "nike court t shirt"
+            ],
+            [
+                7,
+                "court dri-fit advantage slam t-shirt herren"
             ],
             [
                 0,
-                "jupe courte crop top"
-            ],
-            [
-                1,
-                "ensemble crop top jupe longue"
-            ],
-            [
-                2,
-                "juicy couture crop top"
+                "haut court femme"
             ]
         ],
         "google": [
@@ -390,203 +386,83 @@
             ],
             [
                 0,
+                "t-shirt court"
+            ],
+            [
+                1,
                 "t-shirt court femme"
             ],
             [
-                1,
-                "t shirt court femme sport"
-            ],
-            [
                 2,
-                "t shirt court femme blanc"
-            ],
-            [
-                3,
-                "t shirt court femme kiabi"
-            ],
-            [
-                4,
-                "t shirt court femme noir"
-            ],
-            [
-                5,
-                "t shirt court femme uniqlo"
-            ],
-            [
-                6,
-                "t shirt court femme zara"
-            ],
-            [
-                7,
-                "t shirt court femme moulant"
-            ],
-            [
-                8,
-                "t shirt court femme col v"
-            ],
-            [
-                9,
-                "t shirt court femme coton"
-            ],
-            [
-                0,
-                "haut court dentelle"
-            ],
-            [
-                1,
-                "haut court dentelle femme"
-            ],
-            [
-                2,
-                "haut court dentelle blanc"
-            ],
-            [
-                3,
-                "haut court dentelle noir"
-            ],
-            [
-                4,
-                "haut court dentelle mariage"
-            ],
-            [
-                5,
-                "top court dentelle"
-            ],
-            [
-                6,
-                "top court dentelle blanc"
-            ],
-            [
-                7,
-                "top court dentelle femme"
-            ],
-            [
-                8,
-                "top court dentelle noir"
-            ],
-            [
-                9,
-                "top court dentelle zara"
-            ],
-            [
-                0,
-                "haut court noir"
-            ],
-            [
-                1,
-                "haut court noir femme"
-            ],
-            [
-                2,
-                "haut court noir manche longue"
-            ],
-            [
-                3,
-                "haut court noir zara"
-            ],
-            [
-                4,
-                "haut court noir dentelle"
-            ],
-            [
-                5,
-                "haut noir court large"
-            ],
-            [
-                6,
-                "top court noir"
-            ],
-            [
-                7,
-                "top court noir femme"
-            ],
-            [
-                8,
-                "top court noir manche longue"
-            ],
-            [
-                9,
-                "top court noir zara"
-            ],
-            [
-                0,
-                "débardeur court femme"
-            ],
-            [
-                1,
-                "débardeur court femme sport"
-            ],
-            [
-                2,
-                "débardeur court femme zara"
-            ],
-            [
-                3,
-                "haut court femme"
-            ],
-            [
-                4,
-                "haut court femme chic"
-            ],
-            [
-                5,
-                "haut court femme blanc"
-            ],
-            [
-                6,
-                "t shirt court femme"
-            ],
-            [
-                7,
-                "top court femme"
-            ],
-            [
-                8,
-                "top court femme blanc"
-            ],
-            [
-                9,
-                "t shirt court femme blanc"
-            ],
-            [
-                0,
                 "t-shirt court homme"
             ],
             [
-                1,
-                "t shirt court homme zara"
-            ],
-            [
-                2,
-                "t shirt court homme uniqlo"
-            ],
-            [
                 3,
-                "t shirt court homme blanc"
+                "t-shirt court zara"
             ],
             [
                 4,
-                "t shirt pour homme"
+                "t shirt court oversize femme"
             ],
             [
                 5,
-                "t shirt pour homme avec du ventre"
+                "t shirt court oversize"
             ],
             [
                 6,
-                "t shirt pour homme de marque"
+                "t shirt court blanc"
             ],
             [
                 7,
-                "t shirt pour homme amazon"
+                "t shirt court sport femme"
             ],
             [
                 8,
-                "t shirt pour homme musclé"
+                "t shirt court uniqlo"
             ],
             [
                 9,
-                "t shirt pour homme pas cher"
+                "t shirt court large"
+            ],
+            [
+                0,
+                "haut court femme"
+            ],
+            [
+                1,
+                "haut court femme chic"
+            ],
+            [
+                2,
+                "haut court femme zara"
+            ],
+            [
+                3,
+                "haut court femme manche longue"
+            ],
+            [
+                4,
+                "haut court femme blanc"
+            ],
+            [
+                5,
+                "haut court femme dentelle"
+            ],
+            [
+                6,
+                "haut court femme noir"
+            ],
+            [
+                7,
+                "haut court femme habillé"
+            ],
+            [
+                8,
+                "haut court femme enceinte"
+            ],
+            [
+                9,
+                "haut court femme shein"
             ]
         ],
         "yahoo": [
@@ -600,7 +476,7 @@
             ],
             [
                 0,
-                "t-shirt femme"
+                "t-shirt court"
             ],
             [
                 1,
@@ -608,135 +484,67 @@
             ],
             [
                 2,
-                "t-shirt femme zalando"
+                "t shirt court oversize"
             ],
             [
                 3,
-                "t-shirt femme manches 3/4"
+                "t shirt court et large"
+            ],
+            [
+                0,
+                "haut femme"
+            ],
+            [
+                1,
+                "haut court femme"
+            ],
+            [
+                2,
+                "haut femme chic"
+            ],
+            [
+                3,
+                "haut femme habillé"
             ],
             [
                 4,
-                "t-shirt femme manches longues"
+                "haut femme original"
             ],
             [
                 5,
-                "t-shirt femme long"
+                "haut femme crochet"
             ],
             [
                 6,
-                "t-shirt femme schein"
+                "haut femme dentelle"
             ],
             [
                 7,
-                "t-shirt femme coton"
+                "haut femme rouge"
             ],
             [
                 8,
-                "t-shirt femme place des tendances"
+                "haut femme en lin"
             ],
             [
                 9,
-                "t-shirt femme jaune"
+                "haut femme shein"
             ],
             [
                 0,
-                "haut dentelle"
+                "coordonnees crop top définition"
             ],
             [
                 1,
-                "haut dentelle noire"
+                "coordonnees crop tops"
             ],
             [
                 2,
-                "haut dentelle blanc"
+                "coordonnees crop top blanc"
             ],
             [
                 3,
-                "haut dentelle femme"
-            ],
-            [
-                0,
-                "haut court noir de marque"
-            ],
-            [
-                0,
-                "débardeur femme"
-            ],
-            [
-                1,
-                "débardeur court femme"
-            ],
-            [
-                2,
-                "débardeur femme coton"
-            ],
-            [
-                3,
-                "débardeur femme en laine"
-            ],
-            [
-                4,
-                "débardeur femme grande taille"
-            ],
-            [
-                5,
-                "débardeur femme blanc"
-            ],
-            [
-                6,
-                "débardeur femme en lin"
-            ],
-            [
-                7,
-                "débardeur femme zara"
-            ],
-            [
-                8,
-                "débardeur femme asos"
-            ],
-            [
-                9,
-                "débardeur femme chic"
-            ],
-            [
-                0,
-                "t shirt court homme moderne"
-            ],
-            [
-                1,
-                "t shirt court homme musclé"
-            ],
-            [
-                2,
-                "t shirt court homme de"
-            ],
-            [
-                3,
-                "t shirt court homme moche"
-            ],
-            [
-                0,
-                "coordination crop top jupe longue"
-            ],
-            [
-                1,
-                "coordination crop top jupe crayon"
-            ],
-            [
-                2,
-                "coordination crop top jupe culotte"
-            ],
-            [
-                3,
-                "coordination crop top jupes"
-            ],
-            [
-                0,
-                "entretien haut court femme"
-            ],
-            [
-                1,
-                "entretien haut court noir de marque"
+                "coordonnees crop top femme"
             ]
         ],
         "youtube": [
@@ -750,7 +558,23 @@
             ],
             [
                 0,
-                "t-shirt pour homme"
+                "t-shirt court"
+            ],
+            [
+                1,
+                "t- shirt lower cord set"
+            ],
+            [
+                2,
+                "jeans t-shirt court"
+            ],
+            [
+                3,
+                "chahal t shirt in court"
+            ],
+            [
+                4,
+                "yuzi t shirt in court"
             ]
         ]
     },
@@ -770,38 +594,39 @@
     "pages": [
         {
             "group": "Types de Crop Tops",
-            "title": "crop top homme",
-            "intent": "commercial",
-            "keywords": [
-                "crop top homme",
-                "t shirt court homme moderne",
-                "t-shirt court",
-                "débardeur court femme",
-                "débardeur court",
-                "débardeur court femme sport",
-                "débardeur court homme",
-                "débardeur court blanc",
-                "t-shirt court homme"
-            ]
-        },
-        {
-            "group": "Types de Crop Tops",
             "title": "crop top femme",
             "intent": "commercial",
             "keywords": [
                 "crop top femme",
-                "crop top manche longue",
-                "crop top noir femme",
-                "crop top sport",
-                "crop top ample",
-                "crop top à bretelles",
-                "crop top à manches",
-                "haut court moulant",
+                "t-shirt court femme",
+                "haut femme",
+                "crop top dentelle",
+                "coordonnées avec crop top",
+                "durée de vie crop top",
+                "entretien crop top",
                 "haut de vêtement",
-                "crop top noir",
-                "haut court noir",
+                "nombril",
+                "prix crop top",
+                "problèmes crop top",
+                "taille crop top",
+                "tendances crop top",
+                "vêtement",
                 "crop top blanc",
-                "t-shirt court femme"
+                "crop top noir",
+                "crop top noir femme",
+                "crop top manche longue",
+                "haut court femme manche longue"
+            ]
+        },
+        {
+            "group": "Types de Crop Tops",
+            "title": "crop top homme",
+            "intent": "commercial",
+            "keywords": [
+                "crop top homme",
+                "t-shirt court",
+                "t-shirt court homme",
+                "débardeur court homme"
             ]
         },
         {
@@ -810,104 +635,112 @@
             "intent": "commercial",
             "keywords": [
                 "crop top fille",
+                "t-shirt court fille",
                 "crop top crochet fillette"
             ]
         },
         {
-            "group": "Styles et Matériaux",
-            "title": "haut court en dentelle",
-            "intent": "commercial",
-            "keywords": [
-                "haut court en dentelle",
-                "crop top dentelle",
-                "haut court noir de marque",
-                "haut dentelle",
-                "haut court dentelle femme"
-            ]
-        },
-        {
-            "group": "Styles et Matériaux",
-            "title": "crop top crochet",
-            "intent": "informational",
-            "keywords": [
-                "crop top crochet",
-                "crop top aloise sauvage",
-                "haut court crochet"
-            ]
-        },
-        {
-            "group": "Définitions et Tendances",
+            "group": "Types de Crop Tops",
             "title": "crop top définition",
             "intent": "informational",
             "keywords": [
                 "crop top définition",
                 "mode au xxe siècle",
-                "crop top sexy"
+                "types de crop top"
             ]
         },
         {
-            "group": "Tenues et Coordination",
-            "title": "coordination crop top jupe longue",
-            "intent": "informational",
+            "group": "Styles et Occasions",
+            "title": "débardeur court femme sport",
+            "intent": "commercial",
             "keywords": [
-                "coordination crop top jupe longue",
-                "jupe courte crop top",
-                "ensemble crop top jupe longue"
+                "débardeur court femme sport",
+                "débardeur court femme",
+                "débardeur court",
+                "crop top sport femme",
+                "crop top sport",
+                "débardeur court blanc"
             ]
         },
         {
-            "group": "Entretien et Conseils",
-            "title": "entretien haut court femme",
+            "group": "Styles et Occasions",
+            "title": "crop top sexy",
+            "intent": "commercial",
+            "keywords": [
+                "crop top sexy",
+                "haut court femme",
+                "haut court femme chic",
+                "haut court femme chic et elegant",
+                "t shirt court oversize"
+            ]
+        },
+        {
+            "group": "Matériaux et Techniques",
+            "title": "crop top crochet",
             "intent": "informational",
             "keywords": [
-                "entretien haut court femme",
+                "crop top crochet",
+                "haut court crochet"
+            ]
+        },
+        {
+            "group": "Tendances et Influences",
+            "title": "crop top aloise sauvage",
+            "intent": "informational",
+            "keywords": [
+                "crop top aloise sauvage",
                 "crop top try on haul"
             ]
         }
     ],
     "categories": {
         "crop top femme": "core",
+        "t-shirt court": "core",
         "crop top blanc": "core",
         "crop top homme": "core",
-        "débardeur court femme": "complementary",
-        "t-shirt court femme": "complementary",
-        "t-shirt court homme": "core",
-        "débardeur court": "complementary",
-        "haut court en dentelle": "core",
+        "débardeur court femme": "core",
+        "haut court femme": "core",
+        "débardeur court": "core",
+        "t-shirt court femme": "core",
         "crop top fille": "core",
         "crop top noir": "core",
-        "débardeur court femme sport": "complementary",
+        "t-shirt court homme": "core",
         "crop top définition": "core",
-        "débardeur court homme": "core",
-        "haut court noir": "complementary",
-        "haut court dentelle femme": "complementary",
+        "débardeur court homme": "complementary",
+        "débardeur court femme sport": "complementary",
         "crop top crochet": "complementary",
-        "t-shirt pour homme": "doubtful",
         "débardeur court blanc": "complementary",
         "crop top manche longue": "complementary",
-        "crop top aloise sauvage": "complementary",
+        "haut court femme chic": "complementary",
+        "t shirt court oversize": "complementary",
+        "crop top aloise sauvage": "commercial",
         "crop top sexy": "complementary",
         "crop top noir femme": "complementary",
         "crop top try on haul": "complementary",
-        "jupe courte crop top": "complementary",
-        "coordination crop top jupe longue": "complementary",
+        "coordonnees crop top définition": "doubtful",
         "crop top crochet fillette": "complementary",
-        "entretien haut court femme": "complementary",
         "haut court crochet": "complementary",
-        "haut court noir de marque": "commercial",
-        "haut dentelle": "complementary",
-        "t shirt court homme moderne": "complementary",
-        "ensemble crop top jupe longue": "complementary",
+        "haut femme": "complementary",
+        "haut court femme manche longue": "complementary",
+        "t-shirt court fille": "complementary",
+        "coordonnees crop tops": "doubtful",
+        "haut court femme chic et elegant": "complementary",
+        "crop top sport femme": "complementary",
+        "types de crop top": "core",
+        "taille crop top": "core",
+        "prix crop top": "commercial",
+        "entretien crop top": "core",
+        "durée de vie crop top": "core",
+        "coordonnées avec crop top": "core",
+        "problèmes crop top": "core",
+        "tendances crop top": "core",
         "crop top dentelle": "complementary",
         "crop top sport": "complementary",
-        "t-shirt court": "core",
-        "haut court moulant": "complementary",
-        "crop top ample": "core",
-        "crop top à manches": "core",
-        "crop top à bretelles": "core",
+        "vêtement": "complementary",
+        "nombril": "complementary",
         "haut de vêtement": "complementary",
         "mode au xxe siècle": "complementary",
-        "débardeur femme": "doubtful",
-        "t-shirt femme": "doubtful"
+        "marcel courthiade": "doubtful",
+        "t- shirt lower cord set": "doubtful"
     }
 }

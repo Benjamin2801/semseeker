@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "école de pilotage",
-        "licence de pilote de ligne",
-        "salaire pilote de ligne",
-        "test psychotechnique pilote",
-        "simulateur de vol",
-        "compagnie aérienne recrutement",
-        "heures de vol requises",
-        "sécurité aérienne"
+        "licence de pilote professionnel",
+        "test d'admission pilote",
+        "stage en compagnie aérienne",
+        "aviation commerciale",
+        "sécurité aérienne",
+        "météorologie aviation",
+        "gestion du stress pilote"
     ],
     "suggestions": {
         "amazon": [
@@ -89,46 +89,6 @@
         "amazon": [
             [
                 0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "palonnier simulateur de vol"
-            ],
-            [
-                2,
-                "cockpit simulateur de vol"
-            ],
-            [
-                3,
-                "simulateur de vol pc"
-            ],
-            [
-                4,
-                "simulateur de vol ps5"
-            ],
-            [
-                5,
-                "simulateur de vol ps4"
-            ],
-            [
-                6,
-                "simulateur de vol professionnel"
-            ],
-            [
-                7,
-                "simulateur de vol rc"
-            ],
-            [
-                8,
-                "simulateur de vol airbus"
-            ],
-            [
-                9,
-                "simulateur de vol xbox"
-            ],
-            [
-                0,
                 "sécurité aérienne"
             ]
         ],
@@ -183,7 +143,7 @@
             ],
             [
                 0,
-                "licence de pilote de ligne"
+                "licence de pilote professionnel avion"
             ],
             [
                 1,
@@ -191,191 +151,107 @@
             ],
             [
                 2,
-                "diplôme de pilote de ligne"
+                "licence de pilote professionnel cpl"
             ],
             [
                 3,
+                "licence de pilote de ligne"
+            ],
+            [
+                4,
                 "licence de pilote privé"
             ],
             [
-                4,
-                "lycée pilote de ligne"
-            ],
-            [
                 5,
-                "licence de pilote professionnel avion"
+                "licence de pilote privé prix"
             ],
             [
                 6,
-                "devenir pilote de ligne france"
+                "licence de pilote commercial"
             ],
             [
                 7,
-                "pilote de ligne diplôme"
-            ],
-            [
-                8,
-                "devenir pilote de ligne"
-            ],
-            [
-                9,
-                "quel lycée pour devenir pilote de ligne"
-            ],
-            [
-                10,
-                "devenir pilote de ligne prix"
-            ],
-            [
-                11,
                 "licence de pilote privé avion"
             ],
             [
-                0,
-                "salaire pilote de ligne"
-            ],
-            [
-                1,
-                "salaire pilote de ligne air france"
-            ],
-            [
-                2,
-                "salaire pilote de ligne débutant"
-            ],
-            [
-                3,
-                "salaire pilote de ligne ryanair"
-            ],
-            [
-                4,
-                "salaire pilote de ligne emirates"
-            ],
-            [
-                5,
-                "salaire pilote de ligne suisse"
-            ],
-            [
-                6,
-                "salaire pilote de ligne usa"
-            ],
-            [
-                7,
-                "salaire pilote de ligne qatar"
-            ],
-            [
                 8,
-                "salaire pilote de ligne luxair"
+                "prix licence pilote avion"
             ],
             [
                 9,
-                "salaire pilote de ligne easyjet"
+                "licence de pilote d'avion léger"
             ],
             [
                 10,
-                "salaire pilote de ligne par mois"
+                "licence de pilotage avion"
             ],
             [
                 11,
-                "salaire pilote de ligne transavia"
+                "licence pilote de drone"
             ],
             [
                 0,
-                "test psychotechnique pilote"
+                "stage compagnie aérienne"
             ],
             [
                 1,
-                "test psychotechnique pilote de ligne"
+                "stage dans un aéroport"
             ],
             [
                 2,
-                "test psychotechnique pilote de chasse"
-            ],
-            [
-                0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "simulateur de vol gratuit"
-            ],
-            [
-                2,
-                "simulateur de vol en ligne"
+                "stage seconde base aérienne"
             ],
             [
                 3,
-                "simulateur de vol pc"
+                "stage aéroport de paris"
             ],
             [
                 4,
-                "simulateur de vol google earth"
+                "stage chez air france"
             ],
             [
                 5,
-                "simulateur de vol rc"
+                "aeroport de paris stage"
             ],
             [
                 6,
-                "simulateur de vol jeux"
+                "offre de stage air france"
             ],
             [
                 7,
-                "simulateur de vol ps5"
+                "stage de seconde aéroport"
             ],
             [
                 8,
-                "simulateur de vol gratuit pc"
+                "stage de 3ème aéroport"
             ],
             [
                 9,
-                "simulateur de vol paris"
+                "offre de stage aéronautique"
             ],
             [
                 10,
-                "simulateur de vol gratuit français"
+                "faire un stage chez air france"
             ],
             [
                 11,
-                "simulateur de vol rc gratuit français"
+                "stage seconde air france"
             ],
             [
                 0,
-                "compagnie aérienne recrutement"
+                "aviation commerciale"
             ],
             [
                 1,
-                "compagnie aérienne recrutement pnc"
-            ],
-            [
-                0,
-                "calculer heures de vol"
-            ],
-            [
-                1,
-                "les horaires de vol"
+                "aviation commercial pilot"
             ],
             [
                 2,
-                "jours et horaires de vol"
+                "aviation commercial pilot requirements"
             ],
             [
                 3,
-                "combien d'heure de vol"
-            ],
-            [
-                4,
-                "heure de vol avion"
-            ],
-            [
-                5,
-                "combien d'heure arriver avant un vol"
-            ],
-            [
-                6,
-                "heure d'arrivée avant un vol"
-            ],
-            [
-                7,
-                "comment connaître l'heure d'arrivée d'un vol"
+                "aviation française commerciale"
             ],
             [
                 0,
@@ -400,6 +276,62 @@
             [
                 5,
                 "agence européenne de sécurité aérienne"
+            ],
+            [
+                0,
+                "meteorology aviation"
+            ],
+            [
+                1,
+                "cae meteorologie aviation"
+            ],
+            [
+                0,
+                "gestion du stress professionnel"
+            ],
+            [
+                1,
+                "gestion du stress pdf"
+            ],
+            [
+                2,
+                "la gestion du stress"
+            ],
+            [
+                3,
+                "application gestion du stress"
+            ],
+            [
+                4,
+                "gestion du stress pdf gratuit"
+            ],
+            [
+                5,
+                "gestion du stress formation"
+            ],
+            [
+                6,
+                "gestion du stress en milieu professionnel"
+            ],
+            [
+                7,
+                "programme gestion du stress"
+            ],
+            [
+                8,
+                "video gestion du stress"
+            ],
+            [
+                9,
+                "gestion du stress vidéo"
+            ],
+            [
+                10,
+                "gestion du stress au travail"
+            ],
+            [
+                11,
+                "gestion du stress technique"
             ]
         ],
         "duckduckgo": [
@@ -437,7 +369,7 @@
             ],
             [
                 0,
-                "licence de pilote de ligne"
+                "licence de pilote professionnel avion"
             ],
             [
                 1,
@@ -445,143 +377,75 @@
             ],
             [
                 2,
-                "diplôme de pilote de ligne"
+                "licence de pilote professionnel cpl"
             ],
             [
                 3,
+                "licence de pilote de ligne"
+            ],
+            [
+                4,
                 "licence de pilote privé"
             ],
             [
-                4,
-                "lycée pilote de ligne"
-            ],
-            [
                 5,
-                "licence de pilote professionnel avion"
+                "licence de pilote privé prix"
             ],
             [
                 6,
-                "devenir pilote de ligne france"
+                "licence de pilote commercial"
             ],
             [
                 7,
-                "pilote de ligne diplôme"
+                "licence de pilote privé avion"
             ],
             [
                 0,
-                "salaire pilote de ligne"
+                "stage compagnie aérienne"
             ],
             [
                 1,
-                "salaire pilote de ligne air france"
+                "stage dans un aéroport"
             ],
             [
                 2,
-                "salaire pilote de ligne débutant"
+                "stage seconde base aérienne"
             ],
             [
                 3,
-                "salaire pilote de ligne ryanair"
+                "stage aéroport de paris"
             ],
             [
                 4,
-                "salaire pilote de ligne emirates"
+                "stage chez air france"
             ],
             [
                 5,
-                "salaire pilote de ligne suisse"
+                "aeroport de paris stage"
             ],
             [
                 6,
-                "salaire pilote de ligne usa"
+                "offre de stage air france"
             ],
             [
                 7,
-                "salaire pilote de ligne qatar"
+                "stage de seconde aéroport"
             ],
             [
                 0,
-                "test psychotechnique pilote"
+                "aviation commerciale"
             ],
             [
                 1,
-                "test psychotechnique pilote de ligne"
+                "aviation commercial pilot"
             ],
             [
                 2,
-                "test psychotechnique pilote de chasse"
-            ],
-            [
-                0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "simulateur de vol gratuit"
-            ],
-            [
-                2,
-                "simulateur de vol en ligne"
+                "aviation commercial pilot requirements"
             ],
             [
                 3,
-                "simulateur de vol pc"
-            ],
-            [
-                4,
-                "simulateur de vol google earth"
-            ],
-            [
-                5,
-                "simulateur de vol paris"
-            ],
-            [
-                6,
-                "simulateur de vol lyon"
-            ],
-            [
-                7,
-                "simulateur de vol bordeaux"
-            ],
-            [
-                0,
-                "compagnie aérienne recrutement"
-            ],
-            [
-                1,
-                "compagnie aérienne recrutement pnc"
-            ],
-            [
-                0,
-                "calculer heures de vol"
-            ],
-            [
-                1,
-                "les horaires de vol"
-            ],
-            [
-                2,
-                "jours et horaires de vol"
-            ],
-            [
-                3,
-                "combien d'heure de vol"
-            ],
-            [
-                4,
-                "heure de vol avion"
-            ],
-            [
-                5,
-                "combien d'heure arriver avant un vol"
-            ],
-            [
-                6,
-                "heure d'arrivée avant un vol"
-            ],
-            [
-                7,
-                "comment connaître l'heure d'arrivée d'un vol"
+                "aviation française commerciale"
             ],
             [
                 0,
@@ -606,12 +470,46 @@
             [
                 5,
                 "agence européenne de sécurité aérienne"
-            ]
-        ],
-        "ebay": [
+            ],
             [
                 0,
-                "simulateur de vol."
+                "meteorology aviation"
+            ],
+            [
+                1,
+                "cae meteorologie aviation"
+            ],
+            [
+                0,
+                "gestion du stress professionnel"
+            ],
+            [
+                1,
+                "gestion du stress pdf"
+            ],
+            [
+                2,
+                "la gestion du stress"
+            ],
+            [
+                3,
+                "application gestion du stress"
+            ],
+            [
+                4,
+                "gestion du stress pdf gratuit"
+            ],
+            [
+                5,
+                "gestion du stress formation"
+            ],
+            [
+                6,
+                "gestion du stress en milieu professionnel"
+            ],
+            [
+                7,
+                "programme gestion du stress"
             ]
         ],
         "google": [
@@ -657,175 +555,51 @@
             ],
             [
                 0,
-                "licence de pilote de ligne"
+                "licence de pilote professionnel"
             ],
             [
                 1,
-                "licence de pilote de ligne prix"
+                "licence de pilote professionnel d'hélicoptères cpl (h) ir théorique"
             ],
             [
                 2,
-                "licence de pilote de ligne atpl"
+                "licence de pilote professionnel prix"
             ],
             [
                 3,
-                "licence de pilote de ligne théorique atpl"
+                "licence de pilote professionnel cpl"
             ],
             [
                 4,
-                "licence de pilote de ligne théorique"
+                "licence de pilote professionnel avion cpl a"
             ],
             [
                 5,
-                "licence de conducteur de lignes"
+                "licence de pilote professionnel avion"
             ],
             [
                 6,
-                "brevet de pilote de ligne"
+                "licence de pilote professionnel hélicoptère cpl h"
             ],
             [
                 7,
-                "brevet de pilote de ligne prix"
+                "licence de pilote professionnel hélicoptère"
             ],
             [
                 8,
-                "licence pilote de ligne canada"
-            ],
-            [
-                0,
-                "salaire pilote de ligne"
-            ],
-            [
-                1,
-                "salaire pilote de ligne air france"
-            ],
-            [
-                2,
-                "salaire pilote de ligne emirates"
-            ],
-            [
-                3,
-                "salaire pilote de ligne volotea"
-            ],
-            [
-                4,
-                "salaire pilote de ligne suisse"
-            ],
-            [
-                5,
-                "salaire pilote de ligne france"
-            ],
-            [
-                6,
-                "salaire pilote de ligne qatar airways"
-            ],
-            [
-                7,
-                "salaire pilote de ligne net"
-            ],
-            [
-                8,
-                "salaire pilote de ligne usa"
+                "licence de pilote professionnel d hélicoptères cpl"
             ],
             [
                 9,
-                "salaire pilote de ligne suisse en euro"
+                "licence de pilote professionnel d'hélicoptère cpl (h) ir"
             ],
             [
                 0,
-                "test psychotechnique pilote pdf"
-            ],
-            [
-                1,
-                "test psychotechnique pilote de ligne"
-            ],
-            [
-                2,
-                "test psychotechnique pilote"
-            ],
-            [
-                3,
-                "test psychotechnique pilote de chasse"
-            ],
-            [
-                4,
-                "test psychotechnique pilote avion"
-            ],
-            [
-                5,
-                "test psychotechnique pilote de ligne pdf"
-            ],
-            [
-                6,
-                "test psychotechnique pilote hélicoptère"
-            ],
-            [
-                7,
-                "test psychotechnique pilote air france"
-            ],
-            [
-                8,
-                "test psychotechnique pilotest"
-            ],
-            [
-                9,
-                "test psychologique pilote de ligne"
+                "stage en compagnie aerienne"
             ],
             [
                 0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "simulateur de vol lyon"
-            ],
-            [
-                2,
-                "simulateur de vol pc"
-            ],
-            [
-                3,
-                "simulateur de vol en ligne gratuit"
-            ],
-            [
-                4,
-                "simulateur de vol google earth"
-            ],
-            [
-                5,
-                "simulateur de vol ps5"
-            ],
-            [
-                6,
-                "simulateur de vol aix les bains"
-            ],
-            [
-                7,
-                "simulateur de vol paris"
-            ],
-            [
-                8,
-                "simulateur de vol gratuit"
-            ],
-            [
-                9,
-                "simulateur de vol sur pc gratuit"
-            ],
-            [
-                0,
-                "compagnie aérienne recrutement"
-            ],
-            [
-                1,
-                "compagnie aérienne recrutement pnc"
-            ],
-            [
-                2,
-                "compagnie aérienne recrutement agent d escale"
-            ],
-            [
-                0,
-                "heures de vol minimum ppl"
+                "aviation commerciale"
             ],
             [
                 0,
@@ -866,12 +640,48 @@
             [
                 9,
                 "sécurité aérienne france"
+            ],
+            [
+                0,
+                "météorologie aviation"
+            ],
+            [
+                1,
+                "meteo aviation"
+            ],
+            [
+                2,
+                "meteo aviation france"
+            ],
+            [
+                3,
+                "meteo aviation guide"
+            ],
+            [
+                4,
+                "meteorology aviation"
+            ],
+            [
+                5,
+                "meteorology for aviation pdf"
+            ],
+            [
+                6,
+                "meteorology aviation book"
+            ],
+            [
+                7,
+                "meteorology aviation jobs"
             ]
         ],
         "indeed": [
             [
                 0,
-                "simulateur de vol"
+                "stage compagnie aerienne"
+            ],
+            [
+                0,
+                "animation commerciale"
             ]
         ],
         "yahoo": [
@@ -905,111 +715,67 @@
             ],
             [
                 0,
-                "licence de pilote de ligne salaire"
+                "licence de pilote professionnels"
             ],
             [
                 1,
-                "licence de pilote de ligne formation"
+                "licence de pilote professionnel définition"
             ],
             [
                 2,
-                "licence de pilote de ligne air france"
+                "licence de pilote professionnel rge"
             ],
             [
                 3,
-                "licence de pilote de ligne en 2 lettres"
+                "licence de pilote professionnel société"
             ],
             [
                 0,
-                "salaire pilote de ligne"
+                "test d admission pilote imprimante"
             ],
             [
                 1,
-                "salaire pilote de ligne air france"
+                "test d admission pilote hp"
             ],
             [
                 2,
-                "salaire d'un pilote de ligne"
+                "test d admission pilote nvidia"
             ],
             [
                 3,
-                "salaire moyen pilote de ligne"
-            ],
-            [
-                4,
-                "salaire de pilote de ligne"
-            ],
-            [
-                5,
-                "salaire arkema pilote de ligne"
+                "test d admission pilotes"
             ],
             [
                 0,
-                "test psychotechnique pilote"
+                "stage en compagnie aérienne low cost"
             ],
             [
                 1,
-                "test pilote"
-            ],
-            [
-                0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "simulateur de vol gratuit"
+                "stage en compagnie aérienne vueling"
             ],
             [
                 2,
-                "simulateur de vol pc"
+                "stage en compagnie aérienne xl airways"
             ],
             [
                 3,
-                "simulateur de vol paris"
-            ],
-            [
-                4,
-                "simulateur de vol en ligne"
-            ],
-            [
-                5,
-                "simulateur de vol avion"
-            ],
-            [
-                6,
-                "simulateur de vol google earth"
-            ],
-            [
-                7,
-                "simulateur de vol pour mac"
-            ],
-            [
-                8,
-                "simulateur de vol lyon"
-            ],
-            [
-                9,
-                "simulateur de vol lille"
+                "stage en compagnie aérienne portugaise"
             ],
             [
                 0,
-                "compagnie aérienne récrutement"
+                "aviation commerciale femme"
             ],
             [
                 1,
-                "compagnie aérienne recrutement sncf"
+                "aviation commerciales"
             ],
             [
                 2,
-                "compagnie aérienne recrutement leclerc"
+                "aviation commerciale banque"
             ],
             [
                 3,
-                "compagnie aérienne recrutement carrefour"
-            ],
-            [
-                0,
-                "heures de vol requises définition"
+                "aviation commerciale grandblaise"
             ],
             [
                 0,
@@ -1026,6 +792,38 @@
             [
                 3,
                 "sécurité aérienne mots"
+            ],
+            [
+                0,
+                "meteorologie aviation civile"
+            ],
+            [
+                1,
+                "meteorologie aviation militaire"
+            ],
+            [
+                2,
+                "meteorologie aviation weather"
+            ],
+            [
+                3,
+                "meteorologie aviation sans"
+            ],
+            [
+                0,
+                "gestion du stress pilote imprimante"
+            ],
+            [
+                1,
+                "gestion du stress pilote hp"
+            ],
+            [
+                2,
+                "gestion du stress pilote nvidia"
+            ],
+            [
+                3,
+                "gestion du stress pilotes"
             ]
         ],
         "youtube": [
@@ -1071,63 +869,51 @@
             ],
             [
                 0,
-                "salaire pilote de ligne"
-            ],
-            [
-                1,
-                "salaire d'un pilote de ligne air france"
-            ],
-            [
-                0,
-                "test psychotechnique pilote de ligne"
-            ],
-            [
-                1,
-                "test psychotechnique pilote"
-            ],
-            [
-                0,
-                "simulateur de vol"
-            ],
-            [
-                1,
-                "simulateur de vol maison"
-            ],
-            [
-                2,
-                "simulateur de vol ps5"
-            ],
-            [
-                3,
-                "simulateur de vol pc"
-            ],
-            [
-                4,
-                "simulateur de vol helicoptere"
-            ],
-            [
-                5,
-                "simulateur de vol avion de chasse"
-            ],
-            [
-                6,
-                "simulateur de vol a320"
-            ],
-            [
-                7,
-                "simulateur de vol gratuit pc"
-            ],
-            [
-                8,
-                "simulateur de vol rc"
-            ],
-            [
-                9,
-                "simulateur de vol google earth"
+                "flight simulator 2024 licence de pilote professionnel"
             ],
             [
                 0,
                 "sécurité aérienne"
+            ],
+            [
+                0,
+                "meteorologie aviation"
+            ],
+            [
+                1,
+                "meteorology aviation atpl"
+            ],
+            [
+                2,
+                "meteorology aviation"
+            ],
+            [
+                3,
+                "meteorology aviation ppl"
+            ],
+            [
+                4,
+                "meteorology aviation dgca"
+            ],
+            [
+                5,
+                "meteorology aviation important questions"
+            ],
+            [
+                6,
+                "meteorology aviation clouds"
+            ],
+            [
+                7,
+                "meteorology aviation hindi"
+            ],
+            [
+                8,
+                "meteorology aviation exam"
+            ],
+            [
+                9,
+                "meteorology aviation winds"
             ]
         ]
     },
@@ -1141,15 +927,15 @@
                 "coverage": 0.611
             },
             {
-                "title": "Licence de pilote de ligne",
-                "views": 300,
+                "title": "Aviation commerciale",
+                "views": 175,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
-                "title": "Simulateur de vol",
-                "views": 232,
+                "title": "Sécurité aérienne",
+                "views": 124,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1162,8 +948,8 @@
             "tuskegee airmen",
             "ailier",
             "mitrailleur de queue",
-            "pilote instructeur",
             "airman",
+            "pilote instructeur",
             "aérostier",
             "« escadrons eagle » de la royal air force",
             "pilote privé"
@@ -1176,96 +962,111 @@
             "intent": "commercial",
             "keywords": [
                 "ecole de pilotage",
-                "allemand",
-                "anglais",
-                "avion de ligne",
-                "classe médicale 1",
-                "compétences techniques",
-                "crédits easa",
-                "heures de vol",
+                "école de pilotage de drone",
+                "avion",
+                "drone",
                 "hélicoptère",
                 "instructeur",
-                "ir",
-                "licence cpl",
-                "licence ppl",
-                "mcc",
-                "pilote d'essai",
-                "type rating",
-                "sécurité aérienne",
-                "sécurité aérienne formation",
-                "ecole de pilotage avion",
-                "avion",
+                "mécanique du vol",
                 "pilotage d'un avion",
-                "licence de pilote de ligne",
-                "atpl",
-                "ecole de pilotage france"
+                "ecole de pilotage avion",
+                "ecole de pilotage france",
+                "ecole de pilotage pegase"
             ]
         },
         {
             "group": "Formation",
-            "title": "test psychotechnique pilote",
+            "title": "licence de pilote professionnel",
             "intent": "informational",
             "keywords": [
-                "test psychotechnique pilote",
-                "test psychotechnique pilote de ligne",
-                "test psychotechnique pilote de chasse"
+                "licence de pilote professionnel",
+                "aviation commerciale",
+                "airbus a320",
+                "allemand",
+                "anglais",
+                "anglais aéronautique",
+                "boeing 737",
+                "hora de vol",
+                "simulateur de vol entraînement",
+                "licence de pilote professionnel avion",
+                "atpl",
+                "crp",
+                "licence de pilote professionnel cpl"
             ]
         },
         {
             "group": "Carrière",
-            "title": "salaire pilote de ligne",
-            "intent": "informational",
-            "keywords": [
-                "salaire pilote de ligne",
-                "salaire pilote de ligne air france",
-                "salaire pilote de ligne emirates"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "compagnie aérienne recrutement",
-            "intent": "commercial",
-            "keywords": [
-                "compagnie aérienne recrutement",
-                "pay to fly",
-                "devenir pilote de ligne air france",
-                "compagnie aérienne recrutement pnc"
-            ]
-        },
-        {
-            "group": "Simulateurs",
-            "title": "simulateur de vol",
-            "intent": "commercial",
-            "keywords": [
-                "simulateur de vol",
-                "simulateur de vol pc",
-                "simulateur de vol gratuit",
-                "simulateur de vol en ligne",
-                "simulateur de vol ps5",
-                "simulateur de vol google earth"
-            ]
-        },
-        {
-            "group": "Accès à la profession",
             "title": "devenir pilote de ligne",
             "intent": "informational",
             "keywords": [
-                "devenir pilote de ligne prix",
-                "devenir pilote de ligne à 30 ans",
+                "avion de ligne",
                 "commandant de bord",
                 "copilote",
-                "devenir pilote de ligne à 40 ans",
-                "devenir pilote de ligne sans bac",
-                "devenir pilote de ligne par l'armée",
-                "armée de l'air française"
+                "formation pilote de ligne",
+                "pilote d'essai",
+                "étapes pour devenir pilote",
+                "devenir pilote de ligne air france",
+                "aviation commerciale femme",
+                "devenir pilote de ligne enac",
+                "carrière internationale pilote",
+                "exigences médicales pilote",
+                "devenir pilote de ligne en france",
+                "comment devenir pilote de ligne"
             ]
         },
         {
-            "group": "International",
-            "title": "devenir pilote de ligne en france",
+            "group": "Carrière",
+            "title": "devenir pilote de ligne à 40 ans",
             "intent": "informational",
             "keywords": [
-                "devenir pilote de ligne en france",
+                "devenir pilote de ligne à 40 ans",
+                "armée de l'air française",
+                "devenir pilote de ligne sans bac",
+                "devenir pilote de ligne à 30 ans",
+                "devenir pilote de ligne par l'armée"
+            ]
+        },
+        {
+            "group": "Sécurité et compétences",
+            "title": "sécurité aérienne",
+            "intent": "informational",
+            "keywords": [
+                "sécurité aérienne",
+                "navigation aérienne",
+                "météorologie aviation",
+                "meteorologie aviation civile",
+                "meteorology aviation",
+                "sécurité aérienne formation"
+            ]
+        },
+        {
+            "group": "Sécurité et compétences",
+            "title": "gestion du stress professionnel",
+            "intent": "informational",
+            "keywords": [
+                "gestion du stress professionnel"
+            ]
+        },
+        {
+            "group": "Coûts et financement",
+            "title": "devenir pilote de ligne prix",
+            "intent": "commercial",
+            "keywords": [
+                "devenir pilote de ligne prix",
+                "blouson d'aviateur",
+                "coût formation pilote",
+                "pay to fly",
+                "salaire pilote de ligne",
+                "stage compagnie aérienne",
+                "compagnies aériennes recrutement",
+                "devenir pilote de ligne gratuitement"
+            ]
+        },
+        {
+            "group": "Opportunités internationales",
+            "title": "devenir pilote de ligne suisse",
+            "intent": "informational",
+            "keywords": [
                 "devenir pilote de ligne suisse",
                 "devenir pilote de ligne belgique",
                 "devenir pilote de ligne en afrique"
@@ -1273,61 +1074,70 @@
         }
     ],
     "categories": {
-        "simulateur de vol": "core",
         "sécurité aérienne": "core",
-        "salaire pilote de ligne": "core",
         "ecole de pilotage": "core",
         "devenir pilote de ligne air france": "core",
-        "simulateur de vol pc": "complementary",
-        "test psychotechnique pilote": "core",
-        "salaire pilote de ligne air france": "core",
         "ecole de pilotage avion": "core",
-        "compagnie aérienne recrutement": "core",
-        "devenir pilote de ligne à 40 ans": "complementary",
-        "test psychotechnique pilote de ligne": "core",
-        "devenir pilote de ligne sans bac": "complementary",
-        "simulateur de vol ps5": "complementary",
-        "devenir pilote de ligne en france": "complementary",
-        "simulateur de vol gratuit": "complementary",
+        "stage compagnie aérienne": "commercial",
+        "devenir pilote de ligne à 40 ans": "core",
+        "aviation commerciale": "complementary",
+        "licence de pilote professionnel": "core",
+        "meteorology aviation": "core",
+        "devenir pilote de ligne sans bac": "core",
+        "devenir pilote de ligne en france": "core",
         "devenir pilote de ligne prix": "commercial",
-        "licence de pilote de ligne": "complementary",
-        "simulateur de vol google earth": "complementary",
-        "compagnie aérienne recrutement pnc": "commercial",
-        "test psychotechnique pilote de chasse": "complementary",
+        "météorologie aviation": "core",
+        "licence de pilote professionnel avion": "complementary",
+        "licence de pilote professionnel cpl": "complementary",
+        "devenir pilote de ligne gratuitement": "commercial",
         "ecole de pilotage france": "complementary",
-        "salaire pilote de ligne emirates": "commercial",
-        "simulateur de vol en ligne": "commercial",
         "devenir pilote de ligne suisse": "complementary",
         "sécurité aérienne formation": "complementary",
         "devenir pilote de ligne belgique": "complementary",
         "devenir pilote de ligne en afrique": "complementary",
         "devenir pilote de ligne par l'armée": "complementary",
         "devenir pilote de ligne à 30 ans": "complementary",
-        "simulateur de vol rc": "doubtful",
+        "école de pilotage de drone": "complementary",
+        "ecole de pilotage pegase": "complementary",
+        "gestion du stress professionnel": "complementary",
+        "aviation commerciale femme": "complementary",
+        "comment devenir pilote de ligne": "complementary",
+        "devenir pilote de ligne enac": "complementary",
+        "flight simulator 2024 licence de pilote professionnel": "doubtful",
+        "gestion du stress pilote imprimante": "doubtful",
+        "meteorologie aviation civile": "complementary",
+        "formation pilote de ligne": "core",
+        "coût formation pilote": "commercial",
+        "salaire pilote de ligne": "commercial",
+        "étapes pour devenir pilote": "core",
+        "exigences médicales pilote": "core",
+        "compagnies aériennes recrutement": "commercial",
+        "simulateur de vol entraînement": "complementary",
+        "carrière internationale pilote": "core",
         "atpl": "core",
-        "licence ppl": "core",
-        "licence cpl": "core",
-        "ir": "core",
-        "mcc": "core",
-        "type rating": "core",
-        "crédits easa": "core",
-        "classe médicale 1": "core",
-        "heures de vol": "core",
-        "compétences techniques": "core",
+        "hora de vol": "core",
+        "airbus a320": "core",
+        "boeing 737": "core",
+        "crp": "core",
+        "commandant de bord": "core",
+        "navigation aérienne": "core",
+        "mécanique du vol": "core",
+        "anglais aéronautique": "core",
         "anglais": "complementary",
         "allemand": "complementary",
         "armée de l'air française": "complementary",
+        "drone": "complementary",
         "avion": "complementary",
         "hélicoptère": "complementary",
         "avion de ligne": "complementary",
         "instructeur": "complementary",
         "pilotage d'un avion": "complementary",
         "pilote d'essai": "complementary",
+        "personnalités pilotes": "doubtful",
+        "blouson d'aviateur": "commercial",
         "pay to fly": "commercial",
         "copilote": "complementary",
-        "commandant de bord": "complementary",
         "école de pilotage automobile": "doubtful",
-        "devenir pilote de ligne gratuitement": "doubtful",
-        "salaire pilote de ligne suisse": "doubtful"
+        "animation commerciale": "doubtful"
     }
 }

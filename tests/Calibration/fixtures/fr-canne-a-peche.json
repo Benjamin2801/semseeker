@@ -14,10 +14,14 @@
     ],
     "failed": [],
     "concepts": [
+        "matériel de pêche",
+        "moulinet",
+        "pêche à la truite",
+        "pêche en mer",
         "réparation canne à pêche",
         "permis de pêche",
-        "étui canne à pêche",
-        "pêche en mer"
+        "leurres souples",
+        "sac à canne"
     ],
     "suggestions": {
         "amazon": [
@@ -105,43 +109,91 @@
         "amazon": [
             [
                 0,
-                "réparation canne à pêche"
+                "matériel de pêche"
             ],
             [
                 1,
-                "réparation canne à pêche carbone"
-            ],
-            [
-                0,
-                "permis de pêche"
-            ],
-            [
-                0,
-                "étui canne à pêche"
-            ],
-            [
-                1,
-                "étui canne à pêche rigide"
+                "matériel de pêche à la carpe"
             ],
             [
                 2,
-                "étui canne à pêche voyage"
+                "matériel de pêche en mer"
             ],
             [
                 3,
-                "étui canne à pêche rigide pour avion"
+                "matériel de pêche au coup"
             ],
             [
                 4,
-                "étui canne à pêche savage gear"
+                "matériel de pêche amazon"
             ],
             [
                 5,
-                "étui canne à pêche 160 cm"
+                "matériel de pêche carnassier"
             ],
             [
                 6,
-                "étui canne à pêche souple"
+                "matériel de pêche à la truite"
+            ],
+            [
+                7,
+                "matériel de pêche en mer surfcasting"
+            ],
+            [
+                8,
+                "matériel de pêche en mer nuit"
+            ],
+            [
+                9,
+                "matériel de pêche pour la carpe"
+            ],
+            [
+                0,
+                "moulinet de pêche"
+            ],
+            [
+                1,
+                "moulinet casting"
+            ],
+            [
+                2,
+                "moulinette manuelle"
+            ],
+            [
+                3,
+                "moulinet de pêche en mer"
+            ],
+            [
+                4,
+                "moulinette fromage râpé"
+            ],
+            [
+                5,
+                "moulinet"
+            ],
+            [
+                6,
+                "moulinet carpe"
+            ],
+            [
+                7,
+                "moulinet shimano"
+            ],
+            [
+                8,
+                "moulinet daiwa"
+            ],
+            [
+                9,
+                "moulinette"
+            ],
+            [
+                0,
+                "pêche à la truite"
+            ],
+            [
+                1,
+                "pêche à la truite toc"
             ],
             [
                 0,
@@ -174,9 +226,257 @@
             [
                 7,
                 "pêche en mer matériel lumineux"
+            ],
+            [
+                0,
+                "réparation canne à pêche"
+            ],
+            [
+                1,
+                "réparation canne à pêche carbone"
+            ],
+            [
+                0,
+                "permis de pêche"
+            ],
+            [
+                0,
+                "leurres souples"
+            ],
+            [
+                1,
+                "leurres souples pêche carnassiers"
+            ],
+            [
+                2,
+                "leurres souples pêche en mer"
+            ],
+            [
+                3,
+                "leurre souple carnassier"
+            ],
+            [
+                4,
+                "leurre souple shad carnassier"
+            ],
+            [
+                5,
+                "leurres souples bar"
+            ],
+            [
+                6,
+                "leurres souples de pêche en mer bar"
+            ],
+            [
+                7,
+                "leurre souple finesse sandre perche"
+            ],
+            [
+                8,
+                "leurre souple brochet"
+            ],
+            [
+                9,
+                "leurres souples pêche"
+            ],
+            [
+                0,
+                "sac à canne à pêche"
             ]
         ],
         "bing": [
+            [
+                0,
+                "matériel de pêche"
+            ],
+            [
+                1,
+                "matériel de pêche temu"
+            ],
+            [
+                2,
+                "matériel de pêche en mer"
+            ],
+            [
+                3,
+                "matériel de pêche à la truite"
+            ],
+            [
+                4,
+                "matériel de pêche action"
+            ],
+            [
+                5,
+                "matériel de pêche surfcasting"
+            ],
+            [
+                6,
+                "matériel de pêche à decathlon"
+            ],
+            [
+                7,
+                "matériel de pêche amazon"
+            ],
+            [
+                8,
+                "matériel de pêche à vendre"
+            ],
+            [
+                9,
+                "matériel de pêche en rivière"
+            ],
+            [
+                10,
+                "matériel de pêche carnassier"
+            ],
+            [
+                11,
+                "matériel de pêche occasion"
+            ],
+            [
+                0,
+                "moulinet de pêche"
+            ],
+            [
+                1,
+                "moulinet"
+            ],
+            [
+                2,
+                "moulinet spinning"
+            ],
+            [
+                3,
+                "moulinet shimano"
+            ],
+            [
+                4,
+                "moulinette moulinex"
+            ],
+            [
+                5,
+                "moulinet daiwa"
+            ],
+            [
+                6,
+                "moulinet penn"
+            ],
+            [
+                7,
+                "moulinet mitchell"
+            ],
+            [
+                8,
+                "moulinet carpe"
+            ],
+            [
+                9,
+                "moulinet de peche en mer"
+            ],
+            [
+                10,
+                "moulinette manuelle"
+            ],
+            [
+                11,
+                "moulinet surfcasting mer"
+            ],
+            [
+                0,
+                "pêche à la truite en étang"
+            ],
+            [
+                1,
+                "pêche à la truite autour de moi"
+            ],
+            [
+                2,
+                "pêche à la truite"
+            ],
+            [
+                3,
+                "pêche à la truite en rivière"
+            ],
+            [
+                4,
+                "pêche à la truite ouverture"
+            ],
+            [
+                5,
+                "pêche à la truite en étang à la journée"
+            ],
+            [
+                6,
+                "pêche à la truite 2026"
+            ],
+            [
+                7,
+                "pêche à la truite fario"
+            ],
+            [
+                8,
+                "pêche à la truite lacustre"
+            ],
+            [
+                9,
+                "pêche à la truite en réservoir"
+            ],
+            [
+                10,
+                "pêche à la truite au québec"
+            ],
+            [
+                11,
+                "pêche à la truite polincove"
+            ],
+            [
+                0,
+                "pêche en mer"
+            ],
+            [
+                1,
+                "pêche en mer decathlon"
+            ],
+            [
+                2,
+                "pêche en mer saint gilles croix de vie"
+            ],
+            [
+                3,
+                "pêche en mer quiberon"
+            ],
+            [
+                4,
+                "pêche en mer oléron"
+            ],
+            [
+                5,
+                "pêche en mer var"
+            ],
+            [
+                6,
+                "pêche en mer ff14"
+            ],
+            [
+                7,
+                "pêche en mer guadeloupe"
+            ],
+            [
+                8,
+                "pêche en mer bretagne"
+            ],
+            [
+                9,
+                "pêche en mer erquy"
+            ],
+            [
+                10,
+                "pêche en mer du bord en méditerranée"
+            ],
+            [
+                11,
+                "pêche en mer en bateau en méditerranée"
+            ],
             [
                 0,
                 "réparation canne à pêche"
@@ -271,51 +571,177 @@
             ],
             [
                 0,
-                "etui canne a peche rigide"
+                "leurres souples"
             ],
             [
                 1,
-                "étui canne à pêche"
+                "leurres souples bar"
             ],
             [
                 2,
-                "une canne à pêche"
+                "leurres souples fox rage"
             ],
             [
                 3,
-                "achat canne à pêche"
+                "leurres souples pêche en mer"
             ],
             [
                 4,
-                "canne à pêche truite"
+                "leurres souples brochet"
             ],
             [
                 5,
-                "acheter canne à pêche"
+                "leurres souples pour la truite"
             ],
             [
                 6,
-                "pêche à la canne"
+                "leurres souples shad"
             ],
             [
                 7,
-                "canne à pêche truite étang"
+                "leurres souples illex"
             ],
             [
                 8,
-                "ensemble canne à pêche truite"
+                "leurres souples reins"
             ],
             [
                 9,
-                "embout de canne à pêche"
+                "leurres souples sandre"
             ],
             [
                 10,
-                "canne à pêche en bois"
+                "leurres souples westin"
             ],
             [
                 11,
-                "canne à pêche prix"
+                "leurres souples keitech"
+            ],
+            [
+                0,
+                "sac à canette"
+            ],
+            [
+                1,
+                "sac à conneries"
+            ],
+            [
+                2,
+                "sac à cadeau"
+            ],
+            [
+                3,
+                "sacs cadeaux en tissu"
+            ],
+            [
+                4,
+                "sac canne à pêche"
+            ],
+            [
+                5,
+                "sac canne à pêche decathlon"
+            ],
+            [
+                6,
+                "sac pour canne à pêche"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "matériel de pêche"
+            ],
+            [
+                1,
+                "matériel de pêche temu"
+            ],
+            [
+                2,
+                "matériel de pêche en mer"
+            ],
+            [
+                3,
+                "matériel de pêche à la truite"
+            ],
+            [
+                4,
+                "matériel de pêche action"
+            ],
+            [
+                5,
+                "matériel de pêche surfcasting"
+            ],
+            [
+                6,
+                "matériel de pêche à decathlon"
+            ],
+            [
+                7,
+                "matériel de pêche amazon"
+            ],
+            [
+                0,
+                "moulinet"
+            ],
+            [
+                1,
+                "moulinet de pêche"
+            ],
+            [
+                2,
+                "moulinet spinning"
+            ],
+            [
+                3,
+                "moulinet daiwa"
+            ],
+            [
+                4,
+                "moulinet shimano"
+            ],
+            [
+                5,
+                "moulinet penn"
+            ],
+            [
+                6,
+                "moulinette moulinex"
+            ],
+            [
+                7,
+                "moulinet mitchell"
+            ],
+            [
+                0,
+                "pêche à la truite en étang"
+            ],
+            [
+                1,
+                "pêche à la truite autour de moi"
+            ],
+            [
+                2,
+                "pêche à la truite"
+            ],
+            [
+                3,
+                "pêche à la truite en rivière"
+            ],
+            [
+                4,
+                "pêche à la truite ouverture"
+            ],
+            [
+                5,
+                "pêche à la truite en étang à la journée"
+            ],
+            [
+                6,
+                "pêche à la truite 2026"
+            ],
+            [
+                7,
+                "pêche à la truite fario"
             ],
             [
                 0,
@@ -349,24 +775,6 @@
                 7,
                 "pêche en mer guadeloupe"
             ],
-            [
-                8,
-                "pêche en mer bretagne"
-            ],
-            [
-                9,
-                "pêche en mer erquy"
-            ],
-            [
-                10,
-                "pêche en mer du bord en méditerranée"
-            ],
-            [
-                11,
-                "pêche en mer en bateau en méditerranée"
-            ]
-        ],
-        "duckduckgo": [
             [
                 0,
                 "réparation canne à pêche"
@@ -433,76 +841,296 @@
             ],
             [
                 0,
-                "etui canne a peche rigide"
+                "leurres souples"
             ],
             [
                 1,
-                "étui canne à pêche"
+                "leurres souples bar"
             ],
             [
                 2,
-                "une canne à pêche"
+                "leurres souples fox rage"
             ],
             [
                 3,
-                "achat canne à pêche"
+                "leurres souples pêche en mer"
             ],
             [
                 4,
-                "canne à pêche truite"
+                "leurres souples brochet"
             ],
             [
                 5,
-                "acheter canne à pêche"
+                "leurres souples pour la truite"
             ],
             [
                 6,
-                "pêche à la canne"
+                "leurres souples shad"
             ],
             [
                 7,
-                "canne à pêche truite étang"
+                "leurres souples illex"
             ],
             [
                 0,
-                "pêche en mer"
+                "sac à canette"
             ],
             [
                 1,
-                "pêche en mer decathlon"
+                "sac à conneries"
             ],
             [
                 2,
-                "pêche en mer saint gilles croix de vie"
+                "sac à cadeau"
             ],
             [
                 3,
-                "pêche en mer quiberon"
+                "sacs cadeaux en tissu"
             ],
             [
                 4,
-                "pêche en mer oléron"
+                "sac canne à pêche"
             ],
             [
                 5,
-                "pêche en mer var"
+                "sac canne à pêche decathlon"
             ],
             [
                 6,
-                "pêche en mer ff14"
-            ],
-            [
-                7,
-                "pêche en mer guadeloupe"
+                "sac pour canne à pêche"
             ]
         ],
         "ebay": [
+            [
+                0,
+                "matériel de pêche ancien"
+            ],
+            [
+                1,
+                "matériel de pêche"
+            ],
+            [
+                2,
+                "matériel de pêche à la carpe"
+            ],
+            [
+                3,
+                "lot matériel de pêche ancien"
+            ],
+            [
+                4,
+                "ancien matériel de pêche"
+            ],
+            [
+                5,
+                "lot matériel de pêche"
+            ],
+            [
+                0,
+                "moulinet"
+            ],
+            [
+                1,
+                "moulinet ancien"
+            ],
+            [
+                2,
+                "moulinet mitchell"
+            ],
+            [
+                3,
+                "moulinet luxor"
+            ],
+            [
+                4,
+                "moulinet rare"
+            ],
+            [
+                5,
+                "moulinet crack"
+            ],
+            [
+                6,
+                "moulinets pêche anciens"
+            ],
+            [
+                7,
+                "moulinet mouche"
+            ],
+            [
+                8,
+                "moulinet shimano"
+            ],
+            [
+                9,
+                "moulinet contact 400"
+            ],
             [
                 0,
                 "pêche en mer"
             ]
         ],
         "google": [
+            [
+                0,
+                "matériel de pêche"
+            ],
+            [
+                1,
+                "matériel de pêche decathlon"
+            ],
+            [
+                2,
+                "matériel de pêche chez action"
+            ],
+            [
+                3,
+                "matériel de pêche occasion"
+            ],
+            [
+                4,
+                "matériel de pêche à proximité"
+            ],
+            [
+                5,
+                "matériel de pêche occasion particulier"
+            ],
+            [
+                6,
+                "matériel de pêche pour la carpe"
+            ],
+            [
+                7,
+                "matériel de pêche à donner"
+            ],
+            [
+                8,
+                "matériel de pêche en mer"
+            ],
+            [
+                9,
+                "matériel de pêche decathlon carpe"
+            ],
+            [
+                0,
+                "moulinet casting"
+            ],
+            [
+                1,
+                "moulinet"
+            ],
+            [
+                2,
+                "moulinet peche"
+            ],
+            [
+                3,
+                "moulinet daiwa"
+            ],
+            [
+                4,
+                "moulinet shimano"
+            ],
+            [
+                5,
+                "moulinette"
+            ],
+            [
+                6,
+                "moulinet carpe"
+            ],
+            [
+                7,
+                "moulinet spinning"
+            ],
+            [
+                8,
+                "moulinette moulinex"
+            ],
+            [
+                9,
+                "moulinet mitchell"
+            ],
+            [
+                0,
+                "pêche à la truite grenoble"
+            ],
+            [
+                1,
+                "pêche à la truite"
+            ],
+            [
+                2,
+                "pêche à la truite autour de moi"
+            ],
+            [
+                3,
+                "pêche à la truite saint pierre d entremont"
+            ],
+            [
+                4,
+                "pêche à la truite en étang à la journée"
+            ],
+            [
+                5,
+                "pêche à la truite en ardèche"
+            ],
+            [
+                6,
+                "pêche à la truite en étang"
+            ],
+            [
+                7,
+                "pêche à la truite avis"
+            ],
+            [
+                8,
+                "pêche à la truite autour de moi ouvert actuellement"
+            ],
+            [
+                9,
+                "pêche à la truite savoie"
+            ],
+            [
+                0,
+                "pêche en mer"
+            ],
+            [
+                1,
+                "pêche en mer du bord"
+            ],
+            [
+                2,
+                "pêche en mer réglementation"
+            ],
+            [
+                3,
+                "pêche en mer dieppe tarif"
+            ],
+            [
+                4,
+                "pêche en mer vendée tarif"
+            ],
+            [
+                5,
+                "pêche en mer en bateau prix"
+            ],
+            [
+                6,
+                "pêche en mer débutant"
+            ],
+            [
+                7,
+                "pêche en mer en bateau"
+            ],
+            [
+                8,
+                "pêche en mer argelès avis"
+            ],
+            [
+                9,
+                "pêche en mer decathlon"
+            ],
             [
                 0,
                 "réparation canne à pêche decathlon"
@@ -585,92 +1213,280 @@
             ],
             [
                 0,
-                "étui canne à pêche"
+                "leurres souples"
             ],
             [
                 1,
-                "étui canne à pêche rigide"
+                "leurres souples perche"
             ],
             [
                 2,
-                "étui canne à pêche decathlon"
+                "leurres souples bar"
             ],
             [
                 3,
-                "étui canne à pêche canadian tire"
+                "leurres souples brochet"
             ],
             [
                 4,
-                "étui canne à pêche pronature"
+                "leurres souples decathlon"
             ],
             [
                 5,
-                "étui canne à pêche walmart"
+                "leurres souples mer"
             ],
             [
                 6,
-                "étui canne à pêche 7 pieds"
+                "leurres souples sandre"
             ],
             [
                 7,
-                "étui canne à pêche double"
+                "leurres souples truite"
             ],
             [
                 8,
-                "étui canne à pêche sail"
+                "leurres souples keitech"
             ],
             [
                 9,
-                "étui canne à pêche ecotone"
+                "leurres souples pour bonites"
             ],
             [
                 0,
-                "pêche en mer"
+                "sac à canne à pêche"
             ],
             [
                 1,
-                "pêche en mer du bord"
+                "sac à cannes"
             ],
             [
                 2,
-                "pêche en mer réglementation"
+                "sac canne à pêche decathlon"
             ],
             [
                 3,
-                "pêche en mer dieppe tarif"
+                "sac canne à pêche action"
             ],
             [
                 4,
-                "pêche en mer vendée tarif"
+                "sac canne à pêche tunisie"
             ],
             [
                 5,
-                "pêche en mer en bateau prix"
+                "sac à main cannes"
             ],
             [
                 6,
-                "pêche en mer débutant"
+                "sac à main cannes noir"
             ],
             [
                 7,
-                "pêche en mer en bateau"
+                "sac à dos canne a peche"
             ],
             [
                 8,
-                "pêche en mer argelès avis"
+                "sac cannes louis vuitton"
             ],
             [
                 9,
-                "pêche en mer decathlon"
+                "sac canette"
             ]
         ],
         "indeed": [
+            [
+                0,
+                "moulinot"
+            ],
+            [
+                1,
+                "moulins"
+            ],
+            [
+                2,
+                "mouliste"
+            ],
+            [
+                3,
+                "moulin rouge"
+            ],
+            [
+                4,
+                "moulin roty"
+            ],
+            [
+                5,
+                "moulin d'elise"
+            ],
+            [
+                6,
+                "moulins familiaux"
+            ],
             [
                 0,
                 "pêche mer"
             ]
         ],
         "yahoo": [
+            [
+                0,
+                "matériel de péche"
+            ],
+            [
+                1,
+                "matériel de pêche en mer"
+            ],
+            [
+                2,
+                "matériel de pêche d'occasion"
+            ],
+            [
+                3,
+                "matériel de pêche discount"
+            ],
+            [
+                4,
+                "matériel de pêche direct usine"
+            ],
+            [
+                5,
+                "matériel de pêcheur"
+            ],
+            [
+                6,
+                "matériel de pêche decathlon"
+            ],
+            [
+                7,
+                "matériel de pêche temu"
+            ],
+            [
+                8,
+                "matériel de pêche carpe"
+            ],
+            [
+                9,
+                "matériel de pêche sur amazon"
+            ],
+            [
+                0,
+                "moulinet"
+            ],
+            [
+                1,
+                "moulinet shimano"
+            ],
+            [
+                2,
+                "moulinet daiwa"
+            ],
+            [
+                3,
+                "moulinet mitchell"
+            ],
+            [
+                4,
+                "moulinet casting"
+            ],
+            [
+                5,
+                "moulinet de pêche"
+            ],
+            [
+                6,
+                "moulinet penn"
+            ],
+            [
+                7,
+                "moulinette moulinex"
+            ],
+            [
+                8,
+                "moulinet okuma"
+            ],
+            [
+                9,
+                "moulinet carpe"
+            ],
+            [
+                0,
+                "pêche à la truite en étang"
+            ],
+            [
+                1,
+                "pêche à la truite en rivière"
+            ],
+            [
+                2,
+                "pêche à la truite journée"
+            ],
+            [
+                3,
+                "pêche à la truite dans le gard"
+            ],
+            [
+                4,
+                "pêche à la truite période"
+            ],
+            [
+                5,
+                "pêche à la truite à la cuillère"
+            ],
+            [
+                6,
+                "pêche à la truite pau"
+            ],
+            [
+                7,
+                "pêche à la truite robecq"
+            ],
+            [
+                8,
+                "pêche à la truite vintage"
+            ],
+            [
+                9,
+                "pêche à la truite decathlon"
+            ],
+            [
+                0,
+                "péche en mer"
+            ],
+            [
+                1,
+                "pêche en mer méditerranée"
+            ],
+            [
+                2,
+                "pêche en mer bretagne"
+            ],
+            [
+                3,
+                "pêche en mer en bateau"
+            ],
+            [
+                4,
+                "pêche en mer harpon"
+            ],
+            [
+                5,
+                "pêche en mer magazine"
+            ],
+            [
+                6,
+                "pêche en mer guadeloupe"
+            ],
+            [
+                7,
+                "pêche en mer industrielle"
+            ],
+            [
+                8,
+                "pêche en mer réglementation"
+            ],
+            [
+                9,
+                "pêche en mer à l'asticot"
+            ],
             [
                 0,
                 "réparation canne à pêche garbolino"
@@ -729,85 +1545,173 @@
             ],
             [
                 0,
-                "étui canne à pêche"
+                "leurres souples"
             ],
             [
                 1,
-                "etui canne a peche rigide"
-            ],
-            [
-                0,
-                "péche en mer"
-            ],
-            [
-                1,
-                "pêche en mer méditerranée"
+                "leurres souples bar"
             ],
             [
                 2,
-                "pêche en mer bretagne"
+                "leurres souples delalande"
             ],
             [
                 3,
-                "pêche en mer en bateau"
+                "leurres souples gunki mosquito 16 cm"
             ],
             [
                 4,
-                "pêche en mer harpon"
+                "leurres souples aliexpress"
             ],
             [
                 5,
-                "pêche en mer magazine"
+                "leurres souples shad"
             ],
             [
                 6,
-                "pêche en mer guadeloupe"
+                "leurres souples zoom"
             ],
             [
                 7,
-                "pêche en mer industrielle"
+                "leurres souples montage texan"
             ],
             [
                 8,
-                "pêche en mer réglementation"
+                "leurres souples loup"
             ],
             [
                 9,
-                "pêche en mer à l'asticot"
+                "leurres souples illex"
+            ],
+            [
+                0,
+                "sac à cannes"
+            ],
+            [
+                1,
+                "sac cannes louis vuitton"
             ]
         ],
         "youtube": [
             [
                 0,
-                "réparation canne à pêche"
+                "matériel de pêche"
             ],
             [
                 1,
-                "réparation canne à pêche telescopique"
+                "matériel de pêche decathlon"
             ],
             [
                 2,
-                "réparation canne à pêche carbone"
+                "matériel de pêche action"
             ],
             [
                 3,
-                "réparation anneaux canne à pêche"
+                "matériel de pêche carpe"
+            ],
+            [
+                4,
+                "matériel de pêche temu"
+            ],
+            [
+                5,
+                "matériel de pêche aliexpress"
+            ],
+            [
+                6,
+                "matériel de pêche amazon"
+            ],
+            [
+                7,
+                "matériel de pêche spinning pour pêcher le sandre"
+            ],
+            [
+                8,
+                "materiel de peche pour debutant"
+            ],
+            [
+                9,
+                "accessoires de pêche"
             ],
             [
                 0,
-                "permis de pêche 2025"
+                "moulinet casting"
             ],
             [
                 1,
-                "permis de pêche"
+                "moulinet et on se tait"
             ],
             [
                 2,
-                "permis de peche espagne"
+                "moulinette"
             ],
             [
                 3,
-                "permis de peche quebec"
+                "moulinet"
+            ],
+            [
+                4,
+                "moulinet spinning"
+            ],
+            [
+                5,
+                "moulinette a droite moulinette a gauche"
+            ],
+            [
+                6,
+                "moulinet peche"
+            ],
+            [
+                7,
+                "moulinet carpe"
+            ],
+            [
+                8,
+                "moulinet casting aliexpress"
+            ],
+            [
+                9,
+                "moulinet aliexpress"
+            ],
+            [
+                0,
+                "pêche à la truite"
+            ],
+            [
+                1,
+                "pêche à la truite en rivière"
+            ],
+            [
+                2,
+                "pêche à la truite en étang"
+            ],
+            [
+                3,
+                "pêche à la truite à la cuillère"
+            ],
+            [
+                4,
+                "pêche à la truite au bouchon"
+            ],
+            [
+                5,
+                "pêche à la truite au toc"
+            ],
+            [
+                6,
+                "pêche à la truite dans les pyrénées"
+            ],
+            [
+                7,
+                "pêche à la truite en étang au bouchon"
+            ],
+            [
+                8,
+                "pêche à la truite en ruisseau"
+            ],
+            [
+                9,
+                "pêche à la truite en montagne"
             ],
             [
                 0,
@@ -848,6 +1752,78 @@
             [
                 9,
                 "pêche en mer barbecue"
+            ],
+            [
+                0,
+                "réparation canne à pêche"
+            ],
+            [
+                1,
+                "réparation canne à pêche telescopique"
+            ],
+            [
+                2,
+                "réparation canne à pêche carbone"
+            ],
+            [
+                3,
+                "réparation anneaux canne à pêche"
+            ],
+            [
+                0,
+                "permis de pêche 2025"
+            ],
+            [
+                1,
+                "permis de pêche"
+            ],
+            [
+                2,
+                "permis de peche espagne"
+            ],
+            [
+                3,
+                "permis de peche quebec"
+            ],
+            [
+                0,
+                "leurres souples"
+            ],
+            [
+                1,
+                "leurres souples pour le bar"
+            ],
+            [
+                2,
+                "montage leurres souples"
+            ],
+            [
+                3,
+                "animation leurres souples"
+            ],
+            [
+                4,
+                "fabrication leurres souples"
+            ],
+            [
+                5,
+                "marigane noire leurres souples octopus"
+            ],
+            [
+                6,
+                "fabriquer ses leurres souples"
+            ],
+            [
+                7,
+                "faire ses leurres souples"
+            ],
+            [
+                8,
+                "peche aux leurres souples"
+            ],
+            [
+                0,
+                "sac canne a peche"
             ]
         ]
     },
@@ -873,35 +1849,31 @@
     },
     "pages": [
         {
-            "group": "Permis de pêche",
-            "title": "pêche en mer",
+            "group": "Matériel de pêche",
+            "title": "matériel de pêche",
             "intent": "informational",
             "keywords": [
-                "pêche en mer",
-                "pêche en mer bretagne",
-                "pêche en mer decathlon",
-                "pêche en mer réglementation",
-                "pêche en mer du bord",
-                "pêche en mer en bateau"
+                "matériel de pêche",
+                "matériel de pêche à la carpe",
+                "appât",
+                "moulinet",
+                "moulinet de pêche",
+                "moulinet shimano",
+                "matériel de pêche decathlon",
+                "moulinet daiwa",
+                "moulinet mitchell",
+                "hameçon",
+                "moulinet casting",
+                "moulinet spinning"
             ]
         },
         {
-            "group": "Permis de pêche",
-            "title": "permis de pêche",
+            "group": "Matériel de pêche",
+            "title": "leurres souples",
             "intent": "informational",
             "keywords": [
-                "permis de pêche",
-                "permis de pêche 2026",
-                "permis de pêche wallonie",
-                "permis de pêche en ligne"
-            ]
-        },
-        {
-            "group": "Permis de pêche",
-            "title": "canne à pêche enfant",
-            "intent": "commercial",
-            "keywords": [
-                "canne à pêche enfant"
+                "leurres souples",
+                "leurres souples bar"
             ]
         },
         {
@@ -910,26 +1882,26 @@
             "intent": "commercial",
             "keywords": [
                 "canne à pêche casting",
-                "canne à pêche décathlon",
-                "canne à pêche ancienne",
                 "action de la canne",
-                "appât",
-                "hameçon",
-                "longueur de canne",
-                "moulinet",
-                "poisson",
-                "porte-moulinet",
+                "canne casting",
+                "canne spinning",
+                "canne à emmanchement",
+                "choisir canne à pêche",
+                "entretien canne à pêche",
+                "prix canne à pêche",
                 "puissance de la canne",
-                "pêche",
-                "scion de canne",
-                "équilibrage de canne",
+                "technique de pêche",
+                "types de cannes à pêche",
+                "équilibrage canne",
+                "canne à pêche décathlon",
                 "canne à pêche télescopique",
+                "bambou",
+                "canne télescopique",
                 "roseau",
                 "canne à pêche action",
-                "canne à pêche carbone",
-                "canne à pêche fibre de verre",
-                "poignée de canne",
-                "canne à pêche au coup"
+                "anneaux de départ",
+                "blank carbone",
+                "porte-moulinet"
             ]
         },
         {
@@ -938,87 +1910,110 @@
             "intent": "commercial",
             "keywords": [
                 "canne à pêche mer",
-                "canne à pêche truite",
-                "pêche en mer méditerranée",
-                "pêche en mer surfcasting"
+                "canne à pêche au coup"
             ]
         },
         {
-            "group": "Réparation",
+            "group": "Types de cannes à pêche",
+            "title": "canne à pêche enfant",
+            "intent": "commercial",
+            "keywords": [
+                "canne à pêche enfant"
+            ]
+        },
+        {
+            "group": "Pêche en mer",
+            "title": "pêche en mer",
+            "intent": "informational",
+            "keywords": [
+                "pêche en mer",
+                "pêche en mer matériel",
+                "pêche en mer du bord",
+                "pêche en mer en bateau"
+            ]
+        },
+        {
+            "group": "Entretien et réparation",
             "title": "réparation canne à pêche",
             "intent": "informational",
             "keywords": [
                 "réparation canne à pêche",
-                "réparation canne à pêche garbolino",
                 "réparation canne à pêche carbone",
-                "bambou",
-                "réparation canne à pêche anneau",
-                "anneau de canne",
-                "réparation canne à pêche telescopique"
+                "réparation canne à pêche anneau"
             ]
         },
         {
-            "group": "Accessoires",
-            "title": "étui canne à pêche",
+            "group": "Entretien et réparation",
+            "title": "sac à canne à pêche",
             "intent": "commercial",
             "keywords": [
-                "étui canne à pêche",
-                "etui canne a peche rigide",
-                "support de canne à pêche"
+                "sac à canne à pêche"
+            ]
+        },
+        {
+            "group": "Pêche à la truite",
+            "title": "pêche à la truite",
+            "intent": "informational",
+            "keywords": [
+                "pêche à la truite",
+                "pêche à la truite en étang",
+                "pêche à la truite en rivière"
             ]
         }
     ],
     "categories": {
         "pêche en mer": "core",
         "canne à pêche casting": "core",
+        "matériel de pêche": "core",
         "canne à pêche décathlon": "commercial",
+        "moulinet": "core",
+        "leurres souples": "core",
         "canne à pêche enfant": "core",
         "canne à pêche mer": "core",
-        "permis de pêche": "core",
+        "leurres souples bar": "core",
         "réparation canne à pêche": "commercial",
-        "étui canne à pêche": "core",
-        "etui canne a peche rigide": "core",
+        "moulinet de pêche": "core",
+        "pêche à la truite": "core",
+        "sac à canne à pêche": "complementary",
+        "moulinet casting": "core",
         "réparation canne à pêche carbone": "commercial",
+        "pêche à la truite en étang": "core",
+        "matériel de pêche à la carpe": "complementary",
         "réparation canne à pêche anneau": "commercial",
-        "permis de pêche 2026": "core",
+        "pêche en mer matériel": "core",
+        "moulinet shimano": "commercial",
+        "matériel de pêche decathlon": "commercial",
+        "moulinet daiwa": "commercial",
         "canne à pêche télescopique": "core",
+        "pêche à la truite en rivière": "core",
         "pêche en mer du bord": "core",
         "pêche en mer en bateau": "core",
         "canne à pêche action": "complementary",
         "canne à pêche au coup": "complementary",
-        "permis de pêche 2025": "doubtful",
-        "support de canne à pêche": "complementary",
-        "permis de pêche wallonie": "complementary",
-        "réparation canne à pêche garbolino": "commercial",
-        "permis de pêche en ligne": "commercial",
-        "canne à pêche truite": "complementary",
-        "permis de pêche savoie": "doubtful",
-        "réparation canne à pêche telescopique": "commercial",
-        "canne à pêche blox fruit": "doubtful",
-        "pêche en mer méditerranée": "complementary",
-        "canne à pêche ancienne": "complementary",
-        "pêche en mer surfcasting": "complementary",
-        "canne à pêche jouet chat": "doubtful",
-        "pêche en mer decathlon": "commercial",
-        "pêche en mer bretagne": "complementary",
-        "pêche en mer réglementation": "complementary",
-        "canne à pêche carbone": "core",
-        "canne à pêche fibre de verre": "core",
-        "anneau de canne": "core",
-        "poignée de canne": "core",
+        "moulinet mitchell": "commercial",
+        "moulinet spinning": "complementary",
+        "types de cannes à pêche": "core",
+        "choisir canne à pêche": "core",
+        "prix canne à pêche": "commercial",
+        "entretien canne à pêche": "core",
+        "technique de pêche": "core",
+        "canne casting": "core",
+        "canne spinning": "complementary",
+        "canne télescopique": "core",
+        "canne à emmanchement": "complementary",
+        "blank carbone": "core",
+        "anneaux de départ": "core",
+        "porte-moulinet": "core",
         "action de la canne": "core",
         "puissance de la canne": "core",
-        "longueur de canne": "core",
-        "scion de canne": "core",
-        "porte-moulinet": "core",
-        "équilibrage de canne": "core",
-        "poisson": "complementary",
+        "équilibrage canne": "complementary",
         "bambou": "complementary",
-        "pêche": "complementary",
         "roseau": "complementary",
         "hameçon": "complementary",
         "appât": "complementary",
-        "moulinet": "complementary",
-        "canne à pêche minecraft": "doubtful"
+        "permis de pêche": "doubtful",
+        "permis de pêche 2026": "doubtful",
+        "matériel de pêche temu": "doubtful",
+        "permis de pêche 2025": "doubtful"
     }
 }

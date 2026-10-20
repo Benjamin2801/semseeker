@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "kubernetes vs docker",
-        "kubernetes architecture diagram",
-        "kubernetes use cases",
-        "kubernetes deployment strategies",
+        "container orchestration tools",
+        "kubernetes pods explained",
+        "kubernetes services vs ingress",
+        "helm charts kubernetes",
+        "kubernetes persistent volumes",
         "kubernetes autoscaling",
-        "kubernetes security best practices",
-        "kubernetes monitoring tools",
-        "kubernetes troubleshooting guide"
+        "kubernetes network policies",
+        "cloud providers kubernetes"
     ],
     "suggestions": {
         "bing": [
@@ -99,159 +99,179 @@
         "bing": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration tools"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "best container orchestration tools"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "docker container orchestration tools"
             ],
             [
                 3,
-                "kubernetes vs docker differences"
+                "open source container orchestration tools"
             ],
             [
                 4,
-                "kubernetes vs docker diferencias"
+                "most popular container orchestration tools"
             ],
             [
                 5,
-                "kubernetes vs docker vs container"
+                "all container orchestration tools"
             ],
             [
                 6,
-                "kubernetes vs docker vs jenkins"
+                "container & container orchestration tools"
             ],
             [
                 7,
-                "kubernetes vs docker adalah"
+                "what are container orchestration tools"
             ],
             [
                 8,
-                "kubernetes vs docker for n8n"
+                "what is container orchestration tool"
+            ],
+            [
+                0,
+                "kubernetes pods explained"
+            ],
+            [
+                0,
+                "kubernetes service vs ingress"
+            ],
+            [
+                1,
+                "how to use ingress in kubernetes"
+            ],
+            [
+                2,
+                "what is a kubernetes ingress"
+            ],
+            [
+                3,
+                "ingress vs egress kubernetes"
+            ],
+            [
+                4,
+                "kubernetes ingress vs gateway"
+            ],
+            [
+                5,
+                "how to configure ingress in kubernetes"
+            ],
+            [
+                6,
+                "purpose of ingress in kubernetes"
+            ],
+            [
+                7,
+                "kubernetes api gateway vs ingress"
+            ],
+            [
+                8,
+                "how does kubernetes ingress work"
             ],
             [
                 9,
-                "kubernetes vs docker security"
+                "how to create ingress in kubernetes"
             ],
             [
                 10,
-                "kubernetes vs docker images"
+                "how ingress works in kubernetes"
             ],
             [
                 11,
-                "kubernetes vs docker que es"
+                "ingress in kubernetes meaning"
             ],
             [
                 12,
-                "kubernetes vs docker vs podman"
+                "kubernetes networking: understanding ingress"
+            ],
+            [
+                13,
+                "kubernetes ingress and egress"
+            ],
+            [
+                14,
+                "types of ingress in kubernetes"
+            ],
+            [
+                15,
+                "install ingress on kubernetes"
+            ],
+            [
+                16,
+                "was ist ingress kubernetes"
             ],
             [
                 0,
-                "kubernetes architecture diagram"
+                "helm charts kubernetes"
             ],
             [
                 1,
-                "kubernetes architecture diagram explained"
+                "helm charts kubernetes tutorial"
             ],
             [
                 2,
-                "kubernetes architecture diagram simple"
+                "helm charts kubernetes deployment"
             ],
             [
                 3,
-                "kubernetes architecture diagram clickittech"
+                "helm charts kubernetes installation"
             ],
             [
                 4,
-                "kubernetes cluster architecture diagram"
+                "helm charts kubernetes best practices"
             ],
             [
                 5,
-                "azure kubernetes architecture diagram"
+                "helm charts kubernetes interview questions"
             ],
             [
                 6,
-                "aws kubernetes architecture diagram"
+                "kubernetes helm chart tutorial"
             ],
             [
                 7,
-                "kubernetes reference architecture diagram"
+                "helm charts in kubernetes example"
             ],
             [
                 0,
-                "kubernetes use cases"
+                "kubernetes persistent volumes"
             ],
             [
                 1,
-                "kubernetes use cases examples"
+                "kubernetes persistent volume spec"
             ],
             [
                 2,
-                "creative kubernetes use cases"
+                "kubernetes persistent volume claim"
             ],
             [
                 3,
-                "market kubernetes use cases"
+                "kubernetes persistent volume yaml"
             ],
             [
                 4,
-                "mobile kubernetes use cases"
+                "kubernetes persistent volume access modes"
             ],
             [
                 5,
-                "edge kubernetes use cases"
+                "kubernetes persistent volume hostpath"
             ],
             [
                 6,
-                "servicenow kubernetes discovery use cases"
+                "kubernetes persistent volume nfs"
             ],
             [
                 7,
-                "platform9 managed kubernetes use cases"
-            ],
-            [
-                0,
-                "kubernetes deployment strategies"
-            ],
-            [
-                1,
-                "kubernetes deployment strategy types"
-            ],
-            [
-                2,
-                "kubernetes deployment strategy recreate"
-            ],
-            [
-                3,
-                "kubernetes deployment strategy rollingupdate"
-            ],
-            [
-                4,
-                "advanced kubernetes deployment strategies"
-            ],
-            [
-                5,
-                "smart kubernetes deployment strategies"
-            ],
-            [
-                6,
-                "creative kubernetes deployment strategies"
-            ],
-            [
-                7,
-                "modern kubernetes deployment strategies"
+                "kubernetes persistent volume encryption"
             ],
             [
                 8,
-                "seasonal kubernetes deployment strategies"
-            ],
-            [
-                9,
-                "efficient kubernetes deployment strategies"
+                "kubernetes persistent volume reclaim policy"
             ],
             [
                 0,
@@ -275,7 +295,7 @@
             ],
             [
                 5,
-                "tune kubernetes autoscaling"
+                "optimize kubernetes autoscaling"
             ],
             [
                 6,
@@ -283,7 +303,7 @@
             ],
             [
                 7,
-                "optimize kubernetes autoscaling"
+                "tune kubernetes autoscaling"
             ],
             [
                 8,
@@ -295,273 +315,185 @@
             ],
             [
                 0,
-                "kubernetes security best practices"
+                "kubernetes network policies"
             ],
             [
                 1,
-                "urban kubernetes security best practices"
+                "kubernetes network policy examples"
             ],
             [
                 2,
-                "wireless kubernetes security best practices"
+                "kubernetes network policy documentation"
             ],
             [
                 3,
-                "kubernetes security tools best practices"
+                "kubernetes network policy podselector means"
             ],
             [
                 4,
-                "kubernetes security guide for best practices"
+                "kubernetes network policy editor"
             ],
             [
                 5,
-                "kubernetes exec security best practices"
+                "kubernetes network policy api"
             ],
             [
                 6,
-                "evaluate kubernetes security best practices"
+                "kubernetes network policy namespace selector"
             ],
             [
                 7,
-                "kubernetes best practices pdf"
+                "kubernetes network policy egress example"
             ],
             [
                 8,
-                "azure kubernetes best practices"
+                "kubernetes network policy internet access"
             ],
             [
                 9,
-                "kubernetes cloud computing best practices"
-            ],
-            [
-                10,
-                "azure kubernetes service best practices"
-            ],
-            [
-                11,
-                "kubernetes security guide for compliance"
-            ],
-            [
-                12,
-                "kubernetes security guide for beginners"
-            ],
-            [
-                13,
-                "kubernetes security guide for tools"
-            ],
-            [
-                14,
-                "kubernetes security guide for developers"
-            ],
-            [
-                15,
-                "kubernetes security guide for operators"
-            ],
-            [
-                16,
-                "kubernetes security guide for policies"
-            ],
-            [
-                17,
-                "kubernetes security guide for administrators"
-            ],
-            [
-                18,
-                "kubernetes security tools reviews"
-            ],
-            [
-                19,
-                "safe kubernetes pro tips"
-            ],
-            [
-                20,
-                "kubernetes pro easy tips"
-            ],
-            [
-                21,
-                "kubernetes security best practices 2025"
-            ],
-            [
-                22,
-                "discuss ways to improve kubernetes security"
-            ],
-            [
-                23,
-                "discuss ways to secure kubernetes"
-            ],
-            [
-                24,
-                "review kubernetes security protocols"
+                "kubernetes network policy calico"
             ],
             [
                 0,
-                "kubernetes monitoring tools"
+                "budget kubernetes cloud providers"
             ],
             [
                 1,
-                "review kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "smart kubernetes monitoring tools"
-            ],
-            [
-                3,
-                "urban kubernetes monitoring tools"
-            ],
-            [
-                4,
-                "efficient kubernetes monitoring tools"
-            ],
-            [
-                5,
-                "outdoor kubernetes monitoring tools"
-            ],
-            [
-                6,
-                "modern kubernetes monitoring tools"
-            ],
-            [
-                7,
-                "wireless kubernetes monitoring tools"
-            ],
-            [
-                8,
-                "kubernetes health monitoring tools"
-            ],
-            [
-                0,
-                "kubernetes troubleshooting guide"
+                "kubernetes azure cloud provider"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration tools"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "best container orchestration tools"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "docker container orchestration tools"
             ],
             [
                 3,
-                "kubernetes vs docker vs jenkins"
+                "open source container orchestration tools"
             ],
             [
                 4,
-                "kubernetes vs docker differences"
+                "most popular container orchestration tools"
             ],
             [
                 5,
-                "kubernetes vs docker vs pods"
+                "all container orchestration tools"
             ],
             [
                 6,
-                "kubernetes vs docker security"
+                "container & container orchestration tools"
             ],
             [
                 7,
-                "kubernetes vs docker vs container"
+                "what are container orchestration tools"
             ],
             [
                 0,
-                "kubernetes architecture diagram"
-            ],
-            [
-                1,
-                "kubernetes architecture diagram explained"
-            ],
-            [
-                2,
-                "kubernetes architecture diagram simple"
-            ],
-            [
-                3,
-                "kubernetes architecture diagram clickittech"
-            ],
-            [
-                4,
-                "kubernetes cluster architecture diagram"
-            ],
-            [
-                5,
-                "azure kubernetes architecture diagram"
-            ],
-            [
-                6,
-                "aws kubernetes architecture diagram"
-            ],
-            [
-                7,
-                "kubernetes reference architecture diagram"
+                "kubernetes pods explained"
             ],
             [
                 0,
-                "kubernetes use cases"
+                "kubernetes service vs ingress"
             ],
             [
                 1,
-                "kubernetes use cases examples"
+                "how to use ingress in kubernetes"
             ],
             [
                 2,
-                "creative kubernetes use cases"
+                "what is a kubernetes ingress"
             ],
             [
                 3,
-                "market kubernetes use cases"
+                "ingress vs egress kubernetes"
             ],
             [
                 4,
-                "mobile kubernetes use cases"
+                "kubernetes ingress vs gateway"
             ],
             [
                 5,
-                "edge kubernetes use cases"
+                "how to configure ingress in kubernetes"
             ],
             [
                 6,
-                "servicenow kubernetes discovery use cases"
+                "purpose of ingress in kubernetes"
             ],
             [
                 7,
-                "platform9 managed kubernetes use cases"
+                "kubernetes api gateway vs ingress"
             ],
             [
                 0,
-                "kubernetes deployment strategy types"
+                "helm charts kubernetes tutorial"
             ],
             [
                 1,
-                "kubernetes deployment strategy recreate"
+                "helm charts kubernetes"
             ],
             [
                 2,
-                "kubernetes deployment strategies"
+                "helm charts kubernetes deployment"
             ],
             [
                 3,
-                "kubernetes deployment strategy rollingupdate"
+                "helm charts kubernetes installation"
             ],
             [
                 4,
-                "advanced kubernetes deployment strategies"
+                "helm charts kubernetes best practices"
             ],
             [
                 5,
-                "smart kubernetes deployment strategies"
+                "helm charts kubernetes interview questions"
             ],
             [
                 6,
-                "creative kubernetes deployment strategies"
+                "helm charts in kubernetes example"
             ],
             [
                 7,
-                "modern kubernetes deployment strategies"
+                "kubernetes helm chart tutorial"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volume spec"
+            ],
+            [
+                2,
+                "kubernetes persistent volume claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volume yaml"
+            ],
+            [
+                4,
+                "kubernetes persistent volume access modes"
+            ],
+            [
+                5,
+                "kubernetes persistent volume hostpath"
+            ],
+            [
+                6,
+                "kubernetes persistent volume aws"
+            ],
+            [
+                7,
+                "kubernetes persistent volume nfs"
             ],
             [
                 0,
@@ -585,245 +517,225 @@
             ],
             [
                 5,
-                "optimize kubernetes autoscaling"
-            ],
-            [
-                6,
                 "hpa kubernetes autoscaling"
             ],
             [
-                7,
+                6,
                 "tune kubernetes autoscaling"
             ],
             [
+                7,
+                "optimize kubernetes autoscaling"
+            ],
+            [
                 0,
-                "kubernetes security best practices"
+                "kubernetes network policies"
             ],
             [
                 1,
-                "urban kubernetes security best practices"
+                "kubernetes network policy examples"
             ],
             [
                 2,
-                "wireless kubernetes security best practices"
+                "kubernetes network policy documentation"
             ],
             [
                 3,
-                "kubernetes security tools best practices"
+                "kubernetes network policy podselector means"
             ],
             [
                 4,
-                "kubernetes security guide for best practices"
+                "kubernetes network policy editor"
             ],
             [
                 5,
-                "kubernetes exec security best practices"
+                "kubernetes network policy api"
             ],
             [
                 6,
-                "evaluate kubernetes security best practices"
+                "kubernetes network policy namespace selector"
             ],
             [
                 7,
-                "kubernetes best practices pdf"
+                "kubernetes network policy egress example"
             ],
             [
                 0,
-                "kubernetes monitoring tools"
+                "budget kubernetes cloud providers"
             ],
             [
                 1,
-                "review kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "smart kubernetes monitoring tools"
-            ],
-            [
-                3,
-                "urban kubernetes monitoring tools"
-            ],
-            [
-                4,
-                "efficient kubernetes monitoring tools"
-            ],
-            [
-                5,
-                "outdoor kubernetes monitoring tools"
-            ],
-            [
-                6,
-                "modern kubernetes monitoring tools"
-            ],
-            [
-                7,
-                "wireless kubernetes monitoring tools"
-            ],
-            [
-                0,
-                "kubernetes troubleshooting guide"
+                "kubernetes azure cloud provider"
             ]
         ],
         "google": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration tools"
             ],
             [
                 1,
-                "kubernetes vs docker compose"
+                "container orchestration tools list"
             ],
             [
                 2,
-                "kubernetes vs docker swarm"
+                "container orchestration tools in devops"
             ],
             [
                 3,
-                "kubernetes vs docker vs jenkins"
+                "container orchestration tools market share"
             ],
             [
                 4,
-                "kubernetes vs docker vs podman"
+                "container orchestration tools like kubernetes"
             ],
             [
                 5,
-                "kubernetes vs docker vs proxmox"
+                "docker orchestration tools"
             ],
             [
                 6,
-                "kubernetes vs docker vs container"
+                "docker orchestration tools open source"
             ],
             [
                 7,
-                "kubernetes vs docker vs vm"
+                "container orchestration tool kubernetes"
             ],
             [
                 8,
-                "kubernetes vs docker vs terraform"
+                "container orchestration tool meaning"
             ],
             [
                 9,
-                "kubernetes vs docker vs openshift"
+                "container orchestration software"
             ],
             [
                 0,
-                "kubernetes architecture diagram"
+                "kubernetes pods explained"
             ],
             [
                 1,
-                "kubernetes architecture diagram explained"
+                "kubernetes pods meaning"
             ],
             [
                 2,
-                "kubernetes architecture diagram with explanation"
+                "kubernetes pods definition"
             ],
             [
                 3,
-                "kubernetes architecture diagram simple"
+                "kubernetes pods types"
             ],
             [
                 4,
-                "kubernetes architecture diagram example"
+                "what is a pod in kubernetes and what does it do"
             ],
             [
                 5,
-                "kubernetes architecture diagram pdf"
-            ],
-            [
-                6,
-                "kubernetes architecture diagram draw io"
-            ],
-            [
-                7,
-                "kubernetes architecture diagram azure"
-            ],
-            [
-                8,
-                "kubernetes architecture diagram namespace"
-            ],
-            [
-                9,
-                "kubernetes architecture diagram aws"
+                "what are pods in k8s"
             ],
             [
                 0,
-                "kubernetes use cases"
+                "kubernetes services vs ingress"
             ],
             [
                 1,
-                "kubernetes use cases examples"
+                "kubernetes service mesh vs ingress"
             ],
             [
                 2,
-                "kubernetes use cases in industry"
+                "kubernetes external service vs ingress"
             ],
             [
                 3,
-                "kubernetes cluster use cases"
+                "kubernetes service vs deployment vs ingress"
             ],
             [
                 4,
-                "kubernetes crd use cases"
+                "kubernetes load balancer service vs ingress"
             ],
             [
                 5,
-                "kubernetes operator use cases"
-            ],
-            [
-                6,
-                "kubernetes siem use cases"
-            ],
-            [
-                7,
-                "kubernetes ai use cases"
-            ],
-            [
-                8,
-                "kubernetes daemonset use cases"
-            ],
-            [
-                9,
-                "kubernetes job use cases"
+                "kubernetes service type loadbalancer vs ingress"
             ],
             [
                 0,
-                "kubernetes deployment strategies"
+                "helm charts kubernetes"
             ],
             [
                 1,
-                "kubernetes deployment strategies for microservices"
+                "helm charts kubernetes explained"
             ],
             [
                 2,
-                "kubernetes deployment strategies recreate"
+                "helm charts kubernetes example"
             ],
             [
                 3,
-                "kubernetes deployment strategy types"
+                "helm charts kubernetes interview questions"
             ],
             [
                 4,
-                "kubernetes deployment strategy recreate example"
+                "helm charts kubernetes tutorial"
             ],
             [
                 5,
-                "kubernetes deployment strategy rollingupdate"
+                "helm charts kubernetes deployment"
             ],
             [
                 6,
-                "kubernetes deployment strategy example"
+                "helm charts kubernetes github"
             ],
             [
                 7,
-                "kubernetes deployment strategy type recreate"
+                "helm chart kubernetes dashboard"
             ],
             [
                 8,
-                "kubernetes deployment strategy blue green"
+                "helm chart kubernetes documentation"
             ],
             [
                 9,
-                "kubernetes deployment strategy default"
+                "helm chart kubernetes spring boot"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volumes grafana dashboard"
+            ],
+            [
+                2,
+                "kubernetes persistent volumes claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volumes dashboard"
+            ],
+            [
+                4,
+                "kubernetes persistent volumes grafana"
+            ],
+            [
+                5,
+                "kubernetes persistent volumes access modes"
+            ],
+            [
+                6,
+                "kubectl persistent volumes"
+            ],
+            [
+                7,
+                "kubernetes persistent volume example"
+            ],
+            [
+                8,
+                "kubernetes persistent volume claim example"
+            ],
+            [
+                9,
+                "kubernetes persistent volume nfs"
             ],
             [
                 0,
@@ -867,245 +779,137 @@
             ],
             [
                 0,
-                "kubernetes security best practices"
+                "kubernetes network policies"
             ],
             [
                 1,
-                "kubernetes security best practices checklist"
+                "kubernetes network policies done the right way"
             ],
             [
                 2,
-                "kubernetes security best practices ian lewis google"
+                "kubernetes network policies best practices"
             ],
             [
                 3,
-                "kubernetes security best practices pdf"
+                "kubernetes network policies examples"
             ],
             [
                 4,
-                "kubernetes security best practices ian lewis"
+                "kubernetes network policies cilium"
             ],
             [
                 5,
-                "kubernetes cluster security best practices"
+                "kubernetes network policies explained"
             ],
             [
                 6,
-                "azure kubernetes security best practices"
+                "kubernetes network policies security"
             ],
             [
                 7,
-                "kubernetes security context best practices"
+                "kubectl network policies"
             ],
             [
                 8,
-                "kubernetes container security best practices"
+                "kubernetes network policy generator"
             ],
             [
                 9,
-                "kubernetes pod security best practices"
+                "kubernetes network policy egress"
             ],
             [
                 0,
-                "kubernetes monitoring tools"
+                "cloud providers kubernetes"
             ],
             [
                 1,
-                "kubernetes monitoring tools open source"
+                "cloud computing kubernetes"
             ],
             [
                 2,
-                "kubernetes monitoring tools list"
+                "european cloud providers kubernetes"
             ],
             [
                 3,
-                "kubernetes monitoring tools free"
+                "azure cloud provider kubernetes"
             ],
             [
                 4,
-                "kubernetes management tools"
+                "aws cloud provider kubernetes"
             ],
             [
                 5,
-                "kubernetes management tools open source"
+                "proxmox kubernetes cloud provider"
             ],
             [
                 6,
-                "kubernetes management tools free"
+                "cloud provider api kubernetes"
             ],
             [
                 7,
-                "kubernetes management tools ui"
+                "openstack cloud provider kubernetes"
             ],
             [
                 8,
-                "kubernetes monitoring software"
+                "vsphere cloud provider kubernetes"
             ],
             [
                 9,
-                "best kubernetes monitoring tools"
-            ],
-            [
-                0,
-                "kubernetes troubleshooting guide"
-            ],
-            [
-                1,
-                "kubernetes troubleshooting guide pdf"
-            ],
-            [
-                2,
-                "the ultimate kubernetes troubleshooting guide"
-            ],
-            [
-                3,
-                "the ultimate kubernetes troubleshooting guide pdf"
-            ],
-            [
-                4,
-                "kubernetes troubleshooting questions"
+                "cloud run vs kubernetes"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "kubernetes vs docker"
+                "container orchestration tools"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "container orchestration tools list"
             ],
             [
                 2,
-                "kubernetes vs docker vs jenkins vs ansible"
-            ],
-            [
-                3,
-                "kubernetes vs docker compose"
-            ],
-            [
-                4,
-                "kubernetes vs docker videos"
-            ],
-            [
-                5,
-                "kubernetes vs docker difference"
-            ],
-            [
-                6,
-                "kubernetes vs dockers vs containers"
-            ],
-            [
-                7,
-                "kubernetes vs docker youtube"
-            ],
-            [
-                8,
-                "kubernetes vs docker vs jenkins"
-            ],
-            [
-                9,
-                "kubernetes vs docker aws"
+                "container orchestration tool"
             ],
             [
                 0,
-                "kubernetes architecture diagram"
+                "kubernetes pods explained in detail"
             ],
             [
                 1,
-                "kubernetes architecture diagram explained"
+                "kubernetes pods explained for dummies"
             ],
             [
                 2,
-                "azure kubernetes architecture diagram"
+                "kubernetes pods explained pdf"
             ],
             [
                 3,
-                "aws kubernetes architecture diagram"
-            ],
-            [
-                4,
-                "kubernetes architectural diagram"
+                "kubernetes pods explained simply"
             ],
             [
                 0,
-                "kubernetes use cases"
+                "helm charts kubernetes"
             ],
             [
                 1,
-                "kubernetes use cases examples"
+                "helm charts kubernetes example"
             ],
             [
                 2,
-                "kubernetes use cases pdf"
-            ],
-            [
-                3,
-                "kubernetes use cases list"
-            ],
-            [
-                4,
-                "kubernetes use cases explained"
-            ],
-            [
-                5,
-                "kubernetes use cases quiz"
-            ],
-            [
-                6,
-                "kubernetes use cases chart"
-            ],
-            [
-                7,
-                "kubernetes use cases types"
-            ],
-            [
-                8,
-                "kubernetes use cases definition"
-            ],
-            [
-                9,
-                "kubernetes use cases using"
+                "helm charts kubernetes deployment"
             ],
             [
                 0,
-                "kubernetes deployment strategies"
+                "kubernetes persistent volume claim"
             ],
             [
                 1,
-                "kubernetes deployment strategies pdf"
+                "kubernetes persistent volume example"
             ],
             [
                 2,
-                "kubernetes deployment strategies examples"
-            ],
-            [
-                3,
-                "kubernetes deployment strategies list"
-            ],
-            [
-                4,
-                "kubernetes deployment strategies cheat sheet"
-            ],
-            [
-                5,
-                "kubernetes deployment strategies using"
-            ],
-            [
-                6,
-                "kubernetes deployment strategies ppt"
-            ],
-            [
-                7,
-                "kubernetes deployment strategies guide"
-            ],
-            [
-                8,
-                "kubernetes deployment strategies explained"
-            ],
-            [
-                9,
-                "kubernetes deployment strategies example"
+                "kubernetes persistent volume"
             ],
             [
                 0,
@@ -1113,117 +917,89 @@
             ],
             [
                 0,
-                "kubernetes security best practices"
+                "kubernetes network policy"
             ],
             [
                 1,
-                "kubernetes security best practices pdf"
-            ],
-            [
-                2,
-                "kubernetes security best practices list"
-            ],
-            [
-                3,
-                "kubernetes security best practices examples"
-            ],
-            [
-                4,
-                "kubernetes security best practices 2025"
-            ],
-            [
-                5,
-                "kubernetes security best practices book"
-            ],
-            [
-                6,
-                "kubernetes security best practices guide"
-            ],
-            [
-                7,
-                "kubernetes security best practices course"
-            ],
-            [
-                8,
-                "kubernetes security best practices using"
-            ],
-            [
-                9,
-                "kubernetes security best practices training"
+                "kubernetes network policies"
             ],
             [
                 0,
-                "kubernetes monitoring tools"
+                "cloud providers kubernetes list"
             ],
             [
                 1,
-                "kubernetes monitoring tool"
-            ],
-            [
-                0,
-                "kubernetes troubleshooting guide pdf"
-            ],
-            [
-                1,
-                "kubernetes troubleshooting guide download"
+                "cloud providers kubernetes download"
             ],
             [
                 2,
-                "kubernetes troubleshooting guide book"
+                "cloud providers kubernetes meaning"
             ],
             [
                 3,
-                "kubernetes troubleshooting guide youtube"
+                "cloud providers kubernetes documentation"
             ]
         ],
         "youtube": [
             [
                 0,
-                "kubernetes vs docker"
+                "kubernetes pods explained"
             ],
             [
                 1,
-                "kubernetes vs docker swarm"
+                "kubernetes pod yaml explained"
+            ],
+            [
+                0,
+                "kubernetes service vs ingress"
+            ],
+            [
+                0,
+                "helm charts kubernetes"
+            ],
+            [
+                1,
+                "helm charts kubernetes tutorial"
             ],
             [
                 2,
-                "kubernetes vs docker compose"
+                "helm charts kubernetes in telugu"
             ],
             [
                 3,
-                "kubernetes vs docker explained with diagrams"
+                "helm charts kubernetes tamil"
             ],
             [
                 4,
-                "kubernetes vs docker شرح"
+                "helm charts kubernetes hindi"
             ],
             [
                 5,
-                "kubernetes vs docker hindi"
+                "helm charts kubernetes deployment"
             ],
             [
                 6,
-                "kubernetes vs docker in tamil"
+                "helm charts kubernetes explained"
             ],
             [
                 7,
-                "kubernetes vs docker vs jenkins"
+                "helm charts kubernetes azure"
             ],
             [
                 8,
-                "kubernetes vs docker español"
+                "helm charts kubernetes abhishek"
+            ],
+            [
+                9,
+                "helm charts kubernetes spring boot"
             ],
             [
                 0,
-                "kubernetes architecture diagram"
+                "kubernetes persistent volumes"
             ],
             [
-                0,
-                "kubernetes use cases"
-            ],
-            [
-                0,
-                "kubernetes deployment strategies"
+                1,
+                "kubernetes persistent volume tutorial"
             ],
             [
                 0,
@@ -1243,15 +1019,19 @@
             ],
             [
                 0,
-                "kubernetes security best practices"
-            ],
-            [
-                0,
-                "kubernetes monitoring tools"
+                "kubernetes network policies"
             ],
             [
                 1,
-                "kubernetes management tools"
+                "kubernetes network policy explained"
+            ],
+            [
+                2,
+                "kubernetes network policy tutorial"
+            ],
+            [
+                0,
+                "cloud computing kubernetes"
             ]
         ]
     },
@@ -1272,166 +1052,185 @@
     },
     "pages": [
         {
-            "group": "Comparisons",
-            "title": "kubernetes vs docker",
-            "intent": "commercial",
-            "keywords": [
-                "kubernetes vs docker",
-                "docker",
-                "k3s",
-                "openshift",
-                "kubernetes vs docker swarm",
-                "kubernetes vs docker compose",
-                "what is kubernetes vs docker",
-                "kubernetes vs docker vs jenkins",
-                "kubernetes vs docker vs container",
-                "kubernetes vs docker differences"
-            ]
-        },
-        {
-            "group": "Comparisons",
-            "title": "kubernetes use cases",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes and how does it work",
             "intent": "informational",
             "keywords": [
-                "kubernetes use cases",
-                "kubernetes use cases examples"
+                "what is kubernetes and how does it work",
+                "what is kubernetes and how it works",
+                "cloud native computing foundation",
+                "containerization",
+                "kubernetes api",
+                "kubernetes architecture",
+                "kubernetes certification programs",
+                "kubernetes configmaps",
+                "kubernetes dashboards",
+                "kubernetes deployments",
+                "kubernetes monitoring tools",
+                "kubernetes namespaces",
+                "kubernetes nodes",
+                "kubernetes operators",
+                "kubernetes replicasets",
+                "kubernetes secrets",
+                "kubernetes troubleshooting",
+                "kubernetes vs docker",
+                "open-source software",
+                "virtual machine",
+                "what is kubernetes cluster",
+                "computer cluster",
+                "kubernetes cluster",
+                "what is kubernetes and docker",
+                "docker",
+                "what is kubernetes vs docker",
+                "what is kubernetes used for"
             ]
         },
         {
-            "group": "Introduction",
-            "title": "what is kubernetes",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes pod",
+            "intent": "informational",
+            "keywords": [
+                "what is kubernetes pod",
+                "kubernetes pods explained",
+                "what is kubernetes container",
+                "kubernetes pods explained in detail"
+            ]
+        },
+        {
+            "group": "Kubernetes Autoscaling",
+            "title": "kubernetes autoscaling",
             "intent": "informational",
             "keywords": [
                 "kubernetes autoscaling",
-                "cloud native computing foundation",
-                "containerization",
-                "open service mesh",
-                "open-source software",
-                "what is kubernetes and how does it work",
-                "what is kubernetes used for",
-                "what is kubernetes and how it works"
-            ]
-        },
-        {
-            "group": "Introduction",
-            "title": "what is kubernetes cluster",
-            "intent": "informational",
-            "keywords": [
-                "what is kubernetes cluster",
                 "kubernetes node autoscaling",
-                "clusters",
-                "computer cluster",
-                "configmaps",
-                "helm",
-                "ingress",
-                "list of cluster management software",
-                "nodes",
-                "persistentvolume",
-                "secrets",
-                "services",
-                "virtual machine",
-                "what is kubernetes pod",
-                "pods",
-                "what is kubernetes container"
+                "kubernetes event driven autoscaling"
             ]
         },
         {
-            "group": "Monitoring & Security",
-            "title": "kubernetes security best practices",
+            "group": "Kubernetes Autoscaling",
+            "title": "cloud providers kubernetes",
             "intent": "commercial",
             "keywords": [
-                "kubernetes security best practices",
-                "kubernetes security best practices pdf",
-                "kubernetes security guide for best practices"
+                "cloud providers kubernetes",
+                "kubernetes cost management",
+                "cloud computing kubernetes",
+                "kubernetes azure cloud provider",
+                "budget kubernetes cloud providers",
+                "cloud providers kubernetes list"
             ]
         },
         {
-            "group": "Monitoring & Security",
-            "title": "kubernetes monitoring tools",
+            "group": "Kubernetes Autoscaling",
+            "title": "container orchestration tools",
             "intent": "informational",
             "keywords": [
-                "kubernetes monitoring tools",
-                "kubernetes management tools"
+                "container orchestration tools",
+                "k3s",
+                "openshift",
+                "container orchestration tools list",
+                "list of cluster management software",
+                "what is kubernetes in devops"
             ]
         },
         {
-            "group": "Architecture",
-            "title": "kubernetes architecture diagram",
-            "intent": "informational",
+            "group": "Kubernetes Deployment",
+            "title": "helm charts kubernetes deployment",
+            "intent": "commercial",
             "keywords": [
-                "kubernetes architecture diagram",
-                "kubernetes architecture diagram explained",
-                "azure kubernetes architecture diagram",
-                "kubernetes architecture diagram simple",
-                "aws kubernetes architecture diagram"
-            ]
-        },
-        {
-            "group": "Deployment",
-            "title": "kubernetes deployment strategies",
-            "intent": "informational",
-            "keywords": [
+                "helm charts kubernetes deployment",
+                "helm charts kubernetes",
                 "kubernetes deployment strategies",
-                "deployments",
-                "kubernetes deployment strategy types",
-                "kubernetes deployment strategy rollingupdate"
+                "helm charts kubernetes tutorial",
+                "helm charts kubernetes example",
+                "helm charts kubernetes explained"
+            ]
+        },
+        {
+            "group": "Kubernetes Storage",
+            "title": "kubernetes persistent volumes",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes persistent volumes",
+                "kubernetes persistent volume claim",
+                "kubernetes persistent volume example",
+                "kubernetes persistent volume access modes"
+            ]
+        },
+        {
+            "group": "Kubernetes Networking",
+            "title": "kubernetes network policies",
+            "intent": "commercial",
+            "keywords": [
+                "kubernetes network policies",
+                "kubernetes security best practices",
+                "open service mesh",
+                "kubernetes service vs ingress",
+                "kubernetes network policy"
             ]
         }
     ],
     "categories": {
         "kubernetes autoscaling": "core",
         "what is kubernetes cluster": "core",
-        "kubernetes architecture diagram": "core",
-        "kubernetes deployment strategies": "core",
-        "kubernetes monitoring tools": "core",
-        "kubernetes security best practices": "commercial",
-        "kubernetes use cases": "core",
-        "kubernetes vs docker": "core",
-        "kubernetes vs docker swarm": "core",
-        "kubernetes vs docker compose": "core",
-        "what is kubernetes and docker": "doubtful",
+        "helm charts kubernetes": "core",
+        "kubernetes network policies": "core",
+        "kubernetes persistent volumes": "core",
+        "what is kubernetes and docker": "core",
+        "container orchestration tools": "core",
+        "kubernetes pods explained": "core",
+        "kubernetes service vs ingress": "core",
         "what is kubernetes vs docker": "core",
-        "kubernetes architecture diagram explained": "core",
-        "kubernetes use cases examples": "core",
+        "helm charts kubernetes deployment": "core",
+        "kubernetes persistent volume claim": "core",
+        "helm charts kubernetes tutorial": "core",
         "what is kubernetes and how does it work": "core",
         "what is kubernetes pod": "core",
-        "kubernetes vs docker vs jenkins": "core",
+        "cloud computing kubernetes": "core",
+        "container orchestration tools list": "core",
         "what is kubernetes container": "core",
-        "kubernetes deployment strategy types": "core",
+        "helm charts kubernetes example": "core",
         "what is kubernetes used for": "core",
-        "azure kubernetes architecture diagram": "complementary",
+        "kubernetes azure cloud provider": "complementary",
         "kubernetes node autoscaling": "complementary",
-        "kubernetes security best practices pdf": "commercial",
-        "kubernetes architecture diagram simple": "complementary",
-        "kubernetes management tools": "complementary",
         "what is kubernetes and how it works": "complementary",
-        "kubernetes vs docker vs container": "complementary",
-        "aws kubernetes architecture diagram": "complementary",
-        "kubernetes deployment strategy rollingupdate": "complementary",
-        "kubernetes vs docker differences": "complementary",
-        "what is kubernetes in devops": "doubtful",
-        "kubernetes security guide for best practices": "commercial",
-        "pods": "core",
-        "nodes": "core",
-        "clusters": "core",
-        "deployments": "core",
-        "services": "core",
-        "configmaps": "core",
-        "secrets": "core",
-        "persistentvolume": "core",
-        "ingress": "core",
-        "helm": "commercial",
-        "open-source software": "core",
+        "helm charts kubernetes explained": "complementary",
+        "helm charts kubernetes interview questions": "doubtful",
+        "kubernetes persistent volume example": "complementary",
+        "what is kubernetes in devops": "complementary",
+        "kubernetes persistent volume access modes": "complementary",
+        "budget kubernetes cloud providers": "commercial",
+        "kubernetes event driven autoscaling": "complementary",
+        "cloud providers kubernetes": "complementary",
+        "cloud providers kubernetes list": "complementary",
+        "kubernetes network policy": "complementary",
+        "kubernetes pods explained in detail": "complementary",
+        "kubernetes architecture": "core",
+        "kubernetes vs docker": "core",
+        "kubernetes deployment strategies": "core",
+        "kubernetes cost management": "commercial",
+        "kubernetes security best practices": "commercial",
+        "kubernetes monitoring tools": "core",
+        "kubernetes troubleshooting": "core",
+        "kubernetes certification programs": "core",
+        "kubernetes cluster": "core",
+        "kubernetes api": "core",
+        "kubernetes nodes": "core",
+        "kubernetes deployments": "core",
+        "kubernetes replicasets": "core",
+        "kubernetes namespaces": "core",
+        "kubernetes configmaps": "core",
+        "kubernetes secrets": "core",
+        "kubernetes dashboards": "core",
+        "kubernetes operators": "core",
+        "open-source software": "complementary",
         "virtual machine": "complementary",
-        "containerization": "core",
+        "containerization": "complementary",
         "computer cluster": "complementary",
         "cloud native computing foundation": "complementary",
         "docker": "complementary",
         "list of cluster management software": "complementary",
         "open service mesh": "complementary",
         "openshift": "commercial",
-        "k3s": "commercial",
-        "kubernetes troubleshooting guide": "doubtful",
-        "kubernetes troubleshooting guide pdf": "doubtful"
+        "k3s": "commercial"
     }
 }

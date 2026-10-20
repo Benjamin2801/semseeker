@@ -60,11 +60,16 @@ final class CohereConceptFinder implements ConceptFinderInterface
         ressorts, latex"). Every concept must fit this sentence.
 
         ## Facets
-        facets, written before the concepts: the 6 to 8 facets any complete page about the seed must cover, as short
-        generic labels, most important first: what it is and its kinds, how to choose, price and budget, steps and
-        organisation, practical needs, problems, regulation or aid when they exist ("matelas mousse": types de mousse,
-        fermeté, prix, entretien, durée de vie, allergies). Then pick the concepts so that each of the most important
-        facets gets one, phrased the way people search it.
+        facets, written before the concepts: the 6 to 8 facets any complete page about the seed must cover, most
+        important first: what it is and its kinds, how to choose, price and budget, steps and organisation, practical
+        needs, parts or components, problems, regulation or aid when they exist. Each facet is a short search phrase
+        with the subject, in the given language, lowercase ("matelas mousse": "types de mousse matelas", "fermeté
+        matelas mousse", "prix matelas mousse", "entretien matelas mousse", "durée de vie matelas mousse").
+        The facets follow the intent of the seed: when it is about acting or buying (installing, hiring, a price, a
+        quote, a training to take), they are the decisions and steps of doing it ("devis pose parquet", "prix pose
+        parquet m2", "poseur parquet", "aides rénovation", "délai pose parquet" for "pose parquet"), not what the
+        thing is or how it works; when it is about understanding, they are its notions and parts.
+        Then pick the concepts so that each of the most important facets gets one, phrased the way people search it.
 
         ## Core terms
         core: 10 terms, 1 to 3 words, that any complete page about the seed must use: its main kinds, parts,
@@ -94,6 +99,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
     ], 'required' => ['subject', 'niche', 'facets', 'concepts', 'core']];
 
     private const CORE_COUNT = 10;
+    private const FACET_COUNT = 8;
 
     public function __construct(
         private readonly CohereChat $cohere,
@@ -140,7 +146,9 @@ final class CohereConceptFinder implements ConceptFinderInterface
             $ideas = [
                 'concepts' => \array_slice(self::neighbours(self::phrases($json['concepts'] ?? [], $seedKey), $prefix), 0, self::COUNT),
                 'subject' => '' !== $subject ? $subject : null,
-                'core' => \array_slice(self::phrases($json['core'] ?? [], $seedKey), 0, self::CORE_COUNT),
+                // Les facettes rejoignent les termes essentiels : le plan les reçoit même quand aucune suggestion ne les porte.
+                'core' => array_values(array_unique([...\array_slice(self::phrases($json['facets'] ?? [], $seedKey), 0, self::FACET_COUNT),
+                    ...\array_slice(self::phrases($json['core'] ?? [], $seedKey), 0, self::CORE_COUNT)])),
             ];
             if ([] !== $ideas['concepts']) {
                 $this->cache->save($item->set($ideas)->expiresAfter(self::CACHE_TTL));

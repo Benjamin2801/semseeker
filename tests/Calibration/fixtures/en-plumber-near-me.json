@@ -15,45 +15,44 @@
     "failed": [],
     "concepts": [
         "emergency plumber",
-        "drain cleaning service",
-        "plumbing repair costs",
-        "licensed plumber near me",
-        "24 hour plumber",
-        "leaky faucet repair",
-        "sewer line inspection",
-        "water heater installation"
+        "affordable plumber",
+        "licensed plumber",
+        "plumber for leaks",
+        "plumber for clogs",
+        "plumber for installation",
+        "plumber 24/7"
     ],
     "suggestions": {
         "amazon": [
             "plumber near me"
         ],
         "bing": [
+            "plumber near me",
             "plumber near me reviews",
             "plumber near me emergency",
             "plumber near me residential",
-            "plumber near me",
-            "plumber near me cheap",
             "plumber near me cost",
+            "plumber near me cheap",
             "plumber near me rates",
             "plumber near me charges",
             "plumber near me availability",
-            "plumber near me free estimate",
             "plumber near me llc",
-            "plumber near me phone number",
             "plumber near me 24/7",
-            "plumber near me llc midlothian va",
+            "plumber near me free estimate",
             "plumber near me cypress tx",
+            "plumber near me phone number",
             "plumber near me richmond va",
-            "plumber near me midlothian va",
+            "plumber near me llc midlothian va",
             "plumber near merrifield",
+            "plumber near me midlothian va",
             "plumber near me buda tx"
         ],
         "duckduckgo": [
             "plumber near me",
             "plumber near me reviews",
             "plumber near me emergency",
-            "plumber near me in innenstadt",
-            "plumber near me in nordend-west",
+            "plumber near me in southfields",
+            "plumber near me in wandsworth common",
             "plumber near me residential",
             "plumber near me cost",
             "plumber near me rates"
@@ -92,72 +91,6 @@
         ]
     },
     "related": {
-        "amazon": [
-            [
-                0,
-                "leaky faucet repair kit"
-            ],
-            [
-                0,
-                "sewer line inspection camera"
-            ],
-            [
-                1,
-                "sewer line inspection camera with digital locator"
-            ],
-            [
-                2,
-                "sewer line inspection tools"
-            ],
-            [
-                3,
-                "sewer line inspection camera with digital locator 7mm cable"
-            ],
-            [
-                4,
-                "sewer line inspection camera 150 ft"
-            ],
-            [
-                0,
-                "water heater installation kit"
-            ],
-            [
-                1,
-                "tankless water heater installation kit"
-            ],
-            [
-                2,
-                "water heater installation"
-            ],
-            [
-                3,
-                "water heater installation kit with tank tee"
-            ],
-            [
-                4,
-                "water heater installation parts"
-            ],
-            [
-                5,
-                "water heater installation sticker"
-            ],
-            [
-                6,
-                "water heater installation tools"
-            ],
-            [
-                7,
-                "water heater installation blanket"
-            ],
-            [
-                8,
-                "water heater installation kit electric"
-            ],
-            [
-                9,
-                "water heater installation air duct tape"
-            ]
-        ],
         "bing": [
             [
                 0,
@@ -261,371 +194,335 @@
             ],
             [
                 0,
-                "drain cleaning services"
+                "affordable plumbers near me"
             ],
             [
                 1,
-                "drain cleaning services near me"
+                "affordable plumbers"
             ],
             [
                 2,
-                "drain cleaning services south africa"
+                "affordable plumber near me free quote"
             ],
             [
                 3,
-                "drain cleaning services near me coupons"
+                "affordable plumbers near me reviews"
             ],
             [
                 4,
-                "drain cleaning service north shields uk"
+                "affordable plumbers near me emergency"
             ],
             [
                 5,
-                "drain cleaning services near me reviews"
+                "affordable plumbers san diego"
             ],
             [
                 6,
-                "drain cleaning services near me free estimate"
+                "affordable plumbers near me contact"
             ],
             [
                 7,
-                "drain cleaning services near me emergency"
+                "affordable plumbers nyc"
             ],
             [
                 8,
-                "drain cleaning service north shields offers"
+                "affordable plumbers nj"
             ],
             [
                 9,
-                "drain cleaning services near me cheap"
+                "affordable plumbers near me free estimate"
             ],
             [
                 10,
-                "drain cleaning services near me open now"
+                "affordable plumbers in miami"
             ],
             [
                 11,
-                "drain cleaning services near my location"
+                "affordable plumber phoenix az"
             ],
             [
                 12,
-                "drain cleaning service north shields 24/7"
+                "affordable plumbers in mobile"
             ],
             [
                 13,
-                "drain cleaning services in denver"
-            ],
-            [
-                0,
-                "plumbing repair costs"
-            ],
-            [
-                1,
-                "plumbing repair costa mesa ca"
-            ],
-            [
-                2,
-                "plumbing repair cost estimator"
-            ],
-            [
-                3,
-                "plumbing repair cost per hour"
-            ],
-            [
-                4,
-                "plumbing drain repair cost"
-            ],
-            [
-                5,
-                "cheap plumbing repair cost"
-            ],
-            [
-                6,
-                "cheap plumbing repair cost estimate"
-            ],
-            [
-                7,
-                "austin plumbing repair cost"
-            ],
-            [
-                8,
-                "atlanta plumbing repair cost"
-            ],
-            [
-                9,
-                "hurricane plumbing repair cost"
-            ],
-            [
-                0,
-                "licensed plumber near me"
-            ],
-            [
-                1,
-                "licensed plumber near me emergency"
-            ],
-            [
-                2,
-                "licensed plumber near me cost"
-            ],
-            [
-                3,
-                "licensed plumber near me reviews"
-            ],
-            [
-                4,
-                "licensed plumber near me residential"
-            ],
-            [
-                5,
-                "licensed contractor plumber near me"
-            ],
-            [
-                6,
-                "licensed contractor plumber near me cost"
-            ],
-            [
-                7,
-                "licensed contractor plumber near me reviews"
-            ],
-            [
-                8,
-                "licensed gas plumber near me"
-            ],
-            [
-                9,
-                "licensed plumber houston near me"
-            ],
-            [
-                0,
-                "24 hour plumber near me"
-            ],
-            [
-                1,
-                "24 hour plumber"
-            ],
-            [
-                2,
-                "24 hour plumbers in my area"
-            ],
-            [
-                3,
-                "24 hour plumbers sacramento ca"
-            ],
-            [
-                4,
-                "24 hour plumber near me cost"
-            ],
-            [
-                5,
-                "24 hour plumber service near me"
-            ],
-            [
-                6,
-                "24 hour plumber near me reviews"
-            ],
-            [
-                7,
-                "24 hour plumber near me cheap"
-            ],
-            [
-                8,
-                "24 hour plumber near me emergency"
-            ],
-            [
-                9,
-                "24 hour plumber service near me cost"
-            ],
-            [
-                10,
-                "24 hour plumbers near me phone number"
-            ],
-            [
-                11,
-                "24 hour plumber service near me reviews"
-            ],
-            [
-                0,
-                "leaky faucet repair"
-            ],
-            [
-                1,
-                "leaky faucet repair youtube"
-            ],
-            [
-                2,
-                "leaky faucet repair kit"
-            ],
-            [
-                3,
-                "leaky faucet repair cost"
-            ],
-            [
-                4,
-                "leaky faucet repair near me"
-            ],
-            [
-                5,
-                "leaky outdoor faucet repair"
-            ],
-            [
-                6,
-                "leaky tub faucet repair"
-            ],
-            [
-                7,
-                "leaky faucet handle repair"
-            ],
-            [
-                0,
-                "sewer line inspection"
-            ],
-            [
-                1,
-                "sewer line inspection camera"
-            ],
-            [
-                2,
-                "sewer line inspection cost"
-            ],
-            [
-                3,
-                "sewer line inspection near me"
-            ],
-            [
-                4,
-                "sewer line inspection summit nj"
-            ],
-            [
-                5,
-                "sewer line inspection services near me"
-            ],
-            [
-                6,
-                "sewer line inspections dutchess county"
-            ],
-            [
-                7,
-                "sewer line inspection report"
-            ],
-            [
-                8,
-                "sewer line inspection companies"
-            ],
-            [
-                9,
-                "sewer line inspection camera for sale"
-            ],
-            [
-                10,
-                "sewer line inspection video"
-            ],
-            [
-                11,
-                "sewer line inspection near whitefish bay wi"
-            ],
-            [
-                12,
-                "sewer line inspection nj"
-            ],
-            [
-                0,
-                "water heater installation"
-            ],
-            [
-                1,
-                "water heater installation cost"
-            ],
-            [
-                2,
-                "water heater installation near me"
-            ],
-            [
-                3,
-                "water heater installation kit"
-            ],
-            [
-                4,
-                "water heater installation cypress tx"
-            ],
-            [
-                5,
-                "water heater installation katy tx"
-            ],
-            [
-                6,
-                "water heater installation service near me"
-            ],
-            [
-                7,
-                "water heater installation kansas city"
-            ],
-            [
-                8,
-                "water heater installation canyon"
-            ],
-            [
-                9,
-                "water heater installation saginaw mi"
-            ],
-            [
-                10,
-                "water heater installation belfair"
-            ],
-            [
-                11,
-                "water heater installation poulsbo"
-            ],
-            [
-                12,
-                "water heater installation amarillo"
-            ],
-            [
-                13,
-                "water heater installation bainbridge island"
+                "affordable plumbers in modesto"
             ],
             [
                 14,
-                "water heater installation murrieta"
+                "affordable plumbers in memphis"
             ],
             [
                 15,
-                "water heater installation seattle cost"
+                "affordable plumber phoenix rates"
             ],
             [
                 16,
-                "water heater installation seattle coupons"
+                "affordable plumber phoenix contact"
             ],
             [
                 17,
-                "water heater installation seattle near me"
+                "affordable plumber phoenix coupons"
             ],
             [
                 18,
-                "water heater installation seattle reviews"
+                "affordable plumber phoenix reviews"
             ],
             [
                 19,
-                "water heater installation seattle service"
+                "affordable plumber phoenix service"
             ],
             [
                 20,
-                "water heater installation seattle tankless"
+                "affordable plumbers in montgomery"
             ],
             [
                 21,
-                "water heater installation seattle companies"
+                "affordable plumbers in minneapolis"
             ],
             [
                 22,
-                "water heater installation tampa"
+                "affordable plumber phoenix emergency"
             ],
             [
                 23,
-                "water heater installation code texas"
+                "affordable plumbers in san diego ca"
             ],
             [
                 24,
-                "water heater installation las vegas"
+                "affordable plumbers in san diego area"
+            ],
+            [
+                0,
+                "licensed plumber"
+            ],
+            [
+                1,
+                "licensed plumber near me"
+            ],
+            [
+                2,
+                "licensed plumbers in my area"
+            ],
+            [
+                3,
+                "licensed plumbers in markham"
+            ],
+            [
+                4,
+                "licensed plumbers nyc"
+            ],
+            [
+                5,
+                "licensed plumbers in scarborough"
+            ],
+            [
+                6,
+                "licensed plumbers reno"
+            ],
+            [
+                7,
+                "licensed plumbers in chicago"
+            ],
+            [
+                8,
+                "licensed plumbers in brooklyn"
+            ],
+            [
+                9,
+                "licensed plumbers clarksville tn"
+            ],
+            [
+                10,
+                "licensed plumbers in raleigh nc"
+            ],
+            [
+                11,
+                "licensed plumbers tucson az"
+            ],
+            [
+                12,
+                "licensed plumbers in memphis tn"
+            ],
+            [
+                13,
+                "licensed plumbers wilmington nc"
+            ],
+            [
+                14,
+                "licensed plumbers in vancouver wa"
+            ],
+            [
+                15,
+                "licensed plumbers in charlotte nc"
+            ],
+            [
+                16,
+                "licensed plumbers in philadelphia"
+            ],
+            [
+                17,
+                "licensed plumbers cherry hill nj"
+            ],
+            [
+                18,
+                "licensed plumbers in brockton ma"
+            ],
+            [
+                19,
+                "licensed plumbers kingsport tn"
+            ],
+            [
+                20,
+                "licensed plumbers in asheville nc"
+            ],
+            [
+                21,
+                "licensed plumbers in poughkeepsie ny"
+            ],
+            [
+                22,
+                "licensed plumbers in queens ny"
+            ],
+            [
+                23,
+                "licensed plumbers in queens"
+            ],
+            [
+                0,
+                "plumber for leaking toilet"
+            ],
+            [
+                1,
+                "plumber suggestions for leaky faucet"
+            ],
+            [
+                2,
+                "leakson emergency plumber and 24/7 service"
+            ],
+            [
+                3,
+                "average cost for plumber to fix leaky shower"
+            ],
+            [
+                0,
+                "plumber for clogged disposal"
+            ],
+            [
+                1,
+                "plumber for clogged drain how to find"
+            ],
+            [
+                2,
+                "plumber for clogged drain near me"
+            ],
+            [
+                3,
+                "plumber for clogged dishwasher"
+            ],
+            [
+                4,
+                "plumber for clogged drain cost"
+            ],
+            [
+                5,
+                "plumber for clogged drain pipe"
+            ],
+            [
+                6,
+                "plumber for clogged drain tips"
+            ],
+            [
+                7,
+                "plumber for clogged dryer vent"
+            ],
+            [
+                8,
+                "plumber for clogged drain repair"
+            ],
+            [
+                9,
+                "plumber for clogged drain reviews"
+            ],
+            [
+                10,
+                "plumber for clogged drain service"
+            ],
+            [
+                11,
+                "plumber for clogged drain cleaning"
+            ],
+            [
+                12,
+                "plumber for clogged drain solution"
+            ],
+            [
+                13,
+                "plumber for clogged drain emergency"
+            ],
+            [
+                0,
+                "plumber installation"
+            ],
+            [
+                1,
+                "plumber installation near me"
+            ],
+            [
+                2,
+                "plumber sink installation"
+            ],
+            [
+                3,
+                "plumber dishwasher installation service"
+            ],
+            [
+                4,
+                "plumber dishwasher installation time"
+            ],
+            [
+                5,
+                "plumber normal installation"
+            ],
+            [
+                6,
+                "plumber nampa installation"
+            ],
+            [
+                7,
+                "plumber suggestions for shower installation"
+            ],
+            [
+                8,
+                "plumber to hire for installation"
+            ],
+            [
+                9,
+                "plumber for gas line installation near me"
+            ],
+            [
+                0,
+                "plumber 24/7"
+            ],
+            [
+                1,
+                "plumber 24/7 near me"
+            ],
+            [
+                2,
+                "plumber 24 7 near me"
+            ],
+            [
+                3,
+                "local plumber 24/7"
+            ],
+            [
+                4,
+                "rockwall plumber 24/7"
+            ],
+            [
+                5,
+                "renton plumber 24/7"
             ]
         ],
         "duckduckgo": [
@@ -635,11 +532,11 @@
             ],
             [
                 1,
-                "emergency plumber st luke's"
+                "emergency plumber aghards"
             ],
             [
                 2,
-                "emergency plumber broadgate"
+                "emergency plumber thornhill"
             ],
             [
                 3,
@@ -663,245 +560,171 @@
             ],
             [
                 0,
-                "drain cleaning services"
+                "affordable plumbers near me"
             ],
             [
                 1,
-                "drain cleaning service st luke's"
+                "affordable plumber near me free quote"
             ],
             [
                 2,
-                "drain cleaning service broadgate"
+                "affordable plumbers near me reviews"
             ],
             [
                 3,
-                "drain cleaning services near me"
+                "affordable plumbers in west end"
             ],
             [
                 4,
-                "drain cleaning services south africa"
+                "affordable plumbers in mayfair"
             ],
             [
                 5,
-                "drain cleaning services near me coupons"
+                "affordable plumbers near me emergency"
             ],
             [
                 6,
-                "drain cleaning service north shields uk"
+                "affordable plumbers san diego"
             ],
             [
                 7,
-                "drain cleaning services near me reviews"
+                "affordable plumbers near me contact"
             ],
             [
                 0,
-                "plumbing repair costs"
+                "licensed plumber"
             ],
             [
                 1,
-                "plumbing repair costa mesa ca"
+                "licensed plumber hackenviertel"
             ],
             [
                 2,
-                "plumbing repair cost estimator"
+                "licensed plumber altstadt"
             ],
             [
                 3,
-                "plumbing repair cost per hour"
-            ],
-            [
-                4,
-                "plumbing drain repair cost"
-            ],
-            [
-                5,
-                "cheap plumbing repair cost"
-            ],
-            [
-                6,
-                "cheap plumbing repair cost estimate"
-            ],
-            [
-                7,
-                "austin plumbing repair cost"
-            ],
-            [
-                0,
                 "licensed plumber near me"
             ],
             [
-                1,
-                "licensed plumber near me emergency"
-            ],
-            [
-                2,
-                "licensed plumber near me cost"
-            ],
-            [
-                3,
-                "licensed plumber near me reviews"
-            ],
-            [
                 4,
-                "licensed plumber near me residential"
+                "licensed plumbers in markham"
             ],
             [
                 5,
-                "licensed contractor plumber near me"
+                "licensed plumbers nyc"
             ],
             [
                 6,
-                "licensed contractor plumber near me cost"
+                "licensed plumbers in scarborough"
             ],
             [
                 7,
-                "licensed contractor plumber near me reviews"
+                "licensed plumbers reno"
             ],
             [
                 0,
-                "24 hour plumber near me"
+                "plumber for leaking toilet"
             ],
             [
                 1,
-                "24 hour plumber"
+                "plumber suggestions for leaky faucet"
             ],
             [
                 2,
-                "24 hour plumbers in my area"
+                "leakson emergency plumber and 24/7 service"
             ],
             [
                 3,
-                "24 hour plumbers sacramento ca"
+                "average cost for plumber to fix leaky shower"
+            ],
+            [
+                0,
+                "plumber for clogged disposal"
+            ],
+            [
+                1,
+                "plumber for clogged drain how to find"
+            ],
+            [
+                2,
+                "plumber for clogged drain near me"
+            ],
+            [
+                3,
+                "plumber for clogged dishwasher"
             ],
             [
                 4,
-                "24 hour plumber near me cost"
+                "plumber for clogged drain cost"
             ],
             [
                 5,
-                "24 hour plumber service near me"
+                "plumber for clogged drain pipe"
             ],
             [
                 6,
-                "24 hour plumber near me reviews"
+                "plumber for clogged drain tips"
             ],
             [
                 7,
-                "24 hour plumber near me cheap"
+                "plumber for clogged dryer vent"
             ],
             [
                 0,
-                "leaky faucet repair"
+                "plumber installation"
             ],
             [
                 1,
-                "leaky faucet repair aghards"
+                "plumber installation near me"
             ],
             [
                 2,
-                "leaky faucet repair thornhill"
+                "plumber sink installation"
             ],
             [
                 3,
-                "leaky faucet repair youtube"
+                "plumber dishwasher installation service"
             ],
             [
                 4,
-                "leaky faucet repair kit"
+                "plumber dishwasher installation time"
             ],
             [
                 5,
-                "leaky faucet repair cost"
+                "plumber normal installation"
             ],
             [
                 6,
-                "leaky faucet repair near me"
+                "plumber nampa installation"
             ],
             [
                 7,
-                "leaky outdoor faucet repair"
+                "plumber suggestions for shower installation"
             ],
             [
                 0,
-                "sewer line inspection"
+                "plumber 24/7"
             ],
             [
                 1,
-                "sewer line inspection camera"
+                "plumber 24/7 near me"
             ],
             [
                 2,
-                "sewer line inspection cost"
+                "plumber 24 7 near me"
             ],
             [
                 3,
-                "sewer line inspection near me"
+                "local plumber 24/7"
             ],
             [
                 4,
-                "sewer line inspection summit nj"
+                "rockwall plumber 24/7"
             ],
             [
                 5,
-                "sewer line inspection services near me"
-            ],
-            [
-                6,
-                "sewer line inspections dutchess county"
-            ],
-            [
-                7,
-                "sewer line inspection companies"
-            ],
-            [
-                0,
-                "water heater installation"
-            ],
-            [
-                1,
-                "water heater installation cost"
-            ],
-            [
-                2,
-                "water heater installation cypress tx"
-            ],
-            [
-                3,
-                "water heater installation katy tx"
-            ],
-            [
-                4,
-                "water heater installation service near me"
-            ],
-            [
-                5,
-                "water heater installation kansas city"
-            ],
-            [
-                6,
-                "water heater installation canyon"
-            ],
-            [
-                7,
-                "water heater installation saginaw mi"
-            ]
-        ],
-        "ebay": [
-            [
-                0,
-                "water heater installation kit"
-            ],
-            [
-                1,
-                "gas water heater installation kit"
-            ],
-            [
-                2,
-                "electric water heater installation kit"
-            ],
-            [
-                3,
-                "tankless water heater installation kit"
+                "renton plumber 24/7"
             ]
         ],
         "google": [
@@ -947,283 +770,237 @@
             ],
             [
                 0,
-                "drain cleaning service"
+                "affordable plumbers near me"
             ],
             [
                 1,
-                "drain cleaning service near me"
+                "affordable plumber"
             ],
             [
                 2,
-                "drain cleaning service cost"
+                "affordable plumbers in my area"
             ],
             [
                 3,
-                "drain cleaning services in my area"
+                "affordable plumber co llc"
             ],
             [
                 4,
-                "drain cleaning service near me prices"
+                "affordable plumber llc"
             ],
             [
                 5,
-                "drain cleaning services sheffield"
+                "affordable plumber az llc"
             ],
             [
                 6,
-                "drain cleaning services delhi"
+                "affordable plumber llc pawtucket reviews"
             ],
             [
                 7,
-                "drain cleaning service dubai"
+                "affordable plumbers richmond va"
             ],
             [
                 8,
-                "drain cleaning services toronto"
+                "affordable plumbers san antonio"
             ],
             [
                 9,
-                "drain cleaning services calgary"
+                "affordable plumber castle rock"
             ],
             [
                 0,
-                "plumbing repair costs"
+                "licensed plumbers near me"
             ],
             [
                 1,
-                "plumber repair costs"
+                "licensed plumber"
             ],
             [
                 2,
-                "plumbing service costs"
+                "licensed plumber salary"
             ],
             [
                 3,
-                "plumbing replacement costs"
+                "licensed plumbers in my area"
             ],
             [
                 4,
-                "pipe repair costs"
+                "licensed plumber lookup"
             ],
             [
                 5,
-                "plumbing repair cost estimator"
+                "licensed plumber jobs"
             ],
             [
                 6,
-                "plumbing repair cost per hour"
+                "licensed plumber jobs near me"
             ],
             [
                 7,
-                "plumbing repair cost guide"
+                "licensed plumber hourly rate"
             ],
             [
                 8,
-                "plumbing repair cost near me"
-            ],
-            [
-                9,
-                "plumbing repair price list"
-            ],
-            [
-                0,
-                "licensed plumber near me"
-            ],
-            [
-                1,
                 "licensed plumber near me residential"
             ],
             [
-                2,
-                "licensed plumber near me open now"
-            ],
-            [
-                3,
-                "licensed plumber near me prices"
-            ],
-            [
-                4,
-                "licensed plumbing near me"
-            ],
-            [
-                5,
-                "licensed plumbers near me within 5 mi"
-            ],
-            [
-                6,
-                "licensed plumbers near me within 20 mi"
-            ],
-            [
-                7,
-                "master plumber near me"
-            ],
-            [
-                8,
-                "certified plumber near me"
-            ],
-            [
                 9,
-                "registered plumber near me"
+                "licensed plumber requirements"
             ],
             [
                 0,
-                "24 hour plumber near me"
+                "plumbing for leaks"
             ],
             [
                 1,
-                "24 hour plumber"
+                "plumber tape for leaks"
             ],
             [
                 2,
-                "24 hour plumber service near me"
+                "plumber putty for leaks"
             ],
             [
                 3,
-                "24 hour plumber near me open now"
+                "plumber check for leaks"
             ],
             [
                 4,
-                "24 hour plumber service"
+                "plumber for gas leaks"
             ],
             [
                 5,
-                "24 hour plumber emergency"
+                "plumber check for leaks cost"
             ],
             [
                 6,
-                "24 hour plumber near me cheap"
+                "plumber for water leaks"
             ],
             [
                 7,
-                "24 hour plumbers in my area"
+                "do plumbers fix water leaks"
             ],
             [
                 8,
-                "24 hour plumber atlanta"
+                "how much is a plumber to fix a leak"
             ],
             [
                 9,
-                "24 hour plumber san diego"
+                "how much do plumbers charge to fix leaks"
             ],
             [
                 0,
-                "leaky faucet repair"
+                "plumber for clogs"
             ],
             [
                 1,
-                "leaky faucet repair kit"
+                "plumber tool for clogs"
             ],
             [
                 2,
-                "leaky faucet repair near me"
+                "plumber clogs restaurant"
             ],
             [
                 3,
-                "leaky faucet repair cost"
+                "liquid plumber for toilet clogs"
             ],
             [
                 4,
-                "leaky faucet repair bathtub"
+                "liquid plumr for hair clogs"
             ],
             [
                 5,
-                "leaky faucet repair shower"
+                "when to call a plumber for a clogged drain"
             ],
             [
                 6,
-                "leaky faucet repair outdoor"
-            ],
-            [
-                7,
-                "leaky faucet repair bathroom"
-            ],
-            [
-                8,
-                "leak faucet repair"
-            ],
-            [
-                9,
-                "leaky tap repair"
+                "why do plumbers say not to use drano"
             ],
             [
                 0,
-                "sewer line inspection"
+                "plumber for installation"
             ],
             [
                 1,
-                "sewer line inspection cost"
+                "plumber for dishwasher installation"
             ],
             [
                 2,
-                "sewer line inspection camera"
+                "plumber for toilet installation"
             ],
             [
                 3,
-                "sewer line inspection near me"
+                "plumber for sink installation"
             ],
             [
                 4,
-                "sewer line inspection camera rental"
+                "plumber for bidet installation"
             ],
             [
                 5,
-                "sewer line inspection report"
+                "plumber for shower installation"
             ],
             [
                 6,
-                "sewer line inspection nj"
+                "plumber for faucet installation"
             ],
             [
                 7,
-                "sewer line inspection for home purchase"
+                "plumber for geyser installation"
             ],
             [
                 8,
-                "sewer line inspection when buying a house"
+                "plumber for toilet installation near me"
             ],
             [
                 9,
-                "sewer line inspection edmonton"
+                "plumber for ro installation"
             ],
             [
                 0,
-                "water heater installation"
+                "plumber 24/7"
             ],
             [
                 1,
-                "water heater installation cost"
+                "plumber 24/7 near me"
             ],
             [
                 2,
-                "water heater installation near me"
+                "plumber 24 7"
             ],
             [
                 3,
-                "water heater installation kit"
+                "plumber 24 hours"
             ],
             [
                 4,
-                "water heater installation cost home depot"
+                "plumber 24 7 near me"
             ],
             [
                 5,
-                "water heater installation diagram"
+                "plumber 24 hours near me"
             ],
             [
                 6,
-                "water heater installation cost near me"
+                "plumber 24"
             ],
             [
                 7,
-                "water heater installation price"
+                "plumber 24 hour service"
             ],
             [
                 8,
-                "water heater installation kit home depot"
+                "plumber 24 hour service near me"
             ],
             [
                 9,
-                "water heater installation labor cost"
+                "plumber 24 jam"
+            ]
+        ],
+        "indeed": [
+            [
+                0,
+                "licensed plumber"
             ]
         ],
         "yahoo": [
@@ -1269,251 +1046,195 @@
             ],
             [
                 0,
-                "drain cleaning services near me"
+                "affordable plumbers near me"
             ],
             [
                 1,
-                "drain cleaning service tulsa"
+                "affordable plumber"
             ],
             [
                 2,
-                "drain cleaning service cost"
+                "affordable plumbers near me residential"
             ],
             [
                 3,
-                "drain cleaning service hamilton ohio"
+                "affordable plumbers in my area"
             ],
             [
                 4,
-                "drain cleaning service in san antonio"
+                "affordable plumber columbus ga"
             ],
             [
                 5,
-                "drain cleaning service missoula mt"
+                "affordable plumber for toilet repair"
             ],
             [
                 6,
-                "drain cleaning service madison wi"
+                "affordable plumber spring tx"
             ],
             [
                 7,
-                "drain cleaning service prices"
+                "affordable plumber castle rock"
             ],
             [
                 8,
-                "drain cleaning service carlsbad"
+                "affordable plumber in dayton ohio"
             ],
             [
                 9,
-                "drain cleaning service anaheim"
+                "affordable plumber valdosta ga"
             ],
             [
                 0,
-                "plumbing repair costs"
+                "licensed plumbers near me"
             ],
             [
                 1,
-                "plumbing repair costs estimator"
+                "licensed plumbers in my area"
             ],
             [
                 2,
-                "typical plumbing repair costs"
+                "licensed plumber"
             ],
             [
                 3,
-                "average plumbing repair costs"
+                "licensed plumber salary per year"
             ],
             [
                 4,
-                "plumbing repair costs estimates"
-            ],
-            [
-                0,
-                "licensed plumber near me"
-            ],
-            [
-                1,
-                "licensed plumber near me reviews"
-            ],
-            [
-                2,
-                "how to find a licensed plumber near me"
-            ],
-            [
-                3,
-                "licensed plumber near me 07018"
-            ],
-            [
-                4,
-                "cheap licensed plumber near me"
+                "licensed plumber hourly rate"
             ],
             [
                 5,
-                "brooklyn licensed plumber near me"
+                "licensed plumber lookup"
             ],
             [
                 6,
-                "licensed plumber near me near me"
-            ],
-            [
-                0,
-                "24 hour plumbers near me"
-            ],
-            [
-                1,
-                "24 hour plumber"
-            ],
-            [
-                2,
-                "24 hour plumbers near me free estimates"
-            ],
-            [
-                3,
-                "24 hour plumber san antonio"
-            ],
-            [
-                4,
-                "24 hour plumber service"
-            ],
-            [
-                5,
-                "24 hour plumber roto rooter"
-            ],
-            [
-                6,
-                "24 hour plumber appointment"
+                "licensed plumber in queens ny"
             ],
             [
                 7,
-                "24 hour plumber birmingham al"
+                "licensed plumber jobs near me"
             ],
             [
                 8,
-                "24 hour plumber oceanside ca"
+                "licensed plumbers in cheyenne wyoming"
             ],
             [
                 9,
-                "24 hour plumbers in my area"
+                "licensed plumbers near my location"
             ],
             [
                 0,
-                "leaky faucet repair"
+                "plumber to check for leaks"
             ],
             [
                 1,
-                "leaky faucet repair instructions"
+                "plumber for shower leaks"
             ],
             [
                 2,
-                "leaky faucet repair youtube video free"
+                "plumber for water leaks"
             ],
             [
                 3,
-                "leaky faucet repair guide"
+                "plumber putty for leaks"
             ],
             [
                 4,
-                "leaky faucet repair bathtub"
+                "plumber tape for leaks"
             ],
             [
                 5,
-                "leaky faucet repair cost"
+                "plumber for gas leaks"
             ],
             [
                 6,
-                "leaky faucet repair moen"
+                "plumber for slab leaks"
             ],
             [
                 7,
-                "leaky faucet repair washer"
-            ],
-            [
-                8,
-                "leaky faucet repair bathroom sink"
-            ],
-            [
-                9,
-                "leaky faucet repair kit"
+                "plumber for outside leaks"
             ],
             [
                 0,
-                "sewer line inspection"
+                "plumber for clogged drain"
             ],
             [
                 1,
-                "sewer line inspection near me"
+                "plumber for clogged toilet"
             ],
             [
                 2,
-                "sewer line inspection camera"
+                "plumber valve for clogs"
             ],
             [
                 3,
-                "sewer line inspection cost"
+                "plumber for clogged sink"
             ],
             [
                 4,
-                "sewer line inspection pricing"
+                "plumber for clogged kitchen sink"
             ],
             [
                 5,
-                "sewer line inspection scope"
+                "plumber for clogged pipes"
             ],
             [
                 6,
-                "sewer line inspection companies"
+                "plumber for clogged drain near me"
             ],
             [
                 7,
-                "sewer line inspection los angeles"
-            ],
-            [
-                8,
-                "sewer line inspection elk grove"
-            ],
-            [
-                9,
-                "sewer line inspection procedure"
+                "plumber for clogged drains"
             ],
             [
                 0,
-                "water heater installation"
+                "should i tip a plumber for installation"
             ],
             [
                 1,
-                "water heater installation cost"
+                "plumber for water heater installation"
             ],
             [
                 2,
-                "water heater installation near me"
+                "plumber for gas line installation"
             ],
             [
                 3,
-                "water heater installation code requirements"
+                "plumber for toilet installation"
             ],
             [
                 4,
-                "water heater installation cost estimator"
+                "plumber for dishwasher installation"
             ],
             [
                 5,
-                "water heater installation labor cost"
+                "plumber for sink installation"
             ],
             [
-                6,
-                "water heater installation instructions"
+                0,
+                "plumber 24/7"
             ],
             [
-                7,
-                "water heater installation diagram"
+                1,
+                "plumber 24/7 near me"
             ],
             [
-                8,
-                "water heater installation price"
+                2,
+                "emergency plumber 24/7"
             ],
             [
-                9,
-                "water heater installation kit"
+                3,
+                "louisville ky plumber 24/7"
+            ],
+            [
+                4,
+                "plumber 24-7 service"
+            ],
+            [
+                5,
+                "emergency plumber 24/7 near me"
             ]
         ],
         "youtube": [
@@ -1523,139 +1244,31 @@
             ],
             [
                 0,
-                "drain cleaning service"
+                "licensed plumber"
             ],
             [
                 1,
-                "drainage cleaning services"
+                "licensed plumber pop balloon"
             ],
             [
                 2,
-                "drain cleaning company"
-            ],
-            [
-                0,
-                "24 hour plumber"
-            ],
-            [
-                0,
-                "leaky faucet repair"
-            ],
-            [
-                1,
-                "leaky faucet repair one handle"
-            ],
-            [
-                2,
-                "leaky faucet repair two handle"
+                "licensed plumber guy"
             ],
             [
                 3,
-                "leaky faucet repair bathtub"
+                "becoming a licensed plumber"
             ],
             [
                 4,
-                "leaky faucet repair kitchen"
-            ],
-            [
-                5,
-                "leaky faucet repair outdoor"
-            ],
-            [
-                6,
-                "leaky faucet repair shower"
-            ],
-            [
-                7,
-                "leaky faucet repair bathroom sink"
-            ],
-            [
-                8,
-                "leaky faucet repair single handle"
-            ],
-            [
-                9,
-                "leaky faucet repair delta"
+                "arlette amuli licensed plumber"
             ],
             [
                 0,
-                "sewer line inspection"
-            ],
-            [
-                1,
-                "sewer line inspection camera"
-            ],
-            [
-                2,
-                "sewer camera inspection"
-            ],
-            [
-                3,
-                "sewer camera inspection training"
-            ],
-            [
-                4,
-                "sewer pipe inspection"
-            ],
-            [
-                5,
-                "sewer line testing procedure"
-            ],
-            [
-                6,
-                "sewer line testing"
-            ],
-            [
-                7,
-                "cctv sewer line inspection"
-            ],
-            [
-                8,
-                "sewer line scope inspection"
-            ],
-            [
-                9,
-                "sewer line video inspection"
+                "plumber installation"
             ],
             [
                 0,
-                "water heater installation"
-            ],
-            [
-                1,
-                "water heater installation gas"
-            ],
-            [
-                2,
-                "water heater installation electric"
-            ],
-            [
-                3,
-                "water heater installation with expansion tank"
-            ],
-            [
-                4,
-                "water heater installation with pex"
-            ],
-            [
-                5,
-                "water heater installation kit"
-            ],
-            [
-                6,
-                "water heater installation cost"
-            ],
-            [
-                7,
-                "water heater installation mobile home"
-            ],
-            [
-                8,
-                "water heater installation pvc"
-            ],
-            [
-                9,
-                "water heater installation rheem"
+                "aaron the plumber 24 hours"
             ]
         ]
     },
@@ -1677,161 +1290,170 @@
     },
     "pages": [
         {
-            "group": "Drain and Sewer Services",
-            "title": "sewer line inspection",
-            "intent": "informational",
-            "keywords": [
-                "sewer line inspection",
-                "sewage",
-                "sewer line inspection camera",
-                "sewer line inspection cost",
-                "sewer line inspection near me"
-            ]
-        },
-        {
-            "group": "Drain and Sewer Services",
-            "title": "drain cleaning services",
-            "intent": "transactional",
-            "keywords": [
-                "drain cleaning services",
-                "drainage",
-                "drain cleaning services near me",
-                "drain cleaning service cost"
-            ]
-        },
-        {
-            "group": "Plumbing Repairs",
-            "title": "leaky faucet repair",
-            "intent": "informational",
-            "keywords": [
-                "leaky faucet repair",
-                "list of tools and equipment",
-                "maintenance",
-                "piping",
-                "leaky faucet repair kit",
-                "leaky faucet repair cost",
-                "leaky faucet repair bathtub",
-                "leaky outdoor faucet repair"
-            ]
-        },
-        {
-            "group": "Plumbing Repairs",
-            "title": "plumbing repair costs",
-            "intent": "commercial",
-            "keywords": [
-                "plumbing repair costs",
-                "plumber near me free estimate",
-                "plumbing repair costs estimator"
-            ]
-        },
-        {
             "group": "Emergency Plumbing",
-            "title": "24 hour plumber",
+            "title": "emergency plumber",
             "intent": "transactional",
             "keywords": [
-                "24 hour plumber",
-                "pipefitter",
-                "plumbing",
                 "emergency plumber",
+                "plumber services",
+                "plumbing",
+                "repairs",
                 "plumber near me emergency",
-                "emergency plumbers in my area"
+                "emergency plumbers in my area",
+                "emergency plumber 24/7",
+                "emergency plumber service"
             ]
         },
         {
             "group": "Emergency Plumbing",
-            "title": "plumber near me 24 hour",
+            "title": "plumber 24/7",
             "intent": "transactional",
             "keywords": [
+                "plumber 24/7",
+                "plumber 24/7 near me",
                 "plumber near me 24 hour",
-                "plumber near me cheap",
-                "plumber near me now"
+                "plumber 24 7 near me"
             ]
         },
         {
-            "group": "Water Heater Installation",
-            "title": "water heater installation",
+            "group": "Plumbing Services",
+            "title": "plumber installation",
             "intent": "commercial",
             "keywords": [
-                "water heater installation",
+                "plumber installation",
+                "fixtures",
                 "install",
+                "installation",
+                "list of tools and equipment",
+                "piping",
+                "plumber sink installation",
+                "plumber for dishwasher installation",
+                "plumber for toilet installation"
+            ]
+        },
+        {
+            "group": "Plumbing Services",
+            "title": "plumber for clogged drain near me",
+            "intent": "transactional",
+            "keywords": [
+                "plumber for clogged drain near me",
+                "clogs",
+                "drainage",
+                "drains",
+                "leaks",
+                "maintenance",
+                "sewage",
                 "water",
-                "water heater installation kit",
-                "water heater installation cost",
-                "tankless water heater installation kit"
+                "plumber to check for leaks",
+                "plumber for water leaks"
             ]
         },
         {
-            "group": "Water Heater Installation",
-            "title": "water heater installation near me",
-            "intent": "transactional",
+            "group": "Licensed Plumbing",
+            "title": "licensed plumber",
+            "intent": "commercial",
             "keywords": [
-                "water heater installation near me"
+                "licensed plumber",
+                "plumber certification",
+                "plumber insurance",
+                "plumber warranty",
+                "licensed plumbers near me",
+                "licensed plumbers in my area"
             ]
         },
         {
-            "group": "Licensed Plumbers",
-            "title": "licensed plumber near me",
-            "intent": "transactional",
+            "group": "Affordable Plumbing",
+            "title": "affordable plumbers near me",
+            "intent": "commercial",
             "keywords": [
-                "licensed plumber near me",
-                "plumber near me residential",
-                "licensed plumber near me residential",
-                "licensed plumber near me reviews"
+                "affordable plumbers near me",
+                "plumber rates",
+                "affordable plumbers",
+                "plumber near me cheap",
+                "affordable plumbers in my area"
             ]
         },
         {
-            "group": "Licensed Plumbers",
+            "group": "Plumbing Repairs",
             "title": "plumber near me reviews",
             "intent": "commercial",
             "keywords": [
-                "plumber near me reviews"
+                "plumber near me reviews",
+                "plumber near me free estimate",
+                "plumber reviews"
+            ]
+        },
+        {
+            "group": "Plumbing Repairs",
+            "title": "plumber putty for leaks",
+            "intent": "informational",
+            "keywords": [
+                "plumber putty for leaks",
+                "plumber tape for leaks",
+                "pipes",
+                "plumber tools"
             ]
         }
     ],
     "categories": {
-        "water heater installation": "core",
-        "sewer line inspection camera": "core",
-        "water heater installation kit": "core",
-        "leaky faucet repair": "commercial",
-        "sewer line inspection": "core",
-        "24 hour plumber": "commercial",
+        "licensed plumber": "core",
         "emergency plumber": "commercial",
         "plumber near me emergency": "commercial",
-        "water heater installation cost": "commercial",
-        "drain cleaning services": "commercial",
-        "licensed plumber near me": "commercial",
-        "plumber near me 24 hour": "commercial",
-        "plumbing repair costs": "commercial",
-        "leaky faucet repair kit": "commercial",
-        "drain cleaning services near me": "commercial",
-        "plumber near me free estimate": "core",
-        "plumber near me residential": "commercial",
-        "sewer line inspection cost": "commercial",
-        "water heater installation near me": "commercial",
-        "sewer line inspection near me": "core",
-        "plumbing repair costs estimator": "commercial",
+        "affordable plumbers near me": "core",
+        "plumber 24/7": "commercial",
+        "plumber installation": "core",
+        "licensed plumbers near me": "core",
+        "plumber near me free estimate": "commercial",
+        "plumber 24/7 near me": "commercial",
+        "affordable plumbers": "commercial",
+        "licensed plumbers in my area": "core",
         "emergency plumbers in my area": "commercial",
+        "plumber sink installation": "core",
         "plumber near me cheap": "commercial",
         "plumber near me reviews": "commercial",
-        "leaky faucet repair cost": "commercial",
-        "leaky faucet repair bathtub": "commercial",
-        "licensed plumber near me reviews": "commercial",
-        "drain cleaning service cost": "commercial",
-        "tankless water heater installation kit": "complementary",
-        "licensed plumber near me residential": "commercial",
-        "plumber near me now": "commercial",
-        "leaky outdoor faucet repair": "commercial",
-        "leaky faucet repair near me": "commercial",
-        "pipe repair": "commercial",
-        "water": "complementary",
+        "plumber to check for leaks": "commercial",
+        "affordable plumbers in my area": "commercial",
+        "plumber for dishwasher installation": "complementary",
+        "plumber for toilet installation": "complementary",
+        "plumber near me 24 hour": "commercial",
+        "plumber putty for leaks": "complementary",
+        "plumber tape for leaks": "complementary",
+        "plumber 24 7 near me": "commercial",
+        "plumber for clogged drain near me": "commercial",
+        "plumber for water leaks": "commercial",
+        "emergency plumber 24/7": "commercial",
+        "emergency plumber service": "commercial",
+        "plumber rates": "commercial",
+        "plumber services": "commercial",
+        "plumber tools": "complementary",
+        "plumber certification": "complementary",
+        "plumber insurance": "complementary",
+        "plumber warranty": "complementary",
+        "plumber reviews": "commercial",
+        "pipes": "complementary",
+        "leaks": "commercial",
+        "clogs": "commercial",
+        "drains": "commercial",
+        "fixtures": "complementary",
+        "repairs": "commercial",
+        "installation": "core",
+        "maintenance": "commercial",
+        "certification": "doubtful",
+        "water": "commercial",
         "plumbing": "commercial",
-        "sewage": "complementary",
+        "tradesman": "doubtful",
+        "sewage": "commercial",
         "drainage": "commercial",
         "install": "complementary",
-        "maintenance": "core",
         "list of tools and equipment": "complementary",
-        "pipefitter": "commercial",
+        "pipefitter": "doubtful",
         "piping": "complementary",
-        "plumber fitting near me": "doubtful"
+        "plumber near me residential": "doubtful",
+        "plumber fitting near me": "doubtful",
+        "plumber near me now": "doubtful",
+        "plumber near me open now": "doubtful",
+        "plumbing jobs near me": "doubtful",
+        "plumber near me in southfields": "doubtful",
+        "plumbing vacancies near me": "doubtful"
     }
 }

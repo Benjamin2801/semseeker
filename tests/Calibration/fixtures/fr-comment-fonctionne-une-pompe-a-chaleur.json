@@ -14,22 +14,22 @@
     ],
     "failed": [],
     "concepts": [
-        "principe pompe à chaleur",
+        "principe de fonctionnement pompe à chaleur",
         "pompe à chaleur air-air",
         "pompe à chaleur air-eau",
-        "cop pompe à chaleur",
-        "prix installation pompe à chaleur",
+        "pompe à chaleur géothermique",
+        "coût installation pompe à chaleur",
         "entretien pompe à chaleur",
-        "panne pompe à chaleur",
-        "crédit d'impôt pompe à chaleur"
+        "performance cop pompe à chaleur",
+        "panne pompe à chaleur"
     ],
     "suggestions": {
         "bing": [
-            "comment fonctionne une pompe à chaleur",
             "comment fonctionne une pompe à chaleur air",
+            "comment fonctionne une pompe à chaleur",
             "comment fonctionne une pompe à chaleur à eau",
-            "comment fonctionne une pompe à chaleur*",
-            "comment fonctionne une pompe à chaleur daikin"
+            "comment fonctionne une pompe à chaleur daikin",
+            "comment fonctionne une pompe à chaleur*"
         ],
         "duckduckgo": [
             "comment fonctionne une pompe à chaleur",
@@ -97,52 +97,20 @@
             [
                 4,
                 "pompe à chaleur air-eau 8 kw"
+            ],
+            [
+                0,
+                "pompe à chaleur géothermique"
             ]
         ],
         "bing": [
             [
                 0,
-                "principe pompe à chaleur"
+                "principe de fonctionnement pompe à chaleur"
             ],
             [
                 1,
-                "principe pompe à chaleur air eau"
-            ],
-            [
-                2,
-                "principe pompe à chaleur air air"
-            ],
-            [
-                3,
-                "principe pompe à chaleur piscine"
-            ],
-            [
-                4,
-                "principe d'une pompe à chaleur"
-            ],
-            [
-                5,
-                "pompe à chaleur schéma de principe"
-            ],
-            [
-                6,
-                "schéma principe pompe à chaleur"
-            ],
-            [
-                7,
-                "principe chauffage pompe à chaleur"
-            ],
-            [
-                8,
-                "fonctionnement pompe à chaleur"
-            ],
-            [
-                9,
-                "une pompe à chaleur"
-            ],
-            [
-                10,
-                "explication pompe à chaleur"
+                "principe de fonctionnement pompe a chaleur"
             ],
             [
                 0,
@@ -238,67 +206,67 @@
             ],
             [
                 0,
-                "cop pompe à chaleur"
+                "pompe à chaleur géothermique"
             ],
             [
                 1,
-                "cop pompe à chaleur air eau"
+                "pompe à chaleur géothermique prix"
             ],
             [
                 2,
-                "cop pompe à chaleur def"
+                "pompe à chaleur géothermique fonctionnement"
             ],
             [
                 3,
-                "cop pompe à chaleur géothermique"
+                "pompe à chaleur géothermique réversible"
             ],
             [
                 4,
-                "cop pompe à chaleur fonctionnement"
+                "pompe à chaleur géothermique sol/eau"
             ],
             [
                 5,
-                "cop pompe à chaleur calcul"
+                "pompe à chaleur géothermique atlantic"
             ],
             [
                 6,
-                "cop pompe à chaleur formule"
+                "pompe à chaleur géothermique avis"
             ],
             [
                 7,
-                "cop pompe à chaleur piscine"
+                "pompe à chaleur géothermique sofath"
             ],
             [
                 8,
-                "cop pompe à chaleur définition"
+                "pompe à chaleur géothermique daikin"
             ],
             [
                 9,
-                "cop pompe à chaleur signification"
+                "pompe à chaleur géothermique avantages"
             ],
             [
                 10,
-                "cop pompe à chaleur air air daikin"
+                "pompe à chaleur géothermique def"
+            ],
+            [
+                11,
+                "pompe à chaleur géothermique c'est quoi"
             ],
             [
                 0,
-                "prix installation pompe à chaleur air eau"
+                "coût installation pompe à chaleur"
             ],
             [
                 1,
-                "prix installation pompe à chaleur"
+                "coût installation pompe à chaleur air eau"
             ],
             [
                 2,
-                "prix installation pompe à chaleur réversible"
+                "coût installation pompe à chaleur air air"
             ],
             [
                 3,
-                "prix installation pompe à chaleur air air"
-            ],
-            [
-                4,
-                "prix d'une installation pompe à chaleur"
+                "coût moyen installation pompe à chaleur"
             ],
             [
                 0,
@@ -350,6 +318,54 @@
             ],
             [
                 0,
+                "pompe à chaleur et cop"
+            ],
+            [
+                1,
+                "cop pompe à chaleur"
+            ],
+            [
+                2,
+                "pompe à chaleur avec le meilleur cop"
+            ],
+            [
+                3,
+                "cop moyen pompe à chaleur"
+            ],
+            [
+                4,
+                "performance pompe à chaleur"
+            ],
+            [
+                5,
+                "cop d'une pompe à chaleur"
+            ],
+            [
+                6,
+                "cop pompe à chaleur def"
+            ],
+            [
+                7,
+                "pompe à chaleur cop 5"
+            ],
+            [
+                8,
+                "définition cop pompe à chaleur"
+            ],
+            [
+                9,
+                "cop pompe à chaleur air eau"
+            ],
+            [
+                10,
+                "pompe à chaleur cop 10"
+            ],
+            [
+                11,
+                "coefficient cop pompe à chaleur"
+            ],
+            [
+                0,
                 "panne pompe à chaleur"
             ],
             [
@@ -395,88 +411,16 @@
             [
                 11,
                 "intérêt pompe à chaleur"
-            ],
-            [
-                0,
-                "credit d'impot pompe a chaleur"
-            ],
-            [
-                1,
-                "crédit d'impôt pompe à chaleur 2025"
-            ],
-            [
-                2,
-                "crédit d'impôt pompe à chaleur 2024"
-            ],
-            [
-                3,
-                "crédit d'impôt pompe à chaleur"
-            ],
-            [
-                4,
-                "crédit pompe à chaleur"
-            ],
-            [
-                5,
-                "impôt pompe à chaleur"
-            ],
-            [
-                6,
-                "crédit impôt pompe à chaleur 2024"
-            ],
-            [
-                7,
-                "pompe à chaleur impots gouv"
-            ],
-            [
-                8,
-                "déclarer pompe à chaleur impôt"
-            ],
-            [
-                9,
-                "déduction impôt pompe à chaleur"
-            ],
-            [
-                10,
-                "réduction impôt pompe à chaleur"
-            ],
-            [
-                11,
-                "déclaration pompe à chaleur impôt"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "principe pompe à chaleur"
+                "principe de fonctionnement pompe à chaleur"
             ],
             [
                 1,
-                "principe pompe à chaleur air eau"
-            ],
-            [
-                2,
-                "principe pompe à chaleur air air"
-            ],
-            [
-                3,
-                "principe pompe à chaleur piscine"
-            ],
-            [
-                4,
-                "principe d'une pompe à chaleur"
-            ],
-            [
-                5,
-                "pompe à chaleur schéma de principe"
-            ],
-            [
-                6,
-                "schéma principe pompe à chaleur"
-            ],
-            [
-                7,
-                "principe chauffage pompe à chaleur"
+                "principe de fonctionnement pompe a chaleur"
             ],
             [
                 0,
@@ -544,55 +488,51 @@
             ],
             [
                 0,
-                "cop pompe à chaleur"
+                "pompe à chaleur géothermique"
             ],
             [
                 1,
-                "cop pompe à chaleur air eau"
+                "pompe à chaleur géothermique prix"
             ],
             [
                 2,
-                "cop pompe à chaleur def"
+                "pompe à chaleur géothermique fonctionnement"
             ],
             [
                 3,
-                "cop pompe à chaleur géothermique"
+                "pompe à chaleur géothermique réversible"
             ],
             [
                 4,
-                "cop pompe à chaleur fonctionnement"
+                "pompe à chaleur géothermique sol/eau"
             ],
             [
                 5,
-                "cop pompe à chaleur calcul"
+                "pompe à chaleur géothermique atlantic"
             ],
             [
                 6,
-                "cop pompe à chaleur formule"
+                "pompe à chaleur géothermique avis"
             ],
             [
                 7,
-                "cop pompe à chaleur piscine"
+                "pompe à chaleur géothermique sofath"
             ],
             [
                 0,
-                "prix installation pompe à chaleur air eau"
+                "coût installation pompe à chaleur"
             ],
             [
                 1,
-                "prix installation pompe à chaleur"
+                "coût installation pompe à chaleur air eau"
             ],
             [
                 2,
-                "prix installation pompe à chaleur réversible"
+                "coût installation pompe à chaleur air air"
             ],
             [
                 3,
-                "prix installation pompe à chaleur air air"
-            ],
-            [
-                4,
-                "prix d'une installation pompe à chaleur"
+                "coût moyen installation pompe à chaleur"
             ],
             [
                 0,
@@ -628,6 +568,38 @@
             ],
             [
                 0,
+                "pompe à chaleur et cop"
+            ],
+            [
+                1,
+                "cop pompe à chaleur"
+            ],
+            [
+                2,
+                "pompe à chaleur avec le meilleur cop"
+            ],
+            [
+                3,
+                "cop moyen pompe à chaleur"
+            ],
+            [
+                4,
+                "performance pompe à chaleur"
+            ],
+            [
+                5,
+                "cop d'une pompe à chaleur"
+            ],
+            [
+                6,
+                "cop pompe à chaleur def"
+            ],
+            [
+                7,
+                "pompe à chaleur cop 5"
+            ],
+            [
+                0,
                 "panne pompe à chaleur"
             ],
             [
@@ -657,38 +629,6 @@
             [
                 7,
                 "pompe à chaleur dépannage"
-            ],
-            [
-                0,
-                "credit d'impot pompe a chaleur"
-            ],
-            [
-                1,
-                "crédit d'impôt pompe à chaleur 2025"
-            ],
-            [
-                2,
-                "crédit d'impôt pompe à chaleur 2024"
-            ],
-            [
-                3,
-                "crédit d'impôt pompe à chaleur"
-            ],
-            [
-                4,
-                "crédit pompe à chaleur"
-            ],
-            [
-                5,
-                "impôt pompe à chaleur"
-            ],
-            [
-                6,
-                "crédit impôt pompe à chaleur 2024"
-            ],
-            [
-                7,
-                "pompe à chaleur impots gouv"
             ]
         ],
         "ebay": [
@@ -716,43 +656,43 @@
         "google": [
             [
                 0,
-                "principe pompe à chaleur"
+                "principe de fonctionnement pompe à chaleur"
             ],
             [
                 1,
-                "principe pompe à chaleur réversible"
+                "principe de fonctionnement pompe à chaleur air eau"
             ],
             [
                 2,
-                "principe pompe à chaleur air-air"
+                "principe de fonctionnement pompe à chaleur air air"
             ],
             [
                 3,
-                "principe pompe à chaleur air-eau"
+                "principe de fonctionnement d une pompe à chaleur reversible"
             ],
             [
                 4,
-                "principe pompe à chaleur géothermique"
+                "principe de fonctionnement d une pompe à chaleur eau eau"
             ],
             [
                 5,
-                "principe pompe à chaleur eau eau"
+                "principe de fonctionnement d une pompe à chaleur rr"
             ],
             [
                 6,
-                "principe pompe à chaleur piscine"
+                "principe de fonctionnement d'une pompe à chaleur pdf"
             ],
             [
                 7,
-                "principe pompe à chaleur air eau radiateur"
+                "schéma de fonctionnement pompe à chaleur"
             ],
             [
                 8,
-                "système pompe à chaleur"
+                "schéma fonctionnement pompe à chaleur air eau"
             ],
             [
                 9,
-                "système pompe à chaleur air eau"
+                "schéma fonctionnement pompe à chaleur air air"
             ],
             [
                 0,
@@ -836,83 +776,83 @@
             ],
             [
                 0,
-                "cop pompe à chaleur air air"
+                "pompe à chaleur géothermique"
             ],
             [
                 1,
-                "cop pompe à chaleur air eau"
+                "pompe à chaleur géothermique prix"
             ],
             [
                 2,
-                "cop pompe à chaleur"
+                "pompe à chaleur géothermique réversible"
             ],
             [
                 3,
-                "cop pompe à chaleur air eau mitsubishi"
+                "pompe à chaleur géothermique avantages et inconvénients"
             ],
             [
                 4,
-                "cop pompe à chaleur en fonction de la température"
+                "pompe à chaleur géothermique ou solarothermique"
             ],
             [
                 5,
-                "cop pompe à chaleur air eau haute température"
+                "pompe à chaleur géothermique fonctionnement"
             ],
             [
                 6,
-                "cop pompe à chaleur air-air en fonction de la température"
+                "pompe à chaleur géothermique viessmann prix"
             ],
             [
                 7,
-                "cop pompe à chaleur air air daikin"
+                "pompe à chaleur géothermique captage vertical"
             ],
             [
                 8,
-                "cop pompe à chaleur formule"
+                "pompe à chaleur géothermique marque"
             ],
             [
                 9,
-                "cop pompe à chaleur piscine"
+                "pompe à chaleur géothermique ou solarothermique prix"
             ],
             [
                 0,
-                "prix installation pompe à chaleur"
+                "coût installation pompe à chaleur"
             ],
             [
                 1,
-                "prix installation pompe à chaleur maison 100m2"
+                "coût installation pompe à chaleur réversible"
             ],
             [
                 2,
-                "prix installation pompe à chaleur réversible"
+                "coût installation pompe à chaleur air-eau"
             ],
             [
                 3,
-                "prix installation pompe à chaleur air air"
+                "cout installation pompe à chaleur air air"
             ],
             [
                 4,
-                "prix installation pompe à chaleur air eau"
+                "coût installation pompe à chaleur avec radiateur"
             ],
             [
                 5,
-                "prix installation pompe à chaleur air-air réversible"
+                "coût installation pompe à chaleur air-air"
             ],
             [
                 6,
-                "prix installation pompe à chaleur maison 150m2"
+                "cout installation pompe à chaleur géothermique"
             ],
             [
                 7,
-                "prix installation pompe à chaleur climatisation"
+                "coût installation pompe à chaleur appartement"
             ],
             [
                 8,
-                "prix installation pompe à chaleur air eau avec radiateur"
+                "cout installation pompe à chaleur maison"
             ],
             [
                 9,
-                "prix installation pompe à chaleur maison 200m2"
+                "cout installation pompe à chaleur piscine"
             ],
             [
                 0,
@@ -956,6 +896,10 @@
             ],
             [
                 0,
+                "coefficient de performance (cop) de la pompe à chaleur"
+            ],
+            [
+                0,
                 "panne pompe à chaleur piscine"
             ],
             [
@@ -993,68 +937,24 @@
             [
                 9,
                 "panne pompe à chaleur géothermique"
-            ],
-            [
-                0,
-                "crédit d'impôt pompe à chaleur 2026"
-            ],
-            [
-                1,
-                "crédit d'impôt pompe à chaleur"
-            ],
-            [
-                2,
-                "crédit d'impôt pompe à chaleur air-air"
-            ],
-            [
-                3,
-                "crédit d impôt pompe à chaleur 2025"
-            ],
-            [
-                4,
-                "crédit d impôt pompe à chaleur air eau"
-            ],
-            [
-                5,
-                "crédit d impôt pompe à chaleur air air 2026"
-            ],
-            [
-                6,
-                "réduction d impôt pompe à chaleur"
-            ],
-            [
-                7,
-                "crédit d impot installation pompe à chaleur"
-            ],
-            [
-                8,
-                "credit d impot pompe a chaleur residence secondaire"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "principe pompe à chaleur"
+                "principe de fonctionnement pompe à chaleur"
             ],
             [
                 1,
-                "principe pompe à chaleur explication"
+                "principe de fonctionnement pompe à chaleur air air"
             ],
             [
                 2,
-                "principe pompe à chaleur air eau"
+                "principe de fonctionnement pompe à chaleur air eau"
             ],
             [
                 3,
-                "principe pompe à chaleur air air"
-            ],
-            [
-                4,
-                "schéma principe pompe à chaleur"
-            ],
-            [
-                5,
-                "schéma de principe pompe à chaleur air eau"
+                "principe de fonctionnement pompe à chaleur piscine"
             ],
             [
                 0,
@@ -1102,39 +1002,51 @@
             ],
             [
                 0,
-                "cop pompe à chaleur"
+                "pompe à chaleur géothermique"
             ],
             [
                 1,
-                "cop pompe à chaleur définition"
+                "pompe à chaleur géothermique prix"
             ],
             [
                 2,
-                "cop pompe à chaleur air air"
+                "pompe à chaleur géothermique tarif"
             ],
             [
                 3,
-                "cop pompe à chaleur daikin"
+                "pompe à chaleur géothermique fonctionnement"
             ],
             [
                 4,
-                "cop pompe à chaleur piscine"
+                "pompe à chaleur géothermique principe"
             ],
             [
                 5,
-                "cop pompe à chaleur air eau"
+                "pompe à chaleur géothermique verticale"
+            ],
+            [
+                6,
+                "pompe à chaleur géothermique inconvénients"
+            ],
+            [
+                7,
+                "pompe à chaleur géothermique sol eau"
+            ],
+            [
+                8,
+                "pompe à chaleur géothermique atlantic"
+            ],
+            [
+                9,
+                "pompe à chaleur géothermique horizontale"
             ],
             [
                 0,
-                "prix installation pompe à chaleur"
+                "coût installation pompe à chaleur"
             ],
             [
                 1,
-                "prix installation pompe à chaleur air eau"
-            ],
-            [
-                2,
-                "prix installation pompe à chaleur air air"
+                "coût installation pompe à chaleur air eau"
             ],
             [
                 0,
@@ -1178,44 +1090,36 @@
             ],
             [
                 0,
+                "performance cop pompe à chaleur définition"
+            ],
+            [
+                1,
+                "performance cop pompe à chaleur air air"
+            ],
+            [
+                2,
+                "performance cop pompe à chaleur daikin"
+            ],
+            [
+                3,
+                "performance cop pompe à chaleur piscine"
+            ],
+            [
+                0,
                 "panne pompe à chaleur"
             ],
             [
                 1,
                 "panne pompe à chaleur daikin air/air"
-            ],
-            [
-                0,
-                "crédit d'impôt pompe à chaleur"
-            ],
-            [
-                1,
-                "crédit d'impôt pompe à chaleur 2023"
-            ],
-            [
-                2,
-                "crédit d'impôt pompe à chaleur air eau"
-            ],
-            [
-                3,
-                "crédit d'impôt pour pompe à chaleur"
             ]
         ],
         "youtube": [
             [
                 0,
-                "principe pompe à chaleur"
+                "principe de fonctionnement pompe à chaleur"
             ],
             [
                 1,
-                "fonctionnement pompe à chaleur air eau"
-            ],
-            [
-                2,
-                "fonctionnement pompe à chaleur"
-            ],
-            [
-                3,
                 "schéma de principe pompe à chaleur"
             ],
             [
@@ -1300,11 +1204,11 @@
             ],
             [
                 0,
-                "calcul cop pompe à chaleur"
+                "pompe à chaleur géothermique"
             ],
             [
                 1,
-                "cop pompe a chaleur"
+                "pompe à chaleur géothermique fonctionnement"
             ],
             [
                 0,
@@ -1385,67 +1289,64 @@
     "pages": [
         {
             "group": "Fonctionnement",
-            "title": "comment fonctionne une pompe à chaleur air eau",
+            "title": "principe de fonctionnement pompe à chaleur",
             "intent": "informational",
             "keywords": [
-                "comment fonctionne une pompe à chaleur air eau",
-                "ballon d'eau chaude",
+                "principe de fonctionnement pompe à chaleur",
+                "performance pompe à chaleur",
                 "chauffage",
                 "chauffage électrique",
-                "refroidisseur",
-                "résistance électrique",
-                "cop pompe à chaleur air eau",
-                "fonctionnement pompe à chaleur air eau",
-                "principe pompe à chaleur air eau",
-                "température",
-                "schéma de principe pompe à chaleur"
-            ]
-        },
-        {
-            "group": "Fonctionnement",
-            "title": "principe pompe à chaleur",
-            "intent": "informational",
-            "keywords": [
-                "principe pompe à chaleur",
-                "géothermie",
-                "pompe à chaleur aérothermique",
-                "énergie thermique",
-                "cop pompe à chaleur",
-                "comment fonctionne une pompe à chaleur réversible"
-            ]
-        },
-        {
-            "group": "Fonctionnement",
-            "title": "comment fonctionne une pompe à chaleur air air",
-            "intent": "informational",
-            "keywords": [
-                "comment fonctionne une pompe à chaleur air air",
                 "climatiseur",
-                "principe pompe à chaleur air air",
-                "cop pompe à chaleur air air",
-                "calcul cop pompe à chaleur"
+                "compresseur",
+                "condenseur",
+                "cop",
+                "fluide frigorigène",
+                "pompe à chaleur aérothermique",
+                "refroidisseur",
+                "température",
+                "types de pompes à chaleur",
+                "échangeur de chaleur",
+                "énergie thermique",
+                "évaporateur",
+                "comment fonctionne une pompe à chaleur air eau",
+                "comment fonctionne une pompe à chaleur air air",
+                "pompe à chaleur air-eau fonctionnement",
+                "pompe à chaleur air-air fonctionnement"
             ]
         },
         {
-            "group": "Types",
-            "title": "pompe à chaleur air-air",
-            "intent": "commercial",
-            "keywords": [
-                "pompe à chaleur air-air",
-                "pompe à chaleur air-air réversible",
-                "pompe à chaleur air-air daikin",
-                "pompe à chaleur air-air mitsubishi"
-            ]
-        },
-        {
-            "group": "Types",
+            "group": "Fonctionnement",
             "title": "pompe à chaleur air-eau",
-            "intent": "commercial",
+            "intent": "informational",
             "keywords": [
                 "pompe à chaleur air-eau",
+                "ballon d'eau chaude",
+                "pac air-eau",
                 "pompe à chaleur air eau monobloc",
-                "pompe à chaleur air-eau prix",
-                "pompe à chaleur air-eau réversible"
+                "principe de fonctionnement pompe à chaleur air eau"
+            ]
+        },
+        {
+            "group": "Fonctionnement",
+            "title": "pompe à chaleur géothermique",
+            "intent": "informational",
+            "keywords": [
+                "pompe à chaleur géothermique",
+                "géothermie",
+                "pac géothermique",
+                "pompe à chaleur géothermique fonctionnement",
+                "pompe à chaleur géothermique réversible"
+            ]
+        },
+        {
+            "group": "Fonctionnement",
+            "title": "pompe à chaleur air-air",
+            "intent": "informational",
+            "keywords": [
+                "pompe à chaleur air-air",
+                "pac air-air",
+                "comment fonctionne une pompe à chaleur air",
+                "principe de fonctionnement pompe à chaleur air air"
             ]
         },
         {
@@ -1454,80 +1355,120 @@
             "intent": "informational",
             "keywords": [
                 "entretien pompe à chaleur",
-                "entretien pompe à chaleur daikin",
+                "durée de vie pompe à chaleur",
                 "entretien pompe à chaleur air air",
-                "entretien pompe à chaleur air eau"
+                "entretien pompe à chaleur air eau",
+                "entretien pompe à chaleur obligatoire",
+                "entretien pompe à chaleur prix"
             ]
         },
         {
             "group": "Entretien",
-            "title": "entretien pompe à chaleur atlantic",
+            "title": "panne pompe à chaleur",
             "intent": "informational",
             "keywords": [
-                "entretien pompe à chaleur atlantic",
                 "panne pompe à chaleur",
+                "problèmes courants pompe à chaleur",
+                "panne pompe à chaleur piscine",
                 "panne pompe à chaleur atlantic"
             ]
         },
         {
-            "group": "Installation",
-            "title": "prix installation pompe à chaleur",
+            "group": "Coûts",
+            "title": "coût installation pompe à chaleur",
             "intent": "commercial",
             "keywords": [
-                "prix installation pompe à chaleur",
-                "prix installation pompe à chaleur air eau",
-                "prix installation pompe à chaleur air air",
-                "prix installation pompe à chaleur réversible"
+                "coût installation pompe à chaleur",
+                "aides financières pompe à chaleur",
+                "pompe à chaleur géothermique prix",
+                "coût installation pompe à chaleur air eau",
+                "pompe à chaleur air-eau prix",
+                "coût installation pompe à chaleur air air"
             ]
         },
         {
-            "group": "Aides financières",
-            "title": "credit d'impot pompe a chaleur",
+            "group": "Marques",
+            "title": "pompe à chaleur air-air daikin",
+            "intent": "commercial",
+            "keywords": [
+                "pompe à chaleur air-air daikin",
+                "entretien pompe à chaleur daikin",
+                "pompe à chaleur air-air mitsubishi"
+            ]
+        },
+        {
+            "group": "Marques",
+            "title": "entretien pompe à chaleur atlantic",
+            "intent": "commercial",
+            "keywords": [
+                "entretien pompe à chaleur atlantic"
+            ]
+        },
+        {
+            "group": "Types",
+            "title": "pompe à chaleur air-air réversible",
             "intent": "informational",
             "keywords": [
-                "credit d'impot pompe a chaleur",
-                "crédit d'impôt pompe à chaleur 2025"
+                "pompe à chaleur air-air réversible",
+                "comment fonctionne une pompe à chaleur réversible",
+                "pompe à chaleur air-eau réversible"
             ]
         }
     ],
     "categories": {
         "pompe à chaleur air-air": "core",
         "pompe à chaleur air-eau": "core",
+        "pompe à chaleur géothermique": "core",
         "comment fonctionne une pompe à chaleur air eau": "core",
         "entretien pompe à chaleur": "core",
-        "principe pompe à chaleur": "core",
+        "principe de fonctionnement pompe à chaleur": "core",
         "comment fonctionne une pompe à chaleur air air": "core",
-        "prix installation pompe à chaleur": "commercial",
-        "cop pompe à chaleur": "core",
         "pompe à chaleur air-air réversible": "core",
-        "credit d'impot pompe a chaleur": "commercial",
+        "coût installation pompe à chaleur": "commercial",
+        "pompe à chaleur géothermique fonctionnement": "core",
         "panne pompe à chaleur": "complementary",
         "pompe à chaleur air-air daikin": "commercial",
+        "pompe à chaleur géothermique prix": "commercial",
         "entretien pompe à chaleur daikin": "commercial",
-        "prix installation pompe à chaleur air eau": "commercial",
-        "principe pompe à chaleur air eau": "core",
-        "cop pompe à chaleur air eau": "complementary",
-        "fonctionnement pompe à chaleur air eau": "core",
-        "principe pompe à chaleur air air": "core",
+        "coût installation pompe à chaleur air eau": "commercial",
         "comment fonctionne une pompe à chaleur réversible": "core",
         "pompe à chaleur air eau monobloc": "core",
-        "prix installation pompe à chaleur air air": "commercial",
+        "pompe à chaleur air-eau fonctionnement": "core",
         "entretien pompe à chaleur atlantic": "commercial",
-        "schéma de principe pompe à chaleur": "complementary",
-        "panne pompe à chaleur piscine": "doubtful",
-        "cop pompe à chaleur air air": "complementary",
+        "panne pompe à chaleur piscine": "complementary",
         "panne pompe à chaleur atlantic": "complementary",
         "pompe à chaleur air-eau prix": "commercial",
+        "comment fonctionne une pompe à chaleur air": "complementary",
+        "principe de fonctionnement pompe à chaleur air air": "complementary",
+        "principe de fonctionnement pompe à chaleur air eau": "complementary",
         "pompe à chaleur air-air mitsubishi": "commercial",
-        "crédit d'impôt pompe à chaleur 2025": "commercial",
-        "prix installation pompe à chaleur réversible": "commercial",
-        "entretien pompe à chaleur air air": "complementary",
-        "entretien pompe à chaleur air eau": "complementary",
+        "entretien pompe à chaleur air air": "commercial",
+        "entretien pompe à chaleur air eau": "commercial",
         "pompe à chaleur air-eau réversible": "complementary",
-        "calcul cop pompe à chaleur": "complementary",
+        "coût installation pompe à chaleur air air": "commercial",
+        "pompe à chaleur géothermique réversible": "complementary",
+        "entretien pompe à chaleur obligatoire": "commercial",
+        "entretien pompe à chaleur prix": "commercial",
+        "pompe à chaleur air-air fonctionnement": "complementary",
+        "types de pompes à chaleur": "core",
+        "performance pompe à chaleur": "complementary",
+        "problèmes courants pompe à chaleur": "core",
+        "aides financières pompe à chaleur": "commercial",
+        "durée de vie pompe à chaleur": "core",
+        "échangeur de chaleur": "core",
+        "fluide frigorigène": "core",
+        "compresseur": "core",
+        "évaporateur": "core",
+        "condenseur": "core",
+        "cop": "core",
+        "pac air-air": "core",
+        "pac air-eau": "core",
+        "pac géothermique": "core",
         "ballon d'eau chaude": "complementary",
-        "résistance électrique": "complementary",
+        "réfrigérateur": "doubtful",
         "température": "complementary",
+        "combustion": "doubtful",
+        "effet joule": "doubtful",
         "énergie thermique": "complementary",
         "chauffage": "complementary",
         "géothermie": "complementary",

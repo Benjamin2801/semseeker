@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "attaque ransomware",
-        "pare-feu entreprise",
-        "sensibilisation employés",
-        "rgpd conformité",
-        "réponse incident cyber",
-        "assurance cyber entreprise",
-        "coût audit sécurité",
-        "sauvegarde données cloud"
+        "menaces cyber entreprise",
+        "formation sensibilisation cyber",
+        "audit sécurité informatique",
+        "solution antivirus entreprise",
+        "sauvegarde données entreprise",
+        "ransomware protection",
+        "conformité rgpd entreprise",
+        "gestion des risques cyber"
     ],
     "suggestions": {
         "bing": [
@@ -74,471 +74,511 @@
         "bing": [
             [
                 0,
-                "attaque ransomware"
+                "formation sensibilisation cybersécurité"
+            ],
+            [
+                0,
+                "audit sécurité informatique"
             ],
             [
                 1,
-                "attaque ransomware def"
+                "audit securite informatique"
+            ],
+            [
+                0,
+                "solution antivirus entreprise"
+            ],
+            [
+                0,
+                "ransomware protection"
+            ],
+            [
+                1,
+                "ransomware protection windows 11"
             ],
             [
                 2,
-                "ataque ransomware indra"
+                "ransomware protection tools"
             ],
             [
                 3,
-                "ataque ransomware ayuntamiento de elche"
+                "ransomware protection windows 10"
             ],
             [
                 4,
-                "ataque ransomware 2024"
+                "ransomware protection and recovery"
             ],
             [
                 5,
-                "ataque ransomware oq é"
+                "ransomware protection services"
             ],
             [
                 6,
-                "une attaque par ransomware"
+                "ransomware protection software"
+            ],
+            [
+                7,
+                "ransomware protection miami fl"
+            ],
+            [
+                8,
+                "ransomware protection meaning"
+            ],
+            [
+                9,
+                "ransomware protection bay area"
+            ],
+            [
+                10,
+                "ransomware protection software 2020"
+            ],
+            [
+                11,
+                "ransomware protection software 2021"
             ],
             [
                 0,
-                "pare feu entreprise"
+                "conformité rgpd entreprise"
             ],
             [
                 0,
-                "iso45001 sensibilisation des employés"
-            ],
-            [
-                0,
-                "rgpd conformité"
+                "gestion des risques cybersécurité"
             ],
             [
                 1,
-                "rgpd et conformité"
+                "gestion des risques cyber"
             ],
             [
                 2,
-                "mise en conformité rgpd"
+                "analyse des risques cyber"
             ],
             [
                 3,
-                "conformité rgpd c'est quoi"
+                "quels sont les risques cyber"
             ],
             [
                 4,
-                "conformité rgpd pour l'email marketing"
+                "cyber sécurité réseau sécurité des risques"
             ],
             [
                 5,
-                "rgpd belgique conformité"
+                "image de risque cyber"
             ],
             [
-                0,
-                "cyber assurance entreprise"
+                6,
+                "les risques de la cybersécurité"
             ],
             [
-                0,
-                "cloud sauvegarde données"
+                7,
+                "appétence aux risques cyber"
+            ],
+            [
+                8,
+                "qu'est ce qu'un risque en cyber"
+            ],
+            [
+                9,
+                "la gestion des risques"
+            ],
+            [
+                10,
+                "analyse de risque cybersécurité"
+            ],
+            [
+                11,
+                "logiciel de gestion des risques"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "attaque ransomware"
+                "formation sensibilisation cybersécurité"
+            ],
+            [
+                0,
+                "audit sécurité informatique"
             ],
             [
                 1,
-                "attaque ransomware def"
+                "audit securite informatique"
+            ],
+            [
+                0,
+                "solution antivirus entreprise"
+            ],
+            [
+                0,
+                "ransomware protection"
+            ],
+            [
+                1,
+                "ransomware protection windows 11"
             ],
             [
                 2,
-                "ataque ransomware indra"
+                "ransomware protection tools"
             ],
             [
                 3,
-                "ataque ransomware ayuntamiento de elche"
+                "ransomware protection windows 10"
             ],
             [
                 4,
-                "ataque ransomware 2024"
+                "ransomware protection and recovery"
             ],
             [
                 5,
-                "ataque ransomware oq é"
+                "ransomware protection services"
             ],
             [
                 6,
-                "une attaque par ransomware"
+                "ransomware protection software"
+            ],
+            [
+                7,
+                "ransomware protection miami fl"
             ],
             [
                 0,
-                "pare feu entreprise"
+                "conformité rgpd entreprise"
             ],
             [
                 0,
-                "iso45001 sensibilisation des employés"
-            ],
-            [
-                0,
-                "rgpd conformité"
+                "gestion des risques cybersécurité"
             ],
             [
                 1,
-                "rgpd et conformité"
+                "gestion des risques cyber"
             ],
             [
                 2,
-                "mise en conformité rgpd"
+                "analyse des risques cyber"
             ],
             [
                 3,
-                "conformité rgpd c'est quoi"
+                "quels sont les risques cyber"
             ],
             [
                 4,
-                "conformité rgpd pour l'email marketing"
+                "cyber sécurité réseau sécurité des risques"
             ],
             [
                 5,
-                "rgpd belgique conformité"
+                "image de risque cyber"
             ],
             [
-                0,
-                "cyber assurance entreprise"
+                6,
+                "les risques de la cybersécurité"
             ],
             [
-                0,
-                "cloud sauvegarde données"
+                7,
+                "appétence aux risques cyber"
             ]
         ],
         "google": [
             [
                 0,
-                "attaque ransomware"
+                "formation sensibilisation cybersécurité"
             ],
             [
                 1,
-                "attaque ransomware hopital"
+                "formation sensibilisation cybersécurité entreprise"
             ],
             [
                 2,
-                "attaque ransomware que faire"
+                "formation sensibilisation cyber"
+            ],
+            [
+                0,
+                "audit sécurité informatique"
+            ],
+            [
+                1,
+                "audit sécurité informatique exemple"
+            ],
+            [
+                2,
+                "audit sécurité informatique tunisie"
             ],
             [
                 3,
-                "attaque ransomware récente"
+                "audit sécurité informatique pme"
             ],
             [
                 4,
-                "attaque ransomware définition"
+                "audit sécurité informatique anssi"
             ],
             [
                 5,
-                "cyber attaque ransomware"
+                "auditeur sécurité informatique"
             ],
             [
                 6,
-                "signe attaque ransomware"
+                "auditeur sécurité informatique salaire"
             ],
             [
                 7,
-                "exemple attaque ransomware"
+                "audit sécurité réseau"
             ],
             [
                 8,
-                "simulation d'attaque ransomware"
+                "audit sécurité système d information"
             ],
             [
                 9,
-                "attaque de type ransomware"
+                "audit sécurité web"
             ],
             [
                 0,
-                "pare feu entreprise"
+                "solution antivirus entreprise"
+            ],
+            [
+                0,
+                "sauvegarde données entreprise"
             ],
             [
                 1,
-                "contourner pare feu entreprise"
+                "stockage données entreprise"
             ],
             [
                 2,
-                "meilleur pare feu entreprise"
+                "stockage données informatique entreprise"
             ],
             [
                 0,
-                "sensibilisation des employés"
-            ],
-            [
-                0,
-                "rgpd conformité"
+                "ransomware protection"
             ],
             [
                 1,
-                "conformité rgpd c est quoi"
+                "ransomware protection windows 11"
             ],
             [
                 2,
-                "conformité rgpd comment informer les personnes et assurer la transparence"
+                "ransomware protection meaning"
             ],
             [
                 3,
-                "conformité rgpd site web"
+                "ransomware protection windows 10"
             ],
             [
                 4,
-                "conformité rgpd cnil"
+                "ransomware protection controlled folder access on or off"
             ],
             [
                 5,
-                "conformité rgpd comment recueillir le consentement des personnes"
+                "ransomware protection on or off"
             ],
             [
                 6,
-                "conformité rgpd emploi"
+                "ransomware protection plus"
             ],
             [
                 7,
+                "ransomware protection windows 11 on or off"
+            ],
+            [
+                8,
+                "ransomware protection controlled folder access"
+            ],
+            [
+                9,
+                "ransomware protection windows defender"
+            ],
+            [
+                0,
                 "conformité rgpd entreprise"
             ],
             [
-                8,
-                "conformité rgpd maroc"
-            ],
-            [
-                9,
-                "conformité rgpd pme"
+                1,
+                "mise en conformité rgpd entreprise"
             ],
             [
                 0,
-                "réponse à incident cyber"
+                "gestion des risques cybersécurité"
             ],
             [
                 1,
-                "réponse à incident cybersécurité"
+                "gestion des risques cyber"
             ],
             [
                 2,
-                "incident response cyber security"
+                "formation gestion des risques cyber"
             ],
             [
                 3,
-                "incident response cybersecurity conferences in my area"
-            ],
-            [
-                4,
-                "incident response cyber"
-            ],
-            [
-                5,
-                "incident response cyber security jobs"
-            ],
-            [
-                6,
-                "incident response cyber security salary"
-            ],
-            [
-                7,
-                "incident response cyber job"
-            ],
-            [
-                8,
-                "incident response cybersecurity organizations"
-            ],
-            [
-                9,
-                "incident response cybersecurity steps"
-            ],
-            [
-                0,
-                "assurance cyber entreprise"
-            ],
-            [
-                1,
-                "assurance cybersécurité entreprise"
-            ],
-            [
-                0,
-                "prix audit sécurité informatique"
-            ],
-            [
-                1,
-                "prix audit sécurité incendie"
-            ],
-            [
-                0,
-                "sauvegarde données cloud"
-            ],
-            [
-                1,
-                "stockage données cloud"
-            ],
-            [
-                2,
-                "stockage données cloud gratuit"
-            ],
-            [
-                3,
-                "sauvegarde fichiers cloud"
-            ],
-            [
-                4,
-                "stockage fichier cloud"
-            ],
-            [
-                5,
-                "stockage de données cloud prix"
-            ],
-            [
-                6,
-                "sauvegarder données ps5 cloud"
+                "politique de gestion des risques cyber"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "attaque ransomware définition"
+                "menaces cyber entreprise de"
             ],
             [
                 1,
-                "attaque ransomwares"
+                "menaces cyber entreprise transport"
             ],
             [
                 2,
-                "attaque ransomware"
+                "menaces cyber entreprise isolation"
             ],
             [
                 3,
-                "attaque ransomware traduction"
-            ],
-            [
-                4,
-                "attaque ransomware que"
-            ],
-            [
-                5,
-                "attaque ransomware def"
-            ],
-            [
-                6,
-                "attaque ransomware lockbit"
+                "menaces cyber entreprise fibre"
             ],
             [
                 0,
-                "pare feu entreprise de"
+                "formation cybersécurité"
             ],
             [
                 1,
-                "pare feu entreprise transport"
+                "formation cybercriminalité"
             ],
             [
                 2,
-                "pare feu entreprise isolation"
+                "formation cybersécurité en ligne"
             ],
             [
                 3,
-                "pare feu entreprise fibre"
+                "formation cybersécurité pour débutant"
             ],
             [
                 0,
-                "sensibilisation employes du"
-            ],
-            [
-                0,
-                "rgpd conformite siége"
-            ],
-            [
-                0,
-                "reponse incident cybermut"
+                "audit sécurité informatique entreprise"
             ],
             [
                 1,
-                "reponse incident cyberplus"
+                "audit informatique"
             ],
             [
                 2,
-                "reponse incident cybercarte"
+                "audit sécurité informatique cours"
             ],
             [
                 3,
-                "reponse incident cybertek"
+                "audit sécurité informatique formation"
             ],
             [
                 0,
-                "assurance entreprise"
+                "solution antivirus entreprise de"
             ],
             [
                 1,
-                "assurance entreprise multirisque"
+                "solution antivirus entreprise transport"
             ],
             [
                 2,
-                "assurance entreprise pro"
+                "solution antivirus entreprise isolation"
             ],
             [
                 3,
-                "assurance entreprise du bâtiment"
+                "solution antivirus entreprise fibre"
             ],
             [
                 0,
-                "cout audit sécurité"
+                "sauvegarde entreprise en difficulté"
             ],
             [
                 1,
-                "cout audit sécurité incendie"
+                "sauvegarde entreprise"
             ],
             [
                 0,
-                "sauvegarde cloud"
+                "ransomware protection dentaire"
             ],
             [
                 1,
-                "sauvegarde cloud gratuite"
+                "ransomware protection juridique"
+            ],
+            [
+                2,
+                "ransomware protection civile"
+            ],
+            [
+                3,
+                "ransomware protections"
+            ],
+            [
+                0,
+                "conformite rgpd entreprise de"
+            ],
+            [
+                1,
+                "conformite rgpd entreprise transport"
+            ],
+            [
+                2,
+                "conformite rgpd entreprise isolation"
+            ],
+            [
+                3,
+                "conformite rgpd entreprise fibre"
+            ],
+            [
+                0,
+                "gestion des risques cybermut"
+            ],
+            [
+                1,
+                "gestion des risques cyberplus"
+            ],
+            [
+                2,
+                "gestion des risques cybercarte"
+            ],
+            [
+                3,
+                "gestion des risques cybertek"
             ]
         ],
         "youtube": [
             [
                 0,
-                "attaque ransomware"
+                "audit sécurité informatique"
             ],
             [
                 0,
-                "conformité rgpd"
-            ],
-            [
-                0,
-                "incident response cyber security day in the life"
+                "ransomware protection"
             ],
             [
                 1,
-                "incident response cybersecurity"
+                "ransomware protection windows 10"
             ],
             [
                 2,
-                "incident response cybersecurity interview questions"
+                "ransomware protection controlled folder access"
             ],
             [
                 3,
-                "incident response cybersecurity full course"
+                "ransomware protection windows 11"
             ],
             [
                 4,
-                "incident response cyber"
+                "ransomware protection set up onedrive"
             ],
             [
                 5,
-                "incident response cyber security hindi"
+                "malware protection"
             ],
             [
                 6,
-                "incident response cyber security tamil"
+                "netapp ransomware protection"
             ],
             [
                 7,
-                "incident response cyber security in telugu"
+                "veeam ransomware protection"
             ],
             [
                 8,
-                "incident response cyber security course"
+                "windows security ransomware protection"
+            ],
+            [
+                9,
+                "malware protection for android"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
             ]
         ]
     },
@@ -554,7 +594,7 @@
             {
                 "title": "Entreprise",
                 "views": 5023,
-                "counted": true,
+                "counted": false,
                 "fromConcept": false,
                 "coverage": 0.435
             }
@@ -566,153 +606,153 @@
     },
     "pages": [
         {
-            "group": "Gestion des risques",
-            "title": "cybersécurité entreprise risques",
-            "intent": "informational",
+            "group": "Audit et conformité",
+            "title": "audit sécurité informatique",
+            "intent": "commercial",
             "keywords": [
-                "cybersécurité entreprise risques",
-                "cybersécurité entreprise transport",
-                "cybersécurité entreprise isolation",
-                "cybersécurité entreprise conseils",
-                "cybersécurité entreprise fibre",
-                "cyberdéfense",
-                "gestion vulnérabilités",
-                "phishing",
+                "audit sécurité informatique",
+                "accès sécurisé",
+                "surveillance cyber",
                 "sécurité des systèmes d'information",
+                "vulnérabilité système",
                 "cybersécurité entreprise audit",
-                "audit sécurité",
-                "cout audit sécurité",
-                "prix audit sécurité informatique"
+                "audit sécurité informatique entreprise",
+                "audit informatique",
+                "audit sécurité informatique exemple"
+            ]
+        },
+        {
+            "group": "Audit et conformité",
+            "title": "conformité rgpd entreprise",
+            "intent": "informational",
+            "keywords": [
+                "conformité rgpd entreprise",
+                "règlement sur les services numériques",
+                "réglementation cybersécurité entreprise",
+                "conformite rgpd entreprise transport"
+            ]
+        },
+        {
+            "group": "Protection contre les ransomware",
+            "title": "ransomware protection",
+            "intent": "informational",
+            "keywords": [
+                "ransomware protection",
+                "authentification multifacteur",
+                "phishing protection",
+                "ransomware protection windows 11",
+                "ransomware protection windows 10",
+                "ransomware protection controlled folder access",
+                "ransomware protection meaning"
             ]
         },
         {
             "group": "Gestion des risques",
-            "title": "incident response cyber",
+            "title": "gestion des risques cybersécurité",
             "intent": "informational",
             "keywords": [
-                "incident response cyber",
-                "identity threat detection and response",
-                "plan reprise activité",
-                "réponse à incident cyber",
-                "incident response cybersecurity"
-            ]
-        },
-        {
-            "group": "Menaces et attaques",
-            "title": "attaque ransomware",
-            "intent": "informational",
-            "keywords": [
-                "attaque ransomware",
-                "attaque ransomware définition",
-                "attaque ransomware def",
-                "attaque ransomware hopital"
-            ]
-        },
-        {
-            "group": "Formation et sensibilisation",
-            "title": "cyber assurance entreprise",
-            "intent": "commercial",
-            "keywords": [
-                "cyber assurance entreprise",
-                "assurance entreprise",
-                "assurance cybersécurité entreprise",
-                "assurance entreprise multirisque"
-            ]
-        },
-        {
-            "group": "Formation et sensibilisation",
-            "title": "sensibilisation des employés",
-            "intent": "informational",
-            "keywords": [
-                "sensibilisation des employés",
-                "cybersécurité entreprise formation",
-                "formation cyber"
-            ]
-        },
-        {
-            "group": "Solutions techniques",
-            "title": "pare feu entreprise",
-            "intent": "commercial",
-            "keywords": [
-                "pare feu entreprise",
-                "pare-feu",
-                "vpn entreprise",
-                "contourner pare feu entreprise"
-            ]
-        },
-        {
-            "group": "Solutions techniques",
-            "title": "cloud sauvegarde données",
-            "intent": "commercial",
-            "keywords": [
-                "cloud sauvegarde données",
-                "sauvegarde cloud",
-                "chiffrement données",
-                "sauvegarde",
+                "gestion des risques cybersécurité",
+                "cyberdéfense",
+                "plan de continuité",
+                "stratégie cybersécurité entreprise",
                 "sécurité des infrastructures du cloud",
-                "sécurité du cloud"
+                "sécurité du cloud",
+                "sécurité réseau",
+                "types de menaces cyber entreprise",
+                "gestion des risques cyber",
+                "cybersécurité entreprise risques",
+                "gestion des risques cybermut"
             ]
         },
         {
-            "group": "Conformité et réglementation",
-            "title": "rgpd conformité",
+            "group": "Formation et sensibilisation",
+            "title": "formation sensibilisation cybersécurité",
             "intent": "informational",
             "keywords": [
-                "rgpd conformité",
-                "conformité rgpd c est quoi",
-                "rgpd conformite siége"
+                "formation sensibilisation cybersécurité",
+                "cybersécurité entreprise conseils",
+                "formation cybersécurité",
+                "formation cybersécurité employés",
+                "cybersécurité entreprise formation",
+                "formation cybercriminalité",
+                "formation sensibilisation cybersécurité entreprise"
+            ]
+        },
+        {
+            "group": "Solutions et outils",
+            "title": "solution antivirus entreprise",
+            "intent": "commercial",
+            "keywords": [
+                "solution antivirus entreprise",
+                "assurance cyber entreprise",
+                "chiffrement données",
+                "coût cybersécurité entreprise",
+                "identity threat detection and response",
+                "pare-feu entreprise",
+                "sauvegarde données entreprise",
+                "sauvegarde cloud",
+                "cybersécurité entreprise solutions"
             ]
         }
     ],
     "categories": {
-        "attaque ransomware": "core",
-        "pare feu entreprise": "core",
-        "rgpd conformité": "core",
-        "cloud sauvegarde données": "core",
-        "cyber assurance entreprise": "core",
-        "sensibilisation des employés": "core",
-        "cybersécurité entreprise france": "doubtful",
-        "conformité rgpd c est quoi": "core",
-        "attaque ransomware définition": "core",
+        "ransomware protection": "core",
+        "audit sécurité informatique": "core",
+        "conformité rgpd entreprise": "core",
+        "gestion des risques cybersécurité": "core",
+        "solution antivirus entreprise": "core",
+        "ransomware protection windows 11": "core",
+        "ransomware protection windows 10": "core",
+        "formation sensibilisation cybersécurité": "core",
+        "gestion des risques cyber": "core",
         "cybersécurité entreprise audit": "core",
-        "cybersécurité entreprise transport": "complementary",
-        "attaque ransomware def": "core",
         "cybersécurité entreprise risques": "core",
-        "cybersécurité entreprise isolation": "complementary",
         "cybersécurité entreprise conseils": "complementary",
-        "incident response cyber": "complementary",
-        "cybersécurité entreprise fibre": "complementary",
         "cybersécurité entreprise formation": "complementary",
-        "iso45001 sensibilisation des employés": "doubtful",
-        "assurance entreprise": "commercial",
-        "cout audit sécurité": "commercial",
-        "cybersécurité entreprise maroc": "doubtful",
-        "prix audit sécurité informatique": "commercial",
-        "reponse incident cybermut": "doubtful",
-        "rgpd conformite siége": "complementary",
-        "réponse à incident cyber": "complementary",
-        "sauvegarde cloud": "complementary",
-        "assurance cybersécurité entreprise": "commercial",
-        "assurance entreprise multirisque": "commercial",
-        "attaque ransomware hopital": "complementary",
-        "contourner pare feu entreprise": "complementary",
-        "incident response cybersecurity": "complementary",
-        "pare-feu": "core",
-        "vpn entreprise": "core",
-        "chiffrement données": "complementary",
-        "phishing": "core",
-        "sauvegarde": "complementary",
-        "plan reprise activité": "complementary",
-        "audit sécurité": "core",
-        "formation cyber": "core",
-        "gestion vulnérabilités": "core",
+        "ransomware protection controlled folder access": "complementary",
+        "ransomware protection meaning": "complementary",
+        "audit sécurité informatique entreprise": "complementary",
+        "formation cybersécurité": "complementary",
+        "gestion des risques cybermut": "commercial",
+        "sauvegarde données entreprise": "complementary",
+        "audit informatique": "complementary",
+        "audit sécurité informatique exemple": "complementary",
+        "conformite rgpd entreprise transport": "complementary",
+        "formation cybercriminalité": "complementary",
+        "formation sensibilisation cybersécurité entreprise": "complementary",
+        "types de menaces cyber entreprise": "core",
+        "stratégie cybersécurité entreprise": "core",
+        "coût cybersécurité entreprise": "commercial",
+        "formation cybersécurité employés": "core",
+        "cybersécurité entreprise solutions": "complementary",
+        "assurance cyber entreprise": "commercial",
+        "réglementation cybersécurité entreprise": "core",
+        "pare-feu entreprise": "core",
+        "chiffrement données": "core",
+        "sauvegarde cloud": "core",
+        "phishing protection": "complementary",
+        "accès sécurisé": "core",
+        "sécurité réseau": "core",
+        "plan de continuité": "complementary",
+        "vulnérabilité système": "core",
+        "authentification multifacteur": "core",
+        "surveillance cyber": "core",
+        "informatiques": "doubtful",
         "cyberdéfense": "complementary",
-        "règlement sur les services numériques": "doubtful",
+        "règlement sur les services numériques": "complementary",
         "sécurité des systèmes d'information": "complementary",
         "sécurité du cloud": "complementary",
         "sécurité des infrastructures du cloud": "complementary",
         "identity threat detection and response": "complementary",
-        "incident response cyber security day in the life": "doubtful",
-        "cout audit sécurité incendie": "doubtful"
+        "cybersécurité entreprise france": "doubtful",
+        "cybersécurité entreprise transport": "doubtful",
+        "cybersécurité entreprise isolation": "doubtful",
+        "cybersécurité entreprise fibre": "doubtful",
+        "cybersécurité entreprise maroc": "doubtful",
+        "menaces cyber entreprise de": "doubtful",
+        "ransomware protection dentaire": "doubtful",
+        "sauvegarde entreprise en difficulté": "doubtful",
+        "gestion des risques cyberplus": "doubtful",
+        "menaces cyber entreprise transport": "doubtful"
     }
 }
