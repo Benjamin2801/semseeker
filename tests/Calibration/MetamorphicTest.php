@@ -12,8 +12,8 @@ use function Symfony\Component\String\u;
 
 /**
  * Tests de comportement (méthode CheckList, Ribeiro et al., ACL 2020) sur les recherches enregistrées : au lieu
- * d'une réponse exacte, une relation entre deux réponses. Invariance : une variante sans changement de sens (casse,
- * accents, espaces) garde le même conseil. Direction : un mot qui annonce une intention sans ambiguïté (« devis »,
+ * d'une réponse exacte, une relation entre deux réponses. Invariance : une variante sans changement de sens (sans
+ * accents) garde le même conseil. Direction : un mot qui annonce une intention sans ambiguïté (« devis »,
  * « meilleur », « comment », une ville) fait apparaître le type de page attendu parmi les options proposées.
  *
  * @phpstan-import-type Fixture from BenchFixture
@@ -25,10 +25,9 @@ final class MetamorphicTest extends TestCase
     /** @return iterable<string, array{string, \Closure(string): string}> */
     public static function invariances(): iterable
     {
+        // Casse et espaces sont déjà couverts par SuggestionMergerTest ; les accents traversent tout le calcul.
         $variants = [
-            'majuscules' => static fn (string $s): string => mb_strtoupper($s),
             'sans accents' => static fn (string $s): string => u($s)->ascii()->toString(),
-            'espaces' => static fn (string $s): string => '  '.str_replace(' ', '  ', $s).' ',
         ];
         foreach (BenchExpectation::load(__DIR__.'/cases.json') as $expectation) {
             foreach ($variants as $name => $variant) {

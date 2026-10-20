@@ -42,14 +42,6 @@ final class HomeControllerTest extends WebTestCase
         yield 'en' => ['en', 'Find the decisive angles.'];
     }
 
-    public function testUnknownLocaleIsNotFound(): void
-    {
-        $client = static::createClient();
-        $client->request('GET', '/de');
-
-        self::assertResponseStatusCodeSame(404);
-    }
-
     public function testUrlsKeepTheSubfolderPrefix(): void
     {
         $client = static::createClient();

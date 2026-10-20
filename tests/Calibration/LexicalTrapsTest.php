@@ -17,7 +17,8 @@ use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
 /**
- * Calibrage des règles sans IA : ce qu'un référenceur attend, cas par cas. Un écart connu porte sa raison et compte
+ * Calibrage des règles sans IA (filtre, indices, garde-fou d'intention, catégorie commerciale) : ce qu'un référenceur
+ * attend, cas par cas. Un écart connu porte sa raison et compte
  * comme test incomplet ; s'il disparaît, le test échoue pour qu'on retire la mention.
  */
 final class LexicalTrapsTest extends TestCase
@@ -42,6 +43,16 @@ final class LexicalTrapsTest extends TestCase
         yield 'race de chien' => ['boston terrier', 'terrier', 'en', false, null];
         yield 'recette' => ['new york cheesecake', 'cheesecake', 'en', false, null];
         yield 'titre' => ['20000 lieues sous les mers', 'jules verne', 'fr', false, 'Un nombre à cinq chiffres n\'est pas toujours un code postal'];
+        yield 'ville composée, sans accent ni trait d\'union' => ['plombier Saint-Étienne', 'plombier', 'fr', true, null];
+        yield 'proximité' => ['plombier près de chez moi', 'plombier', 'fr', true, null];
+        yield 'arrondissement' => ['plombier 15e arrondissement', 'plombier', 'fr', true, null];
+        yield 'service client' => ['assurance auto service client', 'assurance auto', 'fr', true, null];
+        yield 'ville anglaise' => ['plumber new york', 'plumber', 'en', true, null];
+        yield 'mot ordinaire' => ['plombier tarif', 'plombier', 'fr', false, null];
+        yield 'mot qui a aussi un sens de produit' => ['lentilles de contact', 'lentille', 'fr', false, null];
+        yield 'ville prise dans un mot' => ['pantalon parisien', 'pantalon', 'fr', false, null];
+        yield 'villes d\'une autre langue' => ['pizza paris', 'pizza', 'en', false, null];
+        yield 'règle que l\'expression vérifie déjà' => ['plombier paris pas cher', 'plombier paris', 'fr', false, null];
     }
 
     /** @param list<string> $names titres Wikipédia que la recherche trouverait */
@@ -103,6 +114,14 @@ final class LexicalTrapsTest extends TestCase
         yield 'citation' => [['quote of the day', 'love quote', 'inspirational quote'], null, '« quote » y est une citation'];
         yield 'opérations' => [['order of operations', 'pemdas', 'order of operations worksheet'], null, null, ['Order of operations']];
         yield 'prix nobel' => [['prix nobel de la paix', 'prix nobel 2026', 'lauréats'], null, null, ['Prix Nobel']];
+        yield 'prix et tarif' => [['porte de garage automatique', 'porte de garage automatique prix', 'porte de garage automatique tarif'], Intent::Commercial, null];
+        yield 'un tiers suffit' => [['four a pizza', 'four à pizza électrique', 'meilleur four à pizza'], Intent::Commercial, null];
+        yield 'achat avant prix' => [['porte de garage devis', 'porte de garage prix'], Intent::Transactional, null];
+        yield 'en anglais' => [['garage door', 'garage door cost', 'best garage door'], Intent::Commercial, null];
+        yield 'un mot isolé ne décide pas' => [['pâte à pizza', 'pâte à pizza rapide', 'pâte à pizza thermomix', 'pâte à pizza prix'], null, null];
+        yield '« installer » est une question' => [['comment installer une porte de garage', 'installer porte de garage'], null, null];
+        yield 'mot pris dans un autre' => [['caprice des dieux'], null, null];
+        yield 'aucun mot-clé' => [[], null, null];
     }
 
     /**
@@ -125,6 +144,10 @@ final class LexicalTrapsTest extends TestCase
         yield 'durée' => ['combien de temps cuire un oeuf', 'oeuf', null, '« combien » n\'y parle pas d\'argent'];
         yield 'électricité' => ['circuit électrique', 'électricité', null, null, ['Circuit électrique']];
         yield 'offre en ligne' => ['cours de piano en ligne', 'cours de piano', KeywordCategory::Commercial, null];
+        yield 'devis' => ['devis pompe à chaleur', '', KeywordCategory::Commercial, null];
+        yield 'anglais' => ['heat pump cost', '', KeywordCategory::Commercial, null];
+        yield '« installer » est une question' => ['comment installer une pompe à chaleur', '', null, null];
+        yield 'mot commercial ajouté à l\'expression' => ['meilleur grille pain prix', 'meilleur grille pain', KeywordCategory::Commercial, null];
     }
 
     /** @param list<string> $names */
@@ -132,6 +155,14 @@ final class LexicalTrapsTest extends TestCase
     public function testCommercialCategoryNeedsABuyingWord(string $keyword, string $seed, ?KeywordCategory $category, ?string $gap, array $names = []): void
     {
         self::expect($category === KeywordCategory::decide(null, $keyword, false, $seed, LexicalContext::of($seed, $names)), $gap, sprintf('« %s » pour « %s »', $keyword, $seed));
+    }
+
+    // Hors mots d'achat, la catégorie reste celle du modèle ; un terme écarté est toujours à vérifier.
+    public function testOtherwiseTheModelDecidesAndARejectedKeywordIsToBeChecked(): void
+    {
+        self::assertSame(KeywordCategory::Complementary, KeywordCategory::decide(KeywordCategory::Complementary, 'comment installer une pompe à chaleur', false));
+        self::assertSame(KeywordCategory::Core, KeywordCategory::decide(KeywordCategory::Core, 'meilleur grille pain 4 tranches', false, 'meilleur grille pain'));
+        self::assertSame(KeywordCategory::Doubtful, KeywordCategory::decide(KeywordCategory::Core, 'pompe à chaleur', true));
     }
 
     private static function expect(bool $ok, ?string $gap, string $case): void
