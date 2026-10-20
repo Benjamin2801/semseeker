@@ -59,11 +59,31 @@ final class CohereConceptFinderTest extends TestCase
 
     public function testFailsOnlyWhenTheConceptsAreRead(): void
     {
-        $client = new MockHttpClient(new MockResponse('{"message":"overloaded"}', ['http_code' => 503]));
-        $pending = (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr');
+        $overloaded = static fn (): MockResponse => new MockResponse('{"message":"overloaded"}', ['http_code' => 503]);
+        $pending = (new CohereConceptFinder(new CohereChat(new MockHttpClient([$overloaded(), $overloaded()]), 'key', 'model')))->concepts('pizza', 'fr');
 
         $this->expectException(AiException::class);
         $pending->get();
+    }
+
+    public function testRetriesOnceAfterAServerError(): void
+    {
+        $client = new MockHttpClient([new MockResponse('{"message":"internal"}', ['http_code' => 500]), self::reply(['concepts' => ['pizzeria'], 'subject' => 'pizza', 'core' => []])]);
+
+        self::assertSame(['pizzeria'], (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr')->get());
+        self::assertSame(2, $client->getRequestsCount());
+    }
+
+    public function testDoesNotRetryARefusedKey(): void
+    {
+        $client = new MockHttpClient([new MockResponse('{"message":"unauthorized"}', ['http_code' => 401]), self::reply(['concepts' => ['pizzeria']])]);
+
+        $this->expectException(AiException::class);
+        try {
+            (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr')->get();
+        } finally {
+            self::assertSame(1, $client->getRequestsCount(), 'Une clé refusée relève de la rotation des clés, pas d\'une relance.');
+        }
     }
 
     /** @param array<string, mixed> $json */

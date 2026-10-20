@@ -207,21 +207,33 @@ final class BenchExpectation
         return \in_array('fragile', $field['status'], true);
     }
 
+    // Sans concept ou sans plan, un appel à Cohere a échoué : le passage dit une panne, pas la qualité de l'outil.
+    public static function isDegraded(SearchResult $result): bool
+    {
+        return [] === $result->concepts || null === $result->field;
+    }
+
     /**
-     * Tableau de bord : la qualité d'ensemble du jeu, qu'un cas qui bascule dans sa marge ne fait pas bouger.
+     * Tableau de bord : la qualité d'ensemble du jeu, qu'un cas qui bascule dans sa marge ne fait pas bouger. Les
+     * passages dégradés (panne de Cohere) sont comptés à part et sortent des moyennes du plan.
      *
      * @param list<array{self, SearchResult}> $runs
      *
-     * @return array{cases: int, advice: float, fragile: int, noise: float, coverage: float, duplicated: list<string>}
+     * @return array{cases: int, advice: float, fragile: int, degraded: int, noise: float, coverage: float, duplicated: list<string>}
      */
     public static function scorecard(array $runs): array
     {
         $advice = [];
         $fragile = 0;
+        $degraded = 0;
         $noise = [];
         $coverage = [];
         $duplicated = [];
         foreach ($runs as [$expectation, $result]) {
+            if (self::isDegraded($result)) {
+                ++$degraded;
+                continue;
+            }
             $check = $expectation->check($result);
             $advice[] = self::passes($check) ? 1 : 0;
             $field = $expectation->checkField($result);
@@ -236,15 +248,15 @@ final class BenchExpectation
         }
         $mean = static fn (array $values): float => [] !== $values ? array_sum($values) / \count($values) : 0.0;
 
-        return ['cases' => \count($runs), 'advice' => $mean($advice), 'fragile' => $fragile, 'noise' => $mean($noise),
+        return ['cases' => \count($runs), 'advice' => $mean($advice), 'fragile' => $fragile, 'degraded' => $degraded, 'noise' => $mean($noise),
             'coverage' => $mean($coverage), 'duplicated' => $duplicated];
     }
 
-    /** @param array{cases: int, advice: float, fragile: int, noise: float, coverage: float, duplicated: list<string>} $card */
+    /** @param array{cases: int, advice: float, fragile: int, degraded: int, noise: float, coverage: float, duplicated: list<string>} $card */
     public static function formatScorecard(array $card): string
     {
-        return sprintf('%d cas · conseils justes ou défendables %d %% · cas fragiles %d · bruit moyen %.1f %% · couverture moyenne %d %% · plans avec doublons %d',
-            $card['cases'], round(100 * $card['advice']), $card['fragile'], 100 * $card['noise'], round(100 * $card['coverage']), \count($card['duplicated']));
+        return sprintf('%d cas · conseils justes ou défendables %d %% · cas fragiles %d · passages dégradés %d · bruit moyen %.1f %% · couverture moyenne %d %% · plans avec doublons %d',
+            $card['cases'], round(100 * $card['advice']), $card['fragile'], $card['degraded'], 100 * $card['noise'], round(100 * $card['coverage']), \count($card['duplicated']));
     }
 
     /**

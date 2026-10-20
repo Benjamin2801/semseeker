@@ -5,6 +5,7 @@ namespace App\Ai;
 use App\Suggest\SuggestionMerger;
 use Psr\Cache\CacheItemPoolInterface;
 use Symfony\Component\Cache\Adapter\ArrayAdapter;
+use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
 
 // L'autocomplétion ne propose que la suite de ce qu'on tape : « pizza » ne mène jamais à « pizzeria ».
 // Le modèle propose ces concepts voisins, les moteurs disent ensuite lesquels sont vraiment cherchés.
@@ -13,6 +14,10 @@ final class CohereConceptFinder implements ConceptFinderInterface
     private const COUNT = 8;
 
     private const MAX_DURATION = 9;
+
+    // Cohere renvoie parfois une erreur 500 passagère : une relance tient dans le délai si l'erreur arrive tôt.
+    private const RETRY_WITHIN = 6;
+    private const RETRY_MIN_DURATION = 3;
 
     private const CACHE_TTL = 7 * 86400;
 
@@ -111,16 +116,26 @@ final class CohereConceptFinder implements ConceptFinderInterface
             return new PendingConcepts(static fn (): array => $ideas);
         }
 
+        $message = sprintf("Seed: %s\nLanguage: %s", $seed, $lang);
+        $started = microtime(true);
         try {
-            $response = $this->cohere->request(self::PROMPT, sprintf("Seed: %s\nLanguage: %s", $seed, $lang), self::SCHEMA, self::MAX_DURATION);
+            $response = $this->cohere->request(self::PROMPT, $message, self::SCHEMA, self::MAX_DURATION);
         } catch (AiException $e) {
             return new PendingConcepts(static fn (): array => throw $e);
         }
 
         $prefix = SuggestionMerger::normalize($seed).' ';
 
-        return new PendingConcepts(function () use ($response, $seedKey, $prefix, $item): array {
-            $json = $this->cohere->decode($response);
+        return new PendingConcepts(function () use ($response, $message, $started, $seedKey, $prefix, $item): array {
+            try {
+                $json = $this->cohere->decode($response);
+            } catch (AiException $e) {
+                $elapsed = microtime(true) - $started;
+                if (!$e->getPrevious() instanceof ServerExceptionInterface || $elapsed > self::RETRY_WITHIN) {
+                    throw $e;
+                }
+                $json = $this->cohere->decode($this->cohere->request(self::PROMPT, $message, self::SCHEMA, max(self::RETRY_MIN_DURATION, self::MAX_DURATION - $elapsed)));
+            }
             $subject = mb_strtolower(CohereChat::label($json['subject'] ?? '', 60));
             $ideas = [
                 'concepts' => \array_slice(self::neighbours(self::phrases($json['concepts'] ?? [], $seedKey), $prefix), 0, self::COUNT),

@@ -49,6 +49,9 @@ final class BenchReplayTest extends TestCase
     public function testAdviceMatchesWhatAnSeoExpertExpects(BenchExpectation $expectation): void
     {
         $result = self::replay($expectation);
+        if (BenchExpectation::isDegraded($result)) {
+            self::markTestIncomplete('Passage dégradé : panne de Cohere à l\'enregistrement, à réenregistrer ('.$expectation->expression.').');
+        }
         $check = $expectation->check($result);
         $advice = $result->getAdvice();
         $obtained = sprintf('%s : %s, demande %d, intentions %s (%s)', $expectation->expression,
@@ -61,7 +64,11 @@ final class BenchReplayTest extends TestCase
     #[DataProvider('cases')]
     public function testPlanIsRelevant(BenchExpectation $expectation): void
     {
-        $field = $expectation->checkField(self::replay($expectation));
+        $result = self::replay($expectation);
+        if (BenchExpectation::isDegraded($result)) {
+            self::markTestIncomplete('Passage dégradé : panne de Cohere à l\'enregistrement, à réenregistrer ('.$expectation->expression.').');
+        }
+        $field = $expectation->checkField($result);
         if (null === $field) {
             self::markTestSkipped('Pas de plan enregistré pour '.$expectation->expression);
         }
