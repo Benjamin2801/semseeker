@@ -118,9 +118,8 @@ final class CohereContentPlanner implements ContentPlannerInterface
         Reject a keyword that is outside the seed's domain, local (a city, a region, "near me"), or that aims to
         reach one business itself (its website, shop, opening hours, customer service: "celio horaires").
         Also reject a keyword that shares words with the seed but names something else: another product or use
-        (a toy, a game console, a phone model unrelated to the subject), another kind of contract or service
-        ("assurance auto" for "assurance vie"), or another country's market ("prix permis de conduire belgique" for
-        a French seed that names no country).
+        (a toy, a game console, a phone model unrelated to the subject), or another kind of contract or service
+        ("assurance auto" for "assurance vie").
         Broader, narrower and neighbouring subjects of the same domain stay, and so does a brand that qualifies a
         product ("pantalon chino uniqlo"), and a kind of shop or service ("pizzeria", "livraison pizza").
         A keyword of the domain that fits no page well goes to the closest page with the category doubtful; never

@@ -39,9 +39,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
           audience), every concept stays inside that niche: "boucherie halal", not "charcuterie italienne", for
           "charcuterie halal"; "densité mousse", not "matelas à ressorts", for "matelas mousse"; "poêle à granulés",
           not "chauffage électrique", for "chauffage au bois".
-          Another kind of the same thing is a different subject, even in the same domain. Staying in the niche never
-          means adding a word after the seed: name what surrounds the subject instead, its needs, parts, services,
-          accessories and problems ("housse matelas mousse", "entretien poêle à granulés", "ramonage").
+          Another kind of the same thing is a different subject, even in the same domain.
         - A concept never shares a word with the seed while meaning something else: no other product, insurance
           or service named like it ("assurance auto" is not about "assurance vie"), and no consumer use of a
           business subject ("logiciel de comptes personnels" for "comptabilité entreprise").
