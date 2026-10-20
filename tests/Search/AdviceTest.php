@@ -47,7 +47,7 @@ final class AdviceTest extends TestCase
         self::assertSame('toiture', self::parent('devis toiture'));
         self::assertSame('', self::parent('carte grise délai'), 'Sans règle sûre, le parent revient à l\'IA.');
         self::assertSame('pâte à pizza', self::parent('comment faire une pâte à pizza', ['Faire']), 'Un article qui ne nomme qu\'une action ne compte pas.');
-        self::assertSame('recette crêpe', self::parent('recette crêpe facile'), 'Sans qualificatif.');
+        self::assertSame('crêpe', self::parent('recette crêpe facile'), 'Sans qualificatif ni mot de tutoriel, comme « comment faire ».');
     }
 
     public function testChoosesThePageTypeTheSuggestionsPointTo(): void

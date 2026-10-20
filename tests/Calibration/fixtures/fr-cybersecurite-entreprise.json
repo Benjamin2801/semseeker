@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "audit cybersécurité",
-        "formation sensibilisation cybersécurité",
-        "sécurité réseau entreprise",
-        "protection données personnelles",
-        "gestion risques cyber",
-        "cyberassurance entreprise",
-        "sécurité cloud entreprise",
-        "menaces cyber entreprise"
+        "formation sensibilisation",
+        "ransomware entreprise",
+        "sauvegarde cloud",
+        "pare-feu réseau",
+        "phishing employés",
+        "assurance cyber",
+        "gestion incidents"
     ],
     "suggestions": {
         "bing": [
@@ -31,12 +31,12 @@
             "cybersécurité entreprise conseils",
             "cybersécurité entreprise formation",
             "cybersécurité entreprise solutions",
-            "cybersécurité entreprises technologiques",
             "cybersécurité entreprise lyon",
+            "cybersécurité entreprises technologiques",
             "cybersécurité entreprise liste",
             "cybersécurité entreprise france",
-            "cybersécurité entreprise française",
-            "cybersécurité entreprise rennes"
+            "cybersécurité entreprise rennes",
+            "cybersécurité entreprise française"
         ],
         "duckduckgo": [
             "cybersécurité entreprise",
@@ -82,15 +82,15 @@
             ],
             [
                 2,
-                "audit cybersécurité toulouse"
-            ],
-            [
-                3,
                 "audit cybersécurité ot"
             ],
             [
-                4,
+                3,
                 "audit cybersécurité dijon"
+            ],
+            [
+                4,
+                "audit cybersécurité toulouse"
             ],
             [
                 5,
@@ -98,55 +98,207 @@
             ],
             [
                 0,
-                "formation sensibilisation cybersécurité"
-            ],
-            [
-                0,
-                "protection données personnelles france"
+                "formation sensibilisation handicap"
             ],
             [
                 1,
-                "protection données personnelles belgique"
+                "formation sensibilisation"
             ],
             [
                 2,
-                "protection données personnelles maroc"
+                "formation sensibilisation ia"
             ],
             [
                 3,
-                "protection données personnelles burkina faso"
+                "formation sensibilisation amiante"
             ],
             [
                 4,
-                "protection données personnelles canada"
+                "formation sensibilisation rps"
             ],
             [
                 5,
-                "protection données personnelles sénégal"
+                "formation sensibilisation top"
             ],
             [
                 6,
-                "protection données personnelles rgpd"
+                "formation sensibilisation atex"
             ],
             [
                 7,
-                "protection données personnelles côte d'ivoire"
+                "formation sensibilisation cybersécurité"
             ],
             [
                 8,
-                "protection des données personnelles"
+                "formation sensibilisation à l'ia"
             ],
             [
                 9,
-                "la protection des données personnelles"
+                "formation sensibilisation au risque routier"
+            ],
+            [
+                10,
+                "formation sensibilisation au risque chimique"
+            ],
+            [
+                11,
+                "formation sensibilisation à la santé mentale"
             ],
             [
                 0,
-                "gestion des risques cybersécurité"
+                "ransomware en entreprise"
             ],
             [
                 0,
-                "cyber assurance entreprise"
+                "sauvegarde cloud"
+            ],
+            [
+                1,
+                "sauvegarde cloud gratuite"
+            ],
+            [
+                2,
+                "sauvegarde icloud"
+            ],
+            [
+                3,
+                "sauvegarde cloud microsoft"
+            ],
+            [
+                4,
+                "sauvegarde cloud xiaomi"
+            ],
+            [
+                5,
+                "sauvegarde cloud steam"
+            ],
+            [
+                6,
+                "sauvegarde cloud france"
+            ],
+            [
+                7,
+                "sauvegarde cloud norton"
+            ],
+            [
+                8,
+                "sauvegarde cloud synology"
+            ],
+            [
+                9,
+                "sauvegarde icloud apple"
+            ],
+            [
+                0,
+                "pare-feu réseau"
+            ],
+            [
+                1,
+                "pare-feu et protection réseau"
+            ],
+            [
+                2,
+                "pare-feu et protection des réseaux"
+            ],
+            [
+                3,
+                "pare-feu et défense réseau"
+            ],
+            [
+                4,
+                "sécurité réseau / pare-feu"
+            ],
+            [
+                0,
+                "phishing employee training"
+            ],
+            [
+                0,
+                "assurance cyber"
+            ],
+            [
+                1,
+                "assurance cybersécurité"
+            ],
+            [
+                2,
+                "assurance cyber risques"
+            ],
+            [
+                3,
+                "assurance cyber attaque"
+            ],
+            [
+                4,
+                "assurance cyber generali"
+            ],
+            [
+                5,
+                "assurance cyber stoik"
+            ],
+            [
+                6,
+                "assurance cyber axa"
+            ],
+            [
+                7,
+                "assurance cyberplus"
+            ],
+            [
+                8,
+                "assurance cybersecure cbc"
+            ],
+            [
+                9,
+                "assurance cybersecure kbc"
+            ],
+            [
+                10,
+                "assurance cybersécurité entreprise"
+            ],
+            [
+                11,
+                "assurance cyber risques generali"
+            ],
+            [
+                0,
+                "gestion incidents"
+            ],
+            [
+                1,
+                "gestion incident servicenow"
+            ],
+            [
+                2,
+                "gestion incident dora"
+            ],
+            [
+                3,
+                "gestion incident informatique"
+            ],
+            [
+                4,
+                "gestion des incidents"
+            ],
+            [
+                5,
+                "gestion des incidents itil v4"
+            ],
+            [
+                6,
+                "gestion des incidents de sécurité"
+            ],
+            [
+                7,
+                "gestion des incidents informatiques"
+            ],
+            [
+                8,
+                "gestion des incidents pdf"
+            ],
+            [
+                9,
+                "c2 itsm gestion des incidents"
             ]
         ],
         "duckduckgo": [
@@ -160,15 +312,15 @@
             ],
             [
                 2,
-                "audit cybersécurité toulouse"
-            ],
-            [
-                3,
                 "audit cybersécurité ot"
             ],
             [
-                4,
+                3,
                 "audit cybersécurité dijon"
+            ],
+            [
+                4,
+                "audit cybersécurité toulouse"
             ],
             [
                 5,
@@ -176,47 +328,159 @@
             ],
             [
                 0,
-                "formation sensibilisation cybersécurité"
-            ],
-            [
-                0,
-                "protection données personnelles france"
+                "formation sensibilisation handicap"
             ],
             [
                 1,
-                "protection données personnelles belgique"
+                "formation sensibilisation"
             ],
             [
                 2,
-                "protection données personnelles maroc"
+                "formation sensibilisation amiante"
             ],
             [
                 3,
-                "protection données personnelles burkina faso"
+                "formation sensibilisation ia"
             ],
             [
                 4,
-                "protection données personnelles canada"
+                "formation sensibilisation cybersécurité"
             ],
             [
                 5,
-                "protection données personnelles sénégal"
+                "formation sensibilisation rps"
             ],
             [
                 6,
-                "protection données personnelles rgpd"
+                "formation sensibilisation à la santé mentale"
             ],
             [
                 7,
-                "protection données personnelles côte d'ivoire"
+                "formation sensibilisation à l'ia"
             ],
             [
                 0,
-                "gestion des risques cybersécurité"
+                "ransomware en entreprise"
             ],
             [
                 0,
-                "cyber assurance entreprise"
+                "sauvegarde cloud"
+            ],
+            [
+                1,
+                "sauvegarde cloud gratuite"
+            ],
+            [
+                2,
+                "sauvegarde icloud"
+            ],
+            [
+                3,
+                "sauvegarde cloud microsoft"
+            ],
+            [
+                4,
+                "sauvegarde cloud xiaomi"
+            ],
+            [
+                5,
+                "sauvegarde cloud steam"
+            ],
+            [
+                6,
+                "sauvegarde cloud france"
+            ],
+            [
+                7,
+                "sauvegarde cloud norton"
+            ],
+            [
+                0,
+                "pare-feu réseau"
+            ],
+            [
+                1,
+                "pare-feu et protection réseau"
+            ],
+            [
+                2,
+                "pare-feu et protection des réseaux"
+            ],
+            [
+                3,
+                "pare-feu et défense réseau"
+            ],
+            [
+                4,
+                "sécurité réseau / pare-feu"
+            ],
+            [
+                0,
+                "phishing employee training"
+            ],
+            [
+                0,
+                "assurance cyber"
+            ],
+            [
+                1,
+                "assurance cybersécurité"
+            ],
+            [
+                2,
+                "assurance cyber risques"
+            ],
+            [
+                3,
+                "assurance cyber attaque"
+            ],
+            [
+                4,
+                "assurance cyber generali"
+            ],
+            [
+                5,
+                "assurance cyber stoik"
+            ],
+            [
+                6,
+                "assurance cyber axa"
+            ],
+            [
+                7,
+                "assurance cyberplus"
+            ],
+            [
+                0,
+                "gestion incidents"
+            ],
+            [
+                1,
+                "gestion incident servicenow"
+            ],
+            [
+                2,
+                "gestion incident dora"
+            ],
+            [
+                3,
+                "gestion incident informatique"
+            ],
+            [
+                4,
+                "gestion des incidents"
+            ],
+            [
+                5,
+                "gestion des incidents itil v4"
+            ],
+            [
+                6,
+                "gestion des incidents de sécurité"
+            ],
+            [
+                7,
+                "gestion des incidents informatiques"
             ]
         ],
         "google": [
@@ -262,115 +526,199 @@
             ],
             [
                 0,
-                "formation sensibilisation cybersécurité"
+                "formation sensibilisation"
             ],
             [
                 1,
-                "formation sensibilisation cybersécurité entreprise"
+                "formation sensibilisation handicap"
             ],
             [
                 2,
-                "formation sensibilisation cyber"
-            ],
-            [
-                0,
-                "sécurité réseau entreprise"
-            ],
-            [
-                1,
-                "sécurité informatique entreprise"
-            ],
-            [
-                2,
-                "protection informatique entreprise"
+                "formation sensibilisation amiante"
             ],
             [
                 3,
-                "système sécurité entreprise"
+                "formation sensibilisation travail en hauteur"
             ],
             [
                 4,
-                "sécurité informatique société"
+                "formation sensibilisation santé mentale"
             ],
             [
                 5,
-                "service sécurité informatique entreprise"
+                "formation sensibilisation à la laïcité"
             ],
             [
                 6,
-                "charte sécurité informatique entreprise"
+                "formation sensibilisation aux réalités autochtones"
             ],
             [
                 7,
-                "sensibilisation sécurité informatique entreprise"
-            ],
-            [
-                8,
-                "formation sécurité informatique entreprise"
+                "formation sensibilisation au port des epi ppt"
             ],
             [
                 0,
-                "protection données personnelles"
+                "ransomware entreprise"
+            ],
+            [
+                0,
+                "sauvegarde cloud"
             ],
             [
                 1,
-                "protection données personnelles france"
+                "sauvegarde cloud gratuit"
             ],
             [
                 2,
-                "protection données personnelles algerie"
+                "sauvegarde cloud ps5"
             ],
             [
                 3,
-                "protection données personnelles maroc"
+                "sauvegarde cloud samsung"
             ],
             [
                 4,
-                "protection données personnelles belgique"
+                "sauvegarde cloud google"
             ],
             [
                 5,
-                "protection données personnelles canada"
+                "sauvegarde cloud steam"
             ],
             [
                 6,
-                "protection données personnelles burkina faso"
+                "sauvegarde cloud switch"
             ],
             [
                 7,
-                "protection données personnelles cote d ivoire"
+                "sauvegarde cloud temporaire"
             ],
             [
                 8,
-                "protection données personnelles senegal"
+                "sauvegarde cloud android"
             ],
             [
                 9,
-                "protection données personnelles europe"
+                "sauvegarde cloud synology"
             ],
             [
                 0,
-                "gestion des risques cybersécurité"
+                "pare feu réseau"
             ],
             [
                 1,
-                "gestion des risques cyber"
+                "pare feu reseau prive"
             ],
             [
                 2,
-                "politique de gestion des risques cyber"
+                "pare feu reseau public"
             ],
             [
                 3,
-                "formation gestion des risques cyber"
+                "pare feu reseau avec domaine"
+            ],
+            [
+                4,
+                "pare feu reseau internet"
+            ],
+            [
+                5,
+                "pare feu reseau local"
+            ],
+            [
+                6,
+                "pare feu informatique"
+            ],
+            [
+                7,
+                "pare feu informatique définition"
+            ],
+            [
+                8,
+                "pare feu informatique gratuit"
+            ],
+            [
+                9,
+                "pare feu informatique prix"
             ],
             [
                 0,
-                "cyber assurance entreprise"
+                "assurance cyber"
+            ],
+            [
+                1,
+                "assurance cybersécurité"
+            ],
+            [
+                2,
+                "assurance cyber particulier"
+            ],
+            [
+                3,
+                "assurance cyber stoik"
+            ],
+            [
+                4,
+                "assurance cyber risques"
+            ],
+            [
+                5,
+                "assurance cyberattaque"
+            ],
+            [
+                6,
+                "assurance cyber entreprise"
+            ],
+            [
+                7,
+                "assurance cyberplus banque populaire"
+            ],
+            [
+                8,
+                "assurance cyber axa"
+            ],
+            [
+                9,
+                "assurance cyber credit agricole"
             ],
             [
                 0,
-                "cloud security enterprise"
+                "gestion incidents qhse"
+            ],
+            [
+                1,
+                "gestion incidents"
+            ],
+            [
+                2,
+                "gestion des incidents de sécurité"
+            ],
+            [
+                3,
+                "gestion des incidents itil v4"
+            ],
+            [
+                4,
+                "gestion des incidents itil"
+            ],
+            [
+                5,
+                "processus de gestion des incidents"
+            ],
+            [
+                6,
+                "gestion des incidents informatiques"
+            ],
+            [
+                7,
+                "procédure de gestion des incidents"
+            ],
+            [
+                8,
+                "système de gestion des incidents"
+            ],
+            [
+                9,
+                "gestion des incidents pdf"
             ]
         ],
         "yahoo": [
@@ -392,87 +740,87 @@
             ],
             [
                 0,
-                "formation cybersécurité"
+                "formation sensibilisation aux accident de travail"
             ],
             [
                 1,
-                "formation cybersécurité en ligne"
+                "formation sensibilisation sécurité routière"
             ],
             [
                 2,
-                "formation cybersécurité pour débutant"
-            ],
-            [
-                3,
-                "formation cybersécurité epita"
+                "formation sensibilisation aux accident de travail en ehpad"
             ],
             [
                 0,
-                "sécurité réseau entreprise"
+                "ransomware entreprise de"
             ],
             [
                 1,
-                "sécurité entreprise"
-            ],
-            [
-                0,
-                "protection données personnelles"
-            ],
-            [
-                1,
-                "autorités protection données personnelles france"
+                "ransomware entreprise transport"
             ],
             [
                 2,
-                "autorités protection données personnelles sénégal"
+                "ransomware entreprise isolation"
             ],
             [
                 3,
-                "protection des données personnelles"
+                "ransomware entreprise fibre"
             ],
             [
                 0,
-                "gestion cyber"
-            ],
-            [
-                0,
-                "cyber assurance entreprise multirisque"
+                "sauvegarde cloud"
             ],
             [
                 1,
-                "cyber assurance entreprise pro"
+                "sauvegarde cloud gratuite"
             ],
             [
                 2,
-                "cyber assurance entreprise du bâtiment"
+                "sauvegarde sur cloud"
             ],
             [
                 3,
-                "cyber assurance entreprise obligatoire"
+                "sauvegarde samsung cloud"
             ],
             [
                 0,
-                "securite cloud entreprise dédié"
+                "pare feu réseau"
             ],
             [
                 1,
-                "sécurité entreprise"
+                "pare feu reseau sfr"
             ],
             [
                 0,
-                "menaces cyber entreprise de"
+                "phishing employes du"
+            ],
+            [
+                0,
+                "assurance cyber responsabilité"
             ],
             [
                 1,
-                "menaces cyber entreprise transport"
+                "assurance cyber"
             ],
             [
                 2,
-                "menaces cyber entreprise isolation"
+                "assurance cyber risques"
+            ],
+            [
+                0,
+                "gestion incidents paris"
+            ],
+            [
+                1,
+                "gestion incidents free"
+            ],
+            [
+                2,
+                "gestion incidents rillieux-la-pape"
             ],
             [
                 3,
-                "menaces cyber entreprise fibre"
+                "gestion incidents orange"
             ]
         ],
         "youtube": [
@@ -482,23 +830,35 @@
             ],
             [
                 0,
-                "securite informatique en entreprise"
-            ],
-            [
-                0,
-                "protection données personnelles"
+                "sauvegarde cloud ps5"
             ],
             [
                 1,
-                "protection des données personnelles rgpd"
+                "sauvegarde cloud"
             ],
             [
                 2,
-                "protection des données personnelles maroc"
+                "sauvegarde cloud ps4"
+            ],
+            [
+                3,
+                "sauvegarde samsung cloud"
             ],
             [
                 0,
-                "gestion des risques cybersécurité"
+                "assurance cyber"
+            ],
+            [
+                1,
+                "cybersecurity assurance"
+            ],
+            [
+                0,
+                "gestion des incidents"
+            ],
+            [
+                1,
+                "gestion des incidents informatiques"
             ]
         ]
     },
@@ -506,15 +866,15 @@
         "articles": [
             {
                 "title": "Cybersécurité",
-                "views": 3372,
+                "views": 3439,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.565
             },
             {
                 "title": "Entreprise",
-                "views": 5000,
-                "counted": false,
+                "views": 5133,
+                "counted": true,
                 "fromConcept": false,
                 "coverage": 0.435
             }
@@ -526,36 +886,46 @@
     },
     "pages": [
         {
-            "group": "Protection des données",
-            "title": "protection données personnelles",
-            "intent": "informational",
+            "group": "Protection et sauvegarde",
+            "title": "pare-feu réseau",
+            "intent": "commercial",
             "keywords": [
-                "protection données personnelles",
-                "chiffrement données",
-                "sauvegarde données entreprise",
-                "protection données personnelles maroc",
-                "protection données personnelles france",
-                "protection des données personnelles rgpd",
-                "conformité rgpd"
+                "pare-feu réseau",
+                "sauvegarde cloud",
+                "sauvegarde cloud gratuite",
+                "identity threat detection and response",
+                "sauvegarde données",
+                "sécurité applicative",
+                "sécurité endpoints",
+                "sécurité identités",
+                "sécurité iot",
+                "sécurité réseau",
+                "sauvegarde cloud samsung",
+                "sécurité cloud",
+                "sécurité des infrastructures du cloud"
             ]
         },
         {
-            "group": "Protection des données",
-            "title": "sécurité réseau entreprise",
-            "intent": "commercial",
+            "group": "Protection et sauvegarde",
+            "title": "ransomware en entreprise",
+            "intent": "informational",
             "keywords": [
-                "sécurité réseau entreprise",
-                "gestion identités accès",
-                "pare-feu entreprise",
-                "sécurité des applications",
-                "sécurité des emails",
-                "sécurité des endpoints",
-                "sécurité des systèmes d'information",
-                "securite informatique en entreprise",
-                "cloud security enterprise",
-                "sécurité des infrastructures du cloud",
-                "sécurité du cloud",
-                "securite cloud entreprise dédié"
+                "ransomware en entreprise",
+                "cybersécurité entreprise conseils",
+                "cybersécurité entreprise formation",
+                "cyberdéfense"
+            ]
+        },
+        {
+            "group": "Audit et gestion des risques",
+            "title": "gestion incidents",
+            "intent": "informational",
+            "keywords": [
+                "gestion incidents",
+                "plan continuité",
+                "gestion des incidents informatiques",
+                "gestion des incidents itil v4",
+                "gestion des incidents de sécurité"
             ]
         },
         {
@@ -564,98 +934,87 @@
             "intent": "commercial",
             "keywords": [
                 "audit cybersécurité",
-                "identity threat detection and response",
-                "gestion des risques cybersécurité",
-                "plan de reprise activité",
+                "protection données",
+                "sécurité des systèmes d'information",
                 "cybersécurité entreprise audit",
-                "cybersécurité entreprise risques"
+                "cybersécurité entreprise risques",
+                "gestion risques"
             ]
         },
         {
-            "group": "Audit et gestion des risques",
-            "title": "gestion cyber",
-            "intent": "informational",
-            "keywords": [
-                "gestion cyber",
-                "cyberdéfense",
-                "cybersécurité entreprise conseils",
-                "politique sécurité entreprise",
-                "menaces cyber entreprise de"
-            ]
-        },
-        {
-            "group": "Assurance et secteurs spécifiques",
-            "title": "cybersécurité entreprise transport",
-            "intent": "informational",
-            "keywords": [
-                "cybersécurité entreprise transport",
-                "cybersécurité entreprise fibre",
-                "cybersécurité entreprise maroc"
-            ]
-        },
-        {
-            "group": "Assurance et secteurs spécifiques",
-            "title": "cyber assurance entreprise",
+            "group": "Assurance cyber",
+            "title": "assurance cyber",
             "intent": "commercial",
             "keywords": [
-                "cyber assurance entreprise",
-                "cyber assurance entreprise multirisque"
+                "assurance cyber",
+                "assurance cyber stoik",
+                "règlement sur les services numériques",
+                "assurance cyber risques",
+                "assurance cybersécurité"
             ]
         },
         {
             "group": "Formation et sensibilisation",
-            "title": "formation sensibilisation cybersécurité",
+            "title": "cybersécurité entreprise france",
             "intent": "informational",
             "keywords": [
-                "formation sensibilisation cybersécurité",
-                "cybersécurité entreprise formation",
-                "formation cybersécurité"
+                "cybersécurité entreprise france",
+                "cybersécurité entreprise transport"
+            ]
+        },
+        {
+            "group": "Formation et sensibilisation",
+            "title": "formation sensibilisation",
+            "intent": "informational",
+            "keywords": [
+                "formation sensibilisation"
             ]
         }
     ],
     "categories": {
         "audit cybersécurité": "core",
-        "protection données personnelles": "core",
-        "gestion des risques cybersécurité": "core",
-        "protection données personnelles maroc": "complementary",
-        "cyber assurance entreprise": "core",
-        "formation sensibilisation cybersécurité": "core",
-        "sécurité réseau entreprise": "core",
-        "protection données personnelles france": "complementary",
-        "securite informatique en entreprise": "core",
-        "cybersécurité entreprise france": "doubtful",
-        "protection données personnelles belgique": "doubtful",
+        "assurance cyber": "core",
+        "sauvegarde cloud": "core",
+        "pare-feu réseau": "core",
+        "ransomware en entreprise": "core",
+        "gestion incidents": "core",
+        "assurance cyber risques": "core",
+        "sauvegarde cloud samsung": "commercial",
+        "gestion des incidents informatiques": "core",
+        "formation sensibilisation": "core",
+        "formation sensibilisation handicap": "doubtful",
+        "assurance cybersécurité": "core",
+        "sauvegarde cloud gratuite": "commercial",
+        "sauvegarde cloud ps5": "doubtful",
+        "cybersécurité entreprise france": "core",
+        "formation sensibilisation amiante": "doubtful",
         "cybersécurité entreprise audit": "core",
         "cybersécurité entreprise transport": "complementary",
-        "protection des données personnelles rgpd": "core",
         "cybersécurité entreprise risques": "core",
-        "cybersécurité entreprise conseils": "complementary",
-        "cybersécurité entreprise fibre": "complementary",
-        "cybersécurité entreprise formation": "complementary",
-        "cloud security enterprise": "complementary",
-        "cyber assurance entreprise multirisque": "complementary",
-        "cybersécurité entreprise maroc": "complementary",
-        "formation cybersécurité": "complementary",
-        "gestion cyber": "complementary",
-        "menaces cyber entreprise de": "complementary",
-        "securite cloud entreprise dédié": "complementary",
-        "pare-feu entreprise": "core",
-        "chiffrement données": "complementary",
-        "sauvegarde données entreprise": "core",
-        "politique sécurité entreprise": "core",
-        "gestion identités accès": "complementary",
-        "sécurité des endpoints": "complementary",
-        "sécurité des applications": "complementary",
-        "plan de reprise activité": "complementary",
-        "conformité rgpd": "complementary",
-        "sécurité des emails": "complementary",
-        "cyberdéfense": "complementary",
-        "sécurité des systèmes d'information": "complementary",
-        "sécurité du cloud": "complementary",
-        "sécurité des infrastructures du cloud": "complementary",
-        "identity threat detection and response": "complementary",
         "cybersécurité entreprise isolation": "doubtful",
-        "protection données personnelles burkina faso": "doubtful",
-        "protection données personnelles canada": "doubtful"
+        "assurance cyber stoik": "commercial",
+        "gestion des incidents de sécurité": "complementary",
+        "gestion des incidents itil v4": "complementary",
+        "cybersécurité entreprise conseils": "complementary",
+        "cybersécurité entreprise fibre": "doubtful",
+        "formation sensibilisation santé mentale": "doubtful",
+        "sauvegarde cloud steam": "doubtful",
+        "cybersécurité entreprise formation": "complementary",
+        "sécurité réseau": "core",
+        "protection données": "core",
+        "gestion risques": "core",
+        "plan continuité": "complementary",
+        "sauvegarde données": "complementary",
+        "sécurité cloud": "complementary",
+        "sécurité endpoints": "core",
+        "sécurité applicative": "core",
+        "sécurité identités": "core",
+        "sécurité iot": "core",
+        "informatiques": "doubtful",
+        "cyberdéfense": "complementary",
+        "règlement sur les services numériques": "complementary",
+        "sécurité des systèmes d'information": "complementary",
+        "sécurité des infrastructures du cloud": "complementary",
+        "identity threat detection and response": "complementary"
     }
 }

@@ -17,11 +17,11 @@
         "formation aide soignante",
         "concours aide soignante",
         "salaire aide soignante",
+        "rôle aide soignante",
+        "compétences aide soignante",
         "emploi aide soignante",
         "stage aide soignante",
-        "diplôme aide soignante",
-        "mission aide soignante",
-        "soins infirmiers"
+        "syndicat aide soignante"
     ],
     "suggestions": {
         "amazon": [
@@ -33,8 +33,8 @@
             "aide soignante livre",
             "aide soignante cadeau",
             "aide soignante accessoire pochette",
-            "aide soignante 2026",
-            "aide soignante nuit"
+            "aide soignante personnalisé",
+            "aide soignante 2026"
         ],
         "bing": [
             "aide soignante formation",
@@ -44,21 +44,21 @@
             "aide soignante code rome",
             "aide soignante a domicile",
             "aide soignante de nuit",
-            "aide soignante niveau de diplôme",
             "aide soignante en anglais",
-            "aide soignante libérale",
-            "aide soignante formation grenoble",
-            "aide soignante interim"
+            "aide soignante définition",
+            "aide soignante niveau de diplôme",
+            "aide soignante en alternance",
+            "aide soignante formation en alternance"
         ],
         "duckduckgo": [
             "aide soignante formation",
-            "aide soignante fiche métier",
             "aide soignante salaire",
-            "aide soignante la gospel oak",
-            "aide soignante la west hampstead",
-            "aide soignante code rome",
+            "aide soignante fiche métier",
             "aide soignante emploi",
-            "aide soignante a domicile"
+            "aide soignante code rome",
+            "aide soignante a domicile",
+            "aide soignante de nuit",
+            "aide soignante en anglais"
         ],
         "google": [
             "aide soignante",
@@ -67,8 +67,8 @@
             "aide soignante salaire",
             "aide soignante a domicile",
             "aide soignante autour de moi",
-            "aide soignante suisse",
             "aide soignante de nuit",
+            "aide soignante suisse",
             "aide soignante geneve",
             "aide soignante emploi"
         ],
@@ -113,15 +113,15 @@
         "amazon": [
             [
                 0,
-                "formation aide soignante 2026"
+                "formation aide soignante 2026 2027"
             ],
             [
                 1,
-                "formation aide soignante"
+                "formation aide soignante 2026"
             ],
             [
                 2,
-                "formation aide soignante 2026 2027"
+                "formation aide soignante"
             ],
             [
                 0,
@@ -146,50 +146,6 @@
             [
                 0,
                 "stage aide soignante"
-            ],
-            [
-                0,
-                "diplôme aide soignante"
-            ],
-            [
-                0,
-                "soins infirmiers"
-            ],
-            [
-                1,
-                "soins infirmiers à domicile"
-            ],
-            [
-                2,
-                "soins infirmiers en psychiatrie"
-            ],
-            [
-                3,
-                "soins infirmiers en néonatologie"
-            ],
-            [
-                4,
-                "soins infirmiers aux urgences"
-            ],
-            [
-                5,
-                "soins infirmiers en soins intensifs"
-            ],
-            [
-                6,
-                "soins infirmiers serviette de protection pour soins infirmiers"
-            ],
-            [
-                7,
-                "soins infirmiers fiches techniques"
-            ],
-            [
-                8,
-                "soins infirmiers en pédiatrie"
-            ],
-            [
-                9,
-                "soins infirmiers réanimation"
             ]
         ],
         "bing": [
@@ -207,31 +163,31 @@
             ],
             [
                 3,
-                "formation aide soignante france travail"
-            ],
-            [
-                4,
                 "formation aide soignante croix rouge"
             ],
             [
+                4,
+                "formation aide soignante france travail"
+            ],
+            [
                 5,
-                "formation aide soignante à distance"
+                "formation aide soignante grenoble"
             ],
             [
                 6,
-                "formation aide soignante 2025"
-            ],
-            [
-                7,
                 "formation aide soignante 2027"
             ],
             [
+                7,
+                "formation aide soignante à distance"
+            ],
+            [
                 8,
-                "formation aide soignante toulouse"
+                "formation aide soignante 2025"
             ],
             [
                 9,
-                "formation aide soignante grenoble"
+                "formation aide soignante toulouse"
             ],
             [
                 10,
@@ -239,7 +195,7 @@
             ],
             [
                 11,
-                "formation aide soignante perpignan"
+                "formation aide soignante montpellier"
             ],
             [
                 0,
@@ -259,19 +215,19 @@
             ],
             [
                 4,
-                "concours aide soignante 2024 maroc"
+                "concours aide soignante 974"
             ],
             [
                 5,
-                "concours aide soignante 2026 guadeloupe"
+                "concours aide soignante 2024 maroc"
             ],
             [
                 6,
-                "concours aide soignante 2026 réunion"
+                "concours aide soignante 2026 guadeloupe"
             ],
             [
                 7,
-                "concours aide soignante 974"
+                "concours aide soignante 2026 réunion"
             ],
             [
                 8,
@@ -319,11 +275,11 @@
             ],
             [
                 7,
-                "salaire aide soignante belgique"
+                "salaire aide soignante luxembourg"
             ],
             [
                 8,
-                "salaire aide soignante luxembourg"
+                "salaire aide soignante belgique"
             ],
             [
                 9,
@@ -336,6 +292,78 @@
             [
                 11,
                 "salaire aide soignante hôpital public"
+            ],
+            [
+                0,
+                "rôle aide soignante ehpad"
+            ],
+            [
+                1,
+                "rôle aide soignante"
+            ],
+            [
+                2,
+                "rôle aide soignante en chirurgie"
+            ],
+            [
+                3,
+                "rôle aide soignante en psychiatrie"
+            ],
+            [
+                4,
+                "rôle aide soignante avc"
+            ],
+            [
+                5,
+                "rôle aide soignante diabète"
+            ],
+            [
+                6,
+                "rôle aide soignante en oncologie"
+            ],
+            [
+                7,
+                "rôle aide soignante en maternité"
+            ],
+            [
+                8,
+                "rôle aide soignante maladie alzheimer"
+            ],
+            [
+                0,
+                "compétences aide soignante"
+            ],
+            [
+                1,
+                "compétences aide soignante cv"
+            ],
+            [
+                2,
+                "compétences aide soignante référentiel"
+            ],
+            [
+                3,
+                "compétences aide soignante ehpad"
+            ],
+            [
+                4,
+                "compétences aide soignante en gériatrie"
+            ],
+            [
+                5,
+                "compétences aide soignante 2025"
+            ],
+            [
+                6,
+                "compétences aide soignante hôpital"
+            ],
+            [
+                7,
+                "compétences d'une aide soignante"
+            ],
+            [
+                8,
+                "validation des compétences aide soignante"
             ],
             [
                 0,
@@ -363,19 +391,19 @@
             ],
             [
                 6,
-                "emploi aide soignante alternance ile de fr"
-            ],
-            [
-                7,
                 "emploi aide soignante luxembourg"
             ],
             [
+                7,
+                "emploi aide soignante alternance ile de fr"
+            ],
+            [
                 8,
-                "emploi aide soignante belgique"
+                "emploi aide soignante namur"
             ],
             [
                 9,
-                "emploi aide soignante suisse frontalier"
+                "emploi aide soignante belgique"
             ],
             [
                 10,
@@ -383,7 +411,7 @@
             ],
             [
                 11,
-                "emploi aide soignante en hopital"
+                "emploi aide soignante suisse frontalier"
             ],
             [
                 0,
@@ -411,131 +439,11 @@
             ],
             [
                 6,
-                "stage aide soignante en chirurgie"
-            ],
-            [
-                7,
                 "stage aide soignante istres"
             ],
             [
-                8,
+                7,
                 "recherche de stage aide soignante"
-            ],
-            [
-                0,
-                "diplôme aide soignante"
-            ],
-            [
-                1,
-                "diplôme aide soignante niveau"
-            ],
-            [
-                2,
-                "diplôme aide soignante perdu"
-            ],
-            [
-                3,
-                "diplôme aide soignante niveau 4"
-            ],
-            [
-                4,
-                "diplôme aide soignante niveau bac"
-            ],
-            [
-                5,
-                "diplôme aide soignante pdf"
-            ],
-            [
-                6,
-                "diplôme aide soignante vae"
-            ],
-            [
-                7,
-                "diplôme aide soignante formation"
-            ],
-            [
-                8,
-                "diplôme aide soignante en alternance"
-            ],
-            [
-                9,
-                "diplôme aide soignante nom"
-            ],
-            [
-                10,
-                "diplôme aide soignante 2024"
-            ],
-            [
-                11,
-                "diplôme aide soignante ifsi"
-            ],
-            [
-                0,
-                "mission aide soignante"
-            ],
-            [
-                1,
-                "mission aide soignante ehpad"
-            ],
-            [
-                2,
-                "mission aide soignante de nuit"
-            ],
-            [
-                3,
-                "mission aide soignante en ssiad"
-            ],
-            [
-                4,
-                "mission aide soignante à domicile"
-            ],
-            [
-                0,
-                "soins infirmiers"
-            ],
-            [
-                1,
-                "soins infirmiers a domicile"
-            ],
-            [
-                2,
-                "soins infirmiers cours"
-            ],
-            [
-                3,
-                "soins infirmiers cégep"
-            ],
-            [
-                4,
-                "soins infirmiers de base"
-            ],
-            [
-                5,
-                "soins infirmiers pdf"
-            ],
-            [
-                6,
-                "soins infirmiers udem"
-            ],
-            [
-                7,
-                "soins infirmiers en médecine"
-            ],
-            [
-                8,
-                "soins infirmiers pour infirmière auxiliaire"
-            ],
-            [
-                9,
-                "soins infirmiers auxiliaires"
-            ],
-            [
-                10,
-                "soins infirmiers france rodrigue"
-            ],
-            [
-                11,
-                "soins infirmiers auxiliaires la cité"
             ]
         ],
         "duckduckgo": [
@@ -553,23 +461,23 @@
             ],
             [
                 3,
-                "formation aide soignante france travail"
-            ],
-            [
-                4,
                 "formation aide soignante croix rouge"
             ],
             [
+                4,
+                "formation aide soignante france travail"
+            ],
+            [
                 5,
-                "formation aide soignante à distance"
+                "formation aide soignante 2027"
             ],
             [
                 6,
-                "formation aide soignante 2025"
+                "formation aide soignante à distance"
             ],
             [
                 7,
-                "formation aide soignante 2027"
+                "formation aide soignante 2025"
             ],
             [
                 0,
@@ -589,27 +497,27 @@
             ],
             [
                 4,
-                "concours aide soignante 2024 maroc"
-            ],
-            [
-                5,
-                "concours aide soignante 2026 guadeloupe"
-            ],
-            [
-                6,
-                "concours aide soignante 2026 réunion"
-            ],
-            [
-                7,
                 "concours aide soignante 974"
             ],
             [
+                5,
+                "concours aide soignante 2024 maroc"
+            ],
+            [
+                6,
+                "concours aide soignante 2026 guadeloupe"
+            ],
+            [
+                7,
+                "concours aide soignante 2026 réunion"
+            ],
+            [
                 0,
-                "salaire aide soignante 2026"
+                "salaire aide soignante"
             ],
             [
                 1,
-                "salaire aide soignante"
+                "salaire aide soignante 2026"
             ],
             [
                 2,
@@ -617,11 +525,11 @@
             ],
             [
                 3,
-                "salaire aide soignante débutante"
+                "salaire aide soignante suisse"
             ],
             [
                 4,
-                "salaire aide soignante suisse"
+                "salaire aide soignante débutante"
             ],
             [
                 5,
@@ -633,7 +541,71 @@
             ],
             [
                 7,
-                "salaire aide soignante belgique"
+                "salaire aide soignante luxembourg"
+            ],
+            [
+                0,
+                "rôle aide soignante ehpad"
+            ],
+            [
+                1,
+                "rôle aide soignante"
+            ],
+            [
+                2,
+                "rôle aide soignante en chirurgie"
+            ],
+            [
+                3,
+                "rôle aide soignante en psychiatrie"
+            ],
+            [
+                4,
+                "rôle aide soignante avc"
+            ],
+            [
+                5,
+                "rôle aide soignante diabète"
+            ],
+            [
+                6,
+                "rôle aide soignante en oncologie"
+            ],
+            [
+                7,
+                "rôle aide soignante en maternité"
+            ],
+            [
+                0,
+                "compétences aide soignante"
+            ],
+            [
+                1,
+                "compétences aide soignante cv"
+            ],
+            [
+                2,
+                "compétences aide soignante référentiel"
+            ],
+            [
+                3,
+                "compétences aide soignante ehpad"
+            ],
+            [
+                4,
+                "compétences aide soignante en gériatrie"
+            ],
+            [
+                5,
+                "compétences aide soignante 2025"
+            ],
+            [
+                6,
+                "compétences aide soignante hôpital"
+            ],
+            [
+                7,
+                "compétences d'une aide soignante"
             ],
             [
                 0,
@@ -641,27 +613,27 @@
             ],
             [
                 1,
-                "emploi aide soignante de nuit"
+                "emploi aide soignante anglezarke"
             ],
             [
                 2,
-                "emploi aide soignante genève"
+                "emploi aide soignante de nuit"
             ],
             [
                 3,
-                "emploi aide soignante autour de moi"
+                "emploi aide soignante genève"
             ],
             [
                 4,
-                "emploi aide soignante dijon"
+                "emploi aide soignante autour de moi"
             ],
             [
                 5,
-                "emploi aide soignante alternance"
+                "emploi aide soignante dijon"
             ],
             [
                 6,
-                "emploi aide soignante alternance ile de fr"
+                "emploi aide soignante alternance"
             ],
             [
                 7,
@@ -698,90 +670,6 @@
             [
                 7,
                 "stage aide soignante istres"
-            ],
-            [
-                0,
-                "diplôme aide soignante"
-            ],
-            [
-                1,
-                "diplôme aide soignante niveau"
-            ],
-            [
-                2,
-                "diplôme aide soignante perdu"
-            ],
-            [
-                3,
-                "diplôme aide soignante niveau 4"
-            ],
-            [
-                4,
-                "diplôme aide soignante niveau bac"
-            ],
-            [
-                5,
-                "diplôme aide soignante pdf"
-            ],
-            [
-                6,
-                "diplôme aide soignante vae"
-            ],
-            [
-                7,
-                "diplôme aide soignante formation"
-            ],
-            [
-                0,
-                "mission aide soignante"
-            ],
-            [
-                1,
-                "mission aide soignante ehpad"
-            ],
-            [
-                2,
-                "mission aide soignante de nuit"
-            ],
-            [
-                3,
-                "mission aide soignante en ssiad"
-            ],
-            [
-                4,
-                "mission aide soignante à domicile"
-            ],
-            [
-                0,
-                "soins infirmiers"
-            ],
-            [
-                1,
-                "soins infirmiers a domicile"
-            ],
-            [
-                2,
-                "soins infirmiers cours"
-            ],
-            [
-                3,
-                "soins infirmiers cégep"
-            ],
-            [
-                4,
-                "soins infirmiers de base"
-            ],
-            [
-                5,
-                "soins infirmiers pdf"
-            ],
-            [
-                6,
-                "soins infirmiers udem"
-            ],
-            [
-                7,
-                "soins infirmiers en médecine"
             ]
         ],
         "google": [
@@ -907,6 +795,86 @@
             ],
             [
                 0,
+                "rôle aide soignante"
+            ],
+            [
+                1,
+                "rôle aide soignante en maternité"
+            ],
+            [
+                2,
+                "rôle aide soignante en psychiatrie"
+            ],
+            [
+                3,
+                "rôle aide soignante en oncologie"
+            ],
+            [
+                4,
+                "rôle aide soignante en chirurgie orthopédique"
+            ],
+            [
+                5,
+                "rôle aide soignante en neurologie"
+            ],
+            [
+                6,
+                "rôle aide soignante en chirurgie digestive"
+            ],
+            [
+                7,
+                "rôle aide soignante en cardiologie"
+            ],
+            [
+                8,
+                "rôle aide soignante de nuit en ehpad"
+            ],
+            [
+                9,
+                "role aide soignante en ehpad"
+            ],
+            [
+                0,
+                "compétences aide soignante"
+            ],
+            [
+                1,
+                "compétences aide soignante cv"
+            ],
+            [
+                2,
+                "compétences aide soignante référentiel"
+            ],
+            [
+                3,
+                "formation aide soignante"
+            ],
+            [
+                4,
+                "formation aide soignante gratuite et rémunérée"
+            ],
+            [
+                5,
+                "formation aide soignante 6 mois"
+            ],
+            [
+                6,
+                "formation aide soignante 2026"
+            ],
+            [
+                7,
+                "formation aide soignante en alternance"
+            ],
+            [
+                8,
+                "formation aide soignante tunisie"
+            ],
+            [
+                9,
+                "formation aide soignante en 1 an belgique"
+            ],
+            [
+                0,
                 "emploi aide soignante"
             ],
             [
@@ -987,119 +955,19 @@
             ],
             [
                 0,
-                "diplôme aide soignante"
+                "syndicat aide soignante"
             ],
             [
                 1,
-                "diplôme aide soignante niveau"
+                "syndicat aide soignant ehpad"
             ],
             [
                 2,
-                "diplôme aide soignante 2026"
+                "syndicat aide soignant belgique"
             ],
             [
                 3,
-                "diplôme aide soignante niveau 3"
-            ],
-            [
-                4,
-                "diplôme aide soignante bac"
-            ],
-            [
-                5,
-                "diplôme aide soignante formation"
-            ],
-            [
-                6,
-                "diplôme aide soignante équivalence bac"
-            ],
-            [
-                7,
-                "diplôme aide soignante niveau 4 ou 5"
-            ],
-            [
-                8,
-                "diplôme aide soignante candidat libre"
-            ],
-            [
-                9,
-                "diplôme aide soignante équivalence"
-            ],
-            [
-                0,
-                "mission aide soignante"
-            ],
-            [
-                1,
-                "mission aide soignante ehpad"
-            ],
-            [
-                2,
-                "mission aide soignante de nuit"
-            ],
-            [
-                3,
-                "mission aide soignante hublo"
-            ],
-            [
-                4,
-                "mission aide soignante application"
-            ],
-            [
-                5,
-                "mission aide soignante interim"
-            ],
-            [
-                6,
-                "mission aide soignante auto-entrepreneur"
-            ],
-            [
-                7,
-                "mission aide soignante a domicile"
-            ],
-            [
-                8,
-                "mission aide soignante etranger"
-            ],
-            [
-                0,
-                "soins infirmiers à domicile"
-            ],
-            [
-                1,
-                "soins infirmiers"
-            ],
-            [
-                2,
-                "soins infirmiers à domicile prescription"
-            ],
-            [
-                3,
-                "soins infirmiers en cabinet"
-            ],
-            [
-                4,
-                "soins infirmiers à domicile tarifs"
-            ],
-            [
-                5,
-                "soins infirmiers définition"
-            ],
-            [
-                6,
-                "soins infirmiers après opération cataracte"
-            ],
-            [
-                7,
-                "soins infirmiers apres operation hernie inguinale"
-            ],
-            [
-                8,
-                "soins infirmiers en oncologie pdf"
-            ],
-            [
-                9,
-                "soins infirmiers sans ordonnance"
+                "syndicat hospitalier aide soignante"
             ]
         ],
         "indeed": [
@@ -1114,10 +982,6 @@
             [
                 0,
                 "stage aide soignant ehpad"
-            ],
-            [
-                0,
-                "soins infirmiers"
             ]
         ],
         "yahoo": [
@@ -1231,6 +1095,66 @@
             ],
             [
                 0,
+                "rôle aide soignante"
+            ],
+            [
+                1,
+                "rôle d'une aide soignante"
+            ],
+            [
+                2,
+                "rôle aide soignante en réanimation"
+            ],
+            [
+                3,
+                "rôle aide soignante en bloc opératoire"
+            ],
+            [
+                4,
+                "rôle propre aide soignante"
+            ],
+            [
+                0,
+                "compétences aide soignante"
+            ],
+            [
+                1,
+                "compétences aide soignante 2022"
+            ],
+            [
+                2,
+                "compétences aide soignante en ehpad"
+            ],
+            [
+                3,
+                "liste des compétences aide soignante"
+            ],
+            [
+                4,
+                "fiche compétences aide soignante"
+            ],
+            [
+                5,
+                "les 11 compétences aide soignante"
+            ],
+            [
+                6,
+                "exemple compétences aide soignante"
+            ],
+            [
+                7,
+                "liste compétences aide soignante"
+            ],
+            [
+                8,
+                "les compétences aide soignante"
+            ],
+            [
+                9,
+                "exemple liste compétences aide soignante"
+            ],
+            [
+                0,
                 "emploi aide soignante"
             ],
             [
@@ -1303,87 +1227,19 @@
             ],
             [
                 0,
-                "diplôme aide soignante"
+                "syndicat aide-soignante"
             ],
             [
                 1,
-                "diplôme aide soignante quel niveau"
+                "syndicat aide soignante formation"
             ],
             [
                 2,
-                "diplôme aide soignante par équivalence"
+                "syndicat aide soignante à domicile"
             ],
             [
                 3,
-                "diplôme aide soignante niveau"
-            ],
-            [
-                4,
-                "diplôme aide soignante 2022"
-            ],
-            [
-                5,
-                "diplôme aide soignante durée"
-            ],
-            [
-                6,
-                "diplôme aide soignante à distance"
-            ],
-            [
-                0,
-                "mission aide-soignante"
-            ],
-            [
-                1,
-                "mission aide soignante formation"
-            ],
-            [
-                2,
-                "mission aide soignante à domicile"
-            ],
-            [
-                3,
-                "mission aide soignante salaire"
-            ],
-            [
-                0,
-                "soins infirmiers"
-            ],
-            [
-                1,
-                "soins infirmiers à domicile"
-            ],
-            [
-                2,
-                "soins infirmiers pdf"
-            ],
-            [
-                3,
-                "soins infirmiers en chirurgie"
-            ],
-            [
-                4,
-                "soins infirmiers définition"
-            ],
-            [
-                5,
-                "soins infirmiers de base"
-            ],
-            [
-                6,
-                "soins infirmiers en pédiatrie"
-            ],
-            [
-                7,
-                "soins infirmiers des plaies"
-            ],
-            [
-                8,
-                "soins infirmiers en cardiologie"
-            ],
-            [
-                9,
-                "soins infirmiers en psychiatrie"
+                "syndicat aide soignante salaire"
             ]
         ],
         "youtube": [
@@ -1473,6 +1329,86 @@
             ],
             [
                 0,
+                "role aide soignante"
+            ],
+            [
+                1,
+                "role aide soignante en reanimation"
+            ],
+            [
+                2,
+                "role aide soignante au urgence"
+            ],
+            [
+                3,
+                "role aide soignante en maternité"
+            ],
+            [
+                4,
+                "stage aide soignante"
+            ],
+            [
+                5,
+                "metier aide soignante hopital"
+            ],
+            [
+                6,
+                "stage aide soignante maroc"
+            ],
+            [
+                7,
+                "metier aide soignante en ehpad"
+            ],
+            [
+                8,
+                "metier aide soignante"
+            ],
+            [
+                9,
+                "stage aide soignante en ehpad"
+            ],
+            [
+                0,
+                "formation aide soignante"
+            ],
+            [
+                1,
+                "formation aide soignante 2025"
+            ],
+            [
+                2,
+                "formation aide soignante module 1"
+            ],
+            [
+                3,
+                "role aide soignante"
+            ],
+            [
+                4,
+                "formation aide soignante croix rouge"
+            ],
+            [
+                5,
+                "role aide soignante en reanimation"
+            ],
+            [
+                6,
+                "formation aide soignante en tunisie"
+            ],
+            [
+                7,
+                "formation aide soignante en allemagne"
+            ],
+            [
+                8,
+                "formation aide soignante au canada"
+            ],
+            [
+                9,
+                "role aide soignante au urgence"
+            ],
+            [
+                0,
                 "metier aide soignante hopital"
             ],
             [
@@ -1538,171 +1474,48 @@
             [
                 9,
                 "formation aide soignante croix rouge"
-            ],
-            [
-                0,
-                "diplome aide soignante"
-            ],
-            [
-                1,
-                "formation aide soignante 2025"
-            ],
-            [
-                2,
-                "formation aide soignante module 1"
-            ],
-            [
-                3,
-                "formation aide soignante croix rouge"
-            ],
-            [
-                4,
-                "formation aide soignante en tunisie"
-            ],
-            [
-                5,
-                "formation aide soignante en allemagne"
-            ],
-            [
-                6,
-                "formation aide soignante au canada"
-            ],
-            [
-                7,
-                "formation aide soignante en cote d'ivoire"
-            ],
-            [
-                8,
-                "formation aide soignante en algérie"
-            ],
-            [
-                9,
-                "formation aide soignante au senegal"
-            ],
-            [
-                0,
-                "role aide soignante"
-            ],
-            [
-                1,
-                "role aide soignante en reanimation"
-            ],
-            [
-                2,
-                "role aide soignante au urgence"
-            ],
-            [
-                3,
-                "role aide soignante en maternité"
-            ],
-            [
-                4,
-                "role d'aide soignante a l'hopital"
-            ],
-            [
-                5,
-                "faisant fonction aide soignante"
-            ],
-            [
-                0,
-                "soins infirmiers"
-            ],
-            [
-                1,
-                "soins infirmiers de base"
-            ],
-            [
-                2,
-                "soins infirmiers picc line"
-            ],
-            [
-                3,
-                "soins infirmiers en psychiatrie"
-            ],
-            [
-                4,
-                "soins infirmiers prise de sang"
-            ],
-            [
-                5,
-                "soins infirmiers en médecine"
-            ],
-            [
-                6,
-                "soins infirmiers aux urgences"
-            ],
-            [
-                7,
-                "soins infirmiers toilette complète au lit"
-            ],
-            [
-                8,
-                "soins infirmiers en chirurgie"
-            ],
-            [
-                9,
-                "soins infirmiers en geriatrie"
             ]
         ]
     },
-    "wikipedia": {
-        "articles": [
-            {
-                "title": "Aide-soignant",
-                "views": 537,
-                "counted": false,
-                "fromConcept": false,
-                "coverage": 0.308
-            },
-            {
-                "title": "Soin infirmier",
-                "views": 472,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
-            }
-        ],
-        "sections": 5,
-        "types": []
-    },
+    "wikipedia": null,
     "pages": [
         {
-            "group": "Formation et concours",
+            "group": "Formation",
             "title": "aide soignante formation",
             "intent": "informational",
             "keywords": [
                 "aide soignante formation",
-                "diplôme aide soignante",
-                "aide soignante fiche métier",
-                "concours aide soignante",
-                "formation aide soignante en alternance"
+                "institut de formation aide soignante",
+                "formation aide soignante 2026",
+                "formation aide soignante en alternance",
+                "formation aide soignante a distance"
             ]
         },
         {
-            "group": "Formation et concours",
-            "title": "concours aide soignante 2026",
+            "group": "Formation",
+            "title": "concours aide soignante",
             "intent": "informational",
             "keywords": [
+                "concours aide soignante",
+                "préparation concours aide soignante",
                 "concours aide soignante 2026",
-                "diplôme aide soignante niveau",
                 "concours aide soignante 2027",
-                "formation aide soignante 2026",
                 "concours aide soignante 2025"
             ]
         },
         {
-            "group": "Environnement de travail",
-            "title": "aide soignante hôpital",
+            "group": "Expérience",
+            "title": "stage aide soignante",
             "intent": "informational",
             "keywords": [
-                "aide soignante hôpital",
                 "stage aide soignante",
+                "aide soignante hôpital",
                 "stage aide soignante ehpad",
                 "stage aide soignante hôpital"
             ]
         },
         {
-            "group": "Environnement de travail",
+            "group": "Expérience",
             "title": "aide soignante à domicile",
             "intent": "informational",
             "keywords": [
@@ -1712,111 +1525,90 @@
             ]
         },
         {
-            "group": "Pratique professionnelle",
-            "title": "soins infirmiers",
-            "intent": "informational",
-            "keywords": [
-                "soins infirmiers",
-                "quatorze besoins fondamentaux selon virginia henderson",
-                "soins fondamentaux",
-                "soins infirmiers à domicile",
-                "soins infirmiers de base"
-            ]
-        },
-        {
-            "group": "Pratique professionnelle",
-            "title": "mission aide soignante",
-            "intent": "informational",
-            "keywords": [
-                "mission aide soignante",
-                "accompagnement patient",
-                "actes de la vie quotidienne",
-                "documentation soins",
-                "gestes techniques",
-                "hygiène patient",
-                "infirmier",
-                "métiers du paramédical",
-                "profession paramédicale",
-                "professionnel de santé",
-                "prévention infection",
-                "psychiatrie",
-                "relation patient",
-                "surveillance patient",
-                "équipe soignante",
-                "éthique soins",
-                "mission aide soignante ehpad",
-                "mission aide soignante à domicile"
-            ]
-        },
-        {
-            "group": "Carrière et emploi",
+            "group": "Carrière",
             "title": "aide soignante salaire",
             "intent": "informational",
             "keywords": [
                 "aide soignante salaire",
+                "grille de salaire aide soignante",
                 "salaire aide soignante en suisse",
                 "salaire aide soignante de nuit"
             ]
         },
         {
-            "group": "Carrière et emploi",
+            "group": "Carrière",
             "title": "aide soignante emploi",
-            "intent": "commercial",
+            "intent": "informational",
             "keywords": [
                 "aide soignante emploi",
-                "aide médico-psychologique",
-                "auxiliaire de vie sociale",
-                "emploi aide soignante de nuit"
+                "fiche de poste aide soignante",
+                "emploi aide soignante de nuit",
+                "syndicat aide soignante"
+            ]
+        },
+        {
+            "group": "Pratique",
+            "title": "rôle aide soignante",
+            "intent": "informational",
+            "keywords": [
+                "rôle aide soignante",
+                "déontologie aide soignante",
+                "relation d'aide",
+                "soins d'hygiène",
+                "surveillance de l'état de santé",
+                "travail en équipe soignante",
+                "rôle aide soignante en maternité",
+                "role aide soignante en reanimation"
+            ]
+        },
+        {
+            "group": "Pratique",
+            "title": "compétences aide soignante",
+            "intent": "informational",
+            "keywords": [
+                "compétences aide soignante",
+                "compétences aide soignante cv",
+                "compétences aide soignante référentiel"
             ]
         }
     ],
     "categories": {
         "aide soignante formation": "core",
-        "soins infirmiers": "complementary",
-        "diplôme aide soignante": "core",
         "stage aide soignante": "core",
         "aide soignante à domicile": "commercial",
         "aide soignante salaire": "core",
         "concours aide soignante": "core",
+        "rôle aide soignante": "core",
         "aide soignante nuit": "core",
-        "soins infirmiers à domicile": "commercial",
-        "salaire aide soignante en suisse": "commercial",
+        "salaire aide soignante en suisse": "core",
         "aide soignante emploi": "core",
-        "mission aide soignante": "core",
-        "concours aide soignante 2026": "core",
         "formation aide soignante 2026": "core",
+        "compétences aide soignante": "core",
+        "concours aide soignante 2026": "core",
         "formation aide soignante en alternance": "core",
-        "aide soignante fiche métier": "complementary",
-        "diplôme aide soignante niveau": "core",
         "concours aide soignante 2027": "core",
         "concours aide soignante 2025": "core",
-        "emploi aide soignante de nuit": "commercial",
-        "stage aide soignante ehpad": "complementary",
-        "stage aide soignante hôpital": "complementary",
-        "soins infirmiers de base": "core",
-        "aide soignante hôpital": "core",
-        "mission aide soignante ehpad": "complementary",
+        "emploi aide soignante de nuit": "core",
+        "stage aide soignante ehpad": "core",
+        "stage aide soignante hôpital": "core",
+        "aide soignante hôpital": "complementary",
+        "syndicat aide soignante": "core",
+        "rôle aide soignante en maternité": "complementary",
+        "compétences aide soignante cv": "complementary",
         "salaire aide soignante de nuit": "complementary",
-        "mission aide soignante à domicile": "commercial",
+        "role aide soignante en reanimation": "complementary",
         "tenue aide soignante femme": "complementary",
-        "hygiène patient": "core",
-        "surveillance patient": "core",
-        "relation patient": "core",
-        "équipe soignante": "core",
-        "gestes techniques": "core",
-        "prévention infection": "core",
-        "accompagnement patient": "core",
-        "documentation soins": "core",
-        "éthique soins": "core",
-        "psychiatrie": "complementary",
-        "infirmier": "complementary",
-        "profession paramédicale": "complementary",
-        "métiers du paramédical": "complementary",
-        "professionnel de santé": "complementary",
-        "actes de la vie quotidienne": "complementary",
-        "soins fondamentaux": "complementary",
-        "auxiliaire de vie sociale": "complementary",
-        "aide médico-psychologique": "complementary",
-        "quatorze besoins fondamentaux selon virginia henderson": "complementary"
+        "compétences aide soignante référentiel": "complementary",
+        "formation aide soignante a distance": "complementary",
+        "institut de formation aide soignante": "core",
+        "préparation concours aide soignante": "core",
+        "grille de salaire aide soignante": "core",
+        "fiche de poste aide soignante": "core",
+        "soins d'hygiène": "core",
+        "surveillance de l'état de santé": "core",
+        "relation d'aide": "core",
+        "travail en équipe soignante": "core",
+        "déontologie aide soignante": "core",
+        "aide soignante fiche métier": "doubtful"
     }
 }

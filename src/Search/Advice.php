@@ -196,12 +196,14 @@ final class Advice
         $jobs = 100 * ($signals->fill(['indeed']) ?? 0);
 
         $scores = [
-            'pillar' => min(100, (0.4 * $demand + 0.3 * $notoriety + 0.3 * $depth) * $breadth / 100 + 0.25 * $cue('question')),
+            // La largeur du sujet module le guide complet sans l'écraser : un sujet connu et recherché dont les
+            // suggestions varient peu (« prix goncourt ») reste un sujet de guide.
+            'pillar' => min(100, (0.4 * $demand + 0.3 * $notoriety + 0.3 * $depth) * (0.5 + 0.5 * $breadth / 100) + 0.25 * $cue('question')),
 
             'definition' => 0.6 * $cue('definition') + 0.25 * $notoriety * (100 - $orientation) / 100,
 
-            // YouTube complète presque tout : il renforce un tutoriel sans suffire à le désigner.
-            'howto' => $cue('howto') > 0 ? 0.6 * $cue('howto') + 0.4 * $video : 0.15 * $video,
+            // YouTube complète presque tout : il renforce un tutoriel que les suggestions annoncent, sans le créer.
+            'howto' => $cue('howto') * (0.6 + 0.4 * $video / 100),
             'regulation' => $cue('regulation'),
             'news' => $cue('news'),
             'comparison' => $cue('comparison'),

@@ -19,7 +19,9 @@
         "t-shirt court",
         "mode été",
         "vêtement femme",
-        "style années 90"
+        "style décontracté",
+        "tendance actuelle",
+        "coordonnée ensemble"
     ],
     "suggestions": {
         "amazon": [
@@ -30,8 +32,8 @@
             "crop top manche longue",
             "crop top blanc",
             "crop top rose",
+            "pull crop top",
             "crop top sport femme",
-            "crop top noir",
             "crop top femme sexy"
         ],
         "bing": [
@@ -40,11 +42,11 @@
             "crop top homme",
             "crop top noir femme",
             "crop top fille",
-            "crop top noir",
             "crop top blanc",
+            "crop top noir",
             "crop top definition",
-            "crop top zara",
             "crop tops for women",
+            "crop top zara",
             "crop top men",
             "crop top crochet"
         ],
@@ -52,11 +54,11 @@
             "crop top",
             "crop top femme",
             "crop top homme",
-            "crop top noir femme",
             "crop top fille",
-            "crop top noir",
             "crop top blanc",
-            "crop top definition"
+            "crop top noir",
+            "crop top definition",
+            "crop tops for women"
         ],
         "ebay": [
             "crop top"
@@ -88,14 +90,14 @@
         "youtube": [
             "crop top",
             "crop top crochet",
-            "crop top crochet tutorial",
             "crop top aloise sauvage",
             "crop top try on haul",
             "crop top crochet fillette",
             "crop top couture",
             "crop top crochet tuto",
             "crop top moulant",
-            "crop top haul"
+            "crop top haul",
+            "crop top tricot"
         ]
     },
     "related": {
@@ -134,11 +136,11 @@
             ],
             [
                 8,
-                "haut court dentelle femme"
+                "haut court sexy"
             ],
             [
                 9,
-                "haut court gothique"
+                "haut court violet"
             ],
             [
                 0,
@@ -194,15 +196,15 @@
             ],
             [
                 3,
-                "t-shirt court pour enfant"
+                "t-shirt court adidas femme"
             ],
             [
                 4,
-                "t-shirt court col v"
+                "t-shirt court pour enfant"
             ],
             [
                 5,
-                "t-shirt court adidas femme"
+                "t-shirt court col v"
             ],
             [
                 6,
@@ -230,11 +232,11 @@
             ],
             [
                 2,
-                "sous vêtement femme très sexy"
+                "vêtement femme automne"
             ],
             [
                 3,
-                "vêtement femme automne"
+                "sous vêtement femme très sexy"
             ],
             [
                 4,
@@ -242,11 +244,11 @@
             ],
             [
                 5,
-                "vêtement femme sexy chic"
+                "vêtement femme hiver"
             ],
             [
                 6,
-                "vêtement femme hiver"
+                "vêtement femme sexy chic"
             ],
             [
                 7,
@@ -254,11 +256,15 @@
             ],
             [
                 8,
-                "vêtement femme rose"
+                "vêtement femme only"
             ],
             [
                 9,
-                "vêtement femme octobre rose"
+                "vêtement femme rose"
+            ],
+            [
+                0,
+                "tendance actuelle"
             ]
         ],
         "bing": [
@@ -303,12 +309,20 @@
                 "haut court en dentelle"
             ],
             [
+                10,
+                "hautecourt romanèche"
+            ],
+            [
+                11,
+                "hautecourt"
+            ],
+            [
                 0,
-                "débardeur court"
+                "débardeur court femme"
             ],
             [
                 1,
-                "débardeur court femme"
+                "débardeur court"
             ],
             [
                 2,
@@ -316,11 +330,11 @@
             ],
             [
                 3,
-                "débardeur court blanc"
+                "débardeur court femme sport"
             ],
             [
                 4,
-                "débardeur court femme sport"
+                "débardeur court blanc"
             ],
             [
                 5,
@@ -332,11 +346,11 @@
             ],
             [
                 1,
-                "t-shirt court femme"
+                "t-shirt court fille"
             ],
             [
                 2,
-                "t-shirt court fille"
+                "t-shirt court femme"
             ],
             [
                 3,
@@ -348,18 +362,14 @@
             ],
             [
                 5,
-                "t-shirt cartoon"
-            ],
-            [
-                6,
                 "t shirt clem qui court"
             ],
             [
-                7,
+                6,
                 "nike court t shirt"
             ],
             [
-                8,
+                7,
                 "court dri-fit advantage slam t-shirt herren"
             ],
             [
@@ -372,15 +382,15 @@
             ],
             [
                 2,
-                "mode été 2025"
-            ],
-            [
-                3,
                 "mode été"
             ],
             [
+                3,
+                "mode été 2025"
+            ],
+            [
                 4,
-                "mode été 2025 femme"
+                "mode été 2027"
             ],
             [
                 5,
@@ -400,7 +410,7 @@
             ],
             [
                 9,
-                "mode été 26"
+                "mode été 2025 femme"
             ],
             [
                 10,
@@ -424,31 +434,31 @@
             ],
             [
                 4,
-                "vêtement femme temu"
-            ],
-            [
-                5,
                 "vêtement femme tendance"
             ],
             [
-                6,
+                5,
                 "vêtement femme shein"
             ],
             [
-                7,
-                "vêtement femme zara"
+                6,
+                "vêtement femme temu"
             ],
             [
-                8,
+                7,
                 "vêtement femme 60 ans"
             ],
             [
+                8,
+                "vêtement femme zara"
+            ],
+            [
                 9,
-                "vêtement femme cérémonie"
+                "vêtement femme forte"
             ],
             [
                 10,
-                "vêtement femme forte"
+                "vêtement femme chic et tendance"
             ],
             [
                 11,
@@ -456,31 +466,67 @@
             ],
             [
                 0,
-                "style années 90"
+                "style décontracté"
             ],
             [
                 1,
-                "style années 90 homme"
+                "style décontracté homme"
             ],
             [
                 2,
-                "style années 90 femme"
+                "style décontracté femme"
             ],
             [
                 3,
-                "stylo années 90"
+                "style décontracté chic homme"
             ],
             [
                 4,
-                "style année 90 2000"
+                "style décontracté chic"
             ],
             [
                 5,
-                "style année 90 usa"
+                "style automne décontracté"
+            ],
+            [
+                0,
+                "tendance actuelle"
+            ],
+            [
+                1,
+                "tendance actuelle mode"
+            ],
+            [
+                2,
+                "tendances actuelles sur bing"
+            ],
+            [
+                3,
+                "tendance actuelle lunettes homme"
+            ],
+            [
+                4,
+                "tendance actuelle 2026"
+            ],
+            [
+                5,
+                "tendance actuelle en restauration"
             ],
             [
                 6,
-                "style années 80"
+                "tendance actuelle du marché immobilier"
+            ],
+            [
+                7,
+                "supprimer tendance actuelle edge"
+            ],
+            [
+                8,
+                "dollar tendance actuelle"
+            ],
+            [
+                9,
+                "supprimer tendance actuelle"
             ]
         ],
         "duckduckgo": [
@@ -518,11 +564,11 @@
             ],
             [
                 0,
-                "débardeur court"
+                "débardeur court femme"
             ],
             [
                 1,
-                "débardeur court femme"
+                "débardeur court"
             ],
             [
                 2,
@@ -530,11 +576,11 @@
             ],
             [
                 3,
-                "débardeur court blanc"
+                "débardeur court femme sport"
             ],
             [
                 4,
-                "débardeur court femme sport"
+                "débardeur court blanc"
             ],
             [
                 5,
@@ -546,11 +592,11 @@
             ],
             [
                 1,
-                "t-shirt court femme"
+                "t-shirt court fille"
             ],
             [
                 2,
-                "t-shirt court fille"
+                "t-shirt court femme"
             ],
             [
                 3,
@@ -562,15 +608,15 @@
             ],
             [
                 5,
-                "t-shirt cartoon"
-            ],
-            [
-                6,
                 "t shirt clem qui court"
             ],
             [
-                7,
+                6,
                 "nike court t shirt"
+            ],
+            [
+                7,
+                "court dri-fit advantage slam t-shirt herren"
             ],
             [
                 0,
@@ -582,15 +628,15 @@
             ],
             [
                 2,
-                "mode été 2025"
-            ],
-            [
-                3,
                 "mode été"
             ],
             [
+                3,
+                "mode été 2025"
+            ],
+            [
                 4,
-                "mode été 2025 femme"
+                "mode été 2027"
             ],
             [
                 5,
@@ -622,47 +668,75 @@
             ],
             [
                 4,
-                "vêtement femme temu"
-            ],
-            [
-                5,
                 "vêtement femme tendance"
             ],
             [
-                6,
+                5,
                 "vêtement femme shein"
             ],
             [
+                6,
+                "vêtement femme temu"
+            ],
+            [
                 7,
-                "vêtement femme zara"
+                "vêtement femme 60 ans"
             ],
             [
                 0,
-                "style années 90"
+                "style décontracté"
             ],
             [
                 1,
-                "style années 90 homme"
+                "style décontracté homme"
             ],
             [
                 2,
-                "style années 90 femme"
+                "style décontracté femme"
             ],
             [
                 3,
-                "stylo années 90"
+                "style décontracté chic homme"
             ],
             [
                 4,
-                "style année 90 2000"
+                "style décontracté chic"
             ],
             [
                 5,
-                "style année 90 usa"
+                "style automne décontracté"
+            ],
+            [
+                0,
+                "tendance actuelle"
+            ],
+            [
+                1,
+                "tendance actuelle mode"
+            ],
+            [
+                2,
+                "tendances actuelles sur bing"
+            ],
+            [
+                3,
+                "tendance actuelle lunettes homme"
+            ],
+            [
+                4,
+                "tendance actuelle 2026"
+            ],
+            [
+                5,
+                "tendance actuelle en restauration"
             ],
             [
                 6,
-                "style années 80"
+                "tendance actuelle du marché immobilier"
+            ],
+            [
+                7,
+                "supprimer tendance actuelle edge"
             ]
         ],
         "ebay": [
@@ -894,43 +968,95 @@
             ],
             [
                 0,
-                "style années 90"
+                "style décontracté"
             ],
             [
                 1,
-                "style années 90 femme"
+                "style décontracté homme"
             ],
             [
                 2,
-                "style années 90 homme"
+                "style décontracté femme"
             ],
             [
                 3,
-                "look années 90 pour soirée"
+                "style décontracté chic"
             ],
             [
                 4,
-                "look années 90"
+                "style décontracté chic homme"
             ],
             [
                 5,
-                "tenue années 90"
+                "style décontracté chic femme"
             ],
             [
                 6,
-                "look années 90 2000 pour soirée"
+                "style décontracté homme mariage"
             ],
             [
                 7,
-                "style annee 90 2000"
+                "style décontracté mariage"
             ],
             [
                 8,
-                "style année 90 2000 homme"
+                "style décontracté été homme"
+            ],
+            [
+                0,
+                "tendance actuelle"
+            ],
+            [
+                1,
+                "tendance actuelle mode femme"
+            ],
+            [
+                2,
+                "tendance actuelle mode"
+            ],
+            [
+                3,
+                "tendance actuelle mode homme"
+            ],
+            [
+                4,
+                "tendance actuelle consommation"
+            ],
+            [
+                5,
+                "tendance actuelle salle de bain"
+            ],
+            [
+                6,
+                "tendance actuelle ongles"
+            ],
+            [
+                7,
+                "tendance actuelle peinture artistique"
+            ],
+            [
+                8,
+                "tendance actuelle bijoux"
             ],
             [
                 9,
-                "look années 90 pour soirée homme"
+                "tendance actuelle lunettes femme"
+            ],
+            [
+                0,
+                "coordonner ensemble"
+            ],
+            [
+                1,
+                "coordonnées ensemble"
+            ],
+            [
+                2,
+                "coordination ensemble"
+            ],
+            [
+                3,
+                "ensemble coordonné femme"
             ]
         ],
         "indeed": [
@@ -1066,35 +1192,59 @@
             ],
             [
                 0,
-                "style années 90"
+                "style décontracté"
             ],
             [
                 1,
-                "style des années 90"
+                "style décontracté chic"
             ],
             [
                 2,
-                "style annees 90-2000"
+                "housse de canapé style décontracté"
             ],
             [
                 3,
-                "style femme années 90"
+                "style décontracté chic femme"
             ],
             [
                 4,
-                "style vestimentaire des années 90"
+                "style décontracté chic homme"
             ],
             [
-                5,
-                "style grunge années 90"
+                0,
+                "tendance actuelle"
             ],
             [
-                6,
-                "style vestimentaire femme années 90"
+                1,
+                "tendance actuelle chemise homme mode"
             ],
             [
-                7,
-                "style vestimentaire homme années 90"
+                2,
+                "tendance actuelle 974 coiffure"
+            ],
+            [
+                3,
+                "tendance actuelle sur les mur en beige"
+            ],
+            [
+                4,
+                "tendance actuelle des visuels des agences de marketing digital"
+            ],
+            [
+                0,
+                "coordonnee ensemble nike"
+            ],
+            [
+                1,
+                "coordonnee ensemble lacoste"
+            ],
+            [
+                2,
+                "coordonnee ensemble tailleur"
+            ],
+            [
+                3,
+                "coordonnee ensemble femme"
             ]
         ],
         "youtube": [
@@ -1240,11 +1390,39 @@
             ],
             [
                 0,
-                "style annees 90"
+                "style décontracté homme"
             ],
             [
                 1,
-                "look annees 90"
+                "style décontracté femme"
+            ],
+            [
+                0,
+                "tendance actuelle"
+            ],
+            [
+                1,
+                "tendance actuelle musique"
+            ],
+            [
+                2,
+                "tendance actuelle 2025"
+            ],
+            [
+                3,
+                "tendances actuelles de la didactique de la discipline"
+            ],
+            [
+                4,
+                "mode actuelle"
+            ],
+            [
+                5,
+                "tendances actuelles de la didactique"
+            ],
+            [
+                6,
+                "tresses tendance actuelle"
             ]
         ]
     },
@@ -1252,7 +1430,7 @@
         "articles": [
             {
                 "title": "Haut court",
-                "views": 470,
+                "views": 478,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -1269,18 +1447,17 @@
             "keywords": [
                 "crop top femme",
                 "vêtement femme",
-                "haut court femme",
-                "vêtement femme chic",
-                "crop top coton",
-                "crop top dos nu",
-                "crop top à bretelles",
-                "crop top à smocks",
-                "crop top à volants",
+                "crop top moulant",
+                "crop top sport",
+                "crop top dentelle",
+                "crop top ample",
+                "crop top col v",
+                "crop top imprimé",
+                "crop top manches courtes",
+                "crop top uni",
                 "crop top blanc",
-                "t-shirt court femme",
                 "crop top noir",
-                "crop top crochet",
-                "crop top manche longue"
+                "crop top crochet"
             ]
         },
         {
@@ -1289,9 +1466,8 @@
             "intent": "commercial",
             "keywords": [
                 "crop top homme",
-                "débardeur court femme",
-                "débardeur court homme",
-                "t-shirt court homme"
+                "t-shirt court homme",
+                "débardeur court homme"
             ]
         },
         {
@@ -1303,89 +1479,95 @@
             ]
         },
         {
-            "group": "Styles et Tendances",
-            "title": "mode été",
+            "group": "Hauts Courts",
+            "title": "haut court",
             "intent": "informational",
             "keywords": [
-                "mode été",
-                "mode été 2026",
-                "mode été 2026 femme",
-                "mode été 2025"
+                "haut court",
+                "t-shirt court",
+                "t-shirt court femme",
+                "débardeur court femme",
+                "débardeur court",
+                "haut court femme"
             ]
         },
         {
-            "group": "Styles et Tendances",
-            "title": "style années 90",
-            "intent": "informational",
-            "keywords": [
-                "style années 90",
-                "style années 90 femme",
-                "style annees 90-2000",
-                "style années 90 homme"
-            ]
-        },
-        {
-            "group": "Guide et Définitions",
+            "group": "Hauts Courts",
             "title": "crop top définition",
             "intent": "informational",
             "keywords": [
-                "crop top définition",
-                "t-shirt court",
-                "débardeur court",
-                "haut court"
+                "crop top définition"
             ]
         },
         {
-            "group": "Achat et Variantes",
-            "title": "vêtement femme grande taille",
-            "intent": "commercial",
+            "group": "Styles et Tendances",
+            "title": "style décontracté",
+            "intent": "informational",
             "keywords": [
-                "vêtement femme grande taille"
+                "style décontracté",
+                "style décontracté chic",
+                "style décontracté chic homme",
+                "style décontracté homme",
+                "style décontracté femme"
             ]
         },
         {
-            "group": "Achat et Variantes",
+            "group": "Styles et Tendances",
+            "title": "tendance actuelle",
+            "intent": "informational",
+            "keywords": [
+                "tendance actuelle",
+                "mode été 2026",
+                "mode été 2026 femme"
+            ]
+        },
+        {
+            "group": "Achat et Conseils",
             "title": "vêtement femme en ligne",
             "intent": "transactional",
             "keywords": [
-                "vêtement femme en ligne"
+                "vêtement femme en ligne",
+                "vêtement femme grande taille",
+                "vêtement femme chic"
             ]
         }
     ],
     "categories": {
         "vêtement femme": "core",
         "crop top femme": "core",
+        "tendance actuelle": "core",
         "t-shirt court": "core",
-        "crop top homme": "core",
         "crop top blanc": "core",
-        "style années 90": "core",
+        "crop top homme": "core",
+        "débardeur court femme": "core",
         "débardeur court": "core",
-        "débardeur court femme": "complementary",
-        "t-shirt court femme": "complementary",
         "haut court": "core",
-        "vêtement femme grande taille": "core",
-        "mode été 2026": "commercial",
+        "t-shirt court femme": "core",
+        "vêtement femme grande taille": "commercial",
+        "mode été 2026": "core",
         "haut court femme": "core",
-        "crop top noir": "core",
+        "style décontracté": "core",
         "crop top fille": "core",
-        "mode été": "complementary",
-        "style années 90 femme": "core",
+        "style décontracté homme": "core",
+        "mode été": "doubtful",
+        "crop top noir": "core",
+        "style décontracté femme": "core",
         "t-shirt court homme": "core",
-        "mode été 2026 femme": "commercial",
-        "vêtement femme en ligne": "commercial",
-        "vêtement femme chic": "complementary",
+        "mode été 2026 femme": "complementary",
+        "style décontracté chic": "complementary",
         "crop top définition": "complementary",
+        "vêtement femme en ligne": "commercial",
+        "vêtement femme chic": "commercial",
         "débardeur court homme": "complementary",
+        "style décontracté chic homme": "complementary",
         "crop top crochet": "complementary",
-        "style annees 90-2000": "complementary",
-        "mode été 2025": "complementary",
-        "style années 90 homme": "complementary",
-        "crop top manche longue": "complementary",
-        "crop top coton": "core",
-        "crop top dos nu": "core",
-        "crop top à volants": "core",
-        "crop top à bretelles": "core",
-        "crop top à smocks": "core",
-        "débardeur court femme sport": "doubtful"
+        "crop top dentelle": "complementary",
+        "crop top manches courtes": "core",
+        "crop top col v": "core",
+        "crop top moulant": "complementary",
+        "crop top ample": "core",
+        "crop top imprimé": "core",
+        "crop top uni": "core",
+        "crop top sport": "complementary"
     }
 }

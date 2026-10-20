@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "voiture hybride",
-        "borne de recharge",
         "autonomie voiture électrique",
+        "borne de recharge",
         "batterie voiture électrique",
+        "modèle voiture électrique",
+        "prix voiture électrique",
         "subvention voiture électrique",
         "entretien voiture électrique",
-        "voiture occasion électrique",
-        "mobilité durable"
+        "comparatif voiture électrique"
     ],
     "suggestions": {
         "amazon": [
@@ -40,25 +40,25 @@
             "voiture électrique 2026",
             "voiture électrique",
             "voiture électrique renault",
-            "voiture électrique chinoise",
             "voiture électrique byd",
+            "voiture électrique chinoise",
             "voiture électrique peugeot",
             "voiture électrique mg",
             "voiture électrique citroën",
-            "voiture électrique pas cher neuve",
             "voiture électrique la moins chère du marché",
+            "voiture électrique pas cher neuve",
             "voiture électrique occasion",
             "voiture électrique chinoise byd"
         ],
         "duckduckgo": [
             "voiture électrique",
             "voiture électrique 2026",
-            "voiture électrique renault",
             "voiture électrique byd",
+            "voiture électrique renault",
             "voiture électrique mg",
             "voiture électrique chinoise",
-            "voiture électrique peugeot",
-            "voiture électrique citroën"
+            "voiture électrique citroën",
+            "voiture électrique peugeot"
         ],
         "ebay": [
             "voiture électrique enfant",
@@ -111,14 +111,6 @@
     },
     "related": {
         "amazon": [
-            [
-                0,
-                "voiture hybride"
-            ],
-            [
-                1,
-                "voiture hybride carrera"
-            ],
             [
                 0,
                 "borne de recharge vehicule electrique"
@@ -203,102 +195,6 @@
         "bing": [
             [
                 0,
-                "voiture hybride"
-            ],
-            [
-                1,
-                "voiture hybride rechargeable"
-            ],
-            [
-                2,
-                "voiture hybride 2026"
-            ],
-            [
-                3,
-                "voiture hybride c'est quoi"
-            ],
-            [
-                4,
-                "voiture hybride chinoise"
-            ],
-            [
-                5,
-                "voiture hybride toyota"
-            ],
-            [
-                6,
-                "voiture hybride renault"
-            ],
-            [
-                7,
-                "voiture hybride rechargeable 2026"
-            ],
-            [
-                8,
-                "voiture hybride fonctionnement"
-            ],
-            [
-                9,
-                "voiture hybride rechargeable comparatif"
-            ],
-            [
-                10,
-                "voiture hybride occasion"
-            ],
-            [
-                11,
-                "voiture hybride rechargeable occasion"
-            ],
-            [
-                0,
-                "borne de recharge voiture electrique"
-            ],
-            [
-                1,
-                "borne de recharge"
-            ],
-            [
-                2,
-                "borne de recharge à domicile"
-            ],
-            [
-                3,
-                "borne de recharge schneider"
-            ],
-            [
-                4,
-                "borne de recharge électrique"
-            ],
-            [
-                5,
-                "borne de recharge tesla"
-            ],
-            [
-                6,
-                "borne de recharge hager"
-            ],
-            [
-                7,
-                "borne de recharge legrand"
-            ],
-            [
-                8,
-                "borne de recharge 7 kw monophasé"
-            ],
-            [
-                9,
-                "borne de recharge voiture électrique maison"
-            ],
-            [
-                10,
-                "borne de recharge schneider 7 kw"
-            ],
-            [
-                11,
-                "borne de recharge voiture électrique 7 kw"
-            ],
-            [
-                0,
                 "autonomie voiture électrique comparatif"
             ],
             [
@@ -315,19 +211,19 @@
             ],
             [
                 4,
-                "autonomie voiture électrique renault"
+                "autonomie voiture électrique sans permis"
             ],
             [
                 5,
-                "autonomie voiture électrique 2025"
+                "autonomie voiture électrique renault"
             ],
             [
                 6,
-                "autonomie voiture électrique chinoise"
+                "autonomie voiture électrique byd"
             ],
             [
                 7,
-                "autonomie voiture électrique byd"
+                "autonomie voiture électrique 2025"
             ],
             [
                 8,
@@ -335,7 +231,7 @@
             ],
             [
                 9,
-                "autonomie voiture électrique moyenne"
+                "autonomie voiture électrique chinoise"
             ],
             [
                 10,
@@ -347,7 +243,55 @@
             ],
             [
                 0,
-                "batterie voiture electrique"
+                "borne de recharge voiture electrique"
+            ],
+            [
+                1,
+                "borne de recharge à domicile"
+            ],
+            [
+                2,
+                "borne de recharge schneider"
+            ],
+            [
+                3,
+                "borne de recharge"
+            ],
+            [
+                4,
+                "borne de recharge électrique"
+            ],
+            [
+                5,
+                "borne de recharge tesla"
+            ],
+            [
+                6,
+                "borne de recharge hager"
+            ],
+            [
+                7,
+                "borne de recharge 7 kw monophasé"
+            ],
+            [
+                8,
+                "borne de recharge legrand"
+            ],
+            [
+                9,
+                "borne de recharge voiture électrique maison"
+            ],
+            [
+                10,
+                "borne de recharge voiture électrique 7 kw"
+            ],
+            [
+                11,
+                "borne de recharge schneider 7 kw"
+            ],
+            [
+                0,
+                "batterie voiture électrique"
             ],
             [
                 1,
@@ -355,15 +299,15 @@
             ],
             [
                 2,
-                "batterie voiture électrique renault"
-            ],
-            [
-                3,
                 "batterie voiture électrique occasion"
             ],
             [
+                3,
+                "batterie voiture électrique :encombrement"
+            ],
+            [
                 4,
-                "batterie voiture électrique capacité"
+                "batterie voiture électrique renault"
             ],
             [
                 5,
@@ -371,7 +315,7 @@
             ],
             [
                 6,
-                "batterie voiture électrique recyclage"
+                "batterie voiture électrique capacité"
             ],
             [
                 7,
@@ -379,7 +323,7 @@
             ],
             [
                 8,
-                "batterie voiture électrique pollution"
+                "batterie voiture électrique recyclage"
             ],
             [
                 9,
@@ -391,7 +335,75 @@
             ],
             [
                 11,
-                "batterie voiture électrique fonctionnement"
+                "batterie voiture électrique tesla"
+            ],
+            [
+                0,
+                "modèle voiture électrique"
+            ],
+            [
+                1,
+                "modèle voiture électrique chinoise"
+            ],
+            [
+                2,
+                "voiture électrique petit modèle"
+            ],
+            [
+                3,
+                "modèle petite voiture électrique"
+            ],
+            [
+                4,
+                "voiture électrique belgique modèle"
+            ],
+            [
+                0,
+                "prix voiture électrique"
+            ],
+            [
+                1,
+                "prix voiture électrique 2026"
+            ],
+            [
+                2,
+                "prix voiture électrique comparatif"
+            ],
+            [
+                3,
+                "prix voiture électrique neuve"
+            ],
+            [
+                4,
+                "prix voiture électrique chinoise"
+            ],
+            [
+                5,
+                "prix voiture électrique renault"
+            ],
+            [
+                6,
+                "prix voiture électrique byd"
+            ],
+            [
+                7,
+                "prix voiture électrique chinoise en france"
+            ],
+            [
+                8,
+                "prix voiture électrique sans permis"
+            ],
+            [
+                9,
+                "prix voiture électrique dacia"
+            ],
+            [
+                10,
+                "prix voiture électrique peugeot"
+            ],
+            [
+                11,
+                "prix voiture électrique occasion"
             ],
             [
                 0,
@@ -455,121 +467,81 @@
             ],
             [
                 0,
-                "voiture occasion électrique la centrale"
+                "comparatif voiture électrique"
             ],
             [
                 1,
-                "voiture occasion électrique"
+                "comparatif voiture électrique 2026"
             ],
             [
                 2,
-                "voiture occasion électrique renault"
+                "comparatif voiture électrique citadine"
             ],
             [
                 3,
-                "voiture occasion électrique peugeot"
+                "comparatif voiture électrique 2025"
             ],
             [
                 4,
-                "voiture occasion electrique belgique"
+                "comparatif voiture électrique autonomie"
             ],
             [
                 5,
-                "voiture occasion électrique sur dunkerque"
+                "comparatif voiture électrique et thermique"
             ],
             [
                 6,
-                "voiture occasion électrique lld"
+                "comparatif voiture électrique suv"
             ],
             [
                 7,
-                "voiture d'occasion électrique"
+                "comparatif voiture électrique occasion"
             ],
             [
                 8,
-                "petite voiture électrique occasion"
-            ],
-            [
-                0,
-                "mobilité durable"
-            ],
-            [
-                1,
-                "mobilité durable définition"
-            ],
-            [
-                2,
-                "mobilité durable montréal"
-            ],
-            [
-                3,
-                "mobilité durable urssaf"
-            ],
-            [
-                4,
-                "mobilité durable 2026"
-            ],
-            [
-                5,
-                "mobilité durable fpt"
-            ],
-            [
-                6,
-                "mobilité durable vélo"
-            ],
-            [
-                7,
-                "mobilité durable forfait"
-            ],
-            [
-                8,
-                "mobilité durable éducation nationale"
+                "comparatif voiture électrique neuve"
             ],
             [
                 9,
-                "mobilité durable en anglais"
+                "comparatif voiture électrique 2026 citadine"
             ],
             [
                 10,
-                "mobilité durable transition et société"
-            ],
-            [
-                11,
-                "mobilité durable 2026 urssaf"
+                "comparatif voiture électrique hybride"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "voiture hybride"
+                "autonomie voiture électrique comparatif"
             ],
             [
                 1,
-                "voiture hybride rechargeable"
+                "autonomie voiture électrique"
             ],
             [
                 2,
-                "voiture hybride 2026"
+                "autonomie voiture électrique 2026"
             ],
             [
                 3,
-                "voiture hybride c'est quoi"
+                "autonomie voiture électrique sur autoroute"
             ],
             [
                 4,
-                "voiture hybride chinoise"
+                "autonomie voiture électrique sans permis"
             ],
             [
                 5,
-                "voiture hybride toyota"
+                "autonomie voiture électrique renault"
             ],
             [
                 6,
-                "voiture hybride renault"
+                "autonomie voiture électrique byd"
             ],
             [
                 7,
-                "voiture hybride fonctionnement"
+                "autonomie voiture électrique 2025"
             ],
             [
                 0,
@@ -597,47 +569,15 @@
             ],
             [
                 6,
-                "borne de recharge legrand"
-            ],
-            [
-                7,
                 "borne de recharge tesla"
             ],
             [
-                0,
-                "autonomie voiture électrique comparatif"
-            ],
-            [
-                1,
-                "autonomie voiture électrique"
-            ],
-            [
-                2,
-                "autonomie voiture électrique 2026"
-            ],
-            [
-                3,
-                "autonomie voiture électrique sur autoroute"
-            ],
-            [
-                4,
-                "autonomie voiture électrique renault"
-            ],
-            [
-                5,
-                "autonomie voiture électrique 2025"
-            ],
-            [
-                6,
-                "autonomie voiture électrique chinoise"
-            ],
-            [
                 7,
-                "autonomie voiture électrique byd"
+                "borne de recharge legrand"
             ],
             [
                 0,
-                "batterie voiture electrique"
+                "batterie voiture électrique"
             ],
             [
                 1,
@@ -645,15 +585,15 @@
             ],
             [
                 2,
-                "batterie voiture électrique renault"
-            ],
-            [
-                3,
                 "batterie voiture électrique occasion"
             ],
             [
+                3,
+                "batterie voiture électrique :encombrement"
+            ],
+            [
                 4,
-                "batterie voiture électrique capacité"
+                "batterie voiture électrique renault"
             ],
             [
                 5,
@@ -661,11 +601,63 @@
             ],
             [
                 6,
-                "batterie voiture électrique recyclage"
+                "batterie voiture électrique capacité"
             ],
             [
                 7,
                 "batterie voiture électrique enfant 6v"
+            ],
+            [
+                0,
+                "modèle voiture électrique"
+            ],
+            [
+                1,
+                "modèle voiture électrique chinoise"
+            ],
+            [
+                2,
+                "voiture électrique petit modèle"
+            ],
+            [
+                3,
+                "modèle petite voiture électrique"
+            ],
+            [
+                4,
+                "voiture électrique belgique modèle"
+            ],
+            [
+                0,
+                "prix voiture électrique"
+            ],
+            [
+                1,
+                "prix voiture électrique 2026"
+            ],
+            [
+                2,
+                "prix voiture électrique comparatif"
+            ],
+            [
+                3,
+                "prix voiture électrique neuve"
+            ],
+            [
+                4,
+                "prix voiture électrique chinoise"
+            ],
+            [
+                5,
+                "prix voiture électrique renault"
+            ],
+            [
+                6,
+                "prix voiture électrique byd"
+            ],
+            [
+                7,
+                "prix voiture électrique chinoise en france"
             ],
             [
                 0,
@@ -681,15 +673,15 @@
             ],
             [
                 3,
-                "subvention voiture électrique luxembourg"
+                "subvention voiture électrique france"
             ],
             [
                 4,
-                "subvention voiture électrique canada 2026"
+                "subvention voiture électrique 2026"
             ],
             [
                 5,
-                "subvention voiture électrique 2026"
+                "subvention voiture électrique luxembourg"
             ],
             [
                 6,
@@ -697,7 +689,7 @@
             ],
             [
                 7,
-                "subvention voiture électrique france"
+                "subvention voiture électrique usagée"
             ],
             [
                 0,
@@ -713,67 +705,35 @@
             ],
             [
                 0,
-                "voiture occasion électrique"
+                "comparatif voiture électrique"
             ],
             [
                 1,
-                "voiture occasion électrique la centrale"
+                "comparatif voiture électrique 2026"
             ],
             [
                 2,
-                "voiture occasion électrique renault"
+                "comparatif voiture électrique citadine"
             ],
             [
                 3,
-                "voiture occasion électrique peugeot"
+                "comparatif voiture électrique 2025"
             ],
             [
                 4,
-                "voiture occasion électrique lld"
+                "comparatif voiture électrique autonomie"
             ],
             [
                 5,
-                "voiture occasion électrique sur dunkerque"
+                "comparatif voiture électrique et thermique"
             ],
             [
                 6,
-                "voiture occasion electrique belgique"
+                "comparatif voiture électrique suv"
             ],
             [
                 7,
-                "voiture d'occasion électrique"
-            ],
-            [
-                0,
-                "mobilité durable"
-            ],
-            [
-                1,
-                "mobilité durable définition"
-            ],
-            [
-                2,
-                "mobilité durable montréal"
-            ],
-            [
-                3,
-                "mobilité durable urssaf"
-            ],
-            [
-                4,
-                "mobilité durable 2026"
-            ],
-            [
-                5,
-                "mobilité durable fpt"
-            ],
-            [
-                6,
-                "mobilité durable vélo"
-            ],
-            [
-                7,
-                "mobilité durable forfait"
+                "comparatif voiture électrique occasion"
             ]
         ],
         "ebay": [
@@ -787,86 +747,6 @@
             ]
         ],
         "google": [
-            [
-                0,
-                "voiture hybride"
-            ],
-            [
-                1,
-                "voiture hybride rechargeable"
-            ],
-            [
-                2,
-                "voiture hybride occasion"
-            ],
-            [
-                3,
-                "voiture hybride non rechargeable"
-            ],
-            [
-                4,
-                "voiture hybride rechargeable occasion"
-            ],
-            [
-                5,
-                "voiture hybride pas cher"
-            ],
-            [
-                6,
-                "voiture hybride chinoise"
-            ],
-            [
-                7,
-                "voiture hybride définition"
-            ],
-            [
-                8,
-                "voiture hybride à éviter"
-            ],
-            [
-                9,
-                "voiture hybride toyota"
-            ],
-            [
-                0,
-                "borne de recharge"
-            ],
-            [
-                1,
-                "borne de recharge électrique"
-            ],
-            [
-                2,
-                "borne de recharge autour de moi"
-            ],
-            [
-                3,
-                "borne de recharge grenoble"
-            ],
-            [
-                4,
-                "borne de recharge voiron"
-            ],
-            [
-                5,
-                "borne de recharge domicile"
-            ],
-            [
-                6,
-                "borne de recharge schneider"
-            ],
-            [
-                7,
-                "borne de recharge tesla"
-            ],
-            [
-                8,
-                "borne de recharge voiture électrique à proximité"
-            ],
-            [
-                9,
-                "borne de recharge lidl"
-            ],
             [
                 0,
                 "autonomie voiture électrique"
@@ -909,6 +789,46 @@
             ],
             [
                 0,
+                "borne de recharge"
+            ],
+            [
+                1,
+                "borne de recharge électrique"
+            ],
+            [
+                2,
+                "borne de recharge autour de moi"
+            ],
+            [
+                3,
+                "borne de recharge grenoble"
+            ],
+            [
+                4,
+                "borne de recharge voiron"
+            ],
+            [
+                5,
+                "borne de recharge voiture électrique"
+            ],
+            [
+                6,
+                "borne de recharge domicile"
+            ],
+            [
+                7,
+                "borne de recharge schneider"
+            ],
+            [
+                8,
+                "borne de recharge tesla"
+            ],
+            [
+                9,
+                "borne de recharge voiture électrique à proximité"
+            ],
+            [
+                0,
                 "batterie voiture électrique"
             ],
             [
@@ -946,6 +866,86 @@
             [
                 9,
                 "batterie voiture électrique pollution"
+            ],
+            [
+                0,
+                "modèle voiture électrique"
+            ],
+            [
+                1,
+                "modèle voiture électrique chinoise"
+            ],
+            [
+                2,
+                "modèle voiture électrique byd"
+            ],
+            [
+                3,
+                "modèle voiture électrique citadine"
+            ],
+            [
+                4,
+                "marque voiture électrique chinoise"
+            ],
+            [
+                5,
+                "marque voiture électrique"
+            ],
+            [
+                6,
+                "liste voiture électrique 800v"
+            ],
+            [
+                7,
+                "marque voiture électrique polestar"
+            ],
+            [
+                8,
+                "marque voiture électrique américaine"
+            ],
+            [
+                9,
+                "quel voiture électrique choisir"
+            ],
+            [
+                0,
+                "prix voiture électrique"
+            ],
+            [
+                1,
+                "prix voiture électrique occasion"
+            ],
+            [
+                2,
+                "prix voiture électrique neuve"
+            ],
+            [
+                3,
+                "prix voiture électrique neuve la moins chère"
+            ],
+            [
+                4,
+                "prix voiture électrique byd"
+            ],
+            [
+                5,
+                "prix voiture électrique renault"
+            ],
+            [
+                6,
+                "prix voiture électrique chinoise"
+            ],
+            [
+                7,
+                "prix voiture électrique tesla"
+            ],
+            [
+                8,
+                "prix voiture électrique sans permis"
+            ],
+            [
+                9,
+                "prix voiture électrique moins cher"
             ],
             [
                 0,
@@ -1029,83 +1029,43 @@
             ],
             [
                 0,
-                "voiture occasion électrique"
+                "comparatif voiture électrique"
             ],
             [
                 1,
-                "voiture occasion électrique pas cher"
+                "comparatif voiture électrique 2026"
             ],
             [
                 2,
-                "voiture occasion électrique byd"
+                "comparatif voiture électrique autonomie"
             ],
             [
                 3,
-                "voiture occasion électrique mg"
+                "comparatif voiture électrique occasion"
             ],
             [
                 4,
-                "voiture occasion électrique belgique"
+                "comparatif voiture électrique citadine"
             ],
             [
                 5,
-                "voiture occasion électrique automatique"
+                "comparatif voiture électrique familiale"
             ],
             [
                 6,
-                "voiture occasion électrique renault"
+                "comparatif voiture électrique compacte"
             ],
             [
                 7,
-                "voiture occasion électrique loa"
+                "comparatif voiture électrique prix"
             ],
             [
                 8,
-                "voiture occasion électrique tesla"
+                "comparatif voiture électrique leasing social"
             ],
             [
                 9,
-                "voiture occasion électrique avis"
-            ],
-            [
-                0,
-                "mobilité durable"
-            ],
-            [
-                1,
-                "mobilité durable définition"
-            ],
-            [
-                2,
-                "mobilité durable entreprise"
-            ],
-            [
-                3,
-                "mobilité durable education nationale"
-            ],
-            [
-                4,
-                "mobilité durable prime"
-            ],
-            [
-                5,
-                "mobilité durable et inclusive"
-            ],
-            [
-                6,
-                "mobilité durable forfait"
-            ],
-            [
-                7,
-                "mobilité durable 2026"
-            ],
-            [
-                8,
-                "mobilité durable emploi"
-            ],
-            [
-                9,
-                "mobilité durable enseignant"
+                "comparatif voiture électrique et thermique"
             ]
         ],
         "indeed": [
@@ -1116,52 +1076,44 @@
             [
                 1,
                 "borne de recharge irve"
-            ],
-            [
-                0,
-                "mobilité durable"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "voiture hybride"
+                "autonomie voiture électrique"
             ],
             [
                 1,
-                "voiture hybride occasion"
+                "autonomie voiture électrique comparatif"
             ],
             [
                 2,
-                "voiture hybride sans permis 2026"
+                "autonomie voiture électrique 2025"
             ],
             [
                 3,
-                "voiture hybride rechargeable"
+                "autonomie voiture électrique byd"
             ],
             [
                 4,
-                "voiture hybride pickup pas chère"
+                "autonomie voiture électrique autoroute"
             ],
             [
                 5,
-                "voiture hybride toyota"
+                "autonomie voiture électrique dacia spring"
             ],
             [
                 6,
-                "voiture hybride peugeot"
+                "autonomie voiture électrique 2024"
             ],
             [
                 7,
-                "voiture hybride renault"
+                "autonomie voiture électrique cupra"
             ],
             [
                 8,
-                "voiture hybride électrique"
-            ],
-            [
-                9,
-                "voiture hybride définition"
+                "autonomie voiture électrique tesla"
             ],
             [
                 0,
@@ -1205,42 +1157,6 @@
             ],
             [
                 0,
-                "autonomie voiture électrique"
-            ],
-            [
-                1,
-                "autonomie voiture électrique comparatif"
-            ],
-            [
-                2,
-                "autonomie voiture électrique 2025"
-            ],
-            [
-                3,
-                "autonomie voiture électrique byd"
-            ],
-            [
-                4,
-                "autonomie voiture électrique autoroute"
-            ],
-            [
-                5,
-                "autonomie voiture électrique dacia spring"
-            ],
-            [
-                6,
-                "autonomie voiture électrique 2024"
-            ],
-            [
-                7,
-                "autonomie voiture électrique cupra"
-            ],
-            [
-                8,
-                "autonomie voiture électrique tesla"
-            ],
-            [
-                0,
                 "batterie voiture électrique"
             ],
             [
@@ -1254,6 +1170,54 @@
             [
                 3,
                 "batterie voiture électrique composition"
+            ],
+            [
+                0,
+                "modèle voiture électrique"
+            ],
+            [
+                1,
+                "modèle de voiture électrique"
+            ],
+            [
+                0,
+                "prix voiture électrique"
+            ],
+            [
+                1,
+                "prix voiture électrique citadine"
+            ],
+            [
+                2,
+                "prix voiture électrique neuve"
+            ],
+            [
+                3,
+                "prix voiture électrique zoé"
+            ],
+            [
+                4,
+                "prix voiture électrique comparatif"
+            ],
+            [
+                5,
+                "prix voiture électrique sans permis"
+            ],
+            [
+                6,
+                "prix voiture électrique kenguru"
+            ],
+            [
+                7,
+                "prix voiture électrique mg"
+            ],
+            [
+                8,
+                "prix voiture électrique byd"
+            ],
+            [
+                9,
+                "prix voiture électrique toyota"
             ],
             [
                 0,
@@ -1285,101 +1249,73 @@
             ],
             [
                 0,
-                "voiture occasion électrique"
+                "comparatif voiture électrique"
             ],
             [
                 1,
-                "voiture occasion électrique la centrale"
+                "comparatif voiture électrique 2025"
             ],
             [
                 2,
-                "achat voiture occasion électrique"
+                "comparatif voiture électrique 2026"
             ],
             [
                 3,
-                "bonus écologique voiture occasion électrique"
-            ],
-            [
-                0,
-                "mobilité durable"
-            ],
-            [
-                1,
-                "mobilité durable définition"
-            ],
-            [
-                2,
-                "forfait mobilité durable"
-            ],
-            [
-                3,
-                "prime mobilité durable"
+                "comparatif voiture électrique citadine"
             ],
             [
                 4,
-                "forfait mobilité durable 2023"
+                "comparatif voiture électrique 2023"
             ],
             [
                 5,
-                "forfait mobilité durable 2025"
+                "comparatif voiture électrique sans permis"
             ],
             [
                 6,
-                "montant forfait mobilité durable"
-            ],
-            [
-                7,
-                "formulaire forfait mobilité durable"
-            ],
-            [
-                8,
-                "forfait mobilité durable définition"
-            ],
-            [
-                9,
-                "forfait mobilité durable fonction publique"
+                "comparatif voiture électrique 2022 autonomie"
             ]
         ],
         "youtube": [
             [
                 0,
-                "voiture hybride"
+                "batterie voiture électrique"
             ],
             [
                 1,
-                "voiture hybride rechargeable"
+                "autonomie voiture electrique"
             ],
             [
                 2,
-                "voiture hybride non rechargeable"
+                "autonomie voiture electrique autoroute"
             ],
             [
                 3,
-                "voiture hybride fiable"
+                "batterie voiture electrique enfànt"
             ],
             [
                 4,
-                "voiture hybride fonctionnement"
+                "batterie voiture electrique feu"
             ],
             [
                 5,
-                "voiture hybride rechargeable 2025"
+                "autonomie vehicule electrique"
             ],
             [
                 6,
-                "voiture hybride pas cher"
+                "recyclage batterie voiture électrique"
             ],
             [
                 7,
-                "voiture hybride 2025"
+                "chargeur batterie voiture électrique"
             ],
             [
                 8,
-                "voiture hybride chinoise"
+                "nouvelle batterie voiture électrique"
             ],
             [
                 9,
-                "voiture hybride occasion"
+                "batterie externe voiture électrique"
             ],
             [
                 0,
@@ -1427,46 +1363,6 @@
             ],
             [
                 1,
-                "autonomie voiture electrique"
-            ],
-            [
-                2,
-                "autonomie voiture electrique autoroute"
-            ],
-            [
-                3,
-                "batterie voiture electrique enfànt"
-            ],
-            [
-                4,
-                "batterie voiture electrique feu"
-            ],
-            [
-                5,
-                "autonomie vehicule electrique"
-            ],
-            [
-                6,
-                "recyclage batterie voiture électrique"
-            ],
-            [
-                7,
-                "chargeur batterie voiture électrique"
-            ],
-            [
-                8,
-                "nouvelle batterie voiture électrique"
-            ],
-            [
-                9,
-                "batterie externe voiture électrique"
-            ],
-            [
-                0,
-                "batterie voiture électrique"
-            ],
-            [
-                1,
                 "batterie voiture electrique enfànt"
             ],
             [
@@ -1503,6 +1399,26 @@
             ],
             [
                 0,
+                "quel voiture electrique choisir 2025"
+            ],
+            [
+                1,
+                "quel voiture electrique choisir"
+            ],
+            [
+                2,
+                "quel voiture electrique choisir 2026"
+            ],
+            [
+                0,
+                "prix voiture electrique"
+            ],
+            [
+                1,
+                "prix borne recharge voiture électrique"
+            ],
+            [
+                0,
                 "avantage voiture electrique"
             ],
             [
@@ -1535,39 +1451,43 @@
             ],
             [
                 0,
-                "voiture électrique occasion"
+                "comparatif voiture électrique"
             ],
             [
                 1,
-                "voiture électrique occasion 2025"
+                "comparatif voiture électrique 2025"
             ],
             [
                 2,
-                "voiture electrique occasion 20000€"
+                "meilleure voiture électrique"
             ],
             [
                 3,
-                "voiture electrique occasion invendable"
+                "meilleure voiture électrique 2026"
             ],
             [
                 4,
-                "voiture electrique occasion 2026"
+                "top voiture électrique"
             ],
             [
-                0,
-                "mobilité durable"
+                5,
+                "comparatif voiture electrique et thermique"
             ],
             [
-                1,
-                "transport durable"
+                6,
+                "comparatif voiture electrique 2026"
             ],
             [
-                2,
-                "forfait mobilité durable"
+                7,
+                "comparatif voiture electrique 2024"
             ],
             [
-                3,
-                "mobilité urbaine durable"
+                8,
+                "meilleur voiture electrique occasion"
+            ],
+            [
+                9,
+                "meilleur voiture electrique pas cher"
             ]
         ]
     },
@@ -1575,21 +1495,14 @@
         "articles": [
             {
                 "title": "Voiture électrique",
-                "views": 1930,
+                "views": 1989,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
-                "title": "Automobile hybride électrique",
-                "views": 1441,
-                "counted": true,
-                "fromConcept": true,
-                "coverage": 1
-            },
-            {
                 "title": "Station de recharge",
-                "views": 522,
+                "views": 535,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1598,66 +1511,61 @@
         "sections": 12,
         "types": [
             "tesla model 3",
-            "nissan leaf",
             "tesla roadster",
+            "nissan leaf",
             "tesla model x",
             "bmw i3",
             "tesla model y",
-            "mitsubishi i miev",
             "porsche taycan",
+            "mitsubishi i miev",
             "chevrolet volt",
             "toyota bz4x"
         ]
     },
     "pages": [
         {
-            "group": "Types de voitures électriques",
-            "title": "voiture électrique enfant",
-            "intent": "transactional",
-            "keywords": [
-                "voiture électrique enfant",
-                "batterie voiture électrique enfant",
-                "batterie voiture électrique enfant 12v"
-            ]
-        },
-        {
-            "group": "Types de voitures électriques",
-            "title": "voiture électrique chinoise",
+            "group": "Achat et modèles",
+            "title": "comparatif voiture électrique",
             "intent": "commercial",
             "keywords": [
-                "voiture électrique chinoise",
+                "comparatif voiture électrique",
+                "comparatif voiture électrique citadine",
+                "comparatif",
+                "modèle électrique",
                 "nissan leaf",
-                "voiture électrique citadine",
-                "voiture électrique familiale",
-                "voiture électrique luxe",
-                "voiture électrique neuve",
-                "voiture électrique utilitaire",
-                "véhicule électrique",
-                "électromobilité",
-                "voiture électrique renault",
                 "renault zoe",
-                "voiture électrique byd",
                 "tesla model 3",
-                "tesla roadster"
+                "tesla roadster",
+                "toyota mirai",
+                "électromobilité",
+                "modèle voiture électrique",
+                "comparatif voiture électrique 2025",
+                "voiture électrique chinoise",
+                "voiture électrique byd",
+                "voiture électrique renault"
             ]
         },
         {
-            "group": "Types de voitures électriques",
-            "title": "voiture hybride",
-            "intent": "commercial",
-            "keywords": [
-                "voiture hybride",
-                "voiture hybride rechargeable",
-                "voiture hybride occasion"
-            ]
-        },
-        {
-            "group": "Types de voitures électriques",
+            "group": "Achat et modèles",
             "title": "voiture électrique occasion",
             "intent": "commercial",
             "keywords": [
                 "voiture électrique occasion",
-                "voiture occasion électrique la centrale"
+                "comparatif voiture électrique 2026",
+                "voiture électrique 2026",
+                "voiture électrique sans permis"
+            ]
+        },
+        {
+            "group": "Achat et modèles",
+            "title": "prix voiture électrique",
+            "intent": "commercial",
+            "keywords": [
+                "prix voiture électrique",
+                "prix",
+                "subvention",
+                "subvention voiture électrique",
+                "prix voiture électrique neuve"
             ]
         },
         {
@@ -1666,12 +1574,11 @@
             "intent": "informational",
             "keywords": [
                 "borne de recharge",
-                "borne de recharge rapide",
                 "station de recharge",
-                "temps de recharge",
-                "borne de recharge à domicile",
+                "borne de recharge voiture electrique",
                 "borne de recharge vehicule electrique",
-                "borne de recharge schneider"
+                "borne de recharge à domicile",
+                "chargeur voiture électrique"
             ]
         },
         {
@@ -1680,94 +1587,78 @@
             "intent": "informational",
             "keywords": [
                 "autonomie voiture électrique",
-                "autonomie réelle",
+                "autonomie",
                 "efficacité énergétique et impact climatique des voitures électriques",
                 "autonomie voiture électrique comparatif",
                 "autonomie voiture électrique byd"
             ]
         },
         {
-            "group": "Entretien et accessoires",
-            "title": "batterie voiture électrique",
+            "group": "Entretien et batterie",
+            "title": "entretien voiture électrique",
             "intent": "informational",
             "keywords": [
-                "batterie voiture électrique",
-                "chargeur voiture électrique",
-                "batterie lithium-ion"
-            ]
-        },
-        {
-            "group": "Entretien et accessoires",
-            "title": "entretien voiture électrique",
-            "intent": "commercial",
-            "keywords": [
                 "entretien voiture électrique",
+                "entretien",
+                "batterie voiture électrique",
+                "batterie",
                 "entretien voiture électrique prix"
             ]
         },
         {
-            "group": "Aspects financiers",
-            "title": "subvention voiture électrique",
-            "intent": "informational",
+            "group": "Pour enfants",
+            "title": "voiture électrique enfant",
+            "intent": "commercial",
             "keywords": [
-                "subvention voiture électrique",
-                "mobilité durable",
-                "sortie des combustibles fossiles",
-                "forfait mobilité durable"
+                "voiture électrique enfant",
+                "batterie voiture électrique enfant",
+                "batterie voiture électrique enfant 12v"
             ]
         }
     ],
     "categories": {
         "borne de recharge": "core",
-        "voiture électrique enfant": "commercial",
+        "voiture électrique enfant": "complementary",
         "batterie voiture électrique": "core",
-        "mobilité durable": "core",
-        "voiture hybride": "complementary",
         "voiture électrique chinoise": "core",
-        "voiture électrique occasion": "core",
+        "comparatif voiture électrique": "commercial",
         "entretien voiture électrique": "core",
+        "prix voiture électrique": "commercial",
         "autonomie voiture électrique": "core",
-        "voiture hybride rechargeable": "complementary",
+        "voiture électrique occasion": "core",
+        "comparatif voiture électrique 2026": "commercial",
+        "modèle voiture électrique": "core",
         "subvention voiture électrique": "commercial",
-        "voiture électrique renault": "core",
-        "entretien voiture électrique prix": "commercial",
-        "mobilité durable définition": "doubtful",
         "voiture électrique byd": "core",
-        "batterie voiture électrique enfant": "commercial",
-        "batterie voiture électrique enfant 12v": "commercial",
-        "forfait mobilité durable": "core",
+        "voiture électrique renault": "core",
+        "autonomie voiture électrique comparatif": "commercial",
+        "entretien voiture électrique prix": "commercial",
+        "batterie voiture électrique enfant": "complementary",
+        "batterie voiture électrique enfant 12v": "complementary",
+        "comparatif voiture électrique 2025": "commercial",
+        "borne de recharge voiture electrique": "core",
+        "prix voiture électrique neuve": "commercial",
+        "voiture électrique sans permis": "complementary",
         "borne de recharge à domicile": "commercial",
+        "comparatif voiture électrique citadine": "commercial",
+        "voiture électrique 2026": "complementary",
         "borne de recharge vehicule electrique": "complementary",
         "chargeur voiture électrique": "complementary",
-        "voiture hybride occasion": "complementary",
-        "autonomie voiture électrique comparatif": "commercial",
-        "voiture occasion électrique la centrale": "complementary",
         "autonomie voiture électrique byd": "complementary",
-        "borne de recharge schneider": "complementary",
-        "voiture électrique neuve": "core",
-        "batterie lithium-ion": "core",
-        "autonomie réelle": "complementary",
-        "temps de recharge": "complementary",
-        "borne de recharge rapide": "complementary",
-        "voiture électrique citadine": "core",
-        "voiture électrique familiale": "core",
-        "voiture électrique luxe": "core",
-        "voiture électrique utilitaire": "core",
-        "automobile": "doubtful",
-        "pile à combustible": "doubtful",
-        "dihydrogène": "doubtful",
-        "batterie d'accumulateurs": "doubtful",
-        "renault zoe": "complementary",
-        "toyota mirai": "doubtful",
+        "autonomie": "core",
+        "batterie": "core",
+        "modèle électrique": "core",
+        "prix": "commercial",
+        "subvention": "commercial",
+        "entretien": "complementary",
+        "comparatif": "commercial",
+        "renault zoe": "commercial",
+        "toyota mirai": "commercial",
         "efficacité énergétique et impact climatique des voitures électriques": "complementary",
         "électromobilité": "complementary",
         "station de recharge": "complementary",
-        "sortie des combustibles fossiles": "complementary",
-        "véhicule électrique": "complementary",
-        "tesla model 3": "commercial",
-        "nissan leaf": "commercial",
-        "tesla roadster": "commercial",
-        "voiture électrique sans permis": "doubtful",
-        "voiture électrique 2026": "doubtful"
+        "tesla model 3": "complementary",
+        "tesla roadster": "complementary",
+        "nissan leaf": "complementary"
     }
 }

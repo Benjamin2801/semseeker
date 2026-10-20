@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "container orchestration",
-        "docker kubernetes",
         "kubernetes vs docker swarm",
         "kubernetes architecture",
         "kubernetes pods",
-        "kubernetes deployment",
         "kubernetes services",
-        "kubernetes ingress"
+        "kubernetes deployments",
+        "kubernetes ingress",
+        "kubernetes persistent volumes"
     ],
     "suggestions": {
         "bing": [
@@ -35,10 +35,12 @@
             "what is kubernetes operator",
             "what is kubernetes review",
             "what is kubernetes near me",
-            "what is kubernetes container",
+            "what is kubernetes manifest",
             "what is kubernetes online",
             "what is kubernetes in simple terms",
-            "what is kubernetes deployment"
+            "what is kubernetes good for",
+            "what is kubernetes namespace",
+            "what is kubernetes architecture"
         ],
         "duckduckgo": [
             "what is kubernetes",
@@ -88,16 +90,6 @@
         ]
     },
     "related": {
-        "amazon": [
-            [
-                0,
-                "docker kubernetes"
-            ],
-            [
-                1,
-                "docker kubernetes book"
-            ]
-        ],
         "bing": [
             [
                 0,
@@ -133,59 +125,19 @@
             ],
             [
                 8,
-                "container orchestration challenges"
-            ],
-            [
-                9,
-                "container orchestration kubernetes pod"
-            ],
-            [
-                10,
                 "container orchestration azure"
             ],
             [
-                11,
-                "container orchestration service"
-            ],
-            [
-                0,
-                "docker kubernetes tutorial"
-            ],
-            [
-                1,
-                "docker kubernetes"
-            ],
-            [
-                2,
-                "docker kubernetes commands"
-            ],
-            [
-                3,
-                "docker kubernetes basics"
-            ],
-            [
-                4,
-                "docker kubernetes integration"
-            ],
-            [
-                5,
-                "docker kubernetes interview questions"
-            ],
-            [
-                6,
-                "docker kubernetes setup"
-            ],
-            [
-                7,
-                "docker kubernetes deployment"
-            ],
-            [
-                8,
-                "docker kubernetes terraform"
-            ],
-            [
                 9,
-                "docker kubernetes certification"
+                "container orchestration challenges"
+            ],
+            [
+                10,
+                "container orchestration in cloud computing"
+            ],
+            [
+                11,
+                "container orchestration platform means"
             ],
             [
                 0,
@@ -285,19 +237,19 @@
             ],
             [
                 7,
-                "kubernetes architecture simplified"
-            ],
-            [
-                8,
                 "kubernetes architecture interview questions"
             ],
             [
-                9,
+                8,
                 "kubernetes architecture patterns"
             ],
             [
-                10,
+                9,
                 "kubernetes architecture image"
+            ],
+            [
+                10,
+                "kubernetes architecture medium"
             ],
             [
                 11,
@@ -305,7 +257,7 @@
             ],
             [
                 12,
-                "kubernetes architecture training linkedin"
+                "kubernetes architecture simplified"
             ],
             [
                 13,
@@ -321,11 +273,11 @@
             ],
             [
                 2,
-                "kubernetes pods explained"
+                "kubernetes pods scaling"
             ],
             [
                 3,
-                "kubernetes pods scaling"
+                "kubernetes pods explained"
             ],
             [
                 4,
@@ -341,11 +293,11 @@
             ],
             [
                 7,
-                "kubernetes pods vs nodes vs containers"
+                "kubernetes pods troubleshooting"
             ],
             [
                 8,
-                "kubernetes pods troubleshooting"
+                "kubernetes pods vs nodes vs containers"
             ],
             [
                 9,
@@ -353,91 +305,31 @@
             ],
             [
                 10,
-                "kubernetes podspec"
-            ],
-            [
-                11,
                 "kubernetes pods debuggen"
             ],
             [
-                12,
+                11,
                 "kubernetes pods en espera"
             ],
             [
                 0,
-                "kubernetes deployment"
-            ],
-            [
-                1,
-                "kubernetes deployment yaml"
-            ],
-            [
-                2,
-                "kubernetes deployment strategy"
-            ],
-            [
-                3,
-                "kubernetes deployment spec"
-            ],
-            [
-                4,
-                "kubernetes deployment file"
-            ],
-            [
-                5,
-                "kubernetes deployment strategy types"
-            ],
-            [
-                6,
-                "kubernetes deployment examples github"
-            ],
-            [
-                7,
-                "kubernetes deployment tools"
-            ],
-            [
-                8,
-                "kubernetes deployment all capabilities yml"
-            ],
-            [
-                9,
-                "kubernetes deployment manifest"
-            ],
-            [
-                10,
-                "kubernetes deployment vs pod"
-            ],
-            [
-                11,
-                "kubernetes deployment environment variables"
-            ],
-            [
-                12,
-                "kubernetes deployment vs statefulset"
-            ],
-            [
-                13,
-                "kubernetes deployment yaml file"
-            ],
-            [
-                0,
-                "kubernetes services types"
-            ],
-            [
-                1,
                 "kubernetes services"
             ],
             [
+                1,
+                "kubernetes services types"
+            ],
+            [
                 2,
-                "kubernetes services azure"
+                "kubernetes services yaml"
             ],
             [
                 3,
-                "kubernetes services documentation"
+                "kubernetes services azure"
             ],
             [
                 4,
-                "kubernetes services yaml"
+                "kubernetes services documentation"
             ],
             [
                 5,
@@ -445,11 +337,11 @@
             ],
             [
                 6,
-                "kubernetes services and pods"
+                "kubernetes services list"
             ],
             [
                 7,
-                "kubernetes services list"
+                "kubernetes services and pods"
             ],
             [
                 8,
@@ -458,6 +350,26 @@
             [
                 9,
                 "kubernetes services explained"
+            ],
+            [
+                0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples"
+            ],
+            [
+                2,
+                "kubernetes deployments datadog"
+            ],
+            [
+                3,
+                "kubernetes deployments documentation"
+            ],
+            [
+                4,
+                "kubernetes deployments vs pods"
             ],
             [
                 0,
@@ -481,15 +393,15 @@
             ],
             [
                 5,
-                "kubernetes ingress api"
+                "kubernetes ingress class"
             ],
             [
                 6,
-                "kubernetes ingress pathtype"
+                "kubernetes ingress deprecated"
             ],
             [
                 7,
-                "kubernetes ingress install"
+                "kubernetes ingress api"
             ],
             [
                 8,
@@ -497,11 +409,11 @@
             ],
             [
                 9,
-                "kubernetes ingress https"
+                "kubernetes ingress install"
             ],
             [
                 10,
-                "kubernetes ingress class"
+                "kubernetes ingress gateway"
             ],
             [
                 11,
@@ -509,19 +421,51 @@
             ],
             [
                 12,
-                "kubernetes ingress deprecated"
+                "kubernetes ingress pathtype"
             ],
             [
                 13,
-                "kubernetes ingress nginx controller"
+                "kubernetes ingress documentation"
             ],
             [
                 14,
                 "kubernetes ingress load balancer cert renewal"
             ],
             [
-                15,
-                "kubernetes ingress documentation"
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volume spec"
+            ],
+            [
+                2,
+                "kubernetes persistent volume claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volume yaml"
+            ],
+            [
+                4,
+                "kubernetes persistent volume access modes"
+            ],
+            [
+                5,
+                "kubernetes persistent volume hostpath"
+            ],
+            [
+                6,
+                "kubernetes persistent volume nfs"
+            ],
+            [
+                7,
+                "kubernetes persistent volume encryption"
+            ],
+            [
+                8,
+                "kubernetes persistent volume reclaim policy"
             ]
         ],
         "duckduckgo": [
@@ -556,38 +500,6 @@
             [
                 7,
                 "container orchestration market"
-            ],
-            [
-                0,
-                "docker kubernetes"
-            ],
-            [
-                1,
-                "docker kubernetes tutorial"
-            ],
-            [
-                2,
-                "docker kubernetes commands"
-            ],
-            [
-                3,
-                "docker kubernetes basics"
-            ],
-            [
-                4,
-                "docker kubernetes setup"
-            ],
-            [
-                5,
-                "docker kubernetes integration"
-            ],
-            [
-                6,
-                "docker kubernetes interview questions"
-            ],
-            [
-                7,
-                "docker kubernetes deployment"
             ],
             [
                 0,
@@ -651,71 +563,39 @@
             ],
             [
                 7,
-                "kubernetes architecture simplified"
+                "kubernetes architecture interview questions"
             ],
             [
                 0,
-                "kubernetes pods vs nodes"
-            ],
-            [
-                1,
                 "kubernetes pods"
             ],
             [
-                2,
-                "kubernetes pods explained"
+                1,
+                "kubernetes pods vs nodes"
             ],
             [
-                3,
+                2,
                 "kubernetes pods scaling"
             ],
             [
-                4,
-                "kubernetes pods vs nodes vs containers"
+                3,
+                "kubernetes pods explained"
             ],
             [
-                5,
+                4,
                 "kubernetes pods monitoring"
             ],
             [
-                6,
+                5,
                 "kubernetes pods best practices"
             ],
             [
-                7,
+                6,
                 "kubernetes pods datadog"
             ],
             [
-                0,
-                "kubernetes deployment"
-            ],
-            [
-                1,
-                "kubernetes deployment yaml"
-            ],
-            [
-                2,
-                "kubernetes deployment strategy"
-            ],
-            [
-                3,
-                "kubernetes deployment spec"
-            ],
-            [
-                4,
-                "kubernetes deployment file"
-            ],
-            [
-                5,
-                "kubernetes deployment strategy types"
-            ],
-            [
-                6,
-                "kubernetes deployment examples github"
-            ],
-            [
                 7,
-                "kubernetes deployment tools"
+                "kubernetes pods troubleshooting"
             ],
             [
                 0,
@@ -727,11 +607,11 @@
             ],
             [
                 2,
-                "kubernetes services azure"
+                "kubernetes services yaml"
             ],
             [
                 3,
-                "kubernetes services yaml"
+                "kubernetes services azure"
             ],
             [
                 4,
@@ -748,6 +628,26 @@
             [
                 7,
                 "kubernetes services and pods"
+            ],
+            [
+                0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples"
+            ],
+            [
+                2,
+                "kubernetes deployments datadog"
+            ],
+            [
+                3,
+                "kubernetes deployments documentation"
+            ],
+            [
+                4,
+                "kubernetes deployments vs pods"
             ],
             [
                 0,
@@ -771,15 +671,47 @@
             ],
             [
                 5,
-                "kubernetes ingress api"
+                "kubernetes ingress class"
             ],
             [
                 6,
-                "kubernetes ingress pathtype"
+                "kubernetes ingress deprecated"
             ],
             [
                 7,
-                "kubernetes ingress install"
+                "kubernetes ingress api"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volume spec"
+            ],
+            [
+                2,
+                "kubernetes persistent volume claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volume yaml"
+            ],
+            [
+                4,
+                "kubernetes persistent volume access modes"
+            ],
+            [
+                5,
+                "kubernetes persistent volume hostpath"
+            ],
+            [
+                6,
+                "kubernetes persistent volume nfs"
+            ],
+            [
+                7,
+                "kubernetes persistent volume encryption"
             ]
         ],
         "google": [
@@ -822,46 +754,6 @@
             [
                 9,
                 "container orchestration architecture"
-            ],
-            [
-                0,
-                "docker kubernetes"
-            ],
-            [
-                1,
-                "docker kubernetes interview questions"
-            ],
-            [
-                2,
-                "docker kubernetes tutorial"
-            ],
-            [
-                3,
-                "docker kubernetes certification"
-            ],
-            [
-                4,
-                "docker kubernetes udemy"
-            ],
-            [
-                5,
-                "docker kubernetes course"
-            ],
-            [
-                6,
-                "docker kubernetes difference"
-            ],
-            [
-                7,
-                "docker kubernetes jenkins"
-            ],
-            [
-                8,
-                "docker kubernetes terraform"
-            ],
-            [
-                9,
-                "docker kubernetes openshift"
             ],
             [
                 0,
@@ -985,46 +877,6 @@
             ],
             [
                 0,
-                "kubernetes deployment"
-            ],
-            [
-                1,
-                "kubernetes deployment yaml"
-            ],
-            [
-                2,
-                "kubernetes deployment strategies"
-            ],
-            [
-                3,
-                "kubernetes deployment spec"
-            ],
-            [
-                4,
-                "kubernetes deployment example"
-            ],
-            [
-                5,
-                "kubernetes deployment types"
-            ],
-            [
-                6,
-                "kubernetes deployment manifest"
-            ],
-            [
-                7,
-                "kubernetes deployment yaml example"
-            ],
-            [
-                8,
-                "kubernetes deployment vs pod"
-            ],
-            [
-                9,
-                "kubernetes deployment vs statefulset"
-            ],
-            [
-                0,
                 "kubernetes services"
             ],
             [
@@ -1065,6 +917,46 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments vs statefulsets"
+            ],
+            [
+                2,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                3,
+                "kubernetes deployments vs services"
+            ],
+            [
+                4,
+                "kubernetes deployments types"
+            ],
+            [
+                5,
+                "kubernetes deployments and pods"
+            ],
+            [
+                6,
+                "kubernetes get deployments"
+            ],
+            [
+                7,
+                "kubernetes list deployments"
+            ],
+            [
+                8,
+                "kubernetes show deployments"
+            ],
+            [
+                9,
+                "kubernetes pods deployments services"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -1102,6 +994,46 @@
             [
                 9,
                 "kubernetes ingress example"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volumes grafana dashboard"
+            ],
+            [
+                2,
+                "kubernetes persistent volumes claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volumes dashboard"
+            ],
+            [
+                4,
+                "kubernetes persistent volumes grafana"
+            ],
+            [
+                5,
+                "kubernetes persistent volumes access modes"
+            ],
+            [
+                6,
+                "kubectl persistent volumes"
+            ],
+            [
+                7,
+                "kubernetes persistent volume example"
+            ],
+            [
+                8,
+                "kubernetes persistent volume claim example"
+            ],
+            [
+                9,
+                "kubernetes persistent volume nfs"
             ]
         ],
         "yahoo": [
@@ -1144,46 +1076,6 @@
             [
                 9,
                 "container orchestration in devops"
-            ],
-            [
-                0,
-                "docker kubernetes"
-            ],
-            [
-                1,
-                "docker kubernetes interview questions"
-            ],
-            [
-                2,
-                "docker kubernetes tutorial"
-            ],
-            [
-                3,
-                "docker kubernetes openshift architecture"
-            ],
-            [
-                4,
-                "docker kubernetes project tutorial youtube"
-            ],
-            [
-                5,
-                "docker kubernetes certification"
-            ],
-            [
-                6,
-                "docker kubernetes download"
-            ],
-            [
-                7,
-                "docker kubernetes jobs salary"
-            ],
-            [
-                8,
-                "docker kubernetes difference"
-            ],
-            [
-                9,
-                "docker kubernetes là gì"
             ],
             [
                 0,
@@ -1291,46 +1183,6 @@
             ],
             [
                 0,
-                "kubernetes deployment"
-            ],
-            [
-                1,
-                "kubernetes deployment yaml examples"
-            ],
-            [
-                2,
-                "kubernetes deployment yaml"
-            ],
-            [
-                3,
-                "kubernetes deployment documentation"
-            ],
-            [
-                4,
-                "kubernetes deployment manifest"
-            ],
-            [
-                5,
-                "kubernetes deployment file"
-            ],
-            [
-                6,
-                "kubernetes deployment strategies"
-            ],
-            [
-                7,
-                "kubernetes deployment example"
-            ],
-            [
-                8,
-                "kubernetes deployment environment variables"
-            ],
-            [
-                9,
-                "kubernetes deployment image pull policy"
-            ],
-            [
-                0,
                 "kubernetes services"
             ],
             [
@@ -1371,6 +1223,26 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples github"
+            ],
+            [
+                2,
+                "kubernetes deployments vs services"
+            ],
+            [
+                3,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                4,
+                "what are kubernetes deployments"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -1408,6 +1280,18 @@
             [
                 9,
                 "kubernetes ingress tutorial"
+            ],
+            [
+                0,
+                "kubernetes persistent volume claim"
+            ],
+            [
+                1,
+                "kubernetes persistent volume example"
+            ],
+            [
+                2,
+                "kubernetes persistent volume"
             ]
         ],
         "youtube": [
@@ -1446,46 +1330,6 @@
             [
                 8,
                 "nomad container orchestration"
-            ],
-            [
-                0,
-                "docker kubernetes"
-            ],
-            [
-                1,
-                "docker kubernetes tutorial"
-            ],
-            [
-                2,
-                "docker kubernetes explained"
-            ],
-            [
-                3,
-                "docker kubernetes project"
-            ],
-            [
-                4,
-                "docker kubernetes interview questions"
-            ],
-            [
-                5,
-                "docker kubernetes terraform"
-            ],
-            [
-                6,
-                "docker kubernetes jenkins"
-            ],
-            [
-                7,
-                "docker kubernetes aws"
-            ],
-            [
-                8,
-                "docker kubernetes tutorial for beginners"
-            ],
-            [
-                9,
-                "docker kubernetes microservices"
             ],
             [
                 0,
@@ -1565,46 +1409,6 @@
             ],
             [
                 0,
-                "kubernetes deployment"
-            ],
-            [
-                1,
-                "kubernetes deployment yaml explained"
-            ],
-            [
-                2,
-                "kubernetes deployment strategies"
-            ],
-            [
-                3,
-                "kubernetes deployment tutorial"
-            ],
-            [
-                4,
-                "kubernetes deployment aws"
-            ],
-            [
-                5,
-                "kubernetes deployment explained"
-            ],
-            [
-                6,
-                "kubernetes deployment yaml"
-            ],
-            [
-                7,
-                "kubernetes deployment example"
-            ],
-            [
-                8,
-                "kubernetes deployment vs replica set"
-            ],
-            [
-                9,
-                "kubernetes deployment project"
-            ],
-            [
-                0,
                 "kubernetes services"
             ],
             [
@@ -1634,6 +1438,14 @@
             [
                 7,
                 "kubernetes pods and services"
+            ],
+            [
+                0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes pods services deployments"
             ],
             [
                 0,
@@ -1674,6 +1486,14 @@
             [
                 9,
                 "kubernetes ingress vs service"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volume tutorial"
             ]
         ]
     },
@@ -1681,14 +1501,14 @@
         "articles": [
             {
                 "title": "Kubernetes",
-                "views": 26899,
+                "views": 27853,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.6
             },
             {
                 "title": "Orchestration (computing)",
-                "views": 1552,
+                "views": 1589,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1701,36 +1521,18 @@
     },
     "pages": [
         {
-            "group": "Kubernetes Basics",
-            "title": "what is kubernetes",
+            "group": "Kubernetes Architecture",
+            "title": "kubernetes pods",
             "intent": "informational",
             "keywords": [
-                "cloud native computing foundation",
-                "computer cluster",
-                "docker",
-                "open-source software",
-                "virtual machine",
-                "docker kubernetes",
-                "what is kubernetes and docker",
-                "what is kubernetes cluster",
-                "cluster",
-                "what is kubernetes vs docker",
-                "what is kubernetes and how does it work"
-            ]
-        },
-        {
-            "group": "Kubernetes Basics",
-            "title": "container orchestration",
-            "intent": "informational",
-            "keywords": [
-                "container orchestration",
-                "containerization",
-                "list of cluster management software",
-                "openshift",
-                "kubernetes vs docker swarm",
-                "container orchestration tools",
-                "container orchestration meaning",
-                "container orchestration platforms"
+                "kubernetes pods",
+                "pod",
+                "kubernetes deployments",
+                "kubernetes deployments vs pods",
+                "deployment",
+                "kubernetes pods vs nodes",
+                "node",
+                "what is kubernetes pod"
             ]
         },
         {
@@ -1740,54 +1542,76 @@
             "keywords": [
                 "kubernetes architecture",
                 "kubernetes architecture interview questions",
-                "configmap",
-                "k3s",
-                "namespace",
-                "persistentvolume",
-                "persistentvolumeclaim",
-                "secret",
+                "api server",
+                "control plane",
+                "etcd",
                 "kubernetes architecture explained",
                 "kubernetes architecture diagram",
-                "kubernetes pods vs nodes",
-                "node",
-                "kubernetes pods vs nodes vs containers"
+                "kubernetes architecture overview"
             ]
         },
         {
-            "group": "Kubernetes Architecture",
-            "title": "kubernetes pods",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes cluster",
             "intent": "informational",
             "keywords": [
-                "kubernetes pods",
-                "what is kubernetes pod",
-                "pod"
+                "what is kubernetes cluster",
+                "cloud native computing foundation",
+                "cluster",
+                "k3s",
+                "list of cluster management software",
+                "what is kubernetes and how does it work",
+                "container orchestration meaning",
+                "what is kubernetes container",
+                "container"
             ]
         },
         {
-            "group": "Kubernetes Deployment",
-            "title": "kubernetes deployment",
-            "intent": "informational",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes and docker",
+            "intent": "commercial",
             "keywords": [
-                "kubernetes deployment",
-                "deployment",
-                "docker kubernetes tutorial",
-                "kubernetes deployment yaml",
-                "kubernetes deployment strategies"
+                "what is kubernetes and docker",
+                "docker",
+                "openshift",
+                "kubernetes vs docker swarm",
+                "what is kubernetes vs docker"
             ]
         },
         {
-            "group": "Kubernetes Deployment",
+            "group": "Kubernetes Components",
             "title": "kubernetes services",
             "intent": "informational",
             "keywords": [
                 "kubernetes services",
                 "open service mesh",
                 "service",
-                "kubernetes services types"
+                "kubernetes services types",
+                "kubernetes services explained",
+                "kubernetes services yaml"
             ]
         },
         {
-            "group": "Kubernetes Networking",
+            "group": "Kubernetes Components",
+            "title": "kubernetes persistent volumes",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes persistent volumes",
+                "kubernetes persistent volume claim"
+            ]
+        },
+        {
+            "group": "Kubernetes Advanced",
+            "title": "container orchestration",
+            "intent": "informational",
+            "keywords": [
+                "container orchestration",
+                "container orchestration tools",
+                "container orchestration platforms"
+            ]
+        },
+        {
+            "group": "Kubernetes Advanced",
             "title": "kubernetes ingress",
             "intent": "informational",
             "keywords": [
@@ -1797,53 +1621,48 @@
         }
     ],
     "categories": {
-        "docker kubernetes": "core",
         "what is kubernetes cluster": "core",
         "container orchestration": "core",
-        "kubernetes deployment": "core",
+        "kubernetes deployments": "core",
         "kubernetes ingress": "core",
         "kubernetes pods": "core",
         "kubernetes services": "core",
         "kubernetes vs docker swarm": "core",
+        "kubernetes persistent volumes": "core",
         "kubernetes ingress controller": "core",
-        "docker kubernetes tutorial": "commercial",
         "kubernetes architecture": "core",
         "what is kubernetes and docker": "core",
-        "kubernetes deployment yaml": "commercial",
         "what is kubernetes vs docker": "core",
         "kubernetes architecture explained": "core",
         "kubernetes architecture diagram": "core",
+        "kubernetes persistent volume claim": "core",
         "kubernetes pods vs nodes": "core",
-        "kubernetes services types": "core",
         "container orchestration tools": "core",
+        "kubernetes services types": "core",
         "container orchestration meaning": "core",
         "what is kubernetes and how does it work": "core",
         "what is kubernetes pod": "core",
-        "container orchestration platforms": "core",
-        "kubernetes pods vs nodes vs containers": "core",
-        "kubernetes deployment strategies": "core",
-        "what is kubernetes container": "doubtful",
+        "kubernetes deployments vs pods": "core",
         "kubernetes architecture interview questions": "complementary",
-        "cluster": "core",
-        "node": "core",
+        "container orchestration platforms": "core",
+        "what is kubernetes container": "core",
+        "kubernetes services yaml": "core",
+        "kubernetes services explained": "core",
+        "kubernetes architecture overview": "core",
+        "container": "core",
         "pod": "core",
-        "deployment": "core",
         "service": "core",
-        "namespace": "core",
-        "configmap": "core",
-        "secret": "core",
-        "persistentvolume": "core",
-        "persistentvolumeclaim": "core",
-        "open-source software": "complementary",
-        "virtual machine": "complementary",
-        "containerization": "complementary",
-        "computer cluster": "complementary",
+        "deployment": "core",
+        "node": "core",
+        "cluster": "core",
+        "api server": "core",
+        "etcd": "core",
+        "control plane": "core",
         "cloud native computing foundation": "complementary",
         "docker": "complementary",
         "list of cluster management software": "complementary",
         "open service mesh": "complementary",
-        "openshift": "complementary",
-        "k3s": "complementary",
-        "docker kubernetes interview questions": "doubtful"
+        "openshift": "commercial",
+        "k3s": "commercial"
     }
 }

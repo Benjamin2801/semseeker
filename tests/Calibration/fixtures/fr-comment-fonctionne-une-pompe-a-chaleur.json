@@ -14,29 +14,29 @@
     ],
     "failed": [],
     "concepts": [
+        "principe de fonctionnement",
+        "pompe à chaleur air-air",
         "pompe à chaleur air-eau",
-        "pompe à chaleur géothermique",
-        "pompe à chaleur réversible",
-        "entretien pompe à chaleur",
-        "coût installation pompe à chaleur",
-        "pompe à chaleur piscine",
-        "pompe à chaleur hybride",
-        "pompe à chaleur haute température"
+        "coût d'installation",
+        "entretien annuel",
+        "performance énergétique",
+        "cop pompe à chaleur",
+        "réversibilité"
     ],
     "suggestions": {
         "bing": [
             "comment fonctionne une pompe à chaleur",
             "comment fonctionne une pompe à chaleur air",
             "comment fonctionne une pompe à chaleur à eau",
-            "comment fonctionne une pompe à chaleur daikin",
-            "comment fonctionne une pompe à chaleur*"
+            "comment fonctionne une pompe à chaleur*",
+            "comment fonctionne une pompe à chaleur daikin"
         ],
         "duckduckgo": [
             "comment fonctionne une pompe à chaleur",
             "comment fonctionne une pompe à chaleur air",
             "comment fonctionne une pompe à chaleur à eau",
-            "comment fonctionne une pompe à chaleur daikin",
-            "comment fonctionne une pompe à chaleur*"
+            "comment fonctionne une pompe à chaleur*",
+            "comment fonctionne une pompe à chaleur daikin"
         ],
         "google": [
             "comment fonctionne une pompe à chaleur",
@@ -68,6 +68,18 @@
         "amazon": [
             [
                 0,
+                "pompe à chaleur air-air réversible"
+            ],
+            [
+                1,
+                "pompe à chaleur air-air"
+            ],
+            [
+                2,
+                "pompe à chaleur air-air préchargé"
+            ],
+            [
+                0,
                 "pompe à chaleur air-eau"
             ],
             [
@@ -88,98 +100,106 @@
             ],
             [
                 0,
-                "pompe à chaleur géothermique"
-            ],
-            [
-                0,
-                "pompe à chaleur réversible"
-            ],
-            [
-                1,
-                "pompe à chaleur réversible 18000 btu"
-            ],
-            [
-                2,
-                "pompe à chaleur réversible gainable spécial combles"
-            ],
-            [
-                3,
-                "pompe à chaleur réversible daikin"
-            ],
-            [
-                4,
-                "pompe à chaleur réversible mobile"
-            ],
-            [
-                5,
-                "pompe à chaleur réversible multi split"
-            ],
-            [
-                6,
-                "pompe à chaleur réversible air eau"
-            ],
-            [
-                7,
-                "pompe à chaleur réversible monosplit"
-            ],
-            [
-                8,
-                "pompe à chaleur réversible 24000 btu 2 unité"
-            ],
-            [
-                9,
-                "pompe à chaleur réversible prêt à poser"
-            ],
-            [
-                0,
-                "pompe à chaleur piscine"
-            ],
-            [
-                1,
-                "pompe à chaleur piscine hors sol"
-            ],
-            [
-                2,
-                "pompe à chaleur piscine inverter"
-            ],
-            [
-                3,
-                "pompe à chaleur piscine full inverter"
-            ],
-            [
-                4,
-                "pompe à chaleur piscine silencieuse"
-            ],
-            [
-                5,
-                "pompe à chaleur piscine 60m3"
-            ],
-            [
-                6,
-                "pompe à chaleur piscine 75 m3"
-            ],
-            [
-                7,
-                "pompe à chaleur piscine 12kw"
-            ],
-            [
-                8,
-                "pompe à chaleur piscine 5 kw"
-            ],
-            [
-                9,
-                "pompe à chaleur piscine full inverter 16kw"
-            ],
-            [
-                0,
-                "pompe à chaleur hybride"
-            ],
-            [
-                0,
-                "pompe à chaleur haute température"
+                "entretien annuel adoucisseur"
             ]
         ],
         "bing": [
+            [
+                0,
+                "principe de fonctionnement"
+            ],
+            [
+                1,
+                "principe de fonctionnement d'un climatiseur"
+            ],
+            [
+                2,
+                "principe de fonctionnement d'une éolienne"
+            ],
+            [
+                3,
+                "principe de fonctionnement pompe a chaleur"
+            ],
+            [
+                4,
+                "principe de fonctionnement centrale nucléaire"
+            ],
+            [
+                5,
+                "principe de fonctionnement d'un alternateur"
+            ],
+            [
+                6,
+                "principe de fonctionnement d'une motopompe"
+            ],
+            [
+                7,
+                "principe de fonctionnement des éoliennes"
+            ],
+            [
+                8,
+                "principe de fonctionnement de la geothermie"
+            ],
+            [
+                9,
+                "principe de fonctionnement d'un onduleur"
+            ],
+            [
+                10,
+                "principe de fonctionnement d'une batterie"
+            ],
+            [
+                11,
+                "principe de fonctionnement d'une pompe"
+            ],
+            [
+                0,
+                "pompe à chaleur air-air"
+            ],
+            [
+                1,
+                "pompe a chaleur air air reversible"
+            ],
+            [
+                2,
+                "pompe à chaleur air-air daikin"
+            ],
+            [
+                3,
+                "pompe à chaleur air-air multisplit"
+            ],
+            [
+                4,
+                "pompe à chaleur air-air mitsubishi"
+            ],
+            [
+                5,
+                "pompe à chaleur air-air fonctionnement"
+            ],
+            [
+                6,
+                "pompe à chaleur air-air prix"
+            ],
+            [
+                7,
+                "pompe à chaleur air-air atlantic"
+            ],
+            [
+                8,
+                "pompe à chaleur air-air hitachi"
+            ],
+            [
+                9,
+                "pompe à chaleur air-air 100m2"
+            ],
+            [
+                10,
+                "pompe à chaleur air-air leroy merlin"
+            ],
+            [
+                11,
+                "pompe à chaleur air-air daikin multisplit"
+            ],
             [
                 0,
                 "pompe à chaleur air-eau"
@@ -190,27 +210,27 @@
             ],
             [
                 2,
-                "pompe à chaleur air-eau prix"
-            ],
-            [
-                3,
                 "pompe à chaleur air-eau fonctionnement"
             ],
             [
-                4,
-                "pompe à chaleur air-eau réversible"
+                3,
+                "pompe à chaleur air-eau prix"
             ],
             [
-                5,
+                4,
                 "pompe à chaleur air-eau daikin"
             ],
             [
+                5,
+                "pompe à chaleur air-eau réversible"
+            ],
+            [
                 6,
-                "pompe à chaleur air-eau split"
+                "pompe à chaleur air-eau monobloc"
             ],
             [
                 7,
-                "pompe à chaleur air-eau monobloc"
+                "pompe à chaleur air-eau split"
             ],
             [
                 8,
@@ -221,307 +241,303 @@
                 "pompe à chaleur air-eau stiebel eltron"
             ],
             [
+                10,
+                "pompe à chaleur air-eau chauffage seul"
+            ],
+            [
                 0,
-                "pompe à chaleur géothermique"
+                "coût d'installation d'une climatisation"
             ],
             [
                 1,
-                "pompe à chaleur géothermique prix"
+                "coût d'installation d'une pompe à chaleur"
             ],
             [
                 2,
-                "pompe à chaleur géothermique fonctionnement"
+                "coût d'installation de panneaux solaires"
             ],
             [
                 3,
-                "pompe à chaleur géothermique réversible"
+                "coût d'installation d'un poêle à granulés"
             ],
             [
                 4,
-                "pompe à chaleur géothermique daikin"
+                "coût d'installation d'une borne de recharge"
             ],
             [
                 5,
-                "pompe à chaleur géothermique avis"
+                "coût d'installation d'une vmc"
             ],
             [
                 6,
-                "pompe à chaleur géothermique sofath"
+                "coût d'installation d'une éolienne"
             ],
             [
                 7,
-                "pompe à chaleur géothermique sol/eau"
+                "coût d'installation d'un compteur électrique"
             ],
             [
                 8,
-                "pompe à chaleur géothermique atlantic"
+                "coût d'installation pompe à chaleur"
             ],
             [
                 9,
-                "pompe à chaleur géothermique avantages"
+                "coût de l'installation d'une borne électrique"
+            ],
+            [
+                0,
+                "entretien annuel"
+            ],
+            [
+                1,
+                "entretien annuel d'évaluation"
+            ],
+            [
+                2,
+                "entretien annuel obligatoire"
+            ],
+            [
+                3,
+                "entretien annuel professionnel"
+            ],
+            [
+                4,
+                "entretien annuel salarié"
+            ],
+            [
+                5,
+                "entretien annuel et entretien professionnel"
+            ],
+            [
+                6,
+                "entretien annuel en anglais"
+            ],
+            [
+                7,
+                "entretien annuel forfait jours"
+            ],
+            [
+                8,
+                "entretien annuel chaudière gaz"
+            ],
+            [
+                9,
+                "entretien annuel fonction publique"
             ],
             [
                 10,
-                "pompe à chaleur géothermique c'est quoi"
+                "entretien annuel d'évaluation obligatoire"
             ],
             [
                 11,
-                "pompe à chaleur géothermique def"
+                "entretien annuel professionnel obligatoire"
             ],
             [
                 0,
-                "pompe à chaleur réversible"
+                "performance énergétique"
             ],
             [
                 1,
-                "pompe à chaleur réversible air air"
+                "performance énergétique maison"
             ],
             [
                 2,
-                "pompe à chaleur réversible air eau"
+                "performance énergétique des bâtiments"
             ],
             [
                 3,
-                "pompe à chaleur réversible prix"
+                "performance énergétique location"
             ],
             [
                 4,
-                "pompe à chaleur réversible daikin"
+                "performance énergétique définition"
             ],
             [
                 5,
-                "pompe à chaleur réversible atlantic"
+                "performance énergétique cvc"
             ],
             [
                 6,
-                "pompe à chaleur réversible mitsubishi"
+                "performance énergétique dpe"
             ],
             [
                 7,
-                "pompe à chaleur réversible monobloc"
+                "performance énergétique logement"
             ],
             [
                 8,
-                "pompe à chaleur réversible avis"
+                "performance énergétique appareil"
             ],
             [
                 9,
-                "pompe à chaleur réversible airton"
+                "performance énergétique chauffage"
             ],
             [
                 10,
-                "pompe à chaleur réversible piscine"
+                "performance énergétique isolation"
             ],
             [
                 11,
-                "pompe à chaleur réversible air air atlantic"
+                "performance énergétique panneaux solaires"
             ],
             [
                 0,
-                "entretien pompe à chaleur"
+                "cop pompe à chaleur"
             ],
             [
                 1,
-                "entretien pompe à chaleur air eau"
+                "cop pompe à chaleur air eau"
             ],
             [
                 2,
-                "entretien pompe à chaleur daikin"
+                "cop pompe à chaleur def"
             ],
             [
                 3,
-                "entretien pompe à chaleur air air"
+                "cop pompe à chaleur géothermique"
             ],
             [
                 4,
-                "entretien pompe à chaleur atlantic"
+                "cop pompe à chaleur fonctionnement"
             ],
             [
                 5,
-                "entretien pompe à chaleur prix"
+                "cop pompe à chaleur calcul"
             ],
             [
                 6,
-                "entretien pompe à chaleur obligatoire"
+                "cop pompe à chaleur formule"
             ],
             [
                 7,
-                "entretien pompe à chaleur lg"
+                "cop pompe à chaleur piscine"
             ],
             [
                 8,
-                "entretien pompe à chaleur engie"
+                "cop pompe à chaleur définition"
             ],
             [
                 9,
-                "entretien pompe à chaleur alsace"
+                "cop pompe à chaleur signification"
             ],
             [
                 10,
-                "entretien pompe à chaleur autour de moi"
+                "cop pompe à chaleur air air daikin"
+            ],
+            [
+                0,
+                "réversibilité"
+            ],
+            [
+                1,
+                "réversibilité définition"
+            ],
+            [
+                2,
+                "réversibilité des données"
+            ],
+            [
+                3,
+                "réversibilité synonyme"
+            ],
+            [
+                4,
+                "réversibilité contrat"
+            ],
+            [
+                5,
+                "réversibilité en anglais"
+            ],
+            [
+                6,
+                "réversibilité télétravail"
+            ],
+            [
+                7,
+                "réversibilité définition chimie"
+            ],
+            [
+                8,
+                "réversibilité définition physique"
+            ],
+            [
+                9,
+                "réversibilité définition médicale"
+            ],
+            [
+                10,
+                "réversibilité définition thermodynamique"
             ],
             [
                 11,
-                "entretien pompe à chaleur mitsubishi"
-            ],
-            [
-                0,
-                "coût installation pompe à chaleur"
-            ],
-            [
-                1,
-                "coût installation pompe à chaleur air eau"
-            ],
-            [
-                2,
-                "coût installation pompe à chaleur air air"
-            ],
-            [
-                3,
-                "coût moyen installation pompe à chaleur"
-            ],
-            [
-                0,
-                "pompe à chaleur piscine"
-            ],
-            [
-                1,
-                "pompe à chaleur piscine 40m3"
-            ],
-            [
-                2,
-                "pompe à chaleur piscine zodiac"
-            ],
-            [
-                3,
-                "pompe à chaleur piscine 20m3"
-            ],
-            [
-                4,
-                "pompe à chaleur piscine 60m3"
-            ],
-            [
-                5,
-                "pompe à chaleur piscine 50m3"
-            ],
-            [
-                6,
-                "pompe à chaleur piscine 70m3"
-            ],
-            [
-                7,
-                "pompe à chaleur piscine 10m3"
-            ],
-            [
-                8,
-                "pompe à chaleur piscine intex"
-            ],
-            [
-                9,
-                "pompe à chaleur piscine 80m3"
-            ],
-            [
-                10,
-                "pompe à chaleur piscine hayward"
-            ],
-            [
-                11,
-                "pompe à chaleur piscine thermor"
-            ],
-            [
-                0,
-                "pompe à chaleur hybride"
-            ],
-            [
-                1,
-                "pompe à chaleur hybride gaz"
-            ],
-            [
-                2,
-                "pompe à chaleur hybride fioul"
-            ],
-            [
-                3,
-                "pompe à chaleur hybride individuelle"
-            ],
-            [
-                4,
-                "pompe à chaleur hybride définition"
-            ],
-            [
-                5,
-                "pompe à chaleur hybride frisquet"
-            ],
-            [
-                6,
-                "pompe à chaleur hybride fuel"
-            ],
-            [
-                7,
-                "pompe à chaleur hybride viessmann"
-            ],
-            [
-                8,
-                "pompe à chaleur hybride réversible"
-            ],
-            [
-                9,
-                "pompe à chaleur hybride fioul atlantic"
-            ],
-            [
-                10,
-                "pompe à chaleur hybride gaz frisquet"
-            ],
-            [
-                11,
-                "pompe à chaleur hybride c'est quoi"
-            ],
-            [
-                0,
-                "pompe a chaleur haute temperature"
-            ],
-            [
-                1,
-                "pompe à chaleur haute température air eau"
-            ],
-            [
-                2,
-                "pompe à chaleur haute température monobloc"
-            ],
-            [
-                3,
-                "pompe à chaleur haute température prix"
-            ],
-            [
-                4,
-                "pompe à chaleur haute température daikin"
-            ],
-            [
-                5,
-                "pompe à chaleur haute température hitachi"
-            ],
-            [
-                6,
-                "pompe à chaleur haute température mitsubishi"
-            ],
-            [
-                7,
-                "pompe à chaleur haute température avis"
-            ],
-            [
-                8,
-                "pompe à chaleur haute température atlantic"
-            ],
-            [
-                9,
-                "pompe à chaleur haute température industrie"
-            ],
-            [
-                10,
-                "pompe à chaleur haute température viessmann"
+                "réversibilité informatique"
             ]
         ],
         "duckduckgo": [
+            [
+                0,
+                "principe de fonctionnement"
+            ],
+            [
+                1,
+                "principe de fonctionnement d'un climatiseur"
+            ],
+            [
+                2,
+                "principe de fonctionnement d'une éolienne"
+            ],
+            [
+                3,
+                "principe de fonctionnement pompe a chaleur"
+            ],
+            [
+                4,
+                "principe de fonctionnement centrale nucléaire"
+            ],
+            [
+                5,
+                "principe de fonctionnement d'un alternateur"
+            ],
+            [
+                6,
+                "principe de fonctionnement d'une motopompe"
+            ],
+            [
+                7,
+                "principe de fonctionnement des éoliennes"
+            ],
+            [
+                0,
+                "pompe à chaleur air-air"
+            ],
+            [
+                1,
+                "pompe a chaleur air air reversible"
+            ],
+            [
+                2,
+                "pompe à chaleur air-air daikin"
+            ],
+            [
+                3,
+                "pompe à chaleur air-air multisplit"
+            ],
+            [
+                4,
+                "pompe à chaleur air-air mitsubishi"
+            ],
+            [
+                5,
+                "pompe à chaleur air-air fonctionnement"
+            ],
+            [
+                6,
+                "pompe à chaleur air-air prix"
+            ],
+            [
+                7,
+                "pompe à chaleur air-air atlantic"
+            ],
             [
                 0,
                 "pompe à chaleur air-eau"
@@ -532,238 +548,202 @@
             ],
             [
                 2,
-                "pompe à chaleur air-eau prix"
-            ],
-            [
-                3,
                 "pompe à chaleur air-eau fonctionnement"
             ],
             [
-                4,
-                "pompe à chaleur air-eau réversible"
+                3,
+                "pompe à chaleur air-eau prix"
             ],
             [
-                5,
+                4,
                 "pompe à chaleur air-eau daikin"
             ],
             [
-                6,
-                "pompe à chaleur air-eau split"
+                5,
+                "pompe à chaleur air-eau réversible"
             ],
             [
-                7,
+                6,
                 "pompe à chaleur air-eau monobloc"
             ],
             [
+                7,
+                "pompe à chaleur air-eau split"
+            ],
+            [
                 0,
-                "pompe à chaleur géothermique"
+                "coût d'installation d'une climatisation"
             ],
             [
                 1,
-                "pompe à chaleur géothermique prix"
+                "coût d'installation d'une pompe à chaleur"
             ],
             [
                 2,
-                "pompe à chaleur géothermique fonctionnement"
+                "coût d'installation de panneaux solaires"
             ],
             [
                 3,
-                "pompe à chaleur géothermique réversible"
+                "coût d'installation d'un poêle à granulés"
             ],
             [
                 4,
-                "pompe à chaleur géothermique daikin"
+                "coût d'installation d'une borne de recharge"
             ],
             [
                 5,
-                "pompe à chaleur géothermique avis"
+                "coût d'installation d'une vmc"
             ],
             [
                 6,
-                "pompe à chaleur géothermique sofath"
+                "coût d'installation d'une éolienne"
             ],
             [
                 7,
-                "pompe à chaleur géothermique sol/eau"
+                "coût d'installation d'un compteur électrique"
             ],
             [
                 0,
-                "pompe à chaleur réversible"
+                "entretien annuel"
             ],
             [
                 1,
-                "pompe à chaleur réversible air air"
+                "entretien annuel obligatoire"
             ],
             [
                 2,
-                "pompe à chaleur réversible air eau"
+                "entretien annuel d'évaluation"
             ],
             [
                 3,
-                "pompe à chaleur réversible prix"
+                "entretien annuel professionnel"
             ],
             [
                 4,
-                "pompe à chaleur réversible daikin"
+                "entretien annuel salarié"
             ],
             [
                 5,
-                "pompe à chaleur réversible atlantic"
+                "entretien annuel et entretien professionnel"
             ],
             [
                 6,
-                "pompe à chaleur réversible monobloc"
+                "entretien annuel en anglais"
             ],
             [
                 7,
-                "pompe à chaleur réversible mitsubishi"
+                "entretien annuel forfait jours"
             ],
             [
                 0,
-                "entretien pompe à chaleur"
+                "performance énergétique"
             ],
             [
                 1,
-                "entretien pompe à chaleur air eau"
+                "performance énergétique maison"
             ],
             [
                 2,
-                "entretien pompe à chaleur daikin"
+                "performance énergétique des bâtiments"
             ],
             [
                 3,
-                "entretien pompe à chaleur air air"
+                "performance énergétique location"
             ],
             [
                 4,
-                "entretien pompe à chaleur atlantic"
+                "performance énergétique définition"
             ],
             [
                 5,
-                "entretien pompe à chaleur prix"
+                "performance énergétique cvc"
             ],
             [
                 6,
-                "entretien pompe à chaleur obligatoire"
+                "performance énergétique dpe"
             ],
             [
                 7,
-                "entretien pompe à chaleur lg"
+                "performance énergétique logement"
             ],
             [
                 0,
-                "coût installation pompe à chaleur"
+                "cop pompe à chaleur"
             ],
             [
                 1,
-                "coût installation pompe à chaleur air eau"
+                "cop pompe à chaleur air eau"
             ],
             [
                 2,
-                "coût installation pompe à chaleur air air"
+                "cop pompe à chaleur def"
             ],
             [
                 3,
-                "coût moyen installation pompe à chaleur"
-            ],
-            [
-                0,
-                "pompe à chaleur piscine"
-            ],
-            [
-                1,
-                "pompe à chaleur piscine 40m3"
-            ],
-            [
-                2,
-                "pompe à chaleur piscine zodiac"
-            ],
-            [
-                3,
-                "pompe à chaleur piscine 20m3"
+                "cop pompe à chaleur géothermique"
             ],
             [
                 4,
-                "pompe à chaleur piscine 60m3"
+                "cop pompe à chaleur fonctionnement"
             ],
             [
                 5,
-                "pompe à chaleur piscine 50m3"
+                "cop pompe à chaleur calcul"
             ],
             [
                 6,
-                "pompe à chaleur piscine 70m3"
+                "cop pompe à chaleur formule"
             ],
             [
                 7,
-                "pompe à chaleur piscine 10m3"
+                "cop pompe à chaleur piscine"
             ],
             [
                 0,
-                "pompe à chaleur hybride"
+                "réversibilité"
             ],
             [
                 1,
-                "pompe à chaleur hybride gaz"
+                "réversibilité définition"
             ],
             [
                 2,
-                "pompe à chaleur hybride fioul"
+                "réversibilité des données"
             ],
             [
                 3,
-                "pompe à chaleur hybride individuelle"
+                "réversibilité synonyme"
             ],
             [
                 4,
-                "pompe à chaleur hybride définition"
+                "réversibilité contrat"
             ],
             [
                 5,
-                "pompe à chaleur hybride frisquet"
+                "réversibilité en anglais"
             ],
             [
                 6,
-                "pompe à chaleur hybride fuel"
+                "réversibilité télétravail"
             ],
             [
                 7,
-                "pompe à chaleur hybride viessmann"
-            ],
-            [
-                0,
-                "pompe a chaleur haute temperature"
-            ],
-            [
-                1,
-                "pompe à chaleur haute température air eau"
-            ],
-            [
-                2,
-                "pompe à chaleur haute température monobloc"
-            ],
-            [
-                3,
-                "pompe à chaleur haute température prix"
-            ],
-            [
-                4,
-                "pompe à chaleur haute température daikin"
-            ],
-            [
-                5,
-                "pompe à chaleur haute température hitachi"
-            ],
-            [
-                6,
-                "pompe à chaleur haute température mitsubishi"
-            ],
-            [
-                7,
-                "pompe à chaleur haute température avis"
+                "réversibilité définition chimie"
             ]
         ],
         "ebay": [
+            [
+                0,
+                "pompe à chaleur air air"
+            ],
+            [
+                1,
+                "pompe à chaleur air eau"
+            ],
+            [
+                2,
+                "pompe à chaleur air eau monobloc"
+            ],
             [
                 0,
                 "pompe à chaleur air eau"
@@ -771,13 +751,89 @@
             [
                 1,
                 "pompe à chaleur air eau monobloc"
-            ],
-            [
-                0,
-                "pompe à chaleur piscine"
             ]
         ],
         "google": [
+            [
+                0,
+                "principe de fonctionnement d'une climatisation"
+            ],
+            [
+                1,
+                "principe de fonctionnement"
+            ],
+            [
+                2,
+                "principe de fonctionnement d'une pompe à chaleur"
+            ],
+            [
+                3,
+                "principe de fonctionnement d'un climatiseur pdf"
+            ],
+            [
+                4,
+                "principe de fonctionnement d'un climatiseur split"
+            ],
+            [
+                5,
+                "principe de fonctionnement d'un climatiseur"
+            ],
+            [
+                6,
+                "principe de fonctionnement d un rafraichisseur d air"
+            ],
+            [
+                7,
+                "principe de fonctionnement d'un frigo"
+            ],
+            [
+                8,
+                "principe de fonctionnement air fryer"
+            ],
+            [
+                9,
+                "principe de fonctionnement d'une centrale nucléaire pdf"
+            ],
+            [
+                0,
+                "pompe à chaleur air-air"
+            ],
+            [
+                1,
+                "pompe à chaleur air-air prix"
+            ],
+            [
+                2,
+                "pompe à chaleur air-air réversible"
+            ],
+            [
+                3,
+                "pompe à chaleur air-air daikin"
+            ],
+            [
+                4,
+                "pompe à chaleur air-air 100m2"
+            ],
+            [
+                5,
+                "pompe à chaleur air-air edf"
+            ],
+            [
+                6,
+                "pompe à chaleur air-air mitsubishi"
+            ],
+            [
+                7,
+                "pompe à chaleur air-air réversible prix"
+            ],
+            [
+                8,
+                "pompe à chaleur air-air gainable prix"
+            ],
+            [
+                9,
+                "pompe à chaleur air-air ou air-eau prix"
+            ],
             [
                 0,
                 "pompe à chaleur air-eau"
@@ -820,286 +876,276 @@
             ],
             [
                 0,
-                "pompe à chaleur géothermique"
+                "coût d'installation d'une climatisation"
             ],
             [
                 1,
-                "pompe à chaleur géothermique prix"
+                "coût d'installation d'une borne de recharge"
             ],
             [
                 2,
-                "pompe à chaleur géothermique réversible"
+                "coût d'installation d'une clim réversible"
             ],
             [
                 3,
-                "pompe à chaleur géothermique avantages et inconvénients"
+                "cout d'installation d'une pompe à chaleur"
             ],
             [
                 4,
-                "pompe à chaleur géothermique ou solarothermique"
+                "coût d'installation d'une vmc"
             ],
             [
                 5,
-                "pompe à chaleur géothermique fonctionnement"
+                "coût d'installation de panneaux photovoltaïques"
             ],
             [
                 6,
-                "pompe à chaleur géothermique viessmann prix"
+                "cout d installation panneaux solaires"
             ],
             [
                 7,
-                "pompe à chaleur géothermique captage vertical"
+                "cout d'installation"
             ],
             [
                 8,
-                "pompe à chaleur géothermique marque"
+                "cout d installation poele a granule"
             ],
             [
                 9,
-                "pompe à chaleur géothermique ou solarothermique prix"
+                "cout d'installation borne electrique"
             ],
             [
                 0,
-                "pompe à chaleur réversible"
+                "entretien annuel obligatoire"
             ],
             [
                 1,
-                "pompe à chaleur réversible prix"
+                "entretien annuel"
             ],
             [
                 2,
-                "pompe à chaleur réversible daikin"
+                "entretien annuel professionnel"
             ],
             [
                 3,
-                "pompe à chaleur réversible air-eau"
+                "entretien annuel d'évaluation"
             ],
             [
                 4,
-                "pompe à chaleur réversible air-air"
+                "entretien annuel chaudière gaz"
             ],
             [
                 5,
-                "pompe à chaleur réversible mitsubishi"
+                "entretien annuel voiture"
             ],
             [
                 6,
-                "pompe à chaleur réversible atlantic"
+                "entretien annuel climatisation"
             ],
             [
                 7,
-                "pompe à chaleur réversible fonctionnement"
+                "entretien annuel chaudiere"
             ],
             [
                 8,
-                "pompe à chaleur réversible sans unité extérieure"
+                "entretien annuel code du travail"
             ],
             [
                 9,
-                "pompe à chaleur réversible leroy merlin"
+                "entretien annuel pompe à chaleur"
             ],
             [
                 0,
-                "entretien pompe à chaleur"
+                "performance énergétique d"
             ],
             [
                 1,
-                "entretien pompe à chaleur prix"
+                "performance énergétique e"
             ],
             [
                 2,
-                "entretien pompe à chaleur autour de moi"
+                "performance énergétique logement"
             ],
             [
                 3,
-                "entretien pompe à chaleur daikin autour de moi"
+                "performance énergétique c"
             ],
             [
                 4,
-                "entretien pompe à chaleur atlantic"
+                "performance énergétique maison"
             ],
             [
                 5,
-                "entretien pompe à chaleur air air autour de moi"
+                "performance énergétique f"
             ],
             [
                 6,
-                "entretien pompe à chaleur air-eau"
+                "performance énergétique globale"
             ],
             [
                 7,
-                "entretien pompe à chaleur obligatoire"
+                "performance énergétique définition"
             ],
             [
                 8,
-                "entretien pompe à chaleur daikin"
+                "performance énergétique et climatique"
             ],
             [
                 9,
-                "entretien pompe à chaleur tous les combien de temps"
+                "performance énergétique location"
             ],
             [
                 0,
-                "coût installation pompe à chaleur"
+                "cop pompe à chaleur air air"
             ],
             [
                 1,
-                "coût installation pompe à chaleur réversible"
+                "cop pompe à chaleur air eau"
             ],
             [
                 2,
-                "coût installation pompe à chaleur air-eau"
+                "cop pompe à chaleur"
             ],
             [
                 3,
-                "cout installation pompe à chaleur air air"
+                "cop pompe à chaleur air eau mitsubishi"
             ],
             [
                 4,
-                "coût installation pompe à chaleur avec radiateur"
+                "cop pompe à chaleur en fonction de la température"
             ],
             [
                 5,
-                "coût installation pompe à chaleur air-air"
+                "cop pompe à chaleur air eau haute température"
             ],
             [
                 6,
-                "cout installation pompe à chaleur géothermique"
+                "cop pompe à chaleur air-air en fonction de la température"
             ],
             [
                 7,
-                "coût installation pompe à chaleur appartement"
+                "cop pompe à chaleur air air daikin"
             ],
             [
                 8,
-                "cout installation pompe à chaleur maison"
+                "cop pompe à chaleur formule"
             ],
             [
                 9,
-                "cout installation pompe à chaleur piscine"
+                "cop pompe à chaleur piscine"
             ],
             [
                 0,
-                "pompe à chaleur piscine"
+                "réversibilité"
             ],
             [
                 1,
-                "pompe à chaleur piscine 30m3"
+                "réversibilité def"
             ],
             [
                 2,
-                "pompe à chaleur piscine 50m3"
+                "réversibilité vasectomie"
             ],
             [
                 3,
-                "pompe à chaleur piscine hors sol"
+                "réversibilité baudelaire"
             ],
             [
                 4,
-                "pompe à chaleur piscine zodiac"
+                "réversibilité des données"
             ],
             [
                 5,
-                "pompe à chaleur piscine poolex"
+                "réversibilité synonyme"
             ],
             [
                 6,
-                "pompe à chaleur piscine reversible"
+                "réversibilité informatique"
             ],
             [
                 7,
-                "pompe à chaleur piscine 20m3"
+                "réversibilité ligature des trompes"
             ],
             [
                 8,
-                "pompe à chaleur piscine prix"
+                "réversibilité du télétravail"
             ],
             [
                 9,
-                "pompe à chaleur piscine hors sol 10m3"
-            ],
+                "réversibilité des mérites"
+            ]
+        ],
+        "indeed": [
             [
                 0,
-                "pompe à chaleur hybride"
-            ],
-            [
-                1,
-                "pompe à chaleur hybride gaz"
-            ],
-            [
-                2,
-                "pompe à chaleur hybride c'est quoi"
-            ],
-            [
-                3,
-                "pompe à chaleur hybride inconvénient"
-            ],
-            [
-                4,
-                "pompe à chaleur hybride gaz avis"
-            ],
-            [
-                5,
-                "pompe à chaleur hybride fioul"
-            ],
-            [
-                6,
-                "pompe à chaleur hybride individuelle"
-            ],
-            [
-                7,
-                "pompe à chaleur hybride atlantic"
-            ],
-            [
-                8,
-                "pompe à chaleur hybride murale sans unité extérieure"
-            ],
-            [
-                9,
-                "pompe à chaleur hybride daikin"
-            ],
-            [
-                0,
-                "pompe à chaleur haute température"
-            ],
-            [
-                1,
-                "pompe à chaleur haute température prix"
-            ],
-            [
-                2,
-                "pompe à chaleur haute température 80 c prix"
-            ],
-            [
-                3,
-                "pompe à chaleur haute température 80 c mitsubishi"
-            ],
-            [
-                4,
-                "pompe à chaleur haute température atlantic"
-            ],
-            [
-                5,
-                "pompe à chaleur haute température 80 c atlantic"
-            ],
-            [
-                6,
-                "pompe à chaleur haute température mitsubishi"
-            ],
-            [
-                7,
-                "pompe à chaleur haute température avis"
-            ],
-            [
-                8,
-                "pompe à chaleur haute température viessmann"
-            ],
-            [
-                9,
-                "pompe à chaleur haute température daikin prix"
+                "performance énergétique"
             ]
         ],
         "yahoo": [
+            [
+                0,
+                "principe de fonctionnement"
+            ],
+            [
+                1,
+                "principe de fonctionnement d'un climatiseur"
+            ],
+            [
+                2,
+                "principe de fonctionnement pompe à chaleur"
+            ],
+            [
+                3,
+                "principe de fonctionnement voiture hybride"
+            ],
+            [
+                4,
+                "principe de fonctionnement d'un onduleur"
+            ],
+            [
+                5,
+                "principe de fonctionnement d'un thermostat"
+            ],
+            [
+                6,
+                "principe de fonctionnement du laser"
+            ],
+            [
+                7,
+                "principe de fonctionnement d'une diode"
+            ],
+            [
+                8,
+                "principe de fonctionnement fibre optique"
+            ],
+            [
+                9,
+                "principe de fonctionnement d'un adoucisseur"
+            ],
+            [
+                0,
+                "pompe à chaleur air air"
+            ],
+            [
+                1,
+                "pompe à chaleur air air réversible"
+            ],
+            [
+                2,
+                "pompe à chaleur air air prix de pose"
+            ],
+            [
+                3,
+                "pompe à chaleur air air tarifs"
+            ],
+            [
+                4,
+                "pompe à chaleur air air mitsubishi"
+            ],
+            [
+                5,
+                "pompe à chaleur air air daikin"
+            ],
             [
                 0,
                 "pompe à chaleur air-eau prix"
@@ -1122,238 +1168,218 @@
             ],
             [
                 0,
-                "pompe à chaleur géothermique"
+                "coût d'installation d'une climatisation"
             ],
             [
                 1,
-                "pompe à chaleur géothermique prix"
+                "coût d'installation de panneaux solaires"
             ],
             [
                 2,
-                "pompe à chaleur géothermique tarif"
+                "coût d'installation pompe à chaleur"
             ],
             [
                 3,
-                "pompe à chaleur géothermique fonctionnement"
+                "coût d'installation de la piscine"
             ],
             [
                 4,
-                "pompe à chaleur géothermique principe"
+                "coût d'installation panneaux solaires"
             ],
             [
                 5,
-                "pompe à chaleur géothermique verticale"
+                "coût d'installation d'un ascenseur otis"
+            ],
+            [
+                0,
+                "entretien annuel"
+            ],
+            [
+                1,
+                "entretien annuel d évaluation"
+            ],
+            [
+                2,
+                "entretien annuel obligatoire"
+            ],
+            [
+                3,
+                "entretien annuel professionnel"
+            ],
+            [
+                4,
+                "entretien annuel salarié"
+            ],
+            [
+                5,
+                "entretien annuel individuel"
             ],
             [
                 6,
-                "pompe à chaleur géothermique inconvénients"
+                "entretien annuel chaudière gaz"
             ],
             [
                 7,
-                "pompe à chaleur géothermique sol eau"
+                "entretien annuel chaudière fioul tarif"
             ],
             [
                 8,
-                "pompe à chaleur géothermique atlantic"
+                "entretien annuel pompe à chaleur"
             ],
             [
                 9,
-                "pompe à chaleur géothermique horizontale"
+                "entretien annuel humour"
             ],
             [
                 0,
-                "pompe à chaleur réversible"
+                "performance énergétique"
             ],
             [
                 1,
-                "pompe à chaleur réversible inconvénient"
+                "performance énergétique des bâtiments"
             ],
             [
                 2,
-                "pompe à chaleur réversible chaud/froid"
+                "performance énergétique logement"
             ],
             [
                 3,
-                "pompe à chaleur réversible daikin"
+                "performance énergétique e"
             ],
             [
                 4,
-                "pompe à chaleur réversible air air"
+                "performance énergétique location"
             ],
             [
                 5,
-                "pompe à chaleur réversible mitsubishi"
-            ],
-            [
-                6,
-                "pompe à chaleur réversible air eau"
-            ],
-            [
-                7,
-                "pompe à chaleur réversible tarif"
-            ],
-            [
-                8,
-                "pompe à chaleur réversible hitachi"
-            ],
-            [
-                9,
-                "pompe à chaleur réversible atlantic"
+                "performance énergétique définition"
             ],
             [
                 0,
-                "entretien pompe à chaleur"
+                "cop pompe à chaleur"
             ],
             [
                 1,
-                "entretien pompe à chaleur contrat"
+                "cop pompe à chaleur définition"
             ],
             [
                 2,
-                "entretien pompe à chaleur daikin"
+                "cop pompe à chaleur air air"
             ],
             [
                 3,
-                "entretien pompe à chaleur obligatoire"
+                "cop pompe à chaleur daikin"
             ],
             [
                 4,
-                "entretien pompe à chaleur tarif"
+                "cop pompe à chaleur piscine"
             ],
             [
                 5,
-                "entretien pompe à chaleur proximité"
-            ],
-            [
-                6,
-                "entretien pompe à chaleur réglementation"
-            ],
-            [
-                7,
-                "entretien pompe à chaleur air air"
-            ],
-            [
-                8,
-                "entretien pompe à chaleur air eau"
-            ],
-            [
-                9,
-                "entretien pompe à chaleur hitachi"
+                "cop pompe à chaleur air eau"
             ],
             [
                 0,
-                "coût installation pompe à chaleur"
+                "réversibilité"
             ],
             [
                 1,
-                "coût installation pompe à chaleur air eau"
-            ],
-            [
-                0,
-                "pompe à chaleur piscine"
-            ],
-            [
-                1,
-                "pompe à chaleur piscine zodiac"
+                "réversibilité baudelaire"
             ],
             [
                 2,
-                "pompe à chaleur piscine poolex"
+                "réversibilité définition"
             ],
             [
                 3,
-                "pompe à chaleur piscine hors sol"
+                "réversibilité télétravail"
             ],
             [
                 4,
-                "pompe à chaleur piscine hayward"
-            ],
-            [
-                5,
-                "pompe à chaleur piscine destockage"
-            ],
-            [
-                6,
-                "pompe à chaleur piscine 50m3"
-            ],
-            [
-                7,
-                "pompe à chaleur piscine intex"
-            ],
-            [
-                8,
-                "pompe à chaleur piscine desjoyaux"
-            ],
-            [
-                9,
-                "pompe à chaleur piscine racer"
-            ],
-            [
-                0,
-                "pompe à chaleur hybride"
-            ],
-            [
-                1,
-                "pompe à chaleur hybride gaz"
-            ],
-            [
-                2,
-                "pompe à chaleur hybride fioul"
-            ],
-            [
-                3,
-                "pompe à chaleur hybride définition"
-            ],
-            [
-                4,
-                "pompe à chaleur hybride frisquet"
-            ],
-            [
-                5,
-                "pompe à chaleur hybride inconvénient"
-            ],
-            [
-                6,
-                "pompe à chaleur hybride air air daikin"
-            ],
-            [
-                7,
-                "pompe à chaleur hybride viessmann"
-            ],
-            [
-                8,
-                "pompe à chaleur hybride individuelle"
-            ],
-            [
-                9,
-                "pompe à chaleur hybride bar-th-159"
-            ],
-            [
-                0,
-                "pompe à chaleur haute température"
-            ],
-            [
-                1,
-                "pompe à chaleur haute température air eau"
-            ],
-            [
-                2,
-                "pompe à chaleur haute température prix"
-            ],
-            [
-                3,
-                "pompe à chaleur haute température daikin"
-            ],
-            [
-                4,
-                "pompe à chaleur haute température mitsubishi"
-            ],
-            [
-                5,
-                "pompe à chaleur haute température air eau hitachi"
+                "réversibilité du télétravail"
             ]
         ],
         "youtube": [
+            [
+                0,
+                "principe de fonctionnement d'une pompe à chaleur"
+            ],
+            [
+                1,
+                "principe de fonctionnement d'un climatiseur"
+            ],
+            [
+                2,
+                "principe de fonctionnement chaudière gaz"
+            ],
+            [
+                3,
+                "principe de fonctionnement d'un moteur électrique"
+            ],
+            [
+                4,
+                "principe de fonctionnement d'un alternateur"
+            ],
+            [
+                5,
+                "principe de fonctionnement d'un générateur électrique"
+            ],
+            [
+                6,
+                "principe de fonctionnement d'une centrale nucléaire"
+            ],
+            [
+                7,
+                "principe de fonctionnement d'un embrayage"
+            ],
+            [
+                8,
+                "principe de fonctionnement du mosfet (transistor à effet de champ)"
+            ],
+            [
+                9,
+                "principe de fonctionnement du laser"
+            ],
+            [
+                0,
+                "pompe à chaleur air-air"
+            ],
+            [
+                1,
+                "pompe à chaleur air-air fonctionnement"
+            ],
+            [
+                2,
+                "pompe à chaleur air air daikin"
+            ],
+            [
+                3,
+                "pompe à chaleur air air atlantic"
+            ],
+            [
+                4,
+                "pompe à chaleur air air gainable"
+            ],
+            [
+                5,
+                "pompe à chaleur air air consommation électrique"
+            ],
+            [
+                6,
+                "pompe à chaleur air air bruit intérieur"
+            ],
+            [
+                7,
+                "installation pompe à chaleur air air multisplit"
+            ],
+            [
+                8,
+                "chauffage pompe à chaleur air air"
+            ],
+            [
+                9,
+                "installation pompe à chaleur air-air"
+            ],
             [
                 0,
                 "pompe à chaleur air-eau installation"
@@ -1396,91 +1422,103 @@
             ],
             [
                 0,
-                "pompe à chaleur géothermique"
+                "entretien annuel"
             ],
             [
                 1,
-                "pompe à chaleur géothermique fonctionnement"
-            ],
-            [
-                0,
-                "pompe à chaleur réversible"
-            ],
-            [
-                1,
-                "pompe à chaleur climatisation reversible"
-            ],
-            [
-                0,
-                "entretien pompe à chaleur"
-            ],
-            [
-                1,
-                "entretien pompe à chaleur atlantic"
+                "entretien annuel d'évaluation"
             ],
             [
                 2,
-                "entretien pompe à chaleur daikin"
+                "entretien annuel augmentation"
             ],
             [
                 3,
-                "entretien pompe à chaleur mitsubishi"
+                "entretien annuel poele a granule"
             ],
             [
                 4,
-                "entretien pompe à chaleur air eau atlantic"
+                "entretien annuel d'évaluation les erreurs à éviter"
             ],
             [
                 5,
-                "entretien pompe a chaleur air air"
+                "entretien annuel d'évaluation exemple"
             ],
             [
                 6,
-                "entretien pompe a chaleur lg"
+                "entretien annuel manager"
             ],
             [
                 7,
-                "entretien pompe a chaleur ecodan mitsubishi"
+                "entretien annuel humour"
             ],
             [
                 8,
-                "entretien pompe a chaleur panasonic"
+                "entretien annuel adoucisseur d'eau"
             ],
             [
                 9,
-                "entretien pompe a chaleur hitachi"
+                "entretien annuel d'évaluation manager"
             ],
             [
                 0,
-                "prix installation pompe a chaleur"
-            ],
-            [
-                0,
-                "pompe à chaleur hybride"
+                "efficacité énergétique"
             ],
             [
                 1,
-                "pompe à chaleur hybride gaz"
+                "efficacité énergétique شرح"
             ],
             [
                 2,
-                "pompe a chaleur hybride fioul"
+                "efficacité énergétique dans le bâtiment"
             ],
             [
                 3,
-                "pompe a chaleur hybride daikin"
+                "efficacité énergétique dans l'industrie"
             ],
             [
                 4,
-                "pompe a chaleur hybride gaz atlantic"
+                "efficacité énergétique spider man"
+            ],
+            [
+                5,
+                "efficacité énergétique dans le bâtiment cours"
+            ],
+            [
+                6,
+                "efficacité énergétique des bâtiments"
+            ],
+            [
+                7,
+                "performance energetique du batiment"
+            ],
+            [
+                8,
+                "efficacité énergétique cours"
+            ],
+            [
+                9,
+                "diagnostic performance énergétique"
             ],
             [
                 0,
-                "pompe à chaleur haute température"
+                "calcul cop pompe à chaleur"
             ],
             [
                 1,
-                "pompe a chaleur haute temperature daikin"
+                "cop pompe a chaleur"
+            ],
+            [
+                0,
+                "réversibilité murat"
+            ],
+            [
+                1,
+                "réversibilité"
+            ],
+            [
+                2,
+                "réversibilité baudelaire"
             ]
         ]
     },
@@ -1488,10 +1526,24 @@
         "articles": [
             {
                 "title": "Pompe à chaleur",
-                "views": 8344,
+                "views": 8627,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.414
+            },
+            {
+                "title": "Efficacité énergétique (économie)",
+                "views": 335,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Entretien d'évaluation",
+                "views": 50,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 4,
@@ -1509,19 +1561,32 @@
     "pages": [
         {
             "group": "Fonctionnement",
+            "title": "principe de fonctionnement d'un climatiseur",
+            "intent": "informational",
+            "keywords": [
+                "coût d'installation d'une climatisation",
+                "réversibilité définition",
+                "climatiseur",
+                "refroidisseur",
+                "réversibilité",
+                "pompe à chaleur air-air réversible",
+                "comment fonctionne une pompe à chaleur réversible"
+            ]
+        },
+        {
+            "group": "Fonctionnement",
             "title": "comment fonctionne une pompe à chaleur air eau",
             "intent": "informational",
             "keywords": [
                 "comment fonctionne une pompe à chaleur air eau",
-                "pompe à chaleur air-eau",
+                "pompe à chaleur air-eau fonctionnement",
                 "chauffage",
                 "chauffage électrique",
+                "climatisation",
                 "compresseur",
                 "condenseur",
-                "cop",
-                "détendeur",
                 "fluide frigorigène",
-                "pompe à chaleur aérothermique",
+                "géothermie",
                 "température",
                 "thermostat",
                 "unité extérieure",
@@ -1530,125 +1595,100 @@
                 "énergie thermique",
                 "évaporateur",
                 "comment fonctionne une pompe à chaleur air air",
-                "pompe à chaleur air eau fonctionnement"
-            ]
-        },
-        {
-            "group": "Fonctionnement",
-            "title": "comment fonctionne une pompe à chaleur réversible",
-            "intent": "informational",
-            "keywords": [
-                "comment fonctionne une pompe à chaleur réversible",
-                "pompe à chaleur réversible",
-                "pompe à chaleur réversible daikin",
-                "climatiseur",
-                "refroidisseur",
-                "pompe à chaleur réversible air eau",
-                "pompe à chaleur réversible air air"
-            ]
-        },
-        {
-            "group": "Fonctionnement",
-            "title": "pompe à chaleur géothermique fonctionnement",
-            "intent": "informational",
-            "keywords": [
-                "pompe à chaleur géothermique fonctionnement",
-                "pompe à chaleur géothermique",
-                "pompe à chaleur géothermique prix",
-                "géothermie",
-                "pompe à chaleur air eau monobloc"
+                "principe de fonctionnement d'une pompe à chaleur"
             ]
         },
         {
             "group": "Types",
-            "title": "pompe à chaleur haute température",
+            "title": "pompe à chaleur air-eau",
             "intent": "commercial",
             "keywords": [
-                "pompe à chaleur haute température",
-                "pompe à chaleur haute température air eau",
-                "pompe à chaleur haute température prix",
-                "pompe a chaleur haute temperature daikin"
+                "pompe à chaleur air-eau",
+                "coût d'installation d'une pompe à chaleur",
+                "pompe à chaleur air-eau prix",
+                "cop pompe à chaleur air eau"
             ]
         },
         {
             "group": "Types",
-            "title": "pompe à chaleur hybride",
+            "title": "pompe à chaleur air-air",
             "intent": "commercial",
             "keywords": [
-                "pompe à chaleur hybride",
-                "pompe à chaleur hybride gaz",
-                "pompe à chaleur hybride fioul"
+                "pompe à chaleur air-air",
+                "pompe à chaleur air-air daikin",
+                "pompe à chaleur air eau monobloc",
+                "pompe à chaleur aérothermique"
             ]
         },
         {
             "group": "Entretien",
-            "title": "entretien pompe à chaleur",
+            "title": "entretien annuel",
             "intent": "informational",
             "keywords": [
-                "entretien pompe à chaleur",
-                "entretien pompe à chaleur daikin",
-                "entretien pompe à chaleur atlantic"
+                "entretien annuel",
+                "entretien annuel d'évaluation",
+                "entretien annuel obligatoire",
+                "entretien annuel professionnel"
             ]
         },
         {
-            "group": "Coût et installation",
-            "title": "coût installation pompe à chaleur",
-            "intent": "commercial",
+            "group": "Performance",
+            "title": "performance énergétique",
+            "intent": "informational",
             "keywords": [
-                "coût installation pompe à chaleur",
-                "coût installation pompe à chaleur air eau"
+                "performance énergétique",
+                "performance énergétique des bâtiments",
+                "performance énergétique logement",
+                "cop pompe à chaleur"
             ]
         }
     ],
     "categories": {
+        "pompe à chaleur air-air": "core",
         "pompe à chaleur air-eau": "core",
-        "pompe à chaleur géothermique": "core",
-        "pompe à chaleur haute température": "core",
-        "pompe à chaleur hybride": "core",
-        "pompe à chaleur réversible": "core",
         "comment fonctionne une pompe à chaleur air eau": "core",
-        "entretien pompe à chaleur": "core",
+        "performance énergétique": "core",
         "comment fonctionne une pompe à chaleur air air": "core",
-        "pompe à chaleur hybride gaz": "core",
-        "coût installation pompe à chaleur": "commercial",
-        "pompe à chaleur géothermique fonctionnement": "core",
-        "pompe à chaleur hybride fioul": "core",
-        "pompe à chaleur réversible daikin": "commercial",
-        "pompe à chaleur géothermique prix": "commercial",
-        "pompe à chaleur réversible air eau": "core",
-        "entretien pompe à chaleur daikin": "commercial",
-        "coût installation pompe à chaleur air eau": "commercial",
-        "pompe à chaleur haute température prix": "commercial",
+        "entretien annuel": "complementary",
+        "réversibilité": "complementary",
+        "cop pompe à chaleur": "core",
+        "pompe à chaleur air-air réversible": "core",
+        "entretien annuel d'évaluation": "complementary",
+        "principe de fonctionnement d'une pompe à chaleur": "core",
+        "principe de fonctionnement d'un climatiseur": "doubtful",
+        "coût d'installation d'une climatisation": "commercial",
+        "principe de fonctionnement": "doubtful",
+        "pompe à chaleur air-air daikin": "commercial",
+        "entretien annuel obligatoire": "complementary",
+        "coût d'installation d'une pompe à chaleur": "commercial",
+        "cop pompe à chaleur air eau": "core",
         "comment fonctionne une pompe à chaleur réversible": "core",
-        "pompe a chaleur haute temperature daikin": "commercial",
-        "pompe à chaleur air eau monobloc": "core",
-        "entretien pompe à chaleur atlantic": "commercial",
-        "pompe à chaleur air eau fonctionnement": "core",
-        "pompe à chaleur réversible air air": "complementary",
-        "pompe à chaleur haute température air eau": "core",
-        "cop": "core",
+        "pompe à chaleur air eau monobloc": "complementary",
+        "entretien annuel professionnel": "complementary",
+        "pompe à chaleur air-eau fonctionnement": "complementary",
+        "performance énergétique des bâtiments": "complementary",
+        "performance énergétique logement": "complementary",
+        "pompe à chaleur air-eau prix": "commercial",
+        "réversibilité définition": "complementary",
         "échangeur de chaleur": "core",
-        "compresseur": "core",
         "fluide frigorigène": "core",
+        "compresseur": "core",
         "évaporateur": "core",
         "condenseur": "core",
-        "unité extérieure": "core",
-        "unité intérieure": "core",
         "thermostat": "core",
-        "détendeur": "core",
+        "unité intérieure": "core",
+        "unité extérieure": "core",
+        "chauffage": "core",
+        "climatisation": "core",
         "réfrigérateur": "doubtful",
         "température": "complementary",
-        "combustion": "doubtful",
-        "effet joule": "doubtful",
         "énergie thermique": "complementary",
-        "chauffage": "complementary",
         "géothermie": "complementary",
         "chauffage électrique": "complementary",
         "climatiseur": "complementary",
         "refroidisseur": "complementary",
         "pompe à chaleur aérothermique": "complementary",
-        "pompe à chaleur piscine": "doubtful",
-        "pompe à chaleur piscine zodiac": "doubtful",
-        "pompe à chaleur piscine hors sol": "doubtful"
+        "réversibilité baudelaire": "doubtful",
+        "coût d'installation de panneaux solaires": "doubtful"
     }
 }

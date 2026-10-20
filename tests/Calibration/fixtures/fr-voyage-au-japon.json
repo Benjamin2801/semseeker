@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "guide de voyage japon",
-        "visa japon",
-        "cuisine japonaise",
         "culture japonaise",
-        "voyage tokyo",
-        "voyage kyoto",
+        "cuisine japonaise",
+        "itinéraire japon",
+        "visa japon",
         "transport japon",
-        "hébergement japon"
+        "hébergement traditionnel",
+        "sites historiques japon",
+        "festivals japonais"
     ],
     "suggestions": {
         "amazon": [
@@ -96,7 +96,15 @@
         "amazon": [
             [
                 0,
-                "guide de voyage japon"
+                "culture japonaise"
+            ],
+            [
+                1,
+                "culture japonaise objet"
+            ],
+            [
+                2,
+                "culture japonaise livre"
             ],
             [
                 0,
@@ -137,72 +145,144 @@
             [
                 9,
                 "cuisine japonaise ingredients"
-            ],
+            ]
+        ],
+        "bing": [
             [
                 0,
                 "culture japonaise"
             ],
             [
                 1,
-                "culture japonaise objet"
+                "culture japonaise traditionnelle"
             ],
             [
                 2,
-                "culture japonaise livre"
-            ],
-            [
-                0,
-                "voyage tokyo"
-            ]
-        ],
-        "bing": [
-            [
-                0,
-                "guide de voyage japon"
-            ],
-            [
-                1,
-                "guide de voyage au japon"
-            ],
-            [
-                2,
-                "voyage au japon guide du routard"
+                "culture japonaise manga"
             ],
             [
                 3,
-                "voyage japon avec guide privé"
+                "culture japonaise art"
             ],
             [
                 4,
-                "voyage pour le japon"
+                "culture japonaise populaire"
             ],
             [
                 5,
-                "guide pour le japon"
+                "culture japonaise photo"
             ],
             [
                 6,
-                "tout savoir pour un voyage au japon"
+                "culture japonaise temple"
             ],
             [
                 7,
-                "conseils pour un voyage au japon"
+                "culture japonaise dessin"
             ],
             [
                 8,
-                "guide français au japon"
+                "culture japonaise moderne"
             ],
             [
                 9,
-                "voyage japon que faire"
+                "culture japonaise au travail"
             ],
             [
                 10,
-                "comment préparer un voyage au japon"
+                "culture japonaise à paris"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
+            [
+                1,
+                "cuisine japonaise recettes"
+            ],
+            [
+                2,
+                "cuisine japonaise traditionnelle"
+            ],
+            [
+                3,
+                "cuisine japonaise livre"
+            ],
+            [
+                4,
+                "cuisine japonaise facile"
+            ],
+            [
+                5,
+                "cuisine japonaise vegan"
+            ],
+            [
+                6,
+                "cuisine japonaise maison"
+            ],
+            [
+                7,
+                "cuisine japonaise recettes faciles"
+            ],
+            [
+                8,
+                "cuisine japonaise lyon"
+            ],
+            [
+                9,
+                "cuisine japonaise poisson"
+            ],
+            [
+                10,
+                "cuisine japonaise youtube"
             ],
             [
                 11,
-                "voyage organisé pour le japon"
+                "cuisine japonaise paris"
+            ],
+            [
+                0,
+                "itinéraire japon"
+            ],
+            [
+                1,
+                "itinéraire japon 3 semaines"
+            ],
+            [
+                2,
+                "itinéraire japon 2 semaines"
+            ],
+            [
+                3,
+                "itinéraire japon 15 jours"
+            ],
+            [
+                4,
+                "itinéraire japon 1 mois"
+            ],
+            [
+                5,
+                "itinéraire japon carte"
+            ],
+            [
+                6,
+                "itinéraire japon 10 jours"
+            ],
+            [
+                7,
+                "itinéraire japon 14 jours"
+            ],
+            [
+                8,
+                "itinéraire japon 20 jours"
+            ],
+            [
+                9,
+                "itinéraire japon 12 jours"
+            ],
+            [
+                10,
+                "itinéraire japon 16 jours"
             ],
             [
                 0,
@@ -214,11 +294,11 @@
             ],
             [
                 2,
-                "visa japon maroc"
+                "visa japon algérie"
             ],
             [
                 3,
-                "visa japon algérie"
+                "visa japon maroc"
             ],
             [
                 4,
@@ -238,7 +318,7 @@
             ],
             [
                 8,
-                "visa japón colombia"
+                "visa japon pour togolais"
             ],
             [
                 9,
@@ -246,11 +326,129 @@
             ],
             [
                 10,
-                "visa japon colombianos"
+                "visa japón colombianos"
             ],
             [
                 11,
                 "visa japonesa para mexicanos"
+            ],
+            [
+                0,
+                "transport japon"
+            ],
+            [
+                1,
+                "transport japon train"
+            ],
+            [
+                2,
+                "carte transport japon"
+            ],
+            [
+                3,
+                "transport au japon"
+            ],
+            [
+                4,
+                "transport en commun japon"
+            ],
+            [
+                5,
+                "moyen de transport au japon"
+            ],
+            [
+                6,
+                "comparateur prix transport japon"
+            ],
+            [
+                0,
+                "hébergement traditionnel japon"
+            ],
+            [
+                0,
+                "japon sites historiques"
+            ],
+            [
+                0,
+                "festivals japonais"
+            ],
+            [
+                1,
+                "festival japonais musique"
+            ],
+            [
+                2,
+                "festival japonais culture"
+            ],
+            [
+                3,
+                "festival japonais costumes"
+            ],
+            [
+                4,
+                "festival japonais montréal"
+            ],
+            [
+                5,
+                "festival japonais gastronomie"
+            ],
+            [
+                6,
+                "festival japonais traditionnel"
+            ],
+            [
+                7,
+                "festival japonais culture et arts"
+            ],
+            [
+                8,
+                "festival japonais bruxelles"
+            ],
+            [
+                9,
+                "festival japonais paris"
+            ],
+            [
+                10,
+                "festival japonais toulouse"
+            ],
+            [
+                11,
+                "festival japonais montpellier"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "culture japonaise"
+            ],
+            [
+                1,
+                "culture japonaise traditionnelle"
+            ],
+            [
+                2,
+                "culture japonaise manga"
+            ],
+            [
+                3,
+                "culture japonaise art"
+            ],
+            [
+                4,
+                "culture japonaise populaire"
+            ],
+            [
+                5,
+                "culture japonaise photo"
+            ],
+            [
+                6,
+                "culture japonaise temple"
+            ],
+            [
+                7,
+                "culture japonaise dessin"
             ],
             [
                 0,
@@ -274,213 +472,47 @@
             ],
             [
                 5,
+                "cuisine japonaise vegan"
+            ],
+            [
+                6,
                 "cuisine japonaise maison"
             ],
             [
-                6,
-                "cuisine japonaise lyon"
-            ],
-            [
                 7,
-                "cuisine japonaise poisson"
-            ],
-            [
-                8,
-                "cuisine japonaise youtube"
-            ],
-            [
-                9,
                 "cuisine japonaise recettes faciles"
             ],
             [
-                10,
-                "cuisine japonaise paris"
-            ],
-            [
                 0,
-                "culture japonaise"
+                "itinéraire japon"
             ],
             [
                 1,
-                "culture japonaise traditionnelle"
+                "itinéraire japon 3 semaines"
             ],
             [
                 2,
-                "culture japonaise manga"
+                "itinéraire japon 2 semaines"
             ],
             [
                 3,
-                "culture japonaise art"
+                "itinéraire japon 1 mois"
             ],
             [
                 4,
-                "culture japonaise moderne"
+                "itinéraire japon 15 jours"
             ],
             [
                 5,
-                "culture japonaise populaire"
+                "itinéraire japon 14 jours"
             ],
             [
                 6,
-                "culture japonaise photo"
+                "itinéraire japon blog"
             ],
             [
                 7,
-                "culture japonaise temple"
-            ],
-            [
-                8,
-                "culture japonaise dessin"
-            ],
-            [
-                9,
-                "culture japonaise en france"
-            ],
-            [
-                10,
-                "culture japonaise au travail"
-            ],
-            [
-                11,
-                "culture japonaise à paris"
-            ],
-            [
-                0,
-                "voyage tokyo"
-            ],
-            [
-                1,
-                "voyage tokyo tout inclus"
-            ],
-            [
-                2,
-                "voyage tokyo prix"
-            ],
-            [
-                3,
-                "voyage tokyo kyoto"
-            ],
-            [
-                4,
-                "voyage tokyo hotel"
-            ],
-            [
-                5,
-                "voyage tokyo budget"
-            ],
-            [
-                6,
-                "voyage à tokyo film"
-            ],
-            [
-                7,
-                "voyage à tokyo ozu"
-            ],
-            [
-                8,
-                "voyage paris tokyo"
-            ],
-            [
-                9,
-                "japon tokyo voyage"
-            ],
-            [
-                0,
-                "voyage kyoto"
-            ],
-            [
-                1,
-                "voyage à kyoto"
-            ],
-            [
-                2,
-                "voyage kotor"
-            ],
-            [
-                3,
-                "voyage vers kyoto"
-            ],
-            [
-                0,
-                "transport japon"
-            ],
-            [
-                1,
-                "transport japon train"
-            ],
-            [
-                2,
-                "transport japon médiéval"
-            ],
-            [
-                3,
-                "carte transport japon"
-            ],
-            [
-                4,
-                "transport au japon"
-            ],
-            [
-                5,
-                "transport en commun japon"
-            ],
-            [
-                6,
-                "moyen de transport au japon"
-            ],
-            [
-                7,
-                "comparateur prix transport japon"
-            ],
-            [
-                0,
-                "hébergement japon"
-            ],
-            [
-                1,
-                "hébergement japonais en france"
-            ],
-            [
-                2,
-                "hebergement au japon"
-            ],
-            [
-                3,
-                "hébergement traditionnel japon"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "guide de voyage japon"
-            ],
-            [
-                1,
-                "guide de voyage au japon"
-            ],
-            [
-                2,
-                "voyage au japon guide du routard"
-            ],
-            [
-                3,
-                "voyage japon avec guide privé"
-            ],
-            [
-                4,
-                "voyage pour le japon"
-            ],
-            [
-                5,
-                "guide pour le japon"
-            ],
-            [
-                6,
-                "tout savoir pour un voyage au japon"
-            ],
-            [
-                7,
-                "conseils pour un voyage au japon"
+                "itinéraire japon carte"
             ],
             [
                 0,
@@ -492,11 +524,11 @@
             ],
             [
                 2,
-                "visa japon maroc"
+                "visa japon algérie"
             ],
             [
                 3,
-                "visa japon algérie"
+                "visa japon maroc"
             ],
             [
                 4,
@@ -516,118 +548,6 @@
             ],
             [
                 0,
-                "cuisine japonaise recettes"
-            ],
-            [
-                1,
-                "cuisine japonaise"
-            ],
-            [
-                2,
-                "cuisine japonaise traditionnelle"
-            ],
-            [
-                3,
-                "cuisine japonaise livre"
-            ],
-            [
-                4,
-                "cuisine japonaise facile"
-            ],
-            [
-                5,
-                "cuisine japonaise maison"
-            ],
-            [
-                6,
-                "cuisine japonaise lyon"
-            ],
-            [
-                7,
-                "cuisine japonaise poisson"
-            ],
-            [
-                0,
-                "culture japonaise"
-            ],
-            [
-                1,
-                "culture japonaise traditionnelle"
-            ],
-            [
-                2,
-                "culture japonaise manga"
-            ],
-            [
-                3,
-                "culture japonaise art"
-            ],
-            [
-                4,
-                "culture japonaise moderne"
-            ],
-            [
-                5,
-                "culture japonaise populaire"
-            ],
-            [
-                6,
-                "culture japonaise photo"
-            ],
-            [
-                7,
-                "culture japonaise temple"
-            ],
-            [
-                0,
-                "voyage tokyo"
-            ],
-            [
-                1,
-                "voyage tokyo tout inclus"
-            ],
-            [
-                2,
-                "voyage tokyo prix"
-            ],
-            [
-                3,
-                "voyage tokyo kyoto"
-            ],
-            [
-                4,
-                "voyage tokyo hotel"
-            ],
-            [
-                5,
-                "voyage tokyo budget"
-            ],
-            [
-                6,
-                "voyage à tokyo film"
-            ],
-            [
-                7,
-                "voyage à tokyo ozu"
-            ],
-            [
-                0,
-                "voyage kyoto"
-            ],
-            [
-                1,
-                "voyage à kyoto"
-            ],
-            [
-                2,
-                "voyage kotor"
-            ],
-            [
-                3,
-                "voyage vers kyoto"
-            ],
-            [
-                0,
                 "transport japon"
             ],
             [
@@ -636,125 +556,105 @@
             ],
             [
                 2,
-                "transport japon médiéval"
-            ],
-            [
-                3,
                 "carte transport japon"
             ],
             [
-                4,
+                3,
                 "transport au japon"
             ],
             [
-                5,
+                4,
                 "transport en commun japon"
             ],
             [
-                6,
+                5,
                 "moyen de transport au japon"
             ],
             [
-                7,
+                6,
                 "comparateur prix transport japon"
             ],
             [
                 0,
-                "hébergement japon"
+                "hébergement traditionnel japon"
+            ],
+            [
+                0,
+                "japon sites historiques"
+            ],
+            [
+                0,
+                "festivals japonais"
             ],
             [
                 1,
-                "hébergement japonais en france"
+                "festival japonais musique"
             ],
             [
                 2,
-                "hebergement au japon"
+                "festival japonais culture"
             ],
             [
                 3,
-                "hébergement traditionnel japon"
+                "festival japonais costumes"
+            ],
+            [
+                4,
+                "festival japonais montréal"
+            ],
+            [
+                5,
+                "festival japonais gastronomie"
+            ],
+            [
+                6,
+                "festival japonais traditionnel"
+            ],
+            [
+                7,
+                "festival japonais culture et arts"
             ]
         ],
         "google": [
             [
                 0,
-                "guide de voyage japon"
+                "culture japonaise"
             ],
             [
                 1,
-                "guide de voyage japon 2025"
+                "culture japonaise nourriture"
             ],
             [
                 2,
-                "guide de voyage japon 2026"
+                "culture japonaise traditionnelle"
             ],
             [
                 3,
-                "guide de voyage japon pdf"
+                "culture japonaise femme"
             ],
             [
                 4,
-                "plan de voyage japon"
+                "culture japonaise manga"
             ],
             [
                 5,
-                "meilleur guide de voyage japon"
+                "culture japonaise paris"
             ],
             [
                 6,
-                "guide de voyage au japon adrian nakamura"
+                "culture japonaise livre"
             ],
             [
                 7,
-                "guide voyage japon livre"
+                "culture japonaise en france"
             ],
             [
                 8,
-                "guide voyage japon lonely planet"
+                "culture japonaise toulouse"
             ],
             [
                 9,
-                "guide voyage japon enfant"
-            ],
-            [
-                0,
-                "visa japon"
-            ],
-            [
-                1,
-                "visa japon france"
-            ],
-            [
-                2,
-                "visa japon tourisme"
-            ],
-            [
-                3,
-                "visa japon prix"
-            ],
-            [
-                4,
-                "visa japon pour français"
-            ],
-            [
-                5,
-                "visa japon lyon"
-            ],
-            [
-                6,
-                "visa japon 2026"
-            ],
-            [
-                7,
-                "visa japon 2027"
-            ],
-            [
-                8,
-                "visa japon travail"
-            ],
-            [
-                9,
-                "visa japon marocain"
+                "culture japonaise moderne"
             ],
             [
                 0,
@@ -798,123 +698,83 @@
             ],
             [
                 0,
-                "culture japonaise"
+                "itinéraire japon 3 semaines"
             ],
             [
                 1,
-                "culture japonaise nourriture"
+                "itinéraire japon"
             ],
             [
                 2,
-                "culture japonaise traditionnelle"
+                "itinéraire japon 2 semaines"
             ],
             [
                 3,
-                "culture japonaise femme"
+                "itinéraire japon 1 mois"
             ],
             [
                 4,
-                "culture japonaise manga"
+                "itinéraire japon 3 semaines routard"
             ],
             [
                 5,
-                "culture japonaise paris"
+                "itinéraire japon hors des sentiers battus"
             ],
             [
                 6,
-                "culture japonaise livre"
+                "itinéraire japon 15 jours"
             ],
             [
                 7,
-                "culture japonaise en france"
+                "itinéraire japon 2 mois"
             ],
             [
                 8,
-                "culture japonaise toulouse"
+                "itinéraire japon 10 jours"
             ],
             [
                 9,
-                "culture japonaise moderne"
+                "itinéraire japon 18 jours"
             ],
             [
                 0,
-                "voyage tokyo"
+                "visa japon"
             ],
             [
                 1,
-                "voyage tokyo tout inclus"
+                "visa japon france"
             ],
             [
                 2,
-                "voyage tokyo prix"
+                "visa japon tourisme"
             ],
             [
                 3,
-                "voyage tokyo pas cher"
+                "visa japon prix"
             ],
             [
                 4,
-                "voyage tokyo 1 semaine tout compris"
+                "visa japon pour français"
             ],
             [
                 5,
-                "voyage tokyo disneyland"
+                "visa japon lyon"
             ],
             [
                 6,
-                "voyage tokyo kyoto osaka"
+                "visa japon 2026"
             ],
             [
                 7,
-                "voyage tokyo kyoto"
+                "visa japon 2027"
             ],
             [
                 8,
-                "voyage tokyo vol + hôtel"
+                "visa japon travail"
             ],
             [
                 9,
-                "voyage tokyo leclerc"
-            ],
-            [
-                0,
-                "voyage kyoto"
-            ],
-            [
-                1,
-                "voyage kyoto tout compris"
-            ],
-            [
-                2,
-                "voyage kyoto pas cher"
-            ],
-            [
-                3,
-                "voyage kyoto japon"
-            ],
-            [
-                4,
-                "voyage kyoto osaka"
-            ],
-            [
-                5,
-                "voyage kyoto tokyo"
-            ],
-            [
-                6,
-                "voyage kyoto et ses environs"
-            ],
-            [
-                7,
-                "voyage kyoto prix"
-            ],
-            [
-                8,
-                "blog voyage kyoto"
-            ],
-            [
-                9,
-                "voyage tokyo kyoto osaka"
+                "visa japon marocain"
             ],
             [
                 0,
@@ -958,46 +818,106 @@
             ],
             [
                 0,
-                "hébergement japon"
+                "hebergement traditionnel au japon"
             ],
             [
                 1,
-                "hebergement japon pas cher"
+                "hebergement traditionnel kyoto"
             ],
             [
                 2,
-                "hébergement japonais en france"
+                "hebergement traditionnel tokyo"
             ],
             [
                 3,
-                "hebergement japon tokyo"
+                "hebergement traditionnel osaka"
             ],
             [
                 4,
-                "hebergement japon prix"
+                "logement traditionnel japon"
             ],
             [
                 5,
-                "logement japon"
+                "hôtel traditionnel japonais"
             ],
             [
                 6,
-                "séjour japon"
+                "logement traditionnel kyoto"
             ],
             [
                 7,
-                "hôtel japon"
+                "logement traditionnel seoul"
             ],
             [
                 8,
-                "logement japon tokyo"
+                "logement traditionnel.coréen"
             ],
             [
                 9,
-                "séjour japon 2 semaines"
+                "logement traditionnel"
+            ],
+            [
+                0,
+                "sites historiques japon"
+            ],
+            [
+                1,
+                "monuments historiques japon"
+            ],
+            [
+                2,
+                "lieux historiques japon"
+            ],
+            [
+                0,
+                "festival japonais"
+            ],
+            [
+                1,
+                "festival japonais montreal"
+            ],
+            [
+                2,
+                "festival japonais bruxelles"
+            ],
+            [
+                3,
+                "fete japonaise"
+            ],
+            [
+                4,
+                "fete japonaise carouge 2026"
+            ],
+            [
+                5,
+                "festival japonais toulouse"
+            ],
+            [
+                6,
+                "festival japonais paris"
+            ],
+            [
+                7,
+                "concert japonais paris 2026"
+            ],
+            [
+                8,
+                "festival japonais gland"
+            ],
+            [
+                9,
+                "fete japonaise carouge 2025"
             ]
         ],
         "indeed": [
+            [
+                0,
+                "culture japonaise"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
             [
                 0,
                 "visa sponsorship jobs"
@@ -1028,57 +948,41 @@
             ],
             [
                 7,
-                "visa sponsor"
+                "visa sponsorship jobs in germany"
             ],
             [
                 8,
-                "visa sponsorship jobs in germany"
+                "visa sponsor"
             ],
             [
                 9,
                 "visa sponsorship maintenance"
-            ],
-            [
-                0,
-                "cuisine japonaise"
-            ],
-            [
-                0,
-                "culture japonaise"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "guide de voyage japon circuit accompagné"
+                "culture japonaise"
             ],
             [
                 1,
-                "guide de voyage japon accompagné pour retraités"
+                "culture japonaise manga"
             ],
             [
                 2,
-                "guide de voyage japon tout compris"
+                "maison de la culture japonaise"
             ],
             [
                 3,
-                "guide de voyage japon abordable"
+                "perle de culture japonaise"
             ],
             [
-                0,
-                "visa japon"
+                4,
+                "la culture japonaise en france"
             ],
             [
-                1,
-                "visa japon ressortissant français"
-            ],
-            [
-                2,
-                "visa japon pour français"
-            ],
-            [
-                3,
-                "visa japon tourisme"
+                5,
+                "maison de la culture japonaise à paris"
             ],
             [
                 0,
@@ -1118,59 +1022,39 @@
             ],
             [
                 0,
-                "culture japonaise"
+                "itinéraire japon"
             ],
             [
                 1,
-                "culture japonaise manga"
+                "itinéraire japon 12 jours formule pension complète"
             ],
             [
                 2,
-                "maison de la culture japonaise"
+                "itinéraire japon 15 jours"
             ],
             [
                 3,
-                "perle de culture japonaise"
+                "itinéraire japon 10 jours"
             ],
             [
                 4,
-                "la culture japonaise en france"
-            ],
-            [
-                5,
-                "maison de la culture japonaise à paris"
+                "itinéraire japon en train"
             ],
             [
                 0,
-                "voyage tokyo"
+                "visa japon"
             ],
             [
                 1,
-                "voyage à tokyo"
+                "visa japon ressortissant français"
             ],
             [
                 2,
-                "voyage japon tokyo"
+                "visa japon pour français"
             ],
             [
                 3,
-                "voyage paris tokyo"
-            ],
-            [
-                4,
-                "voyage organisé tokyo"
-            ],
-            [
-                5,
-                "voyage avion paris tokyo"
-            ],
-            [
-                0,
-                "voyage kyoto"
-            ],
-            [
-                1,
-                "voyage japon tokyo kyoto"
+                "visa japon tourisme"
             ],
             [
                 0,
@@ -1198,69 +1082,73 @@
             ],
             [
                 0,
-                "hébergement japonais"
+                "hebergement traditionnelle"
             ],
             [
                 1,
-                "hébergement japon carte"
+                "hebergement traditionnel synonyme"
             ],
             [
                 2,
-                "hébergement japon actualités"
+                "hebergement traditionnel pluriel"
             ],
             [
                 3,
-                "hébergement japon wikipédia"
+                "hebergement traditionnel définition"
+            ],
+            [
+                0,
+                "sites japonais"
+            ],
+            [
+                1,
+                "sites japonais montres de luxe homme"
+            ],
+            [
+                2,
+                "sites japonais de ventes montres luxe"
+            ],
+            [
+                0,
+                "festivals japonaise"
+            ],
+            [
+                1,
+                "festivals japonais livraison"
+            ],
+            [
+                2,
+                "festivals japonais restaurant"
+            ],
+            [
+                3,
+                "festivals japonais traduction"
             ]
         ],
         "youtube": [
             [
                 0,
-                "guide voyage japon"
+                "culture japonaise"
             ],
             [
                 1,
-                "guide touristique japon"
-            ],
-            [
-                0,
-                "visa japon"
-            ],
-            [
-                1,
-                "visa japon maroc"
+                "culture japonaise documentaire"
             ],
             [
                 2,
-                "visa japon algerie"
+                "culture japonaise les bonnes manieres"
             ],
             [
                 3,
-                "visa japon pour marocain"
+                "tradition japonaise"
             ],
             [
                 4,
-                "visa japon 2025"
+                "massage culture japonaise"
             ],
             [
                 5,
-                "visa japon maroc 2025"
-            ],
-            [
-                6,
-                "visa japon senegal"
-            ],
-            [
-                7,
-                "visa japon algerie 2025"
-            ],
-            [
-                8,
-                "visa japon para colombianos"
-            ],
-            [
-                9,
-                "visa japonesa para colombianos"
+                "comprendre la culture japonaise"
             ],
             [
                 0,
@@ -1304,75 +1192,83 @@
             ],
             [
                 0,
-                "culture japonaise"
+                "itinéraire japon"
             ],
             [
                 1,
-                "culture japonaise documentaire"
+                "itinéraire japon 2 semaines"
             ],
             [
                 2,
-                "culture japonaise les bonnes manieres"
+                "itinéraire japon 3 semaines"
             ],
             [
                 3,
-                "tradition japonaise"
+                "itineraire japon 1 mois"
             ],
             [
                 4,
-                "massage culture japonaise"
+                "voyage japon"
             ],
             [
                 5,
-                "comprendre la culture japonaise"
-            ],
-            [
-                0,
-                "voyage tokyo"
-            ],
-            [
-                1,
-                "voyage tokyo 1 semaine"
-            ],
-            [
-                2,
-                "voyage tokyo budget"
-            ],
-            [
-                3,
-                "voyage à tokyo ozu"
-            ],
-            [
-                4,
-                "vlog voyage tokyo"
-            ],
-            [
-                5,
-                "voyage a tokyo bande annonce vf"
+                "visite japon"
             ],
             [
                 6,
-                "conseil voyage tokyo"
+                "voyage japon conseil"
             ],
             [
                 7,
-                "voyage paris tokyo"
+                "voyage japon 3 semaines"
             ],
             [
                 8,
-                "guide voyage tokyo"
+                "voyage japon budget"
             ],
             [
                 9,
-                "bon voyage tokyo disney"
+                "voyage japon vlog"
             ],
             [
                 0,
-                "voyage kyoto"
+                "visa japon"
             ],
             [
                 1,
-                "voyage japon kyoto"
+                "visa japon maroc"
+            ],
+            [
+                2,
+                "visa japon algerie"
+            ],
+            [
+                3,
+                "visa japon pour marocain"
+            ],
+            [
+                4,
+                "visa japon 2025"
+            ],
+            [
+                5,
+                "visa japon maroc 2025"
+            ],
+            [
+                6,
+                "visa japon senegal"
+            ],
+            [
+                7,
+                "visa japon algerie 2025"
+            ],
+            [
+                8,
+                "visa japon para colombianos"
+            ],
+            [
+                9,
+                "visa japonesa para colombianos"
             ],
             [
                 0,
@@ -1408,19 +1304,19 @@
             ],
             [
                 0,
-                "hebergement japon"
+                "concert japonais"
             ],
             [
                 1,
-                "logement japon"
+                "fete japonaise"
             ],
             [
                 2,
-                "hôtel japon"
+                "concert japonais anime"
             ],
             [
                 3,
-                "séjour japon"
+                "festival japonais matsuri"
             ]
         ]
     },
@@ -1428,28 +1324,28 @@
         "articles": [
             {
                 "title": "Voyage",
-                "views": 2117,
+                "views": 2350,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.545
             },
             {
                 "title": "Japon",
-                "views": 29903,
+                "views": 30719,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.455
             },
             {
                 "title": "Cuisine japonaise",
-                "views": 1396,
+                "views": 1434,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Culture japonaise",
-                "views": 1024,
+                "views": 1056,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1471,39 +1367,62 @@
     },
     "pages": [
         {
-            "group": "Planification",
-            "title": "guide de voyage japon",
+            "group": "Préparation du voyage",
+            "title": "visa japon",
             "intent": "informational",
             "keywords": [
-                "guide de voyage japon",
-                "agence de voyages",
-                "exploration",
-                "guide de voyage",
-                "itinéraire japon",
-                "saison voyage japon",
-                "sites touristiques japon",
-                "sécurité japon",
-                "tourisme",
-                "voyagiste",
                 "visa japon",
-                "transport japon",
-                "chemin de fer",
-                "transport",
-                "hébergement japon"
+                "guide de voyage",
+                "passeport",
+                "tourisme",
+                "visa japon tourisme",
+                "visa japon france",
+                "visa japon algérie",
+                "visa japon maroc"
             ]
         },
         {
-            "group": "Planification",
-            "title": "voyage au japon budget",
+            "group": "Préparation du voyage",
+            "title": "budget voyage japon",
             "intent": "commercial",
             "keywords": [
                 "voyage au japon budget",
-                "voyage au japon prix",
-                "voyage tokyo prix"
+                "agence de voyages",
+                "avion",
+                "voyagiste",
+                "voyage au japon prix"
             ]
         },
         {
-            "group": "Planification",
+            "group": "Préparation du voyage",
+            "title": "transport japon",
+            "intent": "informational",
+            "keywords": [
+                "transport japon",
+                "onsen",
+                "shinkansen",
+                "transport",
+                "carte transport japon"
+            ]
+        },
+        {
+            "group": "Itinéraires",
+            "title": "itinéraire japon",
+            "intent": "informational",
+            "keywords": [
+                "itinéraire japon",
+                "cerisier en fleurs",
+                "kyoto",
+                "mont fuji",
+                "tokyo",
+                "itinéraire japon 3 semaines",
+                "itinéraire japon 2 semaines",
+                "itinéraire japon 1 mois",
+                "itinéraire japon 15 jours"
+            ]
+        },
+        {
+            "group": "Itinéraires",
             "title": "voyage au japon en famille",
             "intent": "informational",
             "keywords": [
@@ -1512,97 +1431,91 @@
             ]
         },
         {
-            "group": "Culture",
-            "title": "cuisine japonaise",
-            "intent": "informational",
-            "keywords": [
-                "cuisine japonaise",
-                "cuisine japonaise facile",
-                "cuisine japonaise livre",
-                "cuisine japonaise recettes",
-                "cuisine japonaise maison",
-                "cuisine japonaise traditionnelle"
-            ]
-        },
-        {
-            "group": "Culture",
+            "group": "Culture et traditions",
             "title": "culture japonaise",
             "intent": "informational",
             "keywords": [
                 "culture japonaise",
-                "culture japonaise manga"
-            ]
-        },
-        {
-            "group": "Destinations",
-            "title": "voyage tokyo",
-            "intent": "informational",
-            "keywords": [
-                "voyage tokyo",
-                "transport japon carte",
-                "voyage tokyo tout inclus"
-            ]
-        },
-        {
-            "group": "Destinations",
-            "title": "voyage kyoto",
-            "intent": "informational",
-            "keywords": [
-                "voyage kyoto",
+                "culture japonaise manga",
+                "festivals japonais",
                 "culture japonaise traditionnelle",
-                "voyage japon kyoto"
+                "fete japonaise"
             ]
         },
         {
-            "group": "Pratique",
-            "title": "visa japon tourisme",
+            "group": "Culture et traditions",
+            "title": "japon sites historiques",
             "intent": "informational",
             "keywords": [
-                "visa japon tourisme",
-                "visa japon france",
-                "visa japon maroc"
+                "japon sites historiques",
+                "ryokan",
+                "temple bouddhiste",
+                "hébergement traditionnel japon"
+            ]
+        },
+        {
+            "group": "Cuisine japonaise",
+            "title": "cuisine japonaise",
+            "intent": "informational",
+            "keywords": [
+                "cuisine japonaise",
+                "sushi",
+                "cuisine japonaise recettes",
+                "cuisine japonaise traditionnelle",
+                "cuisine japonaise facile",
+                "cuisine japonaise livre"
             ]
         }
     ],
     "categories": {
         "cuisine japonaise": "core",
         "culture japonaise": "core",
-        "voyage tokyo": "core",
         "voyage au japon en famille": "core",
-        "guide de voyage japon": "core",
         "transport japon": "core",
         "visa japon": "core",
-        "voyage kyoto": "core",
+        "itinéraire japon": "core",
         "voyage au japon budget": "commercial",
         "voyage au japon prix": "commercial",
         "cuisine japonaise recettes": "complementary",
         "cuisine japonaise traditionnelle": "complementary",
-        "hébergement japon": "core",
-        "transport japon carte": "complementary",
+        "carte transport japon": "core",
+        "itinéraire japon 3 semaines": "core",
+        "itinéraire japon 2 semaines": "core",
         "culture japonaise manga": "complementary",
         "voyage au japon 2 semaines": "core",
+        "itinéraire japon 1 mois": "core",
         "visa japon tourisme": "core",
         "cuisine japonaise facile": "complementary",
+        "festivals japonais": "complementary",
+        "hébergement traditionnel japon": "complementary",
+        "japon sites historiques": "core",
+        "itinéraire japon 15 jours": "complementary",
         "visa japon france": "complementary",
-        "voyage tokyo tout inclus": "commercial",
-        "cuisine japonaise livre": "commercial",
+        "cuisine japonaise livre": "complementary",
         "culture japonaise traditionnelle": "complementary",
+        "visa japon algérie": "complementary",
         "visa japon maroc": "complementary",
-        "cuisine japonaise maison": "complementary",
-        "voyage tokyo prix": "commercial",
-        "voyage japon kyoto": "complementary",
-        "itinéraire japon": "core",
-        "saison voyage japon": "core",
-        "sites touristiques japon": "core",
-        "sécurité japon": "core",
-        "chemin de fer": "complementary",
+        "fete japonaise": "complementary",
+        "tokyo": "core",
+        "kyoto": "core",
+        "mont fuji": "core",
+        "shinkansen": "core",
+        "ryokan": "core",
+        "sushi": "core",
+        "temple bouddhiste": "core",
+        "onsen": "complementary",
+        "cerisier en fleurs": "complementary",
+        "passeport": "complementary",
+        "automobile": "doubtful",
+        "avion": "complementary",
+        "chemin de fer": "doubtful",
         "tourisme": "complementary",
         "guide de voyage": "complementary",
+        "tour du monde": "doubtful",
         "transport": "complementary",
         "voyagiste": "commercial",
+        "passager aérien": "doubtful",
         "agence de voyages": "commercial",
-        "exploration": "complementary",
-        "hébergement japonais en france": "doubtful",
-        "visa japon algerie": "doubtful"
+        "exploration": "doubtful"
     }
 }

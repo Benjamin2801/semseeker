@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "emergency plumber",
-        "plumbing services",
-        "drain cleaning",
         "leaky faucet repair",
-        "toilet installation",
-        "water heater repair",
+        "drain cleaning service",
+        "water heater installation",
         "pipe replacement",
-        "sewer line inspection"
+        "sewer line repair",
+        "plumbing inspection",
+        "toilet unclogging"
     ],
     "suggestions": {
         "amazon": [
@@ -33,31 +33,30 @@
             "plumber near me emergency",
             "plumber near me residential",
             "plumber near me cost",
-            "plumber near me rates",
             "plumber near me cheap",
+            "plumber near me rates",
             "plumber near me charges",
-            "plumber near me llc",
             "plumber near me availability",
+            "plumber near me llc",
             "plumber near me 24/7",
-            "plumber near me commercial",
-            "plumber near me cypress tx",
             "plumber near me free estimate",
-            "plumber near meriden",
-            "plumber near me llc midlothian va",
+            "plumber near me cypress tx",
+            "plumber near me phone number",
             "plumber near me richmond va",
+            "plumber near me llc midlothian va",
+            "plumber near merrifield",
             "plumber near me midlothian va",
-            "plumber near me buda tx",
-            "plumber near me sanford"
+            "plumber near me buda tx"
         ],
         "duckduckgo": [
             "plumber near me",
             "plumber near me reviews",
             "plumber near me emergency",
+            "plumber near me in granny",
+            "plumber near me in ballynearla",
             "plumber near me residential",
             "plumber near me cost",
-            "plumber near me rates",
-            "plumber near me charges",
-            "plumber near me llc"
+            "plumber near me rates"
         ],
         "google": [
             "plumber near me",
@@ -96,115 +95,47 @@
         "amazon": [
             [
                 0,
-                "plumbing services"
-            ],
-            [
-                0,
-                "sunroof drain cleaning tool"
-            ],
-            [
-                1,
-                "zip it drain cleaning tool"
-            ],
-            [
-                2,
-                "sun roof drain cleaning tool"
-            ],
-            [
-                3,
-                "drain cleaning tool"
-            ],
-            [
-                4,
-                "car drain cleaning brush"
-            ],
-            [
-                5,
-                "drain cleaning bladder"
-            ],
-            [
-                6,
-                "drain cleaning foam"
-            ],
-            [
-                7,
-                "drain cleaning machine"
-            ],
-            [
-                8,
-                "drain cleaning tablets"
-            ],
-            [
-                9,
-                "drain cleaning equipment"
-            ],
-            [
-                0,
                 "leaky faucet repair kit"
             ],
             [
-                1,
-                "leaky faucet repair"
-            ],
-            [
                 0,
-                "toilet installation kit"
+                "water heater installation kit"
             ],
             [
                 1,
-                "danco all in one toilet installation kit"
+                "tankless water heater installation kit"
             ],
             [
                 2,
-                "toilet installation tool"
+                "water heater installation"
             ],
             [
                 3,
-                "toilet installation jack"
+                "water heater installation kit with tank tee"
             ],
             [
                 4,
-                "toilet installation cart"
+                "water heater installation parts"
             ],
             [
                 5,
-                "toilet installation dolly"
+                "water heater installation sticker"
             ],
             [
                 6,
-                "toilet installation lift"
+                "water heater installation tools"
             ],
             [
                 7,
-                "toilet installation service"
+                "water heater installation blanket"
             ],
             [
                 8,
-                "toilet installation flange"
+                "water heater installation kit electric"
             ],
             [
                 9,
-                "toilet installation hardware"
-            ],
-            [
-                0,
-                "water heater repair kit"
-            ],
-            [
-                1,
-                "water heater repair"
-            ],
-            [
-                2,
-                "water heater repair kit gas"
-            ],
-            [
-                3,
-                "water heater repair parts"
-            ],
-            [
-                4,
-                "water heater repair book"
+                "water heater installation air duct tape"
             ],
             [
                 0,
@@ -232,23 +163,87 @@
             ],
             [
                 0,
-                "sewer line inspection camera"
+                "sewer line repair kit"
+            ],
+            [
+                0,
+                "plumbing inspection camera"
             ],
             [
                 1,
-                "sewer line inspection camera with digital locator"
+                "plumbing inspection mirror"
             ],
             [
                 2,
-                "sewer line inspection tools"
+                "plumbing inspection camera with light"
             ],
             [
                 3,
-                "sewer line inspection camera with digital locator 7mm cable"
+                "plumbing inspection cover"
             ],
             [
                 4,
-                "sewer line inspection camera 150 ft"
+                "plumbing inspection camera transmitter"
+            ],
+            [
+                5,
+                "plumbing inspection camera with locator"
+            ],
+            [
+                6,
+                "plumbing inspection camera endoscope"
+            ],
+            [
+                7,
+                "plumbing inspection camera waterproof"
+            ],
+            [
+                8,
+                "plumbing inspection tools"
+            ],
+            [
+                9,
+                "plumbing inspection camera vevor"
+            ],
+            [
+                0,
+                "poop knife for toilet unclogging"
+            ],
+            [
+                1,
+                "toilet unclogging"
+            ],
+            [
+                2,
+                "toilet unclogging liquid"
+            ],
+            [
+                3,
+                "toilet unclogging tool"
+            ],
+            [
+                4,
+                "toilet unclogging film"
+            ],
+            [
+                5,
+                "toilet unclogging product"
+            ],
+            [
+                6,
+                "toilet unclogging powder"
+            ],
+            [
+                7,
+                "toilet unclogging snake"
+            ],
+            [
+                8,
+                "toilet unclogging solution"
+            ],
+            [
+                9,
+                "toilet unclogging gun"
             ]
         ],
         "bing": [
@@ -258,11 +253,11 @@
             ],
             [
                 1,
-                "emergency plumbers in my area"
+                "emergency plumber"
             ],
             [
                 2,
-                "emergency plumber west palm beach dee maria"
+                "emergency plumbers in my area"
             ],
             [
                 3,
@@ -274,7 +269,7 @@
             ],
             [
                 5,
-                "emergency plumber"
+                "emergency plumbers pretoria east"
             ],
             [
                 6,
@@ -282,7 +277,7 @@
             ],
             [
                 7,
-                "emergency plumbers pretoria east"
+                "emergency plumber west palm beach dee maria"
             ],
             [
                 8,
@@ -294,263 +289,63 @@
             ],
             [
                 10,
-                "emergency plumber boca raton dee maria plumb"
-            ],
-            [
-                11,
                 "emergency plumber palm beach"
             ],
             [
-                12,
-                "emergency plumber kansas city"
+                11,
+                "emergency plumber boca raton dee maria plumb"
             ],
             [
-                13,
+                12,
                 "emergency plumber columbia sc"
             ],
             [
-                14,
-                "emergency plumber raleigh nc"
-            ],
-            [
-                15,
-                "emergency plumber kansas city coupons"
-            ],
-            [
-                16,
-                "emergency plumber corona ca"
-            ],
-            [
-                17,
-                "emergency plumber kansas city metro"
-            ],
-            [
-                18,
-                "emergency plumber andover"
-            ],
-            [
-                19,
-                "emergency plumber kansas city area"
-            ],
-            [
-                20,
-                "emergency plumber kansas city cost"
-            ],
-            [
-                21,
+                13,
                 "emergency plumber dallas"
             ],
             [
-                22,
-                "emergency plumber kansas city mo"
+                14,
+                "emergency plumber kansas city"
             ],
             [
-                23,
-                "emergency plumber kansas city ks"
-            ],
-            [
-                24,
+                15,
                 "emergency plumber portland"
             ],
             [
-                0,
-                "plumbing services"
-            ],
-            [
-                1,
-                "plumbing services near me"
-            ],
-            [
-                2,
-                "plumbing services near me reviews"
-            ],
-            [
-                3,
-                "plumbing services west palm beach dee maria"
-            ],
-            [
-                4,
-                "plumbing services list"
-            ],
-            [
-                5,
-                "plumbing services company"
-            ],
-            [
-                6,
-                "plumbing services naics code"
-            ],
-            [
-                7,
-                "plumbing services denver"
-            ],
-            [
-                8,
-                "plumbing services in new york city"
-            ],
-            [
-                9,
-                "plumbing services dallas"
-            ],
-            [
-                10,
-                "plumbing services kansas city"
-            ],
-            [
-                11,
-                "plumbing services phoenix"
-            ],
-            [
-                12,
-                "plumbing services austin"
-            ],
-            [
-                13,
-                "plumbing services concord nc"
-            ],
-            [
-                14,
-                "plumbing services lincoln ne"
-            ],
-            [
-                15,
-                "plumbing services in california"
-            ],
-            [
                 16,
-                "plumbing services monroe mi"
+                "emergency plumber andover"
             ],
             [
                 17,
-                "plumbing services dallas cheap"
+                "emergency plumber amarillo"
             ],
             [
                 18,
-                "plumbing services wichita ks"
+                "emergency plumber raleigh nc"
             ],
             [
                 19,
-                "plumbing services pittsburgh"
+                "emergency plumber dalhart"
             ],
             [
                 20,
-                "plumbing services truckee ca"
+                "emergency plumber san antonio"
             ],
             [
                 21,
-                "plumbing services in phoenix arizona"
+                "emergency plumber marion ia"
             ],
             [
                 22,
-                "plumbing services in des moines"
+                "emergency plumber oak creek"
             ],
             [
                 23,
-                "plumbing services los angeles area"
+                "emergency plumber seaford de"
             ],
             [
                 24,
-                "plumbing services san diego cost"
-            ],
-            [
-                0,
-                "drain cleaning"
-            ],
-            [
-                1,
-                "drain cleaning near me"
-            ],
-            [
-                2,
-                "drain cleaning machine"
-            ],
-            [
-                3,
-                "drain cleaning tools"
-            ],
-            [
-                4,
-                "drain cleaning services"
-            ],
-            [
-                5,
-                "drain cleaning bladder"
-            ],
-            [
-                6,
-                "drain cleaning brush"
-            ],
-            [
-                7,
-                "drain cleaning australia"
-            ],
-            [
-                8,
-                "drain cleaning company"
-            ],
-            [
-                9,
-                "drain cleaning tablets"
-            ],
-            [
-                10,
-                "drain cleaning gloves"
-            ],
-            [
-                11,
-                "drain cleaning australia youtube"
-            ],
-            [
-                12,
-                "drain cleaning los angeles jd air plumbing"
-            ],
-            [
-                13,
-                "drain cleaning services near me"
-            ],
-            [
-                14,
-                "drain cleaning sioux falls"
-            ],
-            [
-                15,
-                "drain cleaning spring"
-            ],
-            [
-                16,
-                "drain cleaning wichita ks"
-            ],
-            [
-                17,
-                "drain cleaning lubbock"
-            ],
-            [
-                18,
-                "drain cleaning seattle"
-            ],
-            [
-                19,
-                "drain cleaning milwaukee"
-            ],
-            [
-                20,
-                "drain cleaning omaha"
-            ],
-            [
-                21,
-                "drain cleaning san diego"
-            ],
-            [
-                22,
-                "drain cleaning dayton ohio"
-            ],
-            [
-                23,
-                "drain cleaning sacramento"
-            ],
-            [
-                24,
-                "drain cleaning wichita"
+                "emergency plumber marietta il"
             ],
             [
                 0,
@@ -574,187 +369,171 @@
             ],
             [
                 5,
-                "leaky faucet repair bathroom sink"
-            ],
-            [
-                6,
                 "leaky outdoor faucet repair"
             ],
             [
-                7,
+                6,
                 "leaky tub faucet repair"
             ],
             [
-                0,
-                "toilet installation"
-            ],
-            [
-                1,
-                "toilet installation cost"
-            ],
-            [
-                2,
-                "toilet installation near me"
-            ],
-            [
-                3,
-                "toilet installation guide"
-            ],
-            [
-                4,
-                "toilet installation kit"
-            ],
-            [
-                5,
-                "toilet installation diagram"
-            ],
-            [
-                6,
-                "toilet installation tips"
-            ],
-            [
                 7,
-                "toilet installation cost home depot"
-            ],
-            [
-                8,
-                "toilet installation near me reviews"
-            ],
-            [
-                9,
-                "toilet installation video"
-            ],
-            [
-                10,
-                "toilet installation gainesville fl"
-            ],
-            [
-                11,
-                "toilet installation bunnings"
-            ],
-            [
-                12,
-                "toilet installation saginaw mi"
-            ],
-            [
-                13,
-                "toilet installation system"
-            ],
-            [
-                14,
-                "toilet installation cost near me"
-            ],
-            [
-                15,
-                "toilet installation bonney lake wa"
-            ],
-            [
-                16,
-                "toilet installation seattle"
-            ],
-            [
-                17,
-                "toilet installation san antonio"
+                "leaky faucet handle repair"
             ],
             [
                 0,
-                "water heater repair near me"
+                "drain cleaning services"
             ],
             [
                 1,
-                "water heater repair"
+                "drain cleaning services near me"
             ],
             [
                 2,
-                "water heater repair los angeles 24/7"
+                "drain cleaning services south africa"
             ],
             [
                 3,
-                "water heater repair service"
+                "drain cleaning services near me coupons"
             ],
             [
                 4,
-                "water heater repair downey jd air plumbing"
+                "drain cleaning service north shields uk"
             ],
             [
                 5,
-                "water heater repair lakewood jd air plumbing"
+                "drain cleaning services near me reviews"
             ],
             [
                 6,
-                "water heater repair kansas city"
+                "drain cleaning services near me free estimate"
             ],
             [
                 7,
-                "water heater repair service near me"
+                "drain cleaning services near me emergency"
             ],
             [
                 8,
-                "water heater repair saginaw mi"
+                "drain cleaning service north shields offers"
             ],
             [
                 9,
-                "water heater repair pittsburgh"
+                "drain cleaning services near me cheap"
             ],
             [
                 10,
-                "water heater repair sacramento"
+                "drain cleaning services near me open now"
             ],
             [
                 11,
-                "water heater repair overland park"
+                "drain cleaning services near my location"
             ],
             [
                 12,
-                "water heater repair murrieta"
+                "drain cleaning service north shields 24/7"
             ],
             [
                 13,
-                "water heater repair milwaukee"
+                "drain cleaning services in denver"
+            ],
+            [
+                0,
+                "water heater installation"
+            ],
+            [
+                1,
+                "water heater installation cost"
+            ],
+            [
+                2,
+                "water heater installation near me"
+            ],
+            [
+                3,
+                "water heater installation kit"
+            ],
+            [
+                4,
+                "water heater installation cypress tx"
+            ],
+            [
+                5,
+                "water heater installation katy tx"
+            ],
+            [
+                6,
+                "water heater installation service near me"
+            ],
+            [
+                7,
+                "water heater installation kansas city"
+            ],
+            [
+                8,
+                "water heater installation canyon"
+            ],
+            [
+                9,
+                "water heater installation saginaw mi"
+            ],
+            [
+                10,
+                "water heater installation belfair"
+            ],
+            [
+                11,
+                "water heater installation poulsbo"
+            ],
+            [
+                12,
+                "water heater installation amarillo"
+            ],
+            [
+                13,
+                "water heater installation bainbridge island"
             ],
             [
                 14,
-                "water heater repair truckee ca"
+                "water heater installation murrieta"
             ],
             [
                 15,
-                "water heater repair billings mt"
+                "water heater installation seattle cost"
             ],
             [
                 16,
-                "water heater repair charlotte nc"
+                "water heater installation seattle coupons"
             ],
             [
                 17,
-                "water heater repair phoenix reviews"
+                "water heater installation seattle near me"
             ],
             [
                 18,
-                "water heater repair indianola ia"
+                "water heater installation seattle reviews"
             ],
             [
                 19,
-                "water heater repair san diego cost"
+                "water heater installation seattle service"
             ],
             [
                 20,
-                "water heater repair san diego yelp"
+                "water heater installation seattle tankless"
             ],
             [
                 21,
-                "water heater repair murfreesboro ar"
+                "water heater installation seattle companies"
             ],
             [
                 22,
-                "water heater repair chula vista best"
+                "water heater installation tampa"
             ],
             [
                 23,
-                "water heater repair chula vista cost"
+                "water heater installation code texas"
             ],
             [
                 24,
-                "water heater repair chula vista yelp"
+                "water heater installation las vegas"
             ],
             [
                 0,
@@ -770,39 +549,39 @@
             ],
             [
                 3,
-                "pipe replacement in home"
-            ],
-            [
-                4,
                 "pipe replacement without digging"
             ],
             [
+                4,
+                "pipe replacement in home"
+            ],
+            [
                 5,
-                "pipe replacement solutions"
-            ],
-            [
-                6,
-                "pipe replacement birmingham"
-            ],
-            [
-                7,
-                "pipe replacement tenders south africa"
-            ],
-            [
-                8,
                 "pipe replacement photo"
             ],
             [
-                9,
-                "pipe replacement service"
+                6,
+                "pipe replacement tenders south africa"
             ],
             [
-                10,
+                7,
                 "pipe replacement methods"
             ],
             [
-                11,
+                8,
+                "pipe replacement service"
+            ],
+            [
+                9,
                 "pipe replacement plumbers"
+            ],
+            [
+                10,
+                "pipe replacement solutions"
+            ],
+            [
+                11,
+                "pipe replacement birmingham"
             ],
             [
                 12,
@@ -810,55 +589,207 @@
             ],
             [
                 0,
-                "sewer line inspection camera"
+                "sewer line repair"
             ],
             [
                 1,
-                "sewer line inspection cost"
+                "sewer line repair near me"
             ],
             [
                 2,
-                "sewer line inspection"
+                "sewer line repair cost"
             ],
             [
                 3,
-                "sewer line inspection summit nj"
+                "sewer line repair near me reviews"
             ],
             [
                 4,
-                "sewer line inspection services near me"
+                "sewer line repair near me free estimate"
             ],
             [
                 5,
-                "sewer line inspection near me"
+                "sewer line repair near me cost"
             ],
             [
                 6,
-                "sewer line inspections dutchess county"
+                "sewer line repair diy"
             ],
             [
                 7,
-                "sewer line inspection companies"
+                "sewer line repair near me denver co"
             ],
             [
                 8,
-                "sewer line inspection near whitefish bay wi"
+                "sewer line repair denver"
             ],
             [
                 9,
-                "sewer line inspection video"
+                "sewer line repair near me 24/7"
             ],
             [
                 10,
-                "sewer line inspection report"
+                "sewer line repair near me cheap"
             ],
             [
                 11,
-                "sewer line inspection nj"
+                "sewer line repair kansas city"
             ],
             [
                 12,
-                "sewer line inspection camera rental near me"
+                "sewer line repair port angeles"
+            ],
+            [
+                13,
+                "sewer line repair colorado cost"
+            ],
+            [
+                14,
+                "sewer line repair colorado tips"
+            ],
+            [
+                15,
+                "sewer line repair indian land sc"
+            ],
+            [
+                16,
+                "sewer line repair indian trail nc"
+            ],
+            [
+                17,
+                "sewer line repair port angeles wa"
+            ],
+            [
+                18,
+                "sewer line repair colorado coupons"
+            ],
+            [
+                19,
+                "sewer line repair colorado methods"
+            ],
+            [
+                20,
+                "sewer line repair colorado options"
+            ],
+            [
+                21,
+                "sewer line repair colorado reviews"
+            ],
+            [
+                22,
+                "sewer line repair colorado warranty"
+            ],
+            [
+                23,
+                "sewer line repair colorado estimate"
+            ],
+            [
+                24,
+                "sewer line repair colorado companies"
+            ],
+            [
+                0,
+                "plumbing inspection"
+            ],
+            [
+                1,
+                "plumbing inspection checklist"
+            ],
+            [
+                2,
+                "plumbing inspection camera"
+            ],
+            [
+                3,
+                "plumbing inspection near me"
+            ],
+            [
+                4,
+                "plumbing inspection report"
+            ],
+            [
+                5,
+                "plumbing inspection nyc"
+            ],
+            [
+                6,
+                "plumbing inspection chamber"
+            ],
+            [
+                7,
+                "plumbing inspection escondido"
+            ],
+            [
+                8,
+                "plumbing inspection report template"
+            ],
+            [
+                9,
+                "plumbing inspection naperville il"
+            ],
+            [
+                10,
+                "plumbing inspection point"
+            ],
+            [
+                11,
+                "plumbing inspection mount isa house purchase"
+            ],
+            [
+                12,
+                "plumbing inspection portland or in line"
+            ],
+            [
+                13,
+                "plumbing inspections seattle"
+            ],
+            [
+                14,
+                "plumbing inspections city of houston"
+            ],
+            [
+                15,
+                "plumbing inspection clackamas county"
+            ],
+            [
+                0,
+                "toilet unclogging service near me reviews"
+            ],
+            [
+                1,
+                "toilet unclogging tools"
+            ],
+            [
+                2,
+                "toilet unclogging service"
+            ],
+            [
+                3,
+                "toilet unclogging products"
+            ],
+            [
+                4,
+                "toilet unclogging solution"
+            ],
+            [
+                5,
+                "toilet unclogging service near me"
+            ],
+            [
+                6,
+                "toilet unclogging service near me cost"
+            ],
+            [
+                7,
+                "unclogging toilet with dawn dish soap"
+            ],
+            [
+                8,
+                "unclogging toilet bowl"
+            ],
+            [
+                9,
+                "unclogging toilet drain"
             ]
         ],
         "duckduckgo": [
@@ -868,11 +799,11 @@
             ],
             [
                 1,
-                "emergency plumber clewer green"
+                "emergency plumber rotherhithe"
             ],
             [
                 2,
-                "emergency plumber dedworth"
+                "emergency plumber wapping"
             ],
             [
                 3,
@@ -880,83 +811,19 @@
             ],
             [
                 4,
-                "emergency plumbers in my area"
-            ],
-            [
-                5,
                 "emergency plumbers wiltshire"
             ],
             [
-                6,
+                5,
                 "emergency plumbers kilmarnock"
             ],
             [
-                7,
-                "emergency plumber west palm beach dee maria"
-            ],
-            [
-                0,
-                "plumbing services near me"
-            ],
-            [
-                1,
-                "plumbing services clewer green"
-            ],
-            [
-                2,
-                "plumbing services dedworth"
-            ],
-            [
-                3,
-                "plumbing services near me reviews"
-            ],
-            [
-                4,
-                "plumbing services"
-            ],
-            [
-                5,
-                "plumbing services west palm beach dee maria"
-            ],
-            [
                 6,
-                "plumbing services naics code"
+                "emergency plumbers pretoria east"
             ],
             [
                 7,
-                "plumbing services in new york city"
-            ],
-            [
-                0,
-                "drain cleaning"
-            ],
-            [
-                1,
-                "drain cleaning st luke's"
-            ],
-            [
-                2,
-                "drain cleaning broadgate"
-            ],
-            [
-                3,
-                "drain cleaning near me"
-            ],
-            [
-                4,
-                "drain cleaning machine"
-            ],
-            [
-                5,
-                "drain cleaning tools"
-            ],
-            [
-                6,
-                "drain cleaning brush"
-            ],
-            [
-                7,
-                "drain cleaning australia"
+                "emergency plumbers haverhill"
             ],
             [
                 0,
@@ -964,11 +831,11 @@
             ],
             [
                 1,
-                "leaky faucet repair prior's-land"
+                "leaky faucet repair temple bar"
             ],
             [
                 2,
-                "leaky faucet repair mount kennet"
+                "leaky faucet repair north dock"
             ],
             [
                 3,
@@ -988,71 +855,71 @@
             ],
             [
                 7,
-                "leaky faucet repair bathroom sink"
+                "leaky outdoor faucet repair"
             ],
             [
                 0,
-                "toilet installation"
+                "drain cleaning services"
             ],
             [
                 1,
-                "toilet installation clewer green"
+                "drain cleaning service prior's-land"
             ],
             [
                 2,
-                "toilet installation dedworth"
+                "drain cleaning service mount kennet"
             ],
             [
                 3,
-                "toilet installation cost"
+                "drain cleaning services near me"
             ],
             [
                 4,
-                "toilet installation near me"
+                "drain cleaning services south africa"
             ],
             [
                 5,
-                "toilet installation guide"
+                "drain cleaning services near me coupons"
             ],
             [
                 6,
-                "toilet installation kit"
+                "drain cleaning service north shields uk"
             ],
             [
                 7,
-                "toilet installation diagram"
+                "drain cleaning services near me reviews"
             ],
             [
                 0,
-                "water heater repair near me"
+                "water heater installation"
             ],
             [
                 1,
-                "water heater repair"
+                "water heater installation cost"
             ],
             [
                 2,
-                "water heater repair los angeles 24/7"
+                "water heater installation cypress tx"
             ],
             [
                 3,
-                "water heater repair downey jd air plumbing"
+                "water heater installation katy tx"
             ],
             [
                 4,
-                "water heater repair lakewood jd air plumbing"
+                "water heater installation service near me"
             ],
             [
                 5,
-                "water heater repair kansas city"
+                "water heater installation kansas city"
             ],
             [
                 6,
-                "water heater repair saginaw mi"
+                "water heater installation canyon"
             ],
             [
                 7,
-                "water heater repair overland park"
+                "water heater installation saginaw mi"
             ],
             [
                 0,
@@ -1068,101 +935,137 @@
             ],
             [
                 3,
-                "pipe replacement in home"
+                "pipe replacement marshes upper"
             ],
             [
                 4,
+                "pipe replacement mullagharlin"
+            ],
+            [
+                5,
                 "pipe replacement without digging"
             ],
             [
-                5,
-                "pipe replacement solutions"
-            ],
-            [
                 6,
-                "pipe replacement birmingham"
+                "pipe replacement in home"
             ],
             [
                 7,
-                "pipe replacement tenders south africa"
+                "pipe replacement photo"
             ],
             [
                 0,
-                "sewer line inspection"
+                "sewer line repair"
             ],
             [
                 1,
-                "sewer line inspection camera"
+                "sewer line repair cippenham"
             ],
             [
                 2,
-                "sewer line inspection cost"
+                "sewer line repair salt hill"
             ],
             [
                 3,
-                "sewer line inspection summit nj"
+                "sewer line repair near me"
             ],
             [
                 4,
-                "sewer line inspection services near me"
+                "sewer line repair near me reviews"
             ],
             [
                 5,
-                "sewer line inspection near me"
+                "sewer line repair near me free estimate"
             ],
             [
                 6,
-                "sewer line inspections dutchess county"
+                "sewer line repair near me cost"
             ],
             [
                 7,
-                "sewer line inspection companies"
+                "sewer line repair diy"
+            ],
+            [
+                0,
+                "plumbing inspection"
+            ],
+            [
+                1,
+                "plumbing inspection ecclesall"
+            ],
+            [
+                2,
+                "plumbing inspection sharrow"
+            ],
+            [
+                3,
+                "plumbing inspection checklist"
+            ],
+            [
+                4,
+                "plumbing inspection camera"
+            ],
+            [
+                5,
+                "plumbing inspection near me"
+            ],
+            [
+                6,
+                "plumbing inspection report"
+            ],
+            [
+                7,
+                "plumbing inspection nyc"
+            ],
+            [
+                0,
+                "toilet unclogging service near me reviews"
+            ],
+            [
+                1,
+                "toilet unclogging tools"
+            ],
+            [
+                2,
+                "toilet unclogging service"
+            ],
+            [
+                3,
+                "toilet unclogging products"
+            ],
+            [
+                4,
+                "toilet unclogging solution"
+            ],
+            [
+                5,
+                "toilet unclogging service near me"
+            ],
+            [
+                6,
+                "toilet unclogging service near me cost"
+            ],
+            [
+                7,
+                "unclogging toilet with dawn dish soap"
             ]
         ],
         "ebay": [
             [
                 0,
-                "drain cleaning machine"
+                "water heater installation kit"
             ],
             [
                 1,
-                "drain cleaning tool"
+                "gas water heater installation kit"
             ],
             [
                 2,
-                "drain cleaning cable"
+                "electric water heater installation kit"
             ],
             [
                 3,
-                "drain cleaning bladder"
-            ],
-            [
-                4,
-                "drain cleaning brush"
-            ],
-            [
-                5,
-                "drain cleaning machines tools"
-            ],
-            [
-                6,
-                "drain cleaning snake"
-            ],
-            [
-                7,
-                "drain cleaning machine 100 ft"
-            ],
-            [
-                8,
-                "drain cleaning"
-            ],
-            [
-                9,
-                "sunroof drain cleaning tool"
-            ],
-            [
-                0,
-                "water heater repair kit"
+                "tankless water heater installation kit"
             ],
             [
                 0,
@@ -1203,6 +1106,10 @@
             [
                 9,
                 "tobacco pipe replacement stem"
+            ],
+            [
+                0,
+                "plumbing inspection camera"
             ]
         ],
         "google": [
@@ -1248,86 +1155,6 @@
             ],
             [
                 0,
-                "plumbing services near me"
-            ],
-            [
-                1,
-                "plumbing services"
-            ],
-            [
-                2,
-                "plumbing services in my area"
-            ],
-            [
-                3,
-                "plumbing services inc"
-            ],
-            [
-                4,
-                "plumbing services cost"
-            ],
-            [
-                5,
-                "plumbing services for low income families"
-            ],
-            [
-                6,
-                "plumbing services nearby"
-            ],
-            [
-                7,
-                "plumbing services in texas"
-            ],
-            [
-                8,
-                "plumbing services list"
-            ],
-            [
-                9,
-                "plumbing services price list"
-            ],
-            [
-                0,
-                "drain cleaning near me"
-            ],
-            [
-                1,
-                "drain cleaning"
-            ],
-            [
-                2,
-                "drain cleaning bladder"
-            ],
-            [
-                3,
-                "drain cleaning tool"
-            ],
-            [
-                4,
-                "drain cleaning machine"
-            ],
-            [
-                5,
-                "drain cleaning service"
-            ],
-            [
-                6,
-                "drain cleaning brush"
-            ],
-            [
-                7,
-                "drain cleaning service near me"
-            ],
-            [
-                8,
-                "drain cleaning australia"
-            ],
-            [
-                9,
-                "drain cleaning tablets"
-            ],
-            [
-                0,
                 "leaky faucet repair"
             ],
             [
@@ -1368,83 +1195,83 @@
             ],
             [
                 0,
-                "toilet installation"
+                "drain cleaning service"
             ],
             [
                 1,
-                "toilet installation cost"
+                "drain cleaning service near me"
             ],
             [
                 2,
-                "toilet installation near me"
+                "drain cleaning service cost"
             ],
             [
                 3,
-                "toilet installation kit"
+                "drain cleaning services in my area"
             ],
             [
                 4,
-                "toilet installation diagram"
+                "drain cleaning service near me prices"
             ],
             [
                 5,
-                "toilet installation cost near me"
+                "drain cleaning services sheffield"
             ],
             [
                 6,
-                "toilet installation tools"
+                "drain cleaning services delhi"
             ],
             [
                 7,
-                "toilet installation home depot"
+                "drain cleaning service dubai"
             ],
             [
                 8,
-                "toilet installation labor cost"
+                "drain cleaning services toronto"
             ],
             [
                 9,
-                "toilet installation video"
+                "drain cleaning services calgary"
             ],
             [
                 0,
-                "water heater repair"
+                "water heater installation"
             ],
             [
                 1,
-                "water heater repair near me"
+                "water heater installation cost"
             ],
             [
                 2,
-                "water heater repair cost"
+                "water heater installation near me"
             ],
             [
                 3,
-                "water heater repair service near me"
+                "water heater installation kit"
             ],
             [
                 4,
-                "water heater repair service"
+                "water heater installation cost home depot"
             ],
             [
                 5,
-                "water heater repair kit"
+                "water heater installation diagram"
             ],
             [
                 6,
-                "water heater repairman"
+                "water heater installation cost near me"
             ],
             [
                 7,
-                "water heater repairman near me"
+                "water heater installation price"
             ],
             [
                 8,
-                "water heater repair parts"
+                "water heater installation kit home depot"
             ],
             [
                 9,
-                "water heater repair in my area"
+                "water heater installation labor cost"
             ],
             [
                 0,
@@ -1488,65 +1315,129 @@
             ],
             [
                 0,
-                "sewer line inspection"
+                "sewer line repair"
             ],
             [
                 1,
-                "sewer line inspection cost"
+                "sewer line repair near me"
             ],
             [
                 2,
-                "sewer line inspection camera"
+                "sewer line repair cost"
             ],
             [
                 3,
-                "sewer line inspection near me"
+                "sewer line repair companies"
             ],
             [
                 4,
-                "sewer line inspection camera rental"
+                "sewer line repair without digging"
             ],
             [
                 5,
-                "sewer line inspection report"
+                "sewer line repair sleeve"
             ],
             [
                 6,
-                "sewer line inspection nj"
+                "sewer line repair companies near me"
             ],
             [
                 7,
-                "sewer line inspection for home purchase"
+                "sewer line repair insurance"
             ],
             [
                 8,
-                "sewer line inspection when buying a house"
+                "sewer line repair indianapolis"
             ],
             [
                 9,
-                "sewer line inspection edmonton"
+                "sewer line repair kit"
+            ],
+            [
+                0,
+                "plumbing inspection"
+            ],
+            [
+                1,
+                "plumbing inspection camera"
+            ],
+            [
+                2,
+                "plumbing inspection cost"
+            ],
+            [
+                3,
+                "plumbing inspection near me"
+            ],
+            [
+                4,
+                "plumbing inspection checklist"
+            ],
+            [
+                5,
+                "plumbing inspection camera rental"
+            ],
+            [
+                6,
+                "plumbing inspection report"
+            ],
+            [
+                7,
+                "plumbing inspection for home purchase"
+            ],
+            [
+                8,
+                "plumbing inspection camera with locator"
+            ],
+            [
+                9,
+                "plumbing inspection report template"
+            ],
+            [
+                0,
+                "toilet unclogging tools"
+            ],
+            [
+                1,
+                "toilet unclogging liquid"
+            ],
+            [
+                2,
+                "toilet unclogging"
+            ],
+            [
+                3,
+                "toilet unclogging service"
+            ],
+            [
+                4,
+                "toilet unclogging products"
+            ],
+            [
+                5,
+                "toilet unclogging solution"
+            ],
+            [
+                6,
+                "toilet unclogging film"
+            ],
+            [
+                7,
+                "toilet unclogging chemical"
+            ],
+            [
+                8,
+                "toilet unclogging snake"
+            ],
+            [
+                9,
+                "toilet unclogging tips"
             ]
         ],
         "indeed": [
             [
                 0,
-                "plumbing service"
-            ],
-            [
-                1,
-                "plumbing service manager"
-            ],
-            [
-                2,
-                "plumbing service technician"
-            ],
-            [
-                0,
-                "drain cleaning"
-            ],
-            [
-                0,
-                "tile installation"
+                "plumbing inspector"
             ]
         ],
         "yahoo": [
@@ -1592,86 +1483,6 @@
             ],
             [
                 0,
-                "plumbing services near me"
-            ],
-            [
-                1,
-                "plumbing services"
-            ],
-            [
-                2,
-                "plumbing services in my area"
-            ],
-            [
-                3,
-                "plumbing services near my location"
-            ],
-            [
-                4,
-                "plumbing services list and prices"
-            ],
-            [
-                5,
-                "plumbing services near me reviews"
-            ],
-            [
-                6,
-                "plumbing services by gus"
-            ],
-            [
-                7,
-                "plumbing services indianapolis"
-            ],
-            [
-                8,
-                "plumbing services sacramento"
-            ],
-            [
-                9,
-                "plumbing services san jose ca"
-            ],
-            [
-                0,
-                "drain cleaning near me"
-            ],
-            [
-                1,
-                "drain cleaning"
-            ],
-            [
-                2,
-                "drain cleaning services near me"
-            ],
-            [
-                3,
-                "drain cleaning brush"
-            ],
-            [
-                4,
-                "drain cleaning machine"
-            ],
-            [
-                5,
-                "drain cleaning tools"
-            ],
-            [
-                6,
-                "drain cleaning with vinegar and baking soda"
-            ],
-            [
-                7,
-                "drain cleaning companies"
-            ],
-            [
-                8,
-                "drain cleaning bladder"
-            ],
-            [
-                9,
-                "drain cleaning australia"
-            ],
-            [
-                0,
                 "leaky faucet repair"
             ],
             [
@@ -1712,83 +1523,83 @@
             ],
             [
                 0,
-                "toilet installation"
+                "drain cleaning services near me"
             ],
             [
                 1,
-                "toilet installation instructions"
+                "drain cleaning service tulsa"
             ],
             [
                 2,
-                "toilet installation cost"
+                "drain cleaning service cost"
             ],
             [
                 3,
-                "toilet installation diagram"
+                "drain cleaning service hamilton ohio"
             ],
             [
                 4,
-                "toilet installation near me"
+                "drain cleaning service in san antonio"
             ],
             [
                 5,
-                "toilet installation kit"
+                "drain cleaning service missoula mt"
             ],
             [
                 6,
-                "toilet installation video"
+                "drain cleaning service madison wi"
             ],
             [
                 7,
-                "toilet installation and removal tool"
+                "drain cleaning service prices"
             ],
             [
                 8,
-                "toilet installation dimensions"
+                "drain cleaning service carlsbad"
             ],
             [
                 9,
-                "toilet installation cart with wheels"
+                "drain cleaning service anaheim"
             ],
             [
                 0,
-                "water heater repair"
+                "water heater installation"
             ],
             [
                 1,
-                "water heater repair near me"
+                "water heater installation cost"
             ],
             [
                 2,
-                "water heater repair service"
+                "water heater installation near me"
             ],
             [
                 3,
-                "water heater repair companies"
+                "water heater installation code requirements"
             ],
             [
                 4,
-                "water heater repair service near you"
+                "water heater installation cost estimator"
             ],
             [
                 5,
-                "water heater repair cost"
+                "water heater installation labor cost"
             ],
             [
                 6,
-                "water heater repair pilot light"
+                "water heater installation instructions"
             ],
             [
                 7,
-                "water heater repair parts"
+                "water heater installation diagram"
             ],
             [
                 8,
-                "water heater repairman near me"
+                "water heater installation price"
             ],
             [
                 9,
-                "water heater repair kit"
+                "water heater installation kit"
             ],
             [
                 0,
@@ -1832,129 +1643,129 @@
             ],
             [
                 0,
-                "sewer line inspection"
+                "sewer line repair cost"
             ],
             [
                 1,
-                "sewer line inspection near me"
+                "sewer line repair near me"
             ],
             [
                 2,
-                "sewer line inspection camera"
+                "sewer line repair without digging"
             ],
             [
                 3,
-                "sewer line inspection cost"
+                "sewer line repair & replacement"
             ],
             [
                 4,
-                "sewer line inspection pricing"
+                "sewer line repair city responsibility"
             ],
             [
                 5,
-                "sewer line inspection scope"
+                "sewer line repair insurance"
             ],
             [
                 6,
-                "sewer line inspection companies"
+                "sewer line repair companies"
             ],
             [
                 7,
-                "sewer line inspection los angeles"
+                "sewer line repair northridge"
             ],
             [
                 8,
-                "sewer line inspection elk grove"
+                "sewer line repair minneapolis"
             ],
             [
                 9,
-                "sewer line inspection procedure"
+                "sewer line repair responsibilities"
+            ],
+            [
+                0,
+                "plumbing inspection"
+            ],
+            [
+                1,
+                "plumbing inspection checklist free printable"
+            ],
+            [
+                2,
+                "plumbing inspection camera"
+            ],
+            [
+                3,
+                "plumbing inspection checklist"
+            ],
+            [
+                4,
+                "plumbing inspection report template"
+            ],
+            [
+                5,
+                "plumbing inspection cost"
+            ],
+            [
+                6,
+                "plumbing inspection near me"
+            ],
+            [
+                7,
+                "plumbing inspection report"
+            ],
+            [
+                8,
+                "plumbing inspection form"
+            ],
+            [
+                9,
+                "plumbing inspection certification"
+            ],
+            [
+                0,
+                "toilet unclogging products"
+            ],
+            [
+                1,
+                "toilet unclogging tools"
+            ],
+            [
+                2,
+                "toilet unclogging"
+            ],
+            [
+                3,
+                "toilet unclogging with plunger"
+            ],
+            [
+                4,
+                "toilet unclogging liquid"
+            ],
+            [
+                5,
+                "toilet unclogging service near me"
+            ],
+            [
+                6,
+                "toilet unclogging with baking soda and vinegar"
+            ],
+            [
+                7,
+                "toilet unclogging solution"
+            ],
+            [
+                8,
+                "toilet unclogging tips"
+            ],
+            [
+                9,
+                "toilet unclogging chemical"
             ]
         ],
         "youtube": [
             [
                 0,
                 "emergency plumber"
-            ],
-            [
-                0,
-                "plumbing services"
-            ],
-            [
-                1,
-                "plumbing services in building"
-            ],
-            [
-                2,
-                "plumbing services civil engineering 1st semester"
-            ],
-            [
-                3,
-                "plumbing services civil engineering 1st semester important questions"
-            ],
-            [
-                4,
-                "plumbing services civil engineering"
-            ],
-            [
-                5,
-                "plumbing services most important questions"
-            ],
-            [
-                6,
-                "plumbing services civil engineering 6th semester"
-            ],
-            [
-                7,
-                "urbanclap plumbing services"
-            ],
-            [
-                8,
-                "smartpipe plumbing services"
-            ],
-            [
-                9,
-                "balaji plumbing services"
-            ],
-            [
-                0,
-                "drain cleaning australia"
-            ],
-            [
-                1,
-                "drain cleaning"
-            ],
-            [
-                2,
-                "drain cleaning bladder"
-            ],
-            [
-                3,
-                "drain cleaning foam"
-            ],
-            [
-                4,
-                "drain cleaning business"
-            ],
-            [
-                5,
-                "drain cleaning machine"
-            ],
-            [
-                6,
-                "drain cleaning satisfying"
-            ],
-            [
-                7,
-                "drain cleaning tools"
-            ],
-            [
-                8,
-                "drain cleaning australia youtube"
-            ],
-            [
-                9,
-                "drain cleaning australia grease trap"
             ],
             [
                 0,
@@ -1998,83 +1809,55 @@
             ],
             [
                 0,
-                "toilet installation"
+                "drain cleaning service"
             ],
             [
                 1,
-                "toilet installation on tile"
+                "drainage cleaning services"
             ],
             [
                 2,
-                "toilet installation new construction"
-            ],
-            [
-                3,
-                "toilet installation wax ring"
-            ],
-            [
-                4,
-                "toilet installation jack"
-            ],
-            [
-                5,
-                "toilet installation cart"
-            ],
-            [
-                6,
-                "toilet installation instructions"
-            ],
-            [
-                7,
-                "toilet installation tools"
-            ],
-            [
-                8,
-                "toilet installation flange"
-            ],
-            [
-                9,
-                "toilet installation on concrete"
+                "drain cleaning company"
             ],
             [
                 0,
-                "water heater repair"
+                "water heater installation"
             ],
             [
                 1,
-                "water heater repair electric"
+                "water heater installation gas"
             ],
             [
                 2,
-                "water heater repair gas"
+                "water heater installation electric"
             ],
             [
                 3,
-                "water heater repair leak"
+                "water heater installation with expansion tank"
             ],
             [
                 4,
-                "water heater repair kit"
+                "water heater installation with pex"
             ],
             [
                 5,
-                "water heater repair at home"
+                "water heater installation kit"
             ],
             [
                 6,
-                "water heater repair cost"
+                "water heater installation cost"
             ],
             [
                 7,
-                "water heater repair telugu"
+                "water heater installation mobile home"
             ],
             [
                 8,
-                "water heater repair tamil"
+                "water heater installation pvc"
             ],
             [
                 9,
-                "water heater repair near me"
+                "water heater installation rheem"
             ],
             [
                 0,
@@ -2118,43 +1901,123 @@
             ],
             [
                 0,
-                "sewer line inspection"
+                "sewer line repair"
             ],
             [
                 1,
-                "sewer line inspection camera"
+                "sewer line repair under slab"
             ],
             [
                 2,
-                "sewer camera inspection"
+                "sewer line repair without digging"
             ],
             [
                 3,
-                "sewer camera inspection training"
+                "sewer pipe repair"
             ],
             [
                 4,
-                "sewer pipe inspection"
+                "sewer drain repair"
             ],
             [
                 5,
-                "sewer line testing procedure"
+                "sewer pipe repair in basement"
             ],
             [
                 6,
-                "sewer line testing"
+                "sewer pipe repair wobbly life"
             ],
             [
                 7,
-                "cctv sewer line inspection"
+                "sewer line replacement"
             ],
             [
                 8,
-                "sewer line scope inspection"
+                "sewer line replacement under slab"
             ],
             [
                 9,
-                "sewer line video inspection"
+                "sewer line replacement cost"
+            ],
+            [
+                0,
+                "plumbing inspection"
+            ],
+            [
+                1,
+                "plumbing inspection fails"
+            ],
+            [
+                2,
+                "plumbing inspection camera"
+            ],
+            [
+                3,
+                "plumbing inspection water test"
+            ],
+            [
+                4,
+                "plumbing inspection checklist"
+            ],
+            [
+                5,
+                "rough plumbing inspection"
+            ],
+            [
+                6,
+                "underground plumbing inspection"
+            ],
+            [
+                7,
+                "plumbing home inspection"
+            ],
+            [
+                8,
+                "final plumbing inspection test"
+            ],
+            [
+                9,
+                "plumbing final inspection"
+            ],
+            [
+                0,
+                "toilet unclogging"
+            ],
+            [
+                1,
+                "toilet unclogging tools"
+            ],
+            [
+                2,
+                "toilet unclogging videos"
+            ],
+            [
+                3,
+                "toilet unclogging techniques"
+            ],
+            [
+                4,
+                "toilet unclogging hacks"
+            ],
+            [
+                5,
+                "toilet unclogging asmr"
+            ],
+            [
+                6,
+                "unclogging toilet with dish soap"
+            ],
+            [
+                7,
+                "unclogging toilet with plunger"
+            ],
+            [
+                8,
+                "unclogging toilet with baking soda and vinegar"
+            ],
+            [
+                9,
+                "unclogging toilet drain pipe"
             ]
         ]
     },
@@ -2162,7 +2025,7 @@
         "articles": [
             {
                 "title": "Plumber",
-                "views": 5080,
+                "views": 5429,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.538
@@ -2176,40 +2039,17 @@
     },
     "pages": [
         {
-            "group": "Drain Cleaning",
-            "title": "drain cleaning",
-            "intent": "informational",
-            "keywords": [
-                "drain cleaning",
-                "sewer line inspection camera",
-                "sewer line inspection",
-                "drainage",
-                "drain cleaning machine",
-                "drain cleaning tool",
-                "drain cleaning bladder"
-            ]
-        },
-        {
-            "group": "Drain Cleaning",
-            "title": "drain cleaning near me",
+            "group": "Plumbing Services",
+            "title": "pipe replacement",
             "intent": "transactional",
             "keywords": [
-                "drain cleaning near me",
-                "drain unblocking"
-            ]
-        },
-        {
-            "group": "Plumbing Services",
-            "title": "plumbing services",
-            "intent": "commercial",
-            "keywords": [
-                "plumbing services",
+                "pipe replacement",
+                "pipe replacement cost",
+                "pipe repair",
                 "pipefitter",
                 "piping",
-                "plumbing",
-                "plumbing services near me",
-                "plumber near me free estimate",
-                "plumber near me residential"
+                "pipe replacement without digging",
+                "pipe stem replacement"
             ]
         },
         {
@@ -2218,87 +2058,126 @@
             "intent": "transactional",
             "keywords": [
                 "emergency plumber",
+                "plumber near me residential",
+                "gas plumbing",
                 "plumbing emergency",
                 "plumber near me emergency",
                 "emergency plumbers in my area"
             ]
         },
         {
-            "group": "Water Heater & Toilet Services",
-            "title": "toilet installation",
-            "intent": "commercial",
+            "group": "Plumbing Services",
+            "title": "sewer line repair",
+            "intent": "transactional",
             "keywords": [
-                "toilet installation",
-                "toilet installation kit",
-                "toilet installation cost",
-                "toilet installation near me"
+                "sewer line repair",
+                "sewer line repair cost",
+                "sewer repair",
+                "sewer line repair near me",
+                "sewer line repair without digging"
             ]
         },
         {
-            "group": "Water Heater & Toilet Services",
-            "title": "water heater repair",
+            "group": "Plumbing Services",
+            "title": "drain cleaning services",
+            "intent": "transactional",
+            "keywords": [
+                "drain cleaning services",
+                "drain cleaning",
+                "drain cleaning services near me"
+            ]
+        },
+        {
+            "group": "Plumbing Repairs",
+            "title": "toilet unclogging",
             "intent": "informational",
             "keywords": [
-                "water heater repair",
-                "water heater repair near me",
-                "water heater repair kit"
+                "toilet unclogging",
+                "toilet repair",
+                "toilet unclogging tools",
+                "toilet unclogging products",
+                "toilet unclogging liquid"
             ]
         },
         {
-            "group": "Pipe Repair & Replacement",
-            "title": "pipe replacement",
-            "intent": "commercial",
-            "keywords": [
-                "pipe replacement",
-                "pipe stem replacement",
-                "pipe replacement cost",
-                "pipe replacement without digging"
-            ]
-        },
-        {
-            "group": "Pipe Repair & Replacement",
+            "group": "Plumbing Repairs",
             "title": "leaky faucet repair",
             "intent": "informational",
             "keywords": [
                 "leaky faucet repair",
+                "faucet installation",
                 "leaky faucet repair kit"
+            ]
+        },
+        {
+            "group": "Plumbing Installations",
+            "title": "water heater installation",
+            "intent": "commercial",
+            "keywords": [
+                "water heater installation",
+                "water heater installation near me",
+                "water heater",
+                "water heater installation kit",
+                "water heater installation cost"
+            ]
+        },
+        {
+            "group": "Plumbing Inspections",
+            "title": "plumbing inspection",
+            "intent": "informational",
+            "keywords": [
+                "plumbing inspection",
+                "leak detection",
+                "list of tools and equipment",
+                "maintenance",
+                "plumbing inspection camera",
+                "plumbing inspection checklist"
             ]
         }
     ],
     "categories": {
-        "plumbing services": "core",
-        "drain cleaning": "core",
+        "plumbing inspection camera": "core",
+        "water heater installation": "core",
+        "pipe replacement": "commercial",
+        "toilet unclogging tools": "core",
+        "water heater installation kit": "core",
         "leaky faucet repair": "commercial",
-        "water heater repair": "commercial",
-        "pipe replacement": "core",
-        "sewer line inspection camera": "complementary",
-        "sewer line inspection": "complementary",
-        "toilet installation": "core",
-        "drain cleaning machine": "complementary",
-        "drain cleaning tool": "complementary",
-        "drain cleaning bladder": "complementary",
+        "plumbing inspection": "core",
         "emergency plumber": "commercial",
+        "toilet unclogging": "core",
         "plumber near me emergency": "commercial",
-        "water heater repair kit": "commercial",
-        "plumbing services near me": "core",
-        "water heater repair near me": "commercial",
-        "drain cleaning near me": "commercial",
-        "pipe stem replacement": "complementary",
+        "water heater installation cost": "commercial",
+        "drain cleaning services": "commercial",
+        "sewer line repair": "commercial",
+        "pipe replacement without digging": "commercial",
+        "pipe stem replacement": "commercial",
         "leaky faucet repair kit": "commercial",
-        "pipe replacement without digging": "complementary",
-        "toilet installation kit": "complementary",
+        "plumbing inspection checklist": "complementary",
+        "toilet unclogging products": "commercial",
+        "drain cleaning services near me": "commercial",
         "pipe replacement cost": "commercial",
-        "plumber near me free estimate": "commercial",
-        "toilet installation cost": "commercial",
+        "sewer line repair near me": "commercial",
+        "sewer line repair cost": "commercial",
         "plumber near me residential": "commercial",
+        "water heater installation near me": "core",
+        "toilet unclogging liquid": "core",
         "emergency plumbers in my area": "commercial",
-        "toilet installation near me": "commercial",
-        "drain unblocking": "commercial",
+        "sewer line repair without digging": "commercial",
+        "drain cleaning": "commercial",
+        "water heater": "complementary",
+        "pipe repair": "commercial",
+        "leak detection": "complementary",
+        "sewer repair": "commercial",
+        "toilet repair": "commercial",
+        "faucet installation": "complementary",
+        "gas plumbing": "commercial",
         "plumbing emergency": "commercial",
-        "plumbing": "core",
-        "drainage": "complementary",
-        "pipefitter": "complementary",
-        "piping": "complementary",
-        "sewer line inspection cost": "doubtful"
+        "sewage": "doubtful",
+        "drainage": "doubtful",
+        "maintenance": "complementary",
+        "list of tools and equipment": "complementary",
+        "pipefitter": "commercial",
+        "piping": "commercial",
+        "plumber near me free estimate": "doubtful"
     }
 }

@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "prix iphone 16 pro",
-        "sortie iphone 16 pro",
         "caractéristiques iphone 16 pro",
-        "comparatif iphone 16 pro",
-        "étui iphone 16 pro",
-        "écran iphone 16 pro",
+        "prix iphone 16 pro",
+        "date de sortie iphone 16 pro",
         "caméra iphone 16 pro",
-        "batterie iphone 16 pro"
+        "batterie iphone 16 pro",
+        "écran iphone 16 pro",
+        "comparatif iphone 16 pro vs iphone 15 pro",
+        "précommande iphone 16 pro"
     ],
     "suggestions": {
         "amazon": [
@@ -41,13 +41,13 @@
             "iphone 16 pro max",
             "iphone 16 pro reconditionné",
             "iphone 16 pro 256 go",
-            "iphone 16 pro refurbished",
-            "iphone 16 pro back market",
             "iphone 16 pro max prix",
+            "iphone 16 pro back market",
             "iphone 16 pro prix",
             "iphone 16 pro apple",
-            "iphone 16 pro fnac",
+            "iphone 16 pro max reconditionné",
             "iphone 16 pro max 256gb",
+            "iphone 16 pro max apple",
             "iphone 16 pro max back market"
         ],
         "duckduckgo": [
@@ -55,10 +55,10 @@
             "iphone 16 pro max",
             "iphone 16 pro reconditionné",
             "iphone 16 pro 256 go",
-            "iphone 16 pro refurbished",
             "iphone 16 pro back market",
             "iphone 16 pro prix",
-            "iphone 16 pro apple"
+            "iphone 16 pro apple",
+            "iphone 16 pro max 256gb"
         ],
         "ebay": [
             "iphone 16 pro",
@@ -105,8 +105,8 @@
             "iphone 16 pro ou 17",
             "iphone 16 pro max vs iphone 17",
             "iphone 16 pro vs 15 pro",
-            "iphone 16 pro max vs samsung s25 ultra",
-            "iphone 16 pro noir"
+            "iphone 16 pro max vs iphone 15 pro max",
+            "iphone 16 pro max vs samsung s25 ultra"
         ]
     },
     "related": {
@@ -129,50 +129,6 @@
             ],
             [
                 0,
-                "étui iphone 16 pro max"
-            ],
-            [
-                1,
-                "étui iphone 16 pro"
-            ],
-            [
-                0,
-                "protection écran iphone 16 pro"
-            ],
-            [
-                1,
-                "écran iphone 16 pro"
-            ],
-            [
-                2,
-                "écran iphone 16 pro max"
-            ],
-            [
-                3,
-                "écran iphone 16 pro max oled"
-            ],
-            [
-                4,
-                "écran iphone 16 pro max original"
-            ],
-            [
-                5,
-                "écran iphone 16 pro oled"
-            ],
-            [
-                6,
-                "écran iphone 16 pro original"
-            ],
-            [
-                7,
-                "écran iphone 16 pro max remplacement"
-            ],
-            [
-                8,
-                "écran iphone 16 pro max noir 120 hz soft oled"
-            ],
-            [
-                0,
                 "caméra iphone 16 pro"
             ],
             [
@@ -189,11 +145,11 @@
             ],
             [
                 2,
-                "batterie iphone 16 pro max original"
+                "batterie iphone 16 pro max apple"
             ],
             [
                 3,
-                "batterie iphone 16 pro max apple"
+                "batterie iphone 16 pro max original"
             ],
             [
                 4,
@@ -210,105 +166,45 @@
             [
                 7,
                 "batterie iphone 16 promax"
+            ],
+            [
+                0,
+                "protection écran iphone 16 pro"
+            ],
+            [
+                1,
+                "écran iphone 16 pro"
+            ],
+            [
+                2,
+                "écran iphone 16 pro max"
+            ],
+            [
+                3,
+                "écran iphone 16 pro max original"
+            ],
+            [
+                4,
+                "écran iphone 16 pro max oled"
+            ],
+            [
+                5,
+                "écran iphone 16 pro oled"
+            ],
+            [
+                6,
+                "écran iphone 16 pro original"
+            ],
+            [
+                7,
+                "écran iphone 16 pro max remplacement"
+            ],
+            [
+                8,
+                "écran iphone 16 pro max noir 120 hz soft oled"
             ]
         ],
         "bing": [
-            [
-                0,
-                "prix iphone 16 pro"
-            ],
-            [
-                1,
-                "prix iphone 16 pro max"
-            ],
-            [
-                2,
-                "prix iphone 16 pro max maroc"
-            ],
-            [
-                3,
-                "prix iphone 16 pro 256 go"
-            ],
-            [
-                4,
-                "prix iphone 16 pro max tunisie"
-            ],
-            [
-                5,
-                "prix iphone 16 pro maroc"
-            ],
-            [
-                6,
-                "prix iphone 16 pro tunisie"
-            ],
-            [
-                7,
-                "prix iphone 16 pro max france"
-            ],
-            [
-                8,
-                "prix iphone 16 pro max algérie"
-            ],
-            [
-                9,
-                "prix iphone 16 pro 128 go"
-            ],
-            [
-                10,
-                "prix iphone 16 pro france"
-            ],
-            [
-                11,
-                "prix iphone 18 pro france"
-            ],
-            [
-                0,
-                "sortie iphone 16 pro max"
-            ],
-            [
-                1,
-                "sortie iphone 16 pro"
-            ],
-            [
-                2,
-                "date de sortie iphone 16 pro"
-            ],
-            [
-                3,
-                "sortie iphone 18 pro prix"
-            ],
-            [
-                4,
-                "date de sortie iphone 16 pro max"
-            ],
-            [
-                5,
-                "sortie iphone 18 pro prix france"
-            ],
-            [
-                6,
-                "sortie iphone 18 pro max belgique"
-            ],
-            [
-                7,
-                "iphone 16 prix de sortie"
-            ],
-            [
-                8,
-                "sortie iphone 16 date"
-            ],
-            [
-                9,
-                "date de sortie iphone 16"
-            ],
-            [
-                10,
-                "sortie iphone 15 pro"
-            ],
-            [
-                11,
-                "année de sortie iphone 16"
-            ],
             [
                 0,
                 "caractéristiques iphone 16 pro"
@@ -359,87 +255,183 @@
             ],
             [
                 0,
-                "comparatif iphone 16 pro et 17 pro"
+                "prix iphone 16 pro"
             ],
             [
                 1,
-                "comparatif iphone 16 pro et 17"
+                "prix iphone 16 pro max"
             ],
             [
                 2,
-                "comparatif iphone 16 pro et 18 pro"
+                "prix iphone 16 pro 256 go"
             ],
             [
                 3,
-                "comparatif iphone 16 pro"
+                "prix iphone 16 pro max maroc"
             ],
             [
                 4,
-                "comparatif iphone 16 pro max"
+                "prix iphone 16 pro max tunisie"
             ],
             [
                 5,
-                "comparatif iphone 16 pro vs 17"
+                "prix iphone 16 pro maroc"
             ],
             [
                 6,
-                "comparatif iphone 16 pro et iphone 17 pro"
+                "prix iphone 16 pro max france"
             ],
             [
                 7,
-                "comparatif iphone 16 pro et 15 pro"
+                "prix iphone 16 pro tunisie"
             ],
             [
                 8,
-                "comparatif iphone 16 pro max et 17 pro max"
+                "prix iphone 16 pro max algérie"
             ],
             [
                 9,
-                "comparatif iphone 16 pro et iphone 17"
+                "prix iphone 16 pro france"
             ],
             [
                 10,
-                "comparatif iphone 16 pro et 16 pro max"
+                "prix iphone 16 pro max apple"
             ],
             [
                 11,
-                "comparatif iphone 16 pro et iphone 15 pro"
+                "prix iphone 18 pro france"
             ],
             [
                 0,
-                "etui iphone 16 pro"
+                "date de sortie iphone 16 pro"
             ],
             [
                 1,
-                "etui iphone 16 pro apple"
+                "date de sortie iphone 16 pro max"
             ],
             [
                 2,
-                "etui iphone 16 pro max apple"
+                "date de sortie de l iphone 16 pro max"
             ],
             [
                 3,
-                "etui iphone 16 pro magsafe"
+                "date de sortie de iphone 16"
             ],
             [
                 4,
-                "etui iphone 16 pro guess"
+                "iphone 16 date de sortie"
             ],
             [
                 5,
-                "etui iphone 16 pro amazon"
+                "date de sortie de l'iphone 16"
             ],
             [
                 6,
-                "etui iphone 16 pro oryginalne"
+                "iphone 16 date de sortie prix"
             ],
             [
                 7,
-                "etui iphone 16 pro max magsafe"
+                "sortie iphone 16 date"
             ],
             [
                 8,
-                "etui iphone 16 pro max"
+                "iphone 16 date de sortie en france"
+            ],
+            [
+                9,
+                "iphone 16 pro et iphone 16"
+            ],
+            [
+                10,
+                "iphone 16 prix de sortie"
+            ],
+            [
+                11,
+                "sortie de l'iphone 16"
+            ],
+            [
+                0,
+                "caméra iphone 16 pro"
+            ],
+            [
+                1,
+                "caméra iphone 16 pro max avant"
+            ],
+            [
+                2,
+                "camera iphone 16 protector"
+            ],
+            [
+                3,
+                "camara iphone 16 pro vs 17 pro"
+            ],
+            [
+                4,
+                "iphone 16 pro camera"
+            ],
+            [
+                5,
+                "camera iphone 16 pro max"
+            ],
+            [
+                6,
+                "protection caméra iphone 16 pro"
+            ],
+            [
+                7,
+                "protection caméra iphone 16"
+            ],
+            [
+                8,
+                "iphone 16 pro camera specs"
+            ],
+            [
+                0,
+                "batterie iphone 16 pro"
+            ],
+            [
+                1,
+                "batterie iphone 16 pro max"
+            ],
+            [
+                2,
+                "batterie iphone 16 pro apple"
+            ],
+            [
+                3,
+                "batterie iphone 16 pro mah"
+            ],
+            [
+                4,
+                "batterie iphone 16 pro max capacité"
+            ],
+            [
+                5,
+                "batterie iphone 16 pro max mah"
+            ],
+            [
+                6,
+                "neue batterie iphone 16 pro"
+            ],
+            [
+                7,
+                "iphone 16 pro autonomie batterie"
+            ],
+            [
+                8,
+                "batterie pour iphone 16"
+            ],
+            [
+                9,
+                "taille batterie iphone 16 pro max"
+            ],
+            [
+                10,
+                "iphone 16 pro max batterie neuve"
+            ],
+            [
+                11,
+                "changement batterie iphone 16 pro max"
             ],
             [
                 0,
@@ -491,154 +483,102 @@
             ],
             [
                 0,
-                "caméra iphone 16 pro"
+                "comparaison iphone 15 pro et 16 pro"
             ],
             [
                 1,
-                "caméra iphone 16 pro max avant"
+                "comparatif iphone 15 pro et 16"
             ],
             [
                 2,
-                "camera iphone 16 protector"
+                "comparateur iphone 15 pro et 16 pro"
             ],
             [
                 3,
-                "camara iphone 16 pro vs 17 pro"
+                "comparaison iphone 15 pro et iphone 16"
             ],
             [
                 4,
-                "iphone 16 pro camera"
+                "comparer iphone 16 et iphone 16 pro"
             ],
             [
                 5,
-                "camera iphone 16 pro max"
+                "différence iphone 16 et iphone 16 pro"
             ],
             [
                 6,
-                "protection caméra iphone 16 pro"
+                "comparatif iphone 16 et 16 pro"
             ],
             [
                 7,
-                "protection caméra iphone 16"
+                "différence entre iphone 15 pro et 16"
             ],
             [
                 8,
-                "iphone 16 pro camera specs"
-            ],
-            [
-                0,
-                "batterie iphone 16 pro"
-            ],
-            [
-                1,
-                "batterie iphone 16 pro max"
-            ],
-            [
-                2,
-                "batterie iphone 16 pro mah"
-            ],
-            [
-                3,
-                "batterie iphone 16 pro apple"
-            ],
-            [
-                4,
-                "batterie iphone 16 pro max capacité"
-            ],
-            [
-                5,
-                "batterie iphone 16 pro max mah"
-            ],
-            [
-                6,
-                "neue batterie iphone 16 pro"
-            ],
-            [
-                7,
-                "iphone 16 pro autonomie batterie"
-            ],
-            [
-                8,
-                "batterie pour iphone 16"
+                "comparatif iphone 16 pro"
             ],
             [
                 9,
-                "taille batterie iphone 16 pro max"
+                "comparer iphone 15 et iphone 15 pro"
             ],
             [
                 10,
-                "iphone 16 pro max batterie neuve"
+                "comparaison iphone 15 pro et 16"
             ],
             [
                 11,
-                "changement batterie iphone 16 pro max"
+                "comparatif iphone 15 pro"
+            ],
+            [
+                0,
+                "précommande iphone 16 pro max"
+            ],
+            [
+                1,
+                "précommande iphone 18 pro max"
+            ],
+            [
+                2,
+                "précommande iphone 18 pro"
+            ],
+            [
+                3,
+                "précommande iphone 18 pro 2026"
+            ],
+            [
+                4,
+                "précommande iphone 18 pro max fnac"
+            ],
+            [
+                5,
+                "précommande iphone 17 pro"
+            ],
+            [
+                6,
+                "iphone 16 pro et iphone 16"
+            ],
+            [
+                7,
+                "iphone 16 pro ou 16 pro max"
+            ],
+            [
+                8,
+                "iphone 16 ou 16 pro"
+            ],
+            [
+                9,
+                "iphone 16 pro ou 17 pro"
+            ],
+            [
+                10,
+                "iphone 16 et 16 pro comparatif"
+            ],
+            [
+                11,
+                "précommande iphone 17 pro max"
             ]
         ],
         "duckduckgo": [
-            [
-                0,
-                "prix iphone 16 pro max"
-            ],
-            [
-                1,
-                "prix iphone 16 pro"
-            ],
-            [
-                2,
-                "prix iphone 16 pro max maroc"
-            ],
-            [
-                3,
-                "prix iphone 16 pro 256 go"
-            ],
-            [
-                4,
-                "prix iphone 16 pro max tunisie"
-            ],
-            [
-                5,
-                "prix iphone 16 pro maroc"
-            ],
-            [
-                6,
-                "prix iphone 16 pro tunisie"
-            ],
-            [
-                7,
-                "prix iphone 16 pro max france"
-            ],
-            [
-                0,
-                "sortie iphone 16 pro"
-            ],
-            [
-                1,
-                "sortie iphone 16 pro max"
-            ],
-            [
-                2,
-                "sortie iphone 18 pro prix"
-            ],
-            [
-                3,
-                "sortie iphone 18 pro prix france"
-            ],
-            [
-                4,
-                "sortie iphone 18 pro max belgique"
-            ],
-            [
-                5,
-                "date de sortie iphone 16 pro"
-            ],
-            [
-                6,
-                "date de sortie iphone 16 pro max"
-            ],
-            [
-                7,
-                "iphone 16 prix de sortie"
-            ],
             [
                 0,
                 "caractéristiques iphone 16 pro"
@@ -673,67 +613,131 @@
             ],
             [
                 0,
-                "comparatif iphone 16 pro et 17 pro"
+                "prix iphone 16 pro"
             ],
             [
                 1,
-                "comparatif iphone 16 pro et 17"
+                "prix iphone 16 pro max"
             ],
             [
                 2,
-                "comparatif iphone 16 pro et 18 pro"
+                "prix iphone 16 pro 256 go"
             ],
             [
                 3,
-                "comparatif iphone 16 pro"
+                "prix iphone 16 pro max maroc"
             ],
             [
                 4,
-                "comparatif iphone 16 pro max"
+                "prix iphone 16 pro max tunisie"
             ],
             [
                 5,
-                "comparatif iphone 16 pro vs 17"
+                "prix iphone 16 pro maroc"
             ],
             [
                 6,
-                "comparatif iphone 16 pro et iphone 17 pro"
+                "prix iphone 16 pro max france"
             ],
             [
                 7,
-                "comparatif iphone 16 pro et 15 pro"
+                "prix iphone 16 pro tunisie"
             ],
             [
                 0,
-                "etui iphone 16 pro"
+                "date de sortie iphone 16 pro"
             ],
             [
                 1,
-                "etui iphone 16 pro apple"
+                "date de sortie iphone 16 pro max"
             ],
             [
                 2,
-                "etui iphone 16 pro max apple"
+                "date de sortie de l iphone 16 pro max"
             ],
             [
                 3,
-                "etui iphone 16 pro magsafe"
+                "date de sortie de iphone 16"
             ],
             [
                 4,
-                "etui iphone 16 pro guess"
+                "iphone 16 date de sortie"
             ],
             [
                 5,
-                "etui iphone 16 pro amazon"
+                "date de sortie de l'iphone 16"
             ],
             [
                 6,
-                "etui iphone 16 pro oryginalne"
+                "iphone 16 date de sortie prix"
             ],
             [
                 7,
-                "etui iphone 16 pro max magsafe"
+                "sortie iphone 16 date"
+            ],
+            [
+                0,
+                "caméra iphone 16 pro"
+            ],
+            [
+                1,
+                "caméra iphone 16 pro max avant"
+            ],
+            [
+                2,
+                "camera iphone 16 protector"
+            ],
+            [
+                3,
+                "camara iphone 16 pro vs 17 pro"
+            ],
+            [
+                4,
+                "iphone 16 pro camera"
+            ],
+            [
+                5,
+                "camera iphone 16 pro max"
+            ],
+            [
+                6,
+                "protection caméra iphone 16 pro"
+            ],
+            [
+                7,
+                "protection caméra iphone 16"
+            ],
+            [
+                0,
+                "batterie iphone 16 pro"
+            ],
+            [
+                1,
+                "batterie iphone 16 pro max"
+            ],
+            [
+                2,
+                "batterie iphone 16 pro apple"
+            ],
+            [
+                3,
+                "batterie iphone 16 pro mah"
+            ],
+            [
+                4,
+                "batterie iphone 16 pro max capacité"
+            ],
+            [
+                5,
+                "batterie iphone 16 pro max mah"
+            ],
+            [
+                6,
+                "neue batterie iphone 16 pro"
+            ],
+            [
+                7,
+                "iphone 16 pro autonomie batterie"
             ],
             [
                 0,
@@ -769,67 +773,67 @@
             ],
             [
                 0,
-                "caméra iphone 16 pro"
+                "comparaison iphone 15 pro et 16 pro"
             ],
             [
                 1,
-                "caméra iphone 16 pro max avant"
+                "comparatif iphone 15 pro et 16"
             ],
             [
                 2,
-                "camera iphone 16 protector"
+                "comparateur iphone 15 pro et 16 pro"
             ],
             [
                 3,
-                "camara iphone 16 pro vs 17 pro"
+                "comparaison iphone 15 pro et iphone 16"
             ],
             [
                 4,
-                "iphone 16 pro camera"
+                "comparer iphone 16 et iphone 16 pro"
             ],
             [
                 5,
-                "camera iphone 16 pro max"
+                "différence iphone 16 et iphone 16 pro"
             ],
             [
                 6,
-                "protection caméra iphone 16 pro"
+                "comparatif iphone 16 et 16 pro"
             ],
             [
                 7,
-                "protection caméra iphone 16"
+                "différence entre iphone 15 pro et 16"
             ],
             [
                 0,
-                "batterie iphone 16 pro"
+                "précommande iphone 16 pro max"
             ],
             [
                 1,
-                "batterie iphone 16 pro max"
+                "précommande iphone 18 pro max"
             ],
             [
                 2,
-                "batterie iphone 16 pro mah"
+                "précommande iphone 18 pro"
             ],
             [
                 3,
-                "batterie iphone 16 pro apple"
+                "précommande iphone 18 pro 2026"
             ],
             [
                 4,
-                "batterie iphone 16 pro max capacité"
+                "précommande iphone 18 pro max fnac"
             ],
             [
                 5,
-                "batterie iphone 16 pro max mah"
+                "précommande iphone 17 pro"
             ],
             [
                 6,
-                "neue batterie iphone 16 pro"
+                "iphone 16 pro et iphone 16"
             ],
             [
                 7,
-                "iphone 16 pro autonomie batterie"
+                "iphone 16 pro ou 16 pro max"
             ]
         ],
         "ebay": [
@@ -843,86 +847,6 @@
             ]
         ],
         "google": [
-            [
-                0,
-                "prix iphone 16 pro"
-            ],
-            [
-                1,
-                "prix iphone 16 pro max"
-            ],
-            [
-                2,
-                "prix iphone 16 pro neuf"
-            ],
-            [
-                3,
-                "prix iphone 16 pro max neuf"
-            ],
-            [
-                4,
-                "prix iphone 16 pro 256 go neuf"
-            ],
-            [
-                5,
-                "prix iphone 16 pro max en france"
-            ],
-            [
-                6,
-                "prix iphone 16 pro reconditionné"
-            ],
-            [
-                7,
-                "prix iphone 16 pro a sa sortie"
-            ],
-            [
-                8,
-                "prix iphone 16 pro occasion"
-            ],
-            [
-                9,
-                "prix iphone 16 pro max occasion"
-            ],
-            [
-                0,
-                "sortie iphone 16 pro"
-            ],
-            [
-                1,
-                "sortie iphone 16 pro max"
-            ],
-            [
-                2,
-                "sortie iphone 16 pro date"
-            ],
-            [
-                3,
-                "sortie iphone 16 pro prix"
-            ],
-            [
-                4,
-                "sortie iphone 16 pro max prix"
-            ],
-            [
-                5,
-                "sortie iphone 16 pro max date"
-            ],
-            [
-                6,
-                "sortie iphone 16 pro france"
-            ],
-            [
-                7,
-                "lancement iphone 16 pro max"
-            ],
-            [
-                8,
-                "lancement iphone 16 pro"
-            ],
-            [
-                9,
-                "annee sortie iphone 16 pro"
-            ],
             [
                 0,
                 "caractéristiques iphone 16 pro"
@@ -965,123 +889,51 @@
             ],
             [
                 0,
-                "comparatif iphone 16 pro et 17"
+                "prix iphone 16 pro"
             ],
             [
                 1,
-                "comparatif iphone 16 pro max et 17 pro max"
+                "prix iphone 16 pro max"
             ],
             [
                 2,
-                "comparatif iphone 16 pro et 18 pro"
+                "prix iphone 16 pro neuf"
             ],
             [
                 3,
-                "comparatif iphone 16 pro et 16 pro max"
+                "prix iphone 16 pro max neuf"
             ],
             [
                 4,
-                "comparatif iphone 16 pro"
+                "prix iphone 16 pro 256 go neuf"
             ],
             [
                 5,
-                "comparatif iphone 16 pro et 15 pro"
+                "prix iphone 16 pro max en france"
             ],
             [
                 6,
-                "comparatif iphone 16 pro et 17e"
+                "prix iphone 16 pro reconditionné"
             ],
             [
                 7,
-                "comparatif iphone 16 pro max et 18 pro max"
+                "prix iphone 16 pro a sa sortie"
             ],
             [
                 8,
-                "comparatif iphone 16 pro vs 17 pro"
+                "prix iphone 16 pro occasion"
             ],
             [
                 9,
-                "comparatif iphone 16 pro max et 15 pro max"
+                "prix iphone 16 pro max occasion"
             ],
             [
                 0,
-                "étui iphone 16 pro max"
+                "date de sortie iphone 16 pro"
             ],
             [
                 1,
-                "étui iphone 16 pro"
-            ],
-            [
-                2,
-                "etui iphone 16 pro guess"
-            ],
-            [
-                3,
-                "etui iphone 16 pro oryginalne"
-            ],
-            [
-                4,
-                "etui iphone 16 pro magsafe"
-            ],
-            [
-                5,
-                "etui iphone 16 pro media expert"
-            ],
-            [
-                6,
-                "etui iphone 16 pro max guess"
-            ],
-            [
-                7,
-                "iphone 16 pro etui przezroczyste"
-            ],
-            [
-                8,
-                "etui iphone 16 pro allegro"
-            ],
-            [
-                9,
-                "etui iphone 16 pro max magsafe"
-            ],
-            [
-                0,
-                "écran iphone 16 pro"
-            ],
-            [
-                1,
-                "écran iphone 16 pro max"
-            ],
-            [
-                2,
-                "écran iphone 16 pro original"
-            ],
-            [
-                3,
-                "écran iphone 16 pro max original"
-            ],
-            [
-                4,
-                "écran iphone 16 pro max apple"
-            ],
-            [
-                5,
-                "écran iphone 16 pro max prix"
-            ],
-            [
-                6,
-                "écran iphone 16 pro prix"
-            ],
-            [
-                7,
-                "écran iphone 16 pro réparation"
-            ],
-            [
-                8,
-                "ecran iphone 16 pro oled"
-            ],
-            [
-                9,
-                "ecran iphone 16 pro taille"
+                "date de sortie iphone 16 pro max"
             ],
             [
                 0,
@@ -1162,9 +1014,113 @@
             [
                 9,
                 "batterie iphone 16 pro apple"
+            ],
+            [
+                0,
+                "écran iphone 16 pro"
+            ],
+            [
+                1,
+                "écran iphone 16 pro max"
+            ],
+            [
+                2,
+                "écran iphone 16 pro original"
+            ],
+            [
+                3,
+                "écran iphone 16 pro max original"
+            ],
+            [
+                4,
+                "écran iphone 16 pro max apple"
+            ],
+            [
+                5,
+                "écran iphone 16 pro max prix"
+            ],
+            [
+                6,
+                "écran iphone 16 pro prix"
+            ],
+            [
+                7,
+                "écran iphone 16 pro réparation"
+            ],
+            [
+                8,
+                "ecran iphone 16 pro oled"
+            ],
+            [
+                9,
+                "ecran iphone 16 pro taille"
+            ],
+            [
+                0,
+                "comparatif iphone 16 pro vs 15 pro"
+            ],
+            [
+                1,
+                "comparatif iphone 16 pro max vs 15 pro max"
+            ],
+            [
+                2,
+                "iphone 16 pro compare iphone 15 pro"
+            ],
+            [
+                3,
+                "iphone 16 pro compare iphone 15 pro max"
+            ],
+            [
+                0,
+                "precommande iphone 16 pro max"
+            ],
+            [
+                1,
+                "precommande iphone 16 pro"
+            ],
+            [
+                2,
+                "acheter iphone 16 pro max"
+            ],
+            [
+                3,
+                "acheter iphone 16 pro"
+            ],
+            [
+                4,
+                "acheter iphone 16 pro neuf"
+            ],
+            [
+                5,
+                "acheter iphone 16 pro max neuf"
+            ],
+            [
+                6,
+                "acheter iphone 16 pro max en plusieurs fois"
+            ],
+            [
+                7,
+                "achat iphone 16 pro reconditionné"
+            ],
+            [
+                8,
+                "acheter iphone 16 pro en plusieurs fois"
+            ],
+            [
+                9,
+                "acheter iphone 16 pro max en plusieurs fois sans frais"
             ]
         ],
         "yahoo": [
+            [
+                0,
+                "caractéristiques iphone 16 pro"
+            ],
+            [
+                1,
+                "caractéristiques iphone 16 pro max"
+            ],
             [
                 0,
                 "prix iphone 16 pro max 2024"
@@ -1207,55 +1163,19 @@
             ],
             [
                 0,
-                "sortie iphone 16 pro max 2024"
+                "date de sortie iphone 16 pro max 2024"
             ],
             [
                 1,
-                "sortie iphone 16 pro max prix"
+                "date de sortie iphone 16 pro max prix"
             ],
             [
                 2,
-                "sortie iphone 16 pro max neuf"
+                "date de sortie iphone 16 pro max neuf"
             ],
             [
                 3,
-                "sortie iphone 16 pro reconditionné"
-            ],
-            [
-                0,
-                "caractéristiques iphone 16 pro"
-            ],
-            [
-                1,
-                "caractéristiques iphone 16 pro max"
-            ],
-            [
-                0,
-                "comparatif iphone 16 et 16 pro"
-            ],
-            [
-                0,
-                "étui iphone 16 pro max 2024"
-            ],
-            [
-                1,
-                "étui iphone 16 pro max prix"
-            ],
-            [
-                2,
-                "étui iphone 16 pro max neuf"
-            ],
-            [
-                3,
-                "étui iphone 16 pro reconditionné"
-            ],
-            [
-                0,
-                "fond d'ecran iphone 16 pro max"
-            ],
-            [
-                1,
-                "image d'un ecran iphone 16 pro max avec un fond vert"
+                "date de sortie iphone 16 pro reconditionné"
             ],
             [
                 0,
@@ -1276,9 +1196,57 @@
             [
                 0,
                 "batterie interne iphone 16 pro"
+            ],
+            [
+                0,
+                "fond d'ecran iphone 16 pro max"
+            ],
+            [
+                1,
+                "image d'un ecran iphone 16 pro max avec un fond vert"
+            ],
+            [
+                0,
+                "comparatif iphone 16 pro vs iphone 15 pro max"
+            ],
+            [
+                1,
+                "comparatif iphone 16 pro vs iphone 15 pro prix"
+            ],
+            [
+                2,
+                "comparatif iphone 16 pro vs iphone 15 pro neuf"
+            ],
+            [
+                3,
+                "comparatif iphone 16 pro vs iphone 15 pro reconditionné"
+            ],
+            [
+                0,
+                "pré commande iphone 16 pro max 2024"
+            ],
+            [
+                1,
+                "pré commande iphone 16 pro max prix"
+            ],
+            [
+                2,
+                "pré commande iphone 16 pro neuf"
+            ],
+            [
+                3,
+                "pré commande iphone 16 pro max neuf"
             ]
         ],
         "youtube": [
+            [
+                0,
+                "caracteristique iphone 16 pro max"
+            ],
+            [
+                1,
+                "caracteristique iphone 16 pro"
+            ],
             [
                 0,
                 "prix iphone 16 pro max"
@@ -1314,134 +1282,6 @@
             [
                 8,
                 "iphone 16 pro max prix algerie 2025"
-            ],
-            [
-                0,
-                "caracteristique iphone 16 pro max"
-            ],
-            [
-                1,
-                "caracteristique iphone 16 pro"
-            ],
-            [
-                0,
-                "comparatif iphone 16 pro et 17 pro"
-            ],
-            [
-                1,
-                "comparatif iphone 16 pro max et 17 pro max"
-            ],
-            [
-                2,
-                "comparatif iphone 16 pro"
-            ],
-            [
-                3,
-                "comparatif iphone 16 pro max et samsung s25 ultra"
-            ],
-            [
-                4,
-                "comparaison iphone 16 pro et 17"
-            ],
-            [
-                5,
-                "comparaison iphone 16 pro max et samsung s24 ultra"
-            ],
-            [
-                6,
-                "comparaison iphone 16 pro max et samsung s25 ultra camera"
-            ],
-            [
-                7,
-                "comparatif iphone 16 et 15 pro"
-            ],
-            [
-                8,
-                "compare iphone 16 vs 15 pro"
-            ],
-            [
-                9,
-                "comparatif iphone 14 pro et 16 pro"
-            ],
-            [
-                0,
-                "etui iphone 16 pro"
-            ],
-            [
-                1,
-                "etui iphone 16 pro max"
-            ],
-            [
-                2,
-                "protection iphone 16 pro max"
-            ],
-            [
-                3,
-                "protection iphone 16 pro"
-            ],
-            [
-                4,
-                "coque iphone 16 pro"
-            ],
-            [
-                5,
-                "coque iphone 16 pro max"
-            ],
-            [
-                6,
-                "pochette iphone 16 pro max"
-            ],
-            [
-                7,
-                "coque iphone 16 pro rhinoshield"
-            ],
-            [
-                8,
-                "case iphone 16 pro max"
-            ],
-            [
-                9,
-                "case iphone 16 pro"
-            ],
-            [
-                0,
-                "ecran iphone 16 pro max"
-            ],
-            [
-                1,
-                "ecran noir iphone 16 pro max"
-            ],
-            [
-                2,
-                "fond ecran iphone 16 pro max"
-            ],
-            [
-                3,
-                "ecran veille iphone 16 pro max"
-            ],
-            [
-                4,
-                "change screen iphone 16 pro max"
-            ],
-            [
-                5,
-                "screen video iphone 16 pro max"
-            ],
-            [
-                6,
-                "yellow screen iphone 16 pro max"
-            ],
-            [
-                7,
-                "enregistrement d'écran iphone 16 pro max"
-            ],
-            [
-                8,
-                "screen iphone 16 pro max"
-            ],
-            [
-                9,
-                "screen iphone 16 pro"
             ],
             [
                 0,
@@ -1522,6 +1362,58 @@
             [
                 9,
                 "battery health iphone 16 pro max"
+            ],
+            [
+                0,
+                "ecran iphone 16 pro max"
+            ],
+            [
+                1,
+                "ecran noir iphone 16 pro max"
+            ],
+            [
+                2,
+                "fond ecran iphone 16 pro max"
+            ],
+            [
+                3,
+                "ecran veille iphone 16 pro max"
+            ],
+            [
+                4,
+                "change screen iphone 16 pro max"
+            ],
+            [
+                5,
+                "screen video iphone 16 pro max"
+            ],
+            [
+                6,
+                "yellow screen iphone 16 pro max"
+            ],
+            [
+                7,
+                "enregistrement d'écran iphone 16 pro max"
+            ],
+            [
+                8,
+                "screen iphone 16 pro max"
+            ],
+            [
+                9,
+                "screen iphone 16 pro"
+            ],
+            [
+                0,
+                "compare iphone 16 pro vs 15 pro"
+            ],
+            [
+                0,
+                "acheter iphone 16 pro max"
+            ],
+            [
+                1,
+                "acheter iphone 16 pro"
             ]
         ]
     },
@@ -1529,14 +1421,14 @@
         "articles": [
             {
                 "title": "IPhone 18 Pro",
-                "views": 3275,
-                "counted": true,
+                "views": 3321,
+                "counted": false,
                 "fromConcept": false,
                 "coverage": 0.818
             },
             {
                 "title": "IPhone 16",
-                "views": 2725,
+                "views": 2806,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.727
@@ -1553,7 +1445,7 @@
             "keywords": [
                 "caracteristique iphone 16 pro max",
                 "iphone 16 pro max",
-                "sortie iphone 16 pro max",
+                "iphone 16 pro max 2024",
                 "ecran iphone 16 pro max",
                 "batterie iphone 16 pro max",
                 "caméra iphone 16 pro max"
@@ -1565,10 +1457,12 @@
             "intent": "informational",
             "keywords": [
                 "caractéristiques iphone 16 pro",
+                "5g",
                 "charge rapide",
                 "design titane",
+                "face id",
                 "ios 18",
-                "processeur a18",
+                "processeur a17",
                 "résistance ip68",
                 "batterie iphone 16 pro",
                 "batterie 4000mah",
@@ -1584,10 +1478,20 @@
             "intent": "commercial",
             "keywords": [
                 "prix iphone 16 pro",
-                "iphone 16 pro neuf",
-                "iphone 16 pro 256 go",
-                "mémoire 256go",
-                "prix iphone 16 pro neuf"
+                "prix iphone 16 pro neuf",
+                "prix iphone 16 pro 256 go neuf",
+                "iphone 16 pro 256 go"
+            ]
+        },
+        {
+            "group": "Achat",
+            "title": "acheter iphone 16 pro max",
+            "intent": "transactional",
+            "keywords": [
+                "acheter iphone 16 pro max",
+                "acheter iphone 16 pro",
+                "iphone 16 pro max neuf",
+                "précommande iphone 16 pro max"
             ]
         },
         {
@@ -1596,46 +1500,24 @@
             "intent": "commercial",
             "keywords": [
                 "iphone 16 pro max prix",
-                "iphone 16 pro max neuf",
-                "prix iphone 16 pro max en france"
+                "prix iphone 16 pro max en france",
+                "prix iphone 16 pro max maroc"
+            ]
+        },
+        {
+            "group": "Comparaisons",
+            "title": "iphone 16 pro vs 17 pro",
+            "intent": "commercial",
+            "keywords": [
+                "iphone 16 pro vs 17 pro"
             ]
         },
         {
             "group": "Accessoires",
-            "title": "etui iphone 16 pro",
+            "title": "coque iphone 16 pro",
             "intent": "commercial",
             "keywords": [
-                "etui iphone 16 pro",
-                "coque iphone 16 pro",
-                "fond d'ecran iphone 16 pro max"
-            ]
-        },
-        {
-            "group": "Accessoires",
-            "title": "étui iphone 16 pro max",
-            "intent": "commercial",
-            "keywords": [
-                "étui iphone 16 pro max",
-                "coque iphone 16 pro max"
-            ]
-        },
-        {
-            "group": "Comparatifs",
-            "title": "comparatif iphone 16 pro",
-            "intent": "commercial",
-            "keywords": [
-                "comparatif iphone 16 pro",
-                "comparatif iphone 16 pro et 17 pro",
-                "iphone 17",
-                "comparatif iphone 16 pro et 17"
-            ]
-        },
-        {
-            "group": "Comparatifs",
-            "title": "comparatif iphone 16 pro max et 17 pro max",
-            "intent": "commercial",
-            "keywords": [
-                "comparatif iphone 16 pro max et 17 pro max"
+                "coque iphone 16 pro"
             ]
         }
     ],
@@ -1649,34 +1531,34 @@
         "caméra iphone 16 pro": "core",
         "caractéristiques iphone 16 pro": "core",
         "écran iphone 16 pro": "core",
-        "etui iphone 16 pro": "commercial",
         "caracteristique iphone 16 pro max": "core",
         "batterie iphone 16 pro max": "core",
         "caméra iphone 16 pro max": "core",
-        "étui iphone 16 pro max": "commercial",
         "iphone 16 pro 256 go": "commercial",
         "prix iphone 16 pro neuf": "commercial",
-        "comparatif iphone 16 pro": "commercial",
-        "coque iphone 16 pro": "commercial",
-        "comparatif iphone 16 pro et 17 pro": "commercial",
-        "comparatif iphone 16 pro max et 17 pro max": "commercial",
-        "iphone 16 pro neuf": "commercial",
-        "comparatif iphone 16 pro et 17": "commercial",
-        "sortie iphone 16 pro max": "complementary",
-        "fond d'ecran iphone 16 pro max": "complementary",
-        "coque iphone 16 pro max": "complementary",
+        "précommande iphone 16 pro max": "commercial",
+        "acheter iphone 16 pro max": "commercial",
         "prix iphone 16 pro max en france": "commercial",
-        "processeur a18": "core",
+        "acheter iphone 16 pro": "commercial",
+        "iphone 16 pro vs 17 pro": "complementary",
+        "prix iphone 16 pro 256 go neuf": "commercial",
+        "coque iphone 16 pro": "commercial",
+        "iphone 16 pro max 2024": "complementary",
+        "prix iphone 16 pro max maroc": "commercial",
+        "processeur a17": "core",
         "écran oled": "core",
         "caméra 48mp": "core",
         "batterie 4000mah": "core",
         "charge rapide": "complementary",
         "résistance ip68": "complementary",
-        "ios 18": "complementary",
         "design titane": "core",
-        "mémoire 256go": "core",
-        "iphone 17": "complementary",
+        "ios 18": "complementary",
+        "face id": "complementary",
+        "5g": "complementary",
         "iphone 16 pro reconditionné": "doubtful",
-        "sortie iphone 16 pro": "doubtful"
+        "date de sortie iphone 16 pro": "doubtful",
+        "iphone 16 pro neuf": "doubtful",
+        "date de sortie iphone 16 pro max": "doubtful",
+        "fond d'ecran iphone 16 pro max": "doubtful"
     }
 }

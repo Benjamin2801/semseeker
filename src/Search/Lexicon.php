@@ -8,7 +8,7 @@ final class Lexicon
 {
     public const PAGE_CUES = [
         'definition' => ['definition', 'c est quoi', 'qu est ce', 'signification', 'definir', 'meaning', 'what is', 'define'],
-        'howto' => ['comment', 'tuto', 'tutoriel', 'fabriquer', 'soi meme', 'reparer', 'regler', 'nettoyer', 'how to', 'diy', 'tutorial', 'fix'],
+        'howto' => ['comment', 'tuto', 'tutoriel', 'fabriquer', 'soi meme', 'reparer', 'regler', 'nettoyer', 'recette', 'how to', 'diy', 'tutorial', 'fix', 'recipe'],
         'question' => ['pourquoi', 'quand', 'combien', 'faut il', 'est ce que', 'quel', 'quelle', 'quels', 'quelles', 'why', 'when', 'how much', 'should', 'which'],
         'regulation' => ['obligation', 'obligatoire', 'loi', 'norme', 'normes', 'reglementation', 'decret', 'law', 'regulation', 'mandatory', 'compliance'],
         'news' => ['date', '20\d\d', 'actualite', 'actu', 'nouveau', 'nouvelle', 'nouveaute', 'annonce', 'sortie', 'lancement', 'report', 'news', 'latest', 'release', 'announcement', 'update'],

@@ -15,7 +15,13 @@
     "failed": [],
     "concepts": [
         "comparateur assurance emprunteur",
-        "déléégation assurance emprunteur"
+        "garanties assurance emprunteur",
+        "déléguer assurance emprunteur",
+        "couverture prêt immobilier",
+        "risques aggravés assurance",
+        "coût assurance emprunteur",
+        "questionnaire médical assurance",
+        "résiliation assurance emprunteur"
     ],
     "suggestions": {
         "amazon": [
@@ -26,13 +32,13 @@
             "assurance emprunteur",
             "assurance emprunteur agipi",
             "assurance emprunteur meilleurtaux",
+            "assurance emprunteur sogecap",
             "assurance emprunteur credit agricole",
             "assurance emprunteur maif",
-            "assurance emprunteur sogecap",
             "assurance emprunteur prêt immobilier",
             "assurance emprunteur macif",
             "assurance emprunteur comparatif",
-            "assurance emprunteur generali",
+            "assurance emprunteur axa",
             "assurance emprunteur groupama"
         ],
         "duckduckgo": [
@@ -105,23 +111,63 @@
             ],
             [
                 4,
-                "comparateur assurance emprunteur ade"
-            ],
-            [
-                5,
                 "comparateur assurance emprunteur magnolia"
             ],
             [
+                5,
+                "comparateur assurance emprunteur ade"
+            ],
+            [
                 0,
-                "délégation assurance emprunteur"
+                "garanties assurance emprunteur"
+            ],
+            [
+                0,
+                "assurance risques aggravés"
+            ],
+            [
+                0,
+                "coût assurance emprunteur"
             ],
             [
                 1,
-                "délégation assurance emprunteur sci"
+                "coût assurance emprunt immobilier"
+            ],
+            [
+                0,
+                "questionnaire médical assurance emprunteur"
+            ],
+            [
+                1,
+                "questionnaire médical assurance"
             ],
             [
                 2,
-                "délégation d'assurance emprunteur"
+                "questionnaire médical assurance prêt"
+            ],
+            [
+                3,
+                "questionnaire medical assurance emprunteur"
+            ],
+            [
+                4,
+                "assurance vie sans questionnaire medical"
+            ],
+            [
+                0,
+                "résiliation assurance emprunteur"
+            ],
+            [
+                1,
+                "résiliation assurance emprunteur crédit conso"
+            ],
+            [
+                2,
+                "résiliation assurance emprunteur loi lemoine"
+            ],
+            [
+                3,
+                "résiliation assurance emprunteur sci"
             ]
         ],
         "duckduckgo": [
@@ -143,23 +189,63 @@
             ],
             [
                 4,
-                "comparateur assurance emprunteur ade"
-            ],
-            [
-                5,
                 "comparateur assurance emprunteur magnolia"
             ],
             [
+                5,
+                "comparateur assurance emprunteur ade"
+            ],
+            [
                 0,
-                "délégation assurance emprunteur"
+                "garanties assurance emprunteur"
+            ],
+            [
+                0,
+                "assurance risques aggravés"
+            ],
+            [
+                0,
+                "coût assurance emprunteur"
             ],
             [
                 1,
-                "délégation assurance emprunteur sci"
+                "coût assurance emprunt immobilier"
+            ],
+            [
+                0,
+                "questionnaire médical assurance emprunteur"
+            ],
+            [
+                1,
+                "questionnaire médical assurance"
             ],
             [
                 2,
-                "délégation d'assurance emprunteur"
+                "questionnaire médical assurance prêt"
+            ],
+            [
+                3,
+                "questionnaire medical assurance emprunteur"
+            ],
+            [
+                4,
+                "assurance vie sans questionnaire medical"
+            ],
+            [
+                0,
+                "résiliation assurance emprunteur"
+            ],
+            [
+                1,
+                "résiliation assurance emprunteur crédit conso"
+            ],
+            [
+                2,
+                "résiliation assurance emprunteur loi lemoine"
+            ],
+            [
+                3,
+                "résiliation assurance emprunteur sci"
             ]
         ],
         "google": [
@@ -205,35 +291,171 @@
             ],
             [
                 0,
-                "délégation assurance emprunteur"
+                "garanties assurance emprunteur"
             ],
             [
                 1,
-                "délégation assurance emprunteur loi"
+                "garantie itt assurance emprunteur"
             ],
             [
                 2,
-                "délégation assurance emprunteur sci"
+                "garantie ipp assurance emprunteur"
+            ],
+            [
+                0,
+                "delegation assurance emprunteur"
+            ],
+            [
+                1,
+                "delegation assurance emprunteur sci"
+            ],
+            [
+                2,
+                "delegation assurance emprunteur pret professionnel"
             ],
             [
                 3,
-                "délégation assurance emprunteur c est quoi"
+                "loi delegation assurance emprunteur"
+            ],
+            [
+                0,
+                "couverture pret immobilier"
+            ],
+            [
+                1,
+                "couverture assurance pret immobilier"
+            ],
+            [
+                2,
+                "taux couverture assurance pret immobilier"
+            ],
+            [
+                0,
+                "risques aggravés assurance auto"
+            ],
+            [
+                1,
+                "risques aggravés assurance emprunteur"
+            ],
+            [
+                2,
+                "risque aggravé assurance"
+            ],
+            [
+                0,
+                "coût assurance emprunteur"
+            ],
+            [
+                1,
+                "cout assurance emprunteur 25 ans"
+            ],
+            [
+                2,
+                "cout assurance emprunteur 20 ans"
+            ],
+            [
+                3,
+                "cout assurance emprunteur immobilier"
             ],
             [
                 4,
-                "délégation assurance emprunteur délai"
+                "cout assurance emprunteur sur 8 ans"
             ],
             [
                 5,
-                "délégation assurance crédit immobilier"
+                "cout assurance emprunteur apres 60 ans"
             ],
             [
                 6,
-                "délégation assurance crédit conso"
+                "coût assurance emprunteur 50 ans"
             ],
             [
                 7,
-                "délégation assurance crédit"
+                "cout assurance emprunteur moyen"
+            ],
+            [
+                8,
+                "calcul assurance emprunteur"
+            ],
+            [
+                9,
+                "calcul assurance emprunteur capital restant du"
+            ],
+            [
+                0,
+                "questionnaire médical assurance emprunteur"
+            ],
+            [
+                1,
+                "questionnaire médical assurance prêt immobilier"
+            ],
+            [
+                2,
+                "questionnaire médical assurance vie"
+            ],
+            [
+                3,
+                "questionnaire medical assurance pret"
+            ],
+            [
+                4,
+                "questionnaire medical assurance"
+            ],
+            [
+                5,
+                "questionnaire médical assurance solde restant du"
+            ],
+            [
+                6,
+                "questionnaire médical assurance décès"
+            ],
+            [
+                7,
+                "questionnaire santé assurance pret immobilier"
+            ],
+            [
+                8,
+                "questionnaire santé assurance emprunteur obligatoire"
+            ],
+            [
+                9,
+                "questionnaire santé assurance"
+            ],
+            [
+                0,
+                "résiliation assurance emprunteur"
+            ],
+            [
+                1,
+                "résiliation assurance emprunteur à tout moment"
+            ],
+            [
+                2,
+                "résiliation assurance emprunteur banque populaire"
+            ],
+            [
+                3,
+                "résiliation assurance emprunteur la banque postale"
+            ],
+            [
+                4,
+                "résiliation assurance emprunteur suite vente"
+            ],
+            [
+                5,
+                "résiliation assurance emprunteur par l'assureur"
+            ],
+            [
+                6,
+                "résiliation assurance emprunteur sci"
+            ],
+            [
+                7,
+                "résiliation assurance emprunteur crédit consommation"
+            ],
+            [
+                8,
+                "résiliation assurance emprunteur suite remboursement anticipé"
             ]
         ],
         "yahoo": [
@@ -251,25 +473,121 @@
             ],
             [
                 0,
-                "déléégation assurance emprunteur pas cher"
+                "garanties assurance emprunteur pas cher"
             ],
             [
                 1,
-                "déléégation assurance emprunteur immobilier"
+                "garanties assurance emprunteur immobilier"
             ],
             [
                 2,
-                "déléégation assurance emprunteur macif"
+                "garanties assurance emprunteur macif"
             ],
             [
                 3,
-                "déléégation assurance emprunteur en ligne"
+                "garanties assurance emprunteur en ligne"
+            ],
+            [
+                0,
+                "déléguer assurance emprunteur pas cher"
+            ],
+            [
+                1,
+                "déléguer assurance emprunteur immobilier"
+            ],
+            [
+                2,
+                "déléguer assurance emprunteur macif"
+            ],
+            [
+                3,
+                "déléguer assurance emprunteur en ligne"
+            ],
+            [
+                0,
+                "couverture prêt immobilier simulation"
+            ],
+            [
+                1,
+                "couverture prêt immobilier taux"
+            ],
+            [
+                2,
+                "couverture prêt immobilier fonctionnaire"
+            ],
+            [
+                3,
+                "couverture prêt immobilier retraité"
+            ],
+            [
+                0,
+                "risques assurance vie"
+            ],
+            [
+                0,
+                "coût assurance emprunteur pas cher"
+            ],
+            [
+                1,
+                "coût assurance emprunteur immobilier"
+            ],
+            [
+                2,
+                "coût assurance emprunteur macif"
+            ],
+            [
+                3,
+                "coût assurance emprunteur en ligne"
+            ],
+            [
+                0,
+                "questionnaire assurance maladie"
+            ],
+            [
+                1,
+                "questionnaire assurance voiture"
+            ],
+            [
+                2,
+                "questionnaire assurance prêt immobilier"
+            ],
+            [
+                3,
+                "questionnaire assurance crédit immobilier"
+            ],
+            [
+                0,
+                "résiliation assurance emprunteur"
+            ],
+            [
+                1,
+                "délai résiliation assurance emprunteur"
+            ],
+            [
+                2,
+                "lettre type résiliation assurance emprunteur"
             ]
         ],
         "youtube": [
             [
                 0,
                 "meilleur assurance emprunteur"
+            ],
+            [
+                0,
+                "delegation assurance emprunteur"
+            ],
+            [
+                0,
+                "changer assurance emprunteur"
+            ],
+            [
+                1,
+                "changer assurance pret immobilier"
+            ],
+            [
+                2,
+                "comment changer assurance emprunteur"
             ]
         ]
     },
@@ -277,7 +595,7 @@
         "articles": [
             {
                 "title": "Assurance de prêt",
-                "views": 95,
+                "views": 97,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -288,29 +606,27 @@
     },
     "pages": [
         {
-            "group": "Comparateurs",
+            "group": "Comparaison",
             "title": "comparateur assurance emprunteur",
             "intent": "commercial",
             "keywords": [
                 "comparateur assurance emprunteur",
                 "assurance emprunteur immobilier",
-                "comparateur assurance emprunteur gratuit",
                 "comparateur assurance emprunteur immobilier",
-                "déléégation assurance emprunteur immobilier",
-                "assurance emprunteur en ligne",
-                "comparateur assurance emprunteur en ligne",
+                "comparateur assurance emprunteur que choisir",
                 "comparateur assurance emprunteur ade",
-                "comparateur assurance emprunteur que choisir"
+                "comparateur assurance emprunteur en ligne"
             ]
         },
         {
-            "group": "Comparateurs",
+            "group": "Comparaison",
             "title": "assurance emprunteur comparatif",
             "intent": "commercial",
             "keywords": [
                 "assurance emprunteur comparatif",
                 "meilleur assurance emprunteur",
-                "assurance emprunteur meilleurtaux"
+                "assurance emprunteur meilleurtaux",
+                "assurance emprunteur en ligne"
             ]
         },
         {
@@ -319,77 +635,100 @@
             "intent": "commercial",
             "keywords": [
                 "assurance emprunteur maif",
-                "assurance emprunteur axa",
-                "assurance emprunteur sogecap",
-                "assurance emprunteur allianz",
-                "assurance emprunteur credit agricole",
                 "assurance emprunteur macif",
-                "assurance emprunteur agipi"
+                "assurance emprunteur agipi",
+                "assurance emprunteur axa"
             ]
         },
         {
-            "group": "Conseils",
-            "title": "assurance emprunteur explication",
+            "group": "Assureurs",
+            "title": "assurance emprunteur allianz",
+            "intent": "commercial",
+            "keywords": [
+                "assurance emprunteur allianz",
+                "assurance emprunteur credit agricole"
+            ]
+        },
+        {
+            "group": "Assureurs",
+            "title": "questionnaire médical assurance emprunteur",
             "intent": "informational",
             "keywords": [
-                "assurance emprunteur explication",
-                "coût de l'assurance",
-                "droit à l'oubli",
-                "délai de carence",
-                "exclusions assurance emprunteur",
-                "fiche d'information",
-                "garanties assurance emprunteur",
-                "questionnaire médical",
-                "risques aggravés",
+                "questionnaire médical assurance emprunteur",
+                "couverture médicale",
+                "questionnaire santé",
+                "assurance risques aggravés"
+            ]
+        },
+        {
+            "group": "Coût et garanties",
+            "title": "coût assurance emprunteur",
+            "intent": "informational",
+            "keywords": [
+                "coût assurance emprunteur",
+                "coût mensuel",
+                "durée de couverture",
                 "taux d'assurance",
-                "délégation assurance emprunteur",
-                "délégation assurance emprunteur sci",
-                "déléégation assurance emprunteur pas cher",
-                "délégation assurance emprunteur loi",
-                "negocier assurance emprunteur",
-                "changer assurance emprunteur",
-                "assurance emprunteur quotité",
-                "assurance emprunteur remboursement"
+                "garanties assurance emprunteur",
+                "assurance décès invalidité",
+                "garantie perte emploi",
+                "garanties incluses",
+                "risques couverts",
+                "coût assurance emprunteur immobilier",
+                "assurance emprunteur quotité"
+            ]
+        },
+        {
+            "group": "Résiliation",
+            "title": "résiliation assurance emprunteur",
+            "intent": "informational",
+            "keywords": [
+                "résiliation assurance emprunteur",
+                "delegation assurance emprunteur",
+                "déléguer son assurance",
+                "résiliation assurance emprunteur sci"
             ]
         }
     ],
     "categories": {
         "assurance emprunteur immobilier": "core",
+        "résiliation assurance emprunteur": "core",
         "comparateur assurance emprunteur": "core",
-        "assurance emprunteur maif": "core",
+        "assurance emprunteur maif": "commercial",
         "comparateur assurance emprunteur immobilier": "core",
-        "assurance emprunteur allianz": "core",
-        "assurance emprunteur credit agricole": "core",
-        "délégation assurance emprunteur": "core",
-        "assurance emprunteur macif": "core",
-        "délégation assurance emprunteur sci": "complementary",
-        "assurance emprunteur agipi": "complementary",
+        "assurance emprunteur allianz": "commercial",
+        "assurance emprunteur credit agricole": "commercial",
+        "assurance emprunteur macif": "commercial",
+        "coût assurance emprunteur": "commercial",
+        "garanties assurance emprunteur": "complementary",
+        "questionnaire médical assurance emprunteur": "core",
+        "delegation assurance emprunteur": "complementary",
+        "assurance risques aggravés": "complementary",
+        "coût assurance emprunteur immobilier": "commercial",
+        "questionnaire médical assurance": "doubtful",
+        "questionnaire médical assurance prêt": "doubtful",
+        "assurance emprunteur agipi": "commercial",
         "assurance emprunteur comparatif": "commercial",
         "assurance emprunteur quotité": "complementary",
-        "assurance emprunteur explication": "complementary",
-        "comparateur assurance emprunteur ade": "complementary",
         "comparateur assurance emprunteur que choisir": "complementary",
-        "assurance emprunteur meilleurtaux": "complementary",
+        "assurance emprunteur meilleurtaux": "commercial",
         "assurance emprunteur en ligne": "commercial",
         "meilleur assurance emprunteur": "commercial",
+        "comparateur assurance emprunteur ade": "complementary",
+        "résiliation assurance emprunteur sci": "complementary",
         "comparateur assurance emprunteur en ligne": "commercial",
-        "assurance emprunteur remboursement": "complementary",
-        "déléégation assurance emprunteur pas cher": "commercial",
-        "negocier assurance emprunteur": "complementary",
-        "délégation assurance emprunteur loi": "complementary",
-        "déléégation assurance emprunteur immobilier": "complementary",
-        "assurance emprunteur sogecap": "commercial",
         "assurance emprunteur axa": "commercial",
-        "changer assurance emprunteur": "complementary",
-        "comparateur assurance emprunteur gratuit": "complementary",
-        "questionnaire médical": "complementary",
-        "droit à l'oubli": "complementary",
+        "assurance décès invalidité": "complementary",
+        "garantie perte emploi": "complementary",
+        "questionnaire santé": "complementary",
         "taux d'assurance": "complementary",
-        "garanties assurance emprunteur": "core",
-        "exclusions assurance emprunteur": "core",
-        "délai de carence": "complementary",
-        "fiche d'information": "complementary",
-        "risques aggravés": "complementary",
-        "coût de l'assurance": "commercial"
+        "déléguer son assurance": "complementary",
+        "couverture médicale": "complementary",
+        "coût mensuel": "commercial",
+        "garanties incluses": "complementary",
+        "risques couverts": "complementary",
+        "durée de couverture": "complementary",
+        "banque": "doubtful",
+        "assurance emprunteur explication": "doubtful"
     }
 }
