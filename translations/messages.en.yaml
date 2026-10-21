@@ -303,6 +303,11 @@ category:
         help: "Ambiguous, distant or discarded terms."
 
 structure:
+    pending:
+        title: "Preparing the plan…"
+        text: "Themes, pages and sections arrive in a few seconds."
+        failed: "The plan could not be prepared this time. Run the search again in a few minutes."
+        noscript: "Enable JavaScript to see the plan."
     fallback:
         title: "No plan for this analysis"
         text: "Here are the keywords found, ranked by interest. Run the search again in a few minutes to get the full structure."

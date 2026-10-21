@@ -33,6 +33,8 @@ final class Advice
     private const VARIANT_WORDS = 3;
     private const VARIANT_MAX_DEMAND = 70;
     private const VARIANT_ACTION_SCORE = 90;
+    // « mutuelle santé senior » : trois mots, mais un sujet d'achat à part entière, pas une section de « mutuelle santé ».
+    private const VARIANT_MAX_ORIENTATION = 60;
     private const MENTION_DEMAND = 15;
     private const SECTION_DEMAND = 40;
     private const SECTION_DEPTH = 40;
@@ -67,8 +69,6 @@ final class Advice
 
         public readonly bool $variant,
 
-        public readonly ?string $parent,
-
         public readonly ?PageType $alternative = null,
     ) {
     }
@@ -83,7 +83,7 @@ final class Advice
         return $this->verdict->isSection() && !$this->alternative->isSection() ? [$this->alternative, $this->verdict] : [$this->verdict, $this->alternative];
     }
 
-    // Une page à faible demande ne porte pas un sujet : elle se rattache à sa page parente.
+    // Une page à faible demande ne porte pas un sujet : elle renforce une page plus large.
     public function isKeyPage(): bool
     {
         return $this->verdict->isMother() && $this->demand >= self::SECTION_DEMAND;
@@ -124,7 +124,7 @@ final class Advice
 
         $action = max($scores['service'] ?? 0, $scores['local'] ?? 0);
         $variant = $signals->words >= self::VARIANT_WORDS && !$ownIntent && $demand < self::VARIANT_MAX_DEMAND
-            && $action < self::VARIANT_ACTION_SCORE;
+            && $action < self::VARIANT_ACTION_SCORE && ($orientation ?? 0) < self::VARIANT_MAX_ORIENTATION;
 
         if ($signals->question && $demand < self::QUESTION_DEMAND) {
             $verdict = PageType::FaqQuestion;
@@ -140,12 +140,12 @@ final class Advice
             $verdict = self::commercial($best, $scores, $demand, $orientation ?? 0);
         }
 
-        return new self($verdict, $demand, $notoriety, $depth, $orientation, $variant, '' !== $signals->parent ? $signals->parent : null,
-            self::alternative($verdict, $scores, $demand, $orientation ?? 0, '' !== $signals->parent));
+        return new self($verdict, $demand, $notoriety, $depth, $orientation, $variant,
+            self::alternative($verdict, $scores, $demand, $orientation ?? 0));
     }
 
     /** @param array<string, int> $scores */
-    private static function alternative(PageType $verdict, array $scores, int $demand, int $orientation, bool $hasParent): ?PageType
+    private static function alternative(PageType $verdict, array $scores, int $demand, int $orientation): ?PageType
     {
         $top = (int) reset($scores);
         foreach ($scores as $type => $score) {
@@ -161,7 +161,8 @@ final class Advice
             }
         }
 
-        return !$verdict->isSection() && $hasParent && $demand < self::ALTERNATIVE_SECTION_DEMAND ? PageType::MajorSection : null;
+        // Peu recherchée, une page peut aussi n'être qu'une section d'une page plus large.
+        return !$verdict->isSection() && $demand < self::ALTERNATIVE_SECTION_DEMAND ? PageType::MajorSection : null;
     }
 
     /** @param array<string, int> $scores */

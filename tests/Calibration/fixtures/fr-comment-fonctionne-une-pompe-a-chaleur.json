@@ -20,8 +20,8 @@
         "pompe à chaleur géothermique",
         "coût installation pompe à chaleur",
         "entretien annuel pompe à chaleur",
-        "performance énergétique pompe à chaleur",
-        "aides financières pompe à chaleur"
+        "performance coefficient pompe à chaleur",
+        "panne pompe à chaleur"
     ],
     "suggestions": {
         "bing": [
@@ -136,11 +136,11 @@
             ],
             [
                 0,
-                "pompe a chaleur air eau climatisation"
+                "pompe à chaleur air-eau"
             ],
             [
                 1,
-                "pompe à chaleur air-eau"
+                "pompe a chaleur air eau climatisation"
             ],
             [
                 2,
@@ -164,11 +164,11 @@
             ],
             [
                 7,
-                "pompe à chaleur air-eau haute température"
+                "pompe à chaleur air-eau split"
             ],
             [
                 8,
-                "pompe à chaleur air-eau split"
+                "pompe à chaleur air-eau haute température"
             ],
             [
                 9,
@@ -292,75 +292,99 @@
             ],
             [
                 0,
+                "coefficient de performance pompe a chaleur"
+            ],
+            [
+                1,
+                "coefficient performance pompe à chaleur"
+            ],
+            [
+                2,
+                "coefficient cop pompe à chaleur"
+            ],
+            [
+                3,
                 "performance pompe à chaleur"
             ],
             [
-                1,
-                "efficacité énergétique pompe à chaleur"
-            ],
-            [
-                2,
+                4,
                 "performance pompe à chaleur air eau"
             ],
             [
-                3,
-                "énergie pompe à chaleur"
-            ],
-            [
-                4,
-                "professionnel pompe à chaleur"
-            ],
-            [
                 5,
-                "france énergie pompe à chaleur"
+                "efficacité pompe à chaleur"
             ],
             [
                 6,
-                "entreprise pompe à chaleur"
+                "fiche technique pompe à chaleur"
             ],
             [
                 7,
-                "pompe à chaleur la plus performante"
+                "fiche pompe à chaleur"
             ],
             [
                 8,
-                "équipement pompe à chaleur"
+                "estimation pompe à chaleur"
             ],
             [
                 9,
-                "spécialiste pompe à chaleur"
+                "pompe à chaleur la plus performante"
             ],
             [
                 10,
-                "pompe à chaleur haut de gamme"
+                "fonction pompe à chaleur"
             ],
             [
                 11,
-                "marque pompe à chaleur"
+                "calcul consommation pompe à chaleur"
             ],
             [
                 0,
-                "aides financières pompe à chaleur"
+                "panne pompe à chaleur"
             ],
             [
                 1,
-                "aides pompe à chaleur"
+                "panne pompe à chaleur atlantic"
             ],
             [
                 2,
-                "montant des aides pompe à chaleur"
+                "panne pompe à chaleur piscine"
             ],
             [
                 3,
-                "aide pompe à chaleur pour professionnel"
+                "pompe à chaleur air eau panne"
             ],
             [
                 4,
-                "aide financière pompe à chaleur air air"
+                "système pompe à chaleur"
             ],
             [
                 5,
-                "dossier aide pompe à chaleur"
+                "pompe à chaleur interne"
+            ],
+            [
+                6,
+                "une pompe à chaleur"
+            ],
+            [
+                7,
+                "pompe à chaleur dépannage"
+            ],
+            [
+                8,
+                "durée pompe à chaleur"
+            ],
+            [
+                9,
+                "où installer la pompe à chaleur"
+            ],
+            [
+                10,
+                "modèle pompe à chaleur"
+            ],
+            [
+                11,
+                "intérêt pompe à chaleur"
             ]
         ],
         "google": [
@@ -626,55 +650,59 @@
             ],
             [
                 0,
-                "performance énergétique pompe à chaleur"
+                "coefficient performance pompe à chaleur"
             ],
             [
                 1,
-                "efficacité énergétique pompe à chaleur"
+                "coefficient performance pompe à chaleur air air"
             ],
             [
                 2,
-                "efficacité énergétique pompe à chaleur air eau"
+                "coefficient de performance pompe à chaleur formule"
             ],
             [
                 3,
-                "efficacité énergétique saisonnière pompe à chaleur"
-            ],
-            [
-                4,
-                "pompe à chaleur haute performance énergétique"
+                "coefficient de performance (cop) de la pompe à chaleur"
             ],
             [
                 0,
-                "aides financières pompe à chaleur"
+                "panne pompe à chaleur piscine"
             ],
             [
                 1,
-                "aide financière pompe à chaleur air air"
+                "panne pompe à chaleur"
             ],
             [
                 2,
-                "aide financière pompe à chaleur air eau"
+                "panne pompe à chaleur atlantic"
             ],
             [
                 3,
-                "aide subvention pompe a chaleur"
+                "panne pompe à chaleur daikin"
             ],
             [
                 4,
-                "subvention pompe à chaleur"
+                "panne pompe à chaleur locataire ou propriétaire"
             ],
             [
                 5,
-                "subvention pompe à chaleur air air"
+                "panne pompe à chaleur atlantic alfea extensa duo"
             ],
             [
                 6,
-                "subvention pompe à chaleur 2026"
+                "panne pompe à chaleur assurance habitation"
             ],
             [
                 7,
-                "subvention pompe à chaleur vaud"
+                "panne pompe à chaleur hitachi"
+            ],
+            [
+                8,
+                "panne pompe à chaleur mitsubishi"
+            ],
+            [
+                9,
+                "panne pompe à chaleur géothermique"
             ]
         ],
         "amazon": [
@@ -806,19 +834,19 @@
             ],
             [
                 4,
-                "pompe à chaleur géothermique sol/eau"
+                "pompe à chaleur géothermique daikin"
             ],
             [
                 5,
-                "pompe à chaleur géothermique atlantic"
-            ],
-            [
-                6,
                 "pompe à chaleur géothermique avis"
             ],
             [
-                7,
+                6,
                 "pompe à chaleur géothermique sofath"
+            ],
+            [
+                7,
+                "pompe à chaleur géothermique sol/eau"
             ],
             [
                 0,
@@ -870,59 +898,67 @@
             ],
             [
                 0,
+                "coefficient de performance pompe a chaleur"
+            ],
+            [
+                1,
+                "coefficient performance pompe à chaleur"
+            ],
+            [
+                2,
+                "coefficient cop pompe à chaleur"
+            ],
+            [
+                3,
                 "performance pompe à chaleur"
             ],
             [
-                1,
-                "efficacité énergétique pompe à chaleur"
-            ],
-            [
-                2,
+                4,
                 "performance pompe à chaleur air eau"
             ],
             [
-                3,
-                "énergie pompe à chaleur"
-            ],
-            [
-                4,
-                "professionnel pompe à chaleur"
-            ],
-            [
                 5,
-                "france énergie pompe à chaleur"
+                "efficacité pompe à chaleur"
             ],
             [
                 6,
-                "entreprise pompe à chaleur"
+                "fiche technique pompe à chaleur"
             ],
             [
                 7,
-                "pompe à chaleur la plus performante"
+                "fiche pompe à chaleur"
             ],
             [
                 0,
-                "aides financières pompe à chaleur"
+                "panne pompe à chaleur"
             ],
             [
                 1,
-                "aides pompe à chaleur"
+                "panne pompe à chaleur atlantic"
             ],
             [
                 2,
-                "montant des aides pompe à chaleur"
+                "panne pompe à chaleur piscine"
             ],
             [
                 3,
-                "aide pompe à chaleur pour professionnel"
+                "pompe à chaleur air eau panne"
             ],
             [
                 4,
-                "aide financière pompe à chaleur air air"
+                "système pompe à chaleur"
             ],
             [
                 5,
-                "dossier aide pompe à chaleur"
+                "pompe à chaleur interne"
+            ],
+            [
+                6,
+                "une pompe à chaleur"
+            ],
+            [
+                7,
+                "pompe à chaleur dépannage"
             ]
         ],
         "ebay": [
@@ -1074,35 +1110,27 @@
             ],
             [
                 0,
-                "performance énergétique pompe à chaleur air eau"
+                "performance coefficient pompe à chaleur air eau"
             ],
             [
                 1,
-                "performance énergétique pompe à chaleur air air"
+                "performance coefficient pompe à chaleur air air"
             ],
             [
                 2,
-                "performance énergétique pompe à châleur"
+                "performance coefficient pompe à châleur"
             ],
             [
                 3,
-                "performance énergétique pompe à chaleur piscine"
+                "performance coefficient pompe à chaleur piscine"
             ],
             [
                 0,
-                "aides financières pompe à chaleur air eau"
+                "panne pompe à chaleur"
             ],
             [
                 1,
-                "aides financières pompe à chaleur air air"
-            ],
-            [
-                2,
-                "aides financières pompe à châleur"
-            ],
-            [
-                3,
-                "aides financières pompe à chaleur piscine"
+                "panne pompe à chaleur daikin air/air"
             ]
         ],
         "youtube": [
@@ -1205,6 +1233,14 @@
             [
                 0,
                 "prix installation pompe a chaleur"
+            ],
+            [
+                0,
+                "dépannage pompe à chaleur"
+            ],
+            [
+                1,
+                "erreur 60 pompe à chaleur atlantic alféa"
             ]
         ]
     },
@@ -1237,8 +1273,11 @@
             "intent": "informational",
             "keywords": [
                 "pompe à chaleur air-air",
-                "pompe à chaleur air-air fonctionnement",
-                "pompe à chaleur air-air prix",
+                "chauffage électrique",
+                "climatiseur",
+                "pompe à chaleur aérothermique",
+                "refroidisseur",
+                "types de pompes à chaleur",
                 "unité extérieure",
                 "unité intérieure",
                 "pompe à chaleur air-air réversible",
@@ -1248,31 +1287,27 @@
         },
         {
             "group": "Types de pompes à chaleur",
-            "title": "pompe à chaleur air-eau",
-            "intent": "informational",
-            "keywords": [
-                "pompe à chaleur air-eau",
-                "pompe à chaleur air-eau fonctionnement",
-                "pompe à chaleur air-eau prix",
-                "ballon d'eau chaude",
-                "pompe à chaleur aérothermique",
-                "pompe à chaleur air eau monobloc",
-                "pompe à chaleur air-eau réversible",
-                "pompe a chaleur air eau climatisation",
-                "climatiseur",
-                "refroidisseur"
-            ]
-        },
-        {
-            "group": "Types de pompes à chaleur",
             "title": "pompe à chaleur géothermique",
             "intent": "informational",
             "keywords": [
                 "pompe à chaleur géothermique",
-                "pompe à chaleur géothermique fonctionnement",
+                "cloacothermie",
                 "géothermie",
+                "pompe à chaleur géothermique fonctionnement",
                 "pompe à chaleur géothermique prix",
                 "pompe à chaleur géothermique réversible"
+            ]
+        },
+        {
+            "group": "Types de pompes à chaleur",
+            "title": "pompe à chaleur air-eau",
+            "intent": "informational",
+            "keywords": [
+                "pompe à chaleur air-eau",
+                "ballon d'eau chaude",
+                "pompe à chaleur air eau monobloc",
+                "pompe à chaleur air-eau fonctionnement",
+                "pompe à chaleur air-eau réversible"
             ]
         },
         {
@@ -1282,13 +1317,11 @@
             "keywords": [
                 "principe de fonctionnement pompe à chaleur",
                 "chauffage",
-                "chauffage électrique",
                 "compresseur",
                 "condenseur",
                 "fluide frigorigène",
                 "température",
                 "thermostat",
-                "types de pompes à chaleur",
                 "échangeur de chaleur",
                 "énergie thermique",
                 "évaporateur",
@@ -1301,44 +1334,58 @@
         },
         {
             "group": "Fonctionnement",
-            "title": "efficacité énergétique pompe à chaleur",
+            "title": "coefficient de performance pompe à chaleur",
             "intent": "informational",
             "keywords": [
-                "efficacité énergétique pompe à chaleur",
+                "coefficient de performance pompe a chaleur",
+                "performance pompe à chaleur",
                 "cop",
-                "performance énergétique pompe à chaleur"
+                "coefficient performance pompe à chaleur air air",
+                "comment fonctionne une pompe à chaleur air",
+                "pompe a chaleur air eau climatisation"
             ]
         },
         {
-            "group": "Installation",
+            "group": "Entretien et dépannage",
+            "title": "entretien annuel pompe à chaleur",
+            "intent": "informational",
+            "keywords": [
+                "entretien annuel pompe à chaleur",
+                "entretien annuel pompe à chaleur prix",
+                "entretien annuel pompe à chaleur obligatoire",
+                "dépannage pompe à chaleur"
+            ]
+        },
+        {
+            "group": "Entretien et dépannage",
+            "title": "panne pompe à chaleur",
+            "intent": "informational",
+            "keywords": [
+                "panne pompe à chaleur",
+                "problèmes courants pompe à chaleur",
+                "panne pompe à chaleur piscine",
+                "panne pompe à chaleur atlantic"
+            ]
+        },
+        {
+            "group": "Installation et coût",
             "title": "coût installation pompe à chaleur",
             "intent": "commercial",
             "keywords": [
                 "coût installation pompe à chaleur",
+                "pompe à chaleur air-eau prix",
+                "aides financières pompe à chaleur",
                 "étapes installation pompe à chaleur",
                 "coût installation pompe à chaleur air eau",
                 "coût installation pompe à chaleur air air"
             ]
         },
         {
-            "group": "Aides financières",
-            "title": "aides financières pompe à chaleur",
+            "group": "Applications",
+            "title": "pompe à chaleur air-air fonctionnement",
             "intent": "informational",
             "keywords": [
-                "aides financières pompe à chaleur",
-                "aide financière pompe à chaleur air air",
-                "aides financières pompe à chaleur air eau"
-            ]
-        },
-        {
-            "group": "Entretien",
-            "title": "entretien annuel pompe à chaleur",
-            "intent": "informational",
-            "keywords": [
-                "entretien annuel pompe à chaleur",
-                "problèmes courants pompe à chaleur",
-                "entretien annuel pompe à chaleur prix",
-                "entretien annuel pompe à chaleur obligatoire"
+                "pompe à chaleur air-air fonctionnement"
             ]
         }
     ],
@@ -1352,19 +1399,19 @@
         "pompe à chaleur air-air réversible": "core",
         "coût installation pompe à chaleur": "commercial",
         "pompe à chaleur géothermique fonctionnement": "core",
+        "panne pompe à chaleur": "complementary",
         "pompe à chaleur air-air daikin": "commercial",
-        "aides financières pompe à chaleur": "commercial",
+        "coefficient de performance pompe a chaleur": "core",
         "entretien annuel pompe à chaleur": "complementary",
         "pompe à chaleur géothermique prix": "commercial",
         "coût installation pompe à chaleur air eau": "commercial",
-        "aide financière pompe à chaleur air air": "commercial",
         "comment fonctionne une pompe à chaleur réversible": "core",
         "pompe à chaleur air eau monobloc": "core",
         "pompe à chaleur air-eau fonctionnement": "core",
         "entretien annuel pompe à chaleur prix": "commercial",
-        "efficacité énergétique pompe à chaleur": "complementary",
-        "aides financières pompe à chaleur air eau": "commercial",
-        "performance énergétique pompe à chaleur": "complementary",
+        "panne pompe à chaleur piscine": "complementary",
+        "coefficient performance pompe à chaleur air air": "complementary",
+        "panne pompe à chaleur atlantic": "complementary",
         "pompe à chaleur air-eau prix": "commercial",
         "principe de fonctionnement pompe à chaleur air air": "complementary",
         "principe de fonctionnement pompe à chaleur air eau": "complementary",
@@ -1373,13 +1420,15 @@
         "coût installation pompe à chaleur air air": "commercial",
         "entretien annuel pompe à chaleur obligatoire": "complementary",
         "pompe à chaleur géothermique réversible": "complementary",
-        "comment fonctionne une pompe à chaleur air": "doubtful",
-        "pompe a chaleur air eau climatisation": "complementary",
+        "comment fonctionne une pompe à chaleur air": "complementary",
         "pompe à chaleur air-air fonctionnement": "complementary",
-        "pompe à chaleur air-air prix": "commercial",
+        "dépannage pompe à chaleur": "commercial",
+        "pompe a chaleur air eau climatisation": "complementary",
         "types de pompes à chaleur": "core",
         "étapes installation pompe à chaleur": "core",
+        "performance pompe à chaleur": "complementary",
         "problèmes courants pompe à chaleur": "core",
+        "aides financières pompe à chaleur": "commercial",
         "échangeur de chaleur": "core",
         "fluide frigorigène": "core",
         "compresseur": "core",
@@ -1387,13 +1436,14 @@
         "condenseur": "core",
         "cop": "core",
         "thermostat": "core",
-        "unité intérieure": "core",
         "unité extérieure": "core",
+        "unité intérieure": "core",
         "ballon d'eau chaude": "complementary",
         "température": "complementary",
         "énergie thermique": "complementary",
         "chauffage": "complementary",
         "géothermie": "complementary",
+        "cloacothermie": "complementary",
         "chauffage électrique": "complementary",
         "climatiseur": "complementary",
         "refroidisseur": "complementary",

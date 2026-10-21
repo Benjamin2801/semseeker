@@ -6,13 +6,14 @@ use App\Tests\Http\FakeHttpResponses;
 use Psr\Cache\CacheItemPoolInterface;
 use Symfony\Bundle\FrameworkBundle\KernelBrowser;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
+use Symfony\Component\DomCrawler\Crawler;
 
 final class SearchControllerTest extends WebTestCase
 {
     public function testShowsTheSemanticField(): void
     {
         $client = static::createClient();
-        $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+        $crawler = self::analyze($client, 'fr', 'pain', 'fr');
 
         self::assertResponseIsSuccessful();
         self::assertSelectorTextContains('h1', 'mots-clés trouvés pour « pain »');
@@ -58,7 +59,7 @@ final class SearchControllerTest extends WebTestCase
     public function testOffersTheRawKeywordsForCopyAndExport(): void
     {
         $client = static::createClient();
-        $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+        $crawler = self::analyze($client, 'fr', 'pain', 'fr');
 
         $keywords = json_decode($crawler->filter('[data-keywords]')->text(), true);
         self::assertIsArray($keywords);
@@ -87,7 +88,7 @@ pain commun
     public function testShowsOnlyTheStrongestKeywords(): void
     {
         $client = static::createClient();
-        $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+        $crawler = self::analyze($client, 'fr', 'pain', 'fr');
         $max = static::getContainer()->getParameter('app.ai.max_candidates');
         self::assertIsInt($max);
         self::assertCount($max + 7, (array) json_decode($crawler->filter('[data-keywords]')->text(), true));
@@ -97,7 +98,7 @@ pain commun
     public function testWarnsWhenASourceFails(): void
     {
         $client = static::createClient();
-        $client->request('GET', '/en/search', ['q' => 'youtube-down', 'lang' => 'en']);
+        self::analyze($client, 'en', 'youtube-down', 'en');
 
         self::assertResponseIsSuccessful();
         self::assertSelectorTextContains('.analysis-meta .is-warning', '7/8 sources (YTB : server error)');
@@ -108,7 +109,7 @@ pain commun
     public function testListsTheKeywordsWhenTheAiFails(): void
     {
         $client = static::createClient();
-        $crawler = $client->request('GET', '/en/search', ['q' => 'cohere-down', 'lang' => 'en']);
+        $crawler = self::analyze($client, 'en', 'cohere-down', 'en');
 
         self::assertResponseIsSuccessful();
         self::assertSelectorTextContains('.fallback-note', 'No plan for this analysis');
@@ -122,10 +123,10 @@ pain commun
     public function testRepeatedSearchIsServedFromCache(): void
     {
         $client = self::clientKeepingState();
-        $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+        self::analyze($client, 'fr', 'pain', 'fr');
         $calls = \count(self::fakeHttp()->requestedUrls);
 
-        $client->request('GET', '/fr/search', ['q' => '  Pain ', 'lang' => 'fr']);
+        self::analyze($client, 'fr', '  Pain ', 'fr');
 
         self::assertResponseIsSuccessful();
         self::assertCount($calls, self::fakeHttp()->requestedUrls, 'Aucun nouvel appel réseau.');
@@ -134,10 +135,10 @@ pain commun
     public function testVariantsOfTheSameSearchShareTheCache(): void
     {
         $client = self::clientKeepingState();
-        $client->request('GET', '/fr/search', ['q' => 'taille haie', 'lang' => 'fr']);
+        self::analyze($client, 'fr', 'taille haie', 'fr');
         $calls = \count(self::fakeHttp()->requestedUrls);
 
-        $client->request('GET', '/fr/search', ['q' => 'taille-haies', 'lang' => 'fr']);
+        self::analyze($client, 'fr', 'taille-haies', 'fr');
 
         self::assertResponseIsSuccessful();
         self::assertCount($calls, self::fakeHttp()->requestedUrls, 'Trait d\'union et pluriel : même recherche.');
@@ -147,17 +148,35 @@ pain commun
     {
         $client = self::clientKeepingState();
         for ($i = 1; $i <= 10; ++$i) {
-            $client->request('GET', '/fr/search', ['q' => 'mot '.$i, 'lang' => 'fr']);
+            self::analyze($client, 'fr', 'mot '.$i, 'fr');
             self::assertResponseIsSuccessful();
         }
 
-        $client->request('GET', '/fr/search', ['q' => 'mot 1', 'lang' => 'fr']);
+        self::analyze($client, 'fr', 'mot 1', 'fr');
         self::assertResponseIsSuccessful();
 
-        $client->request('GET', '/fr/search', ['q' => 'mot 11', 'lang' => 'fr']);
+        self::analyze($client, 'fr', 'mot 11', 'fr');
         self::assertResponseStatusCodeSame(429);
         self::assertSelectorTextContains('h1', 'Limite atteinte');
         self::assertResponseHasHeader('Retry-After');
+    }
+
+    public function testShowsTheKeywordsWhileThePlanIsPending(): void
+    {
+        $client = static::createClient();
+        $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+
+        self::assertResponseIsSuccessful();
+        self::assertSelectorExists('.advice .advice-value');
+        self::assertSelectorNotExists('.tree-groups');
+        self::assertSame('/fr/search/plan?q=pain&lang=fr', $crawler->filter('.plan-pending')->attr('data-plan-url'));
+
+        $plan = $client->request('GET', '/fr/search/plan', ['q' => 'pain', 'lang' => 'fr']);
+        self::assertResponseIsSuccessful();
+        self::assertCount(2, $plan->filter('.tree-topic'));
+
+        $client->request('GET', '/fr/search/plan', ['q' => 'inconnu', 'lang' => 'fr']);
+        self::assertResponseStatusCodeSame(410, 'Sans préparation, la page relance la recherche.');
     }
 
     public function testEmptyKeywordGoesBackHome(): void
@@ -171,10 +190,10 @@ pain commun
     public function testHandlesTheLanguages(): void
     {
         $client = static::createClient();
-        $crawler = $client->request('GET', '/en/search', ['q' => 'bread', 'lang' => 'de']);
+        $crawler = self::analyze($client, 'en', 'bread', 'de');
         self::assertSame('en', $crawler->filter('#lang option[selected]')->attr('value'), 'Langue inconnue : celle de la page.');
 
-        $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
+        $crawler = self::analyze($client, 'fr', 'pain', 'fr');
 
         self::assertSame('/en/search?q=pain&lang=fr', $crawler->filter('.lang-switch a[hreflang="en"]')->attr('href'));
         self::assertSelectorExists('meta[name="robots"][content="noindex"]');
@@ -195,6 +214,18 @@ pain commun
         }
 
         return $client;
+    }
+
+    // Le déroulé du navigateur : la page, le plan demandé en arrière-plan, puis la page complète servie par le cache.
+    private static function analyze(KernelBrowser $client, string $locale, string $q, string $lang): Crawler
+    {
+        $crawler = $client->request('GET', '/'.$locale.'/search', ['q' => $q, 'lang' => $lang]);
+        if (!$client->getResponse()->isSuccessful()) {
+            return $crawler;
+        }
+        $client->request('GET', '/'.$locale.'/search/plan', ['q' => $q, 'lang' => $lang]);
+
+        return $client->request('GET', '/'.$locale.'/search', ['q' => $q, 'lang' => $lang]);
     }
 
     private static function clientKeepingState(): KernelBrowser

@@ -305,6 +305,11 @@ category:
         help: "Termes ambigus, éloignés ou écartés par l'analyse."
 
 structure:
+    pending:
+        title: "Plan en préparation…"
+        text: "Thèmes, pages et sections arrivent dans quelques secondes."
+        failed: "Le plan n'a pas pu être préparé cette fois-ci. Relancez la recherche dans quelques minutes."
+        noscript: "Activez JavaScript pour afficher le plan."
     fallback:
         title: "Plan indisponible pour cette analyse"
         text: "Voici les mots-clés trouvés, classés par intérêt. Relancez la recherche dans quelques minutes pour obtenir la structure complète."

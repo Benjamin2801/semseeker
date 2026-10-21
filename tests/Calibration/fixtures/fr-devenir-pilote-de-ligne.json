@@ -17,11 +17,11 @@
         "école de pilotage",
         "licence atpl",
         "salaire commandant de bord",
-        "formation modulaire pilote",
-        "tests psychotechniques pilote",
-        "recrutement air france",
-        "coût formation pilote",
-        "carrière pilote de ligne"
+        "formation modulaires",
+        "cadets programmes",
+        "simulateur de vol",
+        "médecine aéronautique",
+        "aviation commerciale"
     ],
     "suggestions": {
         "amazon": [
@@ -369,111 +369,127 @@
             ],
             [
                 0,
+                "formation modulaire"
+            ],
+            [
+                1,
+                "formation modulaire du travailleur minier"
+            ],
+            [
+                2,
                 "formation modulaire pilote de ligne"
             ],
             [
-                0,
-                "tests psychotechniques pilote de chasse"
-            ],
-            [
-                0,
-                "recrutement air france 2026"
-            ],
-            [
-                1,
-                "recrutement air france"
-            ],
-            [
-                2,
-                "recrutement air france pnc"
-            ],
-            [
                 3,
-                "recrutement air france alternance"
+                "formation modulaire def"
             ],
             [
                 4,
-                "recrutement air france 2025"
+                "formation modulaire minier"
             ],
             [
                 5,
-                "recrutement air france mail"
+                "formation modulaire formatec"
             ],
             [
                 6,
-                "recrutement air france agent d'escale"
+                "formation modulaire en infographie au togo"
             ],
             [
                 7,
-                "recrutement air france canada"
+                "formation modulaire définition"
             ],
             [
                 8,
-                "recrutement air france hôtesse de l'air"
-            ],
-            [
-                9,
-                "recrutement air france orly"
-            ],
-            [
-                10,
-                "recrutement air france cadet"
-            ],
-            [
-                11,
-                "recrutement air france guadeloupe"
+                "formation modulaire en horlogerie"
             ],
             [
                 0,
-                "coût formation pilote de ligne"
+                "cadet programmes"
             ],
             [
                 0,
-                "salaire pilote de ligne fin de carrière"
+                "simulateur de vol"
             ],
             [
                 1,
-                "recrutement pilote de ligne"
+                "simulateur de vol gratuit"
             ],
             [
                 2,
-                "fiche de poste pilote de ligne"
+                "simulateur de vol en ligne"
             ],
             [
                 3,
-                "un pilote de ligne"
+                "simulateur de vol pc"
             ],
             [
                 4,
-                "métier de pilote de ligne"
+                "simulateur de vol google earth"
             ],
             [
                 5,
-                "filière pilote de ligne"
+                "simulateur de vol rc"
             ],
             [
                 6,
-                "description pilote de ligne"
+                "simulateur de vol jeux"
             ],
             [
                 7,
-                "offre emploi pilote de ligne"
+                "simulateur de vol ps5"
             ],
             [
                 8,
-                "description du métier de pilote de ligne"
+                "simulateur de vol gratuit pc"
             ],
             [
                 9,
-                "devenir pilote de ligne"
+                "simulateur de vol paris"
             ],
             [
                 10,
-                "formation de pilote de ligne"
+                "simulateur de vol gratuit français"
             ],
             [
                 11,
-                "pilote de ligne métier"
+                "simulateur de vol rc gratuit français"
+            ],
+            [
+                0,
+                "médecine aéronautique"
+            ],
+            [
+                1,
+                "médecine aéronautique et spatiale"
+            ],
+            [
+                2,
+                "médecine aéronautique pdf"
+            ],
+            [
+                3,
+                "médecine aéronautique définition"
+            ],
+            [
+                4,
+                "médecin aéronautique classe 2"
+            ],
+            [
+                0,
+                "aviation commerciale"
+            ],
+            [
+                1,
+                "aviation commercial pilot"
+            ],
+            [
+                2,
+                "aviation commercial pilot requirements"
+            ],
+            [
+                3,
+                "aviation française commerciale"
             ]
         ],
         "google": [
@@ -679,179 +695,125 @@
             ],
             [
                 0,
-                "formation modulaire pilote de ligne"
-            ],
-            [
-                1,
-                "formation modulaire pilote de ligne prix"
-            ],
-            [
-                2,
-                "formation modulaire pilote"
-            ],
-            [
-                3,
-                "formation pilote modulaire prix"
+                "formation modulaires"
             ],
             [
                 0,
-                "tests psychotechniques pilote de ligne"
+                "cadet programmes"
             ],
             [
                 1,
-                "tests psychotechniques pilote"
-            ],
-            [
-                2,
-                "test psychotechnique pilote pdf"
-            ],
-            [
-                3,
-                "test psychotechnique pilote de chasse"
-            ],
-            [
-                4,
-                "test psychologique pilote de ligne"
-            ],
-            [
-                5,
-                "test psy pilote"
-            ],
-            [
-                6,
-                "test psychotechnique pilote avion"
-            ],
-            [
-                7,
-                "test psychotechnique pilote de ligne pdf"
-            ],
-            [
-                8,
-                "test psychotechnique pilote hélicoptère"
-            ],
-            [
-                9,
-                "test psychotechnique pilote air france"
+                "pilot cadet program"
             ],
             [
                 0,
-                "recrutement air france"
+                "simulateur de vol"
             ],
             [
                 1,
-                "recrutement air france pnc 2027"
+                "simulateur de vol lyon"
             ],
             [
                 2,
-                "recrutement air france 2026"
+                "simulateur de vol pc"
             ],
             [
                 3,
-                "recrutement air france pnc 2026"
+                "simulateur de vol en ligne gratuit"
             ],
             [
                 4,
-                "recrutement air france pnc"
+                "simulateur de vol google earth"
             ],
             [
                 5,
-                "recrutement air france hotesse de l air"
+                "simulateur de vol ps5"
             ],
             [
                 6,
-                "recrutement air france alternance"
+                "simulateur de vol aix les bains"
             ],
             [
                 7,
-                "recrutement air france steward"
+                "simulateur de vol paris"
             ],
             [
                 8,
-                "recrutement air france agent d'escale"
+                "simulateur de vol gratuit"
             ],
             [
                 9,
-                "recrutement air france cadet"
+                "simulateur de vol sur pc gratuit"
             ],
             [
                 0,
-                "coût formation pilote de ligne"
+                "médecine aéronautique"
             ],
             [
                 1,
-                "cout formation pilote helicoptere"
+                "médecine aéronautique formation"
             ],
             [
                 2,
-                "cout formation pilote avion"
+                "médecine aéronautique et spatiale"
             ],
             [
                 3,
-                "cout formation pilote"
+                "médecine aéronautique pdf"
             ],
             [
                 4,
-                "cout formation pilote de chasse"
+                "médecin aéronautique classe 2"
             ],
             [
                 5,
-                "cout formation pilote de drone"
-            ],
-            [
-                6,
-                "cout formation pilote professionnel d avion"
-            ],
-            [
-                7,
-                "cout formation pilote privé"
-            ],
-            [
-                8,
-                "cout formation pilote de ligne canada"
-            ],
-            [
-                9,
-                "cout formation pilote de ligne enac"
+                "médecin aéronautique classe 2 liste"
             ],
             [
                 0,
-                "carriere pilote de ligne"
+                "aviation commerciale"
+            ]
+        ],
+        "amazon": [
+            [
+                0,
+                "simulateur de vol"
             ],
             [
                 1,
-                "métier pilote de ligne"
+                "palonnier simulateur de vol"
             ],
             [
                 2,
-                "job pilote de ligne"
+                "cockpit simulateur de vol"
             ],
             [
                 3,
-                "métier pilote de ligne salaire"
+                "simulateur de vol pc"
             ],
             [
                 4,
-                "métier conducteur de ligne"
+                "simulateur de vol ps5"
             ],
             [
                 5,
-                "métier conducteur de ligne agroalimentaire"
+                "simulateur de vol ps4"
             ],
             [
                 6,
-                "job conducteur de ligne"
+                "simulateur de vol professionnel"
             ],
             [
                 7,
-                "metier conducteur de ligne production"
+                "simulateur de vol rc"
             ],
             [
                 8,
-                "evolution carriere pilote de ligne"
+                "simulateur de vol airbus"
             ],
             [
                 9,
-                "fiche métier pilote de ligne"
+                "simulateur de vol xbox"
             ]
         ],
         "duckduckgo": [
@@ -953,79 +915,113 @@
             ],
             [
                 0,
+                "formation modulaire du travailleur minier"
+            ],
+            [
+                1,
+                "formation modulaire"
+            ],
+            [
+                2,
                 "formation modulaire pilote de ligne"
             ],
             [
-                0,
-                "tests psychotechniques pilote de chasse"
-            ],
-            [
-                0,
-                "recrutement air france"
-            ],
-            [
-                1,
-                "recrutement air france 2026"
-            ],
-            [
-                2,
-                "recrutement air france pnc"
-            ],
-            [
                 3,
-                "recrutement air france alternance"
+                "formation modulaire def"
             ],
             [
                 4,
-                "recrutement air france 2025"
+                "formation modulaire en infographie au togo"
             ],
             [
                 5,
-                "recrutement air france mail"
+                "formation modulaire minier"
             ],
             [
                 6,
-                "recrutement air france canada"
+                "formation modulaire formatec"
             ],
             [
                 7,
-                "recrutement air france agent d'escale"
+                "formation modulaire définition"
             ],
             [
                 0,
-                "coût formation pilote de ligne"
+                "cadet programmes"
             ],
             [
                 0,
-                "salaire pilote de ligne fin de carrière"
+                "simulateur de vol"
             ],
             [
                 1,
-                "recrutement pilote de ligne"
+                "simulateur de vol gratuit"
             ],
             [
                 2,
-                "fiche de poste pilote de ligne"
+                "simulateur de vol en ligne"
             ],
             [
                 3,
-                "un pilote de ligne"
+                "simulateur de vol pc"
             ],
             [
                 4,
-                "métier de pilote de ligne"
+                "simulateur de vol google earth"
             ],
             [
                 5,
-                "filière pilote de ligne"
+                "simulateur de vol paris"
             ],
             [
                 6,
-                "description pilote de ligne"
+                "simulateur de vol lyon"
             ],
             [
                 7,
-                "offre emploi pilote de ligne"
+                "simulateur de vol bordeaux"
+            ],
+            [
+                0,
+                "médecine aéronautique"
+            ],
+            [
+                1,
+                "médecine aéronautique et spatiale"
+            ],
+            [
+                2,
+                "médecine aéronautique pdf"
+            ],
+            [
+                3,
+                "médecine aéronautique définition"
+            ],
+            [
+                4,
+                "médecin aéronautique classe 2"
+            ],
+            [
+                0,
+                "aviation commerciale"
+            ],
+            [
+                1,
+                "aviation commercial pilot"
+            ],
+            [
+                2,
+                "aviation commercial pilot requirements"
+            ],
+            [
+                3,
+                "aviation française commerciale"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "simulateur de vol."
             ]
         ],
         "indeed": [
@@ -1040,6 +1036,14 @@
             [
                 2,
                 "licence anglais"
+            ],
+            [
+                0,
+                "simulateur de vol"
+            ],
+            [
+                0,
+                "animation commerciale"
             ]
         ],
         "yahoo": [
@@ -1113,95 +1117,91 @@
             ],
             [
                 0,
-                "formation pilote de ligne"
+                "formation modulaires constructions"
             ],
             [
                 1,
-                "formation pilote de drone"
-            ],
-            [
-                2,
-                "formation pilote hélicoptère"
-            ],
-            [
-                3,
-                "formation pilote de chasse"
+                "formation modulaires maisons"
             ],
             [
                 0,
-                "tests psychotechniques pilote imprimante"
+                "cadets programmes tv"
             ],
             [
                 1,
-                "tests psychotechniques pilote hp"
+                "cadets programmes pour"
             ],
             [
                 2,
-                "tests psychotechniques pilote nvidia"
+                "cadets programmes télé"
             ],
             [
                 3,
-                "tests psychotechniques pilotes"
+                "cadets programmes gestion"
             ],
             [
                 0,
-                "recrutement air france"
+                "simulateur de vol"
             ],
             [
                 1,
-                "recrutement air france emploi"
+                "simulateur de vol gratuit"
             ],
             [
                 2,
-                "recrutement air france 2025"
+                "simulateur de vol pc"
             ],
             [
                 3,
-                "recrutement air france alternance"
+                "simulateur de vol paris"
             ],
             [
                 4,
-                "recrutement air france klm"
+                "simulateur de vol en ligne"
             ],
             [
                 5,
-                "recrutement air france cadets"
+                "simulateur de vol avion"
             ],
             [
                 6,
-                "recrutement air france tahiti"
+                "simulateur de vol google earth"
+            ],
+            [
+                7,
+                "simulateur de vol pour mac"
+            ],
+            [
+                8,
+                "simulateur de vol lyon"
+            ],
+            [
+                9,
+                "simulateur de vol lille"
             ],
             [
                 0,
-                "cout formation pilote de ligne"
+                "médecine aéronautique"
             ],
             [
                 1,
-                "cout formation pilote de drone"
-            ],
-            [
-                2,
-                "cout formation pilote hélicoptère"
-            ],
-            [
-                3,
-                "cout formation pilote de chasse"
+                "du médecine aéronautique"
             ],
             [
                 0,
-                "carriere pilote de ligne salaire"
+                "aviation commerciale femme"
             ],
             [
                 1,
-                "carriere pilote de ligne formation"
+                "aviation commerciales"
             ],
             [
                 2,
-                "carriere pilote de ligne air france"
+                "aviation commerciale banque"
             ],
             [
                 3,
-                "carriere pilote de ligne en 2 lettres"
+                "aviation commerciale grandblaise"
             ]
         ],
         "youtube": [
@@ -1251,51 +1251,47 @@
             ],
             [
                 0,
-                "formation modulaire pilote de ligne"
-            ],
-            [
-                0,
-                "test psychotechnique pilote de ligne"
+                "simulateur de vol"
             ],
             [
                 1,
-                "test psychotechnique pilote"
-            ],
-            [
-                0,
-                "recrutement air france"
-            ],
-            [
-                1,
-                "selection air france pilote"
+                "simulateur de vol maison"
             ],
             [
                 2,
-                "selection air france"
+                "simulateur de vol ps5"
             ],
             [
                 3,
-                "recrutement pnc air france"
+                "simulateur de vol pc"
             ],
             [
                 4,
-                "selection cadet air france"
+                "simulateur de vol helicoptere"
             ],
             [
                 5,
-                "rh air france chemise"
+                "simulateur de vol avion de chasse"
+            ],
+            [
+                6,
+                "simulateur de vol a320"
+            ],
+            [
+                7,
+                "simulateur de vol gratuit pc"
+            ],
+            [
+                8,
+                "simulateur de vol rc"
+            ],
+            [
+                9,
+                "simulateur de vol google earth"
             ],
             [
                 0,
-                "métier pilote de ligne"
-            ],
-            [
-                1,
-                "métier conducteur de ligne"
-            ],
-            [
-                2,
-                "msfs 2024 carriere pilote de ligne"
+                "medecine aeronautique"
             ]
         ]
     },
@@ -1307,34 +1303,73 @@
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.611
+            },
+            {
+                "title": "Simulateur de vol",
+                "views": 247,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Aviation commerciale",
+                "views": 180,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 6,
-        "types": []
+        "types": [
+            "copilote",
+            "commandant de bord",
+            "tuskegee airmen",
+            "ailier",
+            "mitrailleur de queue",
+            "airman",
+            "pilote instructeur",
+            "aérostier",
+            "« escadrons eagle » de la royal air force",
+            "pilote privé"
+        ]
     },
     "pages": [
         {
             "group": "Formation",
-            "title": "formation modulaire pilote de ligne",
+            "title": "etudes pour devenir pilote de ligne",
             "intent": "informational",
             "keywords": [
-                "formation modulaire pilote de ligne",
-                "formation pour devenir pilote de ligne",
-                "formation pilote de ligne",
-                "anglais",
-                "avion de ligne",
-                "formation théorique",
-                "heures de vol",
-                "médecine aéronautique",
-                "navigation aérienne",
-                "pilotage d'un avion",
-                "pilote d'essai",
-                "simulateur de vol",
-                "sécurité aérienne",
-                "licence atpl",
-                "licence pilote de ligne",
                 "etudes pour devenir pilote de ligne",
-                "licence atpl théorique"
+                "formation pour devenir pilote de ligne",
+                "allemand",
+                "anglais",
+                "compétences linguistiques",
+                "concours pilote de ligne",
+                "formation pilote de ligne",
+                "formation pratique",
+                "gestion de vol",
+                "heures de vol",
+                "heures de vol requises",
+                "licence pilote de ligne",
+                "licence ppl",
+                "navigation aérienne",
+                "sécurité aérienne",
+                "théorie atpl",
+                "licence atpl",
+                "licence atpl théorique",
+                "cadet programmes",
+                "formation modulaire"
+            ]
+        },
+        {
+            "group": "Formation",
+            "title": "simulateur de vol",
+            "intent": "informational",
+            "keywords": [
+                "simulateur de vol",
+                "simulateur de vol pc",
+                "simulateur de vol ps5",
+                "simulateur de vol en ligne"
             ]
         },
         {
@@ -1344,73 +1379,61 @@
             "keywords": [
                 "ecole de pilotage",
                 "avion",
+                "avion de ligne",
+                "hélicoptère",
                 "instructeur",
+                "pilotage d'un avion",
+                "pilote d'essai",
                 "ecole de pilotage avion",
                 "ecole de pilotage france",
                 "école pour devenir pilote de ligne"
             ]
         },
         {
-            "group": "Formation",
-            "title": "coût formation pilote de ligne",
+            "group": "Conditions",
+            "title": "devenir pilote de ligne à 40 ans",
+            "intent": "informational",
+            "keywords": [
+                "devenir pilote de ligne à 40 ans",
+                "médecine aéronautique",
+                "médecine aéronautique pdf",
+                "visite médicale",
+                "médecin aéronautique classe 2"
+            ]
+        },
+        {
+            "group": "Conditions",
+            "title": "devenir pilote de ligne sans bac",
             "intent": "commercial",
             "keywords": [
-                "coût formation pilote de ligne",
-                "cout formation pilote",
+                "devenir pilote de ligne sans bac",
                 "pay to fly",
                 "devenir pilote de ligne prix",
-                "cout formation pilote helicoptere",
-                "cout formation pilote de drone"
+                "coût formation pilote",
+                "devenir pilote de ligne gratuitement"
             ]
         },
         {
-            "group": "Recrutement",
-            "title": "recrutement air france",
-            "intent": "commercial",
-            "keywords": [
-                "recrutement air france",
-                "compagnies aériennes recrutement",
-                "recrutement air france pnc",
-                "recrutement air france alternance",
-                "recrutement air france 2026"
-            ]
-        },
-        {
-            "group": "Recrutement",
+            "group": "Carrière",
             "title": "devenir pilote de ligne air france",
             "intent": "informational",
             "keywords": [
                 "devenir pilote de ligne air france",
                 "compagnies aériennes",
-                "recrutement air france 2025",
-                "parcours pour devenir pilote de ligne",
-                "étapes pour devenir pilote"
+                "compagnies aériennes recrutement",
+                "salaire commandant de bord air france",
+                "parcours pour devenir pilote de ligne"
             ]
         },
         {
-            "group": "Métier",
-            "title": "métier pilote de ligne",
+            "group": "Carrière",
+            "title": "salaire commandant de bord",
             "intent": "informational",
             "keywords": [
-                "métier pilote de ligne",
-                "carrière internationale pilote",
-                "copilote",
-                "salaire pilote de ligne",
                 "salaire commandant de bord",
                 "commandant de bord",
-                "salaire commandant de bord air france",
-                "pourquoi devenir pilote de ligne"
-            ]
-        },
-        {
-            "group": "Tests",
-            "title": "tests psychotechniques pilote",
-            "intent": "informational",
-            "keywords": [
-                "tests psychotechniques pilote",
-                "tests d'admission pilote",
-                "tests psychotechniques pilote de ligne",
-                "tests psychotechniques pilote de chasse"
+                "salaire pilote de ligne",
+                "aviation commerciale"
             ]
         },
         {
@@ -1419,72 +1442,91 @@
             "intent": "informational",
             "keywords": [
                 "devenir pilote de ligne en france",
-                "devenir pilote de ligne à 40 ans",
-                "devenir pilote de ligne belgique",
-                "devenir pilote de ligne suisse"
+                "devenir pilote de ligne suisse",
+                "devenir pilote de ligne belgique"
+            ]
+        },
+        {
+            "group": "Divers",
+            "title": "pourquoi devenir pilote de ligne",
+            "intent": "informational",
+            "keywords": [
+                "pourquoi devenir pilote de ligne",
+                "blouson d'aviateur",
+                "carrière internationale pilote",
+                "copilote",
+                "tuskegee airmen"
             ]
         }
     ],
     "categories": {
-        "recrutement air france": "commercial",
+        "simulateur de vol": "complementary",
+        "médecine aéronautique": "core",
         "ecole de pilotage": "core",
         "devenir pilote de ligne air france": "core",
+        "simulateur de vol pc": "complementary",
         "licence atpl": "core",
         "ecole de pilotage avion": "core",
-        "coût formation pilote de ligne": "commercial",
-        "formation modulaire pilote de ligne": "core",
-        "salaire commandant de bord": "commercial",
-        "salaire commandant de bord air france": "commercial",
-        "métier pilote de ligne": "core",
+        "devenir pilote de ligne à 40 ans": "core",
+        "aviation commerciale": "core",
+        "cadet programmes": "core",
+        "salaire commandant de bord": "core",
+        "salaire commandant de bord air france": "core",
         "etudes pour devenir pilote de ligne": "core",
-        "tests psychotechniques pilote": "core",
-        "devenir pilote de ligne en france": "core",
-        "recrutement air france pnc": "commercial",
+        "devenir pilote de ligne sans bac": "core",
+        "simulateur de vol ps5": "complementary",
+        "devenir pilote de ligne en france": "complementary",
         "devenir pilote de ligne prix": "commercial",
-        "tests psychotechniques pilote de ligne": "core",
-        "recrutement air france alternance": "commercial",
-        "recrutement air france 2026": "commercial",
-        "pourquoi devenir pilote de ligne": "complementary",
-        "tests psychotechniques pilote de chasse": "complementary",
-        "cout formation pilote helicoptere": "commercial",
+        "formation modulaire": "complementary",
         "formation pour devenir pilote de ligne": "complementary",
         "licence atpl théorique": "complementary",
-        "devenir pilote de ligne à 40 ans": "complementary",
+        "pourquoi devenir pilote de ligne": "complementary",
+        "médecine aéronautique pdf": "complementary",
+        "devenir pilote de ligne gratuitement": "commercial",
         "ecole de pilotage france": "complementary",
-        "recrutement air france 2025": "complementary",
-        "cout formation pilote de drone": "commercial",
+        "simulateur de vol en ligne": "commercial",
+        "devenir pilote de ligne suisse": "complementary",
         "devenir pilote de ligne belgique": "complementary",
         "parcours pour devenir pilote de ligne": "complementary",
         "école pour devenir pilote de ligne": "complementary",
-        "devenir pilote de ligne suisse": "complementary",
-        "formation pilote de ligne": "complementary",
-        "cout formation pilote": "commercial",
-        "salaire pilote de ligne": "core",
-        "étapes pour devenir pilote": "core",
+        "médecin aéronautique classe 2": "complementary",
+        "formation pilote de ligne": "core",
+        "coût formation pilote": "commercial",
+        "salaire pilote de ligne": "commercial",
         "compagnies aériennes recrutement": "commercial",
         "licence pilote de ligne": "core",
-        "tests d'admission pilote": "core",
+        "heures de vol requises": "core",
+        "concours pilote de ligne": "core",
         "carrière internationale pilote": "core",
-        "heures de vol": "complementary",
-        "formation théorique": "core",
-        "simulateur de vol": "complementary",
+        "licence ppl": "core",
+        "heures de vol": "core",
+        "théorie atpl": "core",
+        "formation pratique": "core",
+        "compétences linguistiques": "core",
+        "visite médicale": "core",
         "compagnies aériennes": "complementary",
-        "commandant de bord": "core",
-        "copilote": "core",
-        "navigation aérienne": "core",
         "sécurité aérienne": "core",
-        "médecine aéronautique": "complementary",
-        "anglais": "complementary",
+        "navigation aérienne": "core",
+        "gestion de vol": "core",
+        "anglais": "core",
+        "allemand": "complementary",
+        "armée de l'air française": "doubtful",
         "drone": "doubtful",
         "avion": "core",
-        "hélicoptère": "doubtful",
+        "hélicoptère": "complementary",
         "avion de ligne": "complementary",
         "instructeur": "complementary",
         "pilotage d'un avion": "complementary",
         "pilote d'essai": "complementary",
+        "personnalités pilotes": "doubtful",
+        "blouson d'aviateur": "commercial",
         "pay to fly": "commercial",
+        "copilote": "complementary",
+        "commandant de bord": "complementary",
+        "tuskegee airmen": "complementary",
         "école de pilotage automobile": "doubtful",
-        "métier conducteur de ligne": "doubtful",
-        "cout formation pilote de chasse": "doubtful"
+        "simulateur de vol gratuit": "doubtful",
+        "simulateur de vol google earth": "doubtful",
+        "médecine aéronautique et spatiale": "doubtful"
     }
 }

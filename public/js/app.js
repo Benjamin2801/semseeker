@@ -90,24 +90,6 @@ const confirmOn = (button, message) => {
     setTimeout(() => { label.textContent = initial; }, 1800);
 };
 
-document.querySelectorAll('[data-copy-terms]').forEach((button) => {
-    const list = button.closest('.synthesis-card').querySelector('.term-list');
-    button.hidden = false;
-    button.addEventListener('click', async () => {
-        await copyText([...list.querySelectorAll('li > span')].map((term) => term.textContent.trim()).join('\n'));
-        confirmOn(button, button.dataset.labelCopied);
-    });
-});
-
-document.querySelectorAll('[data-copy-theme]').forEach((button) => {
-    button.hidden = false;
-    button.addEventListener('click', async (event) => {
-        event.preventDefault();
-        await copyText(button.dataset.copyTheme);
-        confirmOn(button, button.dataset.labelCopied);
-    });
-});
-
 document.addEventListener('click', async (event) => {
     const term = event.target.closest('.row-label, .term-list li > span, .term');
     if (!term) {
@@ -123,73 +105,127 @@ document.addEventListener('click', async (event) => {
     setTimeout(() => term.classList.remove('is-copied'), 700);
 });
 
-document.querySelectorAll('[data-structure]').forEach((structure) => {
-    const tree = structure.querySelector('[data-tree]');
-    structure.querySelector('[data-hide-low]').addEventListener('change', (event) => {
-        tree.classList.toggle('hide-low', event.target.checked);
-    });
-
-    const keywords = JSON.parse(structure.querySelector('[data-keywords]').textContent);
-
-    const copyKeywords = structure.querySelector('[data-copy-keywords]');
-    copyKeywords?.addEventListener('click', async () => {
-        await copyText(structure.querySelector('[data-keywords-text]').content.textContent.trim());
-        confirmOn(copyKeywords, structure.dataset.labelKeywordsCopied.replace('%count%', keywords.length));
-    });
-
-    structure.querySelector('[data-export]').addEventListener('click', () => {
-        const csv = JSON.parse(structure.querySelector('[data-csv]').textContent);
-        const cell = (value) => `"${String(value ?? '').replaceAll('"', '""')}"`;
-        const lines = [csv.header, ...csv.rows].map((row) => row.map(cell).join(';'));
-
-        const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
-        const link = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: structure.dataset.filename });
-        link.click();
-        URL.revokeObjectURL(link.href);
-    });
-
-    const intentChips = [...structure.querySelectorAll('[data-intent-filter]')];
-    intentChips.forEach((chip) => {
-        chip.addEventListener('click', () => {
-            chip.setAttribute('aria-pressed', String(chip.getAttribute('aria-pressed') !== 'true'));
-            const selected = intentChips.filter((c) => c.getAttribute('aria-pressed') === 'true').map((c) => c.dataset.intentFilter);
-            tree.querySelectorAll('.tree-group').forEach((group) => {
-                const pages = [...group.querySelectorAll('.tree-page')];
-                pages.forEach((page) => { page.hidden = selected.length > 0 && !selected.includes(page.dataset.intent); });
-                group.hidden = selected.length > 0 && pages.every((page) => page.hidden);
-            });
+// La section des résultats arrive en deux temps (le plan après le reste) : ses boutons se branchent à chaque arrivée.
+const initResults = (root) => {
+    root.querySelectorAll('[data-copy-terms]').forEach((button) => {
+        const list = button.closest('.synthesis-card').querySelector('.term-list');
+        button.hidden = false;
+        button.addEventListener('click', async () => {
+            await copyText([...list.querySelectorAll('li > span')].map((term) => term.textContent.trim()).join('\n'));
+            confirmOn(button, button.dataset.labelCopied);
         });
     });
 
-    const categoryChips = [...structure.querySelectorAll('[data-category-filter]')];
-    categoryChips.forEach((chip) => {
-        chip.addEventListener('click', () => {
-            chip.setAttribute('aria-pressed', String(chip.getAttribute('aria-pressed') !== 'true'));
-            const selected = categoryChips.filter((c) => c.getAttribute('aria-pressed') === 'true').map((c) => c.dataset.categoryFilter);
-            const kept = (term) => selected.length === 0 || selected.includes(term.dataset.category);
-            tree.querySelectorAll('[data-category]').forEach((term) => {
-                const title = term.classList.contains('section-title');
-                term.classList.toggle('is-filtered-out', !title && !kept(term));
-                term.classList.toggle('is-filtered-dim', title && !kept(term));
-            });
-            tree.querySelectorAll('.page-sections > li, .tree-page, .tree-group').forEach((block) => {
-                block.classList.toggle('is-filtered-out', selected.length > 0 && ![...block.querySelectorAll('[data-category]')].some(kept));
-            });
+    root.querySelectorAll('[data-copy-theme]').forEach((button) => {
+        button.hidden = false;
+        button.addEventListener('click', async (event) => {
+            event.preventDefault();
+            await copyText(button.dataset.copyTheme);
+            confirmOn(button, button.dataset.labelCopied);
         });
     });
+    root.querySelectorAll('[data-structure]').forEach((structure) => {
+        const tree = structure.querySelector('[data-tree]');
+        structure.querySelector('[data-hide-low]').addEventListener('change', (event) => {
+            tree.classList.toggle('hide-low', event.target.checked);
+        });
 
-    const printButton = structure.querySelector('[data-print]');
-    printButton.hidden = false;
-    printButton.addEventListener('click', () => {
-        structure.querySelectorAll('details').forEach((details) => { details.open = true; });
-        window.print();
-    });
+        const keywords = JSON.parse(structure.querySelector('[data-keywords]').textContent);
 
-    const copyPlan = structure.querySelector('[data-copy-plan]');
-    copyPlan?.addEventListener('click', async () => {
-        await copyText(structure.querySelector('[data-plan-text]').content.textContent.trim());
-        confirmOn(copyPlan, structure.dataset.labelCopied);
+        const copyKeywords = structure.querySelector('[data-copy-keywords]');
+        copyKeywords?.addEventListener('click', async () => {
+            await copyText(structure.querySelector('[data-keywords-text]').content.textContent.trim());
+            confirmOn(copyKeywords, structure.dataset.labelKeywordsCopied.replace('%count%', keywords.length));
+        });
+
+        structure.querySelector('[data-export]').addEventListener('click', () => {
+            const csv = JSON.parse(structure.querySelector('[data-csv]').textContent);
+            const cell = (value) => `"${String(value ?? '').replaceAll('"', '""')}"`;
+            const lines = [csv.header, ...csv.rows].map((row) => row.map(cell).join(';'));
+
+            const blob = new Blob(['﻿' + lines.join('\r\n')], { type: 'text/csv;charset=utf-8' });
+            const link = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: structure.dataset.filename });
+            link.click();
+            URL.revokeObjectURL(link.href);
+        });
+
+        const intentChips = [...structure.querySelectorAll('[data-intent-filter]')];
+        intentChips.forEach((chip) => {
+            chip.addEventListener('click', () => {
+                chip.setAttribute('aria-pressed', String(chip.getAttribute('aria-pressed') !== 'true'));
+                const selected = intentChips.filter((c) => c.getAttribute('aria-pressed') === 'true').map((c) => c.dataset.intentFilter);
+                tree.querySelectorAll('.tree-group').forEach((group) => {
+                    const pages = [...group.querySelectorAll('.tree-page')];
+                    pages.forEach((page) => { page.hidden = selected.length > 0 && !selected.includes(page.dataset.intent); });
+                    group.hidden = selected.length > 0 && pages.every((page) => page.hidden);
+                });
+            });
+        });
+
+        const categoryChips = [...structure.querySelectorAll('[data-category-filter]')];
+        categoryChips.forEach((chip) => {
+            chip.addEventListener('click', () => {
+                chip.setAttribute('aria-pressed', String(chip.getAttribute('aria-pressed') !== 'true'));
+                const selected = categoryChips.filter((c) => c.getAttribute('aria-pressed') === 'true').map((c) => c.dataset.categoryFilter);
+                const kept = (term) => selected.length === 0 || selected.includes(term.dataset.category);
+                tree.querySelectorAll('[data-category]').forEach((term) => {
+                    const title = term.classList.contains('section-title');
+                    term.classList.toggle('is-filtered-out', !title && !kept(term));
+                    term.classList.toggle('is-filtered-dim', title && !kept(term));
+                });
+                tree.querySelectorAll('.page-sections > li, .tree-page, .tree-group').forEach((block) => {
+                    block.classList.toggle('is-filtered-out', selected.length > 0 && ![...block.querySelectorAll('[data-category]')].some(kept));
+                });
+            });
+        });
+
+        const printButton = structure.querySelector('[data-print]');
+        printButton.hidden = false;
+        printButton.addEventListener('click', () => {
+            structure.querySelectorAll('details').forEach((details) => { details.open = true; });
+            window.print();
+        });
+
+        const copyPlan = structure.querySelector('[data-copy-plan]');
+        copyPlan?.addEventListener('click', async () => {
+            await copyText(structure.querySelector('[data-plan-text]').content.textContent.trim());
+            confirmOn(copyPlan, structure.dataset.labelCopied);
+        });
     });
+};
+
+initResults(document);
+
+// Le plan se prépare dans une seconde requête, qui a son propre délai d'exécution : il remplace la section à son arrivée.
+document.querySelectorAll('[data-plan-url]').forEach(async (pending) => {
+    const section = pending.closest('[data-results]');
+    const fail = () => {
+        pending.querySelector('.plan-spinner')?.remove();
+        pending.querySelector('[data-plan-message]').textContent = pending.dataset.labelFailed;
+    };
+    try {
+        const response = await fetch(pending.dataset.planUrl, { headers: { Accept: 'text/html' } });
+        if (response.status === 410) {
+            // Préparation expirée (page restée ouverte longtemps) : la recherche repart du début.
+            window.location.reload();
+            return;
+        }
+        if (!response.ok) {
+            fail();
+            return;
+        }
+        const fragment = document.createElement('template');
+        fragment.innerHTML = await response.text();
+        const results = fragment.content.querySelector('[data-results]');
+        if (!results) {
+            fail();
+            return;
+        }
+        section.replaceWith(results);
+        initResults(results);
+    } catch {
+        fail();
+    }
 });
 
 document.querySelectorAll('[data-autocomplete]').forEach((input) => {

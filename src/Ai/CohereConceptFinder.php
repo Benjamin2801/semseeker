@@ -48,7 +48,8 @@ final class CohereConceptFinder implements ConceptFinderInterface
         - A concept never shares a word with the seed while meaning something else: no other product, insurance
           or service named like it ("assurance auto" is not about "assurance vie"), and no consumer use of a
           business subject ("logiciel de comptes personnels" for "comptabilité entreprise").
-        - No brand names, no place names.
+        - No brand names and no place names, except a product or tool that defines the field itself and that people
+          search with it ("photoshop" for "retouche photo").
 
         ## Subject
         subject: the word or words of the seed that name what it is about, without its qualifiers

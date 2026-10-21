@@ -17,11 +17,11 @@
         "couleur du ciel",
         "atmosphère terrestre",
         "diffusion de la lumière",
+        "rayonnement solaire",
         "phénomène de rayleigh",
         "perception des couleurs",
         "composition de l'air",
-        "soleil et ciel",
-        "ciel étoilé"
+        "sciences de la terre"
     ],
     "suggestions": {
         "amazon": [
@@ -298,6 +298,54 @@
             ],
             [
                 0,
+                "rayonnement solaire"
+            ],
+            [
+                1,
+                "rayonnement solaire enseignement scientifique"
+            ],
+            [
+                2,
+                "rayonnement solaire direct"
+            ],
+            [
+                3,
+                "rayonnement solaire def"
+            ],
+            [
+                4,
+                "rayonnement solaire sur la terre"
+            ],
+            [
+                5,
+                "rayonnement solaire cours"
+            ],
+            [
+                6,
+                "rayonnement solaire global"
+            ],
+            [
+                7,
+                "rayonnement solaire et latitude"
+            ],
+            [
+                8,
+                "rayonnement solaire uv"
+            ],
+            [
+                9,
+                "rayonnement solaire et principe de conversion"
+            ],
+            [
+                10,
+                "rayonnement solaire w/m2"
+            ],
+            [
+                11,
+                "rayonnement solaire diffus"
+            ],
+            [
+                0,
                 "phénomène de rayleigh"
             ],
             [
@@ -374,79 +422,51 @@
             ],
             [
                 0,
-                "soleil et ciel bleu"
+                "sciences de la terre"
             ],
             [
                 1,
-                "le ciel le soleil et la mer"
+                "sciences de la terre et de l'univers"
             ],
             [
                 2,
-                "il y a le ciel le soleil et la mer chanson"
+                "sciences de la terre et des planètes"
             ],
             [
                 3,
-                "le ciel le soleil et la mer françois deguelt"
+                "sciences de la terre bordeaux"
             ],
             [
                 4,
-                "il y a le ciel le soleil et la mer"
+                "sciences de la terre en anglais"
             ],
             [
                 5,
-                "le ciel le soleil et la mer paroles"
+                "sciences de la terre en 3 lettres"
             ],
             [
                 6,
-                "le ciel le soleil et la mer karaoké"
-            ],
-            [
-                0,
-                "ciel étoilé"
-            ],
-            [
-                1,
-                "ciel étoilé image"
-            ],
-            [
-                2,
-                "ciel étoilé voiture"
-            ],
-            [
-                3,
-                "ciel étoilé van gogh"
-            ],
-            [
-                4,
-                "ciel étoilé dessin"
-            ],
-            [
-                5,
-                "ciel étoilé nuit"
-            ],
-            [
-                6,
-                "ciel étoilé fond d'écran"
+                "sciences de la terre uqam"
             ],
             [
                 7,
-                "ciel étoilé mariage"
+                "sciences de la terre nancy"
             ],
             [
                 8,
-                "ciel étoilé noir"
+                "sciences de la terre sorbonne université"
             ],
             [
                 9,
-                "ciel étoilé 4k"
+                "sciences de la terre brevet"
             ],
             [
                 10,
-                "ciel étoilé png"
+                "sciences de la terre et de l'univers pdf"
             ],
             [
                 11,
-                "ciel étoilé chambre"
+                "sciences de la terre et de l'univers vuibert"
             ]
         ],
         "google": [
@@ -592,6 +612,46 @@
             ],
             [
                 0,
+                "rayonnement solaire"
+            ],
+            [
+                1,
+                "rayonnement solaire w/m2"
+            ],
+            [
+                2,
+                "rayonnement solaire w/m2 france"
+            ],
+            [
+                3,
+                "rayonnement solaire incident"
+            ],
+            [
+                4,
+                "rayonnement solaire reçu par la terre"
+            ],
+            [
+                5,
+                "rayonnement solaire sur la terre"
+            ],
+            [
+                6,
+                "rayonnement solaire eclipse"
+            ],
+            [
+                7,
+                "rayonnement solaire actuel"
+            ],
+            [
+                8,
+                "rayonnement solaire vitrage"
+            ],
+            [
+                9,
+                "rayonnement solaire pdf"
+            ],
+            [
+                0,
                 "phénomène de rayleigh"
             ],
             [
@@ -680,135 +740,67 @@
             ],
             [
                 0,
-                "soleil et ciel bleu"
+                "sciences de la terre"
             ],
             [
                 1,
-                "image soleil et ciel bleu"
+                "sciences de la terre en 3 lettres"
             ],
             [
                 2,
-                "dessin soleil et ciel"
+                "sciences de la terre mots fléchés"
             ],
             [
                 3,
-                "soleil ciel"
+                "sciences de la terre et de l'univers"
             ],
             [
                 4,
-                "soleil ciel terre"
+                "sciences de la terre en 10 lettres"
             ],
             [
                 5,
-                "soleil ciel rouge"
+                "sciences de la terre et des planètes environnement"
             ],
             [
                 6,
-                "soleil ciel nuageux"
+                "sciences de la terre 8 lettres"
             ],
             [
                 7,
-                "soleil ciel nuage"
+                "sciences de la terre licence"
             ],
             [
                 8,
-                "soleil ciel jaune"
+                "sciences de la terre sorbonne"
             ],
             [
                 9,
-                "soleil ciel magnifique"
-            ],
-            [
-                0,
-                "ciel étoilé"
-            ],
-            [
-                1,
-                "ciel étoilé voiture"
-            ],
-            [
-                2,
-                "ciel étoilé van gogh"
-            ],
-            [
-                3,
-                "ciel étoilé mariage"
-            ],
-            [
-                4,
-                "ciel étoilé voiture tarif"
-            ],
-            [
-                5,
-                "ciel étoilé plafond"
-            ],
-            [
-                6,
-                "ciel étoilé voiture lyon"
-            ],
-            [
-                7,
-                "ciel étoilé ce soir"
-            ],
-            [
-                8,
-                "ciel étoilé chambre"
-            ],
-            [
-                9,
-                "ciel étoilé dessin"
+                "sciences de la terre mots croisés"
             ]
         ],
         "amazon": [
             [
                 0,
-                "projection ciel étoilé"
+                "rayonnement solaire"
+            ],
+            [
+                0,
+                "sciences de la terre"
             ],
             [
                 1,
-                "projecteur ciel étoilé"
-            ],
-            [
-                2,
-                "veilleuse ciel étoilé"
-            ],
-            [
-                3,
-                "ciel étoilé"
-            ],
-            [
-                4,
-                "lampe ciel étoilé"
-            ],
-            [
-                5,
-                "ciel étoilé voiture"
-            ],
-            [
-                6,
-                "ciel étoilé chambre"
-            ],
-            [
-                7,
-                "ciel étoilé plafond"
-            ],
-            [
-                8,
-                "ciel étoilé plafond chambre"
-            ],
-            [
-                9,
-                "ciel étoilé chambre enfant"
+                "sciences de la terre et de l'univers"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "couleur du ciel"
+                "couleur du ciel en 5 lettres"
             ],
             [
                 1,
-                "couleur du ciel en 5 lettres"
+                "couleur du ciel"
             ],
             [
                 2,
@@ -900,6 +892,38 @@
             ],
             [
                 0,
+                "rayonnement solaire"
+            ],
+            [
+                1,
+                "rayonnement solaire enseignement scientifique"
+            ],
+            [
+                2,
+                "rayonnement solaire direct"
+            ],
+            [
+                3,
+                "rayonnement solaire def"
+            ],
+            [
+                4,
+                "rayonnement solaire sur la terre"
+            ],
+            [
+                5,
+                "rayonnement solaire cours"
+            ],
+            [
+                6,
+                "rayonnement solaire global"
+            ],
+            [
+                7,
+                "rayonnement solaire et latitude"
+            ],
+            [
+                0,
                 "phénomène de rayleigh"
             ],
             [
@@ -960,69 +984,41 @@
             ],
             [
                 0,
-                "soleil et ciel bleu"
+                "sciences de la terre"
             ],
             [
                 1,
-                "le ciel le soleil et la mer"
+                "sciences de la terre et de l'univers"
             ],
             [
                 2,
-                "il y a le ciel le soleil et la mer chanson"
+                "sciences de la terre bordeaux"
             ],
             [
                 3,
-                "le ciel le soleil et la mer françois deguelt"
+                "sciences de la terre en anglais"
             ],
             [
                 4,
-                "il y a le ciel le soleil et la mer"
+                "sciences de la terre sorbonne université"
             ],
             [
                 5,
-                "le ciel le soleil et la mer paroles"
+                "sciences de la terre en 3 lettres"
             ],
             [
                 6,
-                "le ciel le soleil et la mer karaoké"
-            ],
-            [
-                0,
-                "ciel étoilé"
-            ],
-            [
-                1,
-                "ciel étoilé image"
-            ],
-            [
-                2,
-                "ciel étoilé voiture"
-            ],
-            [
-                3,
-                "ciel étoilé van gogh"
-            ],
-            [
-                4,
-                "ciel étoilé dessin"
-            ],
-            [
-                5,
-                "ciel étoilé nuit"
-            ],
-            [
-                6,
-                "ciel étoilé fond d'écran"
+                "sciences de la terre strasbourg"
             ],
             [
                 7,
-                "ciel étoilé mariage"
+                "sciences de la terre uqam"
             ]
         ],
-        "ebay": [
+        "indeed": [
             [
                 0,
-                "ciel étoile voiture"
+                "sciences de la terre"
             ]
         ],
         "yahoo": [
@@ -1072,6 +1068,22 @@
             ],
             [
                 0,
+                "rayonnement solaire"
+            ],
+            [
+                1,
+                "rayonnement solaire sur la terre"
+            ],
+            [
+                2,
+                "rayonnement solaire incident"
+            ],
+            [
+                3,
+                "rayonnement solaire par région"
+            ],
+            [
+                0,
                 "phenomene de rayleigh one"
             ],
             [
@@ -1112,47 +1124,19 @@
             ],
             [
                 0,
-                "soleil et ciel bleu"
-            ],
-            [
-                0,
-                "ciel étoilé"
+                "sciences de la terre"
             ],
             [
                 1,
-                "ciel étoilé photo"
+                "ecole et observatoire des sciences de la terre"
             ],
             [
                 2,
-                "ciel étoilé image"
+                "licence sciences de la terre"
             ],
             [
                 3,
-                "ciel étoilé van gogh"
-            ],
-            [
-                4,
-                "ciel étoilé voiture"
-            ],
-            [
-                5,
-                "ciel étoilé fibre optique"
-            ],
-            [
-                6,
-                "ciel étoilé dessin"
-            ],
-            [
-                7,
-                "ciel étoilé lune"
-            ],
-            [
-                8,
-                "ciel étoilé nuit"
-            ],
-            [
-                9,
-                "ciel étoilé à chamonix"
+                "institut des sciences de la terre"
             ]
         ],
         "youtube": [
@@ -1242,6 +1226,46 @@
             ],
             [
                 0,
+                "rayonnement solaire enseignement scientifique"
+            ],
+            [
+                1,
+                "rayonnement solaire enseignement scientifique physique 1ere"
+            ],
+            [
+                2,
+                "rayonnement solaire enseignement scientifique svt"
+            ],
+            [
+                3,
+                "rayonnement solaire enseignement scientifique 1ere"
+            ],
+            [
+                4,
+                "rayonnement solaire 1ere"
+            ],
+            [
+                5,
+                "rayonnement solaire premiere"
+            ],
+            [
+                6,
+                "rayonnement solaire et son phénomène vibratoire"
+            ],
+            [
+                7,
+                "energie solaire"
+            ],
+            [
+                8,
+                "energie solaire photovoltaique"
+            ],
+            [
+                9,
+                "energie solaire شرح"
+            ],
+            [
+                0,
                 "perception des couleurs"
             ],
             [
@@ -1282,47 +1306,35 @@
             ],
             [
                 0,
-                "soleil ciel bleu"
-            ],
-            [
-                0,
-                "ciel étoilé"
+                "sciences de la terre"
             ],
             [
                 1,
-                "ciel étoilé voiture"
+                "licence sciences de la terre"
             ],
             [
                 2,
-                "ciel étoilé nono la grinta"
+                "documentaire science de la terre"
             ],
             [
                 3,
-                "ciel étoilé 4k"
+                "introduction aux sciences de la terre s1"
             ],
             [
                 4,
-                "ciel étoilé chambre"
+                "introduction aux sciences de la terre"
             ],
             [
                 5,
-                "ciel étoilé voiture tuto"
+                "science de la terre et de l'univers"
             ],
             [
                 6,
-                "ciel étoilé nono"
+                "science et vie de la terre"
             ],
             [
                 7,
-                "ciel étoilé voiture installation"
-            ],
-            [
-                8,
-                "ciel étoilé aquarelle"
-            ],
-            [
-                9,
-                "ciel étoilé golf 4"
+                "géologie de la terre"
             ]
         ]
     },
@@ -1360,56 +1372,54 @@
             "intent": "informational",
             "keywords": [
                 "atmosphère terrestre",
-                "composition de l'air",
-                "atmosphère terrestre et la vie",
-                "atmosphère terrestre définition",
                 "fenêtre atmosphérique",
+                "molécules d'air",
+                "composition de l'air",
                 "composition de l'air en pourcentage",
-                "composition de l'air atmosphérique",
-                "molecules d'air",
-                "particules atmosphériques"
-            ]
-        },
-        {
-            "group": "Atmosphère terrestre",
-            "title": "composition de l'air ambiant",
-            "intent": "informational",
-            "keywords": [
                 "composition de l'air ambiant",
                 "composition atmosphère terrestre",
-                "composition de l'air 4eme"
+                "composition de l'air atmosphérique",
+                "composition de l'air 4eme",
+                "particules atmosphériques",
+                "atmosphère terrestre et la vie",
+                "atmosphère terrestre et vie enseignement scientifique terminale",
+                "atmosphère terrestre définition"
             ]
         },
         {
-            "group": "Couleur du ciel",
+            "group": "Explications simplifiées",
+            "title": "pourquoi le ciel est bleu explication simple",
+            "intent": "informational",
+            "keywords": [
+                "pourquoi le ciel est bleu explication simple",
+                "couchant",
+                "horizon",
+                "pourquoi le ciel est bleu explication enfant",
+                "pourquoi le ciel est bleu le jour",
+                "pourquoi le ciel est bleu pour les enfants"
+            ]
+        },
+        {
+            "group": "Explications simplifiées",
+            "title": "pourquoi le ciel est bleu wikipédia",
+            "intent": "informational",
+            "keywords": [
+                "pourquoi le ciel est bleu wikipédia",
+                "pourquoi le ciel est bleu signol",
+                "christian signol pourquoi le ciel est bleu",
+                "pourquoi le ciel est bleu livre"
+            ]
+        },
+        {
+            "group": "Explications simplifiées",
             "title": "couleur du ciel",
             "intent": "informational",
             "keywords": [
                 "couleur du ciel",
                 "azur",
-                "bleu",
-                "bleu scatter",
-                "ciel rouge",
-                "couleurs du coucher de soleil",
-                "spectre lumineux",
-                "soleil et ciel bleu",
-                "soleil ciel",
-                "nuage",
-                "rayonnement solaire",
-                "rayons du soleil",
-                "pourquoi le ciel est bleu explication simple",
-                "phénomène de rayleigh",
-                "longueurs d'onde"
-            ]
-        },
-        {
-            "group": "Couleur du ciel",
-            "title": "pourquoi le ciel est bleu explication enfant",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi le ciel est bleu explication enfant",
-                "pourquoi le ciel est bleu pour les enfants",
-                "pourquoi le ciel est bleu c'est pas sorcier"
+                "nuages",
+                "pourquoi le ciel est bleu c'est pas sorcier",
+                "pourquoi le ciel est bleu alors que l'espace est noir"
             ]
         },
         {
@@ -1418,101 +1428,94 @@
             "intent": "informational",
             "keywords": [
                 "diffusion de la lumière",
-                "perception",
+                "rayonnement solaire",
+                "rayonnement solaire sur la terre",
+                "rayonnement solaire enseignement scientifique",
+                "rayonnement solaire incident",
+                "arc-en-ciel",
+                "diffusion élastique",
+                "longueurs d'onde",
+                "lumière bleue",
+                "soleil",
+                "spectre lumineux",
+                "épaisseur optique",
+                "phénomène de rayleigh",
+                "diffusion dynamique de la lumière"
+            ]
+        },
+        {
+            "group": "Sciences de la Terre",
+            "title": "sciences de la terre",
+            "intent": "informational",
+            "keywords": [
+                "sciences de la terre",
+                "sciences de la terre et de l'univers",
+                "licence sciences de la terre"
+            ]
+        },
+        {
+            "group": "Perception des couleurs",
+            "title": "perception des couleurs",
+            "intent": "informational",
+            "keywords": [
                 "perception des couleurs",
-                "lumière blanche",
-                "diffusion dynamique de la lumière",
-                "épaisseur optique"
-            ]
-        },
-        {
-            "group": "Ciel étoilé",
-            "title": "ciel étoilé",
-            "intent": "informational",
-            "keywords": [
-                "ciel étoilé",
-                "ciel nocturne"
-            ]
-        },
-        {
-            "group": "Questions connexes",
-            "title": "pourquoi le ciel est bleu le jour",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi le ciel est bleu le jour",
-                "pourquoi le ciel est bleu alors que l'espace est noir"
-            ]
-        },
-        {
-            "group": "Ressources et médias",
-            "title": "pourquoi le ciel est bleu wikipédia",
-            "intent": "informational",
-            "keywords": [
-                "christian signol pourquoi le ciel est bleu"
-            ]
-        },
-        {
-            "group": "Ressources et médias",
-            "title": "pourquoi le ciel est bleu rap",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi le ciel est bleu musique"
+                "bleu",
+                "perception",
+                "perception des couleurs test"
             ]
         }
     ],
     "categories": {
-        "ciel étoilé": "core",
+        "sciences de la terre": "core",
         "composition de l'air": "core",
         "diffusion de la lumière": "core",
         "perception des couleurs": "core",
-        "soleil et ciel bleu": "core",
+        "rayonnement solaire": "core",
         "atmosphère terrestre": "core",
         "couleur du ciel": "core",
+        "sciences de la terre et de l'univers": "core",
         "pourquoi le ciel est bleu explication simple": "core",
         "composition de l'air en pourcentage": "core",
         "pourquoi le ciel est bleu explication enfant": "core",
         "composition de l'air ambiant": "core",
-        "pourquoi le ciel est bleu wikipédia": "doubtful",
-        "ciel étoilé van gogh": "doubtful",
-        "pourquoi le ciel est bleu livre": "doubtful",
+        "pourquoi le ciel est bleu wikipédia": "core",
+        "pourquoi le ciel est bleu livre": "core",
+        "rayonnement solaire sur la terre": "complementary",
+        "licence sciences de la terre": "commercial",
         "phénomène de rayleigh": "core",
-        "pourquoi le ciel est bleu rap": "doubtful",
         "composition atmosphère terrestre": "complementary",
         "composition de l'air atmosphérique": "complementary",
-        "pourquoi le ciel est bleu signol": "doubtful",
+        "rayonnement solaire enseignement scientifique": "complementary",
+        "pourquoi le ciel est bleu signol": "complementary",
         "atmosphère terrestre et la vie": "complementary",
-        "ciel étoilé image": "doubtful",
         "pourquoi le ciel est bleu le jour": "complementary",
         "composition de l'air 4eme": "complementary",
         "pourquoi le ciel est bleu pour les enfants": "complementary",
-        "perception des couleurs test": "doubtful",
+        "perception des couleurs test": "complementary",
+        "rayonnement solaire incident": "complementary",
         "diffusion dynamique de la lumière": "complementary",
         "atmosphère terrestre définition": "complementary",
-        "atmosphère terrestre et vie enseignement scientifique terminale": "doubtful",
-        "ciel étoilé chambre": "doubtful",
+        "atmosphère terrestre et vie enseignement scientifique terminale": "complementary",
         "pourquoi le ciel est bleu c'est pas sorcier": "complementary",
         "christian signol pourquoi le ciel est bleu": "commercial",
         "pourquoi le ciel est bleu alors que l'espace est noir": "complementary",
-        "pourquoi le ciel est bleu musique": "commercial",
-        "soleil ciel": "complementary",
-        "ciel nocturne": "core",
-        "lumière blanche": "core",
+        "lumière bleue": "core",
         "longueurs d'onde": "core",
         "particules atmosphériques": "core",
-        "rayons du soleil": "core",
-        "molecules d'air": "core",
-        "bleu scatter": "core",
-        "ciel rouge": "core",
-        "couleurs du coucher de soleil": "complementary",
-        "nuage": "complementary",
+        "molécules d'air": "core",
+        "diffusion élastique": "complementary",
+        "soleil": "core",
+        "horizon": "complementary",
+        "couchant": "complementary",
+        "nuages": "complementary",
+        "arc-en-ciel": "complementary",
         "spectre lumineux": "complementary",
         "bleu": "complementary",
-        "rayonnement solaire": "complementary",
         "perception": "complementary",
         "azur": "complementary",
         "épaisseur optique": "complementary",
         "assombrissement global": "doubtful",
         "fenêtre atmosphérique": "complementary",
-        "ciel étoile voiture": "doubtful"
+        "pourquoi le ciel est bleu rap": "doubtful"
     }
 }

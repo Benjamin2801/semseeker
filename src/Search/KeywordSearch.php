@@ -44,7 +44,14 @@ final class KeywordSearch
     ) {
     }
 
+    // Toute l'analyse en une fois (banc, tests), le plan disposant de son propre délai comme dans la seconde requête de la page.
     public function search(string $keyword, string $lang): SearchResult
+    {
+        return $this->complete($this->prepare($keyword, $lang), microtime(true));
+    }
+
+    // Collecte, Wikipédia, concepts et candidats : tout sauf le plan, qui peut partir dans une autre requête.
+    public function prepare(string $keyword, string $lang): SearchPreparation
     {
         $startedAt = microtime(true);
 
@@ -71,7 +78,32 @@ final class KeywordSearch
         $core = $pendingConcepts->coreTerms();
         $candidates = $this->withVocabulary(\array_slice($merged, 0, $this->maxCandidates), $merged, $vocabulary, $types, $core, $keyword, $lang, $context);
 
+        return new SearchPreparation(
+            keyword: $keyword,
+            lang: $lang,
+            candidates: $candidates,
+            mergedCount: \count($merged),
+            failedSources: $collected->failedSources,
+            sourceCount: \count($collected->sources),
+            demand: Demand::estimate($collected->suggestions, $collected->getRespondingSources()),
+            wikipedia: $wikipedia,
+            signals: $signals,
+            concepts: $concepts,
+            types: $types,
+            startedAt: $startedAt,
+        );
+    }
+
+    /**
+     * Le plan et le résultat final. Le délai part de la préparation quand tout tient dans une requête, ou de maintenant
+     * quand le plan a sa propre requête.
+     */
+    public function complete(SearchPreparation $preparation, ?float $startedAt = null): SearchResult
+    {
+        [$keyword, $lang, $concepts, $types, $candidates] = [$preparation->keyword, $preparation->lang, $preparation->concepts, $preparation->types, $preparation->candidates];
+        $wikipedia = $preparation->wikipedia;
         $articles = array_map(static fn ($a): string => $a->title, $wikipedia->articles ?? []);
+        $context = LexicalContext::of($keyword, $articles);
 
         $unmeasured = array_values(array_map(static fn (Keyword $k): string => $k->text, array_filter($candidates, static fn (Keyword $k): bool => !$k->isMeasured())));
         $views = [];
@@ -84,7 +116,7 @@ final class KeywordSearch
         $estimate = static function (array $keywords) use (&$views): array {
             return array_values(array_map(static fn (Keyword $k): Keyword => $k->isMeasured() ? $k : $k->withEstimate(Estimate::of($k, $views[$k->text] ?? 0)), $keywords));
         };
-        [$field, $rejected, $candidates, $onTopic] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt, $meanwhile, $estimate, $context);
+        [$field, $rejected, $candidates, $onTopic] = $this->field($keyword, $lang, $candidates, $concepts, $types, $articles, $startedAt ?? $preparation->startedAt, $meanwhile, $estimate, $context);
         $wikipedia = $wikipedia?->judged($onTopic);
         $candidates = $estimate($candidates);
         $rejectedSet = array_flip($rejected);
@@ -94,19 +126,19 @@ final class KeywordSearch
             $kept = array_values(array_filter($kept, static fn (Keyword $k): bool => $k->isMeasured()));
         }
 
-        $found = \count($merged) - \count($excluded) + \count(array_filter($kept, static fn (Keyword $k): bool => !$k->isMeasured()));
+        $found = $preparation->mergedCount - \count($excluded) + \count(array_filter($kept, static fn (Keyword $k): bool => !$k->isMeasured()));
 
         return new SearchResult(
             keywords: $kept,
             total: $found,
-            failedSources: $collected->failedSources,
-            sourceCount: \count($collected->sources),
-            demand: Demand::estimate($collected->suggestions, $collected->getRespondingSources()),
+            failedSources: $preparation->failedSources,
+            sourceCount: $preparation->sourceCount,
+            demand: $preparation->demand,
             field: $field instanceof SemanticField ? $field : null,
             fieldIssue: \is_string($field) ? $field : null,
             wikipedia: $wikipedia,
             excluded: $excluded,
-            signals: $signals,
+            signals: $preparation->signals,
             concepts: $concepts,
         );
     }
@@ -129,8 +161,6 @@ final class KeywordSearch
         $fromSeed = array_values(array_filter($collected->suggestions, static fn ($s): bool => $s->fromSeed));
         $signals = PageSignals::from(
             $keyword, $lang, $merger->merge($fromSeed, $keyword, $collected->getAnsweringSourceCount()), $collected->suggestions, $collected->getRespondingSources(), $filter, \count($wikipedia->types ?? []),
-
-            array_values(array_map(static fn ($a): string => $a->title, array_filter($wikipedia->articles ?? [], static fn ($a): bool => $a->counted))),
             $context,
         );
 

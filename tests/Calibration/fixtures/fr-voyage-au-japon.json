@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "itinéraire tokyo kyoto",
-        "cuisine japonaise traditionnelle",
-        "shinkansen japon",
-        "cerisier en fleurs japon",
+        "visa vacances-travail japon",
+        "budget voyage tokyo",
         "ryokan traditionnel",
-        "passe jr pass",
-        "mont fuji excursion",
-        "temples kyoto visite"
+        "shinkansen japon",
+        "sushi japonais",
+        "mont fuji visite",
+        "assurance voyage japon"
     ],
     "suggestions": {
         "amazon": [
@@ -248,11 +248,23 @@
             ],
             [
                 0,
-                "cuisine japonaise traditionnelle"
+                "visa vacances travail japon"
+            ],
+            [
+                0,
+                "voyage tokyo budget"
+            ],
+            [
+                0,
+                "ryokan traditionnel"
             ],
             [
                 1,
-                "recette cuisine japonaise traditionnelle"
+                "ryokan traditionnel kyoto"
+            ],
+            [
+                2,
+                "ryokan traditionnel okada warakutei 3*"
             ],
             [
                 0,
@@ -292,71 +304,67 @@
             ],
             [
                 0,
-                "cerisier en fleurs japon"
+                "sushi japonais"
             ],
             [
                 1,
-                "cerisiers en fleurs japon dessin"
+                "sushi japonais recettes"
             ],
             [
                 2,
-                "cerisiers en fleurs japon 2026"
+                "sushi japonais authentique"
             ],
             [
                 3,
-                "cerisiers en fleurs japon 2025"
+                "sushi japonais maki"
             ],
             [
                 4,
-                "cerisiers en fleurs japon periode"
+                "sushi japonais maison"
             ],
             [
                 5,
-                "cerisiers en fleurs japon dates"
+                "sushi japonais à emporter"
             ],
             [
                 6,
-                "cerisiers en fleurs japon maternelle"
+                "sushi japonais végétarien"
             ],
             [
                 7,
-                "japon cerisier en fleurs date"
+                "sushi japonais ou chinois"
             ],
             [
                 8,
-                "cerisier japonais en fleurs"
+                "sushi japonais traditionnel"
             ],
             [
                 9,
-                "cerisier du japon fleurs"
+                "sushi en japonais"
             ],
             [
                 0,
-                "ryokan traditionnel"
+                "mont fuji visite"
             ],
             [
                 1,
-                "ryokan traditionnel kyoto"
+                "mont fuji site officiel"
             ],
             [
                 2,
-                "ryokan traditionnel okada warakutei 3*"
-            ],
-            [
-                0,
-                "mont fuji excursion"
-            ],
-            [
-                1,
-                "mount fuji excursion from tokyo"
-            ],
-            [
-                2,
-                "mount fuji excursion train"
+                "mont fuji site"
             ],
             [
                 3,
-                "excursion mont fuji depuis tokyo"
+                "visite mont fuji japon"
+            ],
+            [
+                0,
+                "assurance voyage japon"
+            ],
+            [
+                1,
+                "assurance voyage japon obligatoire"
             ]
         ],
         "google": [
@@ -494,123 +502,55 @@
             ],
             [
                 0,
-                "cuisine japonaise traditionnelle"
+                "visa vacances travail japon"
             ],
             [
                 1,
-                "cuisine japonaise traditionnelle livre"
+                "visa vacances travail japon refusé"
             ],
             [
                 2,
-                "cuisine japonaise traditionnelle paris"
+                "visa vacances travail japon conditions"
             ],
             [
                 3,
-                "cuisine asiatique traditionnelle"
+                "visa vacances travail japon age"
             ],
             [
                 4,
-                "cuisine japonaise typique"
+                "visa vacances travail japon prix"
             ],
             [
                 5,
-                "cuisine japonaise classique"
+                "visa vacances travail japon lyon"
             ],
             [
                 6,
-                "restaurant cuisine japonaise traditionnelle paris"
+                "visa vacances travail japon age limite"
             ],
             [
                 7,
-                "cuisine maison japonaise traditionnelle"
+                "visa vacances travail japon marseille"
             ],
             [
                 8,
-                "recette cuisine japonaise traditionnelle"
+                "visa vacances travail japon france"
             ],
             [
                 9,
-                "blog cuisine japonaise traditionnelle"
+                "visa vacances travail japon strasbourg"
             ],
             [
                 0,
-                "shinkansen japon"
+                "budget voyage tokyo"
             ],
             [
                 1,
-                "shinkansen japon vitesse"
+                "budget voyage tokyo 1 semaine"
             ],
             [
                 2,
-                "shinkansen japon reservation"
-            ],
-            [
-                3,
-                "shinkansen japon carte"
-            ],
-            [
-                4,
-                "shinkansen japon prix"
-            ],
-            [
-                5,
-                "shinkansen japon billet"
-            ],
-            [
-                6,
-                "train japon"
-            ],
-            [
-                7,
-                "train japon vitesse"
-            ],
-            [
-                8,
-                "train japonais le plus rapide"
-            ],
-            [
-                9,
-                "train japonais 600 km h"
-            ],
-            [
-                0,
-                "cerisier en fleurs japon"
-            ],
-            [
-                1,
-                "cerisier en fleurs japon periode"
-            ],
-            [
-                2,
-                "cerisier en fleurs japon date"
-            ],
-            [
-                3,
-                "cerisier en fleurs japon 2027"
-            ],
-            [
-                4,
-                "cerisier en fleurs japon 2026"
-            ],
-            [
-                5,
-                "cerisier en fleurs japon nom"
-            ],
-            [
-                6,
-                "cerisier en fleurs japon dessin"
-            ],
-            [
-                7,
-                "cerisier en fleurs japon 2025"
-            ],
-            [
-                8,
-                "cerisier en fleurs japon lego"
-            ],
-            [
-                9,
-                "cerisier en fleur japon signification"
+                "budget voyage tokyo 2 semaines"
             ],
             [
                 0,
@@ -654,55 +594,169 @@
             ],
             [
                 0,
-                "mont fuji excursion"
+                "shinkansen japon"
             ],
             [
                 1,
-                "mont fuji excursion depuis tokyo"
+                "shinkansen japon vitesse"
             ],
             [
                 2,
-                "mont fuji excursion train"
+                "shinkansen japon reservation"
             ],
             [
                 3,
-                "mont fuji balade"
+                "shinkansen japon carte"
             ],
             [
                 4,
-                "mont fuji tour"
+                "shinkansen japon prix"
             ],
             [
                 5,
-                "mont fuji tour from tokyo"
+                "shinkansen japon billet"
             ],
             [
                 6,
-                "tokyo mont fuji excursion"
+                "train japon"
             ],
             [
                 7,
-                "excursion mont fuji depuis tokyo en français"
+                "train japon vitesse"
             ],
             [
                 8,
-                "excursion mont fuji depuis hakone"
+                "train japonais le plus rapide"
             ],
             [
                 9,
-                "excursion mont fuji depuis kyoto"
+                "train japonais 600 km h"
             ],
             [
                 0,
-                "temples a visiter kyoto"
+                "sushi japonais"
             ],
             [
                 1,
-                "kyoto temple visit"
+                "sushi japonais ou chinois"
             ],
             [
                 2,
-                "kyoto shrine visit"
+                "sushi japonais traditionnel"
+            ],
+            [
+                3,
+                "sushi japonais vrai"
+            ],
+            [
+                4,
+                "sushi japonais recette"
+            ],
+            [
+                5,
+                "sushi japonais dessin"
+            ],
+            [
+                6,
+                "sushi japonais paris"
+            ],
+            [
+                7,
+                "sushi japonais marseille"
+            ],
+            [
+                8,
+                "sushi japonais restaurant"
+            ],
+            [
+                9,
+                "kuma ï sushi japonais a volonté montpellier"
+            ],
+            [
+                0,
+                "mont fuji visite"
+            ],
+            [
+                1,
+                "mont fuji visit"
+            ],
+            [
+                2,
+                "mont fuji japon visite"
+            ],
+            [
+                3,
+                "mont fuji comment le visiter"
+            ],
+            [
+                4,
+                "mont fuji nombre de visiteurs"
+            ],
+            [
+                5,
+                "visite mont fuji depuis tokyo"
+            ],
+            [
+                6,
+                "visite mont fuji depuis hakone"
+            ],
+            [
+                7,
+                "visite mont fuji en francais"
+            ],
+            [
+                8,
+                "visite mont fuji tokyo"
+            ],
+            [
+                9,
+                "visite mont fuji prix"
+            ],
+            [
+                0,
+                "assurance voyage japon"
+            ],
+            [
+                1,
+                "assurance voyage japon obligatoire"
+            ],
+            [
+                2,
+                "assurance voyage japon avis"
+            ],
+            [
+                3,
+                "assurance voyage japon prix"
+            ],
+            [
+                4,
+                "assurance voyage japon maif"
+            ],
+            [
+                5,
+                "assurance voyage japon axa"
+            ],
+            [
+                6,
+                "assurance voyage japon comparatif"
+            ],
+            [
+                7,
+                "assurance voyage japon visa premier"
+            ],
+            [
+                8,
+                "assurance voyage japon chapka"
+            ],
+            [
+                9,
+                "assurance voyage japon macif"
+            ]
+        ],
+        "amazon": [
+            [
+                0,
+                "riz sushi japonais"
             ]
         ],
         "duckduckgo": [
@@ -716,11 +770,23 @@
             ],
             [
                 0,
-                "cuisine japonaise traditionnelle"
+                "visa vacances travail japon"
+            ],
+            [
+                0,
+                "voyage tokyo budget"
+            ],
+            [
+                0,
+                "ryokan traditionnel"
             ],
             [
                 1,
-                "recette cuisine japonaise traditionnelle"
+                "ryokan traditionnel kyoto"
+            ],
+            [
+                2,
+                "ryokan traditionnel okada warakutei 3*"
             ],
             [
                 0,
@@ -756,63 +822,59 @@
             ],
             [
                 0,
-                "cerisier en fleurs japon"
+                "sushi japonais"
             ],
             [
                 1,
-                "cerisiers en fleurs japon dessin"
+                "sushi japonais recettes"
             ],
             [
                 2,
-                "cerisiers en fleurs japon 2026"
+                "sushi japonais authentique"
             ],
             [
                 3,
-                "cerisiers en fleurs japon 2025"
+                "sushi japonais maki"
             ],
             [
                 4,
-                "cerisiers en fleurs japon periode"
+                "sushi japonais maison"
             ],
             [
                 5,
-                "cerisiers en fleurs japon dates"
+                "sushi japonais à emporter"
             ],
             [
                 6,
-                "cerisiers en fleurs japon maternelle"
+                "sushi japonais végétarien"
             ],
             [
                 7,
-                "japon cerisier en fleurs date"
+                "sushi japonais ou chinois"
             ],
             [
                 0,
-                "ryokan traditionnel"
+                "mont fuji visite"
             ],
             [
                 1,
-                "ryokan traditionnel kyoto"
+                "mont fuji site officiel"
             ],
             [
                 2,
-                "ryokan traditionnel okada warakutei 3*"
-            ],
-            [
-                0,
-                "mont fuji excursion"
-            ],
-            [
-                1,
-                "mount fuji excursion from tokyo"
-            ],
-            [
-                2,
-                "mount fuji excursion train"
+                "mont fuji site"
             ],
             [
                 3,
-                "excursion mont fuji depuis tokyo"
+                "visite mont fuji japon"
+            ],
+            [
+                0,
+                "assurance voyage japon"
+            ],
+            [
+                1,
+                "assurance voyage japon obligatoire"
             ]
         ],
         "yahoo": [
@@ -834,35 +896,23 @@
             ],
             [
                 0,
-                "cuisine japonaise traditionnelle"
-            ],
-            [
-                1,
-                "recette cuisine japonaise traditionnelle"
+                "visa travail japon"
             ],
             [
                 0,
-                "shinkansen japon"
+                "budget voyage tokyo ghoul"
             ],
             [
                 1,
-                "carte shinkansen japon"
-            ],
-            [
-                0,
-                "cerisier en fleurs japon"
-            ],
-            [
-                1,
-                "cerisier en fleurs japon 2025 calendrier"
+                "budget voyage tokyo revengers"
             ],
             [
                 2,
-                "photo cerisier en fleurs japon"
+                "budget voyage tokyo vice"
             ],
             [
                 3,
-                "peinture acrylique cerisier en fleurs japon 2025 calendrier"
+                "budget voyage tokyo casa"
             ],
             [
                 0,
@@ -882,53 +932,73 @@
             ],
             [
                 0,
-                "passe passe"
+                "shinkansen japon"
             ],
             [
                 1,
-                "passe jr pass japon"
-            ],
-            [
-                2,
-                "passe jr pass japan"
-            ],
-            [
-                3,
-                "passe jr pass tokyo"
+                "carte shinkansen japon"
             ],
             [
                 0,
-                "mont fuji excursion auschwitz"
+                "sushi japonais"
             ],
             [
                 1,
-                "mont fuji excursion marrakech"
+                "sushi japonais en ligne"
             ],
             [
                 2,
-                "mont fuji excursion islande"
+                "recette vrai sushi japonais"
             ],
             [
                 3,
-                "mont fuji excursions"
+                "sushi en japonais"
             ],
             [
                 0,
-                "temples kyoto visiter"
+                "mont fuji visite technique"
+            ],
+            [
+                1,
+                "mont fuji visite notre"
+            ],
+            [
+                2,
+                "mont fuji visite médicale"
+            ],
+            [
+                3,
+                "mont fuji visite tour"
+            ],
+            [
+                0,
+                "assurance voyage japon circuit accompagné"
+            ],
+            [
+                1,
+                "assurance voyage japon accompagné pour retraités"
+            ],
+            [
+                2,
+                "assurance voyage japon tout compris"
+            ],
+            [
+                3,
+                "assurance voyage japon abordable"
             ]
         ],
         "youtube": [
             [
                 0,
-                "cuisine japonaise traditionnelle"
+                "visa vacances travail japon"
             ],
             [
-                1,
-                "cuisine asiatique traditionnelle"
+                0,
+                "voyage tokyo budget"
             ],
             [
-                2,
-                "recette cuisine japonaise traditionnelle"
+                0,
+                "hotel traditionnel japonais"
             ],
             [
                 0,
@@ -972,15 +1042,51 @@
             ],
             [
                 0,
-                "cerisier en fleur japon"
+                "sushi japonais"
+            ],
+            [
+                1,
+                "sushi japonais traditionnel"
+            ],
+            [
+                2,
+                "japonais sushi francais"
+            ],
+            [
+                3,
+                "maitre sushi japonais"
+            ],
+            [
+                4,
+                "sushi recette japonaise"
+            ],
+            [
+                5,
+                "vrai sushi japonais"
+            ],
+            [
+                6,
+                "recette sushi japonais traditionnel"
+            ],
+            [
+                7,
+                "riz sushi japonaise"
+            ],
+            [
+                8,
+                "sushi maison japonaise"
+            ],
+            [
+                9,
+                "musique japonaise sushi"
             ],
             [
                 0,
-                "hotel traditionnel japonais"
+                "mont fuji visite"
             ],
             [
                 0,
-                "excursion mont fuji"
+                "assurance voyage japon"
             ]
         ]
     },
@@ -1022,69 +1128,90 @@
             "intent": "informational",
             "keywords": [
                 "voyage au japon budget",
-                "voyage au japon agence",
-                "voyage au japon tout compris",
-                "voyage au japon leclerc",
-                "voyage au japon organisé",
+                "voyage au japon en famille",
+                "voyage tokyo budget",
+                "voyage au japon conseils",
                 "voyage au japon 2026",
-                "agence de voyages",
                 "avion",
-                "sushi",
                 "tourisme",
-                "voyagiste",
                 "voyage au japon prix",
                 "quel budget pour un voyage au japon"
             ]
         },
         {
             "group": "Planification",
-            "title": "voyage au japon en famille",
+            "title": "visa vacances travail japon",
             "intent": "informational",
             "keywords": [
-                "voyage au japon en famille",
-                "voyage au japon en groupe",
-                "cuisine japonaise voyage",
-                "culture japonaise",
-                "culture japonaise voyage",
+                "visa vacances travail japon",
+                "visa japon",
+                "voyage au japon quel document"
+            ]
+        },
+        {
+            "group": "Planification",
+            "title": "itinerary tokyo kyoto osaka",
+            "intent": "informational",
+            "keywords": [
+                "itinerary tokyo kyoto osaka",
+                "cerisier en fleurs",
                 "guide de voyage",
-                "voyage au japon quel document",
-                "voyage au japon visa",
-                "voyage au japon conseils"
+                "itinéraire voyage japon",
+                "kyoto",
+                "osaka",
+                "tokyo",
+                "voyage au japon 2 semaines",
+                "voyage au japon 3 semaines"
             ]
         },
         {
-            "group": "Attractions",
-            "title": "cerisier en fleurs japon",
-            "intent": "informational",
-            "keywords": [
-                "cerisier en fleurs japon",
-                "cerisiers en fleurs japon 2026",
-                "cerisiers en fleurs japon 2025",
-                "saisons voyage japon",
-                "cerisier en fleurs japon periode",
-                "cerisier en fleurs japon date"
-            ]
-        },
-        {
-            "group": "Attractions",
-            "title": "mont fuji excursion",
-            "intent": "informational",
-            "keywords": [
-                "mont fuji excursion",
-                "mont fuji",
-                "mont fuji excursion depuis tokyo"
-            ]
-        },
-        {
-            "group": "Hébergement",
-            "title": "ryokan traditionnel",
+            "group": "Organisé",
+            "title": "voyage au japon agence",
             "intent": "commercial",
             "keywords": [
-                "ryokan traditionnel",
-                "cuisine japonaise traditionnelle",
-                "hébergement japon voyage",
-                "onsen",
-                "ryokan traditionnel kyoto"
+                "voyage au japon agence",
+                "voyage au japon leclerc",
+                "voyage au japon en groupe",
+                "agence de voyages",
+                "voyagiste",
+                "voyage au japon tout compris",
+                "voyage au japon organisé"
+            ]
+        },
+        {
+            "group": "Organisé",
+            "title": "assurance voyage japon",
+            "intent": "commercial",
+            "keywords": [
+                "assurance voyage japon",
+                "sécurité voyage japon",
+                "assurance voyage japon obligatoire",
+                "assurance voyage japon circuit accompagné"
+            ]
+        },
+        {
+            "group": "Activités",
+            "title": "sushi japonais",
+            "intent": "informational",
+            "keywords": [
+                "sushi japonais",
+                "cuisine japonaise",
+                "sushi",
+                "sushi japonais traditionnel",
+                "sushi japonais vrai",
+                "sushi japonais recettes"
+            ]
+        },
+        {
+            "group": "Activités",
+            "title": "mont fuji visite",
+            "intent": "informational",
+            "keywords": [
+                "mont fuji visite",
+                "mont fuji",
+                "sites touristiques japon",
+                "temple shinto",
+                "mont fuji japon visite"
             ]
         },
         {
@@ -1095,87 +1222,76 @@
                 "shinkansen japon",
                 "shinkansen japan",
                 "chemin de fer",
-                "passe jr",
                 "shinkansen",
                 "transport",
-                "transports japon voyage",
+                "transport japon",
                 "carte shinkansen japon",
                 "train japon"
             ]
         },
         {
-            "group": "Itinéraires",
-            "title": "voyage au japon 2 semaines",
-            "intent": "informational",
+            "group": "Hébergement",
+            "title": "ryokan traditionnel",
+            "intent": "commercial",
             "keywords": [
-                "voyage au japon 2 semaines",
-                "itinéraire voyage japon",
-                "itinerary tokyo kyoto osaka",
-                "tokyo",
-                "voyage au japon 3 semaines"
-            ]
-        },
-        {
-            "group": "Itinéraires",
-            "title": "temples a visiter kyoto",
-            "intent": "informational",
-            "keywords": [
-                "temples a visiter kyoto",
-                "jardins japonais",
-                "kyoto",
-                "temples bouddhistes"
+                "ryokan traditionnel",
+                "hébergement japon",
+                "onsen",
+                "ryokan",
+                "ryokan traditionnel kyoto"
             ]
         }
     ],
     "categories": {
-        "voyage au japon en famille": "core",
-        "cerisier en fleurs japon": "core",
-        "cuisine japonaise traditionnelle": "complementary",
+        "voyage au japon en famille": "complementary",
+        "sushi japonais": "complementary",
         "voyage au japon budget": "commercial",
         "voyage au japon prix": "commercial",
-        "mont fuji excursion": "core",
         "shinkansen japon": "core",
+        "assurance voyage japon": "core",
+        "mont fuji visite": "core",
+        "visa vacances travail japon": "core",
+        "voyage tokyo budget": "commercial",
         "voyage au japon 2 semaines": "core",
         "voyage au japon agence": "commercial",
         "voyage au japon tout compris": "commercial",
         "ryokan traditionnel": "core",
-        "temples a visiter kyoto": "core",
+        "sushi japonais traditionnel": "complementary",
         "quel budget pour un voyage au japon": "commercial",
+        "assurance voyage japon obligatoire": "complementary",
         "ryokan traditionnel kyoto": "complementary",
         "voyage au japon quel document": "complementary",
-        "mont fuji excursion depuis tokyo": "complementary",
         "carte shinkansen japon": "complementary",
-        "cerisier en fleurs japon periode": "complementary",
+        "mont fuji japon visite": "complementary",
+        "sushi japonais recettes": "complementary",
         "voyage au japon leclerc": "commercial",
-        "cerisiers en fleurs japon 2026": "complementary",
-        "cerisier en fleurs japon date": "complementary",
-        "cerisiers en fleurs japon dessin": "doubtful",
         "train japon": "complementary",
         "voyage au japon organisé": "commercial",
-        "voyage au japon en groupe": "commercial",
+        "voyage au japon en groupe": "complementary",
+        "sushi japonais vrai": "complementary",
         "voyage au japon conseils": "complementary",
-        "cerisiers en fleurs japon 2025": "complementary",
         "itinerary tokyo kyoto osaka": "complementary",
         "shinkansen japan": "complementary",
         "voyage au japon 2026": "commercial",
         "voyage au japon 3 semaines": "complementary",
+        "assurance voyage japon circuit accompagné": "commercial",
         "itinéraire voyage japon": "core",
-        "culture japonaise voyage": "complementary",
-        "cuisine japonaise voyage": "complementary",
-        "transports japon voyage": "core",
-        "hébergement japon voyage": "core",
-        "saisons voyage japon": "core",
-        "voyage au japon visa": "complementary",
+        "visa japon": "core",
+        "hébergement japon": "core",
+        "transport japon": "core",
+        "cuisine japonaise": "core",
+        "sites touristiques japon": "core",
+        "sécurité voyage japon": "core",
         "tokyo": "core",
         "kyoto": "core",
+        "osaka": "core",
         "shinkansen": "core",
-        "sushi": "complementary",
-        "onsen": "complementary",
+        "ryokan": "core",
+        "sushi": "core",
         "mont fuji": "core",
-        "temples bouddhistes": "core",
-        "jardins japonais": "complementary",
-        "culture japonaise": "complementary",
-        "passe jr": "core",
+        "temple shinto": "complementary",
+        "onsen": "complementary",
+        "cerisier en fleurs": "complementary",
         "avion": "commercial",
         "chemin de fer": "complementary",
         "tourisme": "complementary",
@@ -1183,8 +1299,7 @@
         "transport": "complementary",
         "voyagiste": "commercial",
         "agence de voyages": "commercial",
-        "recette cuisine japonaise traditionnelle": "doubtful",
-        "cuisine asiatique traditionnelle": "doubtful",
-        "voyage au japon monochrome": "doubtful"
+        "voyage au japon monochrome": "doubtful",
+        "sushi japonais ou chinois": "doubtful"
     }
 }

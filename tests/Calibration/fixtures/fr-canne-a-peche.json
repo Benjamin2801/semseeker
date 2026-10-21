@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "matériel de pêche",
+        "pêche à la ligne",
         "moulinet",
-        "pêche à la truite",
+        "fil de pêche",
         "pêche en mer",
+        "pêche en rivière",
         "réparation canne à pêche",
         "permis de pêche",
-        "accessoires canne à pêche",
-        "pêche au carnassier"
+        "étui canne à pêche"
     ],
     "suggestions": {
         "amazon": [
@@ -51,14 +51,14 @@
             "canne à pêche carnassier"
         ],
         "duckduckgo": [
-            "canne à pêche",
             "canne à pêche decathlon",
             "canne à pêche casting",
+            "canne à pêche",
             "canne à pêche en anglais",
             "canne à pêche minecraft",
-            "canne à pêche carpe",
             "canne à pêche blox fruit",
-            "canne à pêche télescopique"
+            "canne à pêche télescopique",
+            "canne à pêche carpe"
         ],
         "ebay": [
             "canne à pêche",
@@ -245,51 +245,51 @@
             ],
             [
                 0,
-                "matériel de pêche"
+                "pêche à la ligne"
             ],
             [
                 1,
-                "matériel de pêche temu"
+                "pêche à la ligne enfant"
             ],
             [
                 2,
-                "matériel de pêche en mer"
+                "pêche à la ligne jeu"
             ],
             [
                 3,
-                "matériel de pêche à la truite"
+                "pêche à la ligne magnétique"
             ],
             [
                 4,
-                "matériel de pêche action"
+                "pêche à la ligne en mer"
             ],
             [
                 5,
-                "matériel de pêche surfcasting"
+                "pêche à la ligne dessin"
             ],
             [
                 6,
-                "matériel de pêche à decathlon"
+                "pêche à la ligne kermesse"
             ],
             [
                 7,
-                "matériel de pêche amazon"
+                "pêche à la ligne en anglais"
             ],
             [
                 8,
-                "matériel de pêche à vendre"
+                "pêche à la ligne image"
             ],
             [
                 9,
-                "matériel de pêche en rivière"
+                "pêche à la ligne action"
             ],
             [
                 10,
-                "matériel de pêche carnassier"
+                "pêche à la ligne renaud"
             ],
             [
                 11,
-                "matériel de pêche occasion"
+                "pêche à la ligne jeu enfant"
             ],
             [
                 0,
@@ -341,51 +341,51 @@
             ],
             [
                 0,
-                "pêche à la truite en étang"
+                "fil de pêche"
             ],
             [
                 1,
-                "pêche à la truite autour de moi"
+                "fil de pêche fluorocarbone"
             ],
             [
                 2,
-                "pêche à la truite"
+                "fil de pêche tressé"
             ],
             [
                 3,
-                "pêche à la truite en rivière"
+                "fil de pêche nylon"
             ],
             [
                 4,
-                "pêche à la truite ouverture"
+                "fil de pêche mer"
             ],
             [
                 5,
-                "pêche à la truite en étang à la journée"
+                "fil de pêche decathlon"
             ],
             [
                 6,
-                "pêche à la truite 2026"
+                "fil de pêche élastique"
             ],
             [
                 7,
-                "pêche à la truite fario"
+                "fil de pêche acier"
             ],
             [
                 8,
-                "pêche à la truite lacustre"
+                "fil de pêche action"
             ],
             [
                 9,
-                "pêche à la truite en réservoir"
+                "fil de pêche fluorescent"
             ],
             [
                 10,
-                "pêche à la truite au québec"
+                "fil de pêche transparent"
             ],
             [
                 11,
-                "pêche à la truite polincove"
+                "fil de pêche nylon très haute résistance"
             ],
             [
                 0,
@@ -434,6 +434,30 @@
             [
                 11,
                 "pêche en mer en bateau en méditerranée"
+            ],
+            [
+                0,
+                "pêche en rivière"
+            ],
+            [
+                1,
+                "pêche en rivière au québec"
+            ],
+            [
+                2,
+                "pêche à la truite en rivière"
+            ],
+            [
+                3,
+                "technique pêche truite en rivière"
+            ],
+            [
+                4,
+                "canne pêche à la truite en rivière"
+            ],
+            [
+                5,
+                "image de pêche en rivière"
             ],
             [
                 0,
@@ -529,83 +553,51 @@
             ],
             [
                 0,
-                "accessoires canne à pêche"
+                "etui canne a peche rigide"
             ],
             [
                 1,
-                "support à canne à pêche"
+                "étui canne à pêche"
             ],
             [
                 2,
-                "acheter canne à pêche"
+                "une canne à pêche"
             ],
             [
                 3,
-                "marque de canne à pêche"
-            ],
-            [
-                4,
                 "achat canne à pêche"
             ],
             [
+                4,
+                "canne à pêche truite"
+            ],
+            [
                 5,
-                "canne à pêche occasion"
+                "acheter canne à pêche"
             ],
             [
                 6,
-                "canne à pêche pas cher"
+                "pêche à la canne"
             ],
             [
                 7,
-                "montage canne à pêche"
+                "canne à pêche truite étang"
             ],
             [
                 8,
-                "canne à pêche sur mesure"
+                "ensemble canne à pêche truite"
             ],
             [
                 9,
-                "canne à pêche mer professionnel"
+                "embout de canne à pêche"
             ],
             [
                 10,
-                "support canne à pêche voiture"
+                "canne à pêche en bois"
             ],
             [
                 11,
-                "canne à pêche d'occasion"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "pêche au carnassier date"
-            ],
-            [
-                2,
-                "pêche au carnassier en étang"
-            ],
-            [
-                3,
-                "pêche aux carnassiers"
-            ],
-            [
-                4,
-                "pêche aux carnassiers en étang"
-            ],
-            [
-                5,
-                "peche au carnassier"
-            ],
-            [
-                6,
-                "aliexpress pêche carnassier"
-            ],
-            [
-                7,
-                "pêche carnassier belgique"
+                "canne à pêche prix"
             ]
         ],
         "google": [
@@ -655,43 +647,43 @@
             ],
             [
                 0,
-                "matériel de pêche"
+                "pêche à la ligne"
             ],
             [
                 1,
-                "matériel de pêche decathlon"
+                "pêche à la ligne enfant"
             ],
             [
                 2,
-                "matériel de pêche chez action"
+                "pêche à la ligne jeu"
             ],
             [
                 3,
-                "matériel de pêche occasion"
+                "pêche à la ligne action"
             ],
             [
                 4,
-                "matériel de pêche à proximité"
+                "pêche à la ligne bord de mer"
             ],
             [
                 5,
-                "matériel de pêche occasion particulier"
+                "pêche à la ligne enfant action"
             ],
             [
                 6,
-                "matériel de pêche pour la carpe"
+                "pêche à la ligne kermesse"
             ],
             [
                 7,
-                "matériel de pêche à donner"
+                "pêche à la ligne en mer"
             ],
             [
                 8,
-                "matériel de pêche en mer"
+                "pêche à la ligne jeu à fabriquer"
             ],
             [
                 9,
-                "matériel de pêche decathlon carpe"
+                "pêche à la ligne djeco"
             ],
             [
                 0,
@@ -735,43 +727,43 @@
             ],
             [
                 0,
-                "pêche à la truite grenoble"
+                "fil de pêche"
             ],
             [
                 1,
-                "pêche à la truite"
+                "fil de pêche haute résistance decathlon"
             ],
             [
                 2,
-                "pêche à la truite autour de moi"
+                "fil de pêche action"
             ],
             [
                 3,
-                "pêche à la truite saint pierre d entremont"
+                "fil de pêche decathlon"
             ],
             [
                 4,
-                "pêche à la truite en étang à la journée"
+                "fil de pêche fluorocarbone"
             ],
             [
                 5,
-                "pêche à la truite en ardèche"
+                "fil de pêche amazon"
             ],
             [
                 6,
-                "pêche à la truite en étang"
+                "fil de pêche tressé"
             ],
             [
                 7,
-                "pêche à la truite avis"
+                "fil de pêche 35 100 en kg"
             ],
             [
                 8,
-                "pêche à la truite autour de moi ouvert actuellement"
+                "fil de pêche tresse decathlon"
             ],
             [
                 9,
-                "pêche à la truite savoie"
+                "fil de pêche truite au lancer"
             ],
             [
                 0,
@@ -812,6 +804,46 @@
             [
                 9,
                 "pêche en mer decathlon"
+            ],
+            [
+                0,
+                "pêche en rivière débutant"
+            ],
+            [
+                1,
+                "pêche en rivière"
+            ],
+            [
+                2,
+                "pêche en rivière réglementation"
+            ],
+            [
+                3,
+                "pêche en rivière date"
+            ],
+            [
+                4,
+                "pêche en rivière autour de moi"
+            ],
+            [
+                5,
+                "pêche en rivière sur terrain privé"
+            ],
+            [
+                6,
+                "pêche en rivière belgique"
+            ],
+            [
+                7,
+                "pêche en rivière wallonie"
+            ],
+            [
+                8,
+                "pêche rivière nicolet"
+            ],
+            [
+                9,
+                "vidéos de pêche en rivière"
             ],
             [
                 0,
@@ -895,89 +927,85 @@
             ],
             [
                 0,
-                "accessoires canne à pêche"
-            ],
-            [
-                0,
-                "pêche au carnassier"
+                "étui canne à pêche"
             ],
             [
                 1,
-                "pêche au carnassier 2026"
+                "étui canne à pêche rigide"
             ],
             [
                 2,
-                "pêche au carnassier dans le gers"
+                "étui canne à pêche decathlon"
             ],
             [
                 3,
-                "peche au carnassier date"
+                "étui canne à pêche canadian tire"
             ],
             [
                 4,
-                "peche au carnassier ouverture"
+                "étui canne à pêche pronature"
             ],
             [
                 5,
-                "peche au carnassier en belgique"
+                "étui canne à pêche walmart"
             ],
             [
                 6,
-                "pêche au carnassier 2025"
+                "étui canne à pêche 7 pieds"
             ],
             [
                 7,
-                "peche au carnassier autour de moi"
+                "étui canne à pêche double"
             ],
             [
                 8,
-                "peche au carnassier fermeture"
+                "étui canne à pêche sail"
             ],
             [
                 9,
-                "peche au carnassier c est quoi"
+                "étui canne à pêche ecotone"
             ]
         ],
         "amazon": [
             [
                 0,
-                "matériel de pêche"
+                "pêche à la ligne"
             ],
             [
                 1,
-                "matériel de pêche à la carpe"
+                "pêche à la ligne enfant"
             ],
             [
                 2,
-                "matériel de pêche en mer"
+                "pêche à la ligne aimantée"
             ],
             [
                 3,
-                "matériel de pêche au coup"
+                "pêche à la ligne bébé"
             ],
             [
                 4,
-                "matériel de pêche amazon"
+                "pêche à la ligne magnétique"
             ],
             [
                 5,
-                "matériel de pêche carnassier"
+                "pêche à la ligne kermesse"
             ],
             [
                 6,
-                "matériel de pêche à la truite"
+                "pêche à la ligne montessori"
             ],
             [
                 7,
-                "matériel de pêche en mer surfcasting"
+                "pêche à la ligne jeux"
             ],
             [
                 8,
-                "matériel de pêche en mer nuit"
+                "pêche à la ligne enfant aimant"
             ],
             [
                 9,
-                "matériel de pêche pour la carpe"
+                "pêche à la ligne magnétique en bois"
             ],
             [
                 0,
@@ -1021,11 +1049,43 @@
             ],
             [
                 0,
-                "pêche à la truite"
+                "fil de pêche"
             ],
             [
                 1,
-                "pêche à la truite toc"
+                "fil de pêche fluorocarbone"
+            ],
+            [
+                2,
+                "fil de pêche nylon"
+            ],
+            [
+                3,
+                "fil de pêche transparent"
+            ],
+            [
+                4,
+                "fil de pêche carpe"
+            ],
+            [
+                5,
+                "fil de pêche tressé mer"
+            ],
+            [
+                6,
+                "fil de pêche mer"
+            ],
+            [
+                7,
+                "fil de pêche mer 35/100"
+            ],
+            [
+                8,
+                "fil de pêche fluo carbone"
+            ],
+            [
+                9,
+                "fil de pêche carnassier"
             ],
             [
                 0,
@@ -1073,45 +1133,65 @@
             ],
             [
                 0,
-                "accessoires canne à pêche"
+                "étui canne à pêche"
             ],
             [
-                0,
-                "pêche au carnassier"
+                1,
+                "étui canne à pêche rigide"
+            ],
+            [
+                2,
+                "étui canne à pêche voyage"
+            ],
+            [
+                3,
+                "étui canne à pêche rigide pour avion"
+            ],
+            [
+                4,
+                "étui canne à pêche savage gear"
+            ],
+            [
+                5,
+                "étui canne à pêche 160 cm"
+            ],
+            [
+                6,
+                "étui canne à pêche souple"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "matériel de pêche"
+                "pêche à la ligne"
             ],
             [
                 1,
-                "matériel de pêche temu"
+                "pêche à la ligne enfant"
             ],
             [
                 2,
-                "matériel de pêche en mer"
+                "pêche à la ligne jeu"
             ],
             [
                 3,
-                "matériel de pêche à la truite"
+                "pêche à la ligne magnétique"
             ],
             [
                 4,
-                "matériel de pêche action"
+                "pêche à la ligne en mer"
             ],
             [
                 5,
-                "matériel de pêche surfcasting"
+                "pêche à la ligne dessin"
             ],
             [
                 6,
-                "matériel de pêche à decathlon"
+                "pêche à la ligne kermesse"
             ],
             [
                 7,
-                "matériel de pêche amazon"
+                "pêche à la ligne en anglais"
             ],
             [
                 0,
@@ -1147,35 +1227,35 @@
             ],
             [
                 0,
-                "pêche à la truite en étang"
+                "fil de peche"
             ],
             [
                 1,
-                "pêche à la truite autour de moi"
+                "fil de peche 35/100 en kg"
             ],
             [
                 2,
-                "pêche à la truite"
+                "fil de pêche fluorocarbone"
             ],
             [
                 3,
-                "pêche à la truite en rivière"
+                "fil de pêche tressé"
             ],
             [
                 4,
-                "pêche à la truite ouverture"
+                "fil de pêche nylon"
             ],
             [
                 5,
-                "pêche à la truite en étang à la journée"
+                "fil de pêche mer"
             ],
             [
                 6,
-                "pêche à la truite 2026"
+                "fil de pêche acier"
             ],
             [
                 7,
-                "pêche à la truite fario"
+                "fil de pêche decathlon"
             ],
             [
                 0,
@@ -1208,6 +1288,30 @@
             [
                 7,
                 "pêche en mer guadeloupe"
+            ],
+            [
+                0,
+                "pêche en rivière"
+            ],
+            [
+                1,
+                "pêche en rivière au québec"
+            ],
+            [
+                2,
+                "pêche à la truite en rivière"
+            ],
+            [
+                3,
+                "technique pêche truite en rivière"
+            ],
+            [
+                4,
+                "canne pêche à la truite en rivière"
+            ],
+            [
+                5,
+                "image de pêche en rivière"
             ],
             [
                 0,
@@ -1275,94 +1379,38 @@
             ],
             [
                 0,
-                "accessoires canne à pêche"
+                "etui canne a peche rigide"
             ],
             [
                 1,
-                "support à canne à pêche"
+                "étui canne à pêche"
             ],
             [
                 2,
-                "acheter canne à pêche"
+                "une canne à pêche"
             ],
             [
                 3,
-                "marque de canne à pêche"
-            ],
-            [
-                4,
                 "achat canne à pêche"
             ],
             [
-                5,
-                "canne à pêche occasion"
-            ],
-            [
-                6,
-                "canne à pêche pas cher"
-            ],
-            [
-                7,
-                "montage canne à pêche"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "pêche au carnassier date"
-            ],
-            [
-                2,
-                "pêche au carnassier en étang"
-            ],
-            [
-                3,
-                "pêche aux carnassiers"
-            ],
-            [
                 4,
-                "pêche aux carnassiers en étang"
+                "canne à pêche truite"
             ],
             [
                 5,
-                "peche au carnassier"
+                "acheter canne à pêche"
             ],
             [
                 6,
-                "aliexpress pêche carnassier"
+                "pêche à la canne"
             ],
             [
                 7,
-                "pêche carnassier belgique"
+                "canne à pêche truite étang"
             ]
         ],
         "ebay": [
-            [
-                0,
-                "matériel de pêche ancien"
-            ],
-            [
-                1,
-                "matériel de pêche"
-            ],
-            [
-                2,
-                "matériel de pêche à la carpe"
-            ],
-            [
-                3,
-                "lot matériel de pêche ancien"
-            ],
-            [
-                4,
-                "ancien matériel de pêche"
-            ],
-            [
-                5,
-                "lot matériel de pêche"
-            ],
             [
                 0,
                 "moulinet"
@@ -1402,6 +1450,10 @@
             [
                 9,
                 "moulinet contact 400"
+            ],
+            [
+                0,
+                "fil de pêche"
             ],
             [
                 0,
@@ -1445,43 +1497,23 @@
         "yahoo": [
             [
                 0,
-                "matériel de péche"
+                "pêche à la ligne enfant"
             ],
             [
                 1,
-                "matériel de pêche en mer"
+                "pêche à la ligne kermesse"
             ],
             [
                 2,
-                "matériel de pêche d'occasion"
+                "pêche à la ligne en mer"
             ],
             [
                 3,
-                "matériel de pêche discount"
+                "pêche à la ligne jeu"
             ],
             [
                 4,
-                "matériel de pêche direct usine"
-            ],
-            [
-                5,
-                "matériel de pêcheur"
-            ],
-            [
-                6,
-                "matériel de pêche decathlon"
-            ],
-            [
-                7,
-                "matériel de pêche temu"
-            ],
-            [
-                8,
-                "matériel de pêche carpe"
-            ],
-            [
-                9,
-                "matériel de pêche sur amazon"
+                "pêche à la ligne jouet"
             ],
             [
                 0,
@@ -1525,43 +1557,43 @@
             ],
             [
                 0,
-                "pêche à la truite en étang"
+                "fil de pêche"
             ],
             [
                 1,
-                "pêche à la truite en rivière"
+                "fil de pêche nylon"
             ],
             [
                 2,
-                "pêche à la truite journée"
+                "fil de pêche tresse"
             ],
             [
                 3,
-                "pêche à la truite dans le gard"
+                "fil de pêche fluorocarbone"
             ],
             [
                 4,
-                "pêche à la truite période"
+                "fil de pêche très résistant"
             ],
             [
                 5,
-                "pêche à la truite à la cuillère"
+                "fil de pêche decathlon"
             ],
             [
                 6,
-                "pêche à la truite pau"
+                "fil de pêche en mer"
             ],
             [
                 7,
-                "pêche à la truite robecq"
+                "fil de pêche collier fermoir or 18 carats"
             ],
             [
                 8,
-                "pêche à la truite vintage"
+                "fil de pêche carpe"
             ],
             [
                 9,
-                "pêche à la truite decathlon"
+                "fil de pêche tortue"
             ],
             [
                 0,
@@ -1602,6 +1634,42 @@
             [
                 9,
                 "pêche en mer à l'asticot"
+            ],
+            [
+                0,
+                "pêche en rivière"
+            ],
+            [
+                1,
+                "permis pêche en rivière"
+            ],
+            [
+                2,
+                "vidéo pêche en rivière"
+            ],
+            [
+                3,
+                "règlement pêche en rivière"
+            ],
+            [
+                4,
+                "ours qui pêche en rivière"
+            ],
+            [
+                5,
+                "écho sonder pour la pêche en rivière"
+            ],
+            [
+                6,
+                "réglementation pêche en rivière"
+            ],
+            [
+                7,
+                "vidéo de pêche en rivière"
+            ],
+            [
+                8,
+                "nasse pour pêche en rivière"
             ],
             [
                 0,
@@ -1661,77 +1729,53 @@
             ],
             [
                 0,
-                "accessoires canne à péche"
+                "étui canne à pêche"
             ],
             [
                 1,
-                "accessoires canne à pêche mer"
-            ],
-            [
-                2,
-                "accessoires canne à pêche décathlon"
-            ],
-            [
-                3,
-                "accessoires canne a pêche télescopique"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "ouverture de la pêche au carnassier"
-            ],
-            [
-                2,
-                "barbecue pêche au carnassier"
-            ],
-            [
-                3,
-                "décathlon pêche au carnassier"
+                "etui canne a peche rigide"
             ]
         ],
         "youtube": [
             [
                 0,
-                "matériel de pêche"
+                "pêche à la ligne"
             ],
             [
                 1,
-                "matériel de pêche decathlon"
+                "pêche à la ligne renaud"
             ],
             [
                 2,
-                "matériel de pêche action"
+                "pêche à la ligne à main"
             ],
             [
                 3,
-                "matériel de pêche carpe"
+                "pêche à la ligne en mer"
             ],
             [
                 4,
-                "matériel de pêche temu"
+                "pêche à la ligne en rivière"
             ],
             [
                 5,
-                "matériel de pêche aliexpress"
+                "pêche à la ligne bord de mer"
             ],
             [
                 6,
-                "matériel de pêche amazon"
+                "la pêche à la ligne karaoké"
             ],
             [
                 7,
-                "matériel de pêche spinning pour pêcher le sandre"
+                "la peche à la ligne renaud paroles"
             ],
             [
                 8,
-                "materiel de peche pour debutant"
+                "la peche à la ligne renaud live"
             ],
             [
                 9,
-                "accessoires de pêche"
+                "technique de pêche à la ligne"
             ],
             [
                 0,
@@ -1775,43 +1819,35 @@
             ],
             [
                 0,
-                "pêche à la truite"
+                "fil de pêche"
             ],
             [
                 1,
-                "pêche à la truite en rivière"
+                "fil de pêche fluorocarbone"
             ],
             [
                 2,
-                "pêche à la truite en étang"
+                "fil de peche moulinet"
             ],
             [
                 3,
-                "pêche à la truite à la cuillère"
+                "fil de peche noeud"
             ],
             [
                 4,
-                "pêche à la truite au bouchon"
+                "fil de peche surfcasting"
             ],
             [
                 5,
-                "pêche à la truite au toc"
+                "fil de peche aliexpress"
             ],
             [
                 6,
-                "pêche à la truite dans les pyrénées"
+                "ligne de pêche"
             ],
             [
                 7,
-                "pêche à la truite en étang au bouchon"
-            ],
-            [
-                8,
-                "pêche à la truite en ruisseau"
-            ],
-            [
-                9,
-                "pêche à la truite en montagne"
+                "raccord fil de pêche"
             ],
             [
                 0,
@@ -1855,6 +1891,34 @@
             ],
             [
                 0,
+                "pêche en rivière"
+            ],
+            [
+                1,
+                "pêche en rivière truite"
+            ],
+            [
+                2,
+                "pêche en rivière au leurre"
+            ],
+            [
+                3,
+                "pêche en rivière carpe"
+            ],
+            [
+                4,
+                "peche en riviere au bouchon"
+            ],
+            [
+                5,
+                "peche en riviere au coup"
+            ],
+            [
+                6,
+                "peche en riviere a la cuillere"
+            ],
+            [
+                0,
                 "réparation canne à pêche"
             ],
             [
@@ -1884,46 +1948,6 @@
             [
                 3,
                 "permis de peche quebec"
-            ],
-            [
-                0,
-                "pêche au carnassier"
-            ],
-            [
-                1,
-                "peche au carnassier debutant"
-            ],
-            [
-                2,
-                "peche au carnassier 2025"
-            ],
-            [
-                3,
-                "peche carnassier au leurre"
-            ],
-            [
-                4,
-                "peche carnassier au vif"
-            ],
-            [
-                5,
-                "peche carnassier au bouchon"
-            ],
-            [
-                6,
-                "peche carnassier au posé"
-            ],
-            [
-                7,
-                "peche carnassier au ver de terre"
-            ],
-            [
-                8,
-                "vidéo pêche au carnassier"
-            ],
-            [
-                9,
-                "peche carnassier hiver"
             ]
         ]
     },
@@ -1934,6 +1958,13 @@
                 "views": 202,
                 "counted": true,
                 "fromConcept": false,
+                "coverage": 1
+            },
+            {
+                "title": "Pêche sportive",
+                "views": 422,
+                "counted": true,
+                "fromConcept": true,
                 "coverage": 1
             },
             {
@@ -1950,33 +1981,26 @@
     "pages": [
         {
             "group": "Matériel de pêche",
-            "title": "matériel de pêche",
+            "title": "moulinet",
             "intent": "commercial",
             "keywords": [
-                "matériel de pêche",
-                "matériel de pêche à la carpe",
-                "matériel de pêche decathlon",
-                "matériel de pêche temu",
-                "appât",
-                "hameçon",
-                "accessoires canne à pêche",
-                "support de canne à pêche",
-                "anneaux de départ",
-                "porte-moulinet",
-                "moulinet"
+                "moulinet",
+                "moulinet de pêche",
+                "moulinet mitchell",
+                "moulinet casting",
+                "moulinet shimano",
+                "moulinet daiwa"
             ]
         },
         {
             "group": "Matériel de pêche",
-            "title": "moulinet de pêche",
-            "intent": "commercial",
+            "title": "fil de pêche",
+            "intent": "informational",
             "keywords": [
-                "moulinet de pêche",
-                "moulinet mitchell",
-                "moulinet spinning",
-                "moulinet casting",
-                "moulinet shimano",
-                "moulinet daiwa"
+                "fil de pêche",
+                "fil de pêche fluorocarbone",
+                "fil de pêche nylon",
+                "fil de pêche tressé"
             ]
         },
         {
@@ -1985,32 +2009,24 @@
             "intent": "commercial",
             "keywords": [
                 "canne à pêche casting",
+                "canne à pêche decathlon",
                 "canne à pêche prix",
-                "canne casting",
-                "canne spinning",
-                "canne à emmanchement",
-                "choisir canne à pêche",
-                "entretien canne à pêche",
-                "puissance de la canne",
-                "types de cannes à pêche",
-                "équilibrage canne",
-                "canne à pêche décathlon",
-                "canne à pêche télescopique",
+                "canne à pêche spinning",
+                "accessoires canne à pêche",
                 "bambou",
-                "canne télescopique",
+                "canne à pêche en carbone",
+                "entretien canne à pêche",
+                "longueur de la canne",
+                "matériaux canne à pêche",
+                "poignée de canne à pêche",
+                "puissance de la canne",
                 "roseau",
+                "technique de pêche à la canne",
+                "types de cannes à pêche",
+                "canne à pêche mer",
+                "canne à pêche télescopique",
                 "canne à pêche action",
                 "action de la canne"
-            ]
-        },
-        {
-            "group": "Types de cannes à pêche",
-            "title": "canne à pêche mer",
-            "intent": "commercial",
-            "keywords": [
-                "canne à pêche mer",
-                "canne à pêche au coup",
-                "canne à pêche chat"
             ]
         },
         {
@@ -2018,45 +2034,59 @@
             "title": "canne à pêche enfant",
             "intent": "commercial",
             "keywords": [
-                "canne à pêche enfant"
+                "canne à pêche enfant",
+                "pêche à la ligne enfant",
+                "appât",
+                "hameçon",
+                "canne à pêche au coup"
             ]
         },
         {
-            "group": "Techniques de pêche",
+            "group": "Pêche en milieu",
             "title": "pêche en mer",
             "intent": "informational",
             "keywords": [
                 "pêche en mer",
-                "pêche au carnassier",
-                "techniques de pêche",
-                "pêche en mer matériel",
+                "poisson",
+                "pêche",
                 "pêche en mer du bord",
+                "pêche à la ligne en mer",
                 "pêche en mer en bateau"
             ]
         },
         {
-            "group": "Techniques de pêche",
-            "title": "pêche à la truite",
+            "group": "Pêche en milieu",
+            "title": "pêche en rivière",
             "intent": "informational",
             "keywords": [
-                "pêche à la truite",
-                "pêche à la truite en étang",
-                "pêche à la truite en rivière"
+                "pêche en rivière",
+                "pêche à la ligne",
+                "canne à pêche pour la truite"
             ]
         },
         {
-            "group": "Entretien et réparation",
+            "group": "Accessoires et entretien",
             "title": "réparation canne à pêche",
             "intent": "informational",
             "keywords": [
                 "réparation canne à pêche",
+                "entretien de la canne",
                 "réparation canne à pêche carbone",
-                "blank carbone",
-                "réparation canne à pêche anneau"
+                "réparation canne à pêche anneau",
+                "anneaux de canne à pêche"
             ]
         },
         {
-            "group": "Réglementation",
+            "group": "Accessoires et entretien",
+            "title": "étui canne à pêche",
+            "intent": "commercial",
+            "keywords": [
+                "étui canne à pêche",
+                "etui canne a peche rigide"
+            ]
+        },
+        {
+            "group": "Réglementation et pratique",
             "title": "permis de pêche",
             "intent": "informational",
             "keywords": [
@@ -2069,59 +2099,58 @@
     "categories": {
         "pêche en mer": "core",
         "canne à pêche casting": "core",
-        "matériel de pêche": "core",
-        "canne à pêche décathlon": "commercial",
+        "canne à pêche decathlon": "commercial",
+        "fil de pêche": "core",
         "moulinet": "core",
-        "pêche au carnassier": "core",
         "canne à pêche enfant": "core",
         "canne à pêche mer": "core",
-        "accessoires canne à pêche": "core",
+        "fil de pêche fluorocarbone": "core",
+        "pêche à la ligne": "core",
         "permis de pêche": "core",
+        "pêche en rivière": "core",
         "réparation canne à pêche": "commercial",
+        "étui canne à pêche": "complementary",
         "moulinet de pêche": "core",
-        "pêche à la truite": "core",
+        "etui canne a peche rigide": "complementary",
+        "pêche à la ligne enfant": "core",
         "moulinet casting": "core",
         "réparation canne à pêche carbone": "commercial",
-        "pêche à la truite en étang": "core",
-        "matériel de pêche à la carpe": "complementary",
         "réparation canne à pêche anneau": "commercial",
         "permis de pêche 2026": "core",
-        "pêche en mer matériel": "core",
         "moulinet shimano": "commercial",
-        "matériel de pêche decathlon": "commercial",
         "canne à pêche au coup": "core",
-        "moulinet daiwa": "core",
+        "moulinet daiwa": "commercial",
+        "pêche à la ligne en mer": "core",
         "canne à pêche télescopique": "core",
-        "pêche à la truite en rivière": "core",
+        "fil de pêche nylon": "core",
         "pêche en mer du bord": "core",
-        "support de canne à pêche": "complementary",
+        "canne à pêche pour la truite": "core",
         "pêche en mer en bateau": "core",
         "canne à pêche action": "complementary",
+        "fil de pêche tressé": "complementary",
         "moulinet mitchell": "commercial",
-        "matériel de pêche temu": "commercial",
-        "moulinet spinning": "complementary",
-        "canne à pêche chat": "complementary",
         "types de cannes à pêche": "core",
-        "choisir canne à pêche": "core",
+        "matériaux canne à pêche": "core",
         "canne à pêche prix": "commercial",
         "entretien canne à pêche": "core",
-        "techniques de pêche": "core",
+        "technique de pêche à la canne": "core",
         "réglementation pêche": "core",
-        "canne casting": "core",
-        "canne spinning": "core",
-        "canne télescopique": "core",
-        "canne à emmanchement": "complementary",
-        "blank carbone": "complementary",
-        "anneaux de départ": "complementary",
-        "porte-moulinet": "complementary",
+        "accessoires canne à pêche": "core",
+        "canne à pêche spinning": "complementary",
+        "canne à pêche en carbone": "core",
+        "anneaux de canne à pêche": "core",
+        "poignée de canne à pêche": "core",
         "action de la canne": "core",
         "puissance de la canne": "core",
-        "équilibrage canne": "complementary",
-        "poisson": "doubtful",
+        "longueur de la canne": "core",
+        "entretien de la canne": "complementary",
+        "poisson": "complementary",
         "bambou": "complementary",
-        "pêche": "doubtful",
+        "pêche": "complementary",
         "roseau": "complementary",
         "hameçon": "complementary",
-        "appât": "complementary"
+        "appât": "complementary",
+        "pêche à la ligne jeu": "doubtful",
+        "pêche à la ligne kermesse": "doubtful"
     }
 }

@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "garanties emprunteur",
-        "comparateur assurance prêt",
-        "coût assurance prêt",
-        "changer assurance emprunteur",
-        "résiliation assurance prêt",
-        "questionnaire médical emprunteur",
-        "loi bourquin explication",
-        "fiche standardisée assurance"
+        "garanties assurance emprunteur",
+        "coût assurance emprunteur",
+        "délais de résiliation assurance emprunteur",
+        "comparaison assurance emprunteur",
+        "déléégation d'assurance emprunteur",
+        "risques couverts assurance emprunteur",
+        "souscription assurance emprunteur",
+        "législation assurance emprunteur"
     ],
     "suggestions": {
         "amazon": [
@@ -43,13 +43,13 @@
         ],
         "duckduckgo": [
             "assurance emprunteur allianz",
-            "assurance emprunteur innenstadt",
             "assurance emprunteur",
             "assurance emprunteur agipi",
             "assurance emprunteur meilleurtaux",
             "assurance emprunteur maif",
             "assurance emprunteur sogecap",
-            "assurance emprunteur prêt immobilier"
+            "assurance emprunteur prêt immobilier",
+            "assurance emprunteur credit agricole"
         ],
         "google": [
             "assurance emprunteur",
@@ -187,151 +187,123 @@
             ],
             [
                 0,
-                "garanties emprunteur immobilier"
-            ],
-            [
-                1,
-                "garanties emprunteur"
-            ],
-            [
-                2,
-                "garantie emprunteur macif"
-            ],
-            [
-                3,
-                "garantie emprunteur loa"
-            ],
-            [
-                4,
-                "garantie emprunteur c'est quoi"
-            ],
-            [
-                5,
-                "garantie emprunteur swisslife"
-            ],
-            [
-                6,
-                "garantie emprunteur macif connexion"
-            ],
-            [
-                7,
-                "garantie emprunteur irp auto"
-            ],
-            [
-                8,
-                "garantie emprunteur securimut"
+                "garanties assurance emprunteur"
             ],
             [
                 0,
-                "comparateur assurance pret immobilier"
+                "coût assurance emprunteur"
             ],
             [
                 1,
-                "comparateur assurance prêt"
+                "coût assurance emprunt immobilier"
+            ],
+            [
+                0,
+                "délais de résiliation assurance"
+            ],
+            [
+                1,
+                "résiliation contrat assurance emprunteur"
             ],
             [
                 2,
-                "comparateur assurance prêt conso"
+                "délai de résiliation d'une assurance"
             ],
             [
                 3,
-                "comparateur assurance prêt personnel"
+                "lettre de résiliation assurance emprunteur"
             ],
             [
                 4,
-                "comparateur assurance prêt habitation"
+                "délais pour résilier une assurance"
             ],
             [
                 5,
-                "comparateur assurance prêt étudiant"
+                "délai de résiliation contrat assurance"
             ],
             [
                 6,
-                "comparateur assurance prêt emprunteur"
+                "lettre type résiliation assurance emprunteur"
             ],
             [
                 7,
-                "comparateur d'assurance prêt immobilier"
+                "délais résiliation assurance auto"
             ],
             [
                 8,
-                "comparateur assurance professionnelle"
+                "délai résiliation assurance professionnelle"
             ],
             [
                 9,
-                "comparateur assurance protection juridique"
+                "résilier une assurance emprunteur"
+            ],
+            [
+                10,
+                "résiliation contrat assurance délai"
+            ],
+            [
+                11,
+                "délai résiliation contrat d'assurance"
             ],
             [
                 0,
-                "cout assurance pret immobilier"
-            ],
-            [
-                1,
-                "cout assurance pret"
+                "comparaison assurance emprunteur"
             ],
             [
                 0,
-                "changer assurance emprunteur"
+                "délégation d'assurance emprunteur"
+            ],
+            [
+                0,
+                "que couvre l'assurance emprunteur"
             ],
             [
                 1,
-                "changer assurance emprunteur prêt immobilier"
+                "que contient une assurance emprunteur"
             ],
             [
                 2,
-                "changer d'assurance emprunteur immobilier"
+                "assurance emprunteur risque aggravé de santé"
             ],
             [
                 3,
-                "changer d'assurance emprunteur loi"
+                "assurance emprunteur tout savoir"
             ],
             [
                 4,
-                "changer d'assurance emprunteur comment faire"
+                "assurance emprunteur risque aggravé"
             ],
             [
                 5,
-                "changer d'assurance emprunteur"
-            ],
-            [
-                0,
-                "résiliation assurance prêt conso"
-            ],
-            [
-                1,
-                "résiliation assurance prêt professionnel"
-            ],
-            [
-                2,
-                "résiliation assurance prêt consommation"
-            ],
-            [
-                3,
-                "résiliation assurance prêt personnel"
-            ],
-            [
-                4,
-                "résiliation assurance prêt immobilier"
-            ],
-            [
-                5,
-                "résiliation assurance prêt"
+                "assurance emprunteur pas cher"
             ],
             [
                 6,
-                "résiliation assurance prêt desjardins"
+                "assurance emprunteur prêt personnel"
             ],
             [
                 7,
-                "resiliation assurance professionnelle"
+                "revoir son assurance emprunteur"
+            ],
+            [
+                8,
+                "assurance emprunteur et maladie"
+            ],
+            [
+                9,
+                "assurance emprunteur est elle obligatoire"
+            ],
+            [
+                10,
+                "assurance emprunteur prêt professionnel"
+            ],
+            [
+                11,
+                "la meilleure assurance emprunteur"
             ],
             [
                 0,
-                "questionnaire medical assurance emprunteur"
-            ],
-            [
-                0,
-                "fiche standardisée assurance emprunteur"
+                "souscription assurance emprunteur"
             ]
         ],
         "google": [
@@ -389,517 +361,439 @@
             ],
             [
                 0,
-                "garanties emprunteur"
+                "garanties assurance emprunteur"
             ],
             [
                 1,
-                "garantie emprunteur macif"
+                "garantie itt assurance emprunteur"
             ],
             [
                 2,
-                "garantie emprunteur c est quoi"
-            ],
-            [
-                3,
-                "garantie emprunteur loa"
-            ],
-            [
-                4,
-                "garantie emprunteur credit agricole"
-            ],
-            [
-                5,
-                "garantie emprunteur macif avis"
-            ],
-            [
-                6,
-                "garantie emprunteur voiture"
-            ],
-            [
-                7,
-                "garantie emprunteur aramis"
-            ],
-            [
-                8,
-                "garantie emprunteur maif"
-            ],
-            [
-                9,
-                "garantie emprunteur lcl"
+                "garantie ipp assurance emprunteur"
             ],
             [
                 0,
-                "comparateur assurance prêt immobilier"
+                "coût assurance emprunteur"
             ],
             [
                 1,
-                "comparateur assurance prêt"
+                "cout assurance emprunteur 25 ans"
             ],
             [
                 2,
-                "comparateur assurance prêt immobilier que choisir"
+                "cout assurance emprunteur 20 ans"
             ],
             [
                 3,
-                "comparateur assurance prêt consommation"
+                "cout assurance emprunteur immobilier"
             ],
             [
                 4,
-                "comparateur assurance prêt étudiant"
+                "cout assurance emprunteur sur 8 ans"
             ],
             [
                 5,
-                "comparateur assurance prêt immobilier gratuit"
+                "cout assurance emprunteur apres 60 ans"
             ],
             [
                 6,
-                "comparateur assurance prêt professionnel"
+                "coût assurance emprunteur 50 ans"
             ],
             [
                 7,
-                "comparateur assurance prêt personnel"
+                "cout assurance emprunteur moyen"
             ],
             [
                 8,
-                "comparateur assurance prêt auto"
+                "calcul assurance emprunteur"
             ],
             [
                 9,
-                "comparateur assurance prêt habitation"
+                "calcul assurance emprunteur capital restant du"
             ],
             [
                 0,
-                "coût assurance prêt immobilier 20 ans"
+                "délai de résiliation assurance emprunteur"
             ],
             [
                 1,
-                "coût assurance prêt immobilier"
+                "delais changement assurance emprunteur"
             ],
             [
                 2,
-                "coût assurance prêt à taux zéro"
+                "délai résiliation assurance prêt immobilier"
             ],
             [
                 3,
-                "coût assurance prêt immobilier 15 ans"
+                "delai resiliation assurance pret"
             ],
             [
                 4,
-                "coût assurance prêt immobilier simulation"
+                "delais changement assurance pret immobilier"
             ],
             [
                 5,
-                "coût assurance prêt consommation"
-            ],
-            [
-                6,
-                "cout assurance prêt"
-            ],
-            [
-                7,
-                "coût assurance prêt immobilier 25 ans"
-            ],
-            [
-                8,
-                "coût assurance prêt immobilier par mois"
-            ],
-            [
-                9,
-                "coût assurance prêt immobilier 10 ans"
+                "delai changement assurance pret"
             ],
             [
                 0,
-                "changer assurance emprunteur"
+                "comparaison assurance emprunteur"
             ],
             [
                 1,
-                "changer assurance emprunteur immobilier"
+                "comparateur assurance emprunteur immobilier"
             ],
             [
                 2,
-                "changer assurance emprunteur pret immobilier"
+                "comparateur assurance emprunteur ade"
             ],
             [
                 3,
-                "changer assurance emprunteur pret personnel"
+                "comparateur assurance emprunteur en ligne"
             ],
             [
                 4,
-                "changer assurance emprunteur 2026"
+                "comparateur assurance emprunteur gratuit"
             ],
             [
                 5,
-                "changer assurance emprunteur sci"
+                "comparateur assurance emprunteur magnolia"
             ],
             [
                 6,
-                "changer assurance emprunteur delai"
+                "comparateur assurance emprunteur ufc que choisir"
             ],
             [
                 7,
-                "changer assurance emprunteur loi"
+                "comparateur assurance emprunteur que choisir"
             ],
             [
                 8,
-                "changer assurance emprunteur apres 1 an"
+                "comparateur assurance emprunteur meilleur taux"
             ],
             [
                 9,
-                "changer assurance emprunteur professionnel"
+                "comparateur assurance emprunteur les furets"
             ],
             [
                 0,
-                "résiliation assurance prêt immobilier remboursement anticipé"
+                "délégation d assurance emprunteur"
             ],
             [
                 1,
-                "résiliation assurance prêt consommation"
+                "délégation d assurance crédit immobilier"
             ],
             [
                 2,
-                "résiliation assurance prêt immobilier par l'assureur"
+                "délégation d assurance crédit consommation"
             ],
             [
                 3,
-                "résiliation assurance prêt immobilier suite vente"
+                "délégation d'assurance crédit"
             ],
             [
                 4,
-                "résiliation assurance prêt"
+                "délégation d'assurance prêt étudiant"
             ],
             [
                 5,
-                "résiliation assurance prêt professionnel"
+                "délégation d assurance prêt immobilier loi"
             ],
             [
                 6,
-                "résiliation assurance prêt immobilier"
+                "délégation d'assurance prêt professionnel"
             ],
             [
                 7,
-                "résiliation assurance prêt étudiant"
-            ],
-            [
-                8,
-                "résiliation assurance prêt immobilier lettre type"
-            ],
-            [
-                9,
-                "résiliation assurance prêt travaux"
+                "délégation d assurance de prêt"
             ],
             [
                 0,
-                "questionnaire medical emprunteur"
+                "risques couverts assurance emprunteur"
+            ],
+            [
+                0,
+                "souscription assurance emprunteur"
             ],
             [
                 1,
-                "questionnaire medical credit agricole"
+                "souscription assurance emprunteur en ligne"
             ],
             [
                 2,
-                "questionnaire medical credit immobilier"
+                "souscrire assurance emprunteur cnp"
             ],
             [
                 3,
-                "questionnaire médical credit mutuel"
+                "souscription assurance credit agricole"
             ],
             [
                 4,
-                "questionnaire médical emprunt"
+                "souscription assurance credit mutuel"
             ],
             [
                 5,
-                "questionnaire medical credit"
+                "souscrire assurance crédit agricole"
             ],
             [
                 6,
-                "questionnaire medical emprunt bancaire"
-            ],
-            [
-                7,
-                "questionnaire sante credit immobilier"
-            ],
-            [
-                8,
-                "questionnaire sante credit agricole"
-            ],
-            [
-                9,
-                "questionnaire sante credit"
+                "quand souscrire assurance emprunteur"
             ],
             [
                 0,
-                "fiche standardisée assurance emprunteur"
+                "législation assurance emprunteur"
             ],
             [
                 1,
-                "fiche standardisée assurance"
+                "réglementation assurance emprunteur"
             ],
             [
                 2,
-                "fiche standardisée d information assurance emprunteur"
+                "loi assurance emprunteur"
             ],
             [
                 3,
-                "fiche standardisée d information assurance"
+                "loi assurance emprunteur sans questionnaire de santé"
+            ],
+            [
+                4,
+                "loi assurance emprunteur questionnaire medical"
+            ],
+            [
+                5,
+                "loi assurance emprunteur changement"
+            ],
+            [
+                6,
+                "loi assurance emprunteur 2022"
+            ],
+            [
+                7,
+                "loi assurance emprunteur maladie"
+            ],
+            [
+                8,
+                "regle changement assurance emprunteur"
+            ],
+            [
+                9,
+                "code comptable assurance emprunteur"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "garanties emprunteur immobilier"
+                "garanties assurance emprunteur"
+            ],
+            [
+                0,
+                "coût assurance emprunteur"
             ],
             [
                 1,
-                "garanties emprunteur"
+                "coût assurance emprunt immobilier"
+            ],
+            [
+                0,
+                "délais de résiliation assurance"
+            ],
+            [
+                1,
+                "résiliation contrat assurance emprunteur"
             ],
             [
                 2,
-                "garantie emprunteur macif"
+                "délai de résiliation d'une assurance"
             ],
             [
                 3,
-                "garantie emprunteur loa"
+                "lettre de résiliation assurance emprunteur"
             ],
             [
                 4,
-                "garantie emprunteur c'est quoi"
+                "délais pour résilier une assurance"
             ],
             [
                 5,
-                "garantie emprunteur swisslife"
+                "délai de résiliation contrat assurance"
             ],
             [
                 6,
-                "garantie emprunteur macif connexion"
+                "lettre type résiliation assurance emprunteur"
             ],
             [
                 7,
-                "garantie emprunteur irp auto"
+                "délais résiliation assurance auto"
             ],
             [
                 0,
-                "comparateur assurance pret immobilier"
+                "comparaison assurance emprunteur"
+            ],
+            [
+                0,
+                "délégation d'assurance emprunteur"
+            ],
+            [
+                0,
+                "que couvre l'assurance emprunteur"
             ],
             [
                 1,
-                "comparateur assurance prêt"
+                "que contient une assurance emprunteur"
             ],
             [
                 2,
-                "comparateur assurance prêt conso"
+                "assurance emprunteur risque aggravé de santé"
             ],
             [
                 3,
-                "comparateur assurance prêt personnel"
+                "assurance emprunteur tout savoir"
             ],
             [
                 4,
-                "comparateur assurance prêt habitation"
+                "assurance emprunteur risque aggravé"
             ],
             [
                 5,
-                "comparateur assurance prêt étudiant"
+                "assurance emprunteur pas cher"
             ],
             [
                 6,
-                "comparateur assurance prêt emprunteur"
+                "assurance emprunteur prêt personnel"
             ],
             [
                 7,
-                "comparateur d'assurance prêt immobilier"
+                "revoir son assurance emprunteur"
             ],
             [
                 0,
-                "cout assurance pret immobilier"
-            ],
-            [
-                1,
-                "cout assurance pret"
-            ],
-            [
-                0,
-                "changer assurance emprunteur"
-            ],
-            [
-                1,
-                "changer assurance emprunteur prêt immobilier"
-            ],
-            [
-                2,
-                "changer d'assurance emprunteur immobilier"
-            ],
-            [
-                3,
-                "changer d'assurance emprunteur loi"
-            ],
-            [
-                4,
-                "changer d'assurance emprunteur comment faire"
-            ],
-            [
-                5,
-                "changer d'assurance emprunteur"
-            ],
-            [
-                0,
-                "résiliation assurance prêt conso"
-            ],
-            [
-                1,
-                "résiliation assurance prêt professionnel"
-            ],
-            [
-                2,
-                "résiliation assurance prêt consommation"
-            ],
-            [
-                3,
-                "résiliation assurance prêt personnel"
-            ],
-            [
-                4,
-                "résiliation assurance prêt immobilier"
-            ],
-            [
-                5,
-                "résiliation assurance prêt"
-            ],
-            [
-                6,
-                "résiliation assurance prêt desjardins"
-            ],
-            [
-                7,
-                "resiliation assurance professionnelle"
-            ],
-            [
-                0,
-                "questionnaire medical assurance emprunteur"
-            ],
-            [
-                0,
-                "fiche standardisée assurance emprunteur"
+                "souscription assurance emprunteur"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "garanties emprunteur synonyme"
+                "garanties assurance emprunteur pas cher"
             ],
             [
                 1,
-                "garanties emprunteur définition"
+                "garanties assurance emprunteur immobilier"
             ],
             [
                 2,
-                "garanties emprunteur de"
-            ],
-            [
-                0,
-                "comparateur assurance prêt immobilier"
-            ],
-            [
-                1,
-                "comparateur assurance prêt habitation"
-            ],
-            [
-                2,
-                "comparateur assurance prêt consommation"
+                "garanties assurance emprunteur macif"
             ],
             [
                 3,
-                "comparateur assurance prêt personnel"
+                "garanties assurance emprunteur en ligne"
             ],
             [
                 0,
-                "coût assurance prêt immobilier"
+                "coût assurance emprunteur pas cher"
             ],
             [
                 1,
-                "cout assurance pret"
-            ],
-            [
-                0,
-                "changer assurance emprunteur"
-            ],
-            [
-                1,
-                "changer assurance emprunteur immobilier"
+                "coût assurance emprunteur immobilier"
             ],
             [
                 2,
-                "changer assurance emprunteur prêt immobilier"
+                "coût assurance emprunteur macif"
             ],
             [
                 3,
-                "délai pour changer assurance emprunteur"
+                "coût assurance emprunteur en ligne"
             ],
             [
                 0,
-                "résiliation assurance prêt immobilier"
+                "délais de résiliation assurance emprunteur pas cher"
             ],
             [
                 1,
-                "lettre type résiliation assurance prêt"
+                "délais de résiliation assurance emprunteur immobilier"
             ],
             [
                 2,
-                "modèle lettre résiliation assurance prêt"
+                "délais de résiliation assurance emprunteur macif"
             ],
             [
                 3,
-                "modèle résiliation assurance prêt immobilier"
+                "délais de résiliation assurance emprunteur en ligne"
             ],
             [
                 0,
-                "questionnaire médical emprunteur synonyme"
+                "comparaison assurance emprunteur pas cher"
             ],
             [
                 1,
-                "questionnaire médical emprunteur définition"
+                "comparaison assurance emprunteur immobilier"
             ],
             [
                 2,
-                "questionnaire médical emprunteur de"
-            ],
-            [
-                0,
-                "loi bourquin explication de"
-            ],
-            [
-                1,
-                "loi bourquin explication tricot"
-            ],
-            [
-                2,
-                "loi bourquin explication synonyme"
+                "comparaison assurance emprunteur macif"
             ],
             [
                 3,
-                "loi bourquin explication carte"
+                "comparaison assurance emprunteur en ligne"
             ],
             [
                 0,
-                "fiche assurance"
-            ]
-        ],
-        "youtube": [
-            [
-                0,
-                "changer assurance emprunteur"
+                "déléégation d'assurance emprunteur synonyme"
             ],
             [
                 1,
-                "changer assurance pret immobilier"
+                "déléégation d'assurance emprunteur définition"
             ],
             [
                 2,
-                "comment changer assurance emprunteur"
+                "déléégation d'assurance emprunteur de"
             ],
             [
                 0,
-                "changer assurance pret immobilier"
+                "risques couverts assurance emprunteur pas cher"
+            ],
+            [
+                1,
+                "risques couverts assurance emprunteur immobilier"
+            ],
+            [
+                2,
+                "risques couverts assurance emprunteur macif"
+            ],
+            [
+                3,
+                "risques couverts assurance emprunteur en ligne"
+            ],
+            [
+                0,
+                "souscription assurance emprunteur pas cher"
+            ],
+            [
+                1,
+                "souscription assurance emprunteur immobilier"
+            ],
+            [
+                2,
+                "souscription assurance emprunteur macif"
+            ],
+            [
+                3,
+                "souscription assurance emprunteur en ligne"
+            ],
+            [
+                0,
+                "législation assurance emprunteur pas cher"
+            ],
+            [
+                1,
+                "législation assurance emprunteur immobilier"
+            ],
+            [
+                2,
+                "législation assurance emprunteur macif"
+            ],
+            [
+                3,
+                "législation assurance emprunteur en ligne"
             ]
         ]
     },
@@ -918,132 +812,122 @@
     },
     "pages": [
         {
-            "group": "Assureurs",
+            "group": "Fournisseurs",
             "title": "assurance emprunteur maif",
             "intent": "commercial",
             "keywords": [
                 "assurance emprunteur maif",
                 "banque",
+                "assurance emprunteur allianz",
                 "assurance emprunteur credit agricole",
                 "assurance emprunteur macif",
-                "garantie emprunteur macif"
-            ]
-        },
-        {
-            "group": "Assureurs",
-            "title": "assurance emprunteur allianz",
-            "intent": "commercial",
-            "keywords": [
-                "assurance emprunteur allianz",
                 "assurance emprunteur agipi",
-                "assurance emprunteur meilleurtaux"
+                "assurance emprunteur axa",
+                "assurance emprunteur sogecap"
             ]
         },
         {
-            "group": "Assureurs",
-            "title": "assurance emprunteur en ligne",
-            "intent": "commercial",
-            "keywords": [
-                "assurance emprunteur en ligne",
-                "assurance emprunteur comparatif",
-                "assurance emprunteur explication",
-                "meilleur assurance emprunteur"
-            ]
-        },
-        {
-            "group": "Types d'assurance emprunteur",
+            "group": "Fournisseurs",
             "title": "assurance emprunteur immobilier",
             "intent": "commercial",
             "keywords": [
                 "assurance emprunteur immobilier",
-                "assurance emprunteur pour personne malade",
+                "couverture prêt immobilier",
+                "coût assurance emprunteur immobilier",
                 "assurance emprunteur pour une sci",
                 "assurance emprunteur quotité"
             ]
         },
         {
-            "group": "Types d'assurance emprunteur",
-            "title": "assurance emprunteur pret personnel",
-            "intent": "commercial",
-            "keywords": [
-                "cout assurance pret",
-                "comparateur assurance prêt personnel",
-                "garantie emprunteur loa",
-                "coût mensuel"
-            ]
-        },
-        {
-            "group": "Changer d'assurance",
-            "title": "changer assurance emprunteur",
-            "intent": "transactional",
-            "keywords": [
-                "changer assurance emprunteur",
-                "delegation assurance emprunteur",
-                "délégation assurance",
-                "loi bourquin",
-                "changer assurance emprunteur immobilier",
-                "changer assurance emprunteur prêt immobilier",
-                "résiliation assurance prêt immobilier",
-                "résiliation annuelle",
-                "résiliation assurance emprunteur",
-                "fiche standardisée assurance emprunteur",
-                "fiche standardisée"
-            ]
-        },
-        {
-            "group": "Coût et garanties",
-            "title": "cout assurance pret immobilier",
+            "group": "Garanties et risques",
+            "title": "délégation d'assurance emprunteur",
             "intent": "informational",
             "keywords": [
-                "cout assurance pret immobilier",
-                "assurance emprunteur coût",
-                "garanties emprunteur",
-                "exclusion garanties",
+                "délégation d'assurance emprunteur",
+                "déléégation d'assurance",
+                "loi bourquin",
+                "résiliation assurance emprunteur",
+                "déléégation d'assurance emprunteur synonyme",
+                "législation assurance emprunteur",
+                "délai de résiliation assurance emprunteur",
+                "délais de résiliation assurance emprunteur pas cher"
+            ]
+        },
+        {
+            "group": "Garanties et risques",
+            "title": "garanties assurance emprunteur",
+            "intent": "informational",
+            "keywords": [
                 "garanties assurance emprunteur",
                 "garanties décès",
                 "garanties invalidité",
-                "questionnaire medical emprunteur",
-                "questionnaire santé",
-                "santé et assurance emprunteur",
-                "garantie emprunteur c est quoi"
+                "garanties perte d'emploi",
+                "risques exclus",
+                "assurance emprunteur pour personne malade",
+                "que couvre l'assurance emprunteur",
+                "risques couverts assurance emprunteur"
             ]
         },
         {
-            "group": "Comparateurs",
-            "title": "comparateur assurance pret immobilier",
+            "group": "Garanties et risques",
+            "title": "assurance emprunteur explication",
+            "intent": "informational",
+            "keywords": [
+                "assurance emprunteur explication",
+                "assurance emprunteur quel compte comptable"
+            ]
+        },
+        {
+            "group": "Comparaison",
+            "title": "comparaison assurance emprunteur",
             "intent": "commercial",
             "keywords": [
-                "comparateur assurance pret immobilier",
-                "comparateur assurance prêt",
                 "comparaison assurance emprunteur",
-                "comparateur en ligne"
+                "assurance emprunteur comparatif",
+                "meilleur assurance emprunteur",
+                "comparaison assurance emprunteur pas cher",
+                "garanties assurance emprunteur pas cher"
+            ]
+        },
+        {
+            "group": "Souscription",
+            "title": "souscription assurance emprunteur",
+            "intent": "transactional",
+            "keywords": [
+                "souscription assurance emprunteur",
+                "questionnaire médical",
+                "souscription assurance emprunteur en ligne",
+                "assurance emprunteur en ligne",
+                "assurance emprunteur meilleurtaux"
+            ]
+        },
+        {
+            "group": "Coûts et remboursement",
+            "title": "coût assurance emprunteur",
+            "intent": "commercial",
+            "keywords": [
+                "coût assurance emprunteur",
+                "coût mensuel",
+                "coût assurance emprunteur pas cher",
+                "assurance emprunteur remboursement",
+                "assurance emprunteur forfaitaire ou indemnitaire"
             ]
         }
     ],
     "categories": {
         "assurance emprunteur immobilier": "core",
-        "changer assurance emprunteur": "commercial",
-        "comparateur assurance pret immobilier": "core",
-        "cout assurance pret immobilier": "commercial",
         "assurance emprunteur maif": "commercial",
-        "garanties emprunteur": "core",
         "assurance emprunteur allianz": "commercial",
-        "changer assurance emprunteur immobilier": "commercial",
-        "changer assurance emprunteur prêt immobilier": "commercial",
+        "délégation d'assurance emprunteur": "core",
         "assurance emprunteur credit agricole": "commercial",
-        "cout assurance pret": "commercial",
         "assurance emprunteur macif": "commercial",
-        "résiliation assurance prêt immobilier": "commercial",
-        "fiche standardisée assurance emprunteur": "commercial",
+        "comparaison assurance emprunteur": "core",
+        "coût assurance emprunteur": "commercial",
+        "garanties assurance emprunteur": "core",
+        "souscription assurance emprunteur": "commercial",
         "assurance emprunteur pour personne malade": "core",
-        "comparateur assurance prêt": "complementary",
-        "questionnaire medical emprunteur": "complementary",
-        "comparateur assurance prêt personnel": "complementary",
-        "garantie emprunteur macif": "commercial",
-        "comparateur assurance prêt habitation": "doubtful",
-        "comparateur assurance prêt consommation": "doubtful",
-        "garantie emprunteur c est quoi": "complementary",
-        "garantie emprunteur loa": "complementary",
+        "coût assurance emprunteur immobilier": "commercial",
+        "souscription assurance emprunteur en ligne": "commercial",
         "assurance emprunteur agipi": "commercial",
         "assurance emprunteur comparatif": "commercial",
         "assurance emprunteur pour une sci": "complementary",
@@ -1052,25 +936,32 @@
         "assurance emprunteur meilleurtaux": "commercial",
         "assurance emprunteur en ligne": "commercial",
         "meilleur assurance emprunteur": "commercial",
-        "garanties assurance emprunteur": "core",
-        "comparaison assurance emprunteur": "core",
-        "assurance emprunteur coût": "commercial",
-        "delegation assurance emprunteur": "commercial",
-        "résiliation assurance emprunteur": "commercial",
-        "santé et assurance emprunteur": "core",
-        "loi bourquin": "commercial",
-        "fiche standardisée": "commercial",
-        "garanties invalidité": "core",
+        "assurance emprunteur axa": "commercial",
+        "assurance emprunteur remboursement": "complementary",
+        "assurance emprunteur sogecap": "commercial",
+        "délais de résiliation assurance": "doubtful",
+        "que couvre l'assurance emprunteur": "complementary",
+        "assurance emprunteur forfaitaire ou indemnitaire": "complementary",
+        "assurance emprunteur quel compte comptable": "complementary",
+        "comparaison assurance emprunteur pas cher": "commercial",
+        "coût assurance emprunteur pas cher": "commercial",
+        "délai de résiliation assurance emprunteur": "complementary",
+        "délais de résiliation assurance emprunteur pas cher": "commercial",
+        "déléégation d'assurance emprunteur synonyme": "complementary",
+        "garanties assurance emprunteur pas cher": "commercial",
+        "risques couverts assurance emprunteur": "complementary",
+        "législation assurance emprunteur": "complementary",
         "garanties décès": "core",
-        "exclusion garanties": "complementary",
-        "délégation assurance": "commercial",
-        "questionnaire santé": "core",
+        "garanties invalidité": "core",
+        "garanties perte d'emploi": "core",
+        "questionnaire médical": "commercial",
+        "déléégation d'assurance": "complementary",
+        "résiliation assurance emprunteur": "core",
         "coût mensuel": "commercial",
-        "comparateur en ligne": "commercial",
-        "résiliation annuelle": "commercial",
+        "couverture prêt immobilier": "complementary",
+        "risques exclus": "complementary",
+        "loi bourquin": "core",
         "banque": "commercial",
-        "résiliation assurance prêt consommation": "doubtful",
-        "assurance emprunteur innenstadt": "doubtful",
-        "résiliation assurance prêt professionnel": "doubtful"
+        "déléégation d'assurance emprunteur de": "doubtful"
     }
 }

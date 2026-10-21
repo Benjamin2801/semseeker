@@ -1926,12 +1926,45 @@ body.is-loading .home-cta {
     animation: spin 0.8s linear infinite;
 }
 
+/* Le plan arrive dans une seconde requête : un encart d'attente tient sa place. */
+.plan-pending {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 24px 0;
+    padding: 18px 20px;
+    border: 1px dashed var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+}
+
+.plan-pending p {
+    margin: 0;
+    color: var(--muted);
+}
+
+.plan-pending strong {
+    color: var(--text);
+    font-weight: 600;
+}
+
+.plan-spinner {
+    flex: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid color-mix(in srgb, var(--accent) 30%, transparent);
+    border-top-color: var(--accent);
+    animation: spin 0.8s linear infinite;
+}
+
 @keyframes spin {
     to { transform: rotate(360deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .search-form button.is-loading::before {
+    .search-form button.is-loading::before,
+    .plan-spinner {
         animation: none;
     }
 

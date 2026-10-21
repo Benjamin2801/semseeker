@@ -16,8 +16,10 @@
     "concepts": [
         "fiabilité test de grossesse",
         "prix test de grossesse",
-        "interprétation test de grossesse",
-        "symptômes grossesse"
+        "lecture résultat test de grossesse",
+        "faux positif test de grossesse",
+        "test d'ovulation",
+        "pharmacie de garde"
     ],
     "suggestions": {
         "amazon": [
@@ -272,11 +274,11 @@
             ],
             [
                 0,
-                "test de grossesse dessin"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "où acheter un test de grossesse"
+                "test de grossesse dessin"
             ],
             [
                 2,
@@ -284,23 +286,95 @@
             ],
             [
                 3,
-                "test de grossesse pour chienne"
-            ],
-            [
-                4,
-                "comment tester une enceinte"
+                "livre à lire pendant la grossesse"
             ],
             [
                 0,
-                "symptômes grossesse nerveuse chien"
+                "faux test de grossesse positif blague"
             ],
             [
                 1,
-                "symptômes grosse fatigue"
+                "où acheter un test de grossesse"
             ],
             [
                 2,
-                "grossesse nerveuse chienne symptômes"
+                "vrai positif faux positif"
+            ],
+            [
+                3,
+                "taux de faux positifs"
+            ],
+            [
+                4,
+                "test de grossesse dessin"
+            ],
+            [
+                5,
+                "test de grossesse avec du sel"
+            ],
+            [
+                6,
+                "faux positif et faux négatif"
+            ],
+            [
+                7,
+                "test des faux pas enfants"
+            ],
+            [
+                8,
+                "c'est quoi un faux positif"
+            ],
+            [
+                0,
+                "test ovulation chien"
+            ],
+            [
+                0,
+                "pharmacie de garde"
+            ],
+            [
+                1,
+                "pharmacie de garde aujourd'hui"
+            ],
+            [
+                2,
+                "pharmacie de garde grenoble"
+            ],
+            [
+                3,
+                "pharmacie de garde ce dimanche"
+            ],
+            [
+                4,
+                "pharmacie de garde 3237"
+            ],
+            [
+                5,
+                "pharmacie de garde autour de moi"
+            ],
+            [
+                6,
+                "pharmacie de garde voiron"
+            ],
+            [
+                7,
+                "pharmacie de garde strasbourg"
+            ],
+            [
+                8,
+                "pharmacie de garde yopougon"
+            ],
+            [
+                9,
+                "pharmacie de garde ouverte aujourd'hui"
+            ],
+            [
+                10,
+                "pharmacie de garde aujourd'hui dimanche"
+            ],
+            [
+                11,
+                "pharmacie de garde aujourd'hui autour de moi"
             ]
         ],
         "google": [
@@ -498,79 +572,197 @@
             ],
             [
                 0,
-                "interprétation test de grossesse"
+                "lire resultat test de grossesse"
             ],
             [
                 1,
-                "interprétation test de grossesse clearblue"
+                "lecture resultat test grossesse clearblue"
             ],
             [
                 2,
-                "interpretation test de grossesse urinaire"
+                "lire resultat test grossesse sanguin"
             ],
             [
                 3,
-                "interpretation test de grossesse sanguin"
+                "lecture test de grossesse"
             ],
             [
                 4,
-                "explication test de grossesse"
+                "lecture test de grossesse après 10 minutes"
             ],
             [
                 5,
-                "definition test de grossesse"
+                "lecture test de grossesse biosynex"
             ],
             [
                 6,
-                "explication test de grossesse clearblue"
-            ],
-            [
-                7,
-                "interpretation resultat test de grossesse"
-            ],
-            [
-                8,
-                "interpretation reve test de grossesse positif"
+                "lecture test de grossesse mercurochrome"
             ],
             [
                 0,
-                "symptômes grossesse"
+                "faux positif test de grossesse"
             ],
             [
                 1,
-                "symptômes grossesse 1 semaine"
+                "faux positif test de grossesse positif photo réel"
             ],
             [
                 2,
-                "symptômes grossesse extra-utérine"
+                "faux positif test de grossesse cause"
             ],
             [
                 3,
-                "symptômes grossesse premiers jours"
+                "faux positif test de grossesse clearblue"
             ],
             [
                 4,
-                "symptômes grossesse 2 semaines"
+                "faux positif test de grossesse probabilité"
             ],
             [
                 5,
-                "symptômes grossesse 1 mois"
+                "faux positif test de grossesse invalide"
             ],
             [
                 6,
-                "symptômes grossesse 1 semaine après rapport"
+                "faux positif test de grossesse forum"
             ],
             [
                 7,
-                "symptômes grossesse extra-utérine témoignage"
+                "faux positif test de grossesse urinaire"
             ],
             [
                 8,
-                "symptômes grossesse 5 jours après ovulation"
+                "faux positif test de grossesse action"
             ],
             [
                 9,
-                "symptômes grossesse avec endométriose"
+                "faux positif test de grossesse pourcentage"
+            ],
+            [
+                0,
+                "test d'ovulation"
+            ],
+            [
+                1,
+                "test d'ovulation clearblue"
+            ],
+            [
+                2,
+                "test d'ovulation positif"
+            ],
+            [
+                3,
+                "test d'ovulation prix"
+            ],
+            [
+                4,
+                "test d'ovulation action"
+            ],
+            [
+                5,
+                "test d'ovulation pharmacie"
+            ],
+            [
+                6,
+                "test d'ovulation comment ça marche"
+            ],
+            [
+                7,
+                "test d'ovulation quand le faire"
+            ],
+            [
+                8,
+                "test d'ovulation amazon"
+            ],
+            [
+                9,
+                "test d'ovulation easy home"
+            ],
+            [
+                0,
+                "pharmacie de garde grenoble"
+            ],
+            [
+                1,
+                "pharmacie de garde echirolles"
+            ],
+            [
+                2,
+                "pharmacie de garde"
+            ],
+            [
+                3,
+                "pharmacie de garde autour de moi"
+            ],
+            [
+                4,
+                "pharmacie de garde ouverte aujourd'hui"
+            ],
+            [
+                5,
+                "pharmacie de garde lyon"
+            ],
+            [
+                6,
+                "pharmacie de garde saint etienne"
+            ],
+            [
+                7,
+                "pharmacie de garde annecy"
+            ],
+            [
+                8,
+                "pharmacie de garde aujourd'hui"
+            ],
+            [
+                9,
+                "pharmacie de garde roanne"
+            ]
+        ],
+        "amazon": [
+            [
+                0,
+                "test d'ovulation"
+            ],
+            [
+                1,
+                "test d'ovulation clearblue"
+            ],
+            [
+                2,
+                "test d'ovulation bandelette"
+            ],
+            [
+                3,
+                "test d'ovulation easy home"
+            ],
+            [
+                4,
+                "test d'ovulation et grossesse"
+            ],
+            [
+                5,
+                "test d'ovulation digital"
+            ],
+            [
+                6,
+                "test d'ovulation clearblue recharge"
+            ],
+            [
+                7,
+                "test d'ovulation digital avancé"
+            ],
+            [
+                8,
+                "test d'ovulation one step"
+            ],
+            [
+                9,
+                "test d'ovulation premom"
+            ],
+            [
+                0,
+                "pharmacie de garde"
             ]
         ],
         "duckduckgo": [
@@ -628,11 +820,11 @@
             ],
             [
                 0,
-                "test de grossesse dessin"
+                "où acheter un test de grossesse"
             ],
             [
                 1,
-                "où acheter un test de grossesse"
+                "test de grossesse dessin"
             ],
             [
                 2,
@@ -640,23 +832,75 @@
             ],
             [
                 3,
-                "test de grossesse pour chienne"
-            ],
-            [
-                4,
-                "comment tester une enceinte"
+                "livre à lire pendant la grossesse"
             ],
             [
                 0,
-                "symptômes grossesse nerveuse chien"
+                "faux test de grossesse positif blague"
             ],
             [
                 1,
-                "symptômes grosse fatigue"
+                "où acheter un test de grossesse"
             ],
             [
                 2,
-                "grossesse nerveuse chienne symptômes"
+                "vrai positif faux positif"
+            ],
+            [
+                3,
+                "taux de faux positifs"
+            ],
+            [
+                4,
+                "test de grossesse dessin"
+            ],
+            [
+                5,
+                "test de grossesse avec du sel"
+            ],
+            [
+                6,
+                "faux positif et faux négatif"
+            ],
+            [
+                7,
+                "test des faux pas enfants"
+            ],
+            [
+                0,
+                "test ovulation chien"
+            ],
+            [
+                0,
+                "pharmacie de garde"
+            ],
+            [
+                1,
+                "pharmacie de garde aujourd'hui"
+            ],
+            [
+                2,
+                "pharmacie de garde ce dimanche"
+            ],
+            [
+                3,
+                "pharmacie de garde autour de moi"
+            ],
+            [
+                4,
+                "pharmacie de garde 3237"
+            ],
+            [
+                5,
+                "pharmacie de garde strasbourg"
+            ],
+            [
+                6,
+                "pharmacie de garde numero"
+            ],
+            [
+                7,
+                "pharmacie de garde yopougon"
             ]
         ],
         "yahoo": [
@@ -690,59 +934,107 @@
             ],
             [
                 0,
-                "interprétation test de grossesse positif"
+                "lecture résultat test de grossesse positif"
             ],
             [
                 1,
-                "interprétation test de grossesse maison"
+                "lecture résultat test de grossesse maison"
             ],
             [
                 2,
-                "interprétation test de grossesse clearblue"
+                "lecture résultat test de grossesse clearblue"
             ],
             [
                 3,
-                "interprétation test de grossesse négatif"
+                "lecture résultat test de grossesse négatif"
             ],
             [
                 0,
-                "symptômes grossesse"
+                "faux positif test de grossesse positif"
             ],
             [
                 1,
-                "symptômes grossesse extra utérine"
+                "faux positif test de grossesse maison"
             ],
             [
                 2,
-                "symptômes grossesse premiers jours"
+                "faux positif test de grossesse clearblue"
             ],
             [
                 3,
-                "symptômes grossesse gémellaire"
+                "faux positif test de grossesse négatif"
+            ],
+            [
+                0,
+                "test d'ovulation"
+            ],
+            [
+                1,
+                "test d'ovulation clearblue"
+            ],
+            [
+                2,
+                "test d'ovulation positif"
+            ],
+            [
+                3,
+                "test d'ovulation gratuit"
             ],
             [
                 4,
-                "symptômes grossesse 1er mois"
+                "test d'ovulation maroc"
             ],
             [
                 5,
-                "symptômes grossesse 15 jours"
+                "test d'ovulation action"
             ],
             [
                 6,
-                "symptômes grossesse jumeaux"
+                "test d'ovulation clearblue barre"
             ],
             [
                 7,
-                "symptômes grossesse 1 semaine"
+                "test d'ovulation positif que faire"
+            ],
+            [
+                0,
+                "pharmacie de garde"
+            ],
+            [
+                1,
+                "pharmacie de garde marseille"
+            ],
+            [
+                2,
+                "pharmacie de garde casablanca"
+            ],
+            [
+                3,
+                "pharmacie de garde paris"
+            ],
+            [
+                4,
+                "pharmacie de garde lyon"
+            ],
+            [
+                5,
+                "pharmacie de garde strasbourg"
+            ],
+            [
+                6,
+                "pharmacie de garde toulouse"
+            ],
+            [
+                7,
+                "pharmacie de garde rabat"
             ],
             [
                 8,
-                "symptômes grossesse et règles"
+                "pharmacie de garde montpellier"
             ],
             [
                 9,
-                "symptômes grossesse fiv"
+                "pharmacie de garde nice"
             ]
         ],
         "youtube": [
@@ -756,51 +1048,95 @@
             ],
             [
                 0,
-                "interprétation test de grossesse"
-            ],
-            [
-                1,
-                "explication test de grossesse"
+                "lecture test de grossesse"
             ],
             [
                 0,
-                "symptômes grossesse"
+                "faux positif de test de grossesse"
             ],
             [
                 1,
-                "symptômes grossesse premiers jours"
+                "test de grossesse clearblue faux positif"
+            ],
+            [
+                0,
+                "test d'ovulation"
+            ],
+            [
+                1,
+                "test d'ovulation action"
             ],
             [
                 2,
-                "symptômes grossesse extra-utérine"
+                "test d'ovulation clearblue"
             ],
             [
                 3,
-                "symptômes grossesse avant règles"
+                "test d'ovulation pour detecter une grossesse"
             ],
             [
                 4,
-                "symptômes grossesse 1 semaine"
+                "test d'ovulation pour avoir un garçon"
             ],
             [
                 5,
-                "symptomes grossesse gemellaire début"
+                "test d'ovulation positif 5 jours avant les regles"
             ],
             [
                 6,
-                "symptomes grossesse extra uterine"
+                "test d'ovulation clearblue digital"
             ],
             [
                 7,
-                "symptomes grossesse garcon"
+                "test d'ovulation clearblue digital francais"
             ],
             [
                 8,
-                "grossesse symptômes premières semaines"
+                "test d'ovulation vitalio"
             ],
             [
                 9,
-                "symptome grossesse fille"
+                "test d'ovulation maroc"
+            ],
+            [
+                0,
+                "pharmacie de garde"
+            ],
+            [
+                1,
+                "pharmacie de garde abobo"
+            ],
+            [
+                2,
+                "pharmacie de garde marrakech"
+            ],
+            [
+                3,
+                "pharmacie de garde aujourd'hui"
+            ],
+            [
+                4,
+                "pharmacie de garde saint louis"
+            ],
+            [
+                5,
+                "pharmacie de garde mula"
+            ],
+            [
+                6,
+                "pharmacie de garde aujourd'hui à lomé"
+            ],
+            [
+                7,
+                "pharmacie de garde à lomé"
+            ],
+            [
+                8,
+                "pharmacie de garde marcory"
+            ],
+            [
+                9,
+                "pharmacie de garde rabat"
             ]
         ]
     },
@@ -812,6 +1148,13 @@
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
+            },
+            {
+                "title": "Test d'ovulation",
+                "views": 75,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 3,
@@ -822,85 +1165,68 @@
     },
     "pages": [
         {
-            "group": "Fiabilité et interprétation",
-            "title": "interprétation test de grossesse",
-            "intent": "informational",
-            "keywords": [
-                "interprétation test de grossesse",
-                "interprétation test de grossesse maison",
-                "faux négatif",
-                "lecture résultat",
-                "résultats test de grossesse",
-                "utilisation test de grossesse",
-                "test de grossesse positif",
-                "interprétation test de grossesse positif",
-                "résultat positif",
-                "faux test de grossesse positif",
-                "faux positif",
-                "test de grossesse négatif",
-                "résultat négatif",
-                "interprétation test de grossesse clearblue"
-            ]
-        },
-        {
-            "group": "Fiabilité et interprétation",
-            "title": "fiabilité test de grossesse",
-            "intent": "informational",
-            "keywords": [
-                "fiabilité test de grossesse",
-                "fiabilité test de grossesse action",
-                "délai fiabilité",
-                "sensibilité test",
-                "fiabilité test de grossesse clearblue",
-                "quel test de grossesse est le plus fiable"
-            ]
-        },
-        {
-            "group": "Types de tests de grossesse",
+            "group": "Types de tests",
             "title": "test de grossesse précoce",
             "intent": "informational",
             "keywords": [
                 "test de grossesse précoce",
+                "grossesse",
                 "hormone hcg",
+                "test bandelette",
+                "test digital",
+                "test précoce",
+                "tests médicaux rapides",
                 "types de tests de grossesse",
                 "test de grossesse clearblue",
+                "test de grossesse action",
                 "test de grossesse sanguin",
                 "test de grossesse urinaire",
-                "test sanguin",
                 "clearblue test de grossesse precoce"
             ]
         },
         {
-            "group": "Types de tests de grossesse",
-            "title": "test de grossesse maison",
+            "group": "Types de tests",
+            "title": "test d'ovulation",
             "intent": "informational",
             "keywords": [
-                "test de grossesse maison",
-                "test de grossesse avec du sel",
-                "test du lapin",
-                "test de la grenouille"
+                "test d'ovulation",
+                "test d'ovulation clearblue",
+                "test d'ovulation action",
+                "test d'ovulation positif"
             ]
         },
         {
-            "group": "Symptômes et utilisation",
-            "title": "symptômes grossesse",
+            "group": "Fiabilité et résultats",
+            "title": "fiabilité test de grossesse",
             "intent": "informational",
             "keywords": [
-                "symptômes grossesse",
-                "grossesse",
-                "symptômes grossesse extra utérine",
-                "symptômes grossesse premiers jours",
-                "symptômes grossesse 1 semaine"
+                "fiabilité test de grossesse",
+                "test de grossesse réutilisable",
+                "délai fiabilité",
+                "faux négatif",
+                "sensibilité test",
+                "faux test de grossesse positif",
+                "faux positif test de grossesse positif",
+                "faux positif",
+                "test de grossesse clearblue faux positif",
+                "fiabilité test de grossesse clearblue"
             ]
         },
         {
-            "group": "Symptômes et utilisation",
-            "title": "test de grossesse pour chien",
+            "group": "Fiabilité et résultats",
+            "title": "lecture test de grossesse",
             "intent": "informational",
             "keywords": [
-                "test de grossesse pour chien",
-                "test de grossesse pour chienne",
-                "symptômes grossesse nerveuse chien"
+                "lecture test de grossesse",
+                "lecture résultat test de grossesse",
+                "résultat négatif",
+                "résultat positif",
+                "utilisation test de grossesse",
+                "test de grossesse positif",
+                "test de grossesse négatif",
+                "lecture résultat test de grossesse positif",
+                "lecture resultat test grossesse clearblue",
+                "lire resultat test de grossesse"
             ]
         },
         {
@@ -912,70 +1238,91 @@
                 "test de grossesse tunisie",
                 "prix test de grossesse tunisie",
                 "test de grossesse pharmacie prix",
-                "test de grossesse ou acheter",
-                "test de grossesse action"
+                "test de grossesse ou acheter"
             ]
         },
         {
             "group": "Achat et prix",
-            "title": "test de grossesse réutilisable",
-            "intent": "commercial",
+            "title": "pharmacie de garde",
+            "intent": "transactional",
             "keywords": [
-                "test de grossesse réutilisable"
+                "pharmacie de garde",
+                "pharmacie de garde aujourd'hui"
+            ]
+        },
+        {
+            "group": "Alternatives et astuces",
+            "title": "test de grossesse maison",
+            "intent": "informational",
+            "keywords": [
+                "test de grossesse maison",
+                "test de grossesse avec du sel",
+                "test du lapin",
+                "test de la grenouille"
+            ]
+        },
+        {
+            "group": "Cas particuliers",
+            "title": "test de grossesse pour chienne",
+            "intent": "informational",
+            "keywords": [
+                "test de grossesse pour chienne",
+                "test ovulation chien"
             ]
         }
     ],
     "categories": {
+        "pharmacie de garde": "commercial",
         "test de grossesse clearblue": "core",
         "test de grossesse précoce": "core",
+        "test d'ovulation": "complementary",
+        "faux test de grossesse positif": "complementary",
+        "test d'ovulation clearblue": "complementary",
         "fiabilité test de grossesse": "core",
-        "symptômes grossesse": "core",
         "test de grossesse prix": "commercial",
-        "test de grossesse positif": "core",
-        "symptômes grossesse extra utérine": "complementary",
-        "symptômes grossesse premiers jours": "complementary",
+        "test de grossesse positif": "complementary",
+        "test de grossesse clearblue faux positif": "complementary",
         "test de grossesse sanguin": "core",
         "test de grossesse pharmacie prix": "commercial",
+        "test d'ovulation action": "complementary",
         "test de grossesse ou acheter": "commercial",
-        "interprétation test de grossesse": "core",
-        "faux test de grossesse positif": "complementary",
-        "symptômes grossesse 1 semaine": "complementary",
+        "pharmacie de garde aujourd'hui": "commercial",
         "test de grossesse négatif": "complementary",
-        "interprétation test de grossesse clearblue": "complementary",
+        "lecture resultat test grossesse clearblue": "complementary",
+        "lecture test de grossesse": "complementary",
         "test de grossesse action": "commercial",
         "test de grossesse avec du sel": "complementary",
+        "test d'ovulation positif": "complementary",
         "fiabilité test de grossesse clearblue": "complementary",
         "test de grossesse tunisie": "commercial",
         "test de grossesse maison": "complementary",
         "test de grossesse pour chienne": "complementary",
         "clearblue test de grossesse precoce": "complementary",
         "prix test de grossesse tunisie": "commercial",
-        "symptômes grossesse nerveuse chien": "complementary",
         "test de grossesse réutilisable": "complementary",
-        "interprétation test de grossesse positif": "complementary",
-        "quel test de grossesse est le plus fiable": "complementary",
-        "test de grossesse pour chien": "complementary",
-        "symptômes grosse fatigue": "doubtful",
-        "fiabilité test de grossesse action": "commercial",
-        "interprétation test de grossesse maison": "complementary",
+        "test ovulation chien": "complementary",
+        "faux positif test de grossesse positif": "complementary",
+        "lecture résultat test de grossesse positif": "complementary",
+        "lire resultat test de grossesse": "complementary",
         "types de tests de grossesse": "core",
         "utilisation test de grossesse": "core",
-        "résultats test de grossesse": "core",
+        "lecture résultat test de grossesse": "core",
         "test de grossesse urinaire": "core",
-        "test sanguin": "core",
+        "test bandelette": "core",
+        "test digital": "core",
         "hormone hcg": "core",
-        "résultat positif": "core",
-        "résultat négatif": "core",
-        "faux positif": "core",
-        "faux négatif": "complementary",
         "sensibilité test": "core",
         "délai fiabilité": "core",
-        "lecture résultat": "core",
+        "résultat positif": "core",
+        "résultat négatif": "complementary",
+        "faux positif": "core",
+        "faux négatif": "complementary",
+        "test précoce": "core",
         "grossesse": "complementary",
-        "tests médicaux rapides": "doubtful",
+        "tests médicaux rapides": "complementary",
         "test du lapin": "complementary",
         "test de la grenouille": "complementary",
-        "explication test de grossesse": "doubtful",
-        "test de grossesse dessin": "doubtful"
+        "test de grossesse dessin": "doubtful",
+        "faux test de grossesse positif blague": "doubtful"
     }
 }
