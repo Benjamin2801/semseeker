@@ -86,8 +86,10 @@ final class SearchController extends AbstractController
                 return new Response('', Response::HTTP_GONE);
             }
             $result = $this->keywordSearch->complete($pending->get(), microtime(true));
-            $this->cache->save($done->set($result)->expiresAfter($result->isComplete() ? self::CACHE_TTL : self::DEGRADED_CACHE_TTL));
-            $this->cache->deleteItem($this->key('preparation', $keyword, $lang));
+            // Si l'écriture échoue, la préparation reste : la page suivante ne compte pas une seconde recherche.
+            if ($this->cache->save($done->set($result)->expiresAfter($result->isComplete() ? self::CACHE_TTL : self::DEGRADED_CACHE_TTL))) {
+                $this->cache->deleteItem($this->key('preparation', $keyword, $lang));
+            }
         }
 
         return $this->render('search/_results.html.twig', ['keyword' => $keyword, 'lang' => $lang, 'result' => $done->get()]);
