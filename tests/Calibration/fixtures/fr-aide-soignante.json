@@ -17,11 +17,11 @@
         "formation aide soignante",
         "concours aide soignante",
         "salaire aide soignante",
+        "métier aide soignante",
+        "déroulement carrière aide soignante",
         "compétences aide soignante",
-        "devenir aide soignante",
-        "missions aide soignante",
-        "évolution de carrière aide soignante",
-        "conditions de travail aide soignante"
+        "conditions de travail aide soignante",
+        "évolution de carrière aide soignante"
     ],
     "suggestions": {
         "amazon": [
@@ -54,11 +54,11 @@
             "aide soignante formation",
             "aide soignante salaire",
             "aide soignante fiche métier",
-            "aide soignante la altstadt",
             "aide soignante emploi",
             "aide soignante code rome",
             "aide soignante a domicile",
-            "aide soignante de nuit"
+            "aide soignante de nuit",
+            "aide soignante en anglais"
         ],
         "google": [
             "aide soignante",
@@ -67,8 +67,8 @@
             "aide soignante salaire",
             "aide soignante a domicile",
             "aide soignante autour de moi",
-            "aide soignante de nuit",
             "aide soignante suisse",
+            "aide soignante de nuit",
             "aide soignante geneve",
             "aide soignante emploi"
         ],
@@ -110,45 +110,95 @@
         ]
     },
     "related": {
-        "amazon": [
+        "bing": [
             [
                 0,
-                "formation aide soignante 2026 2027"
+                "quel est le rôle d'une aide soignante"
             ],
             [
                 1,
-                "formation aide soignante 2026"
-            ],
-            [
-                2,
-                "formation aide soignante"
+                "aide soignante quel niveau"
             ],
             [
                 0,
-                "concours aide soignante 2027"
+                "aide soignante pourquoi"
             ],
             [
                 1,
-                "concours aide soignante 2026"
+                "aide soignante pour devenir infirmière"
             ],
             [
                 2,
-                "concours aide soignante écrit et orale 2027"
+                "aide soignante pour les enfants"
             ],
             [
                 3,
-                "concours aide soignante"
+                "aide soignante bourgoin"
             ],
             [
                 4,
-                "concours aide soignante écrit et orale"
+                "aide soignante bourg en bresse"
+            ],
+            [
+                5,
+                "aide soignante cours du soir"
+            ],
+            [
+                6,
+                "aide soignante cours"
+            ],
+            [
+                7,
+                "aide soignante cours pdf"
+            ],
+            [
+                8,
+                "aide soignante tours"
+            ],
+            [
+                9,
+                "aide soignante personne âgée"
             ],
             [
                 0,
-                "devenir aide soignante"
-            ]
-        ],
-        "bing": [
+                "aide soignante oujda"
+            ],
+            [
+                1,
+                "aide soignante ou travailler"
+            ],
+            [
+                2,
+                "aide soignante ou exercer"
+            ],
+            [
+                3,
+                "aide soignante ou aide soignant"
+            ],
+            [
+                4,
+                "aide soignante ou auxiliaire de vie"
+            ],
+            [
+                5,
+                "aide soignante au pluriel"
+            ],
+            [
+                6,
+                "aide soignante onisep"
+            ],
+            [
+                7,
+                "aide soignante offre d'emploi"
+            ],
+            [
+                8,
+                "aide soignante suisse"
+            ],
+            [
+                9,
+                "aide soignante luxembourg offre emploi"
+            ],
             [
                 0,
                 "formation aide soignante"
@@ -295,6 +345,94 @@
             ],
             [
                 0,
+                "métier aide soignante"
+            ],
+            [
+                1,
+                "métier aide soignante en ehpad"
+            ],
+            [
+                2,
+                "métier aide soignante rôle"
+            ],
+            [
+                3,
+                "métier aide soignante définition"
+            ],
+            [
+                4,
+                "métier aide soignante onisep"
+            ],
+            [
+                5,
+                "métier aide soignante salaire"
+            ],
+            [
+                6,
+                "métier aide soignante qualité"
+            ],
+            [
+                7,
+                "métier aide soignante en milieu hospitalier"
+            ],
+            [
+                8,
+                "métier d'aide soignante"
+            ],
+            [
+                9,
+                "aide soignante fiche métier"
+            ],
+            [
+                0,
+                "aide soignante évolution de carrière"
+            ],
+            [
+                1,
+                "salaire aide soignante début de carrière"
+            ],
+            [
+                2,
+                "déroulement formation aide soignante"
+            ],
+            [
+                3,
+                "évolution de carrière aide soignant"
+            ],
+            [
+                4,
+                "description poste aide soignante"
+            ],
+            [
+                5,
+                "salaire aide soignante fin de carrière"
+            ],
+            [
+                6,
+                "aide soignante ou travailler"
+            ],
+            [
+                7,
+                "où peut travailler une aide soignante"
+            ],
+            [
+                8,
+                "du pour aide soignante"
+            ],
+            [
+                9,
+                "combien de module pour devenir aide soignante"
+            ],
+            [
+                10,
+                "où travaille une aide soignante"
+            ],
+            [
+                11,
+                "fiche de poste aide soignante à domicile"
+            ],
+            [
+                0,
                 "compétences aide soignante"
             ],
             [
@@ -328,126 +466,6 @@
             [
                 8,
                 "validation des compétences aide soignante"
-            ],
-            [
-                0,
-                "devenir aide soignante"
-            ],
-            [
-                1,
-                "devenir aide soignante sans diplôme"
-            ],
-            [
-                2,
-                "devenir aide soignante après 50 ans"
-            ],
-            [
-                3,
-                "devenir aide soignante reconversion"
-            ],
-            [
-                4,
-                "devenir aide soignante vae"
-            ],
-            [
-                5,
-                "devenir aide soignante à la réunion"
-            ],
-            [
-                6,
-                "devenir aide soignante ifas"
-            ],
-            [
-                7,
-                "devenir aide soignante en alternance"
-            ],
-            [
-                8,
-                "devenir aide soignante en suisse"
-            ],
-            [
-                9,
-                "devenir aide soignante onisep"
-            ],
-            [
-                10,
-                "devenir aide soignante public"
-            ],
-            [
-                11,
-                "devenir aide soignante sans bac"
-            ],
-            [
-                0,
-                "missions aide soignante"
-            ],
-            [
-                1,
-                "missions aide soignante ehpad"
-            ],
-            [
-                2,
-                "mission aide soignante de nuit"
-            ],
-            [
-                3,
-                "mission aide soignante en ssiad"
-            ],
-            [
-                4,
-                "mission aide soignante à domicile"
-            ],
-            [
-                5,
-                "missions d'aide soignante"
-            ],
-            [
-                0,
-                "évolution de carrière aide soignante"
-            ],
-            [
-                1,
-                "évolution d'une aide soignante"
-            ],
-            [
-                2,
-                "aide soignante évolution professionnelle"
-            ],
-            [
-                3,
-                "salaire aide soignante début de carrière"
-            ],
-            [
-                4,
-                "aide soignante fiche métier : évolution"
-            ],
-            [
-                5,
-                "combien de module pour devenir aide soignante"
-            ],
-            [
-                6,
-                "de aide soignant formation"
-            ],
-            [
-                7,
-                "quelle formation pour aide soignante"
-            ],
-            [
-                8,
-                "aide soignante rôle et missions"
-            ],
-            [
-                9,
-                "quelle formation pour devenir aide soignante"
-            ],
-            [
-                10,
-                "missions principales aide soignante"
-            ],
-            [
-                11,
-                "motivation pour devenir aide soignante"
             ],
             [
                 0,
@@ -496,192 +514,6 @@
             [
                 11,
                 "ou travailler en tant que aide soignante"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "formation aide soignante"
-            ],
-            [
-                1,
-                "formation aide soignante 2026"
-            ],
-            [
-                2,
-                "formation aide soignante en alternance"
-            ],
-            [
-                3,
-                "formation aide soignante croix rouge"
-            ],
-            [
-                4,
-                "formation aide soignante france travail"
-            ],
-            [
-                5,
-                "formation aide soignante 2027"
-            ],
-            [
-                6,
-                "formation aide soignante à distance"
-            ],
-            [
-                7,
-                "formation aide soignante 2025"
-            ],
-            [
-                0,
-                "concours aide soignante 2026"
-            ],
-            [
-                1,
-                "concours aide soignante"
-            ],
-            [
-                2,
-                "concours aide soignante 2025"
-            ],
-            [
-                3,
-                "concours aide soignante 2027"
-            ],
-            [
-                4,
-                "concours aide soignante 974"
-            ],
-            [
-                5,
-                "concours aide soignante 2024 maroc"
-            ],
-            [
-                6,
-                "concours aide soignante 2026 guadeloupe"
-            ],
-            [
-                7,
-                "concours aide soignante 2026 réunion"
-            ],
-            [
-                0,
-                "salaire aide soignante"
-            ],
-            [
-                1,
-                "salaire aide soignante 2026"
-            ],
-            [
-                2,
-                "salaire aide soignante 2025"
-            ],
-            [
-                3,
-                "salaire aide soignante suisse"
-            ],
-            [
-                4,
-                "salaire aide soignante débutante"
-            ],
-            [
-                5,
-                "salaire aide soignante en ehpad"
-            ],
-            [
-                6,
-                "salaire aide soignante hôpital"
-            ],
-            [
-                7,
-                "salaire aide soignante luxembourg"
-            ],
-            [
-                0,
-                "compétences aide soignante"
-            ],
-            [
-                1,
-                "compétences aide soignante wembley"
-            ],
-            [
-                2,
-                "compétences aide soignante cv"
-            ],
-            [
-                3,
-                "compétences aide soignante référentiel"
-            ],
-            [
-                4,
-                "compétences aide soignante ehpad"
-            ],
-            [
-                5,
-                "compétences aide soignante en gériatrie"
-            ],
-            [
-                6,
-                "compétences aide soignante 2025"
-            ],
-            [
-                7,
-                "compétences aide soignante hôpital"
-            ],
-            [
-                0,
-                "devenir aide soignante"
-            ],
-            [
-                1,
-                "devenir aide soignante sans diplôme"
-            ],
-            [
-                2,
-                "devenir aide soignante après 50 ans"
-            ],
-            [
-                3,
-                "devenir aide soignante reconversion"
-            ],
-            [
-                4,
-                "devenir aide soignante vae"
-            ],
-            [
-                5,
-                "devenir aide soignante à la réunion"
-            ],
-            [
-                6,
-                "devenir aide soignante ifas"
-            ],
-            [
-                7,
-                "devenir aide soignante en alternance"
-            ],
-            [
-                0,
-                "missions aide soignante"
-            ],
-            [
-                1,
-                "missions aide soignante ehpad"
-            ],
-            [
-                2,
-                "mission aide soignante de nuit"
-            ],
-            [
-                3,
-                "mission aide soignante en ssiad"
-            ],
-            [
-                4,
-                "mission aide soignante à domicile"
-            ],
-            [
-                5,
-                "missions d'aide soignante"
             ],
             [
                 0,
@@ -716,39 +548,143 @@
                 "quelle formation pour aide soignante"
             ],
             [
-                0,
-                "conditions de travail aide soignante"
+                8,
+                "aide soignante rôle et missions"
             ],
             [
-                1,
-                "ou travail une aide soignante"
+                9,
+                "quelle formation pour devenir aide soignante"
             ],
             [
-                2,
-                "aide soignante horaires de travail"
+                10,
+                "missions principales aide soignante"
             ],
             [
-                3,
-                "aide soignante lieu de travail"
-            ],
-            [
-                4,
-                "lieu de travail d'une aide soignante"
-            ],
-            [
-                5,
-                "horaire de travail aide soignante"
-            ],
-            [
-                6,
-                "où travaille une aide soignante"
-            ],
-            [
-                7,
-                "recherche de travail aide soignante"
+                11,
+                "motivation pour devenir aide soignante"
             ]
         ],
         "google": [
+            [
+                0,
+                "quel aide soignante gagné le plus"
+            ],
+            [
+                1,
+                "quel niveau aide soignante"
+            ],
+            [
+                2,
+                "quel diplome aide soignante"
+            ],
+            [
+                3,
+                "quel module aide soignante cursus partiel"
+            ],
+            [
+                4,
+                "quel categorie aide soignante"
+            ],
+            [
+                5,
+                "quel salaire aide soignante"
+            ],
+            [
+                6,
+                "quel formation aide soignante"
+            ],
+            [
+                7,
+                "quel echelon aide soignante"
+            ],
+            [
+                8,
+                "quel etude aide soignante"
+            ],
+            [
+                9,
+                "quel métier aide soignante"
+            ],
+            [
+                0,
+                "aide soignante pour devenir infirmière"
+            ],
+            [
+                1,
+                "aide soignante pour enfant"
+            ],
+            [
+                2,
+                "aide soignante pour personne agee"
+            ],
+            [
+                3,
+                "aide soignante pour particulier"
+            ],
+            [
+                4,
+                "aide soignante pour devenir auxiliaire de puericulture"
+            ],
+            [
+                5,
+                "aide soignante pour toilette a domicile"
+            ],
+            [
+                6,
+                "aide soignante pour personne handicapée"
+            ],
+            [
+                7,
+                "aide soignante pour les nuls"
+            ],
+            [
+                8,
+                "aide soignante pour bebe"
+            ],
+            [
+                9,
+                "aide soignante pourquoi faire ce metier"
+            ],
+            [
+                0,
+                "aide soignante ou travailler"
+            ],
+            [
+                1,
+                "aide soignante ou infirmière"
+            ],
+            [
+                2,
+                "aide soignante ou auxiliaire de puériculture"
+            ],
+            [
+                3,
+                "aide soignante outre mer"
+            ],
+            [
+                4,
+                "aide soignante ou auxiliaire de vie"
+            ],
+            [
+                5,
+                "aide soignante ou aes"
+            ],
+            [
+                6,
+                "aide soignante oujda"
+            ],
+            [
+                7,
+                "aide soignante ou peut on travailler"
+            ],
+            [
+                8,
+                "aide soignante ou exercer"
+            ],
+            [
+                9,
+                "aide soignante catégorie b ou c"
+            ],
             [
                 0,
                 "formation aide soignante grenoble"
@@ -871,6 +807,50 @@
             ],
             [
                 0,
+                "métier aide soignante"
+            ],
+            [
+                1,
+                "métier aide soignante salaire"
+            ],
+            [
+                2,
+                "formation aide soignante"
+            ],
+            [
+                3,
+                "emploi aide soignante"
+            ],
+            [
+                4,
+                "poste aide soignante"
+            ],
+            [
+                5,
+                "formation aide soignante gratuite et rémunérée"
+            ],
+            [
+                6,
+                "devenir aide soignante"
+            ],
+            [
+                7,
+                "formation aide soignante 6 mois"
+            ],
+            [
+                8,
+                "formation aide soignante 2026"
+            ],
+            [
+                9,
+                "formation aide soignante en alternance"
+            ],
+            [
+                0,
+                "histoire de la profession aide soignante"
+            ],
+            [
+                0,
                 "compétences aide soignante"
             ],
             [
@@ -911,83 +891,7 @@
             ],
             [
                 0,
-                "devenir aide soignante"
-            ],
-            [
-                1,
-                "devenir aide soignante reconversion"
-            ],
-            [
-                2,
-                "devenir aide soignante en alternance"
-            ],
-            [
-                3,
-                "devenir aide soignante à distance"
-            ],
-            [
-                4,
-                "devenir aide soignante coordinatrice"
-            ],
-            [
-                5,
-                "devenir aide soignante à 50 ans"
-            ],
-            [
-                6,
-                "devenir aide soignante formation"
-            ],
-            [
-                7,
-                "devenir aide soignante a domicile"
-            ],
-            [
-                8,
-                "devenir aide soignante libérale"
-            ],
-            [
-                9,
-                "devenir aide soignante a domicile a son compte"
-            ],
-            [
-                0,
-                "missions aide soignante"
-            ],
-            [
-                1,
-                "missions aide soignante ehpad"
-            ],
-            [
-                2,
-                "missions aide soignante ssiad"
-            ],
-            [
-                3,
-                "missions aide soignante hopital"
-            ],
-            [
-                4,
-                "missions aide soignante a domicile"
-            ],
-            [
-                5,
-                "role aide soignante"
-            ],
-            [
-                6,
-                "fonction aide soignante"
-            ],
-            [
-                7,
-                "role aide soignante en ehpad"
-            ],
-            [
-                8,
-                "mission aide soignante interim"
-            ],
-            [
-                9,
-                "rôle aide soignante en maternité"
+                "conditions de travail aide soignante"
             ],
             [
                 0,
@@ -1004,10 +908,298 @@
             [
                 3,
                 "quelle évolution de carrière pour une aide soignante"
+            ]
+        ],
+        "amazon": [
+            [
+                0,
+                "formation aide soignante 2026 2027"
+            ],
+            [
+                1,
+                "formation aide soignante 2026"
+            ],
+            [
+                2,
+                "formation aide soignante"
+            ],
+            [
+                0,
+                "concours aide soignante 2027"
+            ],
+            [
+                1,
+                "concours aide soignante 2026"
+            ],
+            [
+                2,
+                "concours aide soignante écrit et orale 2027"
+            ],
+            [
+                3,
+                "concours aide soignante"
+            ],
+            [
+                4,
+                "concours aide soignante écrit et orale"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "formation aide soignante"
+            ],
+            [
+                1,
+                "formation aide soignante 2026"
+            ],
+            [
+                2,
+                "formation aide soignante en alternance"
+            ],
+            [
+                3,
+                "formation aide soignante croix rouge"
+            ],
+            [
+                4,
+                "formation aide soignante france travail"
+            ],
+            [
+                5,
+                "formation aide soignante 2027"
+            ],
+            [
+                6,
+                "formation aide soignante à distance"
+            ],
+            [
+                7,
+                "formation aide soignante 2025"
+            ],
+            [
+                0,
+                "concours aide soignante 2026"
+            ],
+            [
+                1,
+                "concours aide soignante"
+            ],
+            [
+                2,
+                "concours aide soignante 2025"
+            ],
+            [
+                3,
+                "concours aide soignante 2027"
+            ],
+            [
+                4,
+                "concours aide soignante 974"
+            ],
+            [
+                5,
+                "concours aide soignante 2024 maroc"
+            ],
+            [
+                6,
+                "concours aide soignante 2026 guadeloupe"
+            ],
+            [
+                7,
+                "concours aide soignante 2026 réunion"
+            ],
+            [
+                0,
+                "salaire aide soignante"
+            ],
+            [
+                1,
+                "salaire aide soignante 2026"
+            ],
+            [
+                2,
+                "salaire aide soignante 2025"
+            ],
+            [
+                3,
+                "salaire aide soignante suisse"
+            ],
+            [
+                4,
+                "salaire aide soignante débutante"
+            ],
+            [
+                5,
+                "salaire aide soignante en ehpad"
+            ],
+            [
+                6,
+                "salaire aide soignante hôpital"
+            ],
+            [
+                7,
+                "salaire aide soignante luxembourg"
+            ],
+            [
+                0,
+                "métier aide soignante"
+            ],
+            [
+                1,
+                "métier aide soignante en ehpad"
+            ],
+            [
+                2,
+                "métier aide soignante rôle"
+            ],
+            [
+                3,
+                "métier aide soignante définition"
+            ],
+            [
+                4,
+                "métier aide soignante onisep"
+            ],
+            [
+                5,
+                "métier aide soignante salaire"
+            ],
+            [
+                6,
+                "métier aide soignante qualité"
+            ],
+            [
+                7,
+                "métier aide soignante en milieu hospitalier"
+            ],
+            [
+                0,
+                "aide soignante évolution de carrière"
+            ],
+            [
+                1,
+                "salaire aide soignante début de carrière"
+            ],
+            [
+                2,
+                "déroulement formation aide soignante"
+            ],
+            [
+                3,
+                "évolution de carrière aide soignant"
+            ],
+            [
+                4,
+                "description poste aide soignante"
+            ],
+            [
+                5,
+                "salaire aide soignante fin de carrière"
+            ],
+            [
+                6,
+                "aide soignante ou travailler"
+            ],
+            [
+                7,
+                "où peut travailler une aide soignante"
+            ],
+            [
+                0,
+                "compétences aide soignante"
+            ],
+            [
+                1,
+                "compétences aide soignante cv"
+            ],
+            [
+                2,
+                "compétences aide soignante référentiel"
+            ],
+            [
+                3,
+                "compétences aide soignante ehpad"
+            ],
+            [
+                4,
+                "compétences aide soignante en gériatrie"
+            ],
+            [
+                5,
+                "compétences aide soignante 2025"
+            ],
+            [
+                6,
+                "compétences aide soignante hôpital"
+            ],
+            [
+                7,
+                "compétences d'une aide soignante"
             ],
             [
                 0,
                 "conditions de travail aide soignante"
+            ],
+            [
+                1,
+                "ou travail une aide soignante"
+            ],
+            [
+                2,
+                "aide soignante horaires de travail"
+            ],
+            [
+                3,
+                "aide soignante lieu de travail"
+            ],
+            [
+                4,
+                "lieu de travail d'une aide soignante"
+            ],
+            [
+                5,
+                "horaire de travail aide soignante"
+            ],
+            [
+                6,
+                "où travaille une aide soignante"
+            ],
+            [
+                7,
+                "recherche de travail aide soignante"
+            ],
+            [
+                0,
+                "évolution de carrière aide soignante"
+            ],
+            [
+                1,
+                "évolution d'une aide soignante"
+            ],
+            [
+                2,
+                "aide soignante évolution professionnelle"
+            ],
+            [
+                3,
+                "salaire aide soignante début de carrière"
+            ],
+            [
+                4,
+                "aide soignante fiche métier : évolution"
+            ],
+            [
+                5,
+                "combien de module pour devenir aide soignante"
+            ],
+            [
+                6,
+                "de aide soignant formation"
+            ],
+            [
+                7,
+                "quelle formation pour aide soignante"
             ]
         ],
         "indeed": [
@@ -1131,6 +1323,62 @@
             ],
             [
                 0,
+                "métier aide soignante"
+            ],
+            [
+                1,
+                "métier aide soignante définition"
+            ],
+            [
+                2,
+                "métier aide soignante rôle"
+            ],
+            [
+                3,
+                "fiche métier aide soignante"
+            ],
+            [
+                4,
+                "description métier aide soignante"
+            ],
+            [
+                5,
+                "avis métier aide soignante"
+            ],
+            [
+                6,
+                "fiche métier aide soignante pdf"
+            ],
+            [
+                7,
+                "fiche métier aide soignante ehpad"
+            ],
+            [
+                8,
+                "onisep fiche métier aide soignante"
+            ],
+            [
+                9,
+                "référentiel métier aide soignante"
+            ],
+            [
+                0,
+                "déroulement carrière aide-soignante"
+            ],
+            [
+                1,
+                "déroulement carrière aide soignante formation"
+            ],
+            [
+                2,
+                "déroulement carrière aide soignante à domicile"
+            ],
+            [
+                3,
+                "déroulement carrière aide soignante salaire"
+            ],
+            [
+                0,
                 "compétences aide soignante"
             ],
             [
@@ -1171,39 +1419,19 @@
             ],
             [
                 0,
-                "devenir aide soignante"
+                "conditions de travail aide-soignante"
             ],
             [
                 1,
-                "devenir aide soignante sans concours"
+                "conditions de travail aide soignante formation"
             ],
             [
                 2,
-                "devenir aide soignante par vae"
+                "conditions de travail aide soignante à domicile"
             ],
             [
                 3,
-                "devenir aide soignante sans diplôme"
-            ],
-            [
-                4,
-                "devenir aide soignante reconversion"
-            ],
-            [
-                5,
-                "devenir aide soignante après 40"
-            ],
-            [
-                6,
-                "devenir aide soignante en apprentissage"
-            ],
-            [
-                0,
-                "missions aide soignante"
-            ],
-            [
-                1,
-                "rôle et missions aide soignante"
+                "conditions de travail aide soignante salaire"
             ],
             [
                 0,
@@ -1220,22 +1448,6 @@
             [
                 3,
                 "évolution de carrière aide soignante salaire"
-            ],
-            [
-                0,
-                "conditions de travail aide-soignante"
-            ],
-            [
-                1,
-                "conditions de travail aide soignante formation"
-            ],
-            [
-                2,
-                "conditions de travail aide soignante à domicile"
-            ],
-            [
-                3,
-                "conditions de travail aide soignante salaire"
             ]
         ],
         "youtube": [
@@ -1325,67 +1537,67 @@
             ],
             [
                 0,
-                "formation aide soignante"
-            ],
-            [
-                1,
-                "formation aide soignante 2025"
-            ],
-            [
-                2,
-                "formation aide soignante module 1"
-            ],
-            [
-                3,
-                "role aide soignante"
-            ],
-            [
-                4,
-                "formation aide soignante croix rouge"
-            ],
-            [
-                5,
-                "role aide soignante en reanimation"
-            ],
-            [
-                6,
-                "formation aide soignante en tunisie"
-            ],
-            [
-                7,
-                "formation aide soignante en allemagne"
-            ],
-            [
-                8,
-                "formation aide soignante au canada"
-            ],
-            [
-                9,
-                "role aide soignante au urgence"
-            ],
-            [
-                0,
-                "devenir aide soignante"
-            ],
-            [
-                1,
-                "formation aide soignante"
-            ],
-            [
-                2,
-                "formation aide soignante 2025"
-            ],
-            [
-                3,
-                "formation aide soignante module 1"
-            ],
-            [
-                4,
                 "métier aide soignante"
             ],
             [
+                1,
+                "metier aide soignante hopital"
+            ],
+            [
+                2,
+                "metier aide soignante en ehpad"
+            ],
+            [
+                3,
+                "formation aide soignante"
+            ],
+            [
+                4,
+                "formation aide soignante 2025"
+            ],
+            [
                 5,
+                "formation aide soignante module 1"
+            ],
+            [
+                6,
+                "role aide soignante"
+            ],
+            [
+                7,
                 "formation aide soignante croix rouge"
+            ],
+            [
+                8,
+                "role aide soignante en reanimation"
+            ],
+            [
+                9,
+                "formation aide soignante en tunisie"
+            ],
+            [
+                0,
+                "formation aide soignante"
+            ],
+            [
+                1,
+                "formation aide soignante 2025"
+            ],
+            [
+                2,
+                "formation aide soignante module 1"
+            ],
+            [
+                3,
+                "role aide soignante"
+            ],
+            [
+                4,
+                "formation aide soignante croix rouge"
+            ],
+            [
+                5,
+                "role aide soignante en reanimation"
             ],
             [
                 6,
@@ -1401,31 +1613,7 @@
             ],
             [
                 9,
-                "formation aide soignante en cote d'ivoire"
-            ],
-            [
-                0,
-                "role aide soignante"
-            ],
-            [
-                1,
-                "role aide soignante en reanimation"
-            ],
-            [
-                2,
                 "role aide soignante au urgence"
-            ],
-            [
-                3,
-                "role aide soignante en maternité"
-            ],
-            [
-                4,
-                "role d'aide soignante a l'hopital"
-            ],
-            [
-                5,
-                "faisant fonction aide soignante"
             ]
         ]
     },
@@ -1433,7 +1621,7 @@
         "articles": [
             {
                 "title": "Aide-soignant",
-                "views": 536,
+                "views": 564,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.308
@@ -1449,7 +1637,8 @@
             "intent": "informational",
             "keywords": [
                 "aide soignante formation",
-                "diplôme d'état aide soignante",
+                "diplôme aide soignante",
+                "formation continue aide soignante",
                 "institut de formation aide soignante",
                 "formation aide soignante en alternance",
                 "aide soignante alternance",
@@ -1464,68 +1653,74 @@
             "intent": "informational",
             "keywords": [
                 "concours aide soignante",
+                "préparation concours aide soignante",
                 "concours aide soignante 2026",
                 "concours aide soignante 2027",
                 "concours aide soignante 2025"
             ]
         },
         {
-            "group": "Carrière",
-            "title": "devenir aide soignante",
+            "group": "Métier",
+            "title": "métier aide soignante",
             "intent": "informational",
             "keywords": [
-                "devenir aide soignante",
-                "évolution de carrière aide soignante",
-                "évolution vers infirmier",
-                "devenir aide soignante reconversion",
-                "devenir aide soignante sans diplôme"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "aide soignante salaire",
-            "intent": "informational",
-            "keywords": [
-                "aide soignante salaire",
-                "salaire débutant aide soignante",
-                "salaire aide soignante en suisse",
-                "salaire aide soignante de nuit"
-            ]
-        },
-        {
-            "group": "Environnement",
-            "title": "conditions de travail aide soignante",
-            "intent": "informational",
-            "keywords": [
+                "métier aide soignante",
+                "aide soignante quel niveau",
+                "aide médico-psychologique",
+                "auxiliaire de vie sociale",
+                "métiers du paramédical",
+                "professionnel de santé",
+                "psychiatrie",
+                "quatorze besoins fondamentaux selon virginia henderson",
+                "compétences aide soignante",
                 "conditions de travail aide soignante",
+                "santé au travail aide soignante",
+                "métier aide soignante rôle",
+                "role aide soignante",
+                "actes de la vie quotidienne",
+                "soins fondamentaux",
+                "métier aide soignante définition"
+            ]
+        },
+        {
+            "group": "Métier",
+            "title": "aide soignante évolution de carrière",
+            "intent": "informational",
+            "keywords": [
+                "aide soignante évolution de carrière",
+                "infirmier",
+                "aide soignante pour devenir infirmière",
+                "déroulement carrière aide-soignante"
+            ]
+        },
+        {
+            "group": "Emploi",
+            "title": "aide soignante emploi",
+            "intent": "commercial",
+            "keywords": [
+                "aide soignante emploi",
+                "aide soignante à domicile",
                 "aide soignante nuit",
                 "aide soignante hôpital",
-                "aide-soignant ehpad"
-            ]
-        },
-        {
-            "group": "Environnement",
-            "title": "aide soignante à domicile",
-            "intent": "informational",
-            "keywords": [
-                "aide soignante à domicile",
-                "aide soignante emploi",
-                "tenue aide soignante femme",
-                "pochette aide soignante"
+                "aide soignante ou travailler"
             ]
         },
         {
             "group": "Pratique",
-            "title": "compétences aide soignante",
+            "title": "aide soignante fiche métier",
             "intent": "informational",
             "keywords": [
-                "compétences aide soignante",
-                "compétences techniques aide soignante",
-                "gestion du stress",
-                "hygiène hospitalière",
-                "relation patient",
-                "soins de base",
-                "travail en équipe",
+                "aide soignante fiche métier",
+                "métier aide soignante en ehpad",
+                "aide-soignant ehpad",
+                "aide soignante pour enfant"
+            ]
+        },
+        {
+            "group": "Pratique",
+            "title": "compétences aide soignante cv",
+            "intent": "informational",
+            "keywords": [
                 "compétences aide soignante cv",
                 "compétences aide soignante référentiel",
                 "compétences aide soignante en ehpad"
@@ -1533,82 +1728,68 @@
         },
         {
             "group": "Pratique",
-            "title": "missions aide soignante",
+            "title": "tenue aide soignante femme",
             "intent": "informational",
             "keywords": [
-                "missions aide soignante",
-                "actes de la vie quotidienne",
-                "psychiatrie",
-                "quatorze besoins fondamentaux selon virginia henderson",
-                "soins fondamentaux",
-                "missions aide soignante ehpad",
-                "missions aide soignante ssiad",
-                "role aide soignante"
+                "tenue aide soignante femme"
             ]
         },
         {
-            "group": "Ressources",
-            "title": "aide soignante fiche métier",
+            "group": "Salaire",
+            "title": "aide soignante salaire",
             "intent": "informational",
             "keywords": [
-                "aide soignante fiche métier",
-                "aide médico-psychologique",
-                "auxiliaire de vie sociale",
-                "infirmier",
-                "métiers du paramédical",
-                "profession paramédicale",
-                "professionnel de santé"
+                "aide soignante salaire",
+                "salaire aide soignante en suisse",
+                "salaire aide soignante de nuit"
             ]
         }
     ],
     "categories": {
         "aide soignante formation": "core",
-        "devenir aide soignante": "core",
         "aide soignante à domicile": "commercial",
         "aide soignante salaire": "core",
         "concours aide soignante": "core",
+        "métier aide soignante": "core",
         "aide soignante nuit": "core",
         "salaire aide soignante en suisse": "core",
         "formation aide soignante 2026": "core",
+        "aide soignante évolution de carrière": "core",
         "compétences aide soignante": "core",
         "conditions de travail aide soignante": "core",
-        "missions aide soignante": "core",
-        "évolution de carrière aide soignante": "core",
+        "aide soignante emploi": "core",
         "concours aide soignante 2026": "core",
         "formation aide soignante en alternance": "core",
         "concours aide soignante 2027": "core",
         "concours aide soignante 2025": "core",
-        "aide soignante emploi": "core",
-        "devenir aide soignante reconversion": "core",
         "aide soignante fiche métier": "core",
         "aide soignante hôpital": "core",
+        "aide soignante ou travailler": "complementary",
+        "aide soignante pour devenir infirmière": "complementary",
         "compétences aide soignante cv": "complementary",
-        "missions aide soignante ehpad": "complementary",
         "salaire aide soignante de nuit": "complementary",
+        "aide soignante quel niveau": "complementary",
+        "métier aide soignante en ehpad": "complementary",
+        "aide soignante pour enfant": "complementary",
         "tenue aide soignante femme": "complementary",
         "compétences aide soignante référentiel": "complementary",
-        "devenir aide soignante sans diplôme": "complementary",
+        "métier aide soignante définition": "complementary",
+        "métier aide soignante rôle": "complementary",
         "formation aide soignante a distance": "complementary",
         "formation aide soignante croix rouge": "complementary",
         "compétences aide soignante en ehpad": "complementary",
-        "missions aide soignante ssiad": "complementary",
         "aide soignante alternance": "complementary",
-        "role aide soignante": "complementary",
         "aide-soignant ehpad": "complementary",
-        "pochette aide soignante": "complementary",
-        "diplôme d'état aide soignante": "core",
+        "déroulement carrière aide-soignante": "complementary",
+        "diplôme aide soignante": "core",
         "institut de formation aide soignante": "core",
-        "salaire débutant aide soignante": "core",
-        "compétences techniques aide soignante": "core",
-        "soins de base": "core",
-        "relation patient": "core",
-        "travail en équipe": "core",
-        "hygiène hospitalière": "core",
-        "gestion du stress": "core",
-        "évolution vers infirmier": "core",
+        "préparation concours aide soignante": "core",
+        "role aide soignante": "complementary",
+        "formation continue aide soignante": "core",
+        "santé au travail aide soignante": "core",
         "psychiatrie": "complementary",
         "infirmier": "complementary",
-        "profession paramédicale": "complementary",
+        "profession paramédicale": "doubtful",
         "métiers du paramédical": "complementary",
         "professionnel de santé": "complementary",
         "actes de la vie quotidienne": "complementary",

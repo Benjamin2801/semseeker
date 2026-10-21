@@ -22,6 +22,16 @@ final class SuggestionCollector
 
     private const CACHE_TTL = 86400;
 
+    // L'autocomplétion ne propose « quel panneau solaire choisir » ou « aide pour panneau solaire » qu'à qui tape le
+    // début : on interroge aussi ces variantes, sur deux moteurs seulement pour ne pas se faire bloquer. Le choix, l'usage
+    // et l'alternative seulement : « comment » et « pourquoi » tiraient les plans d'achat vers l'informationnel.
+    private const VARIANT_SOURCES = ['google', 'bing'];
+    private const VARIANTS = [
+        'fr' => ['quel %s', '%s pour', '%s ou'],
+        'en' => ['which %s', '%s for', '%s vs'],
+    ];
+    private const QUESTION_START = '/^(comment|quel|quelle|quels|quelles|pourquoi|combien|how|what|why|which)\b/u';
+
     // Les suggestions de l'expression portent le conseil : on les garde une semaine pour qu'il reste stable.
     private const SEED_CACHE_TTL = 7 * 86400;
 
@@ -34,13 +44,26 @@ final class SuggestionCollector
         private readonly iterable $sources,
         private readonly LoggerInterface $logger,
         private readonly CacheItemPoolInterface $cache = new ArrayAdapter(),
+        /** @var list<string> */
+        private readonly array $variantSources = self::VARIANT_SOURCES,
     ) {
     }
 
     /** @return list<Pending> */
     public function start(string $keyword, string $lang): array
     {
-        return $this->request([$keyword], $lang);
+        return [...$this->request([$keyword], $lang), ...$this->request(self::variants($keyword, $lang), $lang, sources: $this->variantSources)];
+    }
+
+    /** @return list<string> */
+    public static function variants(string $keyword, string $lang): array
+    {
+        $question = 1 === preg_match(self::QUESTION_START, SuggestionMerger::normalize($keyword));
+
+        return array_values(array_map(
+            static fn (string $pattern): string => sprintf($pattern, $keyword),
+            array_filter(self::VARIANTS[$lang] ?? [], static fn (string $pattern): bool => !$question || str_starts_with($pattern, '%s')),
+        ));
     }
 
     /**
@@ -49,7 +72,7 @@ final class SuggestionCollector
      */
     public function collect(string $keyword, string $lang, array $concepts = [], array $started = []): CollectResult
     {
-        $pending = [...([] !== $started ? $started : $this->request([$keyword], $lang)), ...$this->request($concepts, $lang, self::CONCEPT_REQUEST_OPTIONS)];
+        $pending = [...([] !== $started ? $started : $this->start($keyword, $lang)), ...$this->request($concepts, $lang, self::CONCEPT_REQUEST_OPTIONS)];
 
         $answers = [];
         $suggestions = [];
@@ -92,10 +115,11 @@ final class SuggestionCollector
     /**
      * @param list<string>         $queries
      * @param array<string, mixed> $options
+     * @param list<string>|null    $sources moteurs à interroger, tous par défaut
      *
      * @return list<Pending>
      */
-    private function request(array $queries, string $lang, array $options = self::REQUEST_OPTIONS): array
+    private function request(array $queries, string $lang, array $options = self::REQUEST_OPTIONS, ?array $sources = null): array
     {
         $this->client ??= new RetryableHttpClient($this->httpClient, new StartupFailureRetryStrategy(), 1);
         $client = $this->client->withOptions($options);
@@ -108,6 +132,9 @@ final class SuggestionCollector
 
         $pending = [];
         foreach ($this->sources as $source) {
+            if (null !== $sources && !\in_array($source->getName(), $sources, true)) {
+                continue;
+            }
             foreach ($queries as $query) {
                 $pending[] = [$source, $query, $cached[$query][$source->getName()] ?? $source->request($client, $query, $lang)];
             }

@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "menaces cyber entreprise",
-        "formation sensibilisation cyber",
-        "audit sécurité informatique",
-        "solution antivirus entreprise",
+        "audit cybersécurité entreprise",
+        "formation sensibilisation cyber entreprise",
         "sauvegarde données entreprise",
-        "ransomware protection",
-        "conformité rgpd entreprise",
-        "gestion des risques cyber"
+        "ransomware entreprise",
+        "phishing entreprise",
+        "pare-feu entreprise",
+        "gestion des risques cyber",
+        "assurance cyber entreprise"
     ],
     "suggestions": {
         "bing": [
@@ -74,71 +74,87 @@
         "bing": [
             [
                 0,
-                "formation sensibilisation cybersécurité"
+                "formation cybersécurité pour entreprise"
             ],
             [
                 0,
-                "audit sécurité informatique"
+                "entreprise de cybersécurité"
             ],
             [
                 1,
-                "audit securite informatique"
-            ],
-            [
-                0,
-                "solution antivirus entreprise"
-            ],
-            [
-                0,
-                "ransomware protection"
-            ],
-            [
-                1,
-                "ransomware protection windows 11"
+                "entreprise cybersécurité paris"
             ],
             [
                 2,
-                "ransomware protection tools"
+                "assurance cybersécurité entreprise"
             ],
             [
                 3,
-                "ransomware protection windows 10"
-            ],
-            [
-                4,
-                "ransomware protection and recovery"
-            ],
-            [
-                5,
-                "ransomware protection services"
-            ],
-            [
-                6,
-                "ransomware protection software"
-            ],
-            [
-                7,
-                "ransomware protection miami fl"
-            ],
-            [
-                8,
-                "ransomware protection meaning"
-            ],
-            [
-                9,
-                "ransomware protection bay area"
-            ],
-            [
-                10,
-                "ransomware protection software 2020"
-            ],
-            [
-                11,
-                "ransomware protection software 2021"
+                "entreprise cybersécurité ile de france"
             ],
             [
                 0,
-                "conformité rgpd entreprise"
+                "cybersécurité entreprise audit"
+            ],
+            [
+                0,
+                "formation sensibilisation à la cybersécurité"
+            ],
+            [
+                1,
+                "plateforme de sensibilisation cybersécurité"
+            ],
+            [
+                2,
+                "sensibilisation à la cybersécurité"
+            ],
+            [
+                3,
+                "programme de sensibilisation cybersécurité"
+            ],
+            [
+                4,
+                "campagne de sensibilisation cybersécurité"
+            ],
+            [
+                5,
+                "formation de sensibilisation à la sécurité"
+            ],
+            [
+                6,
+                "outils de sensibilisation cybersécurité"
+            ],
+            [
+                7,
+                "plan de sensibilisation cybersécurité"
+            ],
+            [
+                8,
+                "cyber security formation en ligne"
+            ],
+            [
+                9,
+                "formation cyber en ligne"
+            ],
+            [
+                10,
+                "centre de formation en cybersécurité"
+            ],
+            [
+                11,
+                "formation dans la cybersécurité"
+            ],
+            [
+                0,
+                "ransomware en entreprise"
+            ],
+            [
+                0,
+                "phishing en entreprise"
+            ],
+            [
+                0,
+                "pare feu entreprise"
             ],
             [
                 0,
@@ -187,60 +203,174 @@
             [
                 11,
                 "logiciel de gestion des risques"
+            ],
+            [
+                0,
+                "cyber assurance entreprise"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "entreprise cybersécurité pour particulier"
+            ],
+            [
+                1,
+                "entreprise pour cybersécurité"
+            ],
+            [
+                2,
+                "formation cybersécurité pour entreprise"
+            ],
+            [
+                0,
+                "entreprise cybersécurité ouvert actuellement"
+            ],
+            [
+                0,
+                "audit cybersécurité entreprise"
+            ],
+            [
+                0,
+                "sauvegarde données entreprise"
+            ],
+            [
+                1,
+                "stockage données entreprise"
+            ],
+            [
+                2,
+                "stockage données informatique entreprise"
+            ],
+            [
+                0,
+                "ransomware entreprise"
+            ],
+            [
+                0,
+                "phishing entreprise"
+            ],
+            [
+                1,
+                "scam entreprise"
+            ],
+            [
+                2,
+                "spam entreprise"
+            ],
+            [
+                3,
+                "fake entreprise"
+            ],
+            [
+                4,
+                "fake entreprise generator"
+            ],
+            [
+                5,
+                "test phishing entreprise"
+            ],
+            [
+                6,
+                "exemple phishing entreprise"
+            ],
+            [
+                7,
+                "campagne phishing entreprise"
+            ],
+            [
+                8,
+                "sensibilisation phishing entreprise"
+            ],
+            [
+                9,
+                "attaque phishing entreprise"
+            ],
+            [
+                0,
+                "pare feu entreprise"
+            ],
+            [
+                1,
+                "contourner pare feu entreprise"
+            ],
+            [
+                2,
+                "meilleur pare feu entreprise"
+            ],
+            [
+                0,
+                "gestion des risques cybersécurité"
+            ],
+            [
+                1,
+                "gestion des risques cyber"
+            ],
+            [
+                2,
+                "formation gestion des risques cyber"
+            ],
+            [
+                3,
+                "politique de gestion des risques cyber"
+            ],
+            [
+                0,
+                "assurance cyber entreprise"
+            ],
+            [
+                1,
+                "assurance cybersécurité entreprise"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "formation sensibilisation cybersécurité"
+                "cybersécurité entreprise audit"
             ],
             [
                 0,
-                "audit sécurité informatique"
+                "formation sensibilisation à la cybersécurité"
             ],
             [
                 1,
-                "audit securite informatique"
-            ],
-            [
-                0,
-                "solution antivirus entreprise"
-            ],
-            [
-                0,
-                "ransomware protection"
-            ],
-            [
-                1,
-                "ransomware protection windows 11"
+                "plateforme de sensibilisation cybersécurité"
             ],
             [
                 2,
-                "ransomware protection tools"
+                "sensibilisation à la cybersécurité"
             ],
             [
                 3,
-                "ransomware protection windows 10"
+                "programme de sensibilisation cybersécurité"
             ],
             [
                 4,
-                "ransomware protection and recovery"
+                "campagne de sensibilisation cybersécurité"
             ],
             [
                 5,
-                "ransomware protection services"
+                "formation de sensibilisation à la sécurité"
             ],
             [
                 6,
-                "ransomware protection software"
+                "outils de sensibilisation cybersécurité"
             ],
             [
                 7,
-                "ransomware protection miami fl"
+                "plan de sensibilisation cybersécurité"
             ],
             [
                 0,
-                "conformité rgpd entreprise"
+                "ransomware en entreprise"
+            ],
+            [
+                0,
+                "phishing en entreprise"
+            ],
+            [
+                0,
+                "pare feu entreprise"
             ],
             [
                 0,
@@ -273,206 +403,44 @@
             [
                 7,
                 "appétence aux risques cyber"
-            ]
-        ],
-        "google": [
-            [
-                0,
-                "formation sensibilisation cybersécurité"
-            ],
-            [
-                1,
-                "formation sensibilisation cybersécurité entreprise"
-            ],
-            [
-                2,
-                "formation sensibilisation cyber"
             ],
             [
                 0,
-                "audit sécurité informatique"
-            ],
-            [
-                1,
-                "audit sécurité informatique exemple"
-            ],
-            [
-                2,
-                "audit sécurité informatique tunisie"
-            ],
-            [
-                3,
-                "audit sécurité informatique pme"
-            ],
-            [
-                4,
-                "audit sécurité informatique anssi"
-            ],
-            [
-                5,
-                "auditeur sécurité informatique"
-            ],
-            [
-                6,
-                "auditeur sécurité informatique salaire"
-            ],
-            [
-                7,
-                "audit sécurité réseau"
-            ],
-            [
-                8,
-                "audit sécurité système d information"
-            ],
-            [
-                9,
-                "audit sécurité web"
-            ],
-            [
-                0,
-                "solution antivirus entreprise"
-            ],
-            [
-                0,
-                "sauvegarde données entreprise"
-            ],
-            [
-                1,
-                "stockage données entreprise"
-            ],
-            [
-                2,
-                "stockage données informatique entreprise"
-            ],
-            [
-                0,
-                "ransomware protection"
-            ],
-            [
-                1,
-                "ransomware protection windows 11"
-            ],
-            [
-                2,
-                "ransomware protection meaning"
-            ],
-            [
-                3,
-                "ransomware protection windows 10"
-            ],
-            [
-                4,
-                "ransomware protection controlled folder access on or off"
-            ],
-            [
-                5,
-                "ransomware protection on or off"
-            ],
-            [
-                6,
-                "ransomware protection plus"
-            ],
-            [
-                7,
-                "ransomware protection windows 11 on or off"
-            ],
-            [
-                8,
-                "ransomware protection controlled folder access"
-            ],
-            [
-                9,
-                "ransomware protection windows defender"
-            ],
-            [
-                0,
-                "conformité rgpd entreprise"
-            ],
-            [
-                1,
-                "mise en conformité rgpd entreprise"
-            ],
-            [
-                0,
-                "gestion des risques cybersécurité"
-            ],
-            [
-                1,
-                "gestion des risques cyber"
-            ],
-            [
-                2,
-                "formation gestion des risques cyber"
-            ],
-            [
-                3,
-                "politique de gestion des risques cyber"
+                "cyber assurance entreprise"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "menaces cyber entreprise de"
+                "audit cybersécurité entreprise de"
             ],
             [
                 1,
-                "menaces cyber entreprise transport"
+                "audit cybersécurité entreprise transport"
             ],
             [
                 2,
-                "menaces cyber entreprise isolation"
+                "audit cybersécurité entreprise isolation"
             ],
             [
                 3,
-                "menaces cyber entreprise fibre"
+                "audit cybersécurité entreprise fibre"
             ],
             [
                 0,
-                "formation cybersécurité"
+                "formation sensibilisation cyber entreprise de"
             ],
             [
                 1,
-                "formation cybercriminalité"
+                "formation sensibilisation cyber entreprise transport"
             ],
             [
                 2,
-                "formation cybersécurité en ligne"
+                "formation sensibilisation cyber entreprise isolation"
             ],
             [
                 3,
-                "formation cybersécurité pour débutant"
-            ],
-            [
-                0,
-                "audit sécurité informatique entreprise"
-            ],
-            [
-                1,
-                "audit informatique"
-            ],
-            [
-                2,
-                "audit sécurité informatique cours"
-            ],
-            [
-                3,
-                "audit sécurité informatique formation"
-            ],
-            [
-                0,
-                "solution antivirus entreprise de"
-            ],
-            [
-                1,
-                "solution antivirus entreprise transport"
-            ],
-            [
-                2,
-                "solution antivirus entreprise isolation"
-            ],
-            [
-                3,
-                "solution antivirus entreprise fibre"
+                "formation sensibilisation cyber entreprise fibre"
             ],
             [
                 0,
@@ -484,35 +452,51 @@
             ],
             [
                 0,
-                "ransomware protection dentaire"
+                "ransomware entreprise de"
             ],
             [
                 1,
-                "ransomware protection juridique"
+                "ransomware entreprise transport"
             ],
             [
                 2,
-                "ransomware protection civile"
+                "ransomware entreprise isolation"
             ],
             [
                 3,
-                "ransomware protections"
+                "ransomware entreprise fibre"
             ],
             [
                 0,
-                "conformite rgpd entreprise de"
+                "phishing entreprise de"
             ],
             [
                 1,
-                "conformite rgpd entreprise transport"
+                "phishing entreprise transport"
             ],
             [
                 2,
-                "conformite rgpd entreprise isolation"
+                "phishing entreprise isolation"
             ],
             [
                 3,
-                "conformite rgpd entreprise fibre"
+                "phishing entreprise fibre"
+            ],
+            [
+                0,
+                "pare feu entreprise de"
+            ],
+            [
+                1,
+                "pare feu entreprise transport"
+            ],
+            [
+                2,
+                "pare feu entreprise isolation"
+            ],
+            [
+                3,
+                "pare feu entreprise fibre"
             ],
             [
                 0,
@@ -529,53 +513,25 @@
             [
                 3,
                 "gestion des risques cybertek"
-            ]
-        ],
-        "youtube": [
-            [
-                0,
-                "audit sécurité informatique"
             ],
             [
                 0,
-                "ransomware protection"
+                "assurance entreprise"
             ],
             [
                 1,
-                "ransomware protection windows 10"
+                "assurance entreprise multirisque"
             ],
             [
                 2,
-                "ransomware protection controlled folder access"
+                "assurance entreprise pro"
             ],
             [
                 3,
-                "ransomware protection windows 11"
-            ],
-            [
-                4,
-                "ransomware protection set up onedrive"
-            ],
-            [
-                5,
-                "malware protection"
-            ],
-            [
-                6,
-                "netapp ransomware protection"
-            ],
-            [
-                7,
-                "veeam ransomware protection"
-            ],
-            [
-                8,
-                "windows security ransomware protection"
-            ],
-            [
-                9,
-                "malware protection for android"
-            ],
+                "assurance entreprise du bâtiment"
+            ]
+        ],
+        "youtube": [
             [
                 0,
                 "gestion des risques cybersécurité"
@@ -586,14 +542,14 @@
         "articles": [
             {
                 "title": "Cybersécurité",
-                "views": 3373,
+                "views": 3442,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.565
             },
             {
                 "title": "Entreprise",
-                "views": 5023,
+                "views": 5170,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.435
@@ -607,43 +563,47 @@
     "pages": [
         {
             "group": "Audit et conformité",
-            "title": "audit sécurité informatique",
+            "title": "cybersécurité entreprise audit",
             "intent": "commercial",
             "keywords": [
-                "audit sécurité informatique",
-                "accès sécurisé",
-                "surveillance cyber",
-                "sécurité des systèmes d'information",
-                "vulnérabilité système",
                 "cybersécurité entreprise audit",
-                "audit sécurité informatique entreprise",
-                "audit informatique",
-                "audit sécurité informatique exemple"
-            ]
-        },
-        {
-            "group": "Audit et conformité",
-            "title": "conformité rgpd entreprise",
-            "intent": "informational",
-            "keywords": [
-                "conformité rgpd entreprise",
+                "cybersécurité entreprise conseils",
+                "sauvegarde données entreprise",
+                "sauvegarde entreprise",
+                "conformité réglementaire",
+                "coût cybersécurité entreprise",
                 "règlement sur les services numériques",
                 "réglementation cybersécurité entreprise",
-                "conformite rgpd entreprise transport"
+                "sauvegarde cloud",
+                "sécurité des systèmes d'information",
+                "cybersécurité entreprise transport",
+                "audit cybersécurité entreprise transport",
+                "cybersécurité entreprise france",
+                "cybersécurité entreprise maroc"
             ]
         },
         {
-            "group": "Protection contre les ransomware",
-            "title": "ransomware protection",
+            "group": "Formation et sensibilisation",
+            "title": "cybersécurité entreprise formation",
             "intent": "informational",
             "keywords": [
-                "ransomware protection",
-                "authentification multifacteur",
-                "phishing protection",
-                "ransomware protection windows 11",
-                "ransomware protection windows 10",
-                "ransomware protection controlled folder access",
-                "ransomware protection meaning"
+                "cybersécurité entreprise formation",
+                "sensibilisation employés",
+                "formation sensibilisation à la cybersécurité",
+                "formation sensibilisation cyber entreprise de",
+                "formation sensibilisation cyber entreprise transport",
+                "plateforme de sensibilisation cybersécurité"
+            ]
+        },
+        {
+            "group": "Formation et sensibilisation",
+            "title": "cyber assurance entreprise",
+            "intent": "commercial",
+            "keywords": [
+                "cyber assurance entreprise",
+                "assurance cybersécurité entreprise",
+                "assurance entreprise",
+                "assurance entreprise multirisque"
             ]
         },
         {
@@ -652,91 +612,97 @@
             "intent": "informational",
             "keywords": [
                 "gestion des risques cybersécurité",
+                "analyse des risques",
                 "cyberdéfense",
+                "gestion des identités",
+                "identity threat detection and response",
                 "plan de continuité",
-                "stratégie cybersécurité entreprise",
-                "sécurité des infrastructures du cloud",
-                "sécurité du cloud",
-                "sécurité réseau",
+                "plan de réponse incident cyber",
                 "types de menaces cyber entreprise",
                 "gestion des risques cyber",
                 "cybersécurité entreprise risques",
-                "gestion des risques cybermut"
+                "gestion des risques cybermut",
+                "gestion des risques cyberplus"
             ]
         },
         {
-            "group": "Formation et sensibilisation",
-            "title": "formation sensibilisation cybersécurité",
+            "group": "Menaces et attaques",
+            "title": "phishing en entreprise",
             "intent": "informational",
             "keywords": [
-                "formation sensibilisation cybersécurité",
-                "cybersécurité entreprise conseils",
-                "formation cybersécurité",
-                "formation cybersécurité employés",
-                "cybersécurité entreprise formation",
-                "formation cybercriminalité",
-                "formation sensibilisation cybersécurité entreprise"
+                "phishing en entreprise",
+                "phishing entreprise transport",
+                "ransomware entreprise transport"
             ]
         },
         {
-            "group": "Solutions et outils",
-            "title": "solution antivirus entreprise",
+            "group": "Menaces et attaques",
+            "title": "ransomware en entreprise",
+            "intent": "informational",
+            "keywords": [
+                "ransomware en entreprise"
+            ]
+        },
+        {
+            "group": "Protection technique",
+            "title": "pare feu entreprise",
             "intent": "commercial",
             "keywords": [
-                "solution antivirus entreprise",
-                "assurance cyber entreprise",
+                "pare feu entreprise",
+                "antivirus entreprise",
                 "chiffrement données",
-                "coût cybersécurité entreprise",
-                "identity threat detection and response",
-                "pare-feu entreprise",
-                "sauvegarde données entreprise",
-                "sauvegarde cloud",
-                "cybersécurité entreprise solutions"
+                "sécurité des infrastructures du cloud",
+                "sécurité des réseaux",
+                "sécurité du cloud",
+                "cybersécurité entreprise fibre",
+                "pare feu entreprise transport"
             ]
         }
     ],
     "categories": {
-        "ransomware protection": "core",
-        "audit sécurité informatique": "core",
-        "conformité rgpd entreprise": "core",
-        "gestion des risques cybersécurité": "core",
-        "solution antivirus entreprise": "core",
-        "ransomware protection windows 11": "core",
-        "ransomware protection windows 10": "core",
-        "formation sensibilisation cybersécurité": "core",
-        "gestion des risques cyber": "core",
         "cybersécurité entreprise audit": "core",
+        "gestion des risques cybersécurité": "core",
+        "pare feu entreprise": "core",
+        "phishing en entreprise": "core",
+        "ransomware en entreprise": "core",
+        "cyber assurance entreprise": "core",
+        "cybersécurité entreprise formation": "core",
+        "gestion des risques cyber": "core",
+        "assurance cybersécurité entreprise": "core",
+        "cybersécurité entreprise france": "core",
+        "cybersécurité entreprise transport": "core",
         "cybersécurité entreprise risques": "core",
         "cybersécurité entreprise conseils": "complementary",
-        "cybersécurité entreprise formation": "complementary",
-        "ransomware protection controlled folder access": "complementary",
-        "ransomware protection meaning": "complementary",
-        "audit sécurité informatique entreprise": "complementary",
-        "formation cybersécurité": "complementary",
+        "cybersécurité entreprise fibre": "complementary",
+        "formation sensibilisation à la cybersécurité": "complementary",
+        "assurance entreprise": "commercial",
+        "cybersécurité entreprise maroc": "complementary",
+        "formation sensibilisation cyber entreprise de": "complementary",
         "gestion des risques cybermut": "commercial",
         "sauvegarde données entreprise": "complementary",
-        "audit informatique": "complementary",
-        "audit sécurité informatique exemple": "complementary",
-        "conformite rgpd entreprise transport": "complementary",
-        "formation cybercriminalité": "complementary",
-        "formation sensibilisation cybersécurité entreprise": "complementary",
+        "plateforme de sensibilisation cybersécurité": "complementary",
+        "assurance entreprise multirisque": "commercial",
+        "audit cybersécurité entreprise transport": "complementary",
+        "contourner pare feu entreprise": "doubtful",
+        "formation sensibilisation cyber entreprise transport": "complementary",
+        "gestion des risques cyberplus": "commercial",
+        "pare feu entreprise transport": "complementary",
+        "phishing entreprise transport": "complementary",
+        "ransomware entreprise transport": "complementary",
+        "sauvegarde entreprise": "complementary",
         "types de menaces cyber entreprise": "core",
-        "stratégie cybersécurité entreprise": "core",
         "coût cybersécurité entreprise": "commercial",
-        "formation cybersécurité employés": "core",
-        "cybersécurité entreprise solutions": "complementary",
-        "assurance cyber entreprise": "commercial",
+        "plan de réponse incident cyber": "core",
         "réglementation cybersécurité entreprise": "core",
-        "pare-feu entreprise": "core",
+        "antivirus entreprise": "core",
         "chiffrement données": "core",
-        "sauvegarde cloud": "core",
-        "phishing protection": "complementary",
-        "accès sécurisé": "core",
-        "sécurité réseau": "core",
-        "plan de continuité": "complementary",
-        "vulnérabilité système": "core",
-        "authentification multifacteur": "core",
-        "surveillance cyber": "core",
+        "sauvegarde cloud": "complementary",
+        "plan de continuité": "core",
+        "gestion des identités": "core",
+        "sécurité des réseaux": "core",
+        "analyse des risques": "core",
+        "sensibilisation employés": "core",
+        "conformité réglementaire": "core",
         "informatiques": "doubtful",
         "cyberdéfense": "complementary",
         "règlement sur les services numériques": "complementary",
@@ -744,15 +710,9 @@
         "sécurité du cloud": "complementary",
         "sécurité des infrastructures du cloud": "complementary",
         "identity threat detection and response": "complementary",
-        "cybersécurité entreprise france": "doubtful",
-        "cybersécurité entreprise transport": "doubtful",
         "cybersécurité entreprise isolation": "doubtful",
-        "cybersécurité entreprise fibre": "doubtful",
-        "cybersécurité entreprise maroc": "doubtful",
-        "menaces cyber entreprise de": "doubtful",
-        "ransomware protection dentaire": "doubtful",
-        "sauvegarde entreprise en difficulté": "doubtful",
-        "gestion des risques cyberplus": "doubtful",
-        "menaces cyber entreprise transport": "doubtful"
+        "entreprise cybersécurité ouvert actuellement": "doubtful",
+        "entreprise cybersécurité pour particulier": "doubtful",
+        "sauvegarde entreprise en difficulté": "doubtful"
     }
 }

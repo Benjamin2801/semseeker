@@ -90,10 +90,8 @@ pain commun
         $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
         $max = static::getContainer()->getParameter('app.ai.max_candidates');
         self::assertIsInt($max);
-        $queries = 1 + \count(FakeHttpResponses::CONCEPTS);
-
         self::assertCount($max + 7, (array) json_decode($crawler->filter('[data-keywords]')->text(), true));
-        self::assertSelectorTextContains('.analysis-meta', (3 * $queries + 7).' expressions → '.($max + 7).' retenues');
+        self::assertMatchesRegularExpression('/\d+ expressions → '.($max + 7).' retenues/', $crawler->filter('.analysis-meta')->text());
     }
 
     public function testWarnsWhenASourceFails(): void

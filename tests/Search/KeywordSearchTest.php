@@ -190,7 +190,7 @@ final class KeywordSearchTest extends TestCase
         };
 
         $http = new MockHttpClient(new FakeHttpResponses());
-        $collector = new SuggestionCollector($http, [new GoogleSource()], new NullLogger());
+        $collector = new SuggestionCollector($http, [new GoogleSource()], new NullLogger(), variantSources: []);
 
         $wikipedia = new WikipediaExplorer($vocabulary ? $http : new MockHttpClient(new MockResponse('', ['http_code' => 503])), new KeywordFilter(), new NullLogger());
 

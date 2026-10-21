@@ -14,13 +14,13 @@
     ],
     "failed": [],
     "concepts": [
-        "prix installation panneaux solaires",
+        "devis installation panneaux solaires",
         "types de panneaux photovoltaïques",
+        "coût m2 panneaux solaires",
         "aides gouvernementales panneaux solaires",
-        "rentabilité panneaux solaires",
-        "installation panneaux solaires maison",
-        "entretien panneaux solaires",
-        "producteur d'électricité photovoltaïque",
+        "installateur certifié panneaux solaires",
+        "rentabilité installation solaire",
+        "entretien annuel panneaux solaires",
         "raccordement réseau panneaux solaires"
     ],
     "suggestions": {
@@ -41,38 +41,268 @@
         ]
     },
     "related": {
-        "bing": [
+        "google": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "installation des panneaux solaires photovoltaïques"
+            ],
+            [
+                0,
+                "devis installation panneaux solaires"
             ],
             [
                 1,
-                "prix installation panneaux solaires 9kw"
+                "cout installation panneaux solaires"
             ],
             [
                 2,
-                "prix installation panneaux solaires 3 kwc"
+                "cout installation panneaux solaires 6kwc"
             ],
             [
                 3,
-                "installation de panneaux solaires"
+                "cout installation panneaux solaires 3kwc"
             ],
             [
                 4,
-                "combien coûte installation panneaux solaire"
+                "prix installation panneaux solaires belgique"
             ],
             [
                 5,
-                "prix de panneau solaire"
+                "prix installation panneaux solaires 6kw"
             ],
             [
                 6,
-                "installation panneau solaire particulier"
+                "prix installation panneaux solaires 3kw"
             ],
             [
                 7,
-                "coût d'installation panneau solaire"
+                "cout installation panneaux solaires 9kw"
+            ],
+            [
+                8,
+                "prix installation panneaux solaires avec batterie"
+            ],
+            [
+                9,
+                "cout installation panneaux solaires 9kwc"
+            ],
+            [
+                0,
+                "types de panneaux photovoltaïques"
+            ],
+            [
+                1,
+                "types de panneaux photovoltaïques pdf"
+            ],
+            [
+                2,
+                "types de cellules photovoltaïques"
+            ],
+            [
+                3,
+                "types de panneaux solaires"
+            ],
+            [
+                4,
+                "types de panneaux solaires thermiques"
+            ],
+            [
+                5,
+                "types de panneaux solaires pdf"
+            ],
+            [
+                6,
+                "types de panneaux solaires photovoltaïques"
+            ],
+            [
+                7,
+                "3 types de panneaux photovoltaïques"
+            ],
+            [
+                8,
+                "type de panneaux solaires toiture"
+            ],
+            [
+                9,
+                "types de cellules solaires"
+            ],
+            [
+                0,
+                "prix m2 panneaux solaires"
+            ],
+            [
+                1,
+                "prix m2 panneaux photovoltaiques"
+            ],
+            [
+                2,
+                "prix m2 panneau solaire suisse"
+            ],
+            [
+                3,
+                "prix m2 panneau solaire thermique"
+            ],
+            [
+                4,
+                "prix 20 m2 panneaux solaires"
+            ],
+            [
+                0,
+                "aides gouvernementales panneaux solaires"
+            ],
+            [
+                1,
+                "aides etat panneaux solaires 2026"
+            ],
+            [
+                2,
+                "aides financières panneaux solaires"
+            ],
+            [
+                3,
+                "aides etat panneaux solaires 2025"
+            ],
+            [
+                4,
+                "subvention etat panneaux solaires"
+            ],
+            [
+                5,
+                "aides gouvernementales panneaux photovoltaiques"
+            ],
+            [
+                6,
+                "aides financières panneaux photovoltaiques"
+            ],
+            [
+                7,
+                "aide etat panneaux photovoltaïques 2023"
+            ],
+            [
+                0,
+                "installateur agréé panneaux photovoltaïques"
+            ],
+            [
+                1,
+                "certification installation panneaux solaires"
+            ],
+            [
+                2,
+                "liste installateur agréé panneaux photovoltaïques"
+            ],
+            [
+                3,
+                "liste installateur agréé panneaux photovoltaïques belgique"
+            ],
+            [
+                4,
+                "liste installateur agréé panneaux photovoltaïques wallonie"
+            ],
+            [
+                0,
+                "rentabilité installation solaire"
+            ],
+            [
+                1,
+                "rentabilité panneaux solaires"
+            ],
+            [
+                2,
+                "rentabilité panneaux solaires avis"
+            ],
+            [
+                3,
+                "rentabilité kit solaire plug and play"
+            ],
+            [
+                4,
+                "rentabilité panneaux solaires 2025"
+            ],
+            [
+                5,
+                "rentabilité kit solaire autoconsommation"
+            ],
+            [
+                6,
+                "rendement installation solaire"
+            ],
+            [
+                7,
+                "rentabilité energie solaire"
+            ],
+            [
+                8,
+                "rentabilité installation photovoltaïque 36 kwc"
+            ],
+            [
+                9,
+                "rentabilite installation panneau photovoltaique"
+            ],
+            [
+                0,
+                "entretien annuel panneaux photovoltaïques"
+            ],
+            [
+                0,
+                "raccordement electrique panneaux solaires"
+            ],
+            [
+                1,
+                "raccordement electrique panneau solaire plug and play"
+            ],
+            [
+                2,
+                "raccordement panneaux solaires au reseau"
+            ]
+        ],
+        "bing": [
+            [
+                0,
+                "devis installation panneaux solaires"
+            ],
+            [
+                1,
+                "devis panneau solaire photovoltaïque"
+            ],
+            [
+                2,
+                "installation de panneaux solaires"
+            ],
+            [
+                3,
+                "avis installation panneaux solaires"
+            ],
+            [
+                4,
+                "installation gratuite de panneaux solaires"
+            ],
+            [
+                5,
+                "installation de panneaux solaires prix"
+            ],
+            [
+                6,
+                "devis panneau solaire edf"
+            ],
+            [
+                7,
+                "installer des panneaux solaires"
+            ],
+            [
+                8,
+                "installateurs de panneaux solaires"
+            ],
+            [
+                9,
+                "plan d'installation panneaux solaires"
+            ],
+            [
+                10,
+                "je veux installer des panneaux solaires"
+            ],
+            [
+                11,
+                "installation panneau solaire particulier"
             ],
             [
                 0,
@@ -124,6 +354,54 @@
             ],
             [
                 0,
+                "coût panneaux solaires au m2"
+            ],
+            [
+                1,
+                "prix au m2 de panneaux solaires"
+            ],
+            [
+                2,
+                "panneaux solaires prix m2"
+            ],
+            [
+                3,
+                "prix moyen panneaux solaires au m2"
+            ],
+            [
+                4,
+                "poids panneaux solaires au m2"
+            ],
+            [
+                5,
+                "coût moyen installation panneaux solaires"
+            ],
+            [
+                6,
+                "prix panneau solaire m2"
+            ],
+            [
+                7,
+                "cout des panneaux solaires"
+            ],
+            [
+                8,
+                "prix au m2 panneau solaire"
+            ],
+            [
+                9,
+                "poids au m2 panneaux solaire"
+            ],
+            [
+                10,
+                "combien coûte les panneaux solaires"
+            ],
+            [
+                11,
+                "combien de m2 fait un panneau solaire"
+            ],
+            [
+                0,
                 "aides gouvernementales panneaux solaires"
             ],
             [
@@ -148,35 +426,15 @@
             ],
             [
                 0,
-                "rentabilité panneaux solaires"
+                "installateur de panneaux solaires"
             ],
             [
                 1,
-                "rentabilité panneaux solaires photovoltaïques"
+                "meilleur installateur de panneaux solaires"
             ],
             [
                 2,
-                "rentabilité panneaux solaires wallonie"
-            ],
-            [
-                3,
-                "rentabilité panneaux solaires avis"
-            ],
-            [
-                4,
-                "rentabilite panneaux solaires"
-            ],
-            [
-                0,
-                "installation panneaux solaires maison"
-            ],
-            [
-                1,
-                "maison avec panneaux solaires"
-            ],
-            [
-                2,
-                "installation de panneaux solaires prix"
+                "formation installateur de panneaux solaires"
             ],
             [
                 3,
@@ -184,35 +442,35 @@
             ],
             [
                 4,
-                "installateur de panneaux solaires"
+                "installation de panneaux solaires"
             ],
             [
                 5,
-                "comment installer des panneaux solaires"
+                "installer des panneaux solaires"
             ],
             [
                 6,
-                "installation solaire pour maison"
+                "installation de panneaux solaires prix"
             ],
             [
                 7,
-                "prix installation panneaux solaire"
+                "devenir installateur de panneau solaire"
             ],
             [
                 8,
-                "panneau solaire pour maison"
+                "formation installateur panneau solaire"
             ],
             [
                 9,
-                "installation panneau solaire particulier"
+                "entreprise installation panneau solaire"
             ],
             [
                 10,
-                "maison avec panneau solaire"
+                "installation panneau solaire particulier"
             ],
             [
                 11,
-                "plan installation panneau solaire"
+                "installateur panneau solaire photovoltaïque"
             ],
             [
                 0,
@@ -220,27 +478,47 @@
             ],
             [
                 1,
-                "entretien panneaux solaires"
+                "quel est l'entretien des panneaux solaires"
             ],
             [
                 2,
-                "entretien panneaux solaires thermiques"
+                "maintenance des panneaux solaires"
             ],
             [
                 3,
-                "entretien et nettoyage de panneaux solaires"
+                "produit entretien panneaux solaires"
             ],
             [
-                0,
-                "producteur d'électricité photovoltaïque"
+                4,
+                "entreprise entretien panneaux solaires"
             ],
             [
-                1,
-                "producteur électricité photovoltaïque"
+                5,
+                "contrat entretien panneaux solaires"
             ],
             [
-                2,
-                "production d'électricité photovoltaïque"
+                6,
+                "entretien panneau solaire photovoltaïque"
+            ],
+            [
+                7,
+                "entretien des panneaux photovoltaïques"
+            ],
+            [
+                8,
+                "maintenance panneaux solaires photovoltaïques"
+            ],
+            [
+                9,
+                "contrat entretien panneau solaire"
+            ],
+            [
+                10,
+                "avis installation panneaux solaires"
+            ],
+            [
+                11,
+                "conditions pour panneaux solaires"
             ],
             [
                 0,
@@ -294,35 +572,35 @@
         "duckduckgo": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "devis installation panneaux solaires"
             ],
             [
                 1,
-                "prix installation panneaux solaires 3 kwc"
+                "devis panneau solaire photovoltaïque"
             ],
             [
                 2,
-                "prix installation panneaux solaires 9kw"
-            ],
-            [
-                3,
                 "installation de panneaux solaires"
             ],
             [
+                3,
+                "avis installation panneaux solaires"
+            ],
+            [
                 4,
-                "combien coûte installation panneaux solaire"
+                "installation gratuite de panneaux solaires"
             ],
             [
                 5,
-                "prix de panneau solaire"
+                "installation de panneaux solaires prix"
             ],
             [
                 6,
-                "installation panneau solaire particulier"
+                "devis panneau solaire edf"
             ],
             [
                 7,
-                "coût d'installation panneau solaire"
+                "installer des panneaux solaires"
             ],
             [
                 0,
@@ -358,6 +636,38 @@
             ],
             [
                 0,
+                "coût panneaux solaires au m2"
+            ],
+            [
+                1,
+                "prix au m2 de panneaux solaires"
+            ],
+            [
+                2,
+                "panneaux solaires prix m2"
+            ],
+            [
+                3,
+                "prix moyen panneaux solaires au m2"
+            ],
+            [
+                4,
+                "poids panneaux solaires au m2"
+            ],
+            [
+                5,
+                "coût moyen installation panneaux solaires"
+            ],
+            [
+                6,
+                "prix panneau solaire m2"
+            ],
+            [
+                7,
+                "cout des panneaux solaires"
+            ],
+            [
+                0,
                 "aides gouvernementales panneaux solaires"
             ],
             [
@@ -382,35 +692,15 @@
             ],
             [
                 0,
-                "rentabilité panneaux solaires"
+                "installateur de panneaux solaires"
             ],
             [
                 1,
-                "rentabilité panneaux solaires photovoltaïques"
+                "meilleur installateur de panneaux solaires"
             ],
             [
                 2,
-                "rentabilité panneaux solaires wallonie"
-            ],
-            [
-                3,
-                "rentabilité panneaux solaires avis"
-            ],
-            [
-                4,
-                "rentabilite panneaux solaires"
-            ],
-            [
-                0,
-                "installation panneaux solaires maison"
-            ],
-            [
-                1,
-                "maison avec panneaux solaires"
-            ],
-            [
-                2,
-                "installation de panneaux solaires prix"
+                "formation installateur de panneaux solaires"
             ],
             [
                 3,
@@ -418,19 +708,19 @@
             ],
             [
                 4,
-                "installateur de panneaux solaires"
+                "installation de panneaux solaires"
             ],
             [
                 5,
-                "comment installer des panneaux solaires"
+                "installer des panneaux solaires"
             ],
             [
                 6,
-                "installation solaire pour maison"
+                "installation de panneaux solaires prix"
             ],
             [
                 7,
-                "prix installation panneaux solaire"
+                "devenir installateur de panneau solaire"
             ],
             [
                 0,
@@ -438,27 +728,31 @@
             ],
             [
                 1,
-                "entretien panneaux solaires"
+                "quel est l'entretien des panneaux solaires"
             ],
             [
                 2,
-                "entretien panneaux solaires thermiques"
+                "maintenance des panneaux solaires"
             ],
             [
                 3,
-                "entretien et nettoyage de panneaux solaires"
+                "produit entretien panneaux solaires"
             ],
             [
-                0,
-                "producteur d'électricité photovoltaïque"
+                4,
+                "entreprise entretien panneaux solaires"
             ],
             [
-                1,
-                "producteur électricité photovoltaïque"
+                5,
+                "contrat entretien panneaux solaires"
             ],
             [
-                2,
-                "production d'électricité photovoltaïque"
+                6,
+                "entretien panneau solaire photovoltaïque"
+            ],
+            [
+                7,
+                "entretien des panneaux photovoltaïques"
             ],
             [
                 0,
@@ -493,312 +787,22 @@
                 "panneaux solaires à brancher directement"
             ]
         ],
-        "google": [
-            [
-                0,
-                "prix installation panneaux solaires"
-            ],
-            [
-                1,
-                "prix installation panneaux solaires 6kw"
-            ],
-            [
-                2,
-                "prix installation panneaux solaires avec batterie"
-            ],
-            [
-                3,
-                "prix installation panneaux solaires 3kw"
-            ],
-            [
-                4,
-                "prix installation panneaux solaires belgique"
-            ],
-            [
-                5,
-                "prix kit panneaux solaires"
-            ],
-            [
-                6,
-                "cout installation panneaux solaires 6kwc"
-            ],
-            [
-                7,
-                "prix installation panneaux photovoltaïques"
-            ],
-            [
-                8,
-                "prix installation panneau solaire 6kw avec batterie"
-            ],
-            [
-                9,
-                "prix installation panneau solaire 3kw avec batterie"
-            ],
-            [
-                0,
-                "types de panneaux photovoltaïques"
-            ],
-            [
-                1,
-                "types de panneaux photovoltaïques pdf"
-            ],
-            [
-                2,
-                "types de cellules photovoltaïques"
-            ],
-            [
-                3,
-                "types de panneaux solaires"
-            ],
-            [
-                4,
-                "types de panneaux solaires thermiques"
-            ],
-            [
-                5,
-                "types de panneaux solaires pdf"
-            ],
-            [
-                6,
-                "types de panneaux solaires photovoltaïques"
-            ],
-            [
-                7,
-                "3 types de panneaux photovoltaïques"
-            ],
-            [
-                8,
-                "type de panneaux solaires toiture"
-            ],
-            [
-                9,
-                "types de cellules solaires"
-            ],
-            [
-                0,
-                "aides gouvernementales panneaux solaires"
-            ],
-            [
-                1,
-                "aides etat panneaux solaires 2026"
-            ],
-            [
-                2,
-                "aides financières panneaux solaires"
-            ],
-            [
-                3,
-                "aides etat panneaux solaires 2025"
-            ],
-            [
-                4,
-                "subvention etat panneaux solaires"
-            ],
-            [
-                5,
-                "aides gouvernementales panneaux photovoltaiques"
-            ],
-            [
-                6,
-                "aides financières panneaux photovoltaiques"
-            ],
-            [
-                7,
-                "aide etat panneaux photovoltaïques 2023"
-            ],
-            [
-                0,
-                "rentabilité panneaux solaires"
-            ],
-            [
-                1,
-                "rentabilité panneaux solaires avis"
-            ],
-            [
-                2,
-                "rentabilité panneaux solaires 2025"
-            ],
-            [
-                3,
-                "rendement panneaux solaires"
-            ],
-            [
-                4,
-                "rendement panneaux solaires en hiver"
-            ],
-            [
-                5,
-                "rendement panneaux solaires thermiques"
-            ],
-            [
-                6,
-                "rendement panneaux solaires au m2"
-            ],
-            [
-                7,
-                "rendement panneaux solaires orientation"
-            ],
-            [
-                8,
-                "rendement panneaux solaires monocristallin"
-            ],
-            [
-                9,
-                "rendement panneaux solaires iss"
-            ],
-            [
-                0,
-                "installation panneaux solaires maison"
-            ],
-            [
-                1,
-                "kit panneaux solaires maison"
-            ],
-            [
-                2,
-                "installation panneau solaire maison individuelle"
-            ],
-            [
-                3,
-                "installation panneau solaire maison autonome"
-            ],
-            [
-                4,
-                "installation panneau solaire maison prix"
-            ],
-            [
-                5,
-                "kit panneau solaire maison autonome"
-            ],
-            [
-                6,
-                "kit panneau solaire maison isolée"
-            ],
-            [
-                7,
-                "kit panneau solaire maison avec batterie"
-            ],
-            [
-                8,
-                "installation panneau solaire pour maison"
-            ],
-            [
-                9,
-                "schema installation panneau solaire maison"
-            ],
-            [
-                0,
-                "entretien panneaux solaires"
-            ],
-            [
-                1,
-                "entretien panneaux solaires eau chaude"
-            ],
-            [
-                2,
-                "entretien panneaux solaires photovoltaïques"
-            ],
-            [
-                3,
-                "entretien panneaux solaires edf"
-            ],
-            [
-                4,
-                "entretien panneaux solaires thermiques"
-            ],
-            [
-                5,
-                "entretien panneaux solaires prix"
-            ],
-            [
-                6,
-                "entretien panneaux solaires locataire"
-            ],
-            [
-                7,
-                "entretien panneaux solaires obligatoire"
-            ],
-            [
-                8,
-                "entretien panneaux solaires locataire ou propriétaire"
-            ],
-            [
-                9,
-                "entretien panneaux solaires perpignan"
-            ],
-            [
-                0,
-                "producteur d'électricité photovoltaïque"
-            ],
-            [
-                1,
-                "fournisseur d électricité photovoltaïque"
-            ],
-            [
-                2,
-                "producteur d'électricité photovoltaique non professionnel"
-            ],
-            [
-                3,
-                "producteur d électricité solaire"
-            ],
-            [
-                4,
-                "fournisseur d électricité solaire"
-            ],
-            [
-                5,
-                "fournisseur d électricité panneaux photovoltaïques"
-            ],
-            [
-                6,
-                "entreprise d énergie solaire"
-            ],
-            [
-                7,
-                "entreprise d énergie solaire au mali"
-            ],
-            [
-                8,
-                "entreprise d énergie solaire au burkina faso"
-            ],
-            [
-                9,
-                "entreprise d énergie solaire en ci"
-            ],
-            [
-                0,
-                "raccordement electrique panneaux solaires"
-            ],
-            [
-                1,
-                "raccordement electrique panneau solaire plug and play"
-            ],
-            [
-                2,
-                "raccordement panneaux solaires au reseau"
-            ]
-        ],
         "yahoo": [
             [
                 0,
-                "prix installation panneaux solaires"
+                "devis installation panneaux solaires résidentiels"
             ],
             [
                 1,
-                "prix installation panneaux solaires maison"
+                "devis installation panneaux solaires professionnel"
             ],
             [
                 2,
-                "prix installation panneaux solaires 9kw"
+                "devis installation panneaux solaires photovoltaïques"
             ],
             [
                 3,
-                "prix moyen installation panneaux solaires"
-            ],
-            [
-                4,
-                "prix prime installation panneaux solaires"
+                "devis installation panneaux solaires exemple"
             ],
             [
                 0,
@@ -818,6 +822,22 @@
             ],
             [
                 0,
+                "cout m2 panneaux solaires devis"
+            ],
+            [
+                1,
+                "cout m2 panneaux solaires photovoltaïques"
+            ],
+            [
+                2,
+                "cout m2 panneaux solaires prix"
+            ],
+            [
+                3,
+                "cout m2 panneaux solaires thermiques"
+            ],
+            [
+                0,
                 "aides gouvernementales panneaux solaires devis"
             ],
             [
@@ -834,55 +854,51 @@
             ],
             [
                 0,
-                "rentabilité panneaux solaires"
+                "installateur certifié panneaux solaires devis"
             ],
             [
                 1,
-                "rentabilité panneaux solaires photovoltaïques"
+                "installateur certifié panneaux solaires photovoltaïques"
             ],
             [
                 2,
-                "calculer rentabilité panneaux solaires"
+                "installateur certifié panneaux solaires prix"
             ],
             [
                 3,
-                "rentabilité des panneaux solaires"
+                "installateur certifié panneaux solaires thermiques"
             ],
             [
                 0,
-                "installation panneaux solaires maison"
+                "rentabilité installation solaire photovoltaïque"
             ],
             [
                 1,
-                "prix installation panneaux solaires maison"
-            ],
-            [
-                0,
-                "entretien panneaux solaires"
-            ],
-            [
-                1,
-                "entretien panneaux solaires photovoltaïques"
+                "rentabilité installation solaire autonome"
             ],
             [
                 2,
-                "entretien des panneaux solaires"
-            ],
-            [
-                0,
-                "producteur d'électricité photovoltaïque autoconsommation"
-            ],
-            [
-                1,
-                "producteur d'électricité photovoltaïques"
-            ],
-            [
-                2,
-                "producteur d'électricité photovoltaïque prix"
+                "rentabilité installation solaire thermique"
             ],
             [
                 3,
-                "producteur d'électricité photovoltaïque définition"
+                "rentabilité installation solaire en kit"
+            ],
+            [
+                0,
+                "entretien annuel panneaux solaires devis"
+            ],
+            [
+                1,
+                "entretien annuel panneaux solaires photovoltaïques"
+            ],
+            [
+                2,
+                "entretien annuel panneaux solaires prix"
+            ],
+            [
+                3,
+                "entretien annuel panneaux solaires thermiques"
             ],
             [
                 0,
@@ -904,7 +920,7 @@
         "youtube": [
             [
                 0,
-                "prix installation panneau solaire"
+                "devis installation panneau solaire"
             ],
             [
                 1,
@@ -912,7 +928,7 @@
             ],
             [
                 2,
-                "devis installation panneau solaire"
+                "prix installation panneau solaire"
             ],
             [
                 0,
@@ -925,30 +941,6 @@
             [
                 0,
                 "rentabilite panneaux solaires"
-            ],
-            [
-                1,
-                "rentabilité panneau solaire plug and play"
-            ],
-            [
-                2,
-                "rentabilité panneau solaire autoconsommation"
-            ],
-            [
-                0,
-                "installation panneau solaire maison"
-            ],
-            [
-                1,
-                "installation panneau solaire maison autonome"
-            ],
-            [
-                2,
-                "comment installer panneau solaire maison"
-            ],
-            [
-                0,
-                "nettoyage panneaux solaires"
             ]
         ]
     },
@@ -956,7 +948,7 @@
         "articles": [
             {
                 "title": "Capteur solaire photovoltaïque",
-                "views": 681,
+                "views": 703,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.757
@@ -970,96 +962,57 @@
     },
     "pages": [
         {
-            "group": "Coûts et rentabilité",
-            "title": "prix installation panneaux solaires",
-            "intent": "commercial",
+            "group": "Installation",
+            "title": "installation des panneaux solaires photovoltaïques",
+            "intent": "informational",
             "keywords": [
-                "prix installation panneaux solaires",
-                "installer des panneaux solaires photovoltaïques prix",
-                "prix installation panneaux solaires maison",
-                "cout installation panneau solaire",
-                "prix installation panneaux solaires 9kw",
-                "prix installation panneaux solaires 3 kwc"
+                "installation des panneaux solaires photovoltaïques",
+                "courant continu",
+                "onduleur",
+                "rayonnement solaire",
+                "montage des panneaux solaires photovoltaique",
+                "système de montage",
+                "pose panneaux solaires photovoltaiques",
+                "comment installer panneaux solaires photovoltaïques",
+                "étapes installation panneaux solaires"
+            ]
+        },
+        {
+            "group": "Installation",
+            "title": "devis installation panneaux solaires",
+            "intent": "transactional",
+            "keywords": [
+                "devis installation panneaux solaires",
+                "installateur certifié panneaux solaires devis",
+                "installateur de panneaux solaires",
+                "devis installation panneaux solaires résidentiels",
+                "devis panneau solaire photovoltaïque"
             ]
         },
         {
             "group": "Coûts et rentabilité",
-            "title": "rentabilité panneaux solaires",
+            "title": "prix m2 panneaux solaires",
+            "intent": "commercial",
+            "keywords": [
+                "prix m2 panneaux solaires",
+                "installer des panneaux solaires photovoltaïques prix",
+                "prix installation panneau solaire",
+                "cout m2 panneaux solaires devis",
+                "cout installation panneaux solaires",
+                "coût panneaux solaires au m2"
+            ]
+        },
+        {
+            "group": "Coûts et rentabilité",
+            "title": "rentabilite panneaux solaires",
             "intent": "informational",
             "keywords": [
-                "rentabilité panneaux solaires",
+                "rentabilite panneaux solaires",
                 "revente électricité",
                 "énergie solaire",
                 "énergie solaire photovoltaïque",
-                "rentabilité panneaux solaires photovoltaïques",
-                "rentabilité panneaux solaires avis"
-            ]
-        },
-        {
-            "group": "Installation",
-            "title": "installation panneaux solaires maison",
-            "intent": "transactional",
-            "keywords": [
-                "installation panneaux solaires maison",
-                "pose panneaux solaires photovoltaiques",
-                "maison avec panneaux solaires",
-                "centrale solaire photovoltaïque",
-                "étude de faisabilité",
-                "installation des panneaux solaires photovoltaïques",
-                "montage des panneaux solaires photovoltaique",
-                "système de montage"
-            ]
-        },
-        {
-            "group": "Installation",
-            "title": "comment installer panneaux solaires photovoltaïques",
-            "intent": "informational",
-            "keywords": [
-                "comment installer panneaux solaires photovoltaïques",
-                "démarches administratives panneaux solaires",
-                "étapes installation panneaux solaires",
-                "installation panneau solaire maison autonome",
-                "panneaux solaires hors réseau",
-                "installer des panneaux solaires photovoltaïques souple",
-                "courant continu",
-                "onduleur",
-                "rayonnement solaire"
-            ]
-        },
-        {
-            "group": "Aides et raccordement",
-            "title": "raccordement électrique panneaux solaires",
-            "intent": "informational",
-            "keywords": [
-                "raccordement électrique panneaux solaires",
-                "compteur linky",
-                "connexion réseau",
-                "producteur d'électricité photovoltaïque",
-                "raccordement réseau panneaux solaires devis",
-                "producteur d'électricité photovoltaïque autoconsommation",
-                "auto-consommation"
-            ]
-        },
-        {
-            "group": "Aides et raccordement",
-            "title": "aides gouvernementales panneaux solaires",
-            "intent": "informational",
-            "keywords": [
-                "aides gouvernementales panneaux solaires",
-                "aides financières panneaux solaires",
-                "les aides panneaux solaires"
-            ]
-        },
-        {
-            "group": "Entretien",
-            "title": "entretien panneaux solaires",
-            "intent": "informational",
-            "keywords": [
-                "entretien panneaux solaires",
-                "contrat de maintenance",
-                "entretien panneaux solaires photovoltaïques",
-                "entretien panneaux solaires thermiques",
-                "nettoyage panneaux solaires"
+                "rentabilité installation solaire",
+                "rentabilité installation solaire photovoltaïque"
             ]
         },
         {
@@ -1069,72 +1022,103 @@
             "keywords": [
                 "types de panneaux photovoltaïques",
                 "cellule photovoltaïque",
-                "onduleur solaire",
+                "centrale solaire photovoltaïque",
+                "durée de vie panneaux",
+                "garantie panneaux solaires",
                 "panneau photovoltaïque à concentration",
                 "types de panneaux solaires photovoltaïques",
-                "types de panneaux solaires",
+                "onduleur solaire",
                 "panneaux monocristallins",
                 "panneaux polycristallins",
-                "tuiles solaires thermiques"
+                "types de panneaux solaires",
+                "installer des panneaux solaires photovoltaïques souple"
+            ]
+        },
+        {
+            "group": "Entretien et raccordement",
+            "title": "entretien panneaux solaires photovoltaïques",
+            "intent": "informational",
+            "keywords": [
+                "entretien panneaux solaires photovoltaïques",
+                "entretien panneaux solaires",
+                "surveillance production",
+                "entretien annuel panneaux photovoltaïques",
+                "entretien annuel panneaux solaires devis"
+            ]
+        },
+        {
+            "group": "Entretien et raccordement",
+            "title": "raccordement électrique panneaux solaires",
+            "intent": "transactional",
+            "keywords": [
+                "raccordement électrique panneaux solaires",
+                "raccordement réseau panneaux solaires devis"
+            ]
+        },
+        {
+            "group": "Aides et subventions",
+            "title": "aides gouvernementales panneaux solaires",
+            "intent": "informational",
+            "keywords": [
+                "aides gouvernementales panneaux solaires",
+                "aides financières panneaux solaires",
+                "aides gouvernementales panneaux solaires devis",
+                "les aides panneaux solaires"
             ]
         }
     ],
     "categories": {
-        "installation panneaux solaires maison": "commercial",
-        "prix installation panneaux solaires": "commercial",
-        "rentabilité panneaux solaires": "core",
-        "installation des panneaux solaires photovoltaïques": "commercial",
+        "installation des panneaux solaires photovoltaïques": "core",
+        "devis installation panneaux solaires": "commercial",
         "types de panneaux photovoltaïques": "core",
-        "entretien panneaux solaires": "core",
-        "producteur d'électricité photovoltaïque": "core",
-        "entretien panneaux solaires photovoltaïques": "complementary",
         "types de panneaux solaires photovoltaïques": "core",
         "aides gouvernementales panneaux solaires": "commercial",
-        "raccordement électrique panneaux solaires": "core",
-        "rentabilité panneaux solaires photovoltaïques": "core",
-        "prix installation panneaux solaires 9kw": "commercial",
+        "raccordement électrique panneaux solaires": "complementary",
+        "prix m2 panneaux solaires": "commercial",
+        "rentabilite panneaux solaires": "complementary",
+        "cout installation panneaux solaires": "commercial",
         "types de panneaux solaires": "core",
         "installer des panneaux solaires photovoltaïques prix": "commercial",
-        "rentabilité panneaux solaires avis": "complementary",
-        "installation panneau solaire maison autonome": "complementary",
         "aides financières panneaux solaires": "commercial",
-        "prix installation panneaux solaires maison": "commercial",
-        "montage des panneaux solaires photovoltaique": "commercial",
-        "entretien panneaux solaires thermiques": "complementary",
-        "installer des panneaux solaires photovoltaïques souple": "complementary",
-        "pose panneaux solaires photovoltaiques": "commercial",
-        "cout installation panneau solaire": "commercial",
+        "montage des panneaux solaires photovoltaique": "core",
+        "prix installation panneau solaire": "commercial",
+        "installer des panneaux solaires photovoltaïques souple": "core",
+        "pose panneaux solaires photovoltaiques": "core",
         "comment installer panneaux solaires photovoltaïques": "complementary",
-        "nettoyage panneaux solaires": "complementary",
-        "producteur d'électricité photovoltaïque autoconsommation": "complementary",
+        "coût panneaux solaires au m2": "commercial",
+        "entretien panneaux solaires photovoltaïques": "complementary",
+        "installateur de panneaux solaires": "commercial",
+        "aides gouvernementales panneaux solaires devis": "commercial",
+        "cout m2 panneaux solaires devis": "commercial",
+        "devis installation panneaux solaires résidentiels": "commercial",
+        "entretien annuel panneaux photovoltaïques": "complementary",
+        "entretien annuel panneaux solaires devis": "commercial",
+        "installateur certifié panneaux solaires devis": "commercial",
         "raccordement réseau panneaux solaires devis": "commercial",
+        "rentabilité installation solaire": "complementary",
+        "rentabilité installation solaire photovoltaïque": "complementary",
+        "devis panneau solaire photovoltaïque": "commercial",
         "les aides panneaux solaires": "commercial",
-        "maison avec panneaux solaires": "commercial",
-        "panneaux solaires hors réseau": "complementary",
-        "prix installation panneaux solaires 3 kwc": "commercial",
         "étapes installation panneaux solaires": "core",
-        "démarches administratives panneaux solaires": "core",
+        "entretien panneaux solaires": "core",
         "panneaux monocristallins": "core",
         "panneaux polycristallins": "core",
         "onduleur solaire": "core",
-        "système de montage": "commercial",
-        "compteur linky": "complementary",
-        "connexion réseau": "complementary",
-        "auto-consommation": "core",
+        "système de montage": "core",
         "revente électricité": "complementary",
-        "étude de faisabilité": "commercial",
-        "contrat de maintenance": "complementary",
+        "surveillance production": "complementary",
+        "durée de vie panneaux": "core",
+        "garantie panneaux solaires": "core",
         "onduleur": "complementary",
-        "générateur électrique": "doubtful",
         "rayonnement solaire": "complementary",
         "courant continu": "complementary",
         "cellule photovoltaïque": "complementary",
-        "centrale solaire photovoltaïque": "commercial",
+        "centrale solaire photovoltaïque": "complementary",
         "énergie solaire": "complementary",
         "énergie solaire photovoltaïque": "complementary",
         "panneau photovoltaïque à concentration": "complementary",
-        "tuiles solaires thermiques": "complementary",
         "installer des panneaux solaires photovoltaïques forum": "doubtful",
-        "aides gouvernementales panneaux solaires devis": "doubtful"
+        "installateur agréé panneaux photovoltaïques": "doubtful",
+        "meilleur installateur de panneaux solaires": "doubtful"
     }
 }

@@ -15,7 +15,9 @@
     "failed": [],
     "concepts": [
         "fiabilité test de grossesse",
-        "prix test de grossesse"
+        "prix test de grossesse",
+        "interprétation test de grossesse",
+        "symptômes grossesse"
     ],
     "suggestions": {
         "amazon": [
@@ -55,11 +57,11 @@
             "test de grossesse pharmacie prix",
             "test de grossesse précoce",
             "test de grossesse prix",
+            "test de grossesse clearblue",
             "test de grossesse quand le faire",
             "test de grossesse auchan",
             "test de grossesse action",
-            "test de grossesse pharmacie",
-            "test de grossesse carrefour"
+            "test de grossesse pharmacie"
         ],
         "yahoo": [
             "test de grossesse",
@@ -88,6 +90,122 @@
     },
     "related": {
         "bing": [
+            [
+                0,
+                "test de grossesse dessin"
+            ],
+            [
+                1,
+                "faux test positif grossesse"
+            ],
+            [
+                2,
+                "test de grossesse pour chienne"
+            ],
+            [
+                3,
+                "test de grossesse avec du sel"
+            ],
+            [
+                4,
+                "faux test de grossesse positif blague"
+            ],
+            [
+                5,
+                "comment tester une enceinte"
+            ],
+            [
+                6,
+                "à qui déclarer sa grossesse"
+            ],
+            [
+                0,
+                "test de grossesse pour chienne"
+            ],
+            [
+                1,
+                "test de grossesse dessin"
+            ],
+            [
+                2,
+                "faux test positif grossesse"
+            ],
+            [
+                3,
+                "test de grossesse avec du sel"
+            ],
+            [
+                4,
+                "faux test de grossesse positif blague"
+            ],
+            [
+                5,
+                "comment tester une enceinte"
+            ],
+            [
+                6,
+                "où trouver mon certificat de grossesse"
+            ],
+            [
+                7,
+                "certificat de grossesse ou trouver"
+            ],
+            [
+                8,
+                "à qui déclarer sa grossesse"
+            ],
+            [
+                9,
+                "test des pouces montant"
+            ],
+            [
+                0,
+                "test de grossesse pour chienne"
+            ],
+            [
+                1,
+                "test de grossesse avec du sel"
+            ],
+            [
+                2,
+                "test de grossesse tunisie"
+            ],
+            [
+                3,
+                "prix test de grossesse tunisie"
+            ],
+            [
+                4,
+                "où acheter un test de grossesse"
+            ],
+            [
+                5,
+                "test de grossesse dessin"
+            ],
+            [
+                6,
+                "faux test positif grossesse"
+            ],
+            [
+                7,
+                "faux test de grossesse positif blague"
+            ],
+            [
+                8,
+                "comment tester une enceinte"
+            ],
+            [
+                9,
+                "certificat de grossesse ou trouver"
+            ],
+            [
+                10,
+                "où trouver mon certificat de grossesse"
+            ],
+            [
+                11,
+                "à qui déclarer sa grossesse"
+            ],
             [
                 0,
                 "où acheter un test de grossesse"
@@ -151,32 +269,10 @@
             [
                 10,
                 "tableau poids bébé pendant grossesse"
-            ]
-        ],
-        "duckduckgo": [
+            ],
             [
                 0,
-                "où acheter un test de grossesse"
-            ],
-            [
-                1,
-                "faux test positif grossesse"
-            ],
-            [
-                2,
-                "faux test de grossesse positif blague"
-            ],
-            [
-                3,
                 "test de grossesse dessin"
-            ],
-            [
-                4,
-                "test de grossesse pour chienne"
-            ],
-            [
-                0,
-                "prix test de grossesse tunisie"
             ],
             [
                 1,
@@ -184,7 +280,7 @@
             ],
             [
                 2,
-                "test de grossesse dessin"
+                "faux test positif grossesse"
             ],
             [
                 3,
@@ -192,22 +288,134 @@
             ],
             [
                 4,
-                "faux test positif grossesse"
+                "comment tester une enceinte"
             ],
             [
-                5,
-                "certificat de grossesse ou trouver"
+                0,
+                "symptômes grossesse nerveuse chien"
             ],
             [
-                6,
-                "où trouver mon certificat de grossesse"
+                1,
+                "symptômes grosse fatigue"
             ],
             [
-                7,
-                "semaine de grossesse calcul"
+                2,
+                "grossesse nerveuse chienne symptômes"
             ]
         ],
         "google": [
+            [
+                0,
+                "quel test de grossesse est le plus fiable"
+            ],
+            [
+                1,
+                "quel test de grossesse choisir"
+            ],
+            [
+                2,
+                "quel test de grossesse urinaire est le plus fiable"
+            ],
+            [
+                3,
+                "quel test de grossesse acheter"
+            ],
+            [
+                4,
+                "quel test de grossesse prendre"
+            ],
+            [
+                5,
+                "quel test de grossesse detecte le plus tot"
+            ],
+            [
+                6,
+                "quel test de grossesse urinaire choisir"
+            ],
+            [
+                7,
+                "quel test de grossesse est fiable"
+            ],
+            [
+                0,
+                "test de grossesse pour chien"
+            ],
+            [
+                1,
+                "test de grossesse pour chat"
+            ],
+            [
+                2,
+                "test de grossesse pour savoir combien de semaine"
+            ],
+            [
+                3,
+                "test de grossesse pour jument"
+            ],
+            [
+                4,
+                "test de grossesse pour chien maison"
+            ],
+            [
+                5,
+                "test de grossesse pour chat maison"
+            ],
+            [
+                6,
+                "test de grossesse pourquoi le matin"
+            ],
+            [
+                7,
+                "test de grossesse pour homme"
+            ],
+            [
+                8,
+                "test de grossesse pour vache"
+            ],
+            [
+                9,
+                "test de grossesse pourcentage de fiabilité"
+            ],
+            [
+                0,
+                "test de grossesse ou acheter"
+            ],
+            [
+                1,
+                "test de grossesse ou en trouver"
+            ],
+            [
+                2,
+                "test de grossesse ou thermomètre jeu"
+            ],
+            [
+                3,
+                "test de grossesse ou prise de sang"
+            ],
+            [
+                4,
+                "test de grossesse ouvert"
+            ],
+            [
+                5,
+                "test de grossesse matin ou soir"
+            ],
+            [
+                6,
+                "test de grossesse positif ou négatif"
+            ],
+            [
+                7,
+                "test de grossesse sanguin ou en trouver"
+            ],
+            [
+                8,
+                "test de grossesse à jeun ou pas"
+            ],
+            [
+                9,
+                "grossesse extra utérine test de grossesse positif ou négatif"
+            ],
             [
                 0,
                 "fiabilité test de grossesse"
@@ -287,6 +495,168 @@
             [
                 9,
                 "prix test de grossesse intermarché"
+            ],
+            [
+                0,
+                "interprétation test de grossesse"
+            ],
+            [
+                1,
+                "interprétation test de grossesse clearblue"
+            ],
+            [
+                2,
+                "interpretation test de grossesse urinaire"
+            ],
+            [
+                3,
+                "interpretation test de grossesse sanguin"
+            ],
+            [
+                4,
+                "explication test de grossesse"
+            ],
+            [
+                5,
+                "definition test de grossesse"
+            ],
+            [
+                6,
+                "explication test de grossesse clearblue"
+            ],
+            [
+                7,
+                "interpretation resultat test de grossesse"
+            ],
+            [
+                8,
+                "interpretation reve test de grossesse positif"
+            ],
+            [
+                0,
+                "symptômes grossesse"
+            ],
+            [
+                1,
+                "symptômes grossesse 1 semaine"
+            ],
+            [
+                2,
+                "symptômes grossesse extra-utérine"
+            ],
+            [
+                3,
+                "symptômes grossesse premiers jours"
+            ],
+            [
+                4,
+                "symptômes grossesse 2 semaines"
+            ],
+            [
+                5,
+                "symptômes grossesse 1 mois"
+            ],
+            [
+                6,
+                "symptômes grossesse 1 semaine après rapport"
+            ],
+            [
+                7,
+                "symptômes grossesse extra-utérine témoignage"
+            ],
+            [
+                8,
+                "symptômes grossesse 5 jours après ovulation"
+            ],
+            [
+                9,
+                "symptômes grossesse avec endométriose"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "où acheter un test de grossesse"
+            ],
+            [
+                1,
+                "faux test positif grossesse"
+            ],
+            [
+                2,
+                "faux test de grossesse positif blague"
+            ],
+            [
+                3,
+                "test de grossesse dessin"
+            ],
+            [
+                4,
+                "test de grossesse pour chienne"
+            ],
+            [
+                0,
+                "prix test de grossesse tunisie"
+            ],
+            [
+                1,
+                "où acheter un test de grossesse"
+            ],
+            [
+                2,
+                "test de grossesse dessin"
+            ],
+            [
+                3,
+                "test de grossesse pour chienne"
+            ],
+            [
+                4,
+                "faux test positif grossesse"
+            ],
+            [
+                5,
+                "certificat de grossesse ou trouver"
+            ],
+            [
+                6,
+                "où trouver mon certificat de grossesse"
+            ],
+            [
+                7,
+                "semaine de grossesse calcul"
+            ],
+            [
+                0,
+                "test de grossesse dessin"
+            ],
+            [
+                1,
+                "où acheter un test de grossesse"
+            ],
+            [
+                2,
+                "faux test positif grossesse"
+            ],
+            [
+                3,
+                "test de grossesse pour chienne"
+            ],
+            [
+                4,
+                "comment tester une enceinte"
+            ],
+            [
+                0,
+                "symptômes grossesse nerveuse chien"
+            ],
+            [
+                1,
+                "symptômes grosse fatigue"
+            ],
+            [
+                2,
+                "grossesse nerveuse chienne symptômes"
             ]
         ],
         "yahoo": [
@@ -317,6 +687,62 @@
             [
                 4,
                 "prix de test de grossesse"
+            ],
+            [
+                0,
+                "interprétation test de grossesse positif"
+            ],
+            [
+                1,
+                "interprétation test de grossesse maison"
+            ],
+            [
+                2,
+                "interprétation test de grossesse clearblue"
+            ],
+            [
+                3,
+                "interprétation test de grossesse négatif"
+            ],
+            [
+                0,
+                "symptômes grossesse"
+            ],
+            [
+                1,
+                "symptômes grossesse extra utérine"
+            ],
+            [
+                2,
+                "symptômes grossesse premiers jours"
+            ],
+            [
+                3,
+                "symptômes grossesse gémellaire"
+            ],
+            [
+                4,
+                "symptômes grossesse 1er mois"
+            ],
+            [
+                5,
+                "symptômes grossesse 15 jours"
+            ],
+            [
+                6,
+                "symptômes grossesse jumeaux"
+            ],
+            [
+                7,
+                "symptômes grossesse 1 semaine"
+            ],
+            [
+                8,
+                "symptômes grossesse et règles"
+            ],
+            [
+                9,
+                "symptômes grossesse fiv"
             ]
         ],
         "youtube": [
@@ -327,6 +753,54 @@
             [
                 0,
                 "prix test de grossesse"
+            ],
+            [
+                0,
+                "interprétation test de grossesse"
+            ],
+            [
+                1,
+                "explication test de grossesse"
+            ],
+            [
+                0,
+                "symptômes grossesse"
+            ],
+            [
+                1,
+                "symptômes grossesse premiers jours"
+            ],
+            [
+                2,
+                "symptômes grossesse extra-utérine"
+            ],
+            [
+                3,
+                "symptômes grossesse avant règles"
+            ],
+            [
+                4,
+                "symptômes grossesse 1 semaine"
+            ],
+            [
+                5,
+                "symptomes grossesse gemellaire début"
+            ],
+            [
+                6,
+                "symptomes grossesse extra uterine"
+            ],
+            [
+                7,
+                "symptomes grossesse garcon"
+            ],
+            [
+                8,
+                "grossesse symptômes premières semaines"
+            ],
+            [
+                9,
+                "symptome grossesse fille"
             ]
         ]
     },
@@ -334,7 +808,7 @@
         "articles": [
             {
                 "title": "Test de grossesse",
-                "views": 195,
+                "views": 203,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
@@ -348,24 +822,50 @@
     },
     "pages": [
         {
+            "group": "Fiabilité et interprétation",
+            "title": "interprétation test de grossesse",
+            "intent": "informational",
+            "keywords": [
+                "interprétation test de grossesse",
+                "interprétation test de grossesse maison",
+                "faux négatif",
+                "lecture résultat",
+                "résultats test de grossesse",
+                "utilisation test de grossesse",
+                "test de grossesse positif",
+                "interprétation test de grossesse positif",
+                "résultat positif",
+                "faux test de grossesse positif",
+                "faux positif",
+                "test de grossesse négatif",
+                "résultat négatif",
+                "interprétation test de grossesse clearblue"
+            ]
+        },
+        {
+            "group": "Fiabilité et interprétation",
+            "title": "fiabilité test de grossesse",
+            "intent": "informational",
+            "keywords": [
+                "fiabilité test de grossesse",
+                "fiabilité test de grossesse action",
+                "délai fiabilité",
+                "sensibilité test",
+                "fiabilité test de grossesse clearblue",
+                "quel test de grossesse est le plus fiable"
+            ]
+        },
+        {
             "group": "Types de tests de grossesse",
             "title": "test de grossesse précoce",
             "intent": "informational",
             "keywords": [
                 "test de grossesse précoce",
-                "test de grossesse quand le faire",
-                "test de grossesse ultra précoce",
-                "bandelette réactive",
-                "grossesse",
                 "hormone hcg",
-                "résultat rapide",
-                "test de grossesse urinaire",
-                "test urinaire",
                 "types de tests de grossesse",
                 "test de grossesse clearblue",
-                "test de grossesse biosynex",
                 "test de grossesse sanguin",
-                "prix test de grossesse sanguin",
+                "test de grossesse urinaire",
                 "test sanguin",
                 "clearblue test de grossesse precoce"
             ]
@@ -377,38 +877,30 @@
             "keywords": [
                 "test de grossesse maison",
                 "test de grossesse avec du sel",
-                "test de grossesse lapin",
-                "test du lapin"
+                "test du lapin",
+                "test de la grenouille"
             ]
         },
         {
-            "group": "Fiabilité et résultats",
-            "title": "fiabilité test de grossesse",
+            "group": "Symptômes et utilisation",
+            "title": "symptômes grossesse",
             "intent": "informational",
             "keywords": [
-                "fiabilité test de grossesse",
-                "fiabilité test de grossesse précoce",
-                "fiabilité test de grossesse urinaire",
-                "fiabilité 99%",
-                "sensibilité test",
-                "fiabilité test de grossesse clearblue",
-                "prix test de grossesse clearblue",
-                "faux test de grossesse positif",
-                "faux négatif",
-                "faux positif"
+                "symptômes grossesse",
+                "grossesse",
+                "symptômes grossesse extra utérine",
+                "symptômes grossesse premiers jours",
+                "symptômes grossesse 1 semaine"
             ]
         },
         {
-            "group": "Fiabilité et résultats",
-            "title": "test de grossesse positif",
+            "group": "Symptômes et utilisation",
+            "title": "test de grossesse pour chien",
             "intent": "informational",
             "keywords": [
-                "test de grossesse positif",
-                "ligne de contrôle",
-                "résultats test de grossesse",
-                "utilisation test de grossesse",
-                "test de grossesse négatif",
-                "test de grossesse dessin"
+                "test de grossesse pour chien",
+                "test de grossesse pour chienne",
+                "symptômes grossesse nerveuse chien"
             ]
         },
         {
@@ -417,74 +909,73 @@
             "intent": "commercial",
             "keywords": [
                 "test de grossesse prix",
+                "test de grossesse tunisie",
+                "prix test de grossesse tunisie",
                 "test de grossesse pharmacie prix",
-                "prix test de grossesse pharmacie moins cher",
-                "test de grossesse action",
-                "test de grossesse auchan",
-                "où acheter un test de grossesse"
+                "test de grossesse ou acheter",
+                "test de grossesse action"
             ]
         },
         {
             "group": "Achat et prix",
-            "title": "test de grossesse tunisie",
+            "title": "test de grossesse réutilisable",
             "intent": "commercial",
             "keywords": [
-                "test de grossesse tunisie",
-                "prix test de grossesse tunisie"
+                "test de grossesse réutilisable"
             ]
         }
     ],
     "categories": {
-        "test de grossesse précoce": "core",
         "test de grossesse clearblue": "core",
+        "test de grossesse précoce": "core",
         "fiabilité test de grossesse": "core",
+        "symptômes grossesse": "core",
         "test de grossesse prix": "commercial",
         "test de grossesse positif": "core",
+        "symptômes grossesse extra utérine": "complementary",
+        "symptômes grossesse premiers jours": "complementary",
         "test de grossesse sanguin": "core",
         "test de grossesse pharmacie prix": "commercial",
+        "test de grossesse ou acheter": "commercial",
+        "interprétation test de grossesse": "core",
         "faux test de grossesse positif": "complementary",
-        "test de grossesse action": "commercial",
+        "symptômes grossesse 1 semaine": "complementary",
         "test de grossesse négatif": "complementary",
+        "interprétation test de grossesse clearblue": "complementary",
+        "test de grossesse action": "commercial",
         "test de grossesse avec du sel": "complementary",
         "fiabilité test de grossesse clearblue": "complementary",
-        "test de grossesse dessin": "complementary",
         "test de grossesse tunisie": "commercial",
         "test de grossesse maison": "complementary",
-        "test de grossesse pour chienne": "doubtful",
+        "test de grossesse pour chienne": "complementary",
         "clearblue test de grossesse precoce": "complementary",
-        "où acheter un test de grossesse": "commercial",
         "prix test de grossesse tunisie": "commercial",
-        "test de grossesse lapin": "complementary",
-        "fiabilité test de grossesse précoce": "complementary",
-        "prix test de grossesse sanguin": "commercial",
-        "test de grossesse quand le faire": "complementary",
-        "test de grossesse ultra précoce": "complementary",
-        "fiabilité test de grossesse urinaire": "complementary",
-        "prix test de grossesse pharmacie moins cher": "commercial",
-        "test de grossesse auchan": "commercial",
-        "test de grossesse biosynex": "commercial",
-        "prix test de grossesse clearblue": "commercial",
+        "symptômes grossesse nerveuse chien": "complementary",
+        "test de grossesse réutilisable": "complementary",
+        "interprétation test de grossesse positif": "complementary",
+        "quel test de grossesse est le plus fiable": "complementary",
+        "test de grossesse pour chien": "complementary",
+        "symptômes grosse fatigue": "doubtful",
+        "fiabilité test de grossesse action": "commercial",
+        "interprétation test de grossesse maison": "complementary",
         "types de tests de grossesse": "core",
         "utilisation test de grossesse": "core",
         "résultats test de grossesse": "core",
         "test de grossesse urinaire": "core",
-        "test urinaire": "complementary",
-        "test sanguin": "complementary",
-        "bandelette réactive": "complementary",
-        "hormone hcg": "complementary",
-        "sensibilité test": "complementary",
-        "fiabilité 99%": "complementary",
-        "résultat rapide": "complementary",
-        "ligne de contrôle": "complementary",
+        "test sanguin": "core",
+        "hormone hcg": "core",
+        "résultat positif": "core",
+        "résultat négatif": "core",
         "faux positif": "core",
-        "faux négatif": "core",
+        "faux négatif": "complementary",
+        "sensibilité test": "core",
+        "délai fiabilité": "core",
+        "lecture résultat": "core",
         "grossesse": "complementary",
         "tests médicaux rapides": "doubtful",
         "test du lapin": "complementary",
-        "test de grossesse réutilisable": "doubtful",
-        "fiabilité test de grossesse action": "doubtful",
-        "faux test de grossesse positif blague": "doubtful",
-        "test de grossesse en ligne": "doubtful",
-        "certificat de grossesse ou trouver": "doubtful"
+        "test de la grenouille": "complementary",
+        "explication test de grossesse": "doubtful",
+        "test de grossesse dessin": "doubtful"
     }
 }

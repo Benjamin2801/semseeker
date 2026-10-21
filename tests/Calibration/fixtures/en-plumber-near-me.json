@@ -17,10 +17,11 @@
         "emergency plumber",
         "affordable plumber",
         "licensed plumber",
-        "plumber for leaks",
-        "plumber for clogs",
-        "plumber for installation",
-        "plumber 24/7"
+        "plumbing repair",
+        "leak detection",
+        "drain cleaning",
+        "pipe installation",
+        "water heater repair"
     ],
     "suggestions": {
         "amazon": [
@@ -92,6 +93,138 @@
     },
     "related": {
         "bing": [
+            [
+                0,
+                "which plumbers near me"
+            ],
+            [
+                1,
+                "plumber near me"
+            ],
+            [
+                2,
+                "plumber near me reviews"
+            ],
+            [
+                3,
+                "plumber near me emergency"
+            ],
+            [
+                4,
+                "plumber near me residential"
+            ],
+            [
+                5,
+                "plumber apprenticeship near me"
+            ],
+            [
+                6,
+                "plumber near me cost"
+            ],
+            [
+                7,
+                "plumber supply near me"
+            ],
+            [
+                8,
+                "plumber near me rates"
+            ],
+            [
+                0,
+                "plumbers near me for garbage disposal"
+            ],
+            [
+                1,
+                "plumbers near me for commercial"
+            ],
+            [
+                2,
+                "plumbers near me for frozen pipes"
+            ],
+            [
+                3,
+                "plumber near me free estimate"
+            ],
+            [
+                4,
+                "plumber near me free quote"
+            ],
+            [
+                5,
+                "emergency plumber near me"
+            ],
+            [
+                6,
+                "handyman plumber near me"
+            ],
+            [
+                7,
+                "commercial plumber near me"
+            ],
+            [
+                8,
+                "local plumber near me"
+            ],
+            [
+                9,
+                "licensed plumber near me"
+            ],
+            [
+                0,
+                "plumbers near me angie's list"
+            ],
+            [
+                1,
+                "plumber near me san antonio"
+            ],
+            [
+                2,
+                "plumbers near me anchorage alaska"
+            ],
+            [
+                3,
+                "plumber near me surfers paradise qld"
+            ],
+            [
+                4,
+                "plumber near me setia alam"
+            ],
+            [
+                5,
+                "plumber near me surrey"
+            ],
+            [
+                6,
+                "plumber near me today"
+            ],
+            [
+                7,
+                "plumbers near me venice"
+            ],
+            [
+                8,
+                "plumbers near me vancouver wa"
+            ],
+            [
+                9,
+                "plumbers near me small jobs uk"
+            ],
+            [
+                10,
+                "plumbers near me small jobs"
+            ],
+            [
+                11,
+                "plumbers near me seattle"
+            ],
+            [
+                12,
+                "plumbers near me southbury ct"
+            ],
+            [
+                13,
+                "plumbers near me small jobs within 5 mi"
+            ],
             [
                 0,
                 "emergency plumber near me"
@@ -390,344 +523,482 @@
             ],
             [
                 0,
-                "plumber for leaking toilet"
+                "plumbing repair near me"
             ],
             [
                 1,
-                "plumber suggestions for leaky faucet"
+                "plumbing repair"
             ],
             [
                 2,
-                "leakson emergency plumber and 24/7 service"
+                "plumbing repair services"
             ],
             [
                 3,
-                "average cost for plumber to fix leaky shower"
-            ],
-            [
-                0,
-                "plumber for clogged disposal"
-            ],
-            [
-                1,
-                "plumber for clogged drain how to find"
-            ],
-            [
-                2,
-                "plumber for clogged drain near me"
-            ],
-            [
-                3,
-                "plumber for clogged dishwasher"
+                "plumbing repair tucson az tucson handy guys"
             ],
             [
                 4,
-                "plumber for clogged drain cost"
+                "plumbing repair parts"
             ],
             [
                 5,
-                "plumber for clogged drain pipe"
+                "plumbing repair tape"
             ],
             [
                 6,
-                "plumber for clogged drain tips"
+                "plumbing repair austin"
             ],
             [
                 7,
-                "plumber for clogged dryer vent"
+                "plumbing repair san angelo"
             ],
             [
                 8,
-                "plumber for clogged drain repair"
+                "plumbing repair austin cost"
             ],
             [
                 9,
-                "plumber for clogged drain reviews"
+                "plumbing repair austin yelp"
             ],
             [
                 10,
-                "plumber for clogged drain service"
+                "plumbing repair austin texas"
             ],
             [
                 11,
-                "plumber for clogged drain cleaning"
+                "plumbing repair colchester ct"
             ],
             [
                 12,
-                "plumber for clogged drain solution"
+                "plumbing repair columbus cost"
             ],
             [
                 13,
-                "plumber for clogged drain emergency"
+                "plumbing repair austin coupons"
+            ],
+            [
+                14,
+                "plumbing repair austin reviews"
+            ],
+            [
+                15,
+                "plumbing repair columbus coupons"
+            ],
+            [
+                16,
+                "plumbing repair columbus reviews"
+            ],
+            [
+                17,
+                "plumbing repair columbus ohio bbb"
+            ],
+            [
+                18,
+                "plumbing repair columbus services"
+            ],
+            [
+                19,
+                "plumbing repair columbus ohio cost"
+            ],
+            [
+                20,
+                "plumbing repair columbus ohio coupons"
+            ],
+            [
+                21,
+                "plumbing repair columbus ohio reviews"
+            ],
+            [
+                22,
+                "plumbing repair columbus ohio services"
+            ],
+            [
+                23,
+                "plumbing repair columbus ohio emergency"
+            ],
+            [
+                24,
+                "plumbing repair columbus ohio free estimate"
             ],
             [
                 0,
-                "plumber installation"
+                "leakdetectioncacounty.com"
             ],
             [
                 1,
-                "plumber installation near me"
+                "leakdetector.no"
             ],
             [
                 2,
-                "plumber sink installation"
+                "leaf detection"
             ],
             [
                 3,
-                "plumber dishwasher installation service"
+                "leakdetectives.biz"
             ],
             [
                 4,
-                "plumber dishwasher installation time"
+                "leaf detection system"
             ],
             [
                 5,
-                "plumber normal installation"
+                "lead detection equipment"
             ],
             [
                 6,
-                "plumber nampa installation"
+                "lead detection tds"
             ],
             [
                 7,
-                "plumber suggestions for shower installation"
+                "lake detective mn"
             ],
             [
                 8,
-                "plumber to hire for installation"
+                "leaf detection system using opencv python"
             ],
             [
                 9,
-                "plumber for gas line installation near me"
+                "leaf detection images"
+            ],
+            [
+                10,
+                "leaf detection dataset"
+            ],
+            [
+                11,
+                "leaf detection project"
+            ],
+            [
+                12,
+                "lead detection tds towers"
+            ],
+            [
+                13,
+                "leaf detection using image processing"
             ],
             [
                 0,
-                "plumber 24/7"
+                "drain cleaning near me"
             ],
             [
                 1,
-                "plumber 24/7 near me"
+                "drain cleaning"
             ],
             [
                 2,
-                "plumber 24 7 near me"
+                "drain cleaning machine"
             ],
             [
                 3,
-                "local plumber 24/7"
+                "drain cleaning tools"
             ],
             [
                 4,
-                "rockwall plumber 24/7"
+                "drain cleaning services"
             ],
             [
                 5,
-                "renton plumber 24/7"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "emergency plumber near me"
-            ],
-            [
-                1,
-                "emergency plumber aghards"
-            ],
-            [
-                2,
-                "emergency plumber thornhill"
-            ],
-            [
-                3,
-                "emergency plumber"
-            ],
-            [
-                4,
-                "emergency plumbers wiltshire"
-            ],
-            [
-                5,
-                "emergency plumbers kilmarnock"
+                "drain cleaning bladder"
             ],
             [
                 6,
-                "emergency plumbers pretoria east"
+                "drain cleaning brush"
             ],
             [
                 7,
-                "emergency plumbers haverhill"
+                "drain cleaning australia"
+            ],
+            [
+                8,
+                "drain cleaning company"
+            ],
+            [
+                9,
+                "drain cleaning tablets"
+            ],
+            [
+                10,
+                "drain cleaning australia youtube"
+            ],
+            [
+                11,
+                "drain cleaning gloves"
+            ],
+            [
+                12,
+                "drain cleaning equipment"
+            ],
+            [
+                13,
+                "drain cleaning services near me"
+            ],
+            [
+                14,
+                "drain cleaning sioux falls"
+            ],
+            [
+                15,
+                "drain cleaning wichita ks"
+            ],
+            [
+                16,
+                "drain cleaning los angeles"
+            ],
+            [
+                17,
+                "drain cleaning sioux city"
+            ],
+            [
+                18,
+                "drain cleaning albuquerque"
+            ],
+            [
+                19,
+                "drain cleaning lubbock"
+            ],
+            [
+                20,
+                "drain cleaning spring"
+            ],
+            [
+                21,
+                "drain cleaning seattle"
+            ],
+            [
+                22,
+                "drain cleaning milwaukee"
+            ],
+            [
+                23,
+                "drain cleaning sacramento"
+            ],
+            [
+                24,
+                "drain cleaning dayton ohio"
             ],
             [
                 0,
-                "affordable plumbers near me"
+                "pipe installation"
             ],
             [
                 1,
-                "affordable plumber near me free quote"
+                "pipe installation guide"
             ],
             [
                 2,
-                "affordable plumbers near me reviews"
+                "pipe installation symbols"
             ],
             [
                 3,
-                "affordable plumbers in west end"
+                "pipe installation sac code"
             ],
             [
                 4,
-                "affordable plumbers in mayfair"
+                "pipe installation hsn code"
             ],
             [
                 5,
-                "affordable plumbers near me emergency"
+                "pipe installation methods"
             ],
             [
                 6,
-                "affordable plumbers san diego"
+                "pipe installation cost per foot"
             ],
             [
                 7,
-                "affordable plumbers near me contact"
+                "pipe installation cost"
+            ],
+            [
+                8,
+                "pipe installation company"
+            ],
+            [
+                9,
+                "pipe installation procedure"
+            ],
+            [
+                10,
+                "pipe installation risk assessment"
+            ],
+            [
+                11,
+                "pipe installation tools"
+            ],
+            [
+                12,
+                "pipe installation process"
+            ],
+            [
+                13,
+                "pipe installation equipment"
+            ],
+            [
+                14,
+                "pipe installation calculator"
             ],
             [
                 0,
-                "licensed plumber"
+                "water heater repair near me"
             ],
             [
                 1,
-                "licensed plumber hackenviertel"
+                "water heater repair"
             ],
             [
                 2,
-                "licensed plumber altstadt"
+                "water heater repair los angeles 24/7"
             ],
             [
                 3,
-                "licensed plumber near me"
+                "water heater repair service near me"
             ],
             [
                 4,
-                "licensed plumbers in markham"
+                "water heater repair service"
             ],
             [
                 5,
-                "licensed plumbers nyc"
+                "water heater repair downey jd air plumbing"
             ],
             [
                 6,
-                "licensed plumbers in scarborough"
+                "water heater repair saginaw mi"
             ],
             [
                 7,
-                "licensed plumbers reno"
+                "water heater repair cost"
             ],
             [
-                0,
-                "plumber for leaking toilet"
+                8,
+                "water heater repair lakewood jd air plumbing"
             ],
             [
-                1,
-                "plumber suggestions for leaky faucet"
+                9,
+                "water heater repair kansas city"
             ],
             [
-                2,
-                "leakson emergency plumber and 24/7 service"
+                10,
+                "water heater repair huntington beach"
             ],
             [
-                3,
-                "average cost for plumber to fix leaky shower"
+                11,
+                "water heater repair pittsburgh"
             ],
             [
-                0,
-                "plumber for clogged disposal"
+                12,
+                "water heater repairs ri"
             ],
             [
-                1,
-                "plumber for clogged drain how to find"
+                13,
+                "water heater repair sacramento"
             ],
             [
-                2,
-                "plumber for clogged drain near me"
+                14,
+                "water heater repair overland park"
             ],
             [
-                3,
-                "plumber for clogged dishwasher"
+                15,
+                "water heater repair murrieta"
             ],
             [
-                4,
-                "plumber for clogged drain cost"
+                16,
+                "water heater repair concord ca"
             ],
             [
-                5,
-                "plumber for clogged drain pipe"
+                17,
+                "water heater repair milwaukee"
             ],
             [
-                6,
-                "plumber for clogged drain tips"
+                18,
+                "water heater repair oakland md"
             ],
             [
-                7,
-                "plumber for clogged dryer vent"
+                19,
+                "water heater repair san angelo"
             ],
             [
-                0,
-                "plumber installation"
+                20,
+                "water heater repair columbus wi"
             ],
             [
-                1,
-                "plumber installation near me"
+                21,
+                "water heater repair phoenix reviews"
             ],
             [
-                2,
-                "plumber sink installation"
+                22,
+                "water heater repair indianola ia"
             ],
             [
-                3,
-                "plumber dishwasher installation service"
+                23,
+                "water heater repair atlantic city"
             ],
             [
-                4,
-                "plumber dishwasher installation time"
-            ],
-            [
-                5,
-                "plumber normal installation"
-            ],
-            [
-                6,
-                "plumber nampa installation"
-            ],
-            [
-                7,
-                "plumber suggestions for shower installation"
-            ],
-            [
-                0,
-                "plumber 24/7"
-            ],
-            [
-                1,
-                "plumber 24/7 near me"
-            ],
-            [
-                2,
-                "plumber 24 7 near me"
-            ],
-            [
-                3,
-                "local plumber 24/7"
-            ],
-            [
-                4,
-                "rockwall plumber 24/7"
-            ],
-            [
-                5,
-                "renton plumber 24/7"
+                24,
+                "water heater repair san angelo tx"
             ]
         ],
         "google": [
+            [
+                0,
+                "which plumber near me"
+            ],
+            [
+                1,
+                "how do i find a good plumber in my area"
+            ],
+            [
+                2,
+                "where can i find a plumber near me"
+            ],
+            [
+                3,
+                "what is the best plumber near me"
+            ],
+            [
+                4,
+                "who is the cheapest plumber"
+            ],
+            [
+                0,
+                "plumber near me for water heater"
+            ],
+            [
+                1,
+                "plumber near me for clogged toilet"
+            ],
+            [
+                2,
+                "plumber near me for hot water heater"
+            ],
+            [
+                3,
+                "plumber near me for clogged drain"
+            ],
+            [
+                4,
+                "plumber near me for toilet"
+            ],
+            [
+                5,
+                "plumber near me for small job"
+            ],
+            [
+                6,
+                "plumber near me for dishwasher"
+            ],
+            [
+                7,
+                "plumber near me for motor repair"
+            ],
+            [
+                8,
+                "plumber near me for washing machine"
+            ],
+            [
+                9,
+                "plumber near me for gas leak"
+            ],
             [
                 0,
                 "emergency plumber near me"
@@ -850,157 +1121,755 @@
             ],
             [
                 0,
-                "plumbing for leaks"
+                "plumbing repair near me"
             ],
             [
                 1,
-                "plumber tape for leaks"
+                "plumbing repair"
             ],
             [
                 2,
-                "plumber putty for leaks"
+                "plumbing repair services"
             ],
             [
                 3,
-                "plumber check for leaks"
+                "plumbing repair cost"
             ],
             [
                 4,
-                "plumber for gas leaks"
+                "plumbing repair tape"
             ],
             [
                 5,
-                "plumber check for leaks cost"
+                "plumbing repair service near me"
             ],
             [
                 6,
-                "plumber for water leaks"
+                "plumbing repair kit"
             ],
             [
                 7,
-                "do plumbers fix water leaks"
+                "plumbing repair parts"
             ],
             [
                 8,
-                "how much is a plumber to fix a leak"
+                "plumbing repair clamp"
             ],
             [
                 9,
-                "how much do plumbers charge to fix leaks"
+                "plumbing repair cost estimator"
             ],
             [
                 0,
-                "plumber for clogs"
+                "leak detection"
             ],
             [
                 1,
-                "plumber tool for clogs"
+                "leak detection pump"
             ],
             [
                 2,
-                "plumber clogs restaurant"
+                "leak detection company"
             ],
             [
                 3,
-                "liquid plumber for toilet clogs"
+                "leak detection near me"
             ],
             [
                 4,
-                "liquid plumr for hair clogs"
+                "leak detection equipment"
             ],
             [
                 5,
-                "when to call a plumber for a clogged drain"
+                "leak detection company near me"
             ],
             [
                 6,
-                "why do plumbers say not to use drano"
-            ],
-            [
-                0,
-                "plumber for installation"
-            ],
-            [
-                1,
-                "plumber for dishwasher installation"
-            ],
-            [
-                2,
-                "plumber for toilet installation"
-            ],
-            [
-                3,
-                "plumber for sink installation"
-            ],
-            [
-                4,
-                "plumber for bidet installation"
-            ],
-            [
-                5,
-                "plumber for shower installation"
-            ],
-            [
-                6,
-                "plumber for faucet installation"
+                "leak detection services"
             ],
             [
                 7,
-                "plumber for geyser installation"
+                "leak detection device"
             ],
             [
                 8,
-                "plumber for toilet installation near me"
+                "leak detection system"
             ],
             [
                 9,
-                "plumber for ro installation"
+                "leak detection dye"
             ],
             [
                 0,
-                "plumber 24/7"
+                "drain cleaning near me"
             ],
             [
                 1,
-                "plumber 24/7 near me"
+                "drain cleaning"
             ],
             [
                 2,
-                "plumber 24 7"
+                "drain cleaning bladder"
             ],
             [
                 3,
-                "plumber 24 hours"
+                "drain cleaning tool"
             ],
             [
                 4,
-                "plumber 24 7 near me"
+                "drain cleaning machine"
             ],
             [
                 5,
-                "plumber 24 hours near me"
+                "drain cleaning service"
             ],
             [
                 6,
-                "plumber 24"
+                "drain cleaning brush"
             ],
             [
                 7,
-                "plumber 24 hour service"
+                "drain cleaning service near me"
             ],
             [
                 8,
-                "plumber 24 hour service near me"
+                "drain cleaning australia"
             ],
             [
                 9,
-                "plumber 24 jam"
+                "drain cleaning tablets"
+            ],
+            [
+                0,
+                "pipe installation"
+            ],
+            [
+                1,
+                "pipe installation home depot"
+            ],
+            [
+                2,
+                "pipe installation near me"
+            ],
+            [
+                3,
+                "pipe insulation"
+            ],
+            [
+                4,
+                "pipe installation methods"
+            ],
+            [
+                5,
+                "pipe installation jobs"
+            ],
+            [
+                6,
+                "pipe insulation foam"
+            ],
+            [
+                7,
+                "pipe insulation wrap"
+            ],
+            [
+                8,
+                "pipe insulation home depot"
+            ],
+            [
+                9,
+                "pipe insulation tape"
+            ],
+            [
+                0,
+                "water heater repair"
+            ],
+            [
+                1,
+                "water heater repair near me"
+            ],
+            [
+                2,
+                "water heater repair cost"
+            ],
+            [
+                3,
+                "water heater repair service near me"
+            ],
+            [
+                4,
+                "water heater repair service"
+            ],
+            [
+                5,
+                "water heater repair kit"
+            ],
+            [
+                6,
+                "water heater repairman"
+            ],
+            [
+                7,
+                "water heater repairman near me"
+            ],
+            [
+                8,
+                "water heater repair parts"
+            ],
+            [
+                9,
+                "water heater repair in my area"
+            ]
+        ],
+        "amazon": [
+            [
+                0,
+                "plumbing repair tape"
+            ],
+            [
+                1,
+                "plumbing repair kit"
+            ],
+            [
+                2,
+                "plumbing repair tools"
+            ],
+            [
+                3,
+                "plumbing repair parts"
+            ],
+            [
+                4,
+                "plumbing repair epoxy"
+            ],
+            [
+                5,
+                "plumbing repair"
+            ],
+            [
+                6,
+                "plumbing repair clamp"
+            ],
+            [
+                7,
+                "plumbing repair tools kit, angle stop wrench & puller"
+            ],
+            [
+                8,
+                "plumbing repair putty"
+            ],
+            [
+                9,
+                "plumbing repair supplies"
+            ],
+            [
+                0,
+                "water sensors for leak detection"
+            ],
+            [
+                1,
+                "pool leak detection kit"
+            ],
+            [
+                2,
+                "pool leak detection dye kit"
+            ],
+            [
+                3,
+                "coolant leak detection kit"
+            ],
+            [
+                4,
+                "leak detection dye"
+            ],
+            [
+                5,
+                "leak detection pump"
+            ],
+            [
+                6,
+                "leak detection"
+            ],
+            [
+                7,
+                "leak detection kit"
+            ],
+            [
+                8,
+                "leak detection tools"
+            ],
+            [
+                9,
+                "leak detection needle dye"
+            ],
+            [
+                0,
+                "sunroof drain cleaning tool"
+            ],
+            [
+                1,
+                "zip it drain cleaning tool"
+            ],
+            [
+                2,
+                "sun roof drain cleaning tool"
+            ],
+            [
+                3,
+                "drain cleaning tool"
+            ],
+            [
+                4,
+                "car drain cleaning brush"
+            ],
+            [
+                5,
+                "drain cleaning bladder"
+            ],
+            [
+                6,
+                "drain cleaning foam"
+            ],
+            [
+                7,
+                "drain cleaning machine"
+            ],
+            [
+                8,
+                "drain cleaning tablets"
+            ],
+            [
+                9,
+                "drain cleaning equipment"
+            ],
+            [
+                0,
+                "pipe installation foam tubes"
+            ],
+            [
+                1,
+                "pipe installation"
+            ],
+            [
+                2,
+                "pipe installation wrap"
+            ],
+            [
+                3,
+                "pipe installation tool"
+            ],
+            [
+                4,
+                "pipe installation foam"
+            ],
+            [
+                5,
+                "pipe installation foam tubes white"
+            ],
+            [
+                6,
+                "pipe installation tape"
+            ],
+            [
+                7,
+                "pipe installation foam tape"
+            ],
+            [
+                8,
+                "pipe installation cover"
+            ],
+            [
+                9,
+                "pipe installation tubing"
+            ],
+            [
+                0,
+                "water heater repair kit"
+            ],
+            [
+                1,
+                "water heater repair"
+            ],
+            [
+                2,
+                "water heater repair kit gas"
+            ],
+            [
+                3,
+                "water heater repair parts"
+            ],
+            [
+                4,
+                "water heater repair book"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "emergency plumber near me"
+            ],
+            [
+                1,
+                "emergency plumber"
+            ],
+            [
+                2,
+                "emergency plumbers wiltshire"
+            ],
+            [
+                3,
+                "emergency plumber cappagh"
+            ],
+            [
+                4,
+                "emergency plumber clonburris great"
+            ],
+            [
+                5,
+                "emergency plumbers kilmarnock"
+            ],
+            [
+                6,
+                "emergency plumbers pretoria east"
+            ],
+            [
+                7,
+                "emergency plumbers haverhill"
+            ],
+            [
+                0,
+                "affordable plumbers near me"
+            ],
+            [
+                1,
+                "affordable plumber near me free quote"
+            ],
+            [
+                2,
+                "affordable plumbers near me reviews"
+            ],
+            [
+                3,
+                "affordable plumbers in aston"
+            ],
+            [
+                4,
+                "affordable plumbers in north anston"
+            ],
+            [
+                5,
+                "affordable plumbers near me emergency"
+            ],
+            [
+                6,
+                "affordable plumbers san diego"
+            ],
+            [
+                7,
+                "affordable plumbers near me contact"
+            ],
+            [
+                0,
+                "licensed plumber"
+            ],
+            [
+                1,
+                "licensed plumber west end"
+            ],
+            [
+                2,
+                "licensed plumber mayfair"
+            ],
+            [
+                3,
+                "licensed plumber near me"
+            ],
+            [
+                4,
+                "licensed plumbers in markham"
+            ],
+            [
+                5,
+                "licensed plumbers nyc"
+            ],
+            [
+                6,
+                "licensed plumbers in scarborough"
+            ],
+            [
+                7,
+                "licensed plumbers reno"
+            ],
+            [
+                0,
+                "plumbing repair near me"
+            ],
+            [
+                1,
+                "plumbing repair temple bar"
+            ],
+            [
+                2,
+                "plumbing repair north dock"
+            ],
+            [
+                3,
+                "plumbing repair"
+            ],
+            [
+                4,
+                "plumbing repair services"
+            ],
+            [
+                5,
+                "plumbing repair tucson az tucson handy guys"
+            ],
+            [
+                6,
+                "plumbing repair tape"
+            ],
+            [
+                7,
+                "plumbing repair austin"
+            ],
+            [
+                0,
+                "leakdetector.no"
+            ],
+            [
+                1,
+                "leaf detection"
+            ],
+            [
+                2,
+                "leaf detection system"
+            ],
+            [
+                3,
+                "lead detection equipment"
+            ],
+            [
+                4,
+                "lake detective mn"
+            ],
+            [
+                5,
+                "lead detection tds"
+            ],
+            [
+                6,
+                "leaf detection project"
+            ],
+            [
+                7,
+                "leaf detection images"
+            ],
+            [
+                0,
+                "drain cleaning near me"
+            ],
+            [
+                1,
+                "drain cleaning innenstadt"
+            ],
+            [
+                2,
+                "drain cleaning nordend-west"
+            ],
+            [
+                3,
+                "drain cleaning"
+            ],
+            [
+                4,
+                "drain cleaning machine"
+            ],
+            [
+                5,
+                "drain cleaning tools"
+            ],
+            [
+                6,
+                "drain cleaning brush"
+            ],
+            [
+                7,
+                "drain cleaning australia"
+            ],
+            [
+                0,
+                "pipe installation"
+            ],
+            [
+                1,
+                "pipe installation guide"
+            ],
+            [
+                2,
+                "pipe installation symbols"
+            ],
+            [
+                3,
+                "pipe installation sac code"
+            ],
+            [
+                4,
+                "pipe installation hsn code"
+            ],
+            [
+                5,
+                "pipe installation methods"
+            ],
+            [
+                6,
+                "pipe installation cost per foot"
+            ],
+            [
+                7,
+                "pipe installation cost"
+            ],
+            [
+                0,
+                "water heater repair near me"
+            ],
+            [
+                1,
+                "water heater repair"
+            ],
+            [
+                2,
+                "water heater repair los angeles 24/7"
+            ],
+            [
+                3,
+                "water heater repair downey jd air plumbing"
+            ],
+            [
+                4,
+                "water heater repair saginaw mi"
+            ],
+            [
+                5,
+                "water heater repair lakewood jd air plumbing"
+            ],
+            [
+                6,
+                "water heater repair kansas city"
+            ],
+            [
+                7,
+                "water heater repair huntington beach"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "plumbing repair kit"
+            ],
+            [
+                1,
+                "plumbing repair parts"
+            ],
+            [
+                0,
+                "leak detection pump"
+            ],
+            [
+                1,
+                "leak detection equipment"
+            ],
+            [
+                2,
+                "leak detection tools"
+            ],
+            [
+                3,
+                "leak detection pump filter"
+            ],
+            [
+                4,
+                "leak detection"
+            ],
+            [
+                5,
+                "evap leak detection pump"
+            ],
+            [
+                6,
+                "fuel vapor leak detection pump"
+            ],
+            [
+                7,
+                "uv leak detection dye"
+            ],
+            [
+                8,
+                "pool leak detection kit"
+            ],
+            [
+                9,
+                "evaporative emissions system leak detection pump"
+            ],
+            [
+                0,
+                "drain cleaning machine"
+            ],
+            [
+                1,
+                "drain cleaning tool"
+            ],
+            [
+                2,
+                "drain cleaning cable"
+            ],
+            [
+                3,
+                "drain cleaning bladder"
+            ],
+            [
+                4,
+                "drain cleaning brush"
+            ],
+            [
+                5,
+                "drain cleaning machines tools"
+            ],
+            [
+                6,
+                "drain cleaning snake"
+            ],
+            [
+                7,
+                "drain cleaning machine 100 ft"
+            ],
+            [
+                8,
+                "drain cleaning"
+            ],
+            [
+                9,
+                "sunroof drain cleaning tool"
+            ],
+            [
+                0,
+                "water heater repair kit"
             ]
         ],
         "indeed": [
             [
                 0,
                 "licensed plumber"
+            ],
+            [
+                0,
+                "leak detection"
+            ],
+            [
+                0,
+                "drain cleaning"
+            ],
+            [
+                0,
+                "tile installation"
             ]
         ],
         "yahoo": [
@@ -1126,115 +1995,203 @@
             ],
             [
                 0,
-                "plumber to check for leaks"
+                "plumbing repair"
             ],
             [
                 1,
-                "plumber for shower leaks"
+                "plumbing repair near me"
             ],
             [
                 2,
-                "plumber for water leaks"
+                "plumbing repair services near me"
             ],
             [
                 3,
-                "plumber putty for leaks"
+                "plumbing repair services"
             ],
             [
                 4,
-                "plumber tape for leaks"
+                "plumbing repair parts"
             ],
             [
                 5,
-                "plumber for gas leaks"
+                "plumbing repair cost estimator"
             ],
             [
                 6,
-                "plumber for slab leaks"
+                "plumbing repair instructions"
             ],
             [
                 7,
-                "plumber for outside leaks"
+                "plumbing repair tape"
+            ],
+            [
+                8,
+                "plumbing repair wrench"
+            ],
+            [
+                9,
+                "plumbing repair company"
             ],
             [
                 0,
-                "plumber for clogged drain"
+                "leak detection services near me"
             ],
             [
                 1,
-                "plumber for clogged toilet"
+                "leak detection services"
             ],
             [
                 2,
-                "plumber valve for clogs"
+                "leak detection"
             ],
             [
                 3,
-                "plumber for clogged sink"
+                "leak detection equipment"
             ],
             [
                 4,
-                "plumber for clogged kitchen sink"
+                "leak detection company"
             ],
             [
                 5,
-                "plumber for clogged pipes"
+                "leak detection pump"
             ],
             [
                 6,
-                "plumber for clogged drain near me"
+                "leak detection system"
             ],
             [
                 7,
-                "plumber for clogged drains"
+                "leak detection device"
+            ],
+            [
+                8,
+                "leak detection near me"
+            ],
+            [
+                9,
+                "leak detection pros"
             ],
             [
                 0,
-                "should i tip a plumber for installation"
+                "drain cleaning near me"
             ],
             [
                 1,
-                "plumber for water heater installation"
+                "drain cleaning"
             ],
             [
                 2,
-                "plumber for gas line installation"
+                "drain cleaning services near me"
             ],
             [
                 3,
-                "plumber for toilet installation"
+                "drain cleaning brush"
             ],
             [
                 4,
-                "plumber for dishwasher installation"
+                "drain cleaning machine"
             ],
             [
                 5,
-                "plumber for sink installation"
+                "drain cleaning tools"
+            ],
+            [
+                6,
+                "drain cleaning with vinegar and baking soda"
+            ],
+            [
+                7,
+                "drain cleaning companies"
+            ],
+            [
+                8,
+                "drain cleaning bladder"
+            ],
+            [
+                9,
+                "drain cleaning australia"
             ],
             [
                 0,
-                "plumber 24/7"
+                "pipe installation"
             ],
             [
                 1,
-                "plumber 24/7 near me"
+                "pipe installation procedure"
             ],
             [
                 2,
-                "emergency plumber 24/7"
+                "pipe installation walmart"
             ],
             [
                 3,
-                "louisville ky plumber 24/7"
+                "pipe installation cost estimator"
             ],
             [
                 4,
-                "plumber 24-7 service"
+                "pipe installation for school projects"
             ],
             [
                 5,
-                "emergency plumber 24/7 near me"
+                "pipe installation companies near me"
+            ],
+            [
+                6,
+                "pipe installation grey vs black"
+            ],
+            [
+                7,
+                "pipe installation bracket"
+            ],
+            [
+                8,
+                "pipe installation equipment"
+            ],
+            [
+                9,
+                "pipe installation contractors"
+            ],
+            [
+                0,
+                "water heater repair"
+            ],
+            [
+                1,
+                "water heater repair near me"
+            ],
+            [
+                2,
+                "water heater repair service"
+            ],
+            [
+                3,
+                "water heater repair companies"
+            ],
+            [
+                4,
+                "water heater repair service near you"
+            ],
+            [
+                5,
+                "water heater repair cost"
+            ],
+            [
+                6,
+                "water heater repair pilot light"
+            ],
+            [
+                7,
+                "water heater repair parts"
+            ],
+            [
+                8,
+                "water heater repairman near me"
+            ],
+            [
+                9,
+                "water heater repair kit"
             ]
         ],
         "youtube": [
@@ -1264,11 +2221,203 @@
             ],
             [
                 0,
-                "plumber installation"
+                "plumbing repair"
+            ],
+            [
+                1,
+                "plumbing repair under slab"
+            ],
+            [
+                2,
+                "plumbing repair coupling"
+            ],
+            [
+                3,
+                "plumbing repair videos"
+            ],
+            [
+                4,
+                "plumbing repair tape"
+            ],
+            [
+                5,
+                "plumbing repair work"
+            ],
+            [
+                6,
+                "plumbing repair tools"
+            ],
+            [
+                7,
+                "plumbing repair tips"
+            ],
+            [
+                8,
+                "plumbing repair work in house"
+            ],
+            [
+                9,
+                "plumbing repairs do it yourself"
             ],
             [
                 0,
-                "aaron the plumber 24 hours"
+                "leak detection equipment"
+            ],
+            [
+                1,
+                "leak detection"
+            ],
+            [
+                2,
+                "leak detection pump"
+            ],
+            [
+                3,
+                "leak detection plumbing"
+            ],
+            [
+                4,
+                "leak detection pool"
+            ],
+            [
+                5,
+                "leak detection hvac"
+            ],
+            [
+                6,
+                "leak detection business"
+            ],
+            [
+                7,
+                "leak detection pump test"
+            ],
+            [
+                8,
+                "leak detection dye"
+            ],
+            [
+                9,
+                "leak detection system"
+            ],
+            [
+                0,
+                "drain cleaning australia"
+            ],
+            [
+                1,
+                "drain cleaning"
+            ],
+            [
+                2,
+                "drain cleaning bladder"
+            ],
+            [
+                3,
+                "drain cleaning foam"
+            ],
+            [
+                4,
+                "drain cleaning business"
+            ],
+            [
+                5,
+                "drain cleaning machine"
+            ],
+            [
+                6,
+                "drain cleaning satisfying"
+            ],
+            [
+                7,
+                "drain cleaning tools"
+            ],
+            [
+                8,
+                "drain cleaning australia youtube"
+            ],
+            [
+                9,
+                "drain cleaning australia grease trap"
+            ],
+            [
+                0,
+                "pipe installation"
+            ],
+            [
+                1,
+                "pipe installation process"
+            ],
+            [
+                2,
+                "pipe installation in bathroom"
+            ],
+            [
+                3,
+                "pipe installation procedure"
+            ],
+            [
+                4,
+                "pipe installation methods"
+            ],
+            [
+                5,
+                "pipe installation sniper 155"
+            ],
+            [
+                6,
+                "pipe installation click 125i"
+            ],
+            [
+                7,
+                "chimney pipe installation"
+            ],
+            [
+                8,
+                "pex pipe installation"
+            ],
+            [
+                9,
+                "drainage pipe installation"
+            ],
+            [
+                0,
+                "water heater repair"
+            ],
+            [
+                1,
+                "water heater repair electric"
+            ],
+            [
+                2,
+                "water heater repair gas"
+            ],
+            [
+                3,
+                "water heater repair leak"
+            ],
+            [
+                4,
+                "water heater repair kit"
+            ],
+            [
+                5,
+                "water heater repair at home"
+            ],
+            [
+                6,
+                "water heater repair cost"
+            ],
+            [
+                7,
+                "water heater repair telugu"
+            ],
+            [
+                8,
+                "water heater repair tamil"
+            ],
+            [
+                9,
+                "water heater repair near me"
             ]
         ]
     },
@@ -1276,10 +2425,17 @@
         "articles": [
             {
                 "title": "Plumber",
-                "views": 5300,
+                "views": 5474,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.538
+            },
+            {
+                "title": "Leak detection",
+                "views": 752,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 4,
@@ -1290,170 +2446,168 @@
     },
     "pages": [
         {
+            "group": "Plumbing Services",
+            "title": "drain cleaning",
+            "intent": "transactional",
+            "keywords": [
+                "drain cleaning",
+                "drain unblocking",
+                "drainage",
+                "sewage",
+                "drain cleaning machine",
+                "drain cleaning tool",
+                "drain cleaning bladder",
+                "drain cleaning brush"
+            ]
+        },
+        {
+            "group": "Plumbing Services",
+            "title": "plumbing repair",
+            "intent": "transactional",
+            "keywords": [
+                "plumbing repair",
+                "list of tools and equipment",
+                "maintenance",
+                "plumbing",
+                "plumbing codes",
+                "plumbing insurance",
+                "plumbing services",
+                "plumbing tools",
+                "plumbing warranty",
+                "plumbing repair parts",
+                "plumbing repair tape",
+                "plumbing repair kit",
+                "plumbing repair services"
+            ]
+        },
+        {
+            "group": "Plumbing Services",
+            "title": "water heater repair",
+            "intent": "transactional",
+            "keywords": [
+                "water heater repair",
+                "water heater repair service",
+                "water heater repair kit",
+                "water heater repair cost"
+            ]
+        },
+        {
+            "group": "Licensed Plumbers",
+            "title": "licensed plumber",
+            "intent": "commercial",
+            "keywords": [
+                "licensed plumber",
+                "plumbing certification",
+                "affordable plumbers near me",
+                "licensed plumbers near me",
+                "affordable plumbers",
+                "licensed plumbers in my area"
+            ]
+        },
+        {
+            "group": "Licensed Plumbers",
+            "title": "plumber near me",
+            "intent": "transactional",
+            "keywords": [
+                "plumber services",
+                "plumber near me free estimate",
+                "plumber near me cheap",
+                "which plumbers near me",
+                "plumber near me reviews",
+                "plumber reviews"
+            ]
+        },
+        {
             "group": "Emergency Plumbing",
             "title": "emergency plumber",
             "intent": "transactional",
             "keywords": [
                 "emergency plumber",
-                "plumber services",
-                "plumbing",
-                "repairs",
                 "plumber near me emergency",
-                "emergency plumbers in my area",
-                "emergency plumber 24/7",
-                "emergency plumber service"
+                "plumber near me residential",
+                "emergency plumbers in my area"
             ]
         },
         {
-            "group": "Emergency Plumbing",
-            "title": "plumber 24/7",
+            "group": "Leak Detection",
+            "title": "leak detection",
             "intent": "transactional",
             "keywords": [
-                "plumber 24/7",
-                "plumber 24/7 near me",
-                "plumber near me 24 hour",
-                "plumber 24 7 near me"
+                "leak detection",
+                "leak repair",
+                "leak detection pump",
+                "leak detection equipment"
             ]
         },
         {
-            "group": "Plumbing Services",
-            "title": "plumber installation",
-            "intent": "commercial",
+            "group": "Pipe Installation",
+            "title": "pipe installation",
+            "intent": "transactional",
             "keywords": [
-                "plumber installation",
-                "fixtures",
+                "pipe installation",
                 "install",
-                "installation",
-                "list of tools and equipment",
+                "pipe fitting",
                 "piping",
-                "plumber sink installation",
-                "plumber for dishwasher installation",
-                "plumber for toilet installation"
-            ]
-        },
-        {
-            "group": "Plumbing Services",
-            "title": "plumber for clogged drain near me",
-            "intent": "transactional",
-            "keywords": [
-                "plumber for clogged drain near me",
-                "clogs",
-                "drainage",
-                "drains",
-                "leaks",
-                "maintenance",
-                "sewage",
-                "water",
-                "plumber to check for leaks",
-                "plumber for water leaks"
-            ]
-        },
-        {
-            "group": "Licensed Plumbing",
-            "title": "licensed plumber",
-            "intent": "commercial",
-            "keywords": [
-                "licensed plumber",
-                "plumber certification",
-                "plumber insurance",
-                "plumber warranty",
-                "licensed plumbers near me",
-                "licensed plumbers in my area"
-            ]
-        },
-        {
-            "group": "Affordable Plumbing",
-            "title": "affordable plumbers near me",
-            "intent": "commercial",
-            "keywords": [
-                "affordable plumbers near me",
-                "plumber rates",
-                "affordable plumbers",
-                "plumber near me cheap",
-                "affordable plumbers in my area"
-            ]
-        },
-        {
-            "group": "Plumbing Repairs",
-            "title": "plumber near me reviews",
-            "intent": "commercial",
-            "keywords": [
-                "plumber near me reviews",
-                "plumber near me free estimate",
-                "plumber reviews"
-            ]
-        },
-        {
-            "group": "Plumbing Repairs",
-            "title": "plumber putty for leaks",
-            "intent": "informational",
-            "keywords": [
-                "plumber putty for leaks",
-                "plumber tape for leaks",
-                "pipes",
-                "plumber tools"
+                "water pressure"
             ]
         }
     ],
     "categories": {
+        "pipe installation": "commercial",
+        "drain cleaning": "commercial",
+        "water heater repair": "commercial",
+        "leak detection": "commercial",
         "licensed plumber": "core",
+        "plumbing repair": "commercial",
+        "drain cleaning machine": "commercial",
+        "drain cleaning tool": "commercial",
         "emergency plumber": "commercial",
+        "leak detection pump": "commercial",
+        "drain cleaning bladder": "commercial",
         "plumber near me emergency": "commercial",
-        "affordable plumbers near me": "core",
-        "plumber 24/7": "commercial",
-        "plumber installation": "core",
-        "licensed plumbers near me": "core",
         "plumber near me free estimate": "commercial",
-        "plumber 24/7 near me": "commercial",
+        "plumbing repair parts": "commercial",
+        "water heater repair kit": "commercial",
+        "leak detection equipment": "commercial",
+        "plumbing repair tape": "commercial",
+        "affordable plumbers near me": "commercial",
+        "water heater repair near me": "commercial",
+        "licensed plumbers near me": "commercial",
+        "plumbing repair near me": "commercial",
         "affordable plumbers": "commercial",
-        "licensed plumbers in my area": "core",
+        "licensed plumbers in my area": "commercial",
+        "plumber near me residential": "commercial",
+        "plumbing repair services": "commercial",
+        "plumbing repair kit": "commercial",
         "emergency plumbers in my area": "commercial",
-        "plumber sink installation": "core",
+        "drain cleaning brush": "commercial",
+        "water heater repair cost": "commercial",
         "plumber near me cheap": "commercial",
+        "water heater repair service": "commercial",
+        "which plumbers near me": "commercial",
         "plumber near me reviews": "commercial",
-        "plumber to check for leaks": "commercial",
-        "affordable plumbers in my area": "commercial",
-        "plumber for dishwasher installation": "complementary",
-        "plumber for toilet installation": "complementary",
-        "plumber near me 24 hour": "commercial",
-        "plumber putty for leaks": "complementary",
-        "plumber tape for leaks": "complementary",
-        "plumber 24 7 near me": "commercial",
-        "plumber for clogged drain near me": "commercial",
-        "plumber for water leaks": "commercial",
-        "emergency plumber 24/7": "commercial",
-        "emergency plumber service": "commercial",
-        "plumber rates": "commercial",
         "plumber services": "commercial",
-        "plumber tools": "complementary",
-        "plumber certification": "complementary",
-        "plumber insurance": "complementary",
-        "plumber warranty": "complementary",
         "plumber reviews": "commercial",
-        "pipes": "complementary",
-        "leaks": "commercial",
-        "clogs": "commercial",
-        "drains": "commercial",
-        "fixtures": "complementary",
-        "repairs": "commercial",
-        "installation": "core",
-        "maintenance": "commercial",
-        "certification": "doubtful",
-        "water": "commercial",
+        "plumbing services": "commercial",
+        "leak repair": "commercial",
+        "pipe fitting": "commercial",
+        "drain unblocking": "commercial",
+        "water pressure": "commercial",
+        "plumbing tools": "commercial",
+        "plumbing codes": "commercial",
+        "plumbing warranty": "commercial",
+        "plumbing insurance": "commercial",
+        "plumbing certification": "core",
+        "water": "doubtful",
         "plumbing": "commercial",
         "tradesman": "doubtful",
         "sewage": "commercial",
         "drainage": "commercial",
-        "install": "complementary",
-        "list of tools and equipment": "complementary",
+        "install": "commercial",
+        "maintenance": "commercial",
+        "list of tools and equipment": "commercial",
         "pipefitter": "doubtful",
-        "piping": "complementary",
-        "plumber near me residential": "doubtful",
-        "plumber fitting near me": "doubtful",
-        "plumber near me now": "doubtful",
-        "plumber near me open now": "doubtful",
-        "plumbing jobs near me": "doubtful",
-        "plumber near me in southfields": "doubtful",
-        "plumbing vacancies near me": "doubtful"
+        "piping": "commercial",
+        "drain cleaning near me": "doubtful"
     }
 }
