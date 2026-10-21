@@ -15,12 +15,12 @@
     "failed": [],
     "concepts": [
         "container orchestration",
+        "kubernetes vs docker swarm",
         "kubernetes pods",
         "kubernetes services",
-        "helm charts",
         "kubernetes ingress",
-        "kubernetes persistent volumes",
-        "kubernetes operators",
+        "helm charts",
+        "kubernetes monitoring",
         "cloud native computing foundation"
     ],
     "suggestions": {
@@ -35,10 +35,12 @@
             "what is kubernetes operator",
             "what is kubernetes review",
             "what is kubernetes near me",
-            "what is kubernetes container",
+            "what is kubernetes manifest",
             "what is kubernetes online",
             "what is kubernetes in simple terms",
-            "what is kubernetes deployment"
+            "what is kubernetes good for",
+            "what is kubernetes namespace",
+            "what is kubernetes architecture"
         ],
         "duckduckgo": [
             "what is kubernetes",
@@ -191,6 +193,74 @@
             ],
             [
                 0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "docker swarm vs kubernetes vs docker compose"
+            ],
+            [
+                2,
+                "what is docker swarm vs kubernetes"
+            ],
+            [
+                3,
+                "docker swarm vs kubernetes cluster"
+            ],
+            [
+                4,
+                "docker swarm vs kubernetes reddit"
+            ],
+            [
+                5,
+                "docker swarm vs kubernetes difference"
+            ],
+            [
+                6,
+                "docker vs docker swarm"
+            ],
+            [
+                7,
+                "docker standalone vs swarm"
+            ],
+            [
+                8,
+                "kubernetes vs docker reddit"
+            ],
+            [
+                9,
+                "when to use kubernetes vs docker"
+            ],
+            [
+                10,
+                "docker vs kubernetes difference"
+            ],
+            [
+                11,
+                "is docker swarm deprecated"
+            ],
+            [
+                12,
+                "what is a docker swarm"
+            ],
+            [
+                13,
+                "using docker swarm secrets"
+            ],
+            [
+                14,
+                "diff bw docker vs kubernetes"
+            ],
+            [
+                15,
+                "difference between docker and docker swarm"
+            ],
+            [
+                16,
+                "what is docker vs kubernetes"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -279,58 +349,6 @@
             ],
             [
                 0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts kubernetes"
-            ],
-            [
-                2,
-                "helm charts tutorial"
-            ],
-            [
-                3,
-                "helm charts explained"
-            ],
-            [
-                4,
-                "helm charts repository"
-            ],
-            [
-                5,
-                "helm charts hub"
-            ],
-            [
-                6,
-                "helm charts commands"
-            ],
-            [
-                7,
-                "helm charts install"
-            ],
-            [
-                8,
-                "helm charts meaning"
-            ],
-            [
-                9,
-                "helm charts vs terraform"
-            ],
-            [
-                10,
-                "helm charts documentation"
-            ],
-            [
-                11,
-                "helm charts kubernetes deployment"
-            ],
-            [
-                12,
-                "helm charts kubernetes tutorial"
-            ],
-            [
-                0,
                 "kubernetes ingress"
             ],
             [
@@ -391,87 +409,123 @@
             ],
             [
                 0,
-                "kubernetes persistent volumes"
+                "helm charts"
             ],
             [
                 1,
-                "kubernetes persistent volume spec"
+                "helm charts kubernetes"
             ],
             [
                 2,
-                "kubernetes persistent volume claim"
+                "helm charts tutorial"
             ],
             [
                 3,
-                "kubernetes persistent volume yaml"
+                "helm charts explained"
             ],
             [
                 4,
-                "kubernetes persistent volume access modes"
+                "helm charts repository"
             ],
             [
                 5,
-                "kubernetes persistent volume hostpath"
+                "helm charts hub"
             ],
             [
                 6,
-                "kubernetes persistent volume nfs"
+                "helm charts commands"
             ],
             [
                 7,
-                "kubernetes persistent volume encryption"
+                "helm charts install"
             ],
             [
                 8,
-                "kubernetes persistent volume reclaim policy"
-            ],
-            [
-                0,
-                "kubernetes operators"
-            ],
-            [
-                1,
-                "kubernetes operators list"
-            ],
-            [
-                2,
-                "kubernetes operators examples"
-            ],
-            [
-                3,
-                "kubernetes operators explained"
-            ],
-            [
-                4,
-                "kubernetes operators for databases"
-            ],
-            [
-                5,
-                "kubernetes operators and controllers"
-            ],
-            [
-                6,
-                "train kubernetes operators"
-            ],
-            [
-                7,
-                "what are kubernetes operators"
-            ],
-            [
-                8,
-                "kubernetes security guide for operators"
+                "helm charts meaning"
             ],
             [
                 9,
-                "kubernetes node affinity operators"
+                "helm charts vs terraform"
+            ],
+            [
+                10,
+                "helm charts documentation"
+            ],
+            [
+                11,
+                "helm charts kubernetes deployment"
+            ],
+            [
+                12,
+                "helm charts kubernetes tutorial"
             ],
             [
                 0,
-                "cloud native computing foundation cncf"
+                "kubernetes monitoring"
             ],
             [
                 1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring dynatrace"
+            ],
+            [
+                3,
+                "kubernetes monitoring metrics api"
+            ],
+            [
+                4,
+                "kubernetes monitoring metrics examples"
+            ],
+            [
+                5,
+                "kubernetes monitoring metrics dashboard"
+            ],
+            [
+                6,
+                "kubernetes monitoring metrics documentation"
+            ],
+            [
+                7,
+                "kubernetes monitoring metrics collection"
+            ],
+            [
+                8,
+                "kubernetes monitoring metrics comparison"
+            ],
+            [
+                9,
+                "kubernetes monitoring resources with datadog"
+            ],
+            [
+                10,
+                "kubernetes monitoring resources with loki"
+            ],
+            [
+                11,
+                "kubernetes monitoring metrics with grafana"
+            ],
+            [
+                12,
+                "kubernetes monitoring resources with jaeger"
+            ],
+            [
+                13,
+                "kubernetes monitoring metrics configuration"
+            ],
+            [
+                14,
+                "kubernetes monitoring metrics with prometheus"
+            ],
+            [
+                0,
                 "cloud native computing foundation"
+            ],
+            [
+                1,
+                "cloud native computing foundation cncf"
             ],
             [
                 2,
@@ -483,7 +537,7 @@
             ],
             [
                 4,
-                "cloud native computing foundation cka"
+                "cloud native computing foundation certs"
             ],
             [
                 5,
@@ -491,7 +545,7 @@
             ],
             [
                 6,
-                "cloud native computing foundation news"
+                "cloud native computing foundation standards"
             ],
             [
                 7,
@@ -499,23 +553,23 @@
             ],
             [
                 8,
-                "cloud native computing foundation certs"
+                "cloud native computing foundation cka"
             ],
             [
                 9,
-                "cloud native computing foundation standards"
+                "cloud native computing foundation helm"
             ],
             [
                 10,
-                "cloud native computing foundation address"
-            ],
-            [
-                11,
                 "cloud native computing foundation slack"
             ],
             [
+                11,
+                "cloud native computing foundation japan"
+            ],
+            [
                 12,
-                "cloud native computing foundation helm"
+                "cloud native computing foundation address"
             ]
         ],
         "google": [
@@ -641,6 +695,46 @@
             ],
             [
                 0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm comparison table"
+            ],
+            [
+                2,
+                "kubernetes vs docker swarm reddit"
+            ],
+            [
+                3,
+                "kubernetes vs docker swarm mode"
+            ],
+            [
+                4,
+                "kubernetes vs docker swarm homelab"
+            ],
+            [
+                5,
+                "kubernetes vs docker swarm 2025"
+            ],
+            [
+                6,
+                "kubernetes or docker swarm"
+            ],
+            [
+                7,
+                "kubernetes cluster vs docker swarm"
+            ],
+            [
+                8,
+                "kubernetes vs docker swarm vs apache mesos"
+            ],
+            [
+                9,
+                "kubernetes vs docker swarm vs openshift"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -721,46 +815,6 @@
             ],
             [
                 0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts kubernetes"
-            ],
-            [
-                2,
-                "helm charts explained"
-            ],
-            [
-                3,
-                "helm charts repository"
-            ],
-            [
-                4,
-                "helm charts vs terraform"
-            ],
-            [
-                5,
-                "helm charts example"
-            ],
-            [
-                6,
-                "helm charts tutorial"
-            ],
-            [
-                7,
-                "helm charts vs kustomize"
-            ],
-            [
-                8,
-                "helm charts github"
-            ],
-            [
-                9,
-                "helm charts logo"
-            ],
-            [
-                0,
                 "kubernetes ingress"
             ],
             [
@@ -801,83 +855,83 @@
             ],
             [
                 0,
-                "kubernetes persistent volumes"
+                "helm charts"
             ],
             [
                 1,
-                "kubernetes persistent volumes grafana dashboard"
+                "helm charts kubernetes"
             ],
             [
                 2,
-                "kubernetes persistent volumes claim"
+                "helm charts explained"
             ],
             [
                 3,
-                "kubernetes persistent volumes dashboard"
+                "helm charts repository"
             ],
             [
                 4,
-                "kubernetes persistent volumes grafana"
+                "helm charts vs terraform"
             ],
             [
                 5,
-                "kubernetes persistent volumes access modes"
+                "helm charts example"
             ],
             [
                 6,
-                "kubectl persistent volumes"
+                "helm charts tutorial"
             ],
             [
                 7,
-                "kubernetes persistent volume example"
+                "helm charts vs kustomize"
             ],
             [
                 8,
-                "kubernetes persistent volume claim example"
+                "helm charts github"
             ],
             [
                 9,
-                "kubernetes persistent volume nfs"
+                "helm charts logo"
             ],
             [
                 0,
-                "kubernetes operators"
+                "kubernetes monitoring"
             ],
             [
                 1,
-                "kubernetes operators vs controllers"
+                "kubernetes monitoring tools"
             ],
             [
                 2,
-                "kubernetes operators book"
+                "kubernetes monitoring in dynatrace"
             ],
             [
                 3,
-                "kubernetes operators examples"
+                "kubernetes monitoring dashboard"
             ],
             [
                 4,
-                "kubernetes operators list"
+                "kubernetes monitoring prometheus"
             ],
             [
                 5,
-                "kubernetes operators pdf"
+                "kubernetes monitoring stack"
             ],
             [
                 6,
-                "kubernetes operators and controllers"
+                "kubernetes monitoring helm chart"
             ],
             [
                 7,
-                "kubernetes operators book pdf"
+                "kubernetes monitoring zabbix"
             ],
             [
                 8,
-                "kubernetes operators tutorial"
+                "kubernetes monitoring helm chart v4"
             ],
             [
                 9,
-                "kubernetes operators explained"
+                "kubernetes monitoring mode dynatrace"
             ],
             [
                 0,
@@ -924,14 +978,6 @@
             [
                 0,
                 "helm charts"
-            ],
-            [
-                0,
-                "kubernetes operators"
-            ],
-            [
-                1,
-                "kubernetes operators automating the container orchestration platform"
             ]
         ],
         "duckduckgo": [
@@ -969,6 +1015,38 @@
             ],
             [
                 0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "docker swarm vs kubernetes vs docker compose"
+            ],
+            [
+                2,
+                "what is docker swarm vs kubernetes"
+            ],
+            [
+                3,
+                "docker swarm vs kubernetes cluster"
+            ],
+            [
+                4,
+                "docker swarm vs kubernetes reddit"
+            ],
+            [
+                5,
+                "docker swarm vs kubernetes difference"
+            ],
+            [
+                6,
+                "docker vs docker swarm"
+            ],
+            [
+                7,
+                "docker standalone vs swarm"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -1001,19 +1079,19 @@
             ],
             [
                 0,
-                "kubernetes services"
-            ],
-            [
-                1,
                 "kubernetes services types"
             ],
             [
+                1,
+                "kubernetes services"
+            ],
+            [
                 2,
-                "kubernetes services azure"
+                "kubernetes services yaml"
             ],
             [
                 3,
-                "kubernetes services yaml"
+                "kubernetes services azure"
             ],
             [
                 4,
@@ -1025,43 +1103,11 @@
             ],
             [
                 6,
-                "kubernetes services list"
-            ],
-            [
-                7,
                 "kubernetes services and pods"
             ],
             [
-                0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts kubernetes"
-            ],
-            [
-                2,
-                "helm charts tutorial"
-            ],
-            [
-                3,
-                "helm charts explained"
-            ],
-            [
-                4,
-                "helm charts repository"
-            ],
-            [
-                5,
-                "helm charts hub"
-            ],
-            [
-                6,
-                "helm charts commands"
-            ],
-            [
                 7,
-                "helm charts install"
+                "kubernetes services list"
             ],
             [
                 0,
@@ -1097,67 +1143,67 @@
             ],
             [
                 0,
-                "kubernetes persistent volumes"
+                "helm charts"
             ],
             [
                 1,
-                "kubernetes persistent volume spec"
+                "helm charts kubernetes"
             ],
             [
                 2,
-                "kubernetes persistent volume claim"
+                "helm charts tutorial"
             ],
             [
                 3,
-                "kubernetes persistent volume yaml"
+                "helm charts explained"
             ],
             [
                 4,
-                "kubernetes persistent volume access modes"
+                "helm charts repository"
             ],
             [
                 5,
-                "kubernetes persistent volume hostpath"
+                "helm charts hub"
             ],
             [
                 6,
-                "kubernetes persistent volume nfs"
+                "helm charts commands"
             ],
             [
                 7,
-                "kubernetes persistent volume encryption"
+                "helm charts install"
             ],
             [
                 0,
-                "kubernetes operators"
+                "kubernetes monitoring tools"
             ],
             [
                 1,
-                "kubernetes operators list"
+                "kubernetes monitoring"
             ],
             [
                 2,
-                "kubernetes operators examples"
+                "kubernetes monitoring dynatrace"
             ],
             [
                 3,
-                "kubernetes operators explained"
+                "kubernetes monitoring metrics api"
             ],
             [
                 4,
-                "kubernetes operators for databases"
+                "kubernetes monitoring metrics examples"
             ],
             [
                 5,
-                "kubernetes operators and controllers"
+                "kubernetes monitoring metrics dashboard"
             ],
             [
                 6,
-                "train kubernetes operators"
+                "kubernetes monitoring metrics documentation"
             ],
             [
                 7,
-                "what are kubernetes operators"
+                "kubernetes monitoring metrics collection"
             ],
             [
                 0,
@@ -1235,6 +1281,46 @@
             ],
             [
                 0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                1,
+                "kubernetes vs docker swarm system"
+            ],
+            [
+                2,
+                "kubernetes vs docker swarm architecture"
+            ],
+            [
+                3,
+                "kubernetes vs docker swarm download"
+            ],
+            [
+                4,
+                "kubernetes vs docker swarm app"
+            ],
+            [
+                5,
+                "kubernetes vs docker swarm api"
+            ],
+            [
+                6,
+                "kubernetes vs docker swarm ai"
+            ],
+            [
+                7,
+                "kubernetes vs docker swarm software"
+            ],
+            [
+                8,
+                "kubernetes vs docker swarm python"
+            ],
+            [
+                9,
+                "kubernetes vs docker swarm windows"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -1299,46 +1385,6 @@
             ],
             [
                 0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts kubernetes"
-            ],
-            [
-                2,
-                "helm charts interview questions"
-            ],
-            [
-                3,
-                "helm charts installation"
-            ],
-            [
-                4,
-                "helm charts pronunciation"
-            ],
-            [
-                5,
-                "helm charts tutorial"
-            ],
-            [
-                6,
-                "helm charts points in resume"
-            ],
-            [
-                7,
-                "helm charts for jenkins"
-            ],
-            [
-                8,
-                "helm charts docker"
-            ],
-            [
-                9,
-                "helm charts repos"
-            ],
-            [
-                0,
                 "kubernetes ingress"
             ],
             [
@@ -1379,51 +1425,67 @@
             ],
             [
                 0,
-                "kubernetes persistent volume claim"
+                "helm charts"
             ],
             [
                 1,
-                "kubernetes persistent volume example"
+                "helm charts kubernetes"
             ],
             [
                 2,
-                "kubernetes persistent volume"
-            ],
-            [
-                0,
-                "kubernetes operators"
-            ],
-            [
-                1,
-                "kubernetes node affinity operators"
-            ],
-            [
-                2,
-                "kubernetes operator sdk"
+                "helm charts interview questions"
             ],
             [
                 3,
-                "kubernetes operators pdf"
+                "helm charts installation"
             ],
             [
                 4,
-                "kubernetes operator pattern"
+                "helm charts pronunciation"
             ],
             [
                 5,
-                "kubernetes operator example"
+                "helm charts tutorial"
             ],
             [
                 6,
-                "kubernetes operator hub"
+                "helm charts points in resume"
             ],
             [
                 7,
-                "kubernetes operator"
+                "helm charts for jenkins"
             ],
             [
                 8,
-                "kubernetes operator pdf"
+                "helm charts docker"
+            ],
+            [
+                9,
+                "helm charts repos"
+            ],
+            [
+                0,
+                "kubernetes monitoring prometheus"
+            ],
+            [
+                1,
+                "kubernetes monitoring tools"
+            ],
+            [
+                2,
+                "kubernetes monitoring"
+            ],
+            [
+                3,
+                "kubernetes monitoring dashboard"
+            ],
+            [
+                4,
+                "kubernetes monitoring grafana"
+            ],
+            [
+                5,
+                "kubernetes monitoring tool"
             ],
             [
                 0,
@@ -1497,6 +1559,10 @@
             ],
             [
                 0,
+                "kubernetes vs docker swarm"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -1561,46 +1627,6 @@
             ],
             [
                 0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts explained"
-            ],
-            [
-                2,
-                "helm charts kubernetes tutorial"
-            ],
-            [
-                3,
-                "helm charts kubernetes"
-            ],
-            [
-                4,
-                "helm charts tutorial"
-            ],
-            [
-                5,
-                "helm charts kubernetes in telugu"
-            ],
-            [
-                6,
-                "helm charts kubernetes tamil"
-            ],
-            [
-                7,
-                "helm charts openshift"
-            ],
-            [
-                8,
-                "helm charts kubernetes hindi"
-            ],
-            [
-                9,
-                "helm charts and argocd"
-            ],
-            [
-                0,
                 "kubernetes ingress"
             ],
             [
@@ -1641,19 +1667,71 @@
             ],
             [
                 0,
-                "kubernetes persistent volumes"
+                "helm charts"
             ],
             [
                 1,
-                "kubernetes persistent volume tutorial"
+                "helm charts explained"
+            ],
+            [
+                2,
+                "helm charts kubernetes tutorial"
+            ],
+            [
+                3,
+                "helm charts kubernetes"
+            ],
+            [
+                4,
+                "helm charts tutorial"
+            ],
+            [
+                5,
+                "helm charts kubernetes in telugu"
+            ],
+            [
+                6,
+                "helm charts kubernetes tamil"
+            ],
+            [
+                7,
+                "helm charts openshift"
+            ],
+            [
+                8,
+                "helm charts kubernetes hindi"
+            ],
+            [
+                9,
+                "helm charts and argocd"
             ],
             [
                 0,
-                "kubernetes operators"
+                "kubernetes monitoring"
             ],
             [
                 1,
-                "kubernetes operators tutorial"
+                "kubernetes monitoring grafana"
+            ],
+            [
+                2,
+                "kubernetes monitoring in dynatrace"
+            ],
+            [
+                3,
+                "kubernetes monitoring and alerting"
+            ],
+            [
+                4,
+                "kubernetes monitoring using prometheus & grafana"
+            ],
+            [
+                5,
+                "kubernetes monitoring with zabbix"
+            ],
+            [
+                6,
+                "kubernetes monitoring tools"
             ],
             [
                 0,
@@ -1685,31 +1763,7 @@
     },
     "pages": [
         {
-            "group": "Kubernetes Basics",
-            "title": "what is kubernetes",
-            "intent": "informational",
-            "keywords": [
-                "configmaps",
-                "deployments",
-                "docker",
-                "kubernetes vs docker swarm",
-                "namespaces",
-                "open-source software",
-                "replicasets",
-                "secrets",
-                "services",
-                "what is kubernetes cluster",
-                "clusters",
-                "what is kubernetes vs docker",
-                "what is kubernetes and docker",
-                "what is kubernetes for dummies",
-                "what is kubernetes and how does it work",
-                "what is kubernetes and how it works",
-                "what is kubernetes used for"
-            ]
-        },
-        {
-            "group": "Kubernetes Basics",
+            "group": "Kubernetes Components",
             "title": "kubernetes pods",
             "intent": "commercial",
             "keywords": [
@@ -1727,10 +1781,12 @@
             "intent": "informational",
             "keywords": [
                 "kubernetes services",
+                "kubernetes deployment strategies",
                 "open service mesh",
+                "services",
                 "kubernetes services types",
-                "kubernetes services yaml",
-                "kubernetes services explained"
+                "kubernetes services explained",
+                "kubernetes services yaml"
             ]
         },
         {
@@ -1743,17 +1799,63 @@
             ]
         },
         {
-            "group": "Kubernetes Components",
-            "title": "kubernetes persistent volumes",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes cluster",
             "intent": "informational",
             "keywords": [
-                "kubernetes persistent volumes",
-                "persistentvolumeclaims",
-                "kubernetes persistent volume claim"
+                "what is kubernetes cluster",
+                "what is kubernetes used for",
+                "clusters",
+                "configmaps",
+                "controllers",
+                "deployments",
+                "kubernetes architecture",
+                "kubernetes certification",
+                "kubernetes components",
+                "kubernetes cost management",
+                "kubernetes security",
+                "kubernetes troubleshooting",
+                "namespaces",
+                "persistent volumes",
+                "secrets",
+                "what is kubernetes for dummies",
+                "what is kubernetes and how does it work",
+                "what is kubernetes and how it works"
             ]
         },
         {
-            "group": "Kubernetes Tools",
+            "group": "Kubernetes Basics",
+            "title": "what is kubernetes vs docker",
+            "intent": "commercial",
+            "keywords": [
+                "what is kubernetes vs docker",
+                "docker",
+                "k3s",
+                "openshift",
+                "kubernetes vs docker swarm",
+                "what is kubernetes and docker"
+            ]
+        },
+        {
+            "group": "Container Orchestration",
+            "title": "container orchestration",
+            "intent": "informational",
+            "keywords": [
+                "container orchestration",
+                "cloud native computing foundation",
+                "cloud native computing foundation (cncf)",
+                "cloud native computing foundation landscape",
+                "containerization",
+                "kubernetes alternatives",
+                "list of cluster management software",
+                "open-source software",
+                "container orchestration tools",
+                "container orchestration meaning",
+                "container orchestration platforms"
+            ]
+        },
+        {
+            "group": "Helm and Charts",
             "title": "helm charts",
             "intent": "informational",
             "keywords": [
@@ -1764,86 +1866,70 @@
             ]
         },
         {
-            "group": "Kubernetes Tools",
-            "title": "kubernetes operators",
+            "group": "Kubernetes Monitoring",
+            "title": "kubernetes monitoring",
             "intent": "informational",
             "keywords": [
-                "kubernetes operators",
-                "kubernetes operators examples"
-            ]
-        },
-        {
-            "group": "Container Orchestration",
-            "title": "container orchestration",
-            "intent": "informational",
-            "keywords": [
-                "container orchestration",
-                "containerization",
-                "k3s",
-                "openshift",
-                "container orchestration tools",
-                "list of cluster management software",
-                "container orchestration meaning",
-                "container orchestration platforms"
-            ]
-        },
-        {
-            "group": "Ecosystem",
-            "title": "cloud native computing foundation",
-            "intent": "informational",
-            "keywords": [
-                "cloud native computing foundation",
-                "cloud native computing foundation (cncf)",
-                "cloud native computing foundation landscape"
+                "kubernetes monitoring",
+                "kubernetes monitoring tools",
+                "kubernetes monitoring prometheus",
+                "kubernetes monitoring in dynatrace"
             ]
         }
     ],
     "categories": {
         "helm charts": "core",
-        "kubernetes operators": "core",
         "what is kubernetes cluster": "core",
-        "cloud native computing foundation": "core",
+        "cloud native computing foundation": "complementary",
         "container orchestration": "core",
         "kubernetes ingress": "core",
         "kubernetes pods": "core",
         "kubernetes services": "core",
-        "kubernetes persistent volumes": "core",
+        "kubernetes vs docker swarm": "core",
+        "kubernetes monitoring": "core",
         "what is kubernetes vs docker": "core",
         "kubernetes ingress controller": "core",
         "helm charts kubernetes": "core",
+        "kubernetes monitoring tools": "core",
         "what is kubernetes and docker": "core",
         "what is kubernetes for dummies": "core",
-        "kubernetes persistent volume claim": "core",
         "kubernetes pods vs nodes": "core",
+        "kubernetes services types": "core",
         "container orchestration tools": "core",
         "helm charts explained": "core",
-        "kubernetes services types": "core",
         "helm charts tutorial": "core",
         "container orchestration meaning": "core",
         "what is kubernetes and how does it work": "core",
         "what is kubernetes pod": "core",
         "what is kubernetes and how it works": "core",
         "container orchestration platforms": "core",
-        "kubernetes operators examples": "core",
-        "what is kubernetes container": "doubtful",
         "kubernetes services yaml": "core",
         "kubernetes services explained": "core",
-        "cloud native computing foundation (cncf)": "core",
+        "cloud native computing foundation (cncf)": "complementary",
+        "what is kubernetes container": "doubtful",
         "what is kubernetes used for": "core",
         "cloud native computing foundation landscape": "complementary",
         "kubernetes pods vs nodes vs containers": "complementary",
-        "what is kubernetes for beginners": "doubtful",
-        "kubernetes vs docker swarm": "core",
+        "kubernetes monitoring in dynatrace": "complementary",
+        "kubernetes monitoring prometheus": "complementary",
+        "kubernetes architecture": "core",
+        "kubernetes components": "core",
+        "kubernetes deployment strategies": "core",
+        "kubernetes security": "core",
+        "kubernetes cost management": "commercial",
+        "kubernetes troubleshooting": "core",
+        "kubernetes certification": "commercial",
+        "kubernetes alternatives": "core",
         "pods": "core",
         "nodes": "core",
         "clusters": "core",
         "deployments": "core",
-        "replicasets": "core",
         "services": "core",
         "configmaps": "core",
         "secrets": "core",
-        "persistentvolumeclaims": "core",
+        "persistent volumes": "core",
         "namespaces": "core",
+        "controllers": "core",
         "open-source software": "complementary",
         "containerization": "complementary",
         "docker": "complementary",

@@ -345,11 +345,11 @@
             ],
             [
                 5,
-                "aspirateur balai rowenta leclerc"
+                "aspirateur balai rowenta air force"
             ],
             [
                 6,
-                "aspirateur balai rowenta air force"
+                "aspirateur balai rowenta leclerc"
             ],
             [
                 7,
@@ -699,43 +699,43 @@
             ],
             [
                 0,
-                "aspirateur balai rowenta"
-            ],
-            [
-                1,
                 "aspirateur balai rowenta sans fil"
             ],
             [
-                2,
+                1,
                 "aspirateur balai rowenta x-force flex"
             ],
             [
-                3,
+                2,
                 "aspirateur balai rowenta air force 360"
             ],
             [
-                4,
+                3,
                 "aspirateur balai rowenta promo"
             ],
             [
-                5,
+                4,
                 "aspirateur balai rowenta x force flex 10.80"
             ],
             [
-                6,
+                5,
                 "aspirateur balai rowenta flex"
             ],
             [
-                7,
+                6,
                 "aspirateur balai rowenta x pert 6.60"
             ],
             [
-                8,
+                7,
                 "aspirateur balai rowenta x force flex 9.60"
             ],
             [
-                9,
+                8,
                 "aspirateur balai rowenta x force flex 13.60 animal rh9a73wo"
+            ],
+            [
+                9,
+                "aspirateur balai rowenta darty"
             ],
             [
                 0,
@@ -1067,11 +1067,11 @@
             ],
             [
                 2,
-                "aspirateur balai pas cher sans fil"
+                "aspirateur balai pas cher et puissant"
             ],
             [
                 3,
-                "aspirateur balai pas cher et puissant"
+                "aspirateur balai pas cher sans fil"
             ],
             [
                 4,
@@ -1099,15 +1099,15 @@
             ],
             [
                 5,
-                "aspirateur balai dyson v12 origin"
+                "aspirateur balai dyson v16 piston animal"
             ],
             [
                 6,
-                "aspirateur balai dyson v10 absolute"
+                "aspirateur balai dyson v12 origin"
             ],
             [
                 7,
-                "aspirateur balai dyson v10"
+                "aspirateur balai dyson v15"
             ],
             [
                 0,
@@ -1131,11 +1131,11 @@
             ],
             [
                 5,
-                "aspirateur balai rowenta air force"
+                "aspirateur balai rowenta leclerc"
             ],
             [
                 6,
-                "aspirateur balai rowenta leclerc"
+                "aspirateur balai rowenta air force"
             ],
             [
                 7,
@@ -1607,66 +1607,36 @@
             }
         ],
         "sections": 4,
-        "types": []
+        "types": [
+            "maratunù"
+        ]
     },
     "pages": [
         {
-            "group": "Types d'aspirateurs balais",
-            "title": "aspirateur balai sans fil",
-            "intent": "commercial",
-            "keywords": [
-                "aspirateur balai sans fil",
-                "accessoires inclus",
-                "autonomie aspirateur balai",
-                "autonomie batterie",
-                "batterie aspirateur balai",
-                "brosse",
-                "capacité réservoir",
-                "filtre aspirateur balai",
-                "garantie aspirateur balai",
-                "outil",
-                "temps de charge",
-                "aspirateur balai sans fil rowenta",
-                "aspirateur balai léger sans fil",
-                "aspirateur balai kärcher sans fil"
-            ]
-        },
-        {
-            "group": "Types d'aspirateurs balais",
-            "title": "aspirateur balai puissant",
-            "intent": "commercial",
-            "keywords": [
-                "aspirateur balai puissant",
-                "puissance aspirateur balai",
-                "puissance d'aspiration",
-                "aspirateur balai puissant sans fil",
-                "aspirateur balai puissant et silencieux",
-                "aspirateur balai puissant comparatif"
-            ]
-        },
-        {
-            "group": "Types d'aspirateurs balais",
-            "title": "aspirateur balai léger",
-            "intent": "commercial",
-            "keywords": [
-                "aspirateur balai léger",
-                "poids aspirateur balai",
-                "aspirateur balai léger et puissant"
-            ]
-        },
-        {
-            "group": "Marques",
+            "group": "Marques d'aspirateurs balais",
             "title": "aspirateur balai rowenta",
             "intent": "commercial",
             "keywords": [
                 "aspirateur balai rowenta",
                 "meilleur aspirateur balai rowenta",
-                "aspirateur balai rowenta x force flex",
+                "aspirateur balai rowenta sans fil",
+                "aspirateur balai rowenta x-force flex",
                 "aspirateur balai rowenta flex"
             ]
         },
         {
-            "group": "Marques",
+            "group": "Marques d'aspirateurs balais",
+            "title": "aspirateur balai kärcher",
+            "intent": "commercial",
+            "keywords": [
+                "aspirateur balai kärcher",
+                "aspirateur balai karcher vc 7",
+                "aspirateur balai kärcher sans fil",
+                "aspirateur balai kärcher vc 6"
+            ]
+        },
+        {
+            "group": "Marques d'aspirateurs balais",
             "title": "aspirateur balai dyson",
             "intent": "commercial",
             "keywords": [
@@ -1677,54 +1647,75 @@
             ]
         },
         {
-            "group": "Marques",
-            "title": "aspirateur balai kärcher",
+            "group": "Types d'aspirateurs balais",
+            "title": "aspirateur balai sans fil",
             "intent": "commercial",
             "keywords": [
-                "aspirateur balai kärcher",
-                "aspirateur balai kärcher vc 6",
-                "aspirateur balai karcher vc 7"
+                "aspirateur balai sans fil",
+                "meilleur aspirateur balai sans fil",
+                "accessoires aspirateur balai",
+                "aspirateur balai 2 en 1",
+                "aspirateur balai avec éclairage",
+                "aspirateur balai sans sac",
+                "autonomie aspirateur balai",
+                "batterie aspirateur balai",
+                "brosse",
+                "brosse aspirateur balai",
+                "entretien aspirateur balai",
+                "filtre aspirateur balai",
+                "marques aspirateur balai",
+                "prix aspirateur balai",
+                "problèmes aspirateur balai",
+                "types d'aspirateur balai",
+                "aspirateur balai puissant sans fil",
+                "aspirateur balai léger sans fil"
+            ]
+        },
+        {
+            "group": "Types d'aspirateurs balais",
+            "title": "aspirateur balai puissant",
+            "intent": "commercial",
+            "keywords": [
+                "aspirateur balai puissant",
+                "puissance aspirateur balai",
+                "aspirateur balai puissant et silencieux",
+                "aspirateur balai léger et puissant"
+            ]
+        },
+        {
+            "group": "Types d'aspirateurs balais",
+            "title": "aspirateur balai léger",
+            "intent": "commercial",
+            "keywords": [
+                "aspirateur balai léger",
+                "aspirateur balai pour moquette",
+                "aspirateur balai pour sols durs"
             ]
         },
         {
             "group": "Guides d'achat",
-            "title": "meilleur aspirateur balai sans fil",
+            "title": "meilleur aspirateur balai pas cher",
             "intent": "commercial",
             "keywords": [
-                "meilleur aspirateur balai sans fil",
+                "meilleur aspirateur balai pas cher",
+                "aspirateur balai pas cher",
+                "aspirateur balai pas cher sans fil",
+                "aspirateur balai pas cher et efficace",
+                "aspirateur balai puissant pas cher"
+            ]
+        },
+        {
+            "group": "Guides d'achat",
+            "title": "meilleur aspirateur balai",
+            "intent": "commercial",
+            "keywords": [
                 "meilleur aspirateur balai 2025",
                 "meilleur aspirateur balai 2026",
                 "meilleur aspirateur balai sans fil 2026"
             ]
         },
         {
-            "group": "Guides d'achat",
-            "title": "meilleur aspirateur balai",
-            "intent": "informational",
-            "keywords": [
-                "accessoires aspirateur balai",
-                "brosse aspirateur balai",
-                "entretien aspirateur balai",
-                "marques aspirateur balai",
-                "problèmes aspirateur balai",
-                "types d'aspirateur balai"
-            ]
-        },
-        {
-            "group": "Budget",
-            "title": "aspirateur balai pas cher",
-            "intent": "commercial",
-            "keywords": [
-                "aspirateur balai pas cher",
-                "prix aspirateur balai",
-                "aspirateur balai pas cher sans fil",
-                "aspirateur balai pas cher et efficace",
-                "aspirateur balai puissant pas cher",
-                "meilleur aspirateur balai pas cher"
-            ]
-        },
-        {
-            "group": "Usage spécifique",
+            "group": "Utilisations spécifiques",
             "title": "meilleur aspirateur balai poils animaux",
             "intent": "commercial",
             "keywords": [
@@ -1734,12 +1725,19 @@
             ]
         },
         {
-            "group": "Usage spécifique",
+            "group": "Utilisations spécifiques",
             "title": "meilleur aspirateur balai laveur",
             "intent": "commercial",
             "keywords": [
-                "meilleur aspirateur balai laveur",
-                "serpillère"
+                "meilleur aspirateur balai laveur"
+            ]
+        },
+        {
+            "group": "Comparatifs et tests",
+            "title": "aspirateur balai puissant comparatif",
+            "intent": "commercial",
+            "keywords": [
+                "aspirateur balai puissant comparatif"
             ]
         }
     ],
@@ -1748,11 +1746,11 @@
         "aspirateur balai sans fil": "core",
         "aspirateur balai pas cher": "commercial",
         "aspirateur balai puissant": "core",
-        "aspirateur balai rowenta": "core",
-        "aspirateur balai kärcher": "core",
-        "aspirateur balai sans fil rowenta": "core",
+        "aspirateur balai kärcher": "commercial",
+        "aspirateur balai rowenta sans fil": "commercial",
+        "aspirateur balai rowenta": "commercial",
         "aspirateur balai pas cher sans fil": "commercial",
-        "aspirateur balai dyson": "core",
+        "aspirateur balai dyson": "commercial",
         "aspirateur balai léger": "core",
         "aspirateur balai puissant sans fil": "core",
         "meilleur aspirateur balai 2025": "core",
@@ -1762,25 +1760,25 @@
         "meilleur aspirateur balai 2026": "core",
         "meilleur aspirateur balai laveur": "core",
         "meilleur aspirateur balai poils animaux": "core",
-        "aspirateur balai kärcher sans fil": "core",
+        "aspirateur balai kärcher sans fil": "commercial",
         "meilleur aspirateur balai sans fil 2026": "core",
         "aspirateur balai pas cher et efficace": "commercial",
+        "aspirateur balai rowenta x-force flex": "commercial",
         "aspirateur balai dyson v15 detect absolute": "core",
         "aspirateur balai dyson v8 advanced": "core",
-        "aspirateur balai rowenta x force flex": "core",
         "aspirateur balai puissant comparatif": "commercial",
         "meilleur aspirateur balai rowenta": "core",
         "aspirateur balai puissant pas cher": "commercial",
         "aspirateur balai kärcher vc 6": "core",
         "aspirateur balai pour poils d'animaux": "core",
         "meilleur aspirateur balai pas cher": "commercial",
-        "aspirateur balai dyson v8 cyclone": "complementary",
         "aspirateur balai rowenta flex": "complementary",
+        "aspirateur balai dyson v8 cyclone": "complementary",
         "aspirateur balai karcher vc 7": "complementary",
         "meilleur aspirateur balai pour animaux": "complementary",
         "types d'aspirateur balai": "core",
-        "puissance aspirateur balai": "core",
         "autonomie aspirateur balai": "core",
+        "puissance aspirateur balai": "core",
         "prix aspirateur balai": "commercial",
         "entretien aspirateur balai": "core",
         "accessoires aspirateur balai": "core",
@@ -1789,16 +1787,11 @@
         "batterie aspirateur balai": "core",
         "brosse aspirateur balai": "core",
         "filtre aspirateur balai": "core",
-        "puissance d'aspiration": "core",
-        "autonomie batterie": "core",
-        "temps de charge": "complementary",
-        "poids aspirateur balai": "core",
-        "capacité réservoir": "complementary",
-        "accessoires inclus": "complementary",
-        "garantie aspirateur balai": "commercial",
-        "nettoyage": "doubtful",
-        "outil": "complementary",
-        "brosse": "complementary",
-        "serpillère": "complementary"
+        "aspirateur balai 2 en 1": "core",
+        "aspirateur balai sans sac": "core",
+        "aspirateur balai pour sols durs": "core",
+        "aspirateur balai pour moquette": "core",
+        "aspirateur balai avec éclairage": "core",
+        "brosse": "complementary"
     }
 }

@@ -84,8 +84,9 @@ final class SearchResult
         return hash('xxh32', $shape);
     }
 
+    // Sans concepts (Cohere lent ou en panne), le champ est amputé : gardé peu de temps, pour être refait.
     public function isComplete(): bool
     {
-        return null !== $this->field && [] === $this->failedSources;
+        return null !== $this->field && [] !== $this->concepts && [] === $this->failedSources;
     }
 }

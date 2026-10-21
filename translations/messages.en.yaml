@@ -214,6 +214,7 @@ origin:
 
 advice:
     pending: "Waiting for the plan, which also weighs the buying intent…"
+    pending_value: "Computed with the plan…"
     summary:
         demand:
             high: "High demand"
@@ -287,6 +288,7 @@ failure:
 
 synthesis:
     title: "Summary"
+    loading: "Comes with the plan…"
     weight_help: "Number of terms · cumulative interest"
 
 category:

@@ -13,13 +13,18 @@ final class CohereConceptFinder implements ConceptFinderInterface
 {
     private const COUNT = 8;
 
-    private const MAX_DURATION = 9;
+    // Le plan a sa propre requête : les concepts peuvent attendre un Cohere lent (9 s mesurées) sans couper la page.
+    private const MAX_DURATION = 15;
 
     // Cohere renvoie parfois une erreur 500 passagère : une relance tient dans le délai si l'erreur arrive tôt.
     private const RETRY_WITHIN = 6;
     private const RETRY_MIN_DURATION = 3;
 
     private const CACHE_TTL = 7 * 86400;
+
+    // Sur une expression courte (« lampe frontale »), le modèle prolonge souvent l'expression malgré la consigne :
+    // sous ce nombre de vrais voisins, une relance lui rend ces prolongements à éviter (8 sur 8 mesurés ensuite).
+    private const MIN_NEIGHBOURS = 4;
 
     private const PROMPT = <<<'PROMPT'
         ## Task
@@ -143,9 +148,23 @@ final class CohereConceptFinder implements ConceptFinderInterface
                 }
                 $json = $this->cohere->decode($this->cohere->request(self::PROMPT, $message, self::SCHEMA, max(self::RETRY_MIN_DURATION, self::MAX_DURATION - $elapsed)));
             }
+            $phrases = self::phrases($json['concepts'] ?? [], $seedKey);
+            $neighbours = self::neighbours($phrases, $prefix);
+            if (\count($neighbours) < self::MIN_NEIGHBOURS) {
+                $extensions = array_values(array_diff($phrases, $neighbours));
+                $retry = $message."\nAlready found by the search engine, do not repeat: ".implode(', ', $extensions)
+                    ."\nEvery concept must start with a word other than the seed's first word.";
+                try {
+                    $more = $this->cohere->decode($this->cohere->request(self::PROMPT, $retry, self::SCHEMA, max(self::RETRY_MIN_DURATION, self::MAX_DURATION - (microtime(true) - $started))));
+                    $neighbours = array_values(array_unique([...$neighbours, ...self::neighbours(self::phrases($more['concepts'] ?? [], $seedKey), $prefix)]));
+                } catch (AiException) {
+                    // Les premiers concepts suffisent à continuer.
+                }
+            }
             $subject = mb_strtolower(CohereChat::label($json['subject'] ?? '', 60));
             $ideas = [
-                'concepts' => \array_slice(self::neighbours(self::phrases($json['concepts'] ?? [], $seedKey), $prefix), 0, self::COUNT),
+                // Si le modèle n'a proposé que des prolongements, mieux vaut ces variantes qu'aucun concept.
+                'concepts' => \array_slice([] !== $neighbours ? $neighbours : $phrases, 0, self::COUNT),
                 'subject' => '' !== $subject ? $subject : null,
                 // Les facettes rejoignent les termes essentiels : le plan les reçoit même quand aucune suggestion ne les porte.
                 'core' => array_values(array_unique([...\array_slice(self::phrases($json['facets'] ?? [], $seedKey), 0, self::FACET_COUNT),
@@ -167,10 +186,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
     private static function neighbours(array $concepts, string $prefix): array
     {
         // « pain au levain complet » ne fait que prolonger l'expression : les moteurs le trouvent déjà.
-        // Si le modèle n'a proposé que ça, mieux vaut ces variantes qu'aucun concept.
-        $neighbours = array_values(array_filter($concepts, static fn (string $c): bool => !str_starts_with(SuggestionMerger::normalize($c), $prefix)));
-
-        return [] !== $neighbours ? $neighbours : $concepts;
+        return array_values(array_filter($concepts, static fn (string $c): bool => !str_starts_with(SuggestionMerger::normalize($c), $prefix)));
     }
 
     /** @return list<string> */

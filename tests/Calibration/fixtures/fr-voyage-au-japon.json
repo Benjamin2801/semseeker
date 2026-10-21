@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "itinéraire tokyo kyoto",
-        "visa vacances-travail japon",
-        "budget voyage tokyo",
+        "guide voyage japon",
+        "vols pas chers japon",
         "ryokan traditionnel",
-        "shinkansen japon",
+        "shinkansen",
+        "mont fuji",
+        "temple kiyomizu",
         "sushi japonais",
-        "mont fuji visite",
-        "assurance voyage japon"
+        "cerisier en fleurs"
     ],
     "suggestions": {
         "amazon": [
@@ -240,19 +240,43 @@
             ],
             [
                 0,
-                "itinerary tokyo kyoto osaka"
+                "guide voyage japon"
             ],
             [
                 1,
-                "itinerary tokyo kyoto osaka include gotemba"
+                "voyage japon guide du routard"
             ],
             [
                 0,
-                "visa vacances travail japon"
+                "vols pas chers japon"
             ],
             [
-                0,
-                "voyage tokyo budget"
+                1,
+                "billet avion pas cher japon"
+            ],
+            [
+                2,
+                "vol france japon pas cher"
+            ],
+            [
+                3,
+                "vol pour le japon prix"
+            ],
+            [
+                4,
+                "vol pas cher paris japon"
+            ],
+            [
+                5,
+                "billet d'avion pas cher japon"
+            ],
+            [
+                6,
+                "vol pour le japon"
+            ],
+            [
+                7,
+                "vol pour aller au japon"
             ],
             [
                 0,
@@ -268,39 +292,127 @@
             ],
             [
                 0,
-                "shinkansen japan"
+                "shinkansen"
             ],
             [
                 1,
-                "shinkansen japonais"
+                "shinkansen train"
             ],
             [
                 2,
-                "shinkansen japonsko"
+                "shinkansen tickets"
             ],
             [
                 3,
-                "train japonais shinkansen"
+                "shinkansen 0"
             ],
             [
                 4,
-                "train shinkansen japon"
+                "shinkansen tokyo kyoto"
             ],
             [
                 5,
-                "shinkansen au japon"
+                "shinkansen tokyo osaka"
             ],
             [
                 6,
-                "shinkansen japon rutas"
+                "shinkansen japan"
             ],
             [
                 7,
-                "shinkansen japon precios"
+                "shinkansen vitesse"
             ],
             [
                 8,
-                "shinkansen japon velocidad"
+                "shinkansen nozomi"
+            ],
+            [
+                9,
+                "shinkansen reservation"
+            ],
+            [
+                10,
+                "shinkansen tickets official website"
+            ],
+            [
+                0,
+                "mont fuji japon"
+            ],
+            [
+                1,
+                "mont fuji dessin"
+            ],
+            [
+                2,
+                "mont fuji altitude"
+            ],
+            [
+                3,
+                "mont fuji carte"
+            ],
+            [
+                4,
+                "mont fuji volcan"
+            ],
+            [
+                5,
+                "mont fuji yama"
+            ],
+            [
+                6,
+                "mont fuji hauteur"
+            ],
+            [
+                7,
+                "mont fuji lyon 6"
+            ],
+            [
+                8,
+                "mont fuji visite"
+            ],
+            [
+                9,
+                "mont fuji éruption"
+            ],
+            [
+                10,
+                "mont fuji japon carte"
+            ],
+            [
+                11,
+                "mont fuji japon volcan"
+            ],
+            [
+                0,
+                "temple kiyomizu-dera"
+            ],
+            [
+                1,
+                "temple kiyomizu"
+            ],
+            [
+                2,
+                "temple kiyomizu-dera kyoto"
+            ],
+            [
+                3,
+                "temple kiyomizu kyoto"
+            ],
+            [
+                4,
+                "temple kiyomizu dera japon"
+            ],
+            [
+                5,
+                "temple kiyomizu-dera prix"
+            ],
+            [
+                6,
+                "temple de kiyomizu dera"
+            ],
+            [
+                7,
+                "kiyomizu kannon-do temple"
             ],
             [
                 0,
@@ -344,27 +456,43 @@
             ],
             [
                 0,
-                "mont fuji visite"
+                "cerisier en fleurs"
             ],
             [
                 1,
-                "mont fuji site officiel"
+                "cerisier en fleurs japon"
             ],
             [
                 2,
-                "mont fuji site"
+                "cerisier en fleurs van gogh"
             ],
             [
                 3,
-                "visite mont fuji japon"
+                "cerisier en fleurs photos"
             ],
             [
-                0,
-                "assurance voyage japon"
+                4,
+                "cerisier en fleurs artificiel"
             ],
             [
-                1,
-                "assurance voyage japon obligatoire"
+                5,
+                "cerisier en fleurs png"
+            ],
+            [
+                6,
+                "cerisier en fleurs tokyo"
+            ],
+            [
+                7,
+                "cerisier en fleurs dessin"
+            ],
+            [
+                8,
+                "cerisier en fleurs ou en fleur"
+            ],
+            [
+                9,
+                "cerisier en fleurs parc de sceaux"
             ]
         ],
         "google": [
@@ -462,95 +590,83 @@
             ],
             [
                 0,
-                "itineraire tokyo kyoto"
+                "guide voyage japon"
             ],
             [
                 1,
-                "itineraire tokyo kyoto osaka"
+                "guide voyage japon livre"
             ],
             [
                 2,
-                "route tokyo kyoto"
+                "guide voyage japon 2025"
             ],
             [
                 3,
-                "chemin tokyo kyoto"
+                "guide voyage japon pdf"
             ],
             [
                 4,
-                "distance tokyo kyoto"
+                "guide voyage japon lonely planet"
             ],
             [
                 5,
-                "trajet tokyo kyoto"
+                "guide voyage japon 2026"
             ],
             [
                 6,
-                "distance tokyo kyoto shinkansen"
+                "guide voyage japon enfant"
             ],
             [
                 7,
-                "distance tokyo kyoto train"
+                "guide voyage japon 3 semaines"
             ],
             [
                 8,
-                "trajet tokyo kyoto shinkansen"
+                "guide voyage japon 2 semaines"
             ],
             [
                 9,
-                "trajet tokyo kyoto prix"
+                "guide voyage japon cyprien"
             ],
             [
                 0,
-                "visa vacances travail japon"
+                "vols pas chers japon"
             ],
             [
                 1,
-                "visa vacances travail japon refusé"
+                "vol pas cher japon 2026"
             ],
             [
                 2,
-                "visa vacances travail japon conditions"
+                "vol pas cher japon 2025"
             ],
             [
                 3,
-                "visa vacances travail japon age"
+                "vol pas cher japon 2027"
             ],
             [
                 4,
-                "visa vacances travail japon prix"
+                "vol pas.cher japon depuis europe"
             ],
             [
                 5,
-                "visa vacances travail japon lyon"
+                "vol pas cher japon comparateur"
             ],
             [
                 6,
-                "visa vacances travail japon age limite"
+                "voyages pas cher japon"
             ],
             [
                 7,
-                "visa vacances travail japon marseille"
+                "vol pas cher japon paris"
             ],
             [
                 8,
-                "visa vacances travail japon france"
+                "vol pas cher japon aout"
             ],
             [
                 9,
-                "visa vacances travail japon strasbourg"
-            ],
-            [
-                0,
-                "budget voyage tokyo"
-            ],
-            [
-                1,
-                "budget voyage tokyo 1 semaine"
-            ],
-            [
-                2,
-                "budget voyage tokyo 2 semaines"
+                "vol pas cher japon france"
             ],
             [
                 0,
@@ -594,43 +710,115 @@
             ],
             [
                 0,
-                "shinkansen japon"
+                "shinkansen"
             ],
             [
                 1,
-                "shinkansen japon vitesse"
+                "shinkansen vitesse"
             ],
             [
                 2,
-                "shinkansen japon reservation"
+                "shinkansen tokyo kyoto"
             ],
             [
                 3,
-                "shinkansen japon carte"
+                "shinkansen tokyo osaka"
             ],
             [
                 4,
-                "shinkansen japon prix"
+                "shinkansen tickets"
             ],
             [
                 5,
-                "shinkansen japon billet"
+                "shinkansen henkei robo shinkalion"
             ],
             [
                 6,
-                "train japon"
+                "shinkansen japon"
             ],
             [
                 7,
-                "train japon vitesse"
+                "shinkansen reservation"
             ],
             [
                 8,
-                "train japonais le plus rapide"
+                "shinkansen vitesse max"
             ],
             [
                 9,
-                "train japonais 600 km h"
+                "shinkansen 0"
+            ],
+            [
+                0,
+                "mont fuji"
+            ],
+            [
+                1,
+                "mont fuji lyon"
+            ],
+            [
+                2,
+                "mont fuji lyon 6"
+            ],
+            [
+                3,
+                "mont fuji altitude"
+            ],
+            [
+                4,
+                "mont fuji carte"
+            ],
+            [
+                5,
+                "mont fuji ascension"
+            ],
+            [
+                6,
+                "mont fuji volcan"
+            ],
+            [
+                7,
+                "mont fujiyama"
+            ],
+            [
+                8,
+                "mont fuji éruption"
+            ],
+            [
+                9,
+                "mont fuji restaurant lyon"
+            ],
+            [
+                0,
+                "temple kiyomizu-dera"
+            ],
+            [
+                1,
+                "temple kiyomizu"
+            ],
+            [
+                2,
+                "temple kiyomizu dera assassin's creed"
+            ],
+            [
+                3,
+                "temple kiyomizu-dera assassin's creed shadows"
+            ],
+            [
+                4,
+                "temple kiyomizu rise of the ronin"
+            ],
+            [
+                5,
+                "temple kiyomizu dera ac shadow"
+            ],
+            [
+                6,
+                "temple kiyomizu kannon do"
+            ],
+            [
+                7,
+                "temple kiyomizu dera histoire"
             ],
             [
                 0,
@@ -674,107 +862,175 @@
             ],
             [
                 0,
-                "mont fuji visite"
+                "cerisier en fleurs"
             ],
             [
                 1,
-                "mont fuji visit"
+                "cerisier en fleurs japon"
             ],
             [
                 2,
-                "mont fuji japon visite"
+                "cerisier en fleurs japon periode"
             ],
             [
                 3,
-                "mont fuji comment le visiter"
+                "cerisier en fleurs france"
             ],
             [
                 4,
-                "mont fuji nombre de visiteurs"
+                "cerisier en fleurs dessin"
             ],
             [
                 5,
-                "visite mont fuji depuis tokyo"
+                "cerisier en fleurs van gogh"
             ],
             [
                 6,
-                "visite mont fuji depuis hakone"
+                "cerisier en fleurs lego"
             ],
             [
                 7,
-                "visite mont fuji en francais"
+                "cerisier en fleurs artificiel"
             ],
             [
                 8,
-                "visite mont fuji tokyo"
+                "cerisier en fleurs japon date"
             ],
             [
                 9,
-                "visite mont fuji prix"
-            ],
-            [
-                0,
-                "assurance voyage japon"
-            ],
-            [
-                1,
-                "assurance voyage japon obligatoire"
-            ],
-            [
-                2,
-                "assurance voyage japon avis"
-            ],
-            [
-                3,
-                "assurance voyage japon prix"
-            ],
-            [
-                4,
-                "assurance voyage japon maif"
-            ],
-            [
-                5,
-                "assurance voyage japon axa"
-            ],
-            [
-                6,
-                "assurance voyage japon comparatif"
-            ],
-            [
-                7,
-                "assurance voyage japon visa premier"
-            ],
-            [
-                8,
-                "assurance voyage japon chapka"
-            ],
-            [
-                9,
-                "assurance voyage japon macif"
+                "cerisier en fleurs en septembre"
             ]
         ],
         "amazon": [
             [
                 0,
+                "guide voyage japon"
+            ],
+            [
+                0,
+                "shinkansen train"
+            ],
+            [
+                1,
+                "shinkansen"
+            ],
+            [
+                2,
+                "shinkansen train jouet"
+            ],
+            [
+                3,
+                "shinkansen kato"
+            ],
+            [
+                4,
+                "shinkansen kato e5"
+            ],
+            [
+                5,
+                "shinkansen kato e6"
+            ],
+            [
+                0,
+                "mont fuji"
+            ],
+            [
+                1,
+                "mont fuji lego"
+            ],
+            [
+                2,
+                "mont fuji tableau"
+            ],
+            [
+                3,
+                "mont fuji puzzle"
+            ],
+            [
+                4,
+                "mont fuji toile"
+            ],
+            [
+                5,
+                "mont fuji diamond painting"
+            ],
+            [
+                6,
+                "mont fuji toile xxl"
+            ],
+            [
+                7,
+                "mont fuji deco"
+            ],
+            [
+                8,
+                "mont fuji febreze"
+            ],
+            [
+                9,
+                "mont fuji livre"
+            ],
+            [
+                0,
                 "riz sushi japonais"
+            ],
+            [
+                0,
+                "lego cerisier en fleurs tableau"
+            ],
+            [
+                1,
+                "cerisier en fleurs lego"
+            ],
+            [
+                2,
+                "cerisier en fleurs"
+            ],
+            [
+                3,
+                "cerisier en fleurs durance"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "itinerary tokyo kyoto osaka"
+                "guide voyage japon"
             ],
             [
                 1,
-                "itinerary tokyo kyoto osaka include gotemba"
+                "voyage japon guide du routard"
             ],
             [
                 0,
-                "visa vacances travail japon"
+                "vols pas chers japon"
             ],
             [
-                0,
-                "voyage tokyo budget"
+                1,
+                "billet avion pas cher japon"
+            ],
+            [
+                2,
+                "vol france japon pas cher"
+            ],
+            [
+                3,
+                "vol pour le japon prix"
+            ],
+            [
+                4,
+                "vol pas cher paris japon"
+            ],
+            [
+                5,
+                "billet d'avion pas cher japon"
+            ],
+            [
+                6,
+                "vol pour le japon"
+            ],
+            [
+                7,
+                "vol pour aller au japon"
             ],
             [
                 0,
@@ -790,35 +1046,99 @@
             ],
             [
                 0,
-                "shinkansen japan"
+                "shinkansen"
             ],
             [
                 1,
-                "shinkansen japonais"
+                "shinkansen train"
             ],
             [
                 2,
-                "shinkansen japonsko"
+                "shinkansen tickets"
             ],
             [
                 3,
-                "train japonais shinkansen"
+                "shinkansen 0"
             ],
             [
                 4,
-                "train shinkansen japon"
+                "shinkansen tokyo kyoto"
             ],
             [
                 5,
-                "shinkansen au japon"
+                "shinkansen tokyo osaka"
             ],
             [
                 6,
-                "shinkansen japon rutas"
+                "shinkansen japan"
             ],
             [
                 7,
-                "shinkansen japon precios"
+                "shinkansen vitesse"
+            ],
+            [
+                0,
+                "mont fuji japon"
+            ],
+            [
+                1,
+                "mont fuji dessin"
+            ],
+            [
+                2,
+                "mont fuji altitude"
+            ],
+            [
+                3,
+                "mont fuji carte"
+            ],
+            [
+                4,
+                "mont fuji volcan"
+            ],
+            [
+                5,
+                "mont fuji yama"
+            ],
+            [
+                6,
+                "mont fuji hauteur"
+            ],
+            [
+                7,
+                "mont fuji lyon 6"
+            ],
+            [
+                0,
+                "temple kiyomizu-dera"
+            ],
+            [
+                1,
+                "temple kiyomizu"
+            ],
+            [
+                2,
+                "temple kiyomizu-dera kyoto"
+            ],
+            [
+                3,
+                "temple kiyomizu kyoto"
+            ],
+            [
+                4,
+                "temple kiyomizu dera japon"
+            ],
+            [
+                5,
+                "temple kiyomizu-dera prix"
+            ],
+            [
+                6,
+                "temple de kiyomizu dera"
+            ],
+            [
+                7,
+                "kiyomizu kannon-do temple"
             ],
             [
                 0,
@@ -854,65 +1174,83 @@
             ],
             [
                 0,
-                "mont fuji visite"
+                "cerisier en fleurs"
             ],
             [
                 1,
-                "mont fuji site officiel"
+                "cerisier en fleurs japon"
             ],
             [
                 2,
-                "mont fuji site"
+                "cerisier en fleurs van gogh"
             ],
             [
                 3,
-                "visite mont fuji japon"
+                "cerisier en fleurs photos"
             ],
             [
+                4,
+                "cerisier en fleurs artificiel"
+            ],
+            [
+                5,
+                "cerisier en fleurs png"
+            ],
+            [
+                6,
+                "cerisier en fleurs tokyo"
+            ],
+            [
+                7,
+                "cerisier en fleurs dessin"
+            ]
+        ],
+        "indeed": [
+            [
                 0,
-                "assurance voyage japon"
+                "monteur industriel"
             ],
             [
                 1,
-                "assurance voyage japon obligatoire"
+                "monteur installation thermique"
+            ],
+            [
+                2,
+                "monteur itinérant"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "itineraire tokyo kyoto train"
+                "guide voyage japon circuit accompagné"
             ],
             [
                 1,
-                "itineraire tokyo kyoto distance"
+                "guide voyage japon accompagné pour retraités"
             ],
             [
                 2,
-                "itineraire tokyo kyoto en train"
+                "guide voyage japon tout compris"
             ],
             [
                 3,
-                "itineraire tokyo kyoto train prix"
+                "guide voyage japon abordable"
             ],
             [
                 0,
-                "visa travail japon"
-            ],
-            [
-                0,
-                "budget voyage tokyo ghoul"
+                "vols pas chers japonais"
             ],
             [
                 1,
-                "budget voyage tokyo revengers"
+                "vols pas chers japon carte"
             ],
             [
                 2,
-                "budget voyage tokyo vice"
+                "vols pas chers japon actualités"
             ],
             [
                 3,
-                "budget voyage tokyo casa"
+                "vols pas chers japon wikipédia"
             ],
             [
                 0,
@@ -932,11 +1270,95 @@
             ],
             [
                 0,
-                "shinkansen japon"
+                "shinkansen"
             ],
             [
                 1,
-                "carte shinkansen japon"
+                "shinkansen tokyo kyoto"
+            ],
+            [
+                2,
+                "shinkansen 0"
+            ],
+            [
+                3,
+                "shinkansen timetable"
+            ],
+            [
+                4,
+                "shinkansen japon"
+            ],
+            [
+                5,
+                "shinkansen réservation"
+            ],
+            [
+                6,
+                "shinkansen jr"
+            ],
+            [
+                7,
+                "shinkansen brio"
+            ],
+            [
+                8,
+                "shinkansen nozomi"
+            ],
+            [
+                9,
+                "shinkansen vitesse"
+            ],
+            [
+                0,
+                "mont fuji"
+            ],
+            [
+                1,
+                "mont fuji japon"
+            ],
+            [
+                2,
+                "mont fuji dessin"
+            ],
+            [
+                3,
+                "mont fuji domont"
+            ],
+            [
+                4,
+                "mont fuji olivet"
+            ],
+            [
+                5,
+                "mont fuji carte"
+            ],
+            [
+                6,
+                "mont fuji hokusai"
+            ],
+            [
+                7,
+                "mont fuji peinture"
+            ],
+            [
+                8,
+                "mont fuji yama"
+            ],
+            [
+                9,
+                "mont fuji tokyo"
+            ],
+            [
+                0,
+                "temple kiyomizu"
+            ],
+            [
+                1,
+                "temple kiyomizu dera"
+            ],
+            [
+                2,
+                "temple kiyomizu-dera kyoto"
             ],
             [
                 0,
@@ -956,45 +1378,53 @@
             ],
             [
                 0,
-                "mont fuji visite technique"
+                "cerisier en fleurs"
             ],
             [
                 1,
-                "mont fuji visite notre"
+                "cerisier en fleurs japon"
             ],
             [
                 2,
-                "mont fuji visite médicale"
+                "cerisier en fleurs sceaux"
             ],
             [
                 3,
-                "mont fuji visite tour"
+                "cerisier en fleurs tableau"
             ],
             [
-                0,
-                "assurance voyage japon circuit accompagné"
+                4,
+                "cerisier en fleurs artificiel"
             ],
             [
-                1,
-                "assurance voyage japon accompagné pour retraités"
+                5,
+                "cerisier en fleurs en italie"
             ],
             [
-                2,
-                "assurance voyage japon tout compris"
+                6,
+                "cerisier en fleurs au jardin des plantes"
             ],
             [
-                3,
-                "assurance voyage japon abordable"
+                7,
+                "cerisier en fleurs au japon"
+            ],
+            [
+                8,
+                "cerisier en fleurs japon 2025 calendrier"
             ]
         ],
         "youtube": [
             [
                 0,
-                "visa vacances travail japon"
+                "guide voyage japon"
+            ],
+            [
+                1,
+                "guide touristique japon"
             ],
             [
                 0,
-                "voyage tokyo budget"
+                "vol pas cher japon"
             ],
             [
                 0,
@@ -1002,43 +1432,119 @@
             ],
             [
                 0,
-                "shinkansen japon"
+                "shinkansen"
             ],
             [
                 1,
-                "train japon"
+                "shinkansen 0"
             ],
             [
                 2,
-                "train japonais 600 km/h"
+                "shinkansen train"
             ],
             [
                 3,
-                "train japonais 4800 km/h"
+                "shinkansen cab ride"
             ],
             [
                 4,
-                "train japon magnétique"
+                "shinkansen tokyo kyoto"
             ],
             [
                 5,
-                "train japon vitesse"
+                "shinkansen vitesse"
             ],
             [
                 6,
-                "train japonais jouet"
+                "shinkansen tokyo osaka"
             ],
             [
                 7,
-                "train japon journaliste"
+                "shinkansen 0 squeezie"
             ],
             [
                 8,
-                "train japon luxe"
+                "shinkansen speed"
             ],
             [
                 9,
-                "train japon neige"
+                "shinkansen 0 all endings"
+            ],
+            [
+                0,
+                "mont fuji"
+            ],
+            [
+                1,
+                "mont fuji ascension"
+            ],
+            [
+                2,
+                "mont fujiyama"
+            ],
+            [
+                3,
+                "mont fuji eruption"
+            ],
+            [
+                4,
+                "mont fuji live"
+            ],
+            [
+                5,
+                "mont fuji musique"
+            ],
+            [
+                6,
+                "mont fuji 4k"
+            ],
+            [
+                7,
+                "mont fuji vlog"
+            ],
+            [
+                8,
+                "mont fuji japon"
+            ],
+            [
+                9,
+                "mont fuji ici japon"
+            ],
+            [
+                0,
+                "temple kiyomizu dera"
+            ],
+            [
+                1,
+                "kiyomizu temple kyoto japan"
+            ],
+            [
+                2,
+                "kiyomizu temple"
+            ],
+            [
+                3,
+                "kiyomizudera temple lost pages"
+            ],
+            [
+                4,
+                "kiyomizu dera temple"
+            ],
+            [
+                5,
+                "kiyomizu dera temple ac shadows"
+            ],
+            [
+                6,
+                "kiyomizu temple kyoto"
+            ],
+            [
+                7,
+                "kiyomizu temple live"
+            ],
+            [
+                8,
+                "kiyomizu temple japan"
             ],
             [
                 0,
@@ -1082,11 +1588,7 @@
             ],
             [
                 0,
-                "mont fuji visite"
-            ],
-            [
-                0,
-                "assurance voyage japon"
+                "cerisiers en fleurs japon"
             ]
         ]
     },
@@ -1105,6 +1607,13 @@
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.455
+            },
+            {
+                "title": "Shinkansen",
+                "views": 5287,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 8,
@@ -1123,183 +1632,156 @@
     },
     "pages": [
         {
-            "group": "Planification",
-            "title": "voyage au japon budget",
+            "group": "Itinéraires",
+            "title": "voyage au japon 2 semaines",
             "intent": "informational",
             "keywords": [
-                "voyage au japon budget",
+                "voyage au japon 2 semaines",
+                "hiroshima",
+                "itinéraire voyage japon",
+                "jardin zen",
+                "nara",
+                "sites touristiques japon",
+                "temple kiyomizu-dera",
+                "temple kiyomizu",
+                "temple kiyomizu-dera kyoto",
+                "cerisier en fleurs",
+                "cerisiers en fleurs japon",
+                "mont fuji",
+                "mont fuji carte",
+                "mont fuji altitude"
+            ]
+        },
+        {
+            "group": "Itinéraires",
+            "title": "shinkansen",
+            "intent": "informational",
+            "keywords": [
+                "shinkansen",
+                "shinkansen vitesse",
+                "shinkansen tokyo osaka",
+                "kyoto",
+                "osaka",
+                "tokyo",
+                "transport japon",
+                "shinkansen tokyo kyoto"
+            ]
+        },
+        {
+            "group": "Famille",
+            "title": "voyage au japon en famille",
+            "intent": "informational",
+            "keywords": [
                 "voyage au japon en famille",
-                "voyage tokyo budget",
-                "voyage au japon conseils",
-                "voyage au japon 2026",
-                "avion",
-                "tourisme",
+                "cuisine japonaise",
+                "hébergement japon",
+                "kimono",
+                "onsen",
+                "sake",
+                "sushi japonais",
+                "sushi japonais traditionnel",
+                "ramen",
+                "mont fuji japon",
+                "ryokan traditionnel"
+            ]
+        },
+        {
+            "group": "Budget",
+            "title": "voyage au japon budget",
+            "intent": "commercial",
+            "keywords": [
+                "voyage au japon budget",
                 "voyage au japon prix",
+                "vols pas chers japon",
+                "avion",
                 "quel budget pour un voyage au japon"
             ]
         },
         {
-            "group": "Planification",
-            "title": "visa vacances travail japon",
+            "group": "Préparation",
+            "title": "guide voyage japon",
             "intent": "informational",
             "keywords": [
-                "visa vacances travail japon",
-                "visa japon",
-                "voyage au japon quel document"
-            ]
-        },
-        {
-            "group": "Planification",
-            "title": "itinerary tokyo kyoto osaka",
-            "intent": "informational",
-            "keywords": [
-                "itinerary tokyo kyoto osaka",
-                "cerisier en fleurs",
+                "guide voyage japon",
+                "voyage au japon quel document",
                 "guide de voyage",
-                "itinéraire voyage japon",
-                "kyoto",
-                "osaka",
-                "tokyo",
-                "voyage au japon 2 semaines",
-                "voyage au japon 3 semaines"
-            ]
-        },
-        {
-            "group": "Organisé",
-            "title": "voyage au japon agence",
-            "intent": "commercial",
-            "keywords": [
+                "sécurité voyage japon",
+                "visa japon",
                 "voyage au japon agence",
-                "voyage au japon leclerc",
-                "voyage au japon en groupe",
                 "agence de voyages",
                 "voyagiste",
-                "voyage au japon tout compris",
-                "voyage au japon organisé"
-            ]
-        },
-        {
-            "group": "Organisé",
-            "title": "assurance voyage japon",
-            "intent": "commercial",
-            "keywords": [
-                "assurance voyage japon",
-                "sécurité voyage japon",
-                "assurance voyage japon obligatoire",
-                "assurance voyage japon circuit accompagné"
-            ]
-        },
-        {
-            "group": "Activités",
-            "title": "sushi japonais",
-            "intent": "informational",
-            "keywords": [
-                "sushi japonais",
-                "cuisine japonaise",
-                "sushi",
-                "sushi japonais traditionnel",
-                "sushi japonais vrai",
-                "sushi japonais recettes"
-            ]
-        },
-        {
-            "group": "Activités",
-            "title": "mont fuji visite",
-            "intent": "informational",
-            "keywords": [
-                "mont fuji visite",
-                "mont fuji",
-                "sites touristiques japon",
-                "temple shinto",
-                "mont fuji japon visite"
-            ]
-        },
-        {
-            "group": "Transport",
-            "title": "shinkansen japon",
-            "intent": "informational",
-            "keywords": [
-                "shinkansen japon",
-                "shinkansen japan",
-                "chemin de fer",
-                "shinkansen",
-                "transport",
-                "transport japon",
-                "carte shinkansen japon",
-                "train japon"
+                "voyage au japon tout compris"
             ]
         },
         {
             "group": "Hébergement",
-            "title": "ryokan traditionnel",
+            "title": "ryokan traditionnel kyoto",
             "intent": "commercial",
             "keywords": [
-                "ryokan traditionnel",
-                "hébergement japon",
-                "onsen",
-                "ryokan",
-                "ryokan traditionnel kyoto"
+                "ryokan traditionnel kyoto",
+                "voyage au japon leclerc"
             ]
         }
     ],
     "categories": {
-        "voyage au japon en famille": "complementary",
+        "shinkansen": "core",
+        "voyage au japon en famille": "core",
+        "guide voyage japon": "core",
         "sushi japonais": "complementary",
+        "mont fuji": "core",
+        "temple kiyomizu-dera": "core",
+        "cerisier en fleurs": "core",
         "voyage au japon budget": "commercial",
         "voyage au japon prix": "commercial",
-        "shinkansen japon": "core",
-        "assurance voyage japon": "core",
-        "mont fuji visite": "core",
-        "visa vacances travail japon": "core",
-        "voyage tokyo budget": "commercial",
+        "cerisiers en fleurs japon": "core",
+        "temple kiyomizu": "core",
+        "vols pas chers japon": "commercial",
+        "shinkansen tokyo kyoto": "core",
+        "shinkansen train": "doubtful",
         "voyage au japon 2 semaines": "core",
+        "mont fuji japon": "core",
         "voyage au japon agence": "commercial",
         "voyage au japon tout compris": "commercial",
         "ryokan traditionnel": "core",
         "sushi japonais traditionnel": "complementary",
         "quel budget pour un voyage au japon": "commercial",
-        "assurance voyage japon obligatoire": "complementary",
+        "shinkansen vitesse": "complementary",
+        "mont fuji carte": "complementary",
+        "mont fuji dessin": "doubtful",
         "ryokan traditionnel kyoto": "complementary",
         "voyage au japon quel document": "complementary",
-        "carte shinkansen japon": "complementary",
-        "mont fuji japon visite": "complementary",
-        "sushi japonais recettes": "complementary",
+        "shinkansen tokyo osaka": "complementary",
+        "temple kiyomizu-dera kyoto": "complementary",
+        "cerisier en fleurs artificiel": "doubtful",
+        "mont fuji altitude": "complementary",
+        "sushi japonais recettes": "doubtful",
         "voyage au japon leclerc": "commercial",
-        "train japon": "complementary",
-        "voyage au japon organisé": "commercial",
-        "voyage au japon en groupe": "complementary",
-        "sushi japonais vrai": "complementary",
-        "voyage au japon conseils": "complementary",
-        "itinerary tokyo kyoto osaka": "complementary",
-        "shinkansen japan": "complementary",
-        "voyage au japon 2026": "commercial",
-        "voyage au japon 3 semaines": "complementary",
-        "assurance voyage japon circuit accompagné": "commercial",
+        "voyage au japon monochrome": "doubtful",
         "itinéraire voyage japon": "core",
         "visa japon": "core",
         "hébergement japon": "core",
         "transport japon": "core",
-        "cuisine japonaise": "core",
-        "sites touristiques japon": "core",
         "sécurité voyage japon": "core",
+        "sites touristiques japon": "core",
+        "cuisine japonaise": "core",
         "tokyo": "core",
         "kyoto": "core",
         "osaka": "core",
-        "shinkansen": "core",
-        "ryokan": "core",
-        "sushi": "core",
-        "mont fuji": "core",
-        "temple shinto": "complementary",
+        "hiroshima": "complementary",
+        "nara": "complementary",
         "onsen": "complementary",
-        "cerisier en fleurs": "complementary",
+        "ramen": "complementary",
+        "sake": "complementary",
+        "kimono": "complementary",
+        "jardin zen": "complementary",
+        "automobile": "doubtful",
         "avion": "commercial",
-        "chemin de fer": "complementary",
-        "tourisme": "complementary",
+        "chemin de fer": "doubtful",
+        "tourisme": "doubtful",
         "guide de voyage": "complementary",
-        "transport": "complementary",
+        "transport": "doubtful",
         "voyagiste": "commercial",
         "agence de voyages": "commercial",
-        "voyage au japon monochrome": "doubtful",
-        "sushi japonais ou chinois": "doubtful"
+        "shinkansen 0": "doubtful"
     }
 }

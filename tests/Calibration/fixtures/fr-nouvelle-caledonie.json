@@ -130,23 +130,23 @@
             ],
             [
                 5,
-                "nouvelle calédonie tourisme point sud"
-            ],
-            [
-                6,
-                "nouvelle calédonie cour d'appel"
-            ],
-            [
-                7,
                 "nouvelle calédonie journal"
             ],
             [
+                6,
+                "nouvelle calédonie tourisme point sud"
+            ],
+            [
+                7,
+                "nouvelle calédonie cour d'appel"
+            ],
+            [
                 8,
-                "nouvelle calédonie jour férié"
+                "nouvelle calédonie surface"
             ],
             [
                 9,
-                "nouvelle calédonie surface"
+                "nouvelle calédonie jour férié"
             ],
             [
                 0,
@@ -976,96 +976,94 @@
     },
     "pages": [
         {
-            "group": "Tourisme",
+            "group": "Tourisme et voyage",
             "title": "tourisme nouvelle calédonie",
             "intent": "informational",
             "keywords": [
                 "tourisme nouvelle calédonie",
                 "nouvelle-calédonie wikipédia",
                 "climat de la nouvelle calédonie",
+                "nouvelle calédonie superficie",
                 "transit maritime nouvelle calédonie",
                 "attractions touristiques nouvelle calédonie",
+                "géographie nouvelle calédonie",
                 "lagon nouvelle calédonie",
-                "tontouta aéroport",
+                "monts koghis",
+                "océan pacifique",
                 "transport nouvelle calédonie",
+                "nouvelle calédonie carte",
+                "nouvelle calédonie map",
                 "plages noumea",
-                "boulouparis",
                 "nouméa",
                 "plages nouvelle calédonie",
-                "nouvelle calédonie routard",
                 "voyage nouvelle calédonie",
+                "climat tropical",
+                "transport maritime"
+            ]
+        },
+        {
+            "group": "Tourisme et voyage",
+            "title": "nouvelle calédonie routard",
+            "intent": "informational",
+            "keywords": [
+                "nouvelle calédonie routard",
+                "geographie iles loyauté définition",
+                "îles loyauté",
+                "nouvelle calédonie ouvéa",
                 "nouvelle caledonie hôtel"
             ]
         },
         {
-            "group": "Tourisme",
-            "title": "nouvelle calédonie carte",
-            "intent": "informational",
-            "keywords": [
-                "nouvelle calédonie carte",
-                "timbre nouvelle calédonie",
-                "nouvelle calédonie drapeau",
-                "geographie iles loyauté définition",
-                "nouvelle calédonie superficie",
-                "grand terre",
-                "géographie nouvelle calédonie",
-                "monts koghis",
-                "océan pacifique",
-                "nouvelle calédonie map",
-                "nouvelle calédonie ouvéa",
-                "îles loyauté"
-            ]
-        },
-        {
-            "group": "Culture",
+            "group": "Culture et identité",
             "title": "culture kanak",
             "intent": "informational",
             "keywords": [
                 "culture kanak",
                 "histoire colonisation nouvelle caledonie",
                 "histoire de la nouvelle calédonie",
-                "kanak art",
+                "nouvelle caledonie pourquoi ce nom",
+                "histoire colonisation",
                 "peuple autochtone",
-                "tribu kanak",
                 "culture kanak nouvelle calédonie",
-                "nouvelle calédonie musique"
+                "tribu kanak",
+                "nouvelle calédonie musique",
+                "nouvelle calédonie drapeau"
             ]
         },
         {
-            "group": "Culture",
+            "group": "Culture et identité",
             "title": "cuisine caledonienne",
             "intent": "informational",
             "keywords": [
                 "cuisine caledonienne",
                 "cuisine nouvelle calédonie",
-                "nouvelle calédonie reportage"
+                "nouvelle calédonie reportage",
+                "timbres neufs nouvelle calédonie"
             ]
         },
         {
-            "group": "Informations générales",
-            "title": "nouvelle calédonie heure",
-            "intent": "informational",
-            "keywords": [
-                "nouvelle calédonie heure",
-                "nouvelle caledonie pourquoi ce nom",
-                "nouvelle calédonie outre mer",
-                "nouvelle calédonie dom ou tom",
-                "collectivité d'outre-mer",
-                "collectivité territoriale en france",
-                "sui generis",
-                "nouvelle calédonie quel pays"
-            ]
-        },
-        {
-            "group": "Informations générales",
+            "group": "Informations pratiques",
             "title": "nouvelle calédonie actualités",
             "intent": "informational",
             "keywords": [
                 "nouvelle calédonie actualités",
-                "nickel nouvelle calédonie",
+                "nouvelle calédonie heure",
                 "nouvelle calédonie la 1ère",
                 "nouvelle calédonie indépendance",
-                "souveraineté"
+                "décolonisation"
+            ]
+        },
+        {
+            "group": "Informations pratiques",
+            "title": "nouvelle calédonie outre mer",
+            "intent": "informational",
+            "keywords": [
+                "nouvelle calédonie outre mer",
+                "collectivité d'outre-mer",
+                "collectivité territoriale en france",
+                "sui generis",
+                "nouvelle calédonie quel pays",
+                "nouvelle calédonie dom ou tom"
             ]
         }
     ],
@@ -1085,14 +1083,15 @@
         "voyage nouvelle calédonie": "complementary",
         "nouvelle calédonie ouvéa": "complementary",
         "nouvelle calédonie quel pays": "complementary",
-        "nouvelle caledonie hôtel": "complementary",
+        "nouvelle caledonie hôtel": "commercial",
         "nouvelle calédonie reportage": "complementary",
-        "timbre nouvelle calédonie": "complementary",
+        "timbre nouvelle calédonie": "doubtful",
         "nouvelle calédonie dom ou tom": "complementary",
         "nouvelle calédonie drapeau": "complementary",
         "nouvelle calédonie musique": "complementary",
         "nouvelle calédonie indépendance": "complementary",
         "nouvelle-calédonie wikipédia": "complementary",
+        "timbres neufs nouvelle calédonie": "commercial",
         "climat de la nouvelle calédonie": "complementary",
         "histoire de la nouvelle calédonie": "complementary",
         "nouvelle calédonie superficie": "complementary",
@@ -1109,22 +1108,19 @@
         "transport nouvelle calédonie": "core",
         "nouméa": "core",
         "îles loyauté": "core",
-        "tribu kanak": "core",
         "lagon nouvelle calédonie": "core",
         "monts koghis": "core",
-        "tontouta aéroport": "commercial",
-        "boulouparis": "core",
-        "grand terre": "core",
-        "kanak art": "core",
-        "nickel nouvelle calédonie": "core",
+        "tribu kanak": "core",
+        "climat tropical": "complementary",
+        "transport maritime": "complementary",
+        "histoire colonisation": "core",
         "espace schengen": "doubtful",
-        "océan pacifique": "complementary",
+        "océan pacifique": "core",
         "collectivité d'outre-mer": "complementary",
         "peuple autochtone": "complementary",
         "collectivité territoriale en france": "complementary",
-        "souveraineté": "complementary",
         "sui generis": "complementary",
-        "timbres neufs nouvelle calédonie": "doubtful",
+        "décolonisation": "complementary",
         "nouvelle calédonie pour fsx": "doubtful"
     }
 }

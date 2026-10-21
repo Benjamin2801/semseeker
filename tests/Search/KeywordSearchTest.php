@@ -120,6 +120,7 @@ final class KeywordSearchTest extends TestCase
         $result = $this->search(concepts: static fn () => throw new AiException('panne'))->search('pain', 'fr');
 
         self::assertSame(['pain commun', 'pain prix'], self::texts($result->keywords));
+        self::assertFalse($result->isComplete(), 'Sans concepts, le résultat n\'est gardé que peu de temps.');
     }
 
     public function testKeepsOnlyTheBestCandidates(): void

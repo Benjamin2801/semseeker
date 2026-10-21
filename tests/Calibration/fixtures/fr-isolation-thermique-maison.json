@@ -17,11 +17,11 @@
         "laine de verre",
         "laine de roche",
         "isolation par l'extérieur",
-        "isolation des combles",
-        "mousse polyuréthane",
-        "fibre de bois",
+        "isolation combles perdus",
+        "isolant écologique",
         "pont thermique",
-        "étanchéité à l'air"
+        "étanchéité à l'air",
+        "isolation plancher bas"
     ],
     "suggestions": {
         "amazon": [
@@ -33,8 +33,8 @@
             "contrôle isolation thermique maison"
         ],
         "duckduckgo": [
-            "isolation thermique maison",
             "isolation thermique maison individuelle",
+            "isolation thermique maison",
             "contrôle isolation thermique maison"
         ],
         "google": [
@@ -353,147 +353,63 @@
             ],
             [
                 0,
-                "isolation des combles"
+                "isolation combles perdus"
             ],
             [
                 1,
-                "isolation des combles 1 euro"
+                "isolation combles perdus 1 euro"
             ],
             [
                 2,
-                "isolation des combles perdus"
+                "isolation combles perdus prix m2"
             ],
             [
                 3,
-                "isolation des combles par soufflage"
+                "isolation combles perdus que choisir"
             ],
             [
                 4,
-                "isolation des combles à 1€"
+                "isolation combles perdus ouate de cellulose"
             ],
             [
                 5,
-                "isolation des combles aménageables"
+                "isolation combles perdus par soufflage"
             ],
             [
                 6,
-                "isolation des combles perdus sous toiture"
+                "isolation combles perdus laine de verre"
             ],
             [
                 7,
-                "isolation des combles quelle épaisseur"
+                "isolation combles perdus isover"
             ],
             [
                 8,
-                "isolation des combles leroy merlin"
+                "isolation combles perdus leroy merlin"
             ],
             [
                 9,
-                "isolation des combles à 1 euro conditions"
+                "isolation combles perdus fibre de bois"
             ],
             [
                 10,
-                "isolation des combles à colomiers"
+                "isolation combles perdus alsace"
             ],
             [
                 11,
-                "isolation des combles à balma"
+                "isolation combles perdus laine de roche"
             ],
             [
                 0,
-                "mousse polyuréthane"
+                "isolant écologique"
             ],
             [
                 1,
-                "mousse polyuréthane expansive"
+                "isolant écologique mur"
             ],
             [
                 2,
-                "mousse polyuréthane projetée"
-            ],
-            [
-                3,
-                "mousse polyuréthane isolation thermique"
-            ],
-            [
-                4,
-                "mousse polyuréthane étanche à l'eau"
-            ],
-            [
-                5,
-                "mousse polyuréthane anti feu"
-            ],
-            [
-                6,
-                "mousse polyuréthane haute densité"
-            ],
-            [
-                7,
-                "mousse polyuréthane coupe feu"
-            ],
-            [
-                8,
-                "mousse polyuréthane leroy merlin"
-            ],
-            [
-                9,
-                "mousse polyuréthane pistolable"
-            ],
-            [
-                10,
-                "mousse polyuréthane anti rongeur"
-            ],
-            [
-                11,
-                "mousse polyuréthane en bombe"
-            ],
-            [
-                0,
-                "fibre de bois isolant"
-            ],
-            [
-                1,
-                "fibre de bois"
-            ],
-            [
-                2,
-                "fibre de bois steico"
-            ],
-            [
-                3,
-                "fibre de bois 200mm"
-            ],
-            [
-                4,
-                "fibre de bois rigide"
-            ],
-            [
-                5,
-                "fibre de bois 100 mm"
-            ],
-            [
-                6,
-                "fibre de bois ite"
-            ],
-            [
-                7,
-                "fibre de bois 145 mm"
-            ],
-            [
-                8,
-                "fibre de bois brico dépôt"
-            ],
-            [
-                9,
-                "fibre de bois 40 mm"
-            ],
-            [
-                10,
-                "fibre de bois leroy merlin"
-            ],
-            [
-                11,
-                "fibre de bois 80 mm"
+                "isolant écologique sol"
             ],
             [
                 0,
@@ -590,6 +506,54 @@
             [
                 11,
                 "étanchéité à l'air bardage double peau"
+            ],
+            [
+                0,
+                "isolation plancher bas"
+            ],
+            [
+                1,
+                "isolation plancher bas sur sous sol"
+            ],
+            [
+                2,
+                "isolation plancher bas sur vide sanitaire"
+            ],
+            [
+                3,
+                "isolation plancher bas c'est quoi"
+            ],
+            [
+                4,
+                "isolation plancher bas polystyrène"
+            ],
+            [
+                5,
+                "isolation plancher bas sur terre plein"
+            ],
+            [
+                6,
+                "isolation plancher bas mpr"
+            ],
+            [
+                7,
+                "isolation plancher bas tms"
+            ],
+            [
+                8,
+                "isolation plancher bas rge"
+            ],
+            [
+                9,
+                "isolation plancher bas aide"
+            ],
+            [
+                10,
+                "isolation plancher bas knauf"
+            ],
+            [
+                11,
+                "isolation plancher bas garage"
             ]
         ],
         "google": [
@@ -719,123 +683,83 @@
             ],
             [
                 0,
-                "isolation des combles"
+                "isolation combles perdus"
             ],
             [
                 1,
-                "isolation des combles a 1€"
+                "isolation combles perdus par soufflage"
             ],
             [
                 2,
-                "isolation des combles à 1 euro 2026"
+                "isolation combles perdus ouate de cellulose"
             ],
             [
                 3,
-                "isolation des combles perdus"
+                "isolation combles perdus 1 euro"
             ],
             [
                 4,
-                "isolation des combles perdus sous toiture"
+                "isolation combles perdus leroy merlin"
             ],
             [
                 5,
-                "isolation des combles par soufflage"
+                "isolation combles perdus contre la chaleur"
             ],
             [
                 6,
-                "isolation des combles contre la chaleur"
+                "isolation combles perdus prix m2"
             ],
             [
                 7,
-                "isolation des combles perdus par soufflage"
+                "isolation combles perdus laine de bois"
             ],
             [
                 8,
-                "isolation des combles aménageables"
+                "isolation combles perdus laine de verre"
             ],
             [
                 9,
-                "isolation des combles sous toiture"
+                "isolation combles perdus fibre de bois"
             ],
             [
                 0,
-                "mousse polyuréthane"
+                "isolant écologique"
             ],
             [
                 1,
-                "mousse polyuréthane projetée"
+                "isolant écologique le moins cher"
             ],
             [
                 2,
-                "mousse polyuréthane action"
+                "isolant écologique performant"
             ],
             [
                 3,
-                "mousse polyuréthane expansive"
+                "isolant écologique sous chape"
             ],
             [
                 4,
-                "mousse polyuréthane isolation"
+                "isolation écologique mur intérieur"
             ],
             [
                 5,
-                "mousse polyuréthane brico dépôt"
+                "isolation écologique combles"
             ],
             [
                 6,
-                "mousse polyuréthane leroy merlin"
+                "isolation écologique toiture"
             ],
             [
                 7,
-                "mousse polyuréthane anti feu"
+                "isolant ecologique pas cher"
             ],
             [
                 8,
-                "mousse polyuréthane étanche"
+                "isolant ecologique mur"
             ],
             [
                 9,
-                "mousse polyuréthane anti rongeur"
-            ],
-            [
-                0,
-                "fibre de bois"
-            ],
-            [
-                1,
-                "fibre de bois isolation"
-            ],
-            [
-                2,
-                "fibre de bois 200mm"
-            ],
-            [
-                3,
-                "fibre de bois rigide"
-            ],
-            [
-                4,
-                "fibre de bois inconvénient"
-            ],
-            [
-                5,
-                "fibre de bois 145mm"
-            ],
-            [
-                6,
-                "fibre de bois steico"
-            ],
-            [
-                7,
-                "fibre de bois leroy merlin"
-            ],
-            [
-                8,
-                "fibre de bois 60mm"
-            ],
-            [
-                9,
-                "fibre de bois ou laine de bois"
+                "isolation écologique par l extérieur"
             ],
             [
                 0,
@@ -916,6 +840,46 @@
             [
                 9,
                 "étanchéité à l'air châssis"
+            ],
+            [
+                0,
+                "isolation plancher bas"
+            ],
+            [
+                1,
+                "isolation plancher bas maison ancienne"
+            ],
+            [
+                2,
+                "isolation plancher bas sous-sol"
+            ],
+            [
+                3,
+                "isolation plancher bas laine de roche"
+            ],
+            [
+                4,
+                "isolation plancher bas prix m2"
+            ],
+            [
+                5,
+                "isolation plancher bas vide sanitaire"
+            ],
+            [
+                6,
+                "isolation plancher bas leroy merlin"
+            ],
+            [
+                7,
+                "isolation plancher bas polystyrène"
+            ],
+            [
+                8,
+                "isolation plancher bas rge"
+            ],
+            [
+                9,
+                "isolation plancher bas par le dessus"
             ]
         ],
         "amazon": [
@@ -1005,83 +969,7 @@
             ],
             [
                 0,
-                "mousse polyuréthane expansive"
-            ],
-            [
-                1,
-                "mousse polyuréthane"
-            ],
-            [
-                2,
-                "mousse polyuréthane pistolable"
-            ],
-            [
-                3,
-                "mousse polyuréthane expansive pistolable"
-            ],
-            [
-                4,
-                "pistolet à mousse polyuréthane"
-            ],
-            [
-                5,
-                "mousse polyuréthane haute densité"
-            ],
-            [
-                6,
-                "mousse polyuréthane faible expansion"
-            ],
-            [
-                7,
-                "mousse polyuréthane expansive extérieur"
-            ],
-            [
-                8,
-                "mousse polyuréthane expansive pour pistolet"
-            ],
-            [
-                9,
-                "mousse polyuréthane colle"
-            ],
-            [
-                0,
-                "fibre de bois"
-            ],
-            [
-                1,
-                "fibre de bois isolation"
-            ],
-            [
-                2,
-                "fibre de bois isolation 40mm"
-            ],
-            [
-                3,
-                "fibre de bois isolation 200mm"
-            ],
-            [
-                4,
-                "fibre de bois 100mm"
-            ],
-            [
-                5,
-                "fibre de bois isolation thermique"
-            ],
-            [
-                6,
-                "fibre de bois 7mm"
-            ],
-            [
-                7,
-                "fibre de bois 40mm"
-            ],
-            [
-                8,
-                "fibre de bois 20 mm"
-            ],
-            [
-                9,
-                "fibre de bois isolation 180mm"
+                "isolation combles perdus"
             ],
             [
                 0,
@@ -1191,99 +1079,47 @@
             ],
             [
                 0,
-                "isolation des combles"
+                "isolation combles perdus"
             ],
             [
                 1,
-                "isolation des combles perdus"
+                "isolation combles perdus 1 euro"
             ],
             [
                 2,
-                "isolation des combles 1 euro"
+                "isolation combles perdus prix m2"
             ],
             [
                 3,
-                "isolation des combles par soufflage"
+                "isolation combles perdus que choisir"
             ],
             [
                 4,
-                "isolation des combles à 1€"
+                "isolation combles perdus ouate de cellulose"
             ],
             [
                 5,
-                "isolation des combles aménageables"
+                "isolation combles perdus par soufflage"
             ],
             [
                 6,
-                "isolation des combles perdus sous toiture"
+                "isolation combles perdus isover"
             ],
             [
                 7,
-                "isolation des combles quelle épaisseur"
+                "isolation combles perdus laine de verre"
             ],
             [
                 0,
-                "mousse polyuréthane"
+                "isolant écologique"
             ],
             [
                 1,
-                "mousse polyuréthane expansive"
+                "isolant écologique mur"
             ],
             [
                 2,
-                "mousse polyuréthane projetée"
-            ],
-            [
-                3,
-                "mousse polyuréthane isolation thermique"
-            ],
-            [
-                4,
-                "mousse polyuréthane étanche à l'eau"
-            ],
-            [
-                5,
-                "mousse polyuréthane anti feu"
-            ],
-            [
-                6,
-                "mousse polyuréthane haute densité"
-            ],
-            [
-                7,
-                "mousse polyuréthane coupe feu"
-            ],
-            [
-                0,
-                "fibre de bois"
-            ],
-            [
-                1,
-                "fibre de bois isolant"
-            ],
-            [
-                2,
-                "fibre de bois steico"
-            ],
-            [
-                3,
-                "fibre de bois 200mm"
-            ],
-            [
-                4,
-                "fibre de bois rigide"
-            ],
-            [
-                5,
-                "fibre de bois 100 mm"
-            ],
-            [
-                6,
-                "fibre de bois ite"
-            ],
-            [
-                7,
-                "fibre de bois 145 mm"
+                "isolant écologique sol"
             ],
             [
                 0,
@@ -1348,16 +1184,44 @@
             [
                 7,
                 "étanchéité à l'air maison"
+            ],
+            [
+                0,
+                "isolation plancher bas"
+            ],
+            [
+                1,
+                "isolation plancher bas sur sous sol"
+            ],
+            [
+                2,
+                "isolation plancher bas sur vide sanitaire"
+            ],
+            [
+                3,
+                "isolation plancher bas c'est quoi"
+            ],
+            [
+                4,
+                "isolation plancher bas polystyrène"
+            ],
+            [
+                5,
+                "isolation plancher bas sur terre plein"
+            ],
+            [
+                6,
+                "isolation plancher bas mpr"
+            ],
+            [
+                7,
+                "isolation plancher bas tms"
             ]
         ],
         "ebay": [
             [
                 0,
                 "laine de verre"
-            ],
-            [
-                0,
-                "mousse polyuréthane"
             ]
         ],
         "yahoo": [
@@ -1483,123 +1347,39 @@
             ],
             [
                 0,
-                "isolation des combles"
+                "isolation combles perdus"
             ],
             [
                 1,
-                "isolation des combles par soufflage"
+                "isolation combles perdus prix m2"
             ],
             [
                 2,
-                "isolation des combles 1 euro"
+                "isolation combles perdus devis"
             ],
             [
                 3,
-                "isolation des combles perdus"
+                "isolation combles perdus ouate de cellulose"
             ],
             [
                 4,
-                "isolation des combles aménageables"
+                "isolation combles perdus toulouse"
             ],
             [
                 5,
-                "isolation des combles à 1€"
+                "isolation combles perdus leroy merlin"
             ],
             [
                 6,
-                "isolation des combles leroy merlin"
-            ],
-            [
-                7,
-                "isolation des combles gouvernement"
-            ],
-            [
-                8,
-                "isolation des combles sous tuiles"
-            ],
-            [
-                9,
-                "isolation des combles sous rampant"
+                "isolation combles perdus par soufflage"
             ],
             [
                 0,
-                "mousse polyuréthane"
+                "isolant écologique"
             ],
             [
                 1,
-                "mousse polyuréthane projetée"
-            ],
-            [
-                2,
-                "mousse polyuréthane en bombe"
-            ],
-            [
-                3,
-                "mousse polyuréthane matelas"
-            ],
-            [
-                4,
-                "mousse polyuréthane leroy merlin"
-            ],
-            [
-                5,
-                "mousse polyuréthane d'isolation"
-            ],
-            [
-                6,
-                "mousse polyuréthane expansée"
-            ],
-            [
-                7,
-                "mousse polyuréthane brico dépôt"
-            ],
-            [
-                8,
-                "mousse polyuréthane avantages et inconvénient"
-            ],
-            [
-                9,
-                "mousse polyuréthane expansive"
-            ],
-            [
-                0,
-                "fibre de bois"
-            ],
-            [
-                1,
-                "fibre de bois isolation"
-            ],
-            [
-                2,
-                "fibre de bois steico"
-            ],
-            [
-                3,
-                "fibre de bois panneaux"
-            ],
-            [
-                4,
-                "fibre de bois avantages inconvénients"
-            ],
-            [
-                5,
-                "fibre de bois leroy merlin"
-            ],
-            [
-                6,
-                "fibre de bois 40"
-            ],
-            [
-                7,
-                "fibre de bois 200mm"
-            ],
-            [
-                8,
-                "fibre de bois plafond"
-            ],
-            [
-                9,
-                "fibre de bois sarking"
+                "isolant thermique écologique"
             ],
             [
                 0,
@@ -1668,6 +1448,14 @@
             [
                 6,
                 "test étanchéité à l'air prix"
+            ],
+            [
+                0,
+                "isolation plancher bas"
+            ],
+            [
+                1,
+                "isolation plancher bas sur sous sol"
             ]
         ],
         "youtube": [
@@ -1793,123 +1581,47 @@
             ],
             [
                 0,
-                "isolation des combles"
+                "isolation combles perdus"
             ],
             [
                 1,
-                "isolation des combles perdus"
+                "isolation combles perdus laine de roche"
             ],
             [
                 2,
-                "isolation des combles avec laine de verre"
+                "isolation combles perdus ouate de cellulose"
             ],
             [
                 3,
-                "isolation des combles aménageables"
+                "isolation combles perdus entre solives"
             ],
             [
                 4,
-                "isolation des combles par soufflage"
+                "isolation combles perdus soufflage"
             ],
             [
                 5,
-                "isolation des combles à 1 €"
+                "isolation combles perdus laine de bois"
             ],
             [
                 6,
-                "isolation des combles pentes et rampants tuto complet"
+                "isoler combles perdus soi-même"
             ],
             [
                 7,
-                "isolation des combles perdus sous toiture"
+                "isolation comble perdu rouleau"
             ],
             [
                 8,
-                "isolation des combles perdus par soufflage"
+                "isolation comble perdu ouate cellulose"
             ],
             [
                 9,
-                "isolation des combles à 1 € centre d'appel"
+                "isoler ses combles perdus soi meme"
             ],
             [
                 0,
-                "mousse polyuréthane"
-            ],
-            [
-                1,
-                "mousse polyuréthane projetée"
-            ],
-            [
-                2,
-                "mousse polyuréthane expansive"
-            ],
-            [
-                3,
-                "mousse polyuréthane cheveux"
-            ],
-            [
-                4,
-                "mousse polyuréthane isolation"
-            ],
-            [
-                5,
-                "mousse polyuréthane projetée sol"
-            ],
-            [
-                6,
-                "mousse polyuréthane fenetre"
-            ],
-            [
-                7,
-                "mousse polyuréthane action"
-            ],
-            [
-                8,
-                "mousse polyuréthane colle"
-            ],
-            [
-                9,
-                "mousse polyuréthane bi composant"
-            ],
-            [
-                0,
-                "fibre de bois"
-            ],
-            [
-                1,
-                "fibre de bois isolation"
-            ],
-            [
-                2,
-                "fibre de bois isolation interieure"
-            ],
-            [
-                3,
-                "fibre de bois isolation extérieure"
-            ],
-            [
-                4,
-                "fibre de bois sous rampant"
-            ],
-            [
-                5,
-                "fibre de bois rampant"
-            ],
-            [
-                6,
-                "fibre de bois plafond"
-            ],
-            [
-                7,
-                "fibre de bois ou laine de verre"
-            ],
-            [
-                8,
-                "fibre de bois rigide"
-            ],
-            [
-                9,
-                "fibre de bois optima"
+                "isolation écologique"
             ],
             [
                 0,
@@ -1974,6 +1686,26 @@
             [
                 5,
                 "pose de membrane d'étanchéité à l'air"
+            ],
+            [
+                0,
+                "isolation plancher bas"
+            ],
+            [
+                1,
+                "isolation plancher bas maison ancienne"
+            ],
+            [
+                2,
+                "isolation plancher bas garage"
+            ],
+            [
+                3,
+                "isolation plancher bas bois"
+            ],
+            [
+                4,
+                "isolation plancher bas polystyrène"
             ]
         ]
     },
@@ -2017,26 +1749,29 @@
     "pages": [
         {
             "group": "Matériaux d'isolation",
-            "title": "mousse polyuréthane",
+            "title": "laine de verre",
             "intent": "commercial",
             "keywords": [
+                "laine de verre",
+                "isolation thermique maison individuelle",
+                "laine de roche ou laine de verre",
+                "isolation plancher bas maison ancienne",
+                "isolation plancher bas polystyrène",
+                "isolation thermique des bâtiments",
+                "aides financières isolation",
+                "déphasage thermique",
+                "isolation multicouche",
+                "lamda isolant",
                 "mousse polyuréthane",
-                "isolant synthétique",
-                "mousse polyuréthane expansive",
-                "mousse polyuréthane projetée",
-                "mousse polyuréthane isolation"
-            ]
-        },
-        {
-            "group": "Matériaux d'isolation",
-            "title": "fibre de bois",
-            "intent": "commercial",
-            "keywords": [
-                "fibre de bois",
-                "fibre de bois isolation",
-                "isolant naturel",
-                "fibre de bois steico",
-                "fibre de bois 200mm"
+                "performance isolation thermique",
+                "polystyrène expansé",
+                "problèmes isolation thermique",
+                "réglementation thermique",
+                "résistance thermique",
+                "épaisseur isolant",
+                "étapes isolation thermique",
+                "laine de verre 100mm",
+                "laine de verre 200mm"
             ]
         },
         {
@@ -2045,6 +1780,7 @@
             "intent": "commercial",
             "keywords": [
                 "laine de roche",
+                "laine minérale",
                 "laine de roche rockwool",
                 "laine de roche soufflée",
                 "laine de roche 200mm"
@@ -2052,59 +1788,14 @@
         },
         {
             "group": "Matériaux d'isolation",
-            "title": "laine de verre",
-            "intent": "commercial",
-            "keywords": [
-                "laine de verre",
-                "conductivité thermique",
-                "isolant mince",
-                "isolation multicouche",
-                "parement isolant",
-                "résistance thermique",
-                "transfert thermique",
-                "laine de roche ou laine de verre",
-                "laine de verre 100mm"
-            ]
-        },
-        {
-            "group": "Techniques d'isolation",
-            "title": "étanchéité à l'air",
+            "title": "isolant écologique",
             "intent": "informational",
             "keywords": [
-                "étanchéité à l'air",
-                "étanchéité à l'air des bâtiments",
-                "etancheite a l air d une maison"
-            ]
-        },
-        {
-            "group": "Techniques d'isolation",
-            "title": "isolation par l'extérieur",
-            "intent": "commercial",
-            "keywords": [
-                "isolation par l'extérieur",
-                "enduit acrylique",
-                "isolation par l'extérieur prix",
-                "coût isolation thermique"
-            ]
-        },
-        {
-            "group": "Isolation des combles",
-            "title": "isolation des combles",
-            "intent": "informational",
-            "keywords": [
-                "isolation des combles",
-                "isolation des combles perdus",
-                "isolation des combles aménageables"
-            ]
-        },
-        {
-            "group": "Isolation des combles",
-            "title": "isolation des combles par soufflage",
-            "intent": "informational",
-            "keywords": [
-                "isolation des combles par soufflage",
-                "isolation des combles a 1€",
-                "isolation des combles 1 euro"
+                "isolant écologique",
+                "fibre de bois",
+                "isolant réfléchissant",
+                "types d'isolants thermiques",
+                "isolation combles perdus ouate de cellulose"
             ]
         },
         {
@@ -2113,76 +1804,110 @@
             "intent": "informational",
             "keywords": [
                 "pont thermique",
+                "pont thermique dpe",
+                "pont thermique maison",
+                "transfert thermique",
                 "pont thermique fenetre",
                 "pont thermique isolation",
                 "pont thermique définition",
-                "pont thermique dpe",
-                "pont thermique maison"
+                "pont thermique moisissure"
             ]
         },
         {
-            "group": "Isolation thermique globale",
-            "title": "isolation thermique maison individuelle",
+            "group": "Isolation des combles",
+            "title": "isolation combles perdus",
             "intent": "informational",
             "keywords": [
-                "isolation thermique maison individuelle",
-                "isolation thermique des bâtiments",
+                "isolation combles perdus",
+                "isolation plancher bas",
+                "isolation plancher bas sur sous sol",
+                "isolation combles perdus prix m2",
+                "isolation combles perdus 1 euro",
+                "isolation combles perdus par soufflage"
+            ]
+        },
+        {
+            "group": "Étanchéité à l'air",
+            "title": "étanchéité à l'air",
+            "intent": "informational",
+            "keywords": [
+                "étanchéité à l'air",
+                "étanchéité à l'air des bâtiments",
+                "etancheite a l air d une maison",
                 "diagnostic de performance énergétique collectif",
-                "facteur 4",
-                "facteur 9",
                 "habitat passif",
                 "performance énergétique",
-                "réglementation thermique"
+                "test étanchéité à l'air",
+                "membrane d étanchéité à l'air"
+            ]
+        },
+        {
+            "group": "Isolation par l'extérieur",
+            "title": "isolation par l'extérieur",
+            "intent": "commercial",
+            "keywords": [
+                "isolation par l'extérieur",
+                "enduit acrylique",
+                "isolation par l'extérieur prix",
+                "coût isolation thermique maison"
             ]
         }
     ],
     "categories": {
         "laine de verre": "core",
-        "mousse polyuréthane": "core",
-        "fibre de bois": "core",
+        "isolation combles perdus": "core",
         "isolation par l'extérieur": "core",
         "laine de roche": "core",
         "pont thermique": "core",
         "étanchéité à l'air": "core",
-        "isolation des combles": "core",
-        "fibre de bois isolation": "complementary",
-        "mousse polyuréthane expansive": "core",
-        "mousse polyuréthane projetée": "core",
-        "isolation des combles perdus": "core",
+        "isolation plancher bas": "complementary",
         "isolation thermique maison individuelle": "core",
-        "isolation des combles par soufflage": "core",
+        "isolant écologique": "core",
+        "isolation combles perdus ouate de cellulose": "core",
         "laine de roche rockwool": "core",
         "pont thermique fenetre": "core",
         "isolation par l'extérieur prix": "commercial",
         "laine de roche ou laine de verre": "complementary",
-        "isolation des combles aménageables": "core",
+        "isolation combles perdus prix m2": "commercial",
         "laine de roche soufflée": "core",
-        "fibre de bois steico": "commercial",
-        "isolation des combles a 1€": "commercial",
         "laine de verre 100mm": "core",
         "pont thermique isolation": "core",
-        "fibre de bois 200mm": "complementary",
+        "isolation combles perdus par soufflage": "complementary",
+        "isolation plancher bas sur sous sol": "complementary",
         "pont thermique définition": "complementary",
         "étanchéité à l'air des bâtiments": "complementary",
+        "isolation plancher bas maison ancienne": "complementary",
         "pont thermique dpe": "complementary",
         "pont thermique maison": "complementary",
-        "isolation des combles 1 euro": "commercial",
         "laine de roche 200mm": "complementary",
-        "mousse polyuréthane isolation": "complementary",
         "etancheite a l air d une maison": "complementary",
-        "coût isolation thermique": "commercial",
-        "isolant mince": "complementary",
+        "isolation combles perdus 1 euro": "commercial",
+        "membrane d étanchéité à l'air": "complementary",
+        "laine de verre 200mm": "complementary",
+        "test étanchéité à l'air": "complementary",
+        "isolation plancher bas polystyrène": "complementary",
+        "pont thermique moisissure": "complementary",
+        "types d'isolants thermiques": "core",
+        "performance isolation thermique": "core",
+        "coût isolation thermique maison": "commercial",
+        "étapes isolation thermique": "complementary",
+        "aides financières isolation": "commercial",
+        "problèmes isolation thermique": "complementary",
+        "réglementation thermique": "core",
+        "laine minérale": "core",
+        "polystyrène expansé": "core",
+        "mousse polyuréthane": "core",
+        "fibre de bois": "core",
+        "isolant réfléchissant": "complementary",
         "résistance thermique": "core",
-        "conductivité thermique": "core",
-        "parement isolant": "complementary",
-        "isolant naturel": "complementary",
-        "isolant synthétique": "complementary",
+        "déphasage thermique": "core",
+        "lamda isolant": "core",
+        "épaisseur isolant": "core",
         "performance énergétique": "core",
         "transfert thermique": "complementary",
-        "réglementation thermique": "complementary",
         "diagnostic de performance énergétique collectif": "complementary",
-        "facteur 4": "complementary",
-        "facteur 9": "complementary",
+        "facteur 4": "doubtful",
+        "facteur 9": "doubtful",
         "habitat passif": "complementary",
         "isolation multicouche": "complementary",
         "isolation thermique des bâtiments": "complementary",

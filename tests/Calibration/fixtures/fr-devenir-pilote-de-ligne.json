@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "école de pilotage",
+        "école pilotage",
         "licence atpl",
         "salaire commandant de bord",
+        "recrutement air france",
         "formation modulaires",
-        "cadets programmes",
         "simulateur de vol",
         "médecine aéronautique",
-        "aviation commerciale"
+        "carrières aviation"
     ],
     "suggestions": {
         "amazon": [
@@ -233,51 +233,51 @@
             ],
             [
                 0,
-                "ecole de pilotage"
+                "ecole pilotage avion"
             ],
             [
                 1,
-                "ecole de pilotage avion"
+                "ecole pilotage"
             ],
             [
                 2,
-                "ecole de pilotage automobile"
+                "ecole pilotage automobile"
             ],
             [
                 3,
-                "ecole de pilotage quebec"
+                "ecole pilotage aston fly"
             ],
             [
                 4,
-                "ecole de pilotage montreal"
+                "ecole pilotage st hubert"
             ],
             [
                 5,
-                "école de pilotage de drone"
+                "école pilotage hélicoptère"
             ],
             [
                 6,
-                "ecole de pilotage france"
+                "ecole pilotage ulm"
             ],
             [
                 7,
-                "ecole de pilotage moto"
+                "ecole pilotage agen"
             ],
             [
                 8,
-                "école de pilotage toulouse"
+                "ecole pilotage moto"
             ],
             [
                 9,
-                "école de pilotage hélicoptère"
+                "ecole pilotage blois"
             ],
             [
                 10,
-                "ecole de pilotage aviation"
+                "ecole pilotage tours"
             ],
             [
                 11,
-                "ecole de pilotage saint hubert"
+                "ecole pilotage avion lyon"
             ],
             [
                 0,
@@ -369,6 +369,54 @@
             ],
             [
                 0,
+                "recrutement air france"
+            ],
+            [
+                1,
+                "recrutement air france 2026"
+            ],
+            [
+                2,
+                "recrutement air france pnc"
+            ],
+            [
+                3,
+                "recrutement air france alternance"
+            ],
+            [
+                4,
+                "recrutement air france 2025"
+            ],
+            [
+                5,
+                "recrutement air france mail"
+            ],
+            [
+                6,
+                "recrutement air france canada"
+            ],
+            [
+                7,
+                "recrutement air france agent d'escale"
+            ],
+            [
+                8,
+                "recrutement air france orly"
+            ],
+            [
+                9,
+                "recrutement air france cadet"
+            ],
+            [
+                10,
+                "recrutement air france guadeloupe"
+            ],
+            [
+                11,
+                "recrutement air france hôtesse de l'air"
+            ],
+            [
+                0,
                 "formation modulaire"
             ],
             [
@@ -405,10 +453,6 @@
             ],
             [
                 0,
-                "cadet programmes"
-            ],
-            [
-                0,
                 "simulateur de vol"
             ],
             [
@@ -421,11 +465,11 @@
             ],
             [
                 3,
-                "simulateur de vol pc"
+                "simulateur de vol google earth"
             ],
             [
                 4,
-                "simulateur de vol google earth"
+                "simulateur de vol pc"
             ],
             [
                 5,
@@ -437,7 +481,7 @@
             ],
             [
                 7,
-                "simulateur de vol ps5"
+                "simulateur de vol paris"
             ],
             [
                 8,
@@ -445,27 +489,27 @@
             ],
             [
                 9,
-                "simulateur de vol paris"
-            ],
-            [
-                10,
                 "simulateur de vol gratuit français"
             ],
             [
-                11,
+                10,
                 "simulateur de vol rc gratuit français"
             ],
             [
-                0,
-                "médecine aéronautique"
+                11,
+                "simulateur de vol rc gratuit"
             ],
             [
-                1,
+                0,
                 "médecine aéronautique et spatiale"
             ],
             [
+                1,
+                "médecine aéronautique"
+            ],
+            [
                 2,
-                "médecine aéronautique pdf"
+                "médecin aéronautique classe 2"
             ],
             [
                 3,
@@ -473,23 +517,15 @@
             ],
             [
                 4,
-                "médecin aéronautique classe 2"
+                "médecine aéronautique pdf"
             ],
             [
                 0,
-                "aviation commerciale"
+                "carrière aviation"
             ],
             [
                 1,
-                "aviation commercial pilot"
-            ],
-            [
-                2,
-                "aviation commercial pilot requirements"
-            ],
-            [
-                3,
-                "aviation française commerciale"
+                "carrières dassault aviation"
             ]
         ],
         "google": [
@@ -575,43 +611,43 @@
             ],
             [
                 0,
-                "école de pilotage"
+                "école pilotage"
             ],
             [
                 1,
-                "école de pilotage automobile"
+                "école pilotage avion"
             ],
             [
                 2,
-                "école de pilotage en 8 lettres"
+                "école pilotage québec"
             ],
             [
                 3,
-                "ecole de pilotage mots fléchés"
+                "école pilotage borj el amri tunisie"
             ],
             [
                 4,
-                "école de pilotage avion"
+                "ecole pilotage helicoptere"
             ],
             [
                 5,
-                "école de pilotage pegase"
+                "ecole pilotage st hubert"
             ],
             [
                 6,
-                "école de pilotage automobile en france"
+                "ecole pilotage pegase"
             ],
             [
                 7,
-                "école de pilotage en france"
+                "ecole pilotage montpellier"
             ],
             [
                 8,
-                "école de pilotage moto"
+                "ecole pilotage toulouse"
             ],
             [
                 9,
-                "école de pilotage avion prix"
+                "ecole pilotage france"
             ],
             [
                 0,
@@ -695,15 +731,47 @@
             ],
             [
                 0,
-                "formation modulaires"
-            ],
-            [
-                0,
-                "cadet programmes"
+                "recrutement air france"
             ],
             [
                 1,
-                "pilot cadet program"
+                "recrutement air france pnc 2027"
+            ],
+            [
+                2,
+                "recrutement air france 2026"
+            ],
+            [
+                3,
+                "recrutement air france pnc 2026"
+            ],
+            [
+                4,
+                "recrutement air france pnc"
+            ],
+            [
+                5,
+                "recrutement air france hotesse de l air"
+            ],
+            [
+                6,
+                "recrutement air france alternance"
+            ],
+            [
+                7,
+                "recrutement air france steward"
+            ],
+            [
+                8,
+                "recrutement air france agent d'escale"
+            ],
+            [
+                9,
+                "recrutement air france cadet"
+            ],
+            [
+                0,
+                "formation modulaires"
             ],
             [
                 0,
@@ -771,7 +839,43 @@
             ],
             [
                 0,
-                "aviation commerciale"
+                "jobs aviation"
+            ],
+            [
+                1,
+                "career aviation"
+            ],
+            [
+                2,
+                "jobs aviation near me"
+            ],
+            [
+                3,
+                "job aviation search"
+            ],
+            [
+                4,
+                "jobs aviation management"
+            ],
+            [
+                5,
+                "jobs aviation remote"
+            ],
+            [
+                6,
+                "jobs aviation mechanic"
+            ],
+            [
+                7,
+                "jobs aviation safety"
+            ],
+            [
+                8,
+                "jobs aviation security"
+            ],
+            [
+                9,
+                "aviation industry jobs"
             ]
         ],
         "amazon": [
@@ -819,35 +923,35 @@
         "duckduckgo": [
             [
                 0,
-                "ecole de pilotage"
+                "ecole pilotage avion"
             ],
             [
                 1,
-                "ecole de pilotage avion"
+                "ecole pilotage"
             ],
             [
                 2,
-                "ecole de pilotage automobile"
+                "ecole pilotage automobile"
             ],
             [
                 3,
-                "ecole de pilotage quebec"
+                "ecole pilotage aston fly"
             ],
             [
                 4,
-                "ecole de pilotage montreal"
+                "ecole pilotage st hubert"
             ],
             [
                 5,
-                "école de pilotage de drone"
+                "école pilotage hélicoptère"
             ],
             [
                 6,
-                "ecole de pilotage france"
+                "ecole pilotage ulm"
             ],
             [
                 7,
-                "ecole de pilotage moto"
+                "ecole pilotage agen"
             ],
             [
                 0,
@@ -915,11 +1019,43 @@
             ],
             [
                 0,
-                "formation modulaire du travailleur minier"
+                "recrutement air france"
             ],
             [
                 1,
+                "recrutement air france 2026"
+            ],
+            [
+                2,
+                "recrutement air france pnc"
+            ],
+            [
+                3,
+                "recrutement air france alternance"
+            ],
+            [
+                4,
+                "recrutement air france 2025"
+            ],
+            [
+                5,
+                "recrutement air france mail"
+            ],
+            [
+                6,
+                "recrutement air france canada"
+            ],
+            [
+                7,
+                "recrutement air france agent d'escale"
+            ],
+            [
+                0,
                 "formation modulaire"
+            ],
+            [
+                1,
+                "formation modulaire du travailleur minier"
             ],
             [
                 2,
@@ -931,23 +1067,19 @@
             ],
             [
                 4,
-                "formation modulaire en infographie au togo"
-            ],
-            [
-                5,
                 "formation modulaire minier"
             ],
             [
-                6,
+                5,
                 "formation modulaire formatec"
+            ],
+            [
+                6,
+                "formation modulaire en infographie au togo"
             ],
             [
                 7,
                 "formation modulaire définition"
-            ],
-            [
-                0,
-                "cadet programmes"
             ],
             [
                 0,
@@ -1003,19 +1135,11 @@
             ],
             [
                 0,
-                "aviation commerciale"
+                "carrière aviation"
             ],
             [
                 1,
-                "aviation commercial pilot"
-            ],
-            [
-                2,
-                "aviation commercial pilot requirements"
-            ],
-            [
-                3,
-                "aviation française commerciale"
+                "carrières dassault aviation"
             ]
         ],
         "ebay": [
@@ -1040,40 +1164,24 @@
             [
                 0,
                 "simulateur de vol"
-            ],
-            [
-                0,
-                "animation commerciale"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "école de pilotage"
+                "école pilotage avion"
             ],
             [
                 1,
-                "école de pilotage avion"
+                "école pilotage drone"
             ],
             [
                 2,
-                "école de pilotage automobile"
+                "école pilotage toussus"
             ],
             [
                 3,
-                "école de pilotage hélicoptère"
-            ],
-            [
-                4,
-                "école de pilotage de drone"
-            ],
-            [
-                5,
-                "école de pilotage abbeville"
-            ],
-            [
-                6,
-                "école de pilotage en france"
+                "école pilotage hélicoptère"
             ],
             [
                 0,
@@ -1117,27 +1225,39 @@
             ],
             [
                 0,
+                "recrutement air france"
+            ],
+            [
+                1,
+                "recrutement air france emploi"
+            ],
+            [
+                2,
+                "recrutement air france 2025"
+            ],
+            [
+                3,
+                "recrutement air france alternance"
+            ],
+            [
+                4,
+                "recrutement air france klm"
+            ],
+            [
+                5,
+                "recrutement air france cadets"
+            ],
+            [
+                6,
+                "recrutement air france tahiti"
+            ],
+            [
+                0,
                 "formation modulaires constructions"
             ],
             [
                 1,
                 "formation modulaires maisons"
-            ],
-            [
-                0,
-                "cadets programmes tv"
-            ],
-            [
-                1,
-                "cadets programmes pour"
-            ],
-            [
-                2,
-                "cadets programmes télé"
-            ],
-            [
-                3,
-                "cadets programmes gestion"
             ],
             [
                 0,
@@ -1189,65 +1309,89 @@
             ],
             [
                 0,
-                "aviation commerciale femme"
+                "carrieres aviation civile"
             ],
             [
                 1,
-                "aviation commerciales"
+                "carrieres aviation militaire"
             ],
             [
                 2,
-                "aviation commerciale banque"
+                "carrieres aviation weather"
             ],
             [
                 3,
-                "aviation commerciale grandblaise"
+                "carrieres aviation sans"
             ]
         ],
         "youtube": [
             [
                 0,
-                "école de pilotage gta v"
+                "ecole pilotage gta 5"
             ],
             [
                 1,
-                "école de pilotage"
+                "ecole pilotage gta san andreas"
             ],
             [
                 2,
-                "école de pilotage gta v online"
+                "ecole pilotage maroc"
             ],
             [
                 3,
-                "école de pilotage avion"
+                "ecole pilotage"
             ],
             [
                 4,
-                "ecole de pilotage pegase"
+                "ecole pilotage pegase"
             ],
             [
                 5,
-                "ecole de pilotage gta san andreas"
+                "ecole pilotage quebec"
             ],
             [
                 6,
-                "ecole de pilotage maroc"
+                "ecole pilotage moto"
             ],
             [
                 7,
-                "ecole de pilotage en france"
+                "ecole pilotage avion"
             ],
             [
                 8,
-                "ecole de pilotage au canada"
+                "formation pilotage de drone"
             ],
             [
                 9,
-                "ecole de pilotage rallye"
+                "formation pilotage avion"
             ],
             [
                 0,
                 "atpl licence"
+            ],
+            [
+                0,
+                "recrutement air france"
+            ],
+            [
+                1,
+                "selection air france pilote"
+            ],
+            [
+                2,
+                "selection air france"
+            ],
+            [
+                3,
+                "recrutement pnc air france"
+            ],
+            [
+                4,
+                "selection cadet air france"
+            ],
+            [
+                5,
+                "rh air france chemise"
             ],
             [
                 0,
@@ -1292,6 +1436,10 @@
             [
                 0,
                 "medecine aeronautique"
+            ],
+            [
+                0,
+                "jobs aviation"
             ]
         ]
     },
@@ -1312,8 +1460,8 @@
                 "coverage": 1
             },
             {
-                "title": "Aviation commerciale",
-                "views": 180,
+                "title": "Médecine aéronautique",
+                "views": 119,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1340,24 +1488,31 @@
             "intent": "informational",
             "keywords": [
                 "etudes pour devenir pilote de ligne",
-                "formation pour devenir pilote de ligne",
+                "école pilotage hélicoptère",
+                "a320",
                 "allemand",
                 "anglais",
-                "compétences linguistiques",
-                "concours pilote de ligne",
+                "atpl",
+                "avion",
+                "avion de ligne",
+                "boeing 737",
+                "crp",
+                "durée formation pilote",
                 "formation pilote de ligne",
-                "formation pratique",
-                "gestion de vol",
                 "heures de vol",
-                "heures de vol requises",
+                "hélicoptère",
+                "instructeur",
                 "licence pilote de ligne",
-                "licence ppl",
-                "navigation aérienne",
+                "mcc",
+                "pilotage d'un avion",
+                "pilote d'essai",
                 "sécurité aérienne",
-                "théorie atpl",
+                "tr",
+                "type rating",
                 "licence atpl",
                 "licence atpl théorique",
-                "cadet programmes",
+                "ecole pilotage avion",
+                "école pilotage",
                 "formation modulaire"
             ]
         },
@@ -1367,62 +1522,58 @@
             "intent": "informational",
             "keywords": [
                 "simulateur de vol",
+                "simulateur de vol en ligne",
+                "simulateur de vol entraînement",
                 "simulateur de vol pc",
-                "simulateur de vol ps5",
-                "simulateur de vol en ligne"
+                "simulateur de vol gratuit",
+                "simulateur de vol ps5"
             ]
         },
         {
             "group": "Formation",
-            "title": "ecole de pilotage",
-            "intent": "commercial",
+            "title": "médecine aéronautique",
+            "intent": "informational",
             "keywords": [
-                "ecole de pilotage",
-                "avion",
-                "avion de ligne",
-                "hélicoptère",
-                "instructeur",
-                "pilotage d'un avion",
-                "pilote d'essai",
-                "ecole de pilotage avion",
-                "ecole de pilotage france",
-                "école pour devenir pilote de ligne"
+                "médecine aéronautique",
+                "médecin aéronautique classe 2",
+                "conditions médicales pilote",
+                "médecine aéronautique et spatiale",
+                "médecine aéronautique pdf"
             ]
         },
         {
-            "group": "Conditions",
+            "group": "Recrutement",
+            "title": "recrutement air france",
+            "intent": "commercial",
+            "keywords": [
+                "recrutement air france",
+                "compagnies aériennes recrutement",
+                "recrutement air france pnc",
+                "recrutement air france alternance",
+                "recrutement air france 2026",
+                "recrutement air france 2025"
+            ]
+        },
+        {
+            "group": "Recrutement",
+            "title": "jobs aviation",
+            "intent": "commercial",
+            "keywords": [
+                "jobs aviation",
+                "armée de l'air française",
+                "devenir pilote de ligne air france",
+                "devenir pilote de ligne suisse"
+            ]
+        },
+        {
+            "group": "Profils",
             "title": "devenir pilote de ligne à 40 ans",
             "intent": "informational",
             "keywords": [
                 "devenir pilote de ligne à 40 ans",
-                "médecine aéronautique",
-                "médecine aéronautique pdf",
-                "visite médicale",
-                "médecin aéronautique classe 2"
-            ]
-        },
-        {
-            "group": "Conditions",
-            "title": "devenir pilote de ligne sans bac",
-            "intent": "commercial",
-            "keywords": [
                 "devenir pilote de ligne sans bac",
-                "pay to fly",
-                "devenir pilote de ligne prix",
-                "coût formation pilote",
-                "devenir pilote de ligne gratuitement"
-            ]
-        },
-        {
-            "group": "Carrière",
-            "title": "devenir pilote de ligne air france",
-            "intent": "informational",
-            "keywords": [
-                "devenir pilote de ligne air france",
-                "compagnies aériennes",
-                "compagnies aériennes recrutement",
-                "salaire commandant de bord air france",
-                "parcours pour devenir pilote de ligne"
+                "devenir pilote de ligne en france",
+                "pourquoi devenir pilote de ligne"
             ]
         },
         {
@@ -1433,100 +1584,85 @@
                 "salaire commandant de bord",
                 "commandant de bord",
                 "salaire pilote de ligne",
-                "aviation commerciale"
+                "salaire commandant de bord air france",
+                "copilote"
             ]
         },
         {
-            "group": "Pays",
-            "title": "devenir pilote de ligne en france",
-            "intent": "informational",
+            "group": "Coûts",
+            "title": "devenir pilote de ligne prix",
+            "intent": "commercial",
             "keywords": [
-                "devenir pilote de ligne en france",
-                "devenir pilote de ligne suisse",
-                "devenir pilote de ligne belgique"
-            ]
-        },
-        {
-            "group": "Divers",
-            "title": "pourquoi devenir pilote de ligne",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi devenir pilote de ligne",
-                "blouson d'aviateur",
-                "carrière internationale pilote",
-                "copilote",
-                "tuskegee airmen"
+                "devenir pilote de ligne prix",
+                "coût formation pilote",
+                "pay to fly",
+                "formation pour devenir pilote de ligne"
             ]
         }
     ],
     "categories": {
         "simulateur de vol": "complementary",
         "médecine aéronautique": "core",
-        "ecole de pilotage": "core",
+        "recrutement air france": "commercial",
         "devenir pilote de ligne air france": "core",
         "simulateur de vol pc": "complementary",
         "licence atpl": "core",
-        "ecole de pilotage avion": "core",
-        "devenir pilote de ligne à 40 ans": "core",
-        "aviation commerciale": "core",
-        "cadet programmes": "core",
-        "salaire commandant de bord": "core",
-        "salaire commandant de bord air france": "core",
+        "ecole pilotage avion": "core",
+        "devenir pilote de ligne à 40 ans": "complementary",
+        "salaire commandant de bord": "commercial",
+        "salaire commandant de bord air france": "commercial",
+        "école pilotage": "core",
         "etudes pour devenir pilote de ligne": "core",
-        "devenir pilote de ligne sans bac": "core",
-        "simulateur de vol ps5": "complementary",
+        "devenir pilote de ligne sans bac": "complementary",
         "devenir pilote de ligne en france": "complementary",
+        "recrutement air france pnc": "commercial",
+        "simulateur de vol gratuit": "complementary",
         "devenir pilote de ligne prix": "commercial",
         "formation modulaire": "complementary",
+        "jobs aviation": "complementary",
+        "simulateur de vol ps5": "complementary",
+        "simulateur de vol google earth": "doubtful",
+        "recrutement air france alternance": "commercial",
+        "école pilotage hélicoptère": "complementary",
+        "médecine aéronautique et spatiale": "complementary",
+        "recrutement air france 2026": "commercial",
         "formation pour devenir pilote de ligne": "complementary",
         "licence atpl théorique": "complementary",
         "pourquoi devenir pilote de ligne": "complementary",
         "médecine aéronautique pdf": "complementary",
-        "devenir pilote de ligne gratuitement": "commercial",
-        "ecole de pilotage france": "complementary",
+        "devenir pilote de ligne gratuitement": "doubtful",
+        "médecin aéronautique classe 2": "complementary",
+        "recrutement air france 2025": "commercial",
         "simulateur de vol en ligne": "commercial",
         "devenir pilote de ligne suisse": "complementary",
-        "devenir pilote de ligne belgique": "complementary",
-        "parcours pour devenir pilote de ligne": "complementary",
-        "école pour devenir pilote de ligne": "complementary",
-        "médecin aéronautique classe 2": "complementary",
         "formation pilote de ligne": "core",
         "coût formation pilote": "commercial",
-        "salaire pilote de ligne": "commercial",
+        "durée formation pilote": "core",
         "compagnies aériennes recrutement": "commercial",
         "licence pilote de ligne": "core",
-        "heures de vol requises": "core",
-        "concours pilote de ligne": "core",
-        "carrière internationale pilote": "core",
-        "licence ppl": "core",
+        "salaire pilote de ligne": "commercial",
+        "conditions médicales pilote": "core",
+        "simulateur de vol entraînement": "core",
+        "atpl": "core",
         "heures de vol": "core",
-        "théorie atpl": "core",
-        "formation pratique": "core",
-        "compétences linguistiques": "core",
-        "visite médicale": "core",
-        "compagnies aériennes": "complementary",
-        "sécurité aérienne": "core",
-        "navigation aérienne": "core",
-        "gestion de vol": "core",
-        "anglais": "core",
+        "type rating": "core",
+        "a320": "core",
+        "boeing 737": "core",
+        "crp": "core",
+        "tr": "core",
+        "mcc": "core",
+        "sécurité aérienne": "complementary",
+        "anglais": "complementary",
         "allemand": "complementary",
-        "armée de l'air française": "doubtful",
-        "drone": "doubtful",
+        "armée de l'air française": "complementary",
         "avion": "core",
         "hélicoptère": "complementary",
         "avion de ligne": "complementary",
         "instructeur": "complementary",
         "pilotage d'un avion": "complementary",
         "pilote d'essai": "complementary",
-        "personnalités pilotes": "doubtful",
-        "blouson d'aviateur": "commercial",
         "pay to fly": "commercial",
         "copilote": "complementary",
-        "commandant de bord": "complementary",
-        "tuskegee airmen": "complementary",
-        "école de pilotage automobile": "doubtful",
-        "simulateur de vol gratuit": "doubtful",
-        "simulateur de vol google earth": "doubtful",
-        "médecine aéronautique et spatiale": "doubtful"
+        "commandant de bord": "complementary"
     }
 }

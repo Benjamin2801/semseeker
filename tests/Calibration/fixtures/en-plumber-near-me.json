@@ -52,11 +52,11 @@
             "plumber near me",
             "plumber near me reviews",
             "plumber near me emergency",
-            "plumber near me in rotherhithe",
-            "plumber near me in wapping",
             "plumber near me residential",
             "plumber near me cost",
-            "plumber near me rates"
+            "plumber near me rates",
+            "plumber near me charges",
+            "plumber near me availability"
         ],
         "google": [
             "plumber near me",
@@ -167,7 +167,7 @@
             ],
             [
                 9,
-                "licensed plumber near me"
+                "cheap plumber near me"
             ],
             [
                 0,
@@ -1329,11 +1329,11 @@
             ],
             [
                 1,
-                "emergency plumber innenstadt"
+                "emergency plumber cloghleagh"
             ],
             [
                 2,
-                "emergency plumber nordend-west"
+                "emergency plumber drumbiggil"
             ],
             [
                 3,
@@ -1369,23 +1369,23 @@
             ],
             [
                 3,
-                "affordable plumbers in aghards"
-            ],
-            [
-                4,
-                "affordable plumbers in thornhill"
-            ],
-            [
-                5,
                 "affordable plumbers near me emergency"
             ],
             [
-                6,
+                4,
                 "affordable plumbers san diego"
             ],
             [
-                7,
+                5,
                 "affordable plumbers near me contact"
+            ],
+            [
+                6,
+                "affordable plumbers nyc"
+            ],
+            [
+                7,
+                "affordable plumbers nj"
             ],
             [
                 0,
@@ -1425,11 +1425,11 @@
             ],
             [
                 1,
-                "drain cleaning service langley"
+                "drain cleaning service listowel"
             ],
             [
                 2,
-                "drain cleaning service upton"
+                "drain cleaning service curraghatoosane"
             ],
             [
                 3,
@@ -1489,15 +1489,15 @@
             ],
             [
                 1,
-                "leaky faucet repair townparks"
+                "leaky faucet repair youtube"
             ],
             [
                 2,
-                "leaky faucet repair ballyrichard"
+                "leaky faucet repair astley village"
             ],
             [
                 3,
-                "leaky faucet repair youtube"
+                "leaky faucet repair anglezarke"
             ],
             [
                 4,
@@ -1553,11 +1553,11 @@
             ],
             [
                 1,
-                "sewer line repair innenstadt"
+                "sewer line repair ecclesall"
             ],
             [
                 2,
-                "sewer line repair nordend-west"
+                "sewer line repair sharrow"
             ],
             [
                 3,
@@ -2137,7 +2137,7 @@
         {
             "group": "Plumbing Services",
             "title": "sewer line repair",
-            "intent": "commercial",
+            "intent": "transactional",
             "keywords": [
                 "sewer line repair",
                 "sewage",
@@ -2150,14 +2150,15 @@
         {
             "group": "Plumbing Services",
             "title": "pipe installation",
-            "intent": "informational",
+            "intent": "transactional",
             "keywords": [
                 "pipe installation",
                 "install",
                 "list of tools and equipment",
-                "pipe fitting",
+                "maintenance",
                 "piping",
-                "plumbing tools",
+                "plumbing inspection",
+                "plumbing permit",
                 "pipe installation methods",
                 "pipe installation procedure"
             ]
@@ -2165,7 +2166,7 @@
         {
             "group": "Plumbing Services",
             "title": "drain cleaning services",
-            "intent": "commercial",
+            "intent": "transactional",
             "keywords": [
                 "drain cleaning services",
                 "drain cleaning",
@@ -2176,7 +2177,7 @@
             ]
         },
         {
-            "group": "Hiring a Plumber",
+            "group": "Find a Plumber",
             "title": "licensed plumber",
             "intent": "commercial",
             "keywords": [
@@ -2186,7 +2187,7 @@
             ]
         },
         {
-            "group": "Hiring a Plumber",
+            "group": "Find a Plumber",
             "title": "affordable plumbers",
             "intent": "commercial",
             "keywords": [
@@ -2196,12 +2197,10 @@
             ]
         },
         {
-            "group": "Hiring a Plumber",
-            "title": "plumber near me",
-            "intent": "transactional",
+            "group": "Find a Plumber",
+            "title": "plumber near me reviews",
+            "intent": "commercial",
             "keywords": [
-                "maintenance",
-                "plumbing",
                 "plumber near me free estimate",
                 "plumber near me cheap"
             ]
@@ -2209,13 +2208,14 @@
         {
             "group": "Water Heater Repair",
             "title": "water heater repair",
-            "intent": "commercial",
+            "intent": "transactional",
             "keywords": [
                 "water heater repair",
                 "water",
                 "water heater",
-                "water heater repair kit",
                 "water heater repair near me",
+                "water heater repair service near me",
+                "water heater repair kit",
                 "water heater repair cost",
                 "water heater repair service"
             ]
@@ -2223,7 +2223,7 @@
         {
             "group": "Leaky Faucet Repair",
             "title": "leaky faucet repair",
-            "intent": "informational",
+            "intent": "transactional",
             "keywords": [
                 "leaky faucet repair",
                 "faucet replacement",
@@ -2244,7 +2244,7 @@
         }
     ],
     "categories": {
-        "pipe installation": "core",
+        "pipe installation": "commercial",
         "water heater repair": "commercial",
         "licensed plumber": "core",
         "leaky faucet repair": "commercial",
@@ -2252,18 +2252,17 @@
         "plumber near me emergency": "commercial",
         "plumber near me free estimate": "commercial",
         "water heater repair kit": "commercial",
-        "affordable plumbers near me": "core",
-        "drain cleaning services": "core",
+        "affordable plumbers near me": "commercial",
+        "drain cleaning services": "commercial",
         "sewer line repair": "commercial",
         "water heater repair near me": "commercial",
-        "licensed plumbers near me": "core",
+        "licensed plumbers near me": "commercial",
         "leaky faucet repair kit": "commercial",
-        "drain cleaning services near me": "core",
+        "drain cleaning services near me": "commercial",
         "sewer line repair near me": "commercial",
-        "affordable plumbers": "core",
+        "affordable plumbers": "commercial",
         "sewer line repair cost": "commercial",
-        "licensed plumbers in my area": "core",
-        "plumber near me residential": "doubtful",
+        "licensed plumbers in my area": "commercial",
         "emergency plumbers in my area": "commercial",
         "sewer line repair without digging": "commercial",
         "water heater repair cost": "commercial",
@@ -2273,27 +2272,28 @@
         "leaky faucet repair cost": "commercial",
         "leaky faucet repair bathtub": "commercial",
         "plumber near me reviews": "doubtful",
-        "pipe installation methods": "complementary",
-        "pipe installation procedure": "complementary",
+        "pipe installation methods": "commercial",
+        "pipe installation procedure": "commercial",
         "drain cleaning service cost": "commercial",
         "water heater repair service near me": "commercial",
         "affordable plumbers in my area": "commercial",
         "plumbing repair cost": "commercial",
-        "drain cleaning": "core",
+        "drain cleaning": "commercial",
         "plumbing repair": "commercial",
-        "pipe fitting": "core",
-        "drain unclogging": "core",
-        "water heater": "core",
-        "faucet replacement": "complementary",
-        "sewer line": "core",
-        "plumbing tools": "complementary",
-        "water": "core",
-        "plumbing": "commercial",
-        "sewage": "complementary",
-        "drainage": "complementary",
-        "install": "complementary",
+        "drain unclogging": "commercial",
+        "water heater": "commercial",
+        "faucet replacement": "commercial",
+        "sewer line": "commercial",
+        "plumbing inspection": "commercial",
+        "plumbing permit": "commercial",
+        "water": "commercial",
+        "sewage": "commercial",
+        "drainage": "commercial",
+        "install": "commercial",
         "maintenance": "commercial",
-        "list of tools and equipment": "complementary",
-        "piping": "complementary"
+        "list of tools and equipment": "commercial",
+        "pipefitter": "doubtful",
+        "piping": "commercial",
+        "plumber near me residential": "doubtful"
     }
 }

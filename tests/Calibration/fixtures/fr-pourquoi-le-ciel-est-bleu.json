@@ -17,11 +17,11 @@
         "couleur du ciel",
         "atmosphère terrestre",
         "diffusion de la lumière",
-        "rayonnement solaire",
+        "rayons du soleil",
+        "longueur d'onde lumière",
         "phénomène de rayleigh",
         "perception des couleurs",
-        "composition de l'air",
-        "sciences de la terre"
+        "science de l'atmosphère"
     ],
     "suggestions": {
         "amazon": [
@@ -30,15 +30,15 @@
         "bing": [
             "pourquoi le ciel est bleu",
             "pourquoi le ciel est bleu explication simple",
-            "pourquoi le ciel est bleu livre",
-            "pourquoi le ciel est bleu signol",
-            "pourquoi le ciel est bleu explication enfant",
             "pourquoi le ciel est bleu wikipedia",
+            "pourquoi le ciel est bleu signol",
+            "pourquoi le ciel est bleu livre",
+            "pourquoi le ciel est bleu explication enfant",
+            "pourquoi le ciel est bleu sujet grand oral",
             "pourquoi le ciel est bleu lumni",
             "pourquoi le ciel est bleu résumé",
             "pourquoi le ciel est bleu le jour",
-            "pourquoi le ciel est bleu vikidia",
-            "pourquoi le ciel est bleu sujet grand oral"
+            "pourquoi le ciel est bleu vikidia"
         ],
         "duckduckgo": [
             "pourquoi le ciel est bleu",
@@ -298,51 +298,67 @@
             ],
             [
                 0,
-                "rayonnement solaire"
+                "rayons du soleil"
             ],
             [
                 1,
-                "rayonnement solaire enseignement scientifique"
+                "rayons du soleil synonyme"
             ],
             [
                 2,
-                "rayonnement solaire direct"
+                "rayons du soleil sur terre"
             ],
             [
                 3,
-                "rayonnement solaire def"
+                "rayons de soleil"
             ],
             [
                 4,
-                "rayonnement solaire sur la terre"
+                "rayon de soleil dessin"
             ],
             [
                 5,
-                "rayonnement solaire cours"
+                "rayon du soleil en mètre"
             ],
             [
                 6,
-                "rayonnement solaire global"
+                "rayon du soleil shawinigan"
             ],
             [
                 7,
-                "rayonnement solaire et latitude"
+                "rayon du soleil valeur"
             ],
             [
                 8,
-                "rayonnement solaire uv"
+                "rayons de soleil 3 lettres"
             ],
             [
                 9,
-                "rayonnement solaire et principe de conversion"
+                "rayon du soleil en ua"
             ],
             [
-                10,
-                "rayonnement solaire w/m2"
+                0,
+                "longueur d'onde lumière"
             ],
             [
-                11,
-                "rayonnement solaire diffus"
+                1,
+                "longueur d'onde lumière visible"
+            ],
+            [
+                2,
+                "longueur d'onde lumière blanche"
+            ],
+            [
+                3,
+                "longueur d'onde lumière bleu"
+            ],
+            [
+                4,
+                "longueur d'onde lumière rouge"
+            ],
+            [
+                5,
+                "longueur d'onde lumière verte"
             ],
             [
                 0,
@@ -374,99 +390,7 @@
             ],
             [
                 0,
-                "composition de l'air"
-            ],
-            [
-                1,
-                "composition de l'air en pourcentage"
-            ],
-            [
-                2,
-                "composition de l'air ambiant"
-            ],
-            [
-                3,
-                "composition de l'air 4ème"
-            ],
-            [
-                4,
-                "composition de l'air atmosphérique"
-            ],
-            [
-                5,
-                "composition de l'air sec"
-            ],
-            [
-                6,
-                "composition de l'air 4ème exercices"
-            ],
-            [
-                7,
-                "composition de l'air lavoisier"
-            ],
-            [
-                8,
-                "composition de l'air en %"
-            ],
-            [
-                9,
-                "composition de l'air inspiré et expiré"
-            ],
-            [
-                10,
-                "composition de l'air de mars"
-            ],
-            [
-                11,
-                "composition de l'air terrestre"
-            ],
-            [
-                0,
-                "sciences de la terre"
-            ],
-            [
-                1,
-                "sciences de la terre et de l'univers"
-            ],
-            [
-                2,
-                "sciences de la terre et des planètes"
-            ],
-            [
-                3,
-                "sciences de la terre bordeaux"
-            ],
-            [
-                4,
-                "sciences de la terre en anglais"
-            ],
-            [
-                5,
-                "sciences de la terre en 3 lettres"
-            ],
-            [
-                6,
-                "sciences de la terre uqam"
-            ],
-            [
-                7,
-                "sciences de la terre nancy"
-            ],
-            [
-                8,
-                "sciences de la terre sorbonne université"
-            ],
-            [
-                9,
-                "sciences de la terre brevet"
-            ],
-            [
-                10,
-                "sciences de la terre et de l'univers pdf"
-            ],
-            [
-                11,
-                "sciences de la terre et de l'univers vuibert"
+                "science de l'atmosphère"
             ]
         ],
         "google": [
@@ -612,43 +536,83 @@
             ],
             [
                 0,
-                "rayonnement solaire"
+                "rayons du soleil"
             ],
             [
                 1,
-                "rayonnement solaire w/m2"
+                "rayons du soleil en anglais"
             ],
             [
                 2,
-                "rayonnement solaire w/m2 france"
+                "rayons du soleil synonyme"
             ],
             [
                 3,
-                "rayonnement solaire incident"
+                "rayons du soleil kourou"
             ],
             [
                 4,
-                "rayonnement solaire reçu par la terre"
+                "rayons du soleil eclipse"
             ],
             [
                 5,
-                "rayonnement solaire sur la terre"
+                "rayons du soleil 3 lettres"
             ],
             [
                 6,
-                "rayonnement solaire eclipse"
+                "rayons du soleil à travers les nuages"
             ],
             [
                 7,
-                "rayonnement solaire actuel"
+                "rayon du soleil en km"
             ],
             [
                 8,
-                "rayonnement solaire vitrage"
+                "rayon du soleil en m"
             ],
             [
                 9,
-                "rayonnement solaire pdf"
+                "rayon du soleil jonzac"
+            ],
+            [
+                0,
+                "longueur d'onde lumière"
+            ],
+            [
+                1,
+                "longueur d'onde lumière visible"
+            ],
+            [
+                2,
+                "longueur d'onde lumière blanche"
+            ],
+            [
+                3,
+                "longueur d'onde lumière rouge"
+            ],
+            [
+                4,
+                "longueur d onde lumière bleue"
+            ],
+            [
+                5,
+                "longueur d onde lumière verte"
+            ],
+            [
+                6,
+                "longueur d onde lumière noire"
+            ],
+            [
+                7,
+                "longueur d onde lumière pulsée"
+            ],
+            [
+                8,
+                "longueur d'onde lumière soleil"
+            ],
+            [
+                9,
+                "longueur d'onde lumière monochromatique"
             ],
             [
                 0,
@@ -700,107 +664,51 @@
             ],
             [
                 0,
-                "composition de l'air"
+                "science de l'atmosphère"
             ],
             [
                 1,
-                "composition de l'air en pourcentage"
+                "science de l'atmosphère 5 lettres"
             ],
             [
                 2,
-                "composition de l'air que nous respirons"
+                "science de l'atmosphère mots fléchés"
             ],
             [
                 3,
-                "composition de l'air ambiant"
+                "science de l'atmosphère 12 lettres"
             ],
             [
                 4,
-                "composition de l'air qu'on respire"
+                "master sciences de l atmosphère et du climat"
             ],
             [
                 5,
-                "composition de l'air sur terre"
-            ],
-            [
-                6,
-                "composition de l'air atmosphérique"
-            ],
-            [
-                7,
-                "composition de l'air co2"
-            ],
-            [
-                8,
-                "composition de l'air expiré"
-            ],
-            [
-                9,
-                "composition de l'airain"
-            ],
-            [
-                0,
-                "sciences de la terre"
-            ],
-            [
-                1,
-                "sciences de la terre en 3 lettres"
-            ],
-            [
-                2,
-                "sciences de la terre mots fléchés"
-            ],
-            [
-                3,
-                "sciences de la terre et de l'univers"
-            ],
-            [
-                4,
-                "sciences de la terre en 10 lettres"
-            ],
-            [
-                5,
-                "sciences de la terre et des planètes environnement"
-            ],
-            [
-                6,
-                "sciences de la terre 8 lettres"
-            ],
-            [
-                7,
-                "sciences de la terre licence"
-            ],
-            [
-                8,
-                "sciences de la terre sorbonne"
-            ],
-            [
-                9,
-                "sciences de la terre mots croisés"
+                "master science de l océan de l atmosphère et du climat"
             ]
         ],
         "amazon": [
             [
                 0,
-                "rayonnement solaire"
-            ],
-            [
-                0,
-                "sciences de la terre"
+                "rayon de soleil"
             ],
             [
                 1,
-                "sciences de la terre et de l'univers"
+                "rayon de soleil lotion"
+            ],
+            [
+                2,
+                "rayon de soleil cadeau"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "couleur du ciel en 5 lettres"
+                "couleur du ciel"
             ],
             [
                 1,
-                "couleur du ciel"
+                "couleur du ciel en 5 lettres"
             ],
             [
                 2,
@@ -892,35 +800,59 @@
             ],
             [
                 0,
-                "rayonnement solaire"
+                "rayons du soleil"
             ],
             [
                 1,
-                "rayonnement solaire enseignement scientifique"
+                "rayons du soleil synonyme"
             ],
             [
                 2,
-                "rayonnement solaire direct"
+                "rayons du soleil sur terre"
             ],
             [
                 3,
-                "rayonnement solaire def"
+                "rayons de soleil"
             ],
             [
                 4,
-                "rayonnement solaire sur la terre"
+                "rayon de soleil dessin"
             ],
             [
                 5,
-                "rayonnement solaire cours"
+                "rayon du soleil en mètre"
             ],
             [
                 6,
-                "rayonnement solaire global"
+                "rayon du soleil shawinigan"
             ],
             [
                 7,
-                "rayonnement solaire et latitude"
+                "rayon du soleil valeur"
+            ],
+            [
+                0,
+                "longueur d'onde lumière"
+            ],
+            [
+                1,
+                "longueur d'onde lumière visible"
+            ],
+            [
+                2,
+                "longueur d'onde lumière blanche"
+            ],
+            [
+                3,
+                "longueur d'onde lumière bleu"
+            ],
+            [
+                4,
+                "longueur d'onde lumière rouge"
+            ],
+            [
+                5,
+                "longueur d'onde lumière verte"
             ],
             [
                 0,
@@ -952,73 +884,7 @@
             ],
             [
                 0,
-                "composition de l'air"
-            ],
-            [
-                1,
-                "composition de l'air en pourcentage"
-            ],
-            [
-                2,
-                "composition de l'air ambiant"
-            ],
-            [
-                3,
-                "composition de l'air 4ème"
-            ],
-            [
-                4,
-                "composition de l'air atmosphérique"
-            ],
-            [
-                5,
-                "composition de l'air sec"
-            ],
-            [
-                6,
-                "composition de l'air 4ème exercices"
-            ],
-            [
-                7,
-                "composition de l'air lavoisier"
-            ],
-            [
-                0,
-                "sciences de la terre"
-            ],
-            [
-                1,
-                "sciences de la terre et de l'univers"
-            ],
-            [
-                2,
-                "sciences de la terre bordeaux"
-            ],
-            [
-                3,
-                "sciences de la terre en anglais"
-            ],
-            [
-                4,
-                "sciences de la terre sorbonne université"
-            ],
-            [
-                5,
-                "sciences de la terre en 3 lettres"
-            ],
-            [
-                6,
-                "sciences de la terre strasbourg"
-            ],
-            [
-                7,
-                "sciences de la terre uqam"
-            ]
-        ],
-        "indeed": [
-            [
-                0,
-                "sciences de la terre"
+                "science de l'atmosphère"
             ]
         ],
         "yahoo": [
@@ -1068,19 +934,39 @@
             ],
             [
                 0,
-                "rayonnement solaire"
+                "rayons du soleil"
             ],
             [
                 1,
-                "rayonnement solaire sur la terre"
+                "rayons du soleil à travers les nuages"
             ],
             [
                 2,
-                "rayonnement solaire incident"
+                "rayons du soleil à travers les arbres"
             ],
             [
                 3,
-                "rayonnement solaire par région"
+                "brûlures du visage suite aux rayons du soleil"
+            ],
+            [
+                4,
+                "soumis aux rayons du soleil 6 lettres"
+            ],
+            [
+                0,
+                "longueur d'onde lumière"
+            ],
+            [
+                1,
+                "longueur d'onde lumière rouge"
+            ],
+            [
+                2,
+                "longueur d'onde lumière blanche"
+            ],
+            [
+                3,
+                "longueur d'onde de la lumière"
             ],
             [
                 0,
@@ -1100,43 +986,7 @@
             ],
             [
                 0,
-                "composition de l'air"
-            ],
-            [
-                1,
-                "composition de l'air atmosphérique"
-            ],
-            [
-                2,
-                "composition de l'air ambiant"
-            ],
-            [
-                3,
-                "composition de l'air en pourcentage"
-            ],
-            [
-                4,
-                "composition de l'air et dioxyde de carbone"
-            ],
-            [
-                5,
-                "composition de l'air expiré"
-            ],
-            [
-                0,
-                "sciences de la terre"
-            ],
-            [
-                1,
-                "ecole et observatoire des sciences de la terre"
-            ],
-            [
-                2,
-                "licence sciences de la terre"
-            ],
-            [
-                3,
-                "institut des sciences de la terre"
+                "science de l'atmosphère mots fléchés"
             ]
         ],
         "youtube": [
@@ -1226,115 +1076,27 @@
             ],
             [
                 0,
-                "rayonnement solaire enseignement scientifique"
+                "rayon du soleil"
             ],
             [
                 1,
-                "rayonnement solaire enseignement scientifique physique 1ere"
+                "philipayne les rayons du soleil"
             ],
             [
                 2,
-                "rayonnement solaire enseignement scientifique svt"
+                "sous les rayons du soleil"
             ],
             [
                 3,
-                "rayonnement solaire enseignement scientifique 1ere"
+                "adeline lovo les rayons du soleil"
             ],
             [
-                4,
-                "rayonnement solaire 1ere"
-            ],
-            [
-                5,
-                "rayonnement solaire premiere"
-            ],
-            [
-                6,
-                "rayonnement solaire et son phénomène vibratoire"
-            ],
-            [
-                7,
-                "energie solaire"
-            ],
-            [
-                8,
-                "energie solaire photovoltaique"
-            ],
-            [
-                9,
-                "energie solaire شرح"
+                0,
+                "longueur d'onde lumière"
             ],
             [
                 0,
                 "perception des couleurs"
-            ],
-            [
-                0,
-                "composition de l'air"
-            ],
-            [
-                1,
-                "composition de l'air 4eme"
-            ],
-            [
-                2,
-                "composition de l'air 6eme"
-            ],
-            [
-                3,
-                "composition de l'air lavoisier"
-            ],
-            [
-                4,
-                "composition de l'air experience"
-            ],
-            [
-                5,
-                "composition de l'air 2ac"
-            ],
-            [
-                6,
-                "la composition de l'air c'est pas sorcier"
-            ],
-            [
-                7,
-                "quelle est la composition de l'air"
-            ],
-            [
-                8,
-                "composition air pollution"
-            ],
-            [
-                0,
-                "sciences de la terre"
-            ],
-            [
-                1,
-                "licence sciences de la terre"
-            ],
-            [
-                2,
-                "documentaire science de la terre"
-            ],
-            [
-                3,
-                "introduction aux sciences de la terre s1"
-            ],
-            [
-                4,
-                "introduction aux sciences de la terre"
-            ],
-            [
-                5,
-                "science de la terre et de l'univers"
-            ],
-            [
-                6,
-                "science et vie de la terre"
-            ],
-            [
-                7,
-                "géologie de la terre"
             ]
         ]
     },
@@ -1367,23 +1129,38 @@
     },
     "pages": [
         {
-            "group": "Atmosphère terrestre",
-            "title": "atmosphère terrestre",
+            "group": "Diffusion de la lumière",
+            "title": "diffusion de la lumière",
             "intent": "informational",
             "keywords": [
-                "atmosphère terrestre",
-                "fenêtre atmosphérique",
-                "molécules d'air",
-                "composition de l'air",
-                "composition de l'air en pourcentage",
-                "composition de l'air ambiant",
-                "composition atmosphère terrestre",
-                "composition de l'air atmosphérique",
-                "composition de l'air 4eme",
-                "particules atmosphériques",
-                "atmosphère terrestre et la vie",
-                "atmosphère terrestre et vie enseignement scientifique terminale",
-                "atmosphère terrestre définition"
+                "diffusion de la lumière",
+                "rayon de soleil",
+                "rayons du soleil à travers les nuages",
+                "coucher de soleil",
+                "nuage",
+                "rayonnement solaire",
+                "rayons solaires",
+                "phénomène de rayleigh",
+                "bleu scatter",
+                "épaisseur optique",
+                "diffusion dynamique de la lumière",
+                "phenomene de rayleigh one"
+            ]
+        },
+        {
+            "group": "Diffusion de la lumière",
+            "title": "longueur d'onde lumière",
+            "intent": "informational",
+            "keywords": [
+                "longueur d'onde lumière",
+                "longueurs d'onde",
+                "rouge et orange",
+                "spectre lumineux",
+                "longueur d'onde lumière blanche",
+                "lumière blanche",
+                "longueur d'onde lumière rouge",
+                "longueur d'onde lumière visible",
+                "longueur d'onde lumière verte"
             ]
         },
         {
@@ -1392,10 +1169,12 @@
             "intent": "informational",
             "keywords": [
                 "pourquoi le ciel est bleu explication simple",
-                "couchant",
-                "horizon",
-                "pourquoi le ciel est bleu explication enfant",
                 "pourquoi le ciel est bleu le jour",
+                "pourquoi le ciel est bleu alors que l'espace est noir",
+                "azur",
+                "bleu",
+                "ciel nocturne",
+                "pourquoi le ciel est bleu explication enfant",
                 "pourquoi le ciel est bleu pour les enfants"
             ]
         },
@@ -1405,52 +1184,50 @@
             "intent": "informational",
             "keywords": [
                 "pourquoi le ciel est bleu wikipédia",
-                "pourquoi le ciel est bleu signol",
-                "christian signol pourquoi le ciel est bleu",
-                "pourquoi le ciel est bleu livre"
-            ]
-        },
-        {
-            "group": "Explications simplifiées",
-            "title": "couleur du ciel",
-            "intent": "informational",
-            "keywords": [
                 "couleur du ciel",
-                "azur",
-                "nuages",
-                "pourquoi le ciel est bleu c'est pas sorcier",
-                "pourquoi le ciel est bleu alors que l'espace est noir"
+                "pourquoi le ciel est bleu c'est pas sorcier"
             ]
         },
         {
-            "group": "Diffusion de la lumière",
-            "title": "diffusion de la lumière",
+            "group": "Science de l'atmosphère",
+            "title": "atmosphère terrestre",
             "intent": "informational",
             "keywords": [
-                "diffusion de la lumière",
-                "rayonnement solaire",
-                "rayonnement solaire sur la terre",
-                "rayonnement solaire enseignement scientifique",
-                "rayonnement solaire incident",
-                "arc-en-ciel",
-                "diffusion élastique",
-                "longueurs d'onde",
-                "lumière bleue",
-                "soleil",
-                "spectre lumineux",
-                "épaisseur optique",
-                "phénomène de rayleigh",
-                "diffusion dynamique de la lumière"
+                "atmosphère terrestre",
+                "composition atmosphère terrestre",
+                "molécules d'air",
+                "atmosphère terrestre définition",
+                "atmosphère terrestre hauteur",
+                "fenêtre atmosphérique"
             ]
         },
         {
-            "group": "Sciences de la Terre",
-            "title": "sciences de la terre",
+            "group": "Science de l'atmosphère",
+            "title": "science de l'atmosphère",
             "intent": "informational",
             "keywords": [
-                "sciences de la terre",
-                "sciences de la terre et de l'univers",
-                "licence sciences de la terre"
+                "science de l'atmosphère",
+                "atmosphère terrestre et la vie",
+                "atmosphère terrestre et vie enseignement scientifique terminale"
+            ]
+        },
+        {
+            "group": "Culture et médias",
+            "title": "pourquoi le ciel est bleu livre",
+            "intent": "informational",
+            "keywords": [
+                "pourquoi le ciel est bleu livre",
+                "pourquoi le ciel est bleu signol",
+                "christian signol pourquoi le ciel est bleu"
+            ]
+        },
+        {
+            "group": "Culture et médias",
+            "title": "pourquoi le ciel est bleu rap",
+            "intent": "informational",
+            "keywords": [
+                "pourquoi le ciel est bleu rap",
+                "pourquoi le ciel est bleu musique"
             ]
         },
         {
@@ -1459,63 +1236,62 @@
             "intent": "informational",
             "keywords": [
                 "perception des couleurs",
-                "bleu",
                 "perception",
                 "perception des couleurs test"
             ]
         }
     ],
     "categories": {
-        "sciences de la terre": "core",
-        "composition de l'air": "core",
+        "rayon de soleil": "complementary",
         "diffusion de la lumière": "core",
+        "longueur d'onde lumière": "core",
         "perception des couleurs": "core",
-        "rayonnement solaire": "core",
         "atmosphère terrestre": "core",
         "couleur du ciel": "core",
-        "sciences de la terre et de l'univers": "core",
         "pourquoi le ciel est bleu explication simple": "core",
-        "composition de l'air en pourcentage": "core",
-        "pourquoi le ciel est bleu explication enfant": "core",
-        "composition de l'air ambiant": "core",
         "pourquoi le ciel est bleu wikipédia": "core",
-        "pourquoi le ciel est bleu livre": "core",
-        "rayonnement solaire sur la terre": "complementary",
-        "licence sciences de la terre": "commercial",
+        "pourquoi le ciel est bleu explication enfant": "core",
+        "longueur d'onde lumière blanche": "core",
+        "longueur d'onde lumière rouge": "complementary",
+        "pourquoi le ciel est bleu livre": "commercial",
         "phénomène de rayleigh": "core",
-        "composition atmosphère terrestre": "complementary",
-        "composition de l'air atmosphérique": "complementary",
-        "rayonnement solaire enseignement scientifique": "complementary",
-        "pourquoi le ciel est bleu signol": "complementary",
-        "atmosphère terrestre et la vie": "complementary",
-        "pourquoi le ciel est bleu le jour": "complementary",
-        "composition de l'air 4eme": "complementary",
+        "science de l'atmosphère": "core",
+        "pourquoi le ciel est bleu rap": "commercial",
+        "composition atmosphère terrestre": "core",
+        "longueur d'onde lumière visible": "core",
+        "pourquoi le ciel est bleu signol": "commercial",
+        "atmosphère terrestre et la vie": "core",
+        "rayons du soleil synonyme": "doubtful",
         "pourquoi le ciel est bleu pour les enfants": "complementary",
-        "perception des couleurs test": "complementary",
-        "rayonnement solaire incident": "complementary",
+        "perception des couleurs test": "commercial",
+        "pourquoi le ciel est bleu le jour": "complementary",
         "diffusion dynamique de la lumière": "complementary",
         "atmosphère terrestre définition": "complementary",
         "atmosphère terrestre et vie enseignement scientifique terminale": "complementary",
+        "rayons du soleil à travers les nuages": "complementary",
         "pourquoi le ciel est bleu c'est pas sorcier": "complementary",
-        "christian signol pourquoi le ciel est bleu": "commercial",
+        "christian signol pourquoi le ciel est bleu": "complementary",
         "pourquoi le ciel est bleu alors que l'espace est noir": "complementary",
-        "lumière bleue": "core",
-        "longueurs d'onde": "core",
-        "particules atmosphériques": "core",
+        "pourquoi le ciel est bleu musique": "complementary",
+        "longueur d'onde lumière verte": "complementary",
+        "atmosphère terrestre hauteur": "complementary",
+        "phenomene de rayleigh one": "complementary",
+        "lumière blanche": "core",
+        "rayons solaires": "complementary",
         "molécules d'air": "core",
-        "diffusion élastique": "complementary",
-        "soleil": "core",
-        "horizon": "complementary",
-        "couchant": "complementary",
-        "nuages": "complementary",
-        "arc-en-ciel": "complementary",
+        "longueurs d'onde": "core",
+        "bleu scatter": "core",
+        "rouge et orange": "complementary",
+        "coucher de soleil": "complementary",
+        "ciel nocturne": "core",
+        "nuage": "complementary",
         "spectre lumineux": "complementary",
         "bleu": "complementary",
+        "rayonnement solaire": "complementary",
         "perception": "complementary",
         "azur": "complementary",
         "épaisseur optique": "complementary",
         "assombrissement global": "doubtful",
-        "fenêtre atmosphérique": "complementary",
-        "pourquoi le ciel est bleu rap": "doubtful"
+        "fenêtre atmosphérique": "complementary"
     }
 }

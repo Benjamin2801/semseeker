@@ -17,11 +17,11 @@
         "vinaigre blanc détartrage bouilloire",
         "citron détartrage bouilloire",
         "produit détartrant bouilloire",
-        "détartrage bouilloire électrique",
-        "détartrage bouilloire inox",
-        "tartre bouilloire dangers",
-        "nettoyage bouilloire quotidien",
-        "bouilloire anti-tartre"
+        "détartrage bouilloire sans vinaigre",
+        "fréquence détartrage bouilloire",
+        "prévention tartre bouilloire",
+        "nettoyage bouilloire électrique",
+        "tartre bouilloire dangers"
     ],
     "suggestions": {
         "bing": [
@@ -226,15 +226,55 @@
             ],
             [
                 1,
-                "détartrage bouilloire électrique"
+                "détartrer une bouilloire avec vinaigre blanc"
             ],
             [
                 2,
-                "détartrer bouilloire électrique"
+                "comment détartrer une bouilloire au vinaigre"
+            ],
+            [
+                3,
+                "comment nettoyer une bouilloire avec vinaigre"
+            ],
+            [
+                4,
+                "nettoyage bouilloire vinaigre blanc"
+            ],
+            [
+                5,
+                "nettoyer sa bouilloire avec du vinaigre blanc"
+            ],
+            [
+                6,
+                "détartrage avec vinaigre blanc"
+            ],
+            [
+                7,
+                "comment détartrer une bouilloire"
+            ],
+            [
+                8,
+                "laver bouilloire vinaigre blanc"
+            ],
+            [
+                9,
+                "détartrer avec du vinaigre"
+            ],
+            [
+                10,
+                "détartrer avec vinaigre blanc"
+            ],
+            [
+                11,
+                "quel vinaigre pour détartrer"
             ],
             [
                 0,
-                "anti tartre bouilloire"
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "nettoyer bouilloire électrique"
             ]
         ],
         "google": [
@@ -304,87 +344,83 @@
             ],
             [
                 0,
-                "détartrage bouilloire électrique"
+                "détartrer bouilloire sans vinaigre"
             ],
             [
                 1,
-                "détartrage bouilloire électrique vinaigre blanc"
+                "detartrer bouilloire sans vinaigre blanc"
             ],
             [
                 2,
-                "détartrage bouilloire électrique acide citrique"
+                "nettoyer bouilloire sans vinaigre"
             ],
             [
                 3,
-                "détartrage bouilloire électrique tefal"
+                "nettoyer bouilloire sans vinaigre blanc"
             ],
             [
                 4,
-                "nettoyer bouilloire électrique"
+                "détartrage cafetière sans vinaigre"
             ],
             [
                 5,
-                "détartrage cafetière électrique"
-            ],
-            [
-                6,
-                "détartrage cafetière électrique vinaigre blanc"
-            ],
-            [
-                7,
-                "detartrage cafetiere electrique au vinaigre"
-            ],
-            [
-                8,
-                "calcaire bouilloire electrique"
-            ],
-            [
-                9,
-                "détartrant pour bouilloire électrique"
+                "détartrer cafetière sans vinaigre blanc"
             ],
             [
                 0,
-                "detartrage bouilloire inox"
+                "fréquence détartrage bouilloire"
             ],
             [
                 1,
-                "nettoyer bouilloire inox"
+                "frequence nettoyage bouilloire"
             ],
             [
                 2,
-                "nettoyer bouilloire inox extérieur"
+                "fréquence détartrage cafetière"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "détartrer bouilloire électrique"
+            ],
+            [
+                2,
+                "détartrer bouilloire électrique acide citrique"
             ],
             [
                 3,
-                "détartrage bouilloire électrique inox"
+                "détartrer bouilloire électrique vinaigre blanc"
+            ],
+            [
+                4,
+                "détartrage bouilloire électrique tefal"
+            ],
+            [
+                5,
+                "nettoyage cafetiere electrique vinaigre"
+            ],
+            [
+                6,
+                "nettoyer bouilloire electrique calcaire"
+            ],
+            [
+                7,
+                "detartrer bouilloire electrique bicarbonate"
+            ],
+            [
+                8,
+                "nettoyage cafetiere electrique"
+            ],
+            [
+                9,
+                "nettoyer théière électrique"
             ],
             [
                 0,
                 "tartre bouilloire danger"
-            ],
-            [
-                0,
-                "bouilloire anti tartre"
-            ],
-            [
-                1,
-                "bouilloire anti calcaire"
-            ],
-            [
-                2,
-                "bouilloire anti calcaire boulanger"
-            ],
-            [
-                3,
-                "bouilloire anti calcaire darty"
-            ],
-            [
-                4,
-                "bouilloire anti calcaire temperature reglable"
-            ],
-            [
-                5,
-                "bouilloire electrique anti tartre"
             ]
         ],
         "amazon": [
@@ -428,19 +464,43 @@
             ],
             [
                 0,
-                "détartrage bouilloire électrique"
-            ],
-            [
-                1,
                 "détartrage bouilloire électrique vinaigre"
             ],
             [
+                1,
+                "détartrer une bouilloire avec vinaigre blanc"
+            ],
+            [
                 2,
-                "détartrer bouilloire électrique"
+                "comment détartrer une bouilloire au vinaigre"
+            ],
+            [
+                3,
+                "comment nettoyer une bouilloire avec vinaigre"
+            ],
+            [
+                4,
+                "nettoyage bouilloire vinaigre blanc"
+            ],
+            [
+                5,
+                "nettoyer sa bouilloire avec du vinaigre blanc"
+            ],
+            [
+                6,
+                "détartrage avec vinaigre blanc"
+            ],
+            [
+                7,
+                "comment détartrer une bouilloire"
             ],
             [
                 0,
-                "anti tartre bouilloire"
+                "nettoyage bouilloire électrique"
+            ],
+            [
+                1,
+                "nettoyer bouilloire électrique"
             ]
         ],
         "yahoo": [
@@ -494,27 +554,67 @@
             ],
             [
                 0,
-                "détartrage bouilloire électrique"
+                "détartrage bouilloire sans vinaigre de"
             ],
             [
                 1,
-                "détartrage bouilloire électrique vinaigre"
-            ],
-            [
-                0,
-                "detartrage bouilloire inox sifflante"
-            ],
-            [
-                1,
-                "detartrage bouilloire inox gaz"
+                "détartrage bouilloire sans vinaigre blanc"
             ],
             [
                 2,
-                "detartrage bouilloire inox tous feux"
+                "détartrage bouilloire sans vinaigre balsamique"
             ],
             [
                 3,
-                "detartrage bouilloire inox traditionnelle made in france"
+                "détartrage bouilloire sans vinaigrette"
+            ],
+            [
+                0,
+                "fréquence détartrage bouilloire électrique"
+            ],
+            [
+                1,
+                "fréquence détartrage bouilloire vinaigre blanc"
+            ],
+            [
+                2,
+                "fréquence détartrage bouilloire bicarbonate"
+            ],
+            [
+                3,
+                "fréquence détartrage bouilloire électrique vinaigre"
+            ],
+            [
+                0,
+                "prevention tartre bouilloire éléctrique"
+            ],
+            [
+                1,
+                "prevention tartre bouilloire smeg"
+            ],
+            [
+                2,
+                "prevention tartre bouilloire inox"
+            ],
+            [
+                3,
+                "prevention tartre bouilloire kitchenaid"
+            ],
+            [
+                0,
+                "nettoyage bouilloire électrique avec thermostat"
+            ],
+            [
+                1,
+                "nettoyage bouilloire électrique chez boulanger"
+            ],
+            [
+                2,
+                "nettoyage bouilloire électrique inox"
+            ],
+            [
+                3,
+                "nettoyage bouilloire électrique chez darty"
             ],
             [
                 0,
@@ -531,38 +631,6 @@
             [
                 3,
                 "tartre bouilloire dangers domestiques"
-            ],
-            [
-                0,
-                "nettoyage bouilloire quotidien d'oran"
-            ],
-            [
-                1,
-                "nettoyage bouilloire quotidien replay"
-            ],
-            [
-                2,
-                "nettoyage bouilloire quotidien tmc"
-            ],
-            [
-                3,
-                "nettoyage bouilloire quotidien yann"
-            ],
-            [
-                0,
-                "bouilloire anti tartre magnétique"
-            ],
-            [
-                1,
-                "bouilloire anti tartre wc"
-            ],
-            [
-                2,
-                "bouilloire anti tartre dentaire"
-            ],
-            [
-                3,
-                "bouilloire anti tartre chat"
             ]
         ],
         "youtube": [
@@ -572,15 +640,11 @@
             ],
             [
                 0,
-                "détartrer bouilloire électrique"
+                "nettoyage bouilloire électrique"
             ],
             [
                 1,
-                "nettoyer bouilloire électrique"
-            ],
-            [
-                0,
-                "bouilloire anti calcaire"
+                "détartrer bouilloire électrique"
             ]
         ]
     },
@@ -606,32 +670,19 @@
             "intent": "informational",
             "keywords": [
                 "comment détartrer une bouilloire électrique",
+                "détartrer bouilloire électrique",
                 "comment faire pour détartrer une bouilloire",
-                "dépôt calcaire",
-                "fréquence détartrage bouilloire",
-                "matériel détartrage bouilloire",
-                "méthodes détartrage bouilloire",
-                "prévention tartre bouilloire",
-                "réservoir bouilloire",
-                "élément chauffant",
-                "détartrage bouilloire électrique",
-                "vinaigre blanc détartrage bouilloire electrique",
-                "détartrer bouilloire électrique"
-            ]
-        },
-        {
-            "group": "Méthodes de détartrage",
-            "title": "comment détartrer une bouilloire au vinaigre",
-            "intent": "informational",
-            "keywords": [
-                "comment détartrer une bouilloire au vinaigre",
-                "comment détartrer une bouilloire avec du vinaigre",
+                "détartrer une bouilloire avec vinaigre blanc",
                 "eau vinaigrée",
+                "méthodes détartrage bouilloire",
+                "sécurité détartrage bouilloire",
                 "vinaigre blanc",
                 "détartrage bouilloire vinaigre blanc",
                 "détartrage bouilloire électrique vinaigre",
-                "nettoyage bouilloire vinaigre blanc",
-                "comment détartrer une bouilloire avec du vinaigre blanc"
+                "comment détartrer une bouilloire au vinaigre",
+                "comment détartrer une bouilloire avec du vinaigre blanc",
+                "comment détartrer une bouilloire avec du vinaigre",
+                "vinaigre blanc détartrage bouilloire electrique"
             ]
         },
         {
@@ -641,47 +692,63 @@
             "keywords": [
                 "comment détartrer une bouilloire naturellement",
                 "citron détartrage bouilloire vinaigre blanc",
+                "détartrage bouilloire citron",
                 "bicarbonate de soude",
                 "citron",
                 "citron detartrant bouilloire",
-                "citron détartrage bouilloire électrique",
-                "détartrage bouilloire citron"
+                "citron détartrage bouilloire électrique"
             ]
         },
         {
-            "group": "Produits détartrants",
-            "title": "produit détartrant bouilloire",
-            "intent": "commercial",
+            "group": "Méthodes de détartrage",
+            "title": "détartrage bouilloire sans vinaigre",
+            "intent": "informational",
             "keywords": [
-                "produit détartrant bouilloire",
+                "détartrage bouilloire sans vinaigre de",
+                "produit détartrant bouilloire éléctrique",
+                "detartrer bouilloire sans vinaigre blanc",
                 "coût détartrage bouilloire",
+                "matériel détartrage bouilloire",
                 "produit détartrant",
                 "produits détartrage bouilloire",
-                "anti tartre bouilloire",
-                "bouilloire anti calcaire",
-                "bouilloire anti tartre magnétique",
-                "filtre anti-tartre",
-                "produit détartrant bouilloire éléctrique"
+                "produit détartrant bouilloire",
+                "détartrer bouilloire sans vinaigre"
             ]
         },
         {
-            "group": "Entretien quotidien",
-            "title": "nettoyer bouilloire électrique",
+            "group": "Nettoyage et entretien",
+            "title": "nettoyage bouilloire électrique",
             "intent": "informational",
             "keywords": [
-                "nettoyer bouilloire électrique",
+                "nettoyage bouilloire électrique",
+                "nettoyage régulier",
+                "sécurité électrique",
+                "nettoyage bouilloire vinaigre blanc",
+                "nettoyage bouilloire électrique avec thermostat",
+                "nettoyer bouilloire électrique"
+            ]
+        },
+        {
+            "group": "Nettoyage et entretien",
+            "title": "comment nettoyer une bouilloire entartrée",
+            "intent": "informational",
+            "keywords": [
+                "comment nettoyer une bouilloire entartrée",
+                "fréquence détartrage bouilloire",
+                "fréquence détartrage bouilloire électrique",
                 "comment laver une bouilloire",
-                "comment nettoyer une bouilloire entartrée"
+                "prevention tartre bouilloire éléctrique",
+                "prévention tartre",
+                "prévention tartre bouilloire"
             ]
         },
         {
-            "group": "Matériaux et types",
-            "title": "comment détartrer une bouilloire en inox",
+            "group": "Appareils similaires",
+            "title": "comment detartrer une cafetiere",
             "intent": "informational",
             "keywords": [
-                "comment détartrer une bouilloire en inox",
-                "detartrage bouilloire inox",
-                "detartrage bouilloire inox sifflante"
+                "comment detartrer une cafetiere",
+                "comment detartrer une cafetiere senseo"
             ]
         },
         {
@@ -691,45 +758,57 @@
             "keywords": [
                 "tartre bouilloire danger",
                 "impact tartre bouilloire",
-                "sécurité détartrage bouilloire",
+                "résidu calcaire",
                 "tartre",
                 "tartre bouilloire dangers dans"
+            ]
+        },
+        {
+            "group": "Matériaux spécifiques",
+            "title": "comment détartrer une bouilloire en inox",
+            "intent": "informational",
+            "keywords": [
+                "comment détartrer une bouilloire en inox"
             ]
         }
     ],
     "categories": {
         "comment détartrer une bouilloire électrique": "core",
-        "détartrage bouilloire électrique": "core",
+        "nettoyage bouilloire électrique": "core",
         "détartrage bouilloire vinaigre blanc": "core",
         "comment détartrer une bouilloire naturellement": "core",
-        "anti tartre bouilloire": "core",
         "produit détartrant bouilloire": "core",
         "vinaigre blanc détartrage bouilloire electrique": "core",
-        "détartrage bouilloire électrique vinaigre": "complementary",
-        "bouilloire anti calcaire": "complementary",
         "détartrer bouilloire électrique": "core",
-        "nettoyer bouilloire électrique": "complementary",
         "nettoyage bouilloire vinaigre blanc": "complementary",
         "comment détartrer une bouilloire en inox": "complementary",
         "comment détartrer une bouilloire au vinaigre": "complementary",
         "comment détartrer une bouilloire avec du vinaigre blanc": "complementary",
         "comment laver une bouilloire": "complementary",
+        "comment detartrer une cafetiere": "complementary",
         "comment nettoyer une bouilloire entartrée": "complementary",
-        "bouilloire anti tartre magnétique": "complementary",
+        "détartrage bouilloire électrique vinaigre": "complementary",
         "citron detartrant bouilloire": "complementary",
         "citron détartrage bouilloire électrique": "complementary",
+        "comment detartrer une cafetiere senseo": "complementary",
         "comment détartrer une bouilloire avec du vinaigre": "complementary",
         "comment faire pour détartrer une bouilloire": "complementary",
-        "detartrage bouilloire inox": "complementary",
-        "detartrage bouilloire inox sifflante": "complementary",
+        "détartrage bouilloire sans vinaigre de": "complementary",
+        "détartrer bouilloire sans vinaigre": "complementary",
+        "fréquence détartrage bouilloire": "complementary",
+        "fréquence détartrage bouilloire électrique": "complementary",
+        "nettoyage bouilloire électrique avec thermostat": "complementary",
+        "prevention tartre bouilloire éléctrique": "complementary",
         "produit détartrant bouilloire éléctrique": "complementary",
         "tartre bouilloire danger": "complementary",
         "tartre bouilloire dangers dans": "complementary",
+        "détartrer une bouilloire avec vinaigre blanc": "complementary",
+        "nettoyer bouilloire électrique": "complementary",
         "citron détartrage bouilloire vinaigre blanc": "complementary",
+        "detartrer bouilloire sans vinaigre blanc": "complementary",
         "détartrage bouilloire citron": "complementary",
         "méthodes détartrage bouilloire": "core",
         "produits détartrage bouilloire": "core",
-        "fréquence détartrage bouilloire": "core",
         "prévention tartre bouilloire": "core",
         "sécurité détartrage bouilloire": "core",
         "impact tartre bouilloire": "core",
@@ -738,23 +817,17 @@
         "vinaigre blanc": "core",
         "citron": "core",
         "produit détartrant": "core",
-        "eau vinaigrée": "core",
-        "bicarbonate de soude": "core",
+        "eau vinaigrée": "complementary",
+        "bicarbonate de soude": "complementary",
         "tartre": "core",
-        "réservoir bouilloire": "core",
-        "élément chauffant": "core",
-        "filtre anti-tartre": "complementary",
-        "dépôt calcaire": "core",
+        "résidu calcaire": "core",
+        "nettoyage régulier": "complementary",
+        "prévention tartre": "complementary",
+        "sécurité électrique": "complementary",
         "café": "doubtful",
         "eau": "doubtful",
         "métal": "doubtful",
-        "tisane": "doubtful",
         "ébullition": "doubtful",
-        "électricité": "doubtful",
-        "comment detartrer une cafetiere": "doubtful",
-        "comment detartrer une cafetiere senseo": "doubtful",
-        "nettoyage bouilloire quotidien d'oran": "doubtful",
-        "bouilloire anti tartre wc": "doubtful",
-        "detartrage bouilloire inox gaz": "doubtful"
+        "électricité": "doubtful"
     }
 }

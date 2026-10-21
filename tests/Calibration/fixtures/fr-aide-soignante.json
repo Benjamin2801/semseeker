@@ -54,21 +54,21 @@
             "aide soignante formation",
             "aide soignante salaire",
             "aide soignante fiche métier",
-            "aide soignante la innenstadt",
             "aide soignante emploi",
             "aide soignante code rome",
             "aide soignante a domicile",
-            "aide soignante de nuit"
+            "aide soignante de nuit",
+            "aide soignante en anglais"
         ],
         "google": [
             "aide soignante",
             "aide soignante grenoble",
             "aide soignante salaire",
             "aide soignante a domicile",
-            "aide soignante formation",
             "aide soignante autour de moi",
             "aide soignante suisse",
             "aide soignante de nuit",
+            "aide soignante formation",
             "aide soignante geneve",
             "aide soignante emploi"
         ],
@@ -121,43 +121,43 @@
             ],
             [
                 0,
-                "aide soignante pourquoi"
-            ],
-            [
-                1,
                 "aide soignante pour devenir infirmière"
             ],
             [
-                2,
+                1,
                 "aide soignante pour les enfants"
             ],
             [
-                3,
+                2,
                 "aide soignante bourgoin"
             ],
             [
-                4,
+                3,
                 "aide soignante bourg en bresse"
             ],
             [
-                5,
+                4,
                 "aide soignante cours du soir"
             ],
             [
-                6,
+                5,
                 "aide soignante cours"
             ],
             [
-                7,
+                6,
                 "aide soignante cours pdf"
             ],
             [
-                8,
+                7,
                 "aide soignante tours"
             ],
             [
-                9,
+                8,
                 "aide soignante personne âgée"
+            ],
+            [
+                9,
+                "aide soignante perpignan"
             ],
             [
                 0,
@@ -253,23 +253,23 @@
             ],
             [
                 1,
-                "rôle aide soignante en chirurgie"
+                "rôle aide soignante"
             ],
             [
                 2,
-                "rôle aide soignante en psychiatrie"
+                "rôle aide soignante en chirurgie"
             ],
             [
                 3,
-                "rôle aide soignante avc"
+                "rôle aide soignante en psychiatrie"
             ],
             [
                 4,
-                "rôle aide soignante diabète"
+                "rôle aide soignante avc"
             ],
             [
                 5,
-                "rôle aide soignante"
+                "rôle aide soignante diabète"
             ],
             [
                 6,
@@ -1163,11 +1163,11 @@
             ],
             [
                 0,
-                "soins infirmiers"
+                "soins infirmiers a domicile"
             ],
             [
                 1,
-                "soins infirmiers a domicile"
+                "soins infirmiers"
             ],
             [
                 2,
@@ -1179,7 +1179,7 @@
             ],
             [
                 4,
-                "soins infirmiers udem"
+                "soins infirmiers en médecine"
             ],
             [
                 5,
@@ -1187,11 +1187,11 @@
             ],
             [
                 6,
-                "soins infirmiers pdf"
+                "soins infirmiers udem"
             ],
             [
                 7,
-                "soins infirmiers en médecine"
+                "soins infirmiers pour infirmière auxiliaire"
             ],
             [
                 0,
@@ -1730,28 +1730,57 @@
     },
     "pages": [
         {
-            "group": "Formation et concours",
+            "group": "Formation",
             "title": "aide soignante formation",
             "intent": "informational",
             "keywords": [
                 "aide soignante formation",
-                "aide soignante quel niveau",
                 "diplôme as",
                 "stage pratique",
+                "concours aide soignante",
                 "formation aide soignante en alternance",
-                "formation aide soignante 2026",
-                "formation aide soignante a distance"
+                "formation aide soignante a distance",
+                "formation aide soignante croix rouge"
             ]
         },
         {
-            "group": "Formation et concours",
-            "title": "concours aide soignante",
+            "group": "Formation",
+            "title": "concours aide soignante 2026",
             "intent": "informational",
             "keywords": [
-                "concours aide soignante",
                 "concours aide soignante 2026",
                 "concours aide soignante 2027",
                 "concours aide soignante 2025"
+            ]
+        },
+        {
+            "group": "Rôle et responsabilités",
+            "title": "rôle aide soignante",
+            "intent": "informational",
+            "keywords": [
+                "rôle aide soignante",
+                "aide soignante fiche métier",
+                "aide soignante hôpital",
+                "rôle aide soignante en maternité",
+                "tenue aide soignante femme",
+                "soins infirmiers en psychiatrie",
+                "actes de la vie quotidienne",
+                "besoin primaire",
+                "code déontologie",
+                "compétences aide soignante",
+                "déroulement journée aide soignante",
+                "gestes techniques",
+                "professionnel de santé",
+                "relation patient",
+                "santé sécurité",
+                "équipe médicale",
+                "soins infirmiers",
+                "soins infirmiers de base",
+                "quatorze besoins fondamentaux selon virginia henderson",
+                "soins de base",
+                "soins fondamentaux",
+                "role aide soignante en reanimation",
+                "psychiatrie"
             ]
         },
         {
@@ -1760,10 +1789,11 @@
             "intent": "informational",
             "keywords": [
                 "aide soignante à domicile",
-                "soins infirmiers à domicile",
-                "aide soignante pour enfant",
                 "aide médico-psychologique",
-                "auxiliaire de vie sociale"
+                "auxiliaire de vie sociale",
+                "hygiène hospitalière",
+                "soins infirmiers a domicile",
+                "aide soignante pour les enfants"
             ]
         },
         {
@@ -1777,59 +1807,7 @@
             ]
         },
         {
-            "group": "Lieux de travail",
-            "title": "aide soignante hôpital",
-            "intent": "informational",
-            "keywords": [
-                "aide soignante hôpital",
-                "aide soignante ou travailler",
-                "conditions de travail aide soignante",
-                "hygiène hospitalière"
-            ]
-        },
-        {
-            "group": "Rôle et responsabilités",
-            "title": "rôle aide soignante",
-            "intent": "informational",
-            "keywords": [
-                "rôle aide soignante",
-                "aide soignante fiche métier",
-                "tenue aide soignante femme",
-                "actes de la vie quotidienne",
-                "code déontologie",
-                "compétences aide soignante",
-                "déroulement journée aide soignante",
-                "gestes techniques",
-                "professionnel de santé",
-                "quatorze besoins fondamentaux selon virginia henderson",
-                "relation patient",
-                "santé sécurité",
-                "soins de base",
-                "soins fondamentaux",
-                "équipe médicale",
-                "évolution de carrière aide soignante",
-                "rôle aide soignante en psychiatrie",
-                "soins infirmiers en psychiatrie",
-                "psychiatrie",
-                "rôle aide soignante en maternité",
-                "role aide soignante en reanimation"
-            ]
-        },
-        {
-            "group": "Évolution de carrière",
-            "title": "aide soignante pour devenir infirmière",
-            "intent": "informational",
-            "keywords": [
-                "aide soignante pour devenir infirmière",
-                "soins infirmiers de base",
-                "infirmier",
-                "soins infirmiers",
-                "profession paramédicale",
-                "métiers du paramédical"
-            ]
-        },
-        {
-            "group": "Salaire et conditions",
+            "group": "Carrière",
             "title": "aide soignante salaire",
             "intent": "informational",
             "keywords": [
@@ -1837,45 +1815,73 @@
                 "salaire aide soignante en suisse",
                 "salaire aide soignante de nuit"
             ]
+        },
+        {
+            "group": "Carrière",
+            "title": "aide soignante emploi",
+            "intent": "informational",
+            "keywords": [
+                "aide soignante emploi",
+                "aide soignante pour devenir infirmière",
+                "aide soignante ou travailler",
+                "conditions de travail aide soignante",
+                "évolution de carrière aide soignante",
+                "profession paramédicale",
+                "métiers du paramédical"
+            ]
+        },
+        {
+            "group": "Santé publique",
+            "title": "santé publique",
+            "intent": "informational",
+            "keywords": [
+                "santé publique",
+                "santé publique france",
+                "santé publique def"
+            ]
         }
     ],
     "categories": {
         "aide soignante formation": "core",
-        "soins infirmiers": "complementary",
+        "soins infirmiers": "core",
+        "santé publique": "complementary",
         "aide soignante à domicile": "commercial",
         "aide soignante salaire": "core",
         "concours aide soignante": "core",
         "travail en ehpad": "core",
         "rôle aide soignante": "core",
-        "aide soignante nuit": "complementary",
-        "soins infirmiers à domicile": "commercial",
-        "salaire aide soignante en suisse": "commercial",
-        "concours aide soignante 2026": "commercial",
-        "formation aide soignante en alternance": "commercial",
-        "formation aide soignante 2026": "commercial",
-        "concours aide soignante 2027": "commercial",
-        "travail de nuit en ehpad": "commercial",
-        "concours aide soignante 2025": "commercial",
+        "santé publique france": "complementary",
+        "aide soignante nuit": "core",
+        "soins infirmiers a domicile": "commercial",
+        "salaire aide soignante en suisse": "core",
+        "concours aide soignante 2026": "core",
+        "formation aide soignante en alternance": "core",
+        "formation aide soignante 2026": "doubtful",
+        "concours aide soignante 2027": "core",
+        "travail de nuit en ehpad": "core",
+        "aide soignante emploi": "core",
+        "concours aide soignante 2025": "core",
         "aide soignante fiche métier": "core",
         "aide soignante hôpital": "core",
+        "aide soignante pour devenir infirmière": "complementary",
         "rôle aide soignante en maternité": "complementary",
         "soins infirmiers de base": "complementary",
         "aide soignante ou travailler": "complementary",
-        "aide soignante pour devenir infirmière": "complementary",
-        "salaire aide soignante de nuit": "commercial",
-        "aide soignante quel niveau": "complementary",
-        "aide soignante pour enfant": "complementary",
+        "salaire aide soignante de nuit": "complementary",
+        "aide soignante pour les enfants": "complementary",
+        "aide soignante quel niveau": "doubtful",
         "role aide soignante en reanimation": "complementary",
         "tenue aide soignante femme": "complementary",
-        "rôle aide soignante en psychiatrie": "complementary",
+        "santé publique def": "complementary",
         "soins infirmiers en psychiatrie": "complementary",
         "formation aide soignante a distance": "complementary",
+        "formation aide soignante croix rouge": "complementary",
         "déroulement journée aide soignante": "core",
         "compétences aide soignante": "core",
         "évolution de carrière aide soignante": "core",
         "conditions de travail aide soignante": "core",
         "diplôme as": "core",
-        "soins de base": "complementary",
+        "soins de base": "core",
         "relation patient": "core",
         "équipe médicale": "core",
         "hygiène hospitalière": "complementary",
@@ -1884,18 +1890,14 @@
         "code déontologie": "core",
         "santé sécurité": "core",
         "psychiatrie": "complementary",
-        "infirmier": "complementary",
         "profession paramédicale": "complementary",
         "métiers du paramédical": "complementary",
         "professionnel de santé": "complementary",
         "actes de la vie quotidienne": "complementary",
         "soins fondamentaux": "complementary",
+        "besoin primaire": "complementary",
         "auxiliaire de vie sociale": "complementary",
         "aide médico-psychologique": "complementary",
-        "quatorze besoins fondamentaux selon virginia henderson": "complementary",
-        "santé publique": "doubtful",
-        "santé publique france": "doubtful",
-        "aide soignante emploi": "doubtful",
-        "santé publique def": "doubtful"
+        "quatorze besoins fondamentaux selon virginia henderson": "complementary"
     }
 }

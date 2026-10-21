@@ -37,7 +37,7 @@
                 {% for name, value in measures %}
                     <li class="gauge-{{ name }}" title="{{ ('advice.gauge.' ~ name ~ '_help')|trans }}">
                         <span class="gauge-name">{{ ('advice.gauge.' ~ name)|trans }}</span>
-                        <span class="gauge-value">{{ value ?? '—' }}</span>
+                        <span class="gauge-value">{% if pending and name == 'orientation' %}<span class="plan-spinner is-small" role="status" aria-label="{{ 'advice.pending_value'|trans }}"></span>{% else %}{{ value ?? '—' }}{% endif %}</span>
                     </li>
                 {% endfor %}
             </ul>
@@ -116,12 +116,10 @@
             {% set opportunities = (result.categories.commercial ?? [])|map(k => {text: k.text, keyword: k}) %}
             <div class="overview-concepts">
                 {{ include('search/_card.html.twig', {title: 'advice.concepts_logical'|trans, icon: 'link', class: 'is-logical', items: logical, list_class: ' is-dotted'}) }}
-                {% if not pending %}
-                {{ include('search/_card.html.twig', {title: 'advice.concepts_searched'|trans, icon: 'sources', class: 'is-searched', items: searched, list_class: ' is-dotted'}) }}
-                {{ include('search/_card.html.twig', {title: 'category.commercial.title'|trans, icon: 'tag', class: 'category-commercial', items: opportunities, list_class: ' is-dotted'}) }}
-                {% endif %}
+                {{ include('search/_card.html.twig', {title: 'advice.concepts_searched'|trans, icon: 'sources', class: 'is-searched', items: searched, list_class: ' is-dotted', loading: pending}) }}
+                {{ include('search/_card.html.twig', {title: 'category.commercial.title'|trans, icon: 'tag', class: 'category-commercial', items: opportunities, list_class: ' is-dotted', loading: pending}) }}
             </div>
-            {% if result.categories is not empty %}
+            {% if pending or result.categories is not empty %}
                 {{ include('search/_synthesis.html.twig') }}
             {% endif %}
         </section>

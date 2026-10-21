@@ -216,6 +216,7 @@ origin:
 
 advice:
     pending: "En attente du plan, qui juge aussi l’orientation achat…"
+    pending_value: "Calcul avec le plan…"
     summary:
         demand:
             high: "Forte demande"
@@ -289,6 +290,7 @@ failure:
 
 synthesis:
     title: "Synthèse"
+    loading: "Arrive avec le plan…"
     weight_help: "Nombre de termes · intérêt cumulé"
 
 category:

@@ -16,6 +16,7 @@
     "concepts": [
         "accountant job description",
         "certified public accountant salary",
+        "accountant vs bookkeeper salary",
         "accounting degree salary"
     ],
     "suggestions": {
@@ -333,6 +334,54 @@
             ],
             [
                 0,
+                "bookkeeper vs accountant salary"
+            ],
+            [
+                1,
+                "accountant vs bookkeeper difference"
+            ],
+            [
+                2,
+                "difference between bookkeeper and accountant"
+            ],
+            [
+                3,
+                "become bookkeeper vs accountant"
+            ],
+            [
+                4,
+                "bookkeeper vs staff accountant"
+            ],
+            [
+                5,
+                "salary of a bookkeeper"
+            ],
+            [
+                6,
+                "average salary of a bookkeeper"
+            ],
+            [
+                7,
+                "what is the average bookkeeper salary"
+            ],
+            [
+                8,
+                "accounting assistant vs bookkeeper"
+            ],
+            [
+                9,
+                "bookkeeper vs accounting clerk"
+            ],
+            [
+                10,
+                "average pay for a bookkeeper"
+            ],
+            [
+                11,
+                "bookkeeper vs accounting staff"
+            ],
+            [
+                0,
                 "accounting degree salary"
             ],
             [
@@ -531,6 +580,46 @@
             ],
             [
                 0,
+                "accountant vs bookkeeper salary"
+            ],
+            [
+                1,
+                "accountant vs chartered accountant salary"
+            ],
+            [
+                2,
+                "accountant and bookkeeper salary"
+            ],
+            [
+                3,
+                "cpa vs bookkeeper salary"
+            ],
+            [
+                4,
+                "accounting clerk vs bookkeeper salary"
+            ],
+            [
+                5,
+                "accounting technician vs bookkeeper salary"
+            ],
+            [
+                6,
+                "cost accountant vs chartered accountant salary"
+            ],
+            [
+                7,
+                "professional accountant vs chartered accountant salary"
+            ],
+            [
+                8,
+                "accounting and bookkeeping jobs salary"
+            ],
+            [
+                9,
+                "accounting technicians and bookkeepers salary"
+            ],
+            [
+                0,
                 "accounting degree salary"
             ],
             [
@@ -634,6 +723,38 @@
             [
                 7,
                 "public accountant average salary"
+            ],
+            [
+                0,
+                "bookkeeper vs accountant salary"
+            ],
+            [
+                1,
+                "accountant vs bookkeeper difference"
+            ],
+            [
+                2,
+                "difference between bookkeeper and accountant"
+            ],
+            [
+                3,
+                "become bookkeeper vs accountant"
+            ],
+            [
+                4,
+                "bookkeeper vs staff accountant"
+            ],
+            [
+                5,
+                "salary of a bookkeeper"
+            ],
+            [
+                6,
+                "what is the average bookkeeper salary"
+            ],
+            [
+                7,
+                "accounting assistant vs bookkeeper"
             ],
             [
                 0,
@@ -748,6 +869,22 @@
             [
                 9,
                 "certified public accountant salary nj"
+            ],
+            [
+                0,
+                "accountant vs bookkeeper salary range"
+            ],
+            [
+                1,
+                "accountant vs bookkeeper salary chart"
+            ],
+            [
+                2,
+                "accountant vs bookkeeper salary comparison"
+            ],
+            [
+                3,
+                "accountant vs bookkeeper salary philippines"
             ],
             [
                 0,
@@ -870,23 +1007,75 @@
     },
     "pages": [
         {
-            "group": "Salary Overview",
+            "group": "Accountant Roles",
+            "title": "accountant job description",
+            "intent": "informational",
+            "keywords": [
+                "accountant job description",
+                "accountant job description and salary",
+                "accounting",
+                "accounting experience",
+                "accounting industry",
+                "accounting job outlook",
+                "auditor",
+                "credit manager",
+                "external auditor",
+                "financial statement",
+                "journal entries",
+                "private accounting",
+                "accountant job description and responsibilities",
+                "accountant job description and requirements",
+                "accountant job descriptions and duties",
+                "accountant job description for resume",
+                "accountant job description sample",
+                "accountant job description example"
+            ]
+        },
+        {
+            "group": "Accountant Roles",
+            "title": "certified public accountant salary",
+            "intent": "informational",
+            "keywords": [
+                "certified public accountant salary",
+                "accountant certification impact on salary",
+                "accounting certification",
+                "big four",
+                "certified public accountant",
+                "chartered accountant",
+                "chartered certified accountant",
+                "public accounting",
+                "certified public accountant salary range",
+                "certified public accountant salary in india",
+                "certified public accountant salary philippines"
+            ]
+        },
+        {
+            "group": "Accountant Roles",
+            "title": "forensic accountant salary",
+            "intent": "commercial",
+            "keywords": [
+                "forensic accountant salary",
+                "bookkeeping",
+                "bookkeeper vs accountant salary"
+            ]
+        },
+        {
+            "group": "Salary Insights",
             "title": "accountant salary range",
             "intent": "informational",
             "keywords": [
                 "accountant salary range",
-                "accountant salary annual",
                 "accountant salary by industry",
                 "accounting salary range",
                 "accountant salary entry level",
-                "accountant salary for beginners",
+                "accountant salary annual",
+                "accountant average salary",
                 "accountant salary progression",
-                "accountant salary by experience",
-                "accountant average salary"
+                "accountant salary by experience"
             ]
         },
         {
-            "group": "Salary Overview",
+            "group": "Salary Insights",
             "title": "accountant salary in us",
             "intent": "informational",
             "keywords": [
@@ -896,75 +1085,17 @@
                 "public sector",
                 "accountant salary california",
                 "accountant salary in california",
-                "accountant salary usa",
-                "accountant salary texas"
+                "accountant salary texas",
+                "accountant salary usa"
             ]
         },
         {
-            "group": "Accountant Roles",
-            "title": "accountant job description",
-            "intent": "informational",
-            "keywords": [
-                "accountant job description",
-                "accounting",
-                "accounting industry",
-                "accounting job outlook",
-                "auditor",
-                "credit manager",
-                "external auditor",
-                "accountant job description for resume",
-                "accountant job description and responsibilities",
-                "accounting experience",
-                "bookkeeping",
-                "financial statement",
-                "journal entries",
-                "accountant job description sample",
-                "accountant job description example"
-            ]
-        },
-        {
-            "group": "Accountant Roles",
-            "title": "forensic accountant salary",
-            "intent": "informational",
-            "keywords": [
-                "forensic accountant salary",
-                "big four",
-                "accountant job description and requirements",
-                "accountant job descriptions and duties"
-            ]
-        },
-        {
-            "group": "Certified Public Accountant",
-            "title": "certified public accountant salary",
-            "intent": "informational",
-            "keywords": [
-                "certified public accountant salary",
-                "accountant certification impact on salary",
-                "accounting certification",
-                "certified public accountant",
-                "chartered accountant",
-                "chartered certified accountant",
-                "certified public accountant salary range",
-                "california certified public accountant salary"
-            ]
-        },
-        {
-            "group": "Certified Public Accountant",
-            "title": "certified public accountant salary in india",
-            "intent": "informational",
-            "keywords": [
-                "certified public accountant salary in india",
-                "certified public accountant salary philippines"
-            ]
-        },
-        {
-            "group": "Accounting Degree",
+            "group": "Education Impact",
             "title": "accounting degree salary",
             "intent": "informational",
             "keywords": [
                 "accounting degree salary",
                 "accounting degree",
-                "private accounting",
                 "accounting degree salary california",
                 "accounting degree salary range",
                 "accounting degree salary texas"
@@ -980,6 +1111,15 @@
                 "accountant salary uk",
                 "accountant salary australia"
             ]
+        },
+        {
+            "group": "Specializations",
+            "title": "accountant salary cpa",
+            "intent": "informational",
+            "keywords": [
+                "accountant salary cpa",
+                "california certified public accountant salary"
+            ]
         }
     ],
     "categories": {
@@ -991,6 +1131,7 @@
         "accountant job description for resume": "core",
         "accountant salary in dubai": "core",
         "accounting degree salary california": "core",
+        "bookkeeper vs accountant salary": "complementary",
         "certified public accountant salary in india": "core",
         "certified public accountant salary range": "core",
         "accounting degree salary reddit": "doubtful",
@@ -1009,18 +1150,20 @@
         "california certified public accountant salary": "complementary",
         "accountant job description example": "complementary",
         "accountant salary uk": "complementary",
+        "accountant salary cpa": "complementary",
         "accountant salary in california": "complementary",
         "accountant job description and requirements": "complementary",
+        "accountant job description and salary": "complementary",
         "accountant job descriptions and duties": "complementary",
         "accountant salary australia": "complementary",
         "accountant salary annual": "complementary",
-        "accountant salary for beginners": "complementary",
         "accountant average salary": "complementary",
         "accountant salary by experience": "core",
         "accountant salary by industry": "core",
         "accountant salary by location": "commercial",
         "accountant certification impact on salary": "core",
         "certified public accountant": "core",
+        "public accounting": "complementary",
         "private accounting": "complementary",
         "accounting degree": "core",
         "accounting certification": "core",
@@ -1039,8 +1182,6 @@
         "credit manager": "complementary",
         "bookkeeping": "complementary",
         "auditor": "complementary",
-        "external auditor": "complementary",
-        "accountant salary cpa": "doubtful",
-        "accountant job description and salary": "doubtful"
+        "external auditor": "complementary"
     }
 }

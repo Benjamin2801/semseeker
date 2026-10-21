@@ -9,9 +9,11 @@
                 {{- include('search/_icon.svg.twig', {name: 'copy', size: 11, class: 'term-icon'}) }}<span data-label>{{ 'structure.copy_terms'|trans }}</span>
             </button>
         {% endif %}
-        <span class="synthesis-count" title="{{ 'synthesis.weight_help'|trans }}">{{ items|length }} · Σ {{ measured|reduce((sum, i) => sum + i.keyword.displayScore, 0) }}</span>
+        {% if not (loading ?? false) %}<span class="synthesis-count" title="{{ 'synthesis.weight_help'|trans }}">{{ items|length }} · Σ {{ measured|reduce((sum, i) => sum + i.keyword.displayScore, 0) }}</span>{% endif %}
     </p>
-    {% if items is empty %}
+    {% if loading ?? false %}
+        <p class="synthesis-empty is-loading" role="status"><span class="plan-spinner is-small" aria-hidden="true"></span>{{ 'synthesis.loading'|trans }}</p>
+    {% elseif items is empty %}
         <p class="synthesis-empty">—</p>
     {% else %}
         <ul class="term-list{{ list_class ?? '' }}" tabindex="0" aria-label="{{ title }}">

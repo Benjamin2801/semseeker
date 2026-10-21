@@ -169,6 +169,8 @@ pain commun
         self::assertResponseIsSuccessful();
         self::assertSelectorExists('.advice .advice-waiting');
         self::assertSelectorNotExists('.advice-value', 'Le verdict attend le plan, qui juge aussi l\'orientation achat.');
+        self::assertSelectorExists('.gauge-orientation .plan-spinner');
+        self::assertCount(4, $crawler->filter('.synthesis-empty.is-loading'), 'Les cartes du plan attendent à leur place.');
         self::assertSelectorNotExists('.tree-groups');
         self::assertSame('/fr/search/plan?q=pain&lang=fr', $crawler->filter('.plan-pending')->attr('data-plan-url'));
 
