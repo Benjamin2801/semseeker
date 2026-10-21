@@ -167,7 +167,8 @@ pain commun
         $crawler = $client->request('GET', '/fr/search', ['q' => 'pain', 'lang' => 'fr']);
 
         self::assertResponseIsSuccessful();
-        self::assertSelectorExists('.advice .advice-value');
+        self::assertSelectorExists('.advice .advice-waiting');
+        self::assertSelectorNotExists('.advice-value', 'Le verdict attend le plan, qui juge aussi l\'orientation achat.');
         self::assertSelectorNotExists('.tree-groups');
         self::assertSame('/fr/search/plan?q=pain&lang=fr', $crawler->filter('.plan-pending')->attr('data-plan-url'));
 

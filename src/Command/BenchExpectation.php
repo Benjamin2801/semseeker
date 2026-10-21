@@ -2,6 +2,7 @@
 
 namespace App\Command;
 
+use App\Ai\CohereContentPlanner;
 use App\Search\PageType;
 use App\Search\SearchResult;
 use App\Suggest\Keyword;
@@ -174,6 +175,11 @@ final class BenchExpectation
         $noise = array_values(array_filter($keywords, fn (string $k): bool => [] !== array_filter($this->noise, static fn (string $t): bool => self::mentions($k, $t))));
         $missing = array_values(array_filter($this->topics, static fn (string $t): bool => [] === array_filter($keywords, static fn (string $k): bool => self::mentions($k, $t))));
         $duplicates = array_map('strval', array_keys(array_filter(array_count_values($keywords), static fn (int $n): bool => $n > 1)));
+        // Deux pages qui ajoutent les mêmes mots à l'expression visent la même requête, même sous deux formulations.
+        $targets = array_map(fn (array $page): string => CohereContentPlanner::addedWords($page[0], $this->expression), $pages);
+        foreach (array_keys(array_filter(array_count_values($targets), static fn (int $n): bool => $n > 1)) as $target) {
+            $duplicates[] = 'pages +['.$target.']';
+        }
         $noiseShare = \count($noise) / \count($keywords);
         $coverage = [] !== $this->topics ? 1 - \count($missing) / \count($this->topics) : 1.0;
         $singleShare = \count(array_filter($pages, static fn (array $p): bool => \count($p) < 2)) / \count($pages);

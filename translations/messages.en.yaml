@@ -213,6 +213,7 @@ origin:
         help: "Core term proposed by the AI: no engine suggested it, its popularity is estimated (AI, Wikipedia, Wikidata)."
 
 advice:
+    pending: "Waiting for the plan, which also weighs the buying intent…"
     summary:
         demand:
             high: "High demand"

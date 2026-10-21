@@ -4,15 +4,17 @@
 
     {% set decimal = app.request.locale == 'fr' ? ',' : '.' %}
     {% set thousands = app.request.locale == 'fr' ? ' ' : ',' %}
+    {# Le plan juge aussi l'orientation achat : en l'attendant, seules les mesures sans IA s'affichent. #}
+    {% set pending = result.fieldIssue == constant('App\\Search\\SearchResult::FIELD_PENDING') %}
 
     {% if result.demand or result.wikipedia or result.keywords is not empty %}
         {% set advice = result.advice %}
         {% set verdict = advice.verdict.value %}
-        {% set measures = {demand: advice.demand, depth: advice.depth, notoriety: advice.notoriety, orientation: advice.orientation} %}
+        {% set measures = {demand: advice.demand, depth: advice.depth, notoriety: advice.notoriety, orientation: pending ? null : advice.orientation} %}
         {% set r = 42 * 0.01 %}
         {% set points = {
             demand: [48, 48 - r * (advice.demand)],
-            orientation: [48 + r * (advice.orientation ?? 0), 48],
+            orientation: [48 + r * (measures.orientation ?? 0), 48],
             depth: [48, 48 + r * (advice.depth)],
             notoriety: [48 - r * (advice.notoriety ?? 0), 48],
         } %}
@@ -40,8 +42,8 @@
                 {% endfor %}
             </ul>
             {% set informational = ((advice.depth + (advice.notoriety ?? advice.depth)) / 2)|round %}
-            {% set business = advice.orientation ?? 0 %}
-            {% if informational + business > 0 %}
+            {% set business = measures.orientation ?? 0 %}
+            {% if not pending and informational + business > 0 %}
                 {% set share = (100 * informational / (informational + business))|round %}
                 {% set demand_level = advice.demand >= 70 ? 'high' : (advice.demand >= 40 ? 'medium' : 'low') %}
                 {% set balance = share >= 60 ? 'informational' : (share <= 40 ? 'business' : 'balanced') %}
@@ -67,7 +69,13 @@
                 </div>
             {% endif %}
             </div>
-            <div class="advice advice-{{ advice.verdict.family }}">
+            <div class="advice{% if pending %} is-pending{% else %} advice-{{ advice.verdict.family }}{% endif %}">
+                {% if pending %}
+                <p class="advice-head">
+                    <span class="overview-label">{{ 'advice.title'|trans }}</span>
+                    <span class="advice-waiting">{{ 'advice.pending'|trans }}</span>
+                </p>
+                {% else %}
                 <p class="advice-head">
                     <span class="overview-label">{{ 'advice.title'|trans }}</span>
                     {% for option in advice.options %}
@@ -83,6 +91,7 @@
                         <p>{% if advice.options|length > 1 %}<strong class="advice-axes-type is-{{ option.family }}">{{ ('advice.type.' ~ option.value)|trans }} :</strong> {% endif %}{{ ('advice.axes.' ~ option.value)|trans }}</p>
                     {% endfor %}
                 </div>
+                {% endif %}
                 {% if result.wikipedia %}
                     <div class="overview-wiki">
                         <span class="overview-label">{{ 'wikipedia.title'|trans }}</span>
@@ -107,8 +116,10 @@
             {% set opportunities = (result.categories.commercial ?? [])|map(k => {text: k.text, keyword: k}) %}
             <div class="overview-concepts">
                 {{ include('search/_card.html.twig', {title: 'advice.concepts_logical'|trans, icon: 'link', class: 'is-logical', items: logical, list_class: ' is-dotted'}) }}
+                {% if not pending %}
                 {{ include('search/_card.html.twig', {title: 'advice.concepts_searched'|trans, icon: 'sources', class: 'is-searched', items: searched, list_class: ' is-dotted'}) }}
                 {{ include('search/_card.html.twig', {title: 'category.commercial.title'|trans, icon: 'tag', class: 'category-commercial', items: opportunities, list_class: ' is-dotted'}) }}
+                {% endif %}
             </div>
             {% if result.categories is not empty %}
                 {{ include('search/_synthesis.html.twig') }}
@@ -118,7 +129,7 @@
     {% if result.keywords is empty %}
         <p>{{ 'results.empty'|trans }}</p>
     {% else %}
-        {% if result.fieldIssue == constant('App\\Search\\SearchResult::FIELD_PENDING') %}
+        {% if pending %}
             <div class="plan-pending" role="status" aria-live="polite"
                  data-plan-url="{{ path('search_plan', {_locale: app.request.locale, q: keyword, lang: lang}) }}"
                  data-label-failed="{{ 'structure.pending.failed'|trans }}">

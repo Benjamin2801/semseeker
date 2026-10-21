@@ -2132,6 +2132,12 @@ body.is-loading .home-cta {
     font-size: 0.9rem;
 }
 
+.advice-waiting {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
 .advice-secondary.is-mother {
     color: var(--intent-informational);
     font-weight: 600;

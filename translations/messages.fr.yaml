@@ -215,6 +215,7 @@ origin:
         help: "Terme fondamental proposé par l'IA : aucun moteur ne l'a suggéré, sa popularité est estimée (IA, Wikipédia, Wikidata)."
 
 advice:
+    pending: "En attente du plan, qui juge aussi l’orientation achat…"
     summary:
         demand:
             high: "Forte demande"
