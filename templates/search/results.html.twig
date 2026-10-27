@@ -9,9 +9,133 @@
 {% endblock %}
 
 {% block body %}
+    {% import 'search/_structure.html.twig' as structure %}
     <section class="results-header">
         {{ include('search/_form.html.twig') }}
     </section>
 
-    {{ include('search/_results.html.twig') }}
+    <section class="results">
+        <h1 class="visually-hidden">{{ 'results.heading'|trans({'%count%': result.keywords|length, '%keyword%': keyword}) }}</h1>
+
+        {% set decimal = app.request.locale == 'fr' ? ',' : '.' %}
+        {% set thousands = app.request.locale == 'fr' ? ' ' : ',' %}
+
+        {% if result.demand or result.wikipedia or result.keywords is not empty %}
+            {% set advice = result.advice %}
+            {% set verdict = advice.verdict.value %}
+            {% set measures = {demand: advice.demand, depth: advice.depth, notoriety: advice.notoriety, orientation: advice.orientation} %}
+            {% set r = 42 * 0.01 %}
+            {% set points = {
+                demand: [48, 48 - r * (advice.demand)],
+                orientation: [48 + r * (advice.orientation ?? 0), 48],
+                depth: [48, 48 + r * (advice.depth)],
+                notoriety: [48 - r * (advice.notoriety ?? 0), 48],
+            } %}
+            <section class="overview">
+                <div class="overview-measures">
+                <svg class="radar" viewBox="0 0 96 96" width="96" height="96" role="img" aria-labelledby="radar-title">
+                    <title id="radar-title">{{ measures|map((v, k) => ('advice.gauge.' ~ k)|trans ~ ' ' ~ (v ?? '—'))|join(', ') }}</title>
+                    <g class="radar-grid">
+                        <polygon points="48,6 90,48 48,90 6,48"/>
+                        <polygon points="48,27 69,48 48,69 27,48"/>
+                        <line x1="48" y1="6" x2="48" y2="90"/>
+                        <line x1="6" y1="48" x2="90" y2="48"/>
+                    </g>
+                    <polygon class="radar-shape" points="{{ points|map(p => p|join(','))|join(' ') }}"/>
+                    {% for name, point in points %}
+                        <circle class="radar-dot gauge-{{ name }}" cx="{{ point[0] }}" cy="{{ point[1] }}" r="2.5"/>
+                    {% endfor %}
+                </svg>
+                <ul class="radar-legend">
+                    {% for name, value in measures %}
+                        <li class="gauge-{{ name }}" title="{{ ('advice.gauge.' ~ name ~ '_help')|trans }}">
+                            <span class="gauge-name">{{ ('advice.gauge.' ~ name)|trans }}</span>
+                            <span class="gauge-value">{{ value ?? '—' }}</span>
+                        </li>
+                    {% endfor %}
+                </ul>
+                {% set informational = ((advice.depth + (advice.notoriety ?? advice.depth)) / 2)|round %}
+                {% set business = advice.orientation ?? 0 %}
+                {% if informational + business > 0 %}
+                    {% set share = (100 * informational / (informational + business))|round %}
+                    {% set demand_level = advice.demand >= 70 ? 'high' : (advice.demand >= 40 ? 'medium' : 'low') %}
+                    {% set balance = share >= 60 ? 'informational' : (share <= 40 ? 'business' : 'balanced') %}
+                    {# La part business se partage entre commercial et transactionnel, selon les pages du plan. #}
+                    {% set mix = result.field ? result.field.intentMix : [] %}
+                    {% set buying = (mix.commercial ?? 0) + (mix.transactional ?? 0) %}
+                    {% set transactional = buying > 0 ? ((100 - share) * mix.transactional / buying)|round : 0 %}
+                    {% set depth_share = advice.notoriety is null ? share : (share * advice.depth / max(1, advice.depth + advice.notoriety))|round %}
+                    {% set balance_label = [
+                        'advice.gauge.depth'|trans ~ ' ' ~ depth_share ~ ' %',
+                        'advice.gauge.notoriety'|trans ~ ' ' ~ (share - depth_share) ~ ' %',
+                        'intent.commercial'|trans ~ ' ' ~ (100 - share - transactional) ~ ' %',
+                        'intent.transactional'|trans ~ ' ' ~ transactional ~ ' %',
+                    ]|filter(part => part|slice(-4) != ' 0 %')|join(' · ') %}
+                    <div class="overview-summary">
+                        <p>{{ ('advice.summary.demand.' ~ demand_level)|trans }}, {{ ('advice.summary.balance.' ~ balance)|trans }}.</p>
+                        <span class="intent-bar overview-mix" role="img" aria-label="{{ balance_label }}" title="{{ balance_label }}">
+                            {%- if depth_share > 0 %}<span class="gauge-depth" style="width: {{ depth_share }}%"></span>{% endif -%}
+                            {%- if share - depth_share > 0 %}<span class="gauge-notoriety" style="width: {{ share - depth_share }}%"></span>{% endif -%}
+                            {%- if 100 - share - transactional > 0 %}<span class="intent-commercial" style="width: {{ 100 - share - transactional }}%"></span>{% endif -%}
+                            {%- if transactional > 0 %}<span class="intent-transactional" style="width: {{ transactional }}%"></span>{% endif -%}
+                        </span>
+                    </div>
+                {% endif %}
+                </div>
+                <div class="advice advice-{{ advice.verdict.family }}">
+                    <p class="advice-head">
+                        <span class="overview-label">{{ 'advice.title'|trans }}</span>
+                        {% for option in advice.options %}
+                            {% if not loop.first %}<span class="advice-or">{{ 'advice.or'|trans }}</span>{% endif %}
+                            <span class="advice-value is-{{ option.family }}">{{ include('search/_icon.svg.twig', {name: option.icon, size: 15}) }}{{ ('advice.type.' ~ option.value)|trans }}</span>
+                        {% endfor %}
+                        {% if advice.keyPage %}<span class="advice-secondary is-mother{% if advice.verdict.competitive %} is-competitive{% endif %}">{{ 'advice.mother'|trans }}{% if advice.verdict.competitive %} <span class="advice-competitive">{{ 'advice.competitive'|trans }}</span>{% endif %}</span>
+                        {% elseif advice.parent %}<span class="advice-secondary is-support">{{ 'advice.support'|trans }}</span>{% endif %}
+                    </p>
+                    <div class="advice-axes">
+                        <p class="overview-label">{{ 'advice.axes_label'|trans }}</p>
+                        {% for option in advice.options %}
+                            <p>{% if advice.options|length > 1 %}<strong class="advice-axes-type is-{{ option.family }}">{{ ('advice.type.' ~ option.value)|trans }} :</strong> {% endif %}{{ ('advice.axes.' ~ option.value)|trans }}</p>
+                        {% endfor %}
+                    </div>
+                    {% if result.wikipedia %}
+                        <div class="overview-wiki">
+                            <span class="overview-label">{{ 'wikipedia.title'|trans }}</span>
+                            {% for article in result.wikipedia.articles %}
+                                <span class="wiki-views{% if not article.counted %} is-uncounted{% endif %}"{% if not article.counted %} title="{{ 'wikipedia.uncounted'|trans }}"{% elseif article.fromConcept %} title="{{ 'wikipedia.concept'|trans }}"{% endif %}>
+                                    <a href="{{ article.url }}" target="_blank" rel="noopener" title="{{ article.title }}">{{ article.title }}</a>
+                                    <span class="wiki-count" title="{{ 'wikipedia.help'|trans }}">{{ article.views|number_format(0, decimal, thousands) }}</span>
+                                    {% set sparkline = article.sparkline %}
+                                    {% if sparkline %}
+                                        <svg class="sparkline demand-{{ article.volume.value }}" viewBox="0 0 64 16" width="48" height="12" role="img" aria-label="{{ 'wikipedia.sparkline'|trans }}">
+                                            <title>{{ 'wikipedia.sparkline'|trans }}</title>
+                                            <polyline points="{{ sparkline }}" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+                                        </svg>
+                                    {% endif %}
+                                </span>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+                {% set logical = result.concepts|map(c => {text: c, keyword: result.keywords|filter(k => k.text|lower == c|lower)|first}) %}
+                {% set searched = result.field ? result.field.groups|reduce((list, group) => list|merge(group.pages|map(page => page.main)), [])|sort((a, b) => b.displayScore <=> a.displayScore)|map(k => {text: k.text, keyword: k}) : [] %}
+                {% set opportunities = (result.categories.commercial ?? [])|map(k => {text: k.text, keyword: k}) %}
+                <div class="overview-concepts">
+                    {{ include('search/_card.html.twig', {title: 'advice.concepts_logical'|trans, icon: 'link', class: 'is-logical', items: logical, list_class: ' is-dotted'}) }}
+                    {{ include('search/_card.html.twig', {title: 'advice.concepts_searched'|trans, icon: 'sources', class: 'is-searched', items: searched, list_class: ' is-dotted'}) }}
+                    {{ include('search/_card.html.twig', {title: 'category.commercial.title'|trans, icon: 'tag', class: 'category-commercial', items: opportunities, list_class: ' is-dotted'}) }}
+                </div>
+                {% if result.categories is not empty %}
+                    {{ include('search/_synthesis.html.twig') }}
+                {% endif %}
+            </section>
+        {% endif %}
+        {% if result.keywords is empty %}
+            <p>{{ 'results.empty'|trans }}</p>
+        {% else %}
+            {{ include('search/_structure.html.twig') }}
+            {{ include('search/_analysis_meta.html.twig') }}
+        {% endif %}
+
+    </section>
 {% endblock %}

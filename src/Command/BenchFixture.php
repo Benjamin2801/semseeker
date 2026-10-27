@@ -2,7 +2,6 @@
 
 namespace App\Command;
 
-use App\Ai\CohereContentPlanner;
 use App\Ai\Intent;
 use App\Ai\KeywordCategory;
 use App\Search\Demand;
@@ -110,20 +109,9 @@ final class BenchFixture
         }
 
         // Le plan est reconstruit comme en production, pour que le garde-fou d'intention relise les mêmes mots-clés.
-        // En production, les pages qui visent la même requête sont fusionnées avant le rangement : leurs mots-clés aussi.
-        $pages = [];
-        foreach ($fixture['pages'] as $page) {
-            $target = CohereContentPlanner::addedWords($page['title'], $fixture['expression']);
-            if (isset($pages[$target])) {
-                $pages[$target]['keywords'] = [...$pages[$target]['keywords'], ...$page['keywords']];
-            } else {
-                $pages[$target] = $page;
-            }
-        }
-
         $plan = [];
         $placed = [];
-        foreach ($pages as $page) {
+        foreach ($fixture['pages'] as $page) {
             $positions = [];
             foreach ($page['keywords'] as $text) {
                 $positions[] = \count($placed);

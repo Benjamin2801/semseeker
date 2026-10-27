@@ -2,7 +2,6 @@
 
 namespace App\Ai;
 
-use App\Suggest\SuggestionMerger;
 use Symfony\Contracts\HttpClient\ResponseInterface;
 
 /**
@@ -72,12 +71,6 @@ final class CohereContentPlanner implements ContentPlannerInterface
           about the kinds of the seed, or as pages when the keywords show strong interest in them.
         - Never a section for a single brand or shop ("Taille-haie Stihl", "boulangerie paul"). When the seed is about
           choosing a product, one section about its main brands is welcome.
-        - When the seed is a product or a family of products, its colours, sizes, audiences (women, men, children),
-          seasons and brands are filters of one category page: never pages of their own, at most H2 sections; only a
-          brand whose keyword is among the most popular of the list gets its own page (a brand landing page). The pages
-          answer the buying questions instead: how to choose, sizes and fit, uses, care, comparisons (for "sac à dos":
-          "comment choisir un sac à dos", "taille sac à dos", "entretien sac à dos", not "sac à dos noir" or
-          "sac à dos femme" as pages).
         - Capitalize group names as usual in the keywords' language: in French, only the first word and proper
           nouns.
 
@@ -218,7 +211,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
         }
 
         $json = $this->cohere->decode($draft->pending);
-        $pages = self::withoutDuplicates($this->pages($json), $draft->seed);
+        $pages = $this->pages($json);
         if ([] === $pages) {
             return new Plan([]);
         }
@@ -276,40 +269,6 @@ final class CohereContentPlanner implements ContentPlannerInterface
         }
 
         return \array_slice($pages, 0, self::MAX_PAGES);
-    }
-
-    /**
-     * Deux pages qui ajoutent les mêmes mots à l'expression visent la même requête (« comparatif mutuelle senior » et
-     * « mutuelle santé senior comparatif ») : la première garde le titre et reçoit les sections de l'autre.
-     *
-     * @param list<DraftPage> $pages
-     *
-     * @return list<DraftPage>
-     */
-    public static function withoutDuplicates(array $pages, string $seed): array
-    {
-        $kept = [];
-        foreach ($pages as $page) {
-            $key = self::addedWords($page['title'], $seed);
-            if (!isset($kept[$key])) {
-                $kept[$key] = $page;
-                continue;
-            }
-            $titles = array_map(static fn (array $s): string => SuggestionMerger::key($s['title']), $kept[$key]['sections']);
-            foreach ($page['sections'] as $section) {
-                if (!\in_array(SuggestionMerger::key($section['title']), $titles, true)) {
-                    $kept[$key]['sections'][] = $section;
-                }
-            }
-        }
-
-        return array_values($kept);
-    }
-
-    // Ce qu'une page ajoute à l'expression, mots triés et normalisés : la requête qu'elle vise vraiment.
-    public static function addedWords(string $title, string $seed): string
-    {
-        return implode(' ', array_diff(explode(' ', SuggestionMerger::key($title)), explode(' ', SuggestionMerger::key($seed))));
     }
 
     private static function coreTarget(int $chunk): int

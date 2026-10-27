@@ -54,6 +54,30 @@ final class Lexicon
     public const LINK_WORDS = ['de', 'du', 'des', 'a', 'au', 'aux', 'en', 'sans', 'avec', 'pour', 'sur', 'sous', 'dans', 'par', 'chez',
         'le', 'la', 'les', 'un', 'une', 'et', 'ou', 'd', 'l', 'of', 'for', 'with', 'without', 'the', 'an', 'to', 'in', 'on', 'and', 'or'];
 
+    public const AUDIENCE_WORDS = ['homme', 'femme', 'enfant', 'bebe', 'men', 'women', 'kids', 'baby'];
+
+    // Pas « maison » : « assurance maison » n'est pas une assurance qualifiée.
+    public const QUALIFIERS = ['gratuit', 'gratuite', 'pas cher', 'en ligne', 'occasion', 'neuf', 'neuve', 'promo', 'bio', 'facile', 'rapide',
+        'free', 'cheap', 'online', 'used', 'organic', 'easy', 'quick'];
+
+    // Pas « création » ni « construction » : « création entreprise » n'est pas un aspect d'« entreprise ».
+    public const ACTION_WORDS = ['installation', 'installer', 'entretien', 'entretenir', 'reparation', 'reparer', 'remplacement',
+        'remplacer', 'nettoyage', 'nettoyer', 'pose', 'poser', 'achat', 'acheter', 'location', 'louer', 'vente', 'vendre', 'montage',
+        'monter', 'depannage', 'renovation', 'changement', 'changer', 'fabrication', 'fabriquer', 'choix', 'choisir',
+        'fonctionnement', 'maintenance', 'demontage', 'detartrage', 'detartrer', 'raccordement', 'faire', 'preparation',
+        'preparer', 'utilisation', 'utiliser', 'reglage', 'cuisson', 'cuire',
+        'install', 'repair', 'replacement', 'cleaning', 'buy', 'rent', 'use', 'make'];
+
+    /**
+     * @param list<string> $vocabulary
+     *
+     * @return list<string>
+     */
+    public static function words(array $vocabulary): array
+    {
+        return array_values(array_filter($vocabulary, static fn (string $entry): bool => 1 === preg_match('/^[a-z]+$/', $entry)));
+    }
+
     /**
      * @return list<string>
      */
@@ -67,5 +91,13 @@ final class Lexicon
     public static function ordersService(string $keyword): bool
     {
         return 1 === preg_match('/\b('.implode('|', array_map(static fn (string $w): string => preg_quote($w, '/'), self::SERVICE_ORDERS)).')\b/', SuggestionMerger::normalize($keyword));
+    }
+
+    public static function namesNoSubject(string $phrase): bool
+    {
+        $empty = [...self::LINK_WORDS, ...self::ACTION_WORDS, ...self::words(array_merge(...array_values(self::PAGE_CUES)))];
+        $words = preg_split('/[\s\'-]+/', SuggestionMerger::normalize($phrase), -1, \PREG_SPLIT_NO_EMPTY) ?: [];
+
+        return [] === array_diff($words, $empty);
     }
 }

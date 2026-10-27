@@ -1,7 +1,7 @@
 {
     "expression": "voyage au japon",
     "lang": "fr",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "guide voyage japon",
-        "vols pas chers japon",
-        "ryokan traditionnel",
-        "shinkansen",
-        "mont fuji",
-        "temple kiyomizu",
-        "sushi japonais",
-        "cerisier en fleurs"
+        "culture japonaise",
+        "cuisine japonaise",
+        "itinéraire japon",
+        "visa japon",
+        "transport japon",
+        "hébergement traditionnel",
+        "sites historiques japon",
+        "festivals japonais"
     ],
     "suggestions": {
         "amazon": [
@@ -93,1502 +93,1230 @@
         ]
     },
     "related": {
-        "bing": [
-            [
-                0,
-                "quel budget pour un voyage au japon"
-            ],
-            [
-                1,
-                "voyage au japon quel document"
-            ],
-            [
-                2,
-                "voyage au japon guide du routard"
-            ],
-            [
-                3,
-                "meilleure période pour un voyage au japon"
-            ],
-            [
-                4,
-                "voyage au japon pas cher"
-            ],
-            [
-                5,
-                "voyage au japon pour 2"
-            ],
-            [
-                6,
-                "comment voyager au japon"
-            ],
-            [
-                7,
-                "voyage au japon en août"
-            ],
-            [
-                8,
-                "comment préparer son voyage au japon"
-            ],
-            [
-                9,
-                "conseils pour voyager au japon"
-            ],
-            [
-                10,
-                "voyage japon meilleure période"
-            ],
-            [
-                11,
-                "voyage japon avec guide"
-            ],
-            [
-                0,
-                "voyage au japon pour 2"
-            ],
-            [
-                1,
-                "voyager au japon pour pas cher"
-            ],
-            [
-                2,
-                "voyage au japon sur mesure"
-            ],
-            [
-                3,
-                "quel budget pour un voyage au japon"
-            ],
-            [
-                4,
-                "agence de voyage pour le japon"
-            ],
-            [
-                5,
-                "meilleure agence de voyage pour le japon"
-            ],
-            [
-                6,
-                "vaccins pour voyage au japon"
-            ],
-            [
-                7,
-                "tout savoir pour un voyage au japon"
-            ],
-            [
-                8,
-                "tout pour préparer son voyage au japon"
-            ],
-            [
-                9,
-                "conseils pour un voyage au japon"
-            ],
-            [
-                10,
-                "voyage au japon prix"
-            ],
-            [
-                11,
-                "mon voyage au japon"
-            ],
-            [
-                0,
-                "voyage au japon organisé"
-            ],
-            [
-                1,
-                "voyage au japon tout inclus"
-            ],
-            [
-                2,
-                "voyage au japon tout compris"
-            ],
-            [
-                3,
-                "voyage au japon budget"
-            ],
-            [
-                4,
-                "voyage au japon pour 2"
-            ],
-            [
-                5,
-                "voyage au japon sur mesure"
-            ],
-            [
-                6,
-                "voyage au japon que faire"
-            ],
-            [
-                7,
-                "voyage au japon en famille"
-            ],
-            [
-                8,
-                "voyage au japon quand partir"
-            ],
-            [
-                9,
-                "voyage au japon avec guide"
-            ],
-            [
-                10,
-                "voyage au japon en petit groupe"
-            ],
-            [
-                11,
-                "voyage au japon budget à prévoir"
-            ],
-            [
-                0,
-                "guide voyage japon"
-            ],
-            [
-                1,
-                "voyage japon guide du routard"
-            ],
-            [
-                0,
-                "vols pas chers japon"
-            ],
-            [
-                1,
-                "billet avion pas cher japon"
-            ],
-            [
-                2,
-                "vol france japon pas cher"
-            ],
-            [
-                3,
-                "vol pour le japon prix"
-            ],
-            [
-                4,
-                "vol pas cher paris japon"
-            ],
-            [
-                5,
-                "billet d'avion pas cher japon"
-            ],
-            [
-                6,
-                "vol pour le japon"
-            ],
-            [
-                7,
-                "vol pour aller au japon"
-            ],
-            [
-                0,
-                "ryokan traditionnel"
-            ],
-            [
-                1,
-                "ryokan traditionnel kyoto"
-            ],
-            [
-                2,
-                "ryokan traditionnel okada warakutei 3*"
-            ],
-            [
-                0,
-                "shinkansen"
-            ],
-            [
-                1,
-                "shinkansen train"
-            ],
-            [
-                2,
-                "shinkansen tickets"
-            ],
-            [
-                3,
-                "shinkansen 0"
-            ],
-            [
-                4,
-                "shinkansen tokyo kyoto"
-            ],
-            [
-                5,
-                "shinkansen tokyo osaka"
-            ],
-            [
-                6,
-                "shinkansen japan"
-            ],
-            [
-                7,
-                "shinkansen vitesse"
-            ],
-            [
-                8,
-                "shinkansen nozomi"
-            ],
-            [
-                9,
-                "shinkansen reservation"
-            ],
-            [
-                10,
-                "shinkansen tickets official website"
-            ],
-            [
-                0,
-                "mont fuji japon"
-            ],
-            [
-                1,
-                "mont fuji dessin"
-            ],
-            [
-                2,
-                "mont fuji altitude"
-            ],
-            [
-                3,
-                "mont fuji carte"
-            ],
-            [
-                4,
-                "mont fuji volcan"
-            ],
-            [
-                5,
-                "mont fuji yama"
-            ],
-            [
-                6,
-                "mont fuji hauteur"
-            ],
-            [
-                7,
-                "mont fuji lyon 6"
-            ],
-            [
-                8,
-                "mont fuji visite"
-            ],
-            [
-                9,
-                "mont fuji éruption"
-            ],
-            [
-                10,
-                "mont fuji japon carte"
-            ],
-            [
-                11,
-                "mont fuji japon volcan"
-            ],
-            [
-                0,
-                "temple kiyomizu-dera"
-            ],
-            [
-                1,
-                "temple kiyomizu"
-            ],
-            [
-                2,
-                "temple kiyomizu-dera kyoto"
-            ],
-            [
-                3,
-                "temple kiyomizu kyoto"
-            ],
-            [
-                4,
-                "temple kiyomizu dera japon"
-            ],
-            [
-                5,
-                "temple kiyomizu-dera prix"
-            ],
-            [
-                6,
-                "temple de kiyomizu dera"
-            ],
-            [
-                7,
-                "kiyomizu kannon-do temple"
-            ],
-            [
-                0,
-                "sushi japonais"
-            ],
-            [
-                1,
-                "sushi japonais recettes"
-            ],
-            [
-                2,
-                "sushi japonais authentique"
-            ],
-            [
-                3,
-                "sushi japonais maki"
-            ],
-            [
-                4,
-                "sushi japonais maison"
-            ],
-            [
-                5,
-                "sushi japonais à emporter"
-            ],
-            [
-                6,
-                "sushi japonais végétarien"
-            ],
-            [
-                7,
-                "sushi japonais ou chinois"
-            ],
-            [
-                8,
-                "sushi japonais traditionnel"
-            ],
-            [
-                9,
-                "sushi en japonais"
-            ],
-            [
-                0,
-                "cerisier en fleurs"
-            ],
-            [
-                1,
-                "cerisier en fleurs japon"
-            ],
-            [
-                2,
-                "cerisier en fleurs van gogh"
-            ],
-            [
-                3,
-                "cerisier en fleurs photos"
-            ],
-            [
-                4,
-                "cerisier en fleurs artificiel"
-            ],
-            [
-                5,
-                "cerisier en fleurs png"
-            ],
-            [
-                6,
-                "cerisier en fleurs tokyo"
-            ],
-            [
-                7,
-                "cerisier en fleurs dessin"
-            ],
-            [
-                8,
-                "cerisier en fleurs ou en fleur"
-            ],
-            [
-                9,
-                "cerisier en fleurs parc de sceaux"
-            ]
-        ],
-        "google": [
-            [
-                0,
-                "quel voyage faire au japon"
-            ],
-            [
-                1,
-                "quel budget voyage au japon"
-            ],
-            [
-                2,
-                "quel document pour voyage au japon"
-            ],
-            [
-                3,
-                "quelle assurance pour voyage au japon"
-            ],
-            [
-                4,
-                "quel prix pour un voyage au japon"
-            ],
-            [
-                5,
-                "quel budget pour un voyage au japon 3 semaines"
-            ],
-            [
-                6,
-                "voyage au japon quel vaccin"
-            ],
-            [
-                7,
-                "voyage au japon quel circuit"
-            ],
-            [
-                8,
-                "voyage au japon quel aeroport"
-            ],
-            [
-                9,
-                "voyage au japon quel mois"
-            ],
-            [
-                0,
-                "voyage au japon pour 2 personnes prix"
-            ],
-            [
-                1,
-                "voyage au japon pour 3 personnes prix"
-            ],
-            [
-                2,
-                "voyage au japon pour 2 personnes"
-            ],
-            [
-                3,
-                "voyage au japon pour 4 personnes"
-            ],
-            [
-                4,
-                "voyage au japon pour 3 personnes"
-            ],
-            [
-                5,
-                "voyage au japon pour 5 personnes"
-            ],
-            [
-                6,
-                "voyage au japon pour handicapé"
-            ],
-            [
-                7,
-                "voyage au japon pour deux"
-            ],
-            [
-                8,
-                "voyage au japon pour les francais"
-            ],
-            [
-                9,
-                "voyage au japon pour 3 semaines"
-            ],
-            [
-                0,
-                "voyage japon ou corée du sud"
-            ],
-            [
-                1,
-                "voyage japon ou chine"
-            ],
-            [
-                2,
-                "voyage japon ou coree"
-            ],
-            [
-                0,
-                "guide voyage japon"
-            ],
-            [
-                1,
-                "guide voyage japon livre"
-            ],
-            [
-                2,
-                "guide voyage japon 2025"
-            ],
-            [
-                3,
-                "guide voyage japon pdf"
-            ],
-            [
-                4,
-                "guide voyage japon lonely planet"
-            ],
-            [
-                5,
-                "guide voyage japon 2026"
-            ],
-            [
-                6,
-                "guide voyage japon enfant"
-            ],
-            [
-                7,
-                "guide voyage japon 3 semaines"
-            ],
-            [
-                8,
-                "guide voyage japon 2 semaines"
-            ],
-            [
-                9,
-                "guide voyage japon cyprien"
-            ],
-            [
-                0,
-                "vols pas chers japon"
-            ],
-            [
-                1,
-                "vol pas cher japon 2026"
-            ],
-            [
-                2,
-                "vol pas cher japon 2025"
-            ],
-            [
-                3,
-                "vol pas cher japon 2027"
-            ],
-            [
-                4,
-                "vol pas.cher japon depuis europe"
-            ],
-            [
-                5,
-                "vol pas cher japon comparateur"
-            ],
-            [
-                6,
-                "voyages pas cher japon"
-            ],
-            [
-                7,
-                "vol pas cher japon paris"
-            ],
-            [
-                8,
-                "vol pas cher japon aout"
-            ],
-            [
-                9,
-                "vol pas cher japon france"
-            ],
-            [
-                0,
-                "ryokan traditionnel"
-            ],
-            [
-                1,
-                "ryokan traditionnel japon"
-            ],
-            [
-                2,
-                "ryokan traditionnel kyoto"
-            ],
-            [
-                3,
-                "ryokan traditionnel hakone"
-            ],
-            [
-                4,
-                "ryokan traditionnel tokyo"
-            ],
-            [
-                5,
-                "ryokan traditionnel mont fuji"
-            ],
-            [
-                6,
-                "ryokan traditionnel avec onsen"
-            ],
-            [
-                7,
-                "ryokan traditionnel osaka"
-            ],
-            [
-                8,
-                "hotel traditionnel japon"
-            ],
-            [
-                9,
-                "hotel traditionnel tokyo"
-            ],
-            [
-                0,
-                "shinkansen"
-            ],
-            [
-                1,
-                "shinkansen vitesse"
-            ],
-            [
-                2,
-                "shinkansen tokyo kyoto"
-            ],
-            [
-                3,
-                "shinkansen tokyo osaka"
-            ],
-            [
-                4,
-                "shinkansen tickets"
-            ],
-            [
-                5,
-                "shinkansen henkei robo shinkalion"
-            ],
-            [
-                6,
-                "shinkansen japon"
-            ],
-            [
-                7,
-                "shinkansen reservation"
-            ],
-            [
-                8,
-                "shinkansen vitesse max"
-            ],
-            [
-                9,
-                "shinkansen 0"
-            ],
-            [
-                0,
-                "mont fuji"
-            ],
-            [
-                1,
-                "mont fuji lyon"
-            ],
-            [
-                2,
-                "mont fuji lyon 6"
-            ],
-            [
-                3,
-                "mont fuji altitude"
-            ],
-            [
-                4,
-                "mont fuji carte"
-            ],
-            [
-                5,
-                "mont fuji ascension"
-            ],
-            [
-                6,
-                "mont fuji volcan"
-            ],
-            [
-                7,
-                "mont fujiyama"
-            ],
-            [
-                8,
-                "mont fuji éruption"
-            ],
-            [
-                9,
-                "mont fuji restaurant lyon"
-            ],
-            [
-                0,
-                "temple kiyomizu-dera"
-            ],
-            [
-                1,
-                "temple kiyomizu"
-            ],
-            [
-                2,
-                "temple kiyomizu dera assassin's creed"
-            ],
-            [
-                3,
-                "temple kiyomizu-dera assassin's creed shadows"
-            ],
-            [
-                4,
-                "temple kiyomizu rise of the ronin"
-            ],
-            [
-                5,
-                "temple kiyomizu dera ac shadow"
-            ],
-            [
-                6,
-                "temple kiyomizu kannon do"
-            ],
-            [
-                7,
-                "temple kiyomizu dera histoire"
-            ],
-            [
-                0,
-                "sushi japonais"
-            ],
-            [
-                1,
-                "sushi japonais ou chinois"
-            ],
-            [
-                2,
-                "sushi japonais traditionnel"
-            ],
-            [
-                3,
-                "sushi japonais vrai"
-            ],
-            [
-                4,
-                "sushi japonais recette"
-            ],
-            [
-                5,
-                "sushi japonais dessin"
-            ],
-            [
-                6,
-                "sushi japonais paris"
-            ],
-            [
-                7,
-                "sushi japonais marseille"
-            ],
-            [
-                8,
-                "sushi japonais restaurant"
-            ],
-            [
-                9,
-                "kuma ï sushi japonais a volonté montpellier"
-            ],
-            [
-                0,
-                "cerisier en fleurs"
-            ],
-            [
-                1,
-                "cerisier en fleurs japon"
-            ],
-            [
-                2,
-                "cerisier en fleurs japon periode"
-            ],
-            [
-                3,
-                "cerisier en fleurs france"
-            ],
-            [
-                4,
-                "cerisier en fleurs dessin"
-            ],
-            [
-                5,
-                "cerisier en fleurs van gogh"
-            ],
-            [
-                6,
-                "cerisier en fleurs lego"
-            ],
-            [
-                7,
-                "cerisier en fleurs artificiel"
-            ],
-            [
-                8,
-                "cerisier en fleurs japon date"
-            ],
-            [
-                9,
-                "cerisier en fleurs en septembre"
-            ]
-        ],
         "amazon": [
             [
                 0,
-                "guide voyage japon"
-            ],
-            [
-                0,
-                "shinkansen train"
+                "culture japonaise"
             ],
             [
                 1,
-                "shinkansen"
+                "culture japonaise objet"
             ],
             [
                 2,
-                "shinkansen train jouet"
-            ],
-            [
-                3,
-                "shinkansen kato"
-            ],
-            [
-                4,
-                "shinkansen kato e5"
-            ],
-            [
-                5,
-                "shinkansen kato e6"
+                "culture japonaise livre"
             ],
             [
                 0,
-                "mont fuji"
+                "cuisine japonaise"
             ],
             [
                 1,
-                "mont fuji lego"
+                "couteau de cuisine japonaise"
             ],
             [
                 2,
-                "mont fuji tableau"
+                "couteaux de cuisine japonaise"
             ],
             [
                 3,
-                "mont fuji puzzle"
+                "cuisine japonaise ustensiles"
             ],
             [
                 4,
-                "mont fuji toile"
+                "cuisine japonaise livre"
             ],
             [
                 5,
-                "mont fuji diamond painting"
+                "cuisine japonaise accessoire"
             ],
             [
                 6,
-                "mont fuji toile xxl"
+                "cuisine japonaise maison"
             ],
             [
                 7,
-                "mont fuji deco"
+                "cuisine japonaise aliment"
             ],
             [
                 8,
-                "mont fuji febreze"
+                "cuisine japonaise vege"
             ],
             [
                 9,
-                "mont fuji livre"
-            ],
+                "cuisine japonaise ingredients"
+            ]
+        ],
+        "bing": [
             [
                 0,
-                "riz sushi japonais"
-            ],
-            [
-                0,
-                "lego cerisier en fleurs tableau"
+                "culture japonaise"
             ],
             [
                 1,
-                "cerisier en fleurs lego"
+                "culture japonaise traditionnelle"
             ],
             [
                 2,
-                "cerisier en fleurs"
+                "culture japonaise manga"
             ],
             [
                 3,
-                "cerisier en fleurs durance"
+                "culture japonaise art"
+            ],
+            [
+                4,
+                "culture japonaise populaire"
+            ],
+            [
+                5,
+                "culture japonaise photo"
+            ],
+            [
+                6,
+                "culture japonaise temple"
+            ],
+            [
+                7,
+                "culture japonaise dessin"
+            ],
+            [
+                8,
+                "culture japonaise moderne"
+            ],
+            [
+                9,
+                "culture japonaise au travail"
+            ],
+            [
+                10,
+                "culture japonaise à paris"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
+            [
+                1,
+                "cuisine japonaise recettes"
+            ],
+            [
+                2,
+                "cuisine japonaise traditionnelle"
+            ],
+            [
+                3,
+                "cuisine japonaise livre"
+            ],
+            [
+                4,
+                "cuisine japonaise facile"
+            ],
+            [
+                5,
+                "cuisine japonaise vegan"
+            ],
+            [
+                6,
+                "cuisine japonaise maison"
+            ],
+            [
+                7,
+                "cuisine japonaise recettes faciles"
+            ],
+            [
+                8,
+                "cuisine japonaise lyon"
+            ],
+            [
+                9,
+                "cuisine japonaise poisson"
+            ],
+            [
+                10,
+                "cuisine japonaise youtube"
+            ],
+            [
+                11,
+                "cuisine japonaise paris"
+            ],
+            [
+                0,
+                "itinéraire japon"
+            ],
+            [
+                1,
+                "itinéraire japon 3 semaines"
+            ],
+            [
+                2,
+                "itinéraire japon 2 semaines"
+            ],
+            [
+                3,
+                "itinéraire japon 15 jours"
+            ],
+            [
+                4,
+                "itinéraire japon 1 mois"
+            ],
+            [
+                5,
+                "itinéraire japon carte"
+            ],
+            [
+                6,
+                "itinéraire japon 10 jours"
+            ],
+            [
+                7,
+                "itinéraire japon 14 jours"
+            ],
+            [
+                8,
+                "itinéraire japon 20 jours"
+            ],
+            [
+                9,
+                "itinéraire japon 12 jours"
+            ],
+            [
+                10,
+                "itinéraire japon 16 jours"
+            ],
+            [
+                0,
+                "visa japon"
+            ],
+            [
+                1,
+                "visa japon france"
+            ],
+            [
+                2,
+                "visa japon algérie"
+            ],
+            [
+                3,
+                "visa japon maroc"
+            ],
+            [
+                4,
+                "visa japon tourisme"
+            ],
+            [
+                5,
+                "visa japon sénégal"
+            ],
+            [
+                6,
+                "visa japonesa"
+            ],
+            [
+                7,
+                "visa japon ecuador"
+            ],
+            [
+                8,
+                "visa japon pour togolais"
+            ],
+            [
+                9,
+                "visa japonesa para colombianos"
+            ],
+            [
+                10,
+                "visa japón colombianos"
+            ],
+            [
+                11,
+                "visa japonesa para mexicanos"
+            ],
+            [
+                0,
+                "transport japon"
+            ],
+            [
+                1,
+                "transport japon train"
+            ],
+            [
+                2,
+                "carte transport japon"
+            ],
+            [
+                3,
+                "transport au japon"
+            ],
+            [
+                4,
+                "transport en commun japon"
+            ],
+            [
+                5,
+                "moyen de transport au japon"
+            ],
+            [
+                6,
+                "comparateur prix transport japon"
+            ],
+            [
+                0,
+                "hébergement traditionnel japon"
+            ],
+            [
+                0,
+                "japon sites historiques"
+            ],
+            [
+                0,
+                "festivals japonais"
+            ],
+            [
+                1,
+                "festival japonais musique"
+            ],
+            [
+                2,
+                "festival japonais culture"
+            ],
+            [
+                3,
+                "festival japonais costumes"
+            ],
+            [
+                4,
+                "festival japonais montréal"
+            ],
+            [
+                5,
+                "festival japonais gastronomie"
+            ],
+            [
+                6,
+                "festival japonais traditionnel"
+            ],
+            [
+                7,
+                "festival japonais culture et arts"
+            ],
+            [
+                8,
+                "festival japonais bruxelles"
+            ],
+            [
+                9,
+                "festival japonais paris"
+            ],
+            [
+                10,
+                "festival japonais toulouse"
+            ],
+            [
+                11,
+                "festival japonais montpellier"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "guide voyage japon"
+                "culture japonaise"
             ],
             [
                 1,
-                "voyage japon guide du routard"
-            ],
-            [
-                0,
-                "vols pas chers japon"
-            ],
-            [
-                1,
-                "billet avion pas cher japon"
+                "culture japonaise traditionnelle"
             ],
             [
                 2,
-                "vol france japon pas cher"
+                "culture japonaise manga"
             ],
             [
                 3,
-                "vol pour le japon prix"
+                "culture japonaise art"
             ],
             [
                 4,
-                "vol pas cher paris japon"
+                "culture japonaise populaire"
             ],
             [
                 5,
-                "billet d'avion pas cher japon"
+                "culture japonaise photo"
             ],
             [
                 6,
-                "vol pour le japon"
+                "culture japonaise temple"
             ],
             [
                 7,
-                "vol pour aller au japon"
+                "culture japonaise dessin"
             ],
             [
                 0,
-                "ryokan traditionnel"
+                "cuisine japonaise"
             ],
             [
                 1,
-                "ryokan traditionnel kyoto"
+                "cuisine japonaise recettes"
             ],
             [
                 2,
-                "ryokan traditionnel okada warakutei 3*"
-            ],
-            [
-                0,
-                "shinkansen"
-            ],
-            [
-                1,
-                "shinkansen train"
-            ],
-            [
-                2,
-                "shinkansen tickets"
+                "cuisine japonaise traditionnelle"
             ],
             [
                 3,
-                "shinkansen 0"
+                "cuisine japonaise livre"
             ],
             [
                 4,
-                "shinkansen tokyo kyoto"
+                "cuisine japonaise facile"
             ],
             [
                 5,
-                "shinkansen tokyo osaka"
+                "cuisine japonaise vegan"
             ],
             [
                 6,
-                "shinkansen japan"
+                "cuisine japonaise maison"
             ],
             [
                 7,
-                "shinkansen vitesse"
+                "cuisine japonaise recettes faciles"
             ],
             [
                 0,
-                "mont fuji japon"
+                "itinéraire japon"
             ],
             [
                 1,
-                "mont fuji dessin"
+                "itinéraire japon 3 semaines"
             ],
             [
                 2,
-                "mont fuji altitude"
+                "itinéraire japon 2 semaines"
             ],
             [
                 3,
-                "mont fuji carte"
+                "itinéraire japon 1 mois"
             ],
             [
                 4,
-                "mont fuji volcan"
+                "itinéraire japon 15 jours"
             ],
             [
                 5,
-                "mont fuji yama"
+                "itinéraire japon 14 jours"
             ],
             [
                 6,
-                "mont fuji hauteur"
+                "itinéraire japon blog"
             ],
             [
                 7,
-                "mont fuji lyon 6"
+                "itinéraire japon carte"
             ],
             [
                 0,
-                "temple kiyomizu-dera"
+                "visa japon"
             ],
             [
                 1,
-                "temple kiyomizu"
+                "visa japon france"
             ],
             [
                 2,
-                "temple kiyomizu-dera kyoto"
+                "visa japon algérie"
             ],
             [
                 3,
-                "temple kiyomizu kyoto"
+                "visa japon maroc"
             ],
             [
                 4,
-                "temple kiyomizu dera japon"
+                "visa japon tourisme"
             ],
             [
                 5,
-                "temple kiyomizu-dera prix"
+                "visa japon sénégal"
             ],
             [
                 6,
-                "temple de kiyomizu dera"
+                "visa japonesa"
             ],
             [
                 7,
-                "kiyomizu kannon-do temple"
+                "visa japon ecuador"
             ],
             [
                 0,
-                "sushi japonais"
+                "transport japon"
             ],
             [
                 1,
-                "sushi japonais recettes"
+                "transport japon train"
             ],
             [
                 2,
-                "sushi japonais authentique"
+                "carte transport japon"
             ],
             [
                 3,
-                "sushi japonais maki"
+                "transport au japon"
             ],
             [
                 4,
-                "sushi japonais maison"
+                "transport en commun japon"
             ],
             [
                 5,
-                "sushi japonais à emporter"
+                "moyen de transport au japon"
             ],
             [
                 6,
-                "sushi japonais végétarien"
-            ],
-            [
-                7,
-                "sushi japonais ou chinois"
+                "comparateur prix transport japon"
             ],
             [
                 0,
-                "cerisier en fleurs"
+                "hébergement traditionnel japon"
+            ],
+            [
+                0,
+                "japon sites historiques"
+            ],
+            [
+                0,
+                "festivals japonais"
             ],
             [
                 1,
-                "cerisier en fleurs japon"
+                "festival japonais musique"
             ],
             [
                 2,
-                "cerisier en fleurs van gogh"
+                "festival japonais culture"
             ],
             [
                 3,
-                "cerisier en fleurs photos"
+                "festival japonais costumes"
             ],
             [
                 4,
-                "cerisier en fleurs artificiel"
+                "festival japonais montréal"
             ],
             [
                 5,
-                "cerisier en fleurs png"
+                "festival japonais gastronomie"
             ],
             [
                 6,
-                "cerisier en fleurs tokyo"
+                "festival japonais traditionnel"
             ],
             [
                 7,
-                "cerisier en fleurs dessin"
+                "festival japonais culture et arts"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "culture japonaise"
+            ],
+            [
+                1,
+                "culture japonaise nourriture"
+            ],
+            [
+                2,
+                "culture japonaise traditionnelle"
+            ],
+            [
+                3,
+                "culture japonaise femme"
+            ],
+            [
+                4,
+                "culture japonaise manga"
+            ],
+            [
+                5,
+                "culture japonaise paris"
+            ],
+            [
+                6,
+                "culture japonaise livre"
+            ],
+            [
+                7,
+                "culture japonaise en france"
+            ],
+            [
+                8,
+                "culture japonaise toulouse"
+            ],
+            [
+                9,
+                "culture japonaise moderne"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
+            [
+                1,
+                "cuisine japonaise recette"
+            ],
+            [
+                2,
+                "cuisine japonaise traditionnelle"
+            ],
+            [
+                3,
+                "cuisine japonaise maison"
+            ],
+            [
+                4,
+                "cuisine japonaise lyon"
+            ],
+            [
+                5,
+                "cuisine japonaise facile"
+            ],
+            [
+                6,
+                "cuisine japonaise livre"
+            ],
+            [
+                7,
+                "cuisine japonaise piece"
+            ],
+            [
+                8,
+                "cuisine japonaise restaurant"
+            ],
+            [
+                9,
+                "cuisine japonaise facile et rapide"
+            ],
+            [
+                0,
+                "itinéraire japon 3 semaines"
+            ],
+            [
+                1,
+                "itinéraire japon"
+            ],
+            [
+                2,
+                "itinéraire japon 2 semaines"
+            ],
+            [
+                3,
+                "itinéraire japon 1 mois"
+            ],
+            [
+                4,
+                "itinéraire japon 3 semaines routard"
+            ],
+            [
+                5,
+                "itinéraire japon hors des sentiers battus"
+            ],
+            [
+                6,
+                "itinéraire japon 15 jours"
+            ],
+            [
+                7,
+                "itinéraire japon 2 mois"
+            ],
+            [
+                8,
+                "itinéraire japon 10 jours"
+            ],
+            [
+                9,
+                "itinéraire japon 18 jours"
+            ],
+            [
+                0,
+                "visa japon"
+            ],
+            [
+                1,
+                "visa japon france"
+            ],
+            [
+                2,
+                "visa japon tourisme"
+            ],
+            [
+                3,
+                "visa japon prix"
+            ],
+            [
+                4,
+                "visa japon pour français"
+            ],
+            [
+                5,
+                "visa japon lyon"
+            ],
+            [
+                6,
+                "visa japon 2026"
+            ],
+            [
+                7,
+                "visa japon 2027"
+            ],
+            [
+                8,
+                "visa japon travail"
+            ],
+            [
+                9,
+                "visa japon marocain"
+            ],
+            [
+                0,
+                "transport japon"
+            ],
+            [
+                1,
+                "transport japon prix"
+            ],
+            [
+                2,
+                "transport japon carte"
+            ],
+            [
+                3,
+                "transport japon france"
+            ],
+            [
+                4,
+                "transport japon pass"
+            ],
+            [
+                5,
+                "transport japon application"
+            ],
+            [
+                6,
+                "transport japon suica"
+            ],
+            [
+                7,
+                "bus japon"
+            ],
+            [
+                8,
+                "japan car"
+            ],
+            [
+                9,
+                "japon transport en commun"
+            ],
+            [
+                0,
+                "hebergement traditionnel au japon"
+            ],
+            [
+                1,
+                "hebergement traditionnel kyoto"
+            ],
+            [
+                2,
+                "hebergement traditionnel tokyo"
+            ],
+            [
+                3,
+                "hebergement traditionnel osaka"
+            ],
+            [
+                4,
+                "logement traditionnel japon"
+            ],
+            [
+                5,
+                "hôtel traditionnel japonais"
+            ],
+            [
+                6,
+                "logement traditionnel kyoto"
+            ],
+            [
+                7,
+                "logement traditionnel seoul"
+            ],
+            [
+                8,
+                "logement traditionnel.coréen"
+            ],
+            [
+                9,
+                "logement traditionnel"
+            ],
+            [
+                0,
+                "sites historiques japon"
+            ],
+            [
+                1,
+                "monuments historiques japon"
+            ],
+            [
+                2,
+                "lieux historiques japon"
+            ],
+            [
+                0,
+                "festival japonais"
+            ],
+            [
+                1,
+                "festival japonais montreal"
+            ],
+            [
+                2,
+                "festival japonais bruxelles"
+            ],
+            [
+                3,
+                "fete japonaise"
+            ],
+            [
+                4,
+                "fete japonaise carouge 2026"
+            ],
+            [
+                5,
+                "festival japonais toulouse"
+            ],
+            [
+                6,
+                "festival japonais paris"
+            ],
+            [
+                7,
+                "concert japonais paris 2026"
+            ],
+            [
+                8,
+                "festival japonais gland"
+            ],
+            [
+                9,
+                "fete japonaise carouge 2025"
             ]
         ],
         "indeed": [
             [
                 0,
-                "monteur industriel"
+                "culture japonaise"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
+            [
+                0,
+                "visa sponsorship jobs"
             ],
             [
                 1,
-                "monteur installation thermique"
+                "visa sponsorship"
             ],
             [
                 2,
-                "monteur itinérant"
+                "visa sponsorship jobs in france"
+            ],
+            [
+                3,
+                "visa sponsorship jobs in english"
+            ],
+            [
+                4,
+                "visa sponsorship jobs in spain"
+            ],
+            [
+                5,
+                "visa sponsorship french speaking"
+            ],
+            [
+                6,
+                "visa sponsorship available"
+            ],
+            [
+                7,
+                "visa sponsorship jobs in germany"
+            ],
+            [
+                8,
+                "visa sponsor"
+            ],
+            [
+                9,
+                "visa sponsorship maintenance"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "guide voyage japon circuit accompagné"
+                "culture japonaise"
             ],
             [
                 1,
-                "guide voyage japon accompagné pour retraités"
+                "culture japonaise manga"
             ],
             [
                 2,
-                "guide voyage japon tout compris"
+                "maison de la culture japonaise"
             ],
             [
                 3,
-                "guide voyage japon abordable"
-            ],
-            [
-                0,
-                "vols pas chers japonais"
-            ],
-            [
-                1,
-                "vols pas chers japon carte"
-            ],
-            [
-                2,
-                "vols pas chers japon actualités"
-            ],
-            [
-                3,
-                "vols pas chers japon wikipédia"
-            ],
-            [
-                0,
-                "ryokan traditionnelle"
-            ],
-            [
-                1,
-                "ryokan traditionnel synonyme"
-            ],
-            [
-                2,
-                "ryokan traditionnel pluriel"
-            ],
-            [
-                3,
-                "ryokan traditionnel définition"
-            ],
-            [
-                0,
-                "shinkansen"
-            ],
-            [
-                1,
-                "shinkansen tokyo kyoto"
-            ],
-            [
-                2,
-                "shinkansen 0"
-            ],
-            [
-                3,
-                "shinkansen timetable"
+                "perle de culture japonaise"
             ],
             [
                 4,
-                "shinkansen japon"
+                "la culture japonaise en france"
             ],
             [
                 5,
-                "shinkansen réservation"
-            ],
-            [
-                6,
-                "shinkansen jr"
-            ],
-            [
-                7,
-                "shinkansen brio"
-            ],
-            [
-                8,
-                "shinkansen nozomi"
-            ],
-            [
-                9,
-                "shinkansen vitesse"
+                "maison de la culture japonaise à paris"
             ],
             [
                 0,
-                "mont fuji"
+                "cuisine japonaise"
             ],
             [
                 1,
-                "mont fuji japon"
+                "cuisine japonaise facile"
             ],
             [
                 2,
-                "mont fuji dessin"
+                "cuisine japonaise recettes"
             ],
             [
                 3,
-                "mont fuji domont"
+                "cuisine japonaise traditionnelle"
             ],
             [
                 4,
-                "mont fuji olivet"
+                "cuisine japonaise authentique"
             ],
             [
                 5,
-                "mont fuji carte"
+                "cuisine japonaise sushi"
             ],
             [
                 6,
-                "mont fuji hokusai"
+                "cuisine japonaise…. nom des graines haricots vert"
             ],
             [
                 7,
-                "mont fuji peinture"
+                "cuisine japonaise paris"
             ],
             [
                 8,
-                "mont fuji yama"
-            ],
-            [
-                9,
-                "mont fuji tokyo"
+                "cuisine japonaise comptoir"
             ],
             [
                 0,
-                "temple kiyomizu"
+                "itinéraire japon"
             ],
             [
                 1,
-                "temple kiyomizu dera"
+                "itinéraire japon 12 jours formule pension complète"
             ],
             [
                 2,
-                "temple kiyomizu-dera kyoto"
-            ],
-            [
-                0,
-                "sushi japonais"
-            ],
-            [
-                1,
-                "sushi japonais en ligne"
-            ],
-            [
-                2,
-                "recette vrai sushi japonais"
+                "itinéraire japon 15 jours"
             ],
             [
                 3,
-                "sushi en japonais"
-            ],
-            [
-                0,
-                "cerisier en fleurs"
-            ],
-            [
-                1,
-                "cerisier en fleurs japon"
-            ],
-            [
-                2,
-                "cerisier en fleurs sceaux"
-            ],
-            [
-                3,
-                "cerisier en fleurs tableau"
+                "itinéraire japon 10 jours"
             ],
             [
                 4,
-                "cerisier en fleurs artificiel"
+                "itinéraire japon en train"
+            ],
+            [
+                0,
+                "visa japon"
+            ],
+            [
+                1,
+                "visa japon ressortissant français"
+            ],
+            [
+                2,
+                "visa japon pour français"
+            ],
+            [
+                3,
+                "visa japon tourisme"
+            ],
+            [
+                0,
+                "transport japon"
+            ],
+            [
+                1,
+                "pass transport japon"
+            ],
+            [
+                2,
+                "carte transport japon"
+            ],
+            [
+                3,
+                "transport au japon"
+            ],
+            [
+                4,
+                "transport bagages japon"
             ],
             [
                 5,
-                "cerisier en fleurs en italie"
+                "transport tourist japon"
             ],
             [
-                6,
-                "cerisier en fleurs au jardin des plantes"
+                0,
+                "hebergement traditionnelle"
             ],
             [
-                7,
-                "cerisier en fleurs au japon"
+                1,
+                "hebergement traditionnel synonyme"
             ],
             [
-                8,
-                "cerisier en fleurs japon 2025 calendrier"
+                2,
+                "hebergement traditionnel pluriel"
+            ],
+            [
+                3,
+                "hebergement traditionnel définition"
+            ],
+            [
+                0,
+                "sites japonais"
+            ],
+            [
+                1,
+                "sites japonais montres de luxe homme"
+            ],
+            [
+                2,
+                "sites japonais de ventes montres luxe"
+            ],
+            [
+                0,
+                "festivals japonaise"
+            ],
+            [
+                1,
+                "festivals japonais livraison"
+            ],
+            [
+                2,
+                "festivals japonais restaurant"
+            ],
+            [
+                3,
+                "festivals japonais traduction"
             ]
         ],
         "youtube": [
             [
                 0,
-                "guide voyage japon"
+                "culture japonaise"
             ],
             [
                 1,
-                "guide touristique japon"
-            ],
-            [
-                0,
-                "vol pas cher japon"
-            ],
-            [
-                0,
-                "hotel traditionnel japonais"
-            ],
-            [
-                0,
-                "shinkansen"
-            ],
-            [
-                1,
-                "shinkansen 0"
+                "culture japonaise documentaire"
             ],
             [
                 2,
-                "shinkansen train"
+                "culture japonaise les bonnes manieres"
             ],
             [
                 3,
-                "shinkansen cab ride"
+                "tradition japonaise"
             ],
             [
                 4,
-                "shinkansen tokyo kyoto"
+                "massage culture japonaise"
             ],
             [
                 5,
-                "shinkansen vitesse"
+                "comprendre la culture japonaise"
+            ],
+            [
+                0,
+                "cuisine japonaise"
+            ],
+            [
+                1,
+                "cuisine japonaise de rue"
+            ],
+            [
+                2,
+                "cuisine japonaise traditionnelle"
+            ],
+            [
+                3,
+                "cuisine japonaise recette"
+            ],
+            [
+                4,
+                "cuisine japonaise asmr"
+            ],
+            [
+                5,
+                "cuisine japonaise poisson"
             ],
             [
                 6,
-                "shinkansen tokyo osaka"
+                "cuisine japonaise paris 04"
             ],
             [
                 7,
-                "shinkansen 0 squeezie"
+                "cuisine japonaise ramen"
             ],
             [
                 8,
-                "shinkansen speed"
+                "cuisine japonaise sushi"
             ],
             [
                 9,
-                "shinkansen 0 all endings"
+                "cuisine japonaise restaurant"
             ],
             [
                 0,
-                "mont fuji"
+                "itinéraire japon"
             ],
             [
                 1,
-                "mont fuji ascension"
+                "itinéraire japon 2 semaines"
             ],
             [
                 2,
-                "mont fujiyama"
+                "itinéraire japon 3 semaines"
             ],
             [
                 3,
-                "mont fuji eruption"
+                "itineraire japon 1 mois"
             ],
             [
                 4,
-                "mont fuji live"
+                "voyage japon"
             ],
             [
                 5,
-                "mont fuji musique"
+                "visite japon"
             ],
             [
                 6,
-                "mont fuji 4k"
+                "voyage japon conseil"
             ],
             [
                 7,
-                "mont fuji vlog"
+                "voyage japon 3 semaines"
             ],
             [
                 8,
-                "mont fuji japon"
+                "voyage japon budget"
             ],
             [
                 9,
-                "mont fuji ici japon"
+                "voyage japon vlog"
             ],
             [
                 0,
-                "temple kiyomizu dera"
+                "visa japon"
             ],
             [
                 1,
-                "kiyomizu temple kyoto japan"
+                "visa japon maroc"
             ],
             [
                 2,
-                "kiyomizu temple"
+                "visa japon algerie"
             ],
             [
                 3,
-                "kiyomizudera temple lost pages"
+                "visa japon pour marocain"
             ],
             [
                 4,
-                "kiyomizu dera temple"
+                "visa japon 2025"
             ],
             [
                 5,
-                "kiyomizu dera temple ac shadows"
+                "visa japon maroc 2025"
             ],
             [
                 6,
-                "kiyomizu temple kyoto"
+                "visa japon senegal"
             ],
             [
                 7,
-                "kiyomizu temple live"
+                "visa japon algerie 2025"
             ],
             [
                 8,
-                "kiyomizu temple japan"
-            ],
-            [
-                0,
-                "sushi japonais"
-            ],
-            [
-                1,
-                "sushi japonais traditionnel"
-            ],
-            [
-                2,
-                "japonais sushi francais"
-            ],
-            [
-                3,
-                "maitre sushi japonais"
-            ],
-            [
-                4,
-                "sushi recette japonaise"
-            ],
-            [
-                5,
-                "vrai sushi japonais"
-            ],
-            [
-                6,
-                "recette sushi japonais traditionnel"
-            ],
-            [
-                7,
-                "riz sushi japonaise"
-            ],
-            [
-                8,
-                "sushi maison japonaise"
+                "visa japon para colombianos"
             ],
             [
                 9,
-                "musique japonaise sushi"
+                "visa japonesa para colombianos"
             ],
             [
                 0,
-                "cerisiers en fleurs japon"
+                "transport japon"
+            ],
+            [
+                1,
+                "bus japonais"
+            ],
+            [
+                2,
+                "car japon"
+            ],
+            [
+                3,
+                "bus japon tokyo kyoto"
+            ],
+            [
+                4,
+                "bus japon vlog"
+            ],
+            [
+                5,
+                "carte transport japon"
+            ],
+            [
+                6,
+                "transport en commun japon"
+            ],
+            [
+                7,
+                "bus japon blog"
+            ],
+            [
+                0,
+                "concert japonais"
+            ],
+            [
+                1,
+                "fete japonaise"
+            ],
+            [
+                2,
+                "concert japonais anime"
+            ],
+            [
+                3,
+                "festival japonais matsuri"
             ]
         ]
     },
@@ -1596,21 +1324,28 @@
         "articles": [
             {
                 "title": "Voyage",
-                "views": 2399,
+                "views": 2350,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.545
             },
             {
                 "title": "Japon",
-                "views": 30768,
+                "views": 30719,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.455
             },
             {
-                "title": "Shinkansen",
-                "views": 5287,
+                "title": "Cuisine japonaise",
+                "views": 1434,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
+                "title": "Culture japonaise",
+                "views": 1056,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1632,156 +1367,155 @@
     },
     "pages": [
         {
-            "group": "Itinéraires",
-            "title": "voyage au japon 2 semaines",
+            "group": "Préparation du voyage",
+            "title": "visa japon",
             "intent": "informational",
             "keywords": [
-                "voyage au japon 2 semaines",
-                "hiroshima",
-                "itinéraire voyage japon",
-                "jardin zen",
-                "nara",
-                "sites touristiques japon",
-                "temple kiyomizu-dera",
-                "temple kiyomizu",
-                "temple kiyomizu-dera kyoto",
-                "cerisier en fleurs",
-                "cerisiers en fleurs japon",
-                "mont fuji",
-                "mont fuji carte",
-                "mont fuji altitude"
+                "visa japon",
+                "guide de voyage",
+                "passeport",
+                "tourisme",
+                "visa japon tourisme",
+                "visa japon france",
+                "visa japon algérie",
+                "visa japon maroc"
             ]
         },
         {
-            "group": "Itinéraires",
-            "title": "shinkansen",
+            "group": "Préparation du voyage",
+            "title": "budget voyage japon",
+            "intent": "commercial",
+            "keywords": [
+                "voyage au japon budget",
+                "agence de voyages",
+                "avion",
+                "voyagiste",
+                "voyage au japon prix"
+            ]
+        },
+        {
+            "group": "Préparation du voyage",
+            "title": "transport japon",
             "intent": "informational",
             "keywords": [
-                "shinkansen",
-                "shinkansen vitesse",
-                "shinkansen tokyo osaka",
-                "kyoto",
-                "osaka",
-                "tokyo",
                 "transport japon",
-                "shinkansen tokyo kyoto"
+                "onsen",
+                "shinkansen",
+                "transport",
+                "carte transport japon"
             ]
         },
         {
-            "group": "Famille",
+            "group": "Itinéraires",
+            "title": "itinéraire japon",
+            "intent": "informational",
+            "keywords": [
+                "itinéraire japon",
+                "cerisier en fleurs",
+                "kyoto",
+                "mont fuji",
+                "tokyo",
+                "itinéraire japon 3 semaines",
+                "itinéraire japon 2 semaines",
+                "itinéraire japon 1 mois",
+                "itinéraire japon 15 jours"
+            ]
+        },
+        {
+            "group": "Itinéraires",
             "title": "voyage au japon en famille",
             "intent": "informational",
             "keywords": [
                 "voyage au japon en famille",
-                "cuisine japonaise",
-                "hébergement japon",
-                "kimono",
-                "onsen",
-                "sake",
-                "sushi japonais",
-                "sushi japonais traditionnel",
-                "ramen",
-                "mont fuji japon",
-                "ryokan traditionnel"
+                "voyage au japon 2 semaines"
             ]
         },
         {
-            "group": "Budget",
-            "title": "voyage au japon budget",
-            "intent": "commercial",
-            "keywords": [
-                "voyage au japon budget",
-                "voyage au japon prix",
-                "vols pas chers japon",
-                "avion",
-                "quel budget pour un voyage au japon"
-            ]
-        },
-        {
-            "group": "Préparation",
-            "title": "guide voyage japon",
+            "group": "Culture et traditions",
+            "title": "culture japonaise",
             "intent": "informational",
             "keywords": [
-                "guide voyage japon",
-                "voyage au japon quel document",
-                "guide de voyage",
-                "sécurité voyage japon",
-                "visa japon",
-                "voyage au japon agence",
-                "agence de voyages",
-                "voyagiste",
-                "voyage au japon tout compris"
+                "culture japonaise",
+                "culture japonaise manga",
+                "festivals japonais",
+                "culture japonaise traditionnelle",
+                "fete japonaise"
             ]
         },
         {
-            "group": "Hébergement",
-            "title": "ryokan traditionnel kyoto",
-            "intent": "commercial",
+            "group": "Culture et traditions",
+            "title": "japon sites historiques",
+            "intent": "informational",
             "keywords": [
-                "ryokan traditionnel kyoto",
-                "voyage au japon leclerc"
+                "japon sites historiques",
+                "ryokan",
+                "temple bouddhiste",
+                "hébergement traditionnel japon"
+            ]
+        },
+        {
+            "group": "Cuisine japonaise",
+            "title": "cuisine japonaise",
+            "intent": "informational",
+            "keywords": [
+                "cuisine japonaise",
+                "sushi",
+                "cuisine japonaise recettes",
+                "cuisine japonaise traditionnelle",
+                "cuisine japonaise facile",
+                "cuisine japonaise livre"
             ]
         }
     ],
     "categories": {
-        "shinkansen": "core",
+        "cuisine japonaise": "core",
+        "culture japonaise": "core",
         "voyage au japon en famille": "core",
-        "guide voyage japon": "core",
-        "sushi japonais": "complementary",
-        "mont fuji": "core",
-        "temple kiyomizu-dera": "core",
-        "cerisier en fleurs": "core",
+        "transport japon": "core",
+        "visa japon": "core",
+        "itinéraire japon": "core",
         "voyage au japon budget": "commercial",
         "voyage au japon prix": "commercial",
-        "cerisiers en fleurs japon": "core",
-        "temple kiyomizu": "core",
-        "vols pas chers japon": "commercial",
-        "shinkansen tokyo kyoto": "core",
-        "shinkansen train": "doubtful",
+        "cuisine japonaise recettes": "complementary",
+        "cuisine japonaise traditionnelle": "complementary",
+        "carte transport japon": "core",
+        "itinéraire japon 3 semaines": "core",
+        "itinéraire japon 2 semaines": "core",
+        "culture japonaise manga": "complementary",
         "voyage au japon 2 semaines": "core",
-        "mont fuji japon": "core",
-        "voyage au japon agence": "commercial",
-        "voyage au japon tout compris": "commercial",
-        "ryokan traditionnel": "core",
-        "sushi japonais traditionnel": "complementary",
-        "quel budget pour un voyage au japon": "commercial",
-        "shinkansen vitesse": "complementary",
-        "mont fuji carte": "complementary",
-        "mont fuji dessin": "doubtful",
-        "ryokan traditionnel kyoto": "complementary",
-        "voyage au japon quel document": "complementary",
-        "shinkansen tokyo osaka": "complementary",
-        "temple kiyomizu-dera kyoto": "complementary",
-        "cerisier en fleurs artificiel": "doubtful",
-        "mont fuji altitude": "complementary",
-        "sushi japonais recettes": "doubtful",
-        "voyage au japon leclerc": "commercial",
-        "voyage au japon monochrome": "doubtful",
-        "itinéraire voyage japon": "core",
-        "visa japon": "core",
-        "hébergement japon": "core",
-        "transport japon": "core",
-        "sécurité voyage japon": "core",
-        "sites touristiques japon": "core",
-        "cuisine japonaise": "core",
+        "itinéraire japon 1 mois": "core",
+        "visa japon tourisme": "core",
+        "cuisine japonaise facile": "complementary",
+        "festivals japonais": "complementary",
+        "hébergement traditionnel japon": "complementary",
+        "japon sites historiques": "core",
+        "itinéraire japon 15 jours": "complementary",
+        "visa japon france": "complementary",
+        "cuisine japonaise livre": "complementary",
+        "culture japonaise traditionnelle": "complementary",
+        "visa japon algérie": "complementary",
+        "visa japon maroc": "complementary",
+        "fete japonaise": "complementary",
         "tokyo": "core",
         "kyoto": "core",
-        "osaka": "core",
-        "hiroshima": "complementary",
-        "nara": "complementary",
+        "mont fuji": "core",
+        "shinkansen": "core",
+        "ryokan": "core",
+        "sushi": "core",
+        "temple bouddhiste": "core",
         "onsen": "complementary",
-        "ramen": "complementary",
-        "sake": "complementary",
-        "kimono": "complementary",
-        "jardin zen": "complementary",
+        "cerisier en fleurs": "complementary",
+        "passeport": "complementary",
         "automobile": "doubtful",
-        "avion": "commercial",
+        "avion": "complementary",
         "chemin de fer": "doubtful",
-        "tourisme": "doubtful",
+        "tourisme": "complementary",
         "guide de voyage": "complementary",
-        "transport": "doubtful",
+        "tour du monde": "doubtful",
+        "transport": "complementary",
         "voyagiste": "commercial",
+        "passager aérien": "doubtful",
         "agence de voyages": "commercial",
-        "shinkansen 0": "doubtful"
+        "exploration": "doubtful"
     }
 }

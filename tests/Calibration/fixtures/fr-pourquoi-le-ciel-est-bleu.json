@@ -1,7 +1,7 @@
 {
     "expression": "pourquoi le ciel est bleu",
     "lang": "fr",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -15,13 +15,13 @@
     "failed": [],
     "concepts": [
         "couleur du ciel",
+        "diffusion rayleigh",
+        "lumière bleue",
         "atmosphère terrestre",
-        "diffusion de la lumière",
-        "rayons du soleil",
-        "longueur d'onde lumière",
-        "phénomène de rayleigh",
-        "perception des couleurs",
-        "science de l'atmosphère"
+        "couleurs du coucher de soleil",
+        "pourquoi la mer est bleue",
+        "ciel rouge le soir",
+        "ciel étoilé"
     ],
     "suggestions": {
         "amazon": [
@@ -30,15 +30,15 @@
         "bing": [
             "pourquoi le ciel est bleu",
             "pourquoi le ciel est bleu explication simple",
-            "pourquoi le ciel est bleu wikipedia",
-            "pourquoi le ciel est bleu signol",
             "pourquoi le ciel est bleu livre",
+            "pourquoi le ciel est bleu signol",
             "pourquoi le ciel est bleu explication enfant",
-            "pourquoi le ciel est bleu sujet grand oral",
+            "pourquoi le ciel est bleu wikipedia",
             "pourquoi le ciel est bleu lumni",
             "pourquoi le ciel est bleu résumé",
             "pourquoi le ciel est bleu le jour",
-            "pourquoi le ciel est bleu vikidia"
+            "pourquoi le ciel est bleu vikidia",
+            "pourquoi le ciel est bleu sujet grand oral"
         ],
         "duckduckgo": [
             "pourquoi le ciel est bleu",
@@ -79,91 +79,89 @@
         ]
     },
     "related": {
-        "bing": [
+        "amazon": [
             [
                 0,
-                "pourquoi le ciel est bleu livre"
+                "lumière bleue"
             ],
             [
                 1,
-                "pourquoi le ciel est-il bleu pdf"
+                "lumière bleue anti moustique"
             ],
             [
                 2,
-                "lorsque le ciel est bleu"
+                "lumière bleue tue mouche"
             ],
             [
                 3,
-                "bleu ciel ou bleue ciel"
+                "lumière bleue mycose"
             ],
             [
                 4,
-                "assez de bleu dans le ciel"
+                "lumière bleue anti moustique interieur"
             ],
             [
                 5,
-                "que signifie le ciel bleu"
+                "lumière bleue moustique"
             ],
             [
                 6,
-                "dans le bleu du ciel bleu"
+                "lumière bleue lampe"
             ],
             [
                 7,
-                "quelle couleur avec le bleu ciel"
+                "lumière bleue aquarium"
             ],
             [
                 8,
-                "que signifie la couleur bleu ciel"
-            ],
-            [
-                0,
-                "pourquoi le ciel est bleu explication simple"
-            ],
-            [
-                1,
-                "pourquoi le ciel est bleu lumni"
-            ],
-            [
-                2,
-                "pourquoi le ciel est bleu wikipedia"
-            ],
-            [
-                3,
-                "pourquoi le ciel est bleu sujet grand oral"
-            ],
-            [
-                4,
-                "pourquoi le ciel est bleu explication enfant"
-            ],
-            [
-                5,
-                "pourquoi le ciel est bleu"
-            ],
-            [
-                6,
-                "pourquoi le ciel est t'il bleu"
-            ],
-            [
-                7,
-                "pourquoi le ciel est bleu signol"
-            ],
-            [
-                8,
-                "pourquoi le ciel est bleu livre"
+                "lumière bleue anti insectes"
             ],
             [
                 9,
-                "la ou le ciel est bleu"
+                "lumière bleue led"
             ],
             [
-                10,
-                "pourquoi le ciel est-il bleu pdf"
+                0,
+                "projection ciel étoilé"
             ],
             [
-                11,
-                "bleu ciel ou bleue ciel"
+                1,
+                "projecteur ciel étoilé"
             ],
+            [
+                2,
+                "veilleuse ciel étoilé"
+            ],
+            [
+                3,
+                "ciel étoilé"
+            ],
+            [
+                4,
+                "lampe ciel étoilé"
+            ],
+            [
+                5,
+                "ciel étoilé voiture"
+            ],
+            [
+                6,
+                "ciel étoilé chambre"
+            ],
+            [
+                7,
+                "ciel étoilé plafond"
+            ],
+            [
+                8,
+                "ciel étoilé plafond chambre"
+            ],
+            [
+                9,
+                "ciel étoilé chambre enfant"
+            ]
+        ],
+        "bing": [
             [
                 0,
                 "couleur du ciel"
@@ -199,6 +197,70 @@
             [
                 8,
                 "code de couleur du bleu ciel"
+            ],
+            [
+                0,
+                "diffusion rayleigh"
+            ],
+            [
+                1,
+                "diffusion rayleigh ciel bleu"
+            ],
+            [
+                2,
+                "diffusion de rayleigh"
+            ],
+            [
+                3,
+                "diffusion de rayleigh applications"
+            ],
+            [
+                0,
+                "lumière bleue"
+            ],
+            [
+                1,
+                "lumière bleue écran"
+            ],
+            [
+                2,
+                "lumière bleue moustique"
+            ],
+            [
+                3,
+                "lumière bleue windows 11"
+            ],
+            [
+                4,
+                "lumière bleue anti moustique"
+            ],
+            [
+                5,
+                "lumière bleue filtre"
+            ],
+            [
+                6,
+                "lumière bleue lunettes"
+            ],
+            [
+                7,
+                "lumière bleue écran pc"
+            ],
+            [
+                8,
+                "lumière bleue sur la peau"
+            ],
+            [
+                9,
+                "lumière bleue mouche"
+            ],
+            [
+                10,
+                "lumière bleue mycose"
+            ],
+            [
+                11,
+                "lumière bleue anti insectes"
             ],
             [
                 0,
@@ -250,170 +312,438 @@
             ],
             [
                 0,
-                "diffusion de la lumière"
+                "couleurs du coucher de soleil sur l'océan"
             ],
             [
                 1,
-                "diffusion de la lumiere"
+                "couleurs du coucher de soleil"
             ],
             [
                 2,
-                "la diffusion de la lumière par les atomes"
+                "coucher de soleil ou coucher du soleil"
             ],
             [
                 3,
-                "phénomène de diffusion de la lumière"
+                "coucher de soleil ou couché de soleil"
             ],
             [
                 4,
-                "diffusion dynamique de la lumière"
+                "image du coucher de soleil"
             ],
             [
                 5,
-                "tout pour la lumière diffusion"
+                "les coucher de soleil"
             ],
             [
                 6,
-                "la diffusion des idées des lumières"
+                "coucher de soleil à colorier"
             ],
             [
                 7,
-                "moyens de diffusion des idées des lumières"
+                "robe couleur coucher de soleil"
             ],
             [
                 8,
-                "diffusion dynamique de la lumière dls"
+                "coucher de soleil en peinture"
             ],
             [
                 9,
-                "la décomposition de la lumière"
+                "quelle est la couleur du soleil"
+            ],
+            [
+                0,
+                "pourquoi la mer est bleue"
+            ],
+            [
+                1,
+                "pourquoi la mer est elle bleue"
+            ],
+            [
+                2,
+                "pourquoi l'eau de la mer est bleue"
+            ],
+            [
+                3,
+                "la mer est bleue"
+            ],
+            [
+                4,
+                "la mer est bleu"
+            ],
+            [
+                5,
+                "la legende de la mer bleu"
+            ],
+            [
+                6,
+                "mer bleu en france"
+            ],
+            [
+                7,
+                "au bord de la mer bleue"
+            ],
+            [
+                8,
+                "photo de la mer bleu"
+            ],
+            [
+                9,
+                "quelle est la couleur de la mer"
             ],
             [
                 10,
-                "émission de la lumière"
+                "quelle est la mer"
             ],
             [
                 11,
-                "animation décomposition de la lumière"
+                "la mer rouge pourquoi"
             ],
             [
                 0,
-                "rayons du soleil"
+                "ciel rouge le soir"
             ],
             [
                 1,
-                "rayons du soleil synonyme"
+                "ciel rouge le soir signification"
             ],
             [
                 2,
-                "rayons du soleil sur terre"
+                "pourquoi le ciel est rouge le soir"
             ],
             [
                 3,
-                "rayons de soleil"
+                "le ciel ce soir"
             ],
             [
                 4,
-                "rayon de soleil dessin"
+                "le ciel est rouge"
             ],
             [
                 5,
-                "rayon du soleil en mètre"
+                "ciel rouge le matin"
             ],
             [
                 6,
-                "rayon du soleil shawinigan"
+                "rouge comme le ciel"
             ],
             [
                 7,
-                "rayon du soleil valeur"
+                "pourquoi le soleil est rouge le soir"
             ],
             [
                 8,
-                "rayons de soleil 3 lettres"
+                "le ciel ce soir bordeaux couleur"
             ],
             [
                 9,
-                "rayon du soleil en ua"
+                "le ciel rouge critique"
+            ],
+            [
+                10,
+                "le ciel rouge film"
+            ],
+            [
+                11,
+                "ciel rouge film 2017"
             ],
             [
                 0,
-                "longueur d'onde lumière"
+                "ciel étoilé image"
             ],
             [
                 1,
-                "longueur d'onde lumière visible"
+                "ciel étoilé"
             ],
             [
                 2,
-                "longueur d'onde lumière blanche"
+                "ciel étoilé voiture"
             ],
             [
                 3,
-                "longueur d'onde lumière bleu"
+                "ciel étoilé van gogh"
             ],
             [
                 4,
-                "longueur d'onde lumière rouge"
+                "ciel étoilé dessin"
             ],
             [
                 5,
-                "longueur d'onde lumière verte"
+                "ciel étoilé fond d'écran"
             ],
             [
-                0,
-                "phénomène de rayleigh"
+                6,
+                "ciel étoilé nuit"
             ],
             [
+                7,
+                "ciel étoilé mariage"
+            ],
+            [
+                8,
+                "ciel étoilé noir"
+            ],
+            [
+                9,
+                "ciel étoilé 4k"
+            ],
+            [
+                10,
+                "ciel étoilé chambre"
+            ],
+            [
+                11,
+                "ciel étoilé png"
+            ]
+        ],
+        "duckduckgo": [
+            [
                 0,
-                "perception des couleurs"
+                "couleur du ciel"
             ],
             [
                 1,
-                "perception des couleurs par l'oeil humain"
+                "couleur du ciel en 5 lettres"
             ],
             [
                 2,
-                "perception des couleurs physique"
+                "couleur du ciel le matin"
             ],
             [
                 3,
-                "perception des couleurs par l'oeil"
+                "couleur du ciel sur mars"
             ],
             [
                 4,
-                "test de perception des couleurs"
+                "arc en ciel couleur"
             ],
             [
                 5,
-                "test perception des couleurs"
+                "bleu ciel code couleur"
+            ],
+            [
+                6,
+                "la couleur du ciel"
+            ],
+            [
+                7,
+                "couleur du ciel 4 lettres"
             ],
             [
                 0,
-                "science de l'atmosphère"
+                "diffusion rayleigh"
+            ],
+            [
+                1,
+                "diffusion rayleigh ciel bleu"
+            ],
+            [
+                2,
+                "diffusion de rayleigh"
+            ],
+            [
+                3,
+                "diffusion de rayleigh applications"
+            ],
+            [
+                0,
+                "lumière bleue"
+            ],
+            [
+                1,
+                "lumière bleue écran"
+            ],
+            [
+                2,
+                "lumière bleue moustique"
+            ],
+            [
+                3,
+                "lumière bleue windows 11"
+            ],
+            [
+                4,
+                "lumière bleue anti moustique"
+            ],
+            [
+                5,
+                "lumière bleue lunettes"
+            ],
+            [
+                6,
+                "lumière bleue filtre"
+            ],
+            [
+                7,
+                "lumière bleue écran pc"
+            ],
+            [
+                0,
+                "atmosphère terrestre"
+            ],
+            [
+                1,
+                "atmosphère terrestre gaz"
+            ],
+            [
+                2,
+                "atmosphère terrestre rôle"
+            ],
+            [
+                3,
+                "atmosphère terrestre couches"
+            ],
+            [
+                4,
+                "atmosphère terrestre pression"
+            ],
+            [
+                5,
+                "atmosphère terrestre composition"
+            ],
+            [
+                6,
+                "atmosphère terrestre température"
+            ],
+            [
+                7,
+                "atmosphère terrestre et la vie"
+            ],
+            [
+                0,
+                "couleurs du coucher de soleil sur l'océan"
+            ],
+            [
+                1,
+                "couleurs du coucher de soleil"
+            ],
+            [
+                2,
+                "coucher de soleil ou coucher du soleil"
+            ],
+            [
+                3,
+                "coucher de soleil ou couché de soleil"
+            ],
+            [
+                4,
+                "image du coucher de soleil"
+            ],
+            [
+                5,
+                "les coucher de soleil"
+            ],
+            [
+                6,
+                "coucher de soleil à colorier"
+            ],
+            [
+                7,
+                "robe couleur coucher de soleil"
+            ],
+            [
+                0,
+                "pourquoi la mer est bleue"
+            ],
+            [
+                1,
+                "pourquoi la mer est elle bleue"
+            ],
+            [
+                2,
+                "pourquoi l'eau de la mer est bleue"
+            ],
+            [
+                3,
+                "la mer est bleue"
+            ],
+            [
+                4,
+                "la mer est bleu"
+            ],
+            [
+                5,
+                "la legende de la mer bleu"
+            ],
+            [
+                6,
+                "mer bleu en france"
+            ],
+            [
+                7,
+                "au bord de la mer bleue"
+            ],
+            [
+                0,
+                "ciel rouge le soir"
+            ],
+            [
+                1,
+                "ciel rouge le soir signification"
+            ],
+            [
+                2,
+                "pourquoi le ciel est rouge le soir"
+            ],
+            [
+                3,
+                "le ciel ce soir"
+            ],
+            [
+                4,
+                "le ciel est rouge"
+            ],
+            [
+                5,
+                "ciel rouge le matin"
+            ],
+            [
+                6,
+                "rouge comme le ciel"
+            ],
+            [
+                7,
+                "pourquoi le soleil est rouge le soir"
+            ],
+            [
+                0,
+                "ciel étoilé"
+            ],
+            [
+                1,
+                "ciel étoilé image"
+            ],
+            [
+                2,
+                "ciel étoilé voiture"
+            ],
+            [
+                3,
+                "ciel étoilé van gogh"
+            ],
+            [
+                4,
+                "ciel étoilé dessin"
+            ],
+            [
+                5,
+                "ciel étoilé nuit"
+            ],
+            [
+                6,
+                "ciel étoilé fond d'écran"
+            ],
+            [
+                7,
+                "ciel étoilé mariage"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "ciel étoile voiture"
             ]
         ],
         "google": [
-            [
-                0,
-                "pourquoi le ciel est bleu pourquoi l'on vit mieux à deux"
-            ],
-            [
-                1,
-                "pourquoi le ciel est bleu pour les enfants"
-            ],
-            [
-                2,
-                "pourquoi pourquoi le ciel est bleu"
-            ],
-            [
-                0,
-                "pourquoi le ciel est bleu ou rouge"
-            ],
-            [
-                1,
-                "pourquoi le ciel est plus ou moins bleu"
-            ],
             [
                 0,
                 "couleur du ciel 5 lettres"
@@ -453,6 +783,86 @@
             [
                 9,
                 "couleur du ciel sur mars"
+            ],
+            [
+                0,
+                "diffusion rayleigh"
+            ],
+            [
+                1,
+                "diffusion rayleigh formule"
+            ],
+            [
+                2,
+                "diffusion rayleigh ciel bleu"
+            ],
+            [
+                3,
+                "diffusion rayleigh et raman"
+            ],
+            [
+                4,
+                "diffusion rayleigh et mie"
+            ],
+            [
+                5,
+                "diffusion rayleigh thomson"
+            ],
+            [
+                6,
+                "diffusion rayleigh ciel"
+            ],
+            [
+                7,
+                "diffusion de rayleigh coucher de soleil"
+            ],
+            [
+                8,
+                "diffusion de rayleigh pdf"
+            ],
+            [
+                9,
+                "diffusion de rayleigh cours"
+            ],
+            [
+                0,
+                "lumière bleue"
+            ],
+            [
+                1,
+                "lumière bleue moustique"
+            ],
+            [
+                2,
+                "lumière bleue écran"
+            ],
+            [
+                3,
+                "lumière bleue anti moustique"
+            ],
+            [
+                4,
+                "lumière bleue lampe"
+            ],
+            [
+                5,
+                "lumière bleue lunette"
+            ],
+            [
+                6,
+                "lumière bleue sommeil"
+            ],
+            [
+                7,
+                "lumière bleue écran danger"
+            ],
+            [
+                8,
+                "lumière bleue mouche"
+            ],
+            [
+                9,
+                "lumière bleue téléphone"
             ],
             [
                 0,
@@ -496,395 +906,163 @@
             ],
             [
                 0,
-                "diffusion de la lumière"
+                "couleurs du coucher de soleil"
             ],
             [
                 1,
-                "diffusion de la lumière définition"
+                "couleur du coucher de soleil sur mars"
             ],
             [
                 2,
-                "diffusion de la lumière pdf"
+                "couleur du coucher de soleil dessin"
             ],
             [
                 3,
-                "diffusion de la lumière dans l atmosphère"
+                "couleur du coucher de soleil nom"
             ],
             [
                 4,
-                "diffusion de la lumière dans l eau"
+                "couleurs coucher de soleil peinture"
             ],
             [
                 5,
-                "diffusion de la lumière en arabe"
+                "couleur du ciel coucher de soleil"
             ],
             [
                 6,
-                "distribution de la lumière des justes"
+                "couleur coucher de soleil explication"
             ],
             [
                 7,
-                "distribution de la lumière sur moi"
+                "couleur coucher de soleil code"
             ],
             [
                 8,
-                "distribution de la lumière d en face"
+                "couleur coucher de soleil pollution"
             ],
             [
                 9,
-                "distribution de la lumière des étoiles mortes"
+                "couleur coucher de soleil mariage"
             ],
             [
                 0,
-                "rayons du soleil"
+                "pourquoi la mer est bleue"
             ],
             [
                 1,
-                "rayons du soleil en anglais"
+                "pourquoi la mer est bleue ou verte"
             ],
             [
                 2,
-                "rayons du soleil synonyme"
+                "pourquoi la mer est bleue alors que l'eau est transparente"
             ],
             [
                 3,
-                "rayons du soleil kourou"
+                "pourquoi la mer est bleue wikipédia"
             ],
             [
                 4,
-                "rayons du soleil eclipse"
+                "pourquoi la mer est bleue blague"
             ],
             [
                 5,
-                "rayons du soleil 3 lettres"
+                "pourquoi la mer est bleu turquoise"
             ],
             [
                 6,
-                "rayons du soleil à travers les nuages"
+                "pourquoi la mer est bleu explication scientifique"
             ],
             [
                 7,
-                "rayon du soleil en km"
+                "pourquoi la mer est bleu explication simple"
             ],
             [
                 8,
-                "rayon du soleil en m"
+                "pourquoi la mer est bleu foncé"
             ],
             [
                 9,
-                "rayon du soleil jonzac"
+                "pourquoi la mer mediterranee est bleue"
             ],
             [
                 0,
-                "longueur d'onde lumière"
+                "ciel rouge le soir"
             ],
             [
                 1,
-                "longueur d'onde lumière visible"
+                "ciel rouge le soir signification"
             ],
             [
                 2,
-                "longueur d'onde lumière blanche"
+                "ciel rouge le soir dicton"
             ],
             [
                 3,
-                "longueur d'onde lumière rouge"
+                "ciel rouge le soir pollution"
             ],
             [
                 4,
-                "longueur d onde lumière bleue"
+                "ciel rouge le soir laisse bon espoir"
             ],
             [
                 5,
-                "longueur d onde lumière verte"
+                "ciel rouge le soir vent"
             ],
             [
                 6,
-                "longueur d onde lumière noire"
+                "ciel rouge le soir espoir"
             ],
             [
                 7,
-                "longueur d onde lumière pulsée"
+                "ciel rouge le soir citation"
             ],
             [
                 8,
-                "longueur d'onde lumière soleil"
+                "pourquoi ciel rouge le soir"
             ],
             [
                 9,
-                "longueur d'onde lumière monochromatique"
+                "ciel rouge hier soir"
             ],
             [
                 0,
-                "phénomène de rayleigh"
+                "ciel étoilé"
             ],
             [
                 1,
-                "phénomène de diffusion de rayleigh"
-            ],
-            [
-                0,
-                "perception des couleurs"
-            ],
-            [
-                1,
-                "perception des couleurs test"
+                "ciel étoilé voiture"
             ],
             [
                 2,
-                "perception des couleurs différentes"
+                "ciel étoilé van gogh"
             ],
             [
                 3,
-                "perception des couleurs bebe"
+                "ciel étoilé mariage"
             ],
             [
                 4,
-                "perception des couleurs homme femme"
+                "ciel étoilé voiture tarif"
             ],
             [
                 5,
-                "vision des couleurs"
+                "ciel étoilé plafond"
             ],
             [
                 6,
-                "vision des couleurs après opération cataracte"
+                "ciel étoilé voiture lyon"
             ],
             [
                 7,
-                "vision des couleurs test"
+                "ciel étoilé ce soir"
             ],
             [
                 8,
-                "vision des couleurs bebe"
+                "ciel étoilé chambre"
             ],
             [
                 9,
-                "vision des couleurs perturbée"
-            ],
-            [
-                0,
-                "science de l'atmosphère"
-            ],
-            [
-                1,
-                "science de l'atmosphère 5 lettres"
-            ],
-            [
-                2,
-                "science de l'atmosphère mots fléchés"
-            ],
-            [
-                3,
-                "science de l'atmosphère 12 lettres"
-            ],
-            [
-                4,
-                "master sciences de l atmosphère et du climat"
-            ],
-            [
-                5,
-                "master science de l océan de l atmosphère et du climat"
-            ]
-        ],
-        "amazon": [
-            [
-                0,
-                "rayon de soleil"
-            ],
-            [
-                1,
-                "rayon de soleil lotion"
-            ],
-            [
-                2,
-                "rayon de soleil cadeau"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "couleur du ciel"
-            ],
-            [
-                1,
-                "couleur du ciel en 5 lettres"
-            ],
-            [
-                2,
-                "couleur du ciel le matin"
-            ],
-            [
-                3,
-                "couleur du ciel sur mars"
-            ],
-            [
-                4,
-                "arc en ciel couleur"
-            ],
-            [
-                5,
-                "bleu ciel code couleur"
-            ],
-            [
-                6,
-                "la couleur du ciel"
-            ],
-            [
-                7,
-                "couleur du ciel 4 lettres"
-            ],
-            [
-                0,
-                "atmosphère terrestre"
-            ],
-            [
-                1,
-                "atmosphère terrestre gaz"
-            ],
-            [
-                2,
-                "atmosphère terrestre rôle"
-            ],
-            [
-                3,
-                "atmosphère terrestre couches"
-            ],
-            [
-                4,
-                "atmosphère terrestre pression"
-            ],
-            [
-                5,
-                "atmosphère terrestre composition"
-            ],
-            [
-                6,
-                "atmosphère terrestre température"
-            ],
-            [
-                7,
-                "atmosphère terrestre image"
-            ],
-            [
-                0,
-                "diffusion de la lumière"
-            ],
-            [
-                1,
-                "diffusion de la lumiere"
-            ],
-            [
-                2,
-                "la diffusion de la lumière par les atomes"
-            ],
-            [
-                3,
-                "phénomène de diffusion de la lumière"
-            ],
-            [
-                4,
-                "diffusion dynamique de la lumière"
-            ],
-            [
-                5,
-                "tout pour la lumière diffusion"
-            ],
-            [
-                6,
-                "la diffusion des idées des lumières"
-            ],
-            [
-                7,
-                "moyens de diffusion des idées des lumières"
-            ],
-            [
-                0,
-                "rayons du soleil"
-            ],
-            [
-                1,
-                "rayons du soleil synonyme"
-            ],
-            [
-                2,
-                "rayons du soleil sur terre"
-            ],
-            [
-                3,
-                "rayons de soleil"
-            ],
-            [
-                4,
-                "rayon de soleil dessin"
-            ],
-            [
-                5,
-                "rayon du soleil en mètre"
-            ],
-            [
-                6,
-                "rayon du soleil shawinigan"
-            ],
-            [
-                7,
-                "rayon du soleil valeur"
-            ],
-            [
-                0,
-                "longueur d'onde lumière"
-            ],
-            [
-                1,
-                "longueur d'onde lumière visible"
-            ],
-            [
-                2,
-                "longueur d'onde lumière blanche"
-            ],
-            [
-                3,
-                "longueur d'onde lumière bleu"
-            ],
-            [
-                4,
-                "longueur d'onde lumière rouge"
-            ],
-            [
-                5,
-                "longueur d'onde lumière verte"
-            ],
-            [
-                0,
-                "phénomène de rayleigh"
-            ],
-            [
-                0,
-                "perception des couleurs"
-            ],
-            [
-                1,
-                "perception des couleurs par l'oeil humain"
-            ],
-            [
-                2,
-                "perception des couleurs physique"
-            ],
-            [
-                3,
-                "perception des couleurs par l'oeil"
-            ],
-            [
-                4,
-                "test de perception des couleurs"
-            ],
-            [
-                5,
-                "test perception des couleurs"
-            ],
-            [
-                0,
-                "science de l'atmosphère"
+                "ciel étoilé dessin"
             ]
         ],
         "yahoo": [
@@ -906,6 +1084,54 @@
             ],
             [
                 0,
+                "diffusion rayleigh"
+            ],
+            [
+                1,
+                "diffusion de rayleigh"
+            ],
+            [
+                0,
+                "lumière bleue"
+            ],
+            [
+                1,
+                "lumière bleue dangereuse"
+            ],
+            [
+                2,
+                "lumière bleue des écrans"
+            ],
+            [
+                3,
+                "lumière bleue avec téléphone portable"
+            ],
+            [
+                4,
+                "lumière bleue anti moustique"
+            ],
+            [
+                5,
+                "lumière bleue acné"
+            ],
+            [
+                6,
+                "lumière bleue lunettes"
+            ],
+            [
+                7,
+                "lumière bleue et sommeil"
+            ],
+            [
+                8,
+                "lumière bleue babyphone iggeek"
+            ],
+            [
+                9,
+                "lumière bleue led"
+            ],
+            [
+                0,
                 "atmosphère terrestre"
             ],
             [
@@ -922,71 +1148,91 @@
             ],
             [
                 0,
-                "diffusion de la lumière"
+                "couleurs du coucher de soleil sur la mer"
             ],
             [
                 1,
-                "la diffusion de la lumière"
+                "couleurs du coucher de soleil horaire"
             ],
             [
                 2,
-                "diffusion dynamique de la lumière"
-            ],
-            [
-                0,
-                "rayons du soleil"
-            ],
-            [
-                1,
-                "rayons du soleil à travers les nuages"
-            ],
-            [
-                2,
-                "rayons du soleil à travers les arbres"
+                "couleurs du coucher de soleil dessin"
             ],
             [
                 3,
-                "brûlures du visage suite aux rayons du soleil"
+                "couleurs du coucher de soleil paris"
+            ],
+            [
+                0,
+                "pourquoi la mer est bleuet"
+            ],
+            [
+                1,
+                "pourquoi la mer est bleuenn"
+            ],
+            [
+                2,
+                "pourquoi la mer est bleues"
+            ],
+            [
+                3,
+                "pourquoi la mer est bleue"
+            ],
+            [
+                0,
+                "ciel rouge le soir d'algerie"
+            ],
+            [
+                1,
+                "ciel rouge le soir belgique"
+            ],
+            [
+                2,
+                "ciel rouge le soir d'algérie quotidien"
+            ],
+            [
+                3,
+                "ciel rouge le soir bruxelles"
+            ],
+            [
+                0,
+                "ciel étoilé"
+            ],
+            [
+                1,
+                "ciel étoilé photo"
+            ],
+            [
+                2,
+                "ciel étoilé image"
+            ],
+            [
+                3,
+                "ciel étoilé van gogh"
             ],
             [
                 4,
-                "soumis aux rayons du soleil 6 lettres"
+                "ciel étoilé voiture"
             ],
             [
-                0,
-                "longueur d'onde lumière"
+                5,
+                "ciel étoilé fibre optique"
             ],
             [
-                1,
-                "longueur d'onde lumière rouge"
+                6,
+                "ciel étoilé dessin"
             ],
             [
-                2,
-                "longueur d'onde lumière blanche"
+                7,
+                "ciel étoilé lune"
             ],
             [
-                3,
-                "longueur d'onde de la lumière"
+                8,
+                "ciel étoilé nuit"
             ],
             [
-                0,
-                "phenomene de rayleigh one"
-            ],
-            [
-                1,
-                "phenomene de rayleigh manga"
-            ],
-            [
-                0,
-                "perception des couleurs"
-            ],
-            [
-                1,
-                "perception des couleurs robe doré"
-            ],
-            [
-                0,
-                "science de l'atmosphère mots fléchés"
+                9,
+                "ciel étoilé à chamonix"
             ]
         ],
         "youtube": [
@@ -1032,6 +1278,50 @@
             ],
             [
                 0,
+                "diffusion rayleigh"
+            ],
+            [
+                0,
+                "lumière bleue"
+            ],
+            [
+                1,
+                "lumière bleue chien noir"
+            ],
+            [
+                2,
+                "lumière bleue police"
+            ],
+            [
+                3,
+                "lumière bleue rambo"
+            ],
+            [
+                4,
+                "lumière bleue et rouge"
+            ],
+            [
+                5,
+                "lumière bleue vaiana"
+            ],
+            [
+                6,
+                "lumière bleue qui clignote"
+            ],
+            [
+                7,
+                "lumière bleue claire"
+            ],
+            [
+                8,
+                "lumière bleue gendarmerie"
+            ],
+            [
+                9,
+                "lumière bleue uv"
+            ],
+            [
+                0,
                 "atmosphère terrestre et vie enseignement scientifique terminale"
             ],
             [
@@ -1072,31 +1362,51 @@
             ],
             [
                 0,
-                "diffusion de la lumière"
+                "couleur coucher de soleil"
             ],
             [
                 0,
-                "rayon du soleil"
+                "pourquoi la mer est bleue"
+            ],
+            [
+                0,
+                "ciel étoilé"
             ],
             [
                 1,
-                "philipayne les rayons du soleil"
+                "ciel étoilé voiture"
             ],
             [
                 2,
-                "sous les rayons du soleil"
+                "ciel étoilé nono la grinta"
             ],
             [
                 3,
-                "adeline lovo les rayons du soleil"
+                "ciel étoilé 4k"
             ],
             [
-                0,
-                "longueur d'onde lumière"
+                4,
+                "ciel étoilé chambre"
             ],
             [
-                0,
-                "perception des couleurs"
+                5,
+                "ciel étoilé voiture tuto"
+            ],
+            [
+                6,
+                "ciel étoilé nono"
+            ],
+            [
+                7,
+                "ciel étoilé voiture installation"
+            ],
+            [
+                8,
+                "ciel étoilé aquarelle"
+            ],
+            [
+                9,
+                "ciel étoilé golf 4"
             ]
         ]
     },
@@ -1104,21 +1414,21 @@
         "articles": [
             {
                 "title": "Couleur du ciel",
-                "views": 971,
+                "views": 974,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 1
             },
             {
                 "title": "Atmosphère terrestre",
-                "views": 5207,
+                "views": 5282,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
-                "title": "Couleur",
-                "views": 2558,
+                "title": "Lumière bleue",
+                "views": 637,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1129,169 +1439,139 @@
     },
     "pages": [
         {
-            "group": "Diffusion de la lumière",
-            "title": "diffusion de la lumière",
+            "group": "Perception et art",
+            "title": "couleur du ciel",
             "intent": "informational",
             "keywords": [
-                "diffusion de la lumière",
-                "rayon de soleil",
-                "rayons du soleil à travers les nuages",
-                "coucher de soleil",
-                "nuage",
-                "rayonnement solaire",
-                "rayons solaires",
-                "phénomène de rayleigh",
-                "bleu scatter",
-                "épaisseur optique",
-                "diffusion dynamique de la lumière",
-                "phenomene de rayleigh one"
+                "couleur du ciel",
+                "couleurs du coucher de soleil",
+                "couleur du coucher de soleil dessin",
+                "nuages",
+                "ciel rouge le soir"
             ]
         },
         {
-            "group": "Diffusion de la lumière",
-            "title": "longueur d'onde lumière",
+            "group": "Perception et art",
+            "title": "ciel étoilé",
             "intent": "informational",
             "keywords": [
-                "longueur d'onde lumière",
-                "longueurs d'onde",
-                "rouge et orange",
-                "spectre lumineux",
-                "longueur d'onde lumière blanche",
-                "lumière blanche",
-                "longueur d'onde lumière rouge",
-                "longueur d'onde lumière visible",
-                "longueur d'onde lumière verte"
+                "ciel étoilé",
+                "ciel nocturne",
+                "ciel étoilé van gogh",
+                "ciel étoilé image"
             ]
         },
         {
-            "group": "Explications simplifiées",
+            "group": "Phénomène scientifique",
             "title": "pourquoi le ciel est bleu explication simple",
             "intent": "informational",
             "keywords": [
                 "pourquoi le ciel est bleu explication simple",
                 "pourquoi le ciel est bleu le jour",
-                "pourquoi le ciel est bleu alors que l'espace est noir",
+                "rayonnement solaire",
+                "soleil",
+                "atmosphère terrestre",
+                "diffusion rayleigh ciel bleu",
                 "azur",
                 "bleu",
-                "ciel nocturne",
+                "longueur d'onde",
+                "lumière blanche",
+                "rayons lumineux",
+                "scattering",
+                "spectre lumineux"
+            ]
+        },
+        {
+            "group": "Phénomène scientifique",
+            "title": "diffusion rayleigh",
+            "intent": "informational",
+            "keywords": [
+                "diffusion rayleigh",
+                "assombrissement global",
+                "ozone",
+                "particules atmosphériques",
+                "épaisseur optique",
+                "composition atmosphère terrestre"
+            ]
+        },
+        {
+            "group": "Ressources éducatives",
+            "title": "pourquoi le ciel est bleu explication enfant",
+            "intent": "informational",
+            "keywords": [
                 "pourquoi le ciel est bleu explication enfant",
-                "pourquoi le ciel est bleu pour les enfants"
-            ]
-        },
-        {
-            "group": "Explications simplifiées",
-            "title": "pourquoi le ciel est bleu wikipédia",
-            "intent": "informational",
-            "keywords": [
+                "perception",
                 "pourquoi le ciel est bleu wikipédia",
-                "couleur du ciel",
-                "pourquoi le ciel est bleu c'est pas sorcier"
+                "pourquoi le ciel est bleu livre"
             ]
         },
         {
-            "group": "Science de l'atmosphère",
-            "title": "atmosphère terrestre",
+            "group": "Ressources éducatives",
+            "title": "atmosphère terrestre définition",
             "intent": "informational",
             "keywords": [
-                "atmosphère terrestre",
-                "composition atmosphère terrestre",
-                "molécules d'air",
                 "atmosphère terrestre définition",
-                "atmosphère terrestre hauteur",
+                "atmosphère terrestre et la vie",
                 "fenêtre atmosphérique"
             ]
         },
         {
-            "group": "Science de l'atmosphère",
-            "title": "science de l'atmosphère",
+            "group": "Questions connexes",
+            "title": "pourquoi la mer est bleue",
             "intent": "informational",
             "keywords": [
-                "science de l'atmosphère",
-                "atmosphère terrestre et la vie",
-                "atmosphère terrestre et vie enseignement scientifique terminale"
-            ]
-        },
-        {
-            "group": "Culture et médias",
-            "title": "pourquoi le ciel est bleu livre",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi le ciel est bleu livre",
-                "pourquoi le ciel est bleu signol",
-                "christian signol pourquoi le ciel est bleu"
-            ]
-        },
-        {
-            "group": "Culture et médias",
-            "title": "pourquoi le ciel est bleu rap",
-            "intent": "informational",
-            "keywords": [
-                "pourquoi le ciel est bleu rap",
-                "pourquoi le ciel est bleu musique"
-            ]
-        },
-        {
-            "group": "Perception des couleurs",
-            "title": "perception des couleurs",
-            "intent": "informational",
-            "keywords": [
-                "perception des couleurs",
-                "perception",
-                "perception des couleurs test"
+                "pourquoi la mer est bleue",
+                "lumière bleue",
+                "réfraction"
             ]
         }
     ],
     "categories": {
-        "rayon de soleil": "complementary",
-        "diffusion de la lumière": "core",
-        "longueur d'onde lumière": "core",
-        "perception des couleurs": "core",
+        "lumière bleue": "complementary",
+        "ciel étoilé": "core",
+        "diffusion rayleigh": "core",
         "atmosphère terrestre": "core",
         "couleur du ciel": "core",
+        "pourquoi la mer est bleue": "complementary",
+        "couleurs du coucher de soleil": "complementary",
         "pourquoi le ciel est bleu explication simple": "core",
-        "pourquoi le ciel est bleu wikipédia": "core",
         "pourquoi le ciel est bleu explication enfant": "core",
-        "longueur d'onde lumière blanche": "core",
-        "longueur d'onde lumière rouge": "complementary",
+        "pourquoi le ciel est bleu wikipédia": "core",
+        "ciel étoilé van gogh": "commercial",
         "pourquoi le ciel est bleu livre": "commercial",
-        "phénomène de rayleigh": "core",
-        "science de l'atmosphère": "core",
-        "pourquoi le ciel est bleu rap": "commercial",
-        "composition atmosphère terrestre": "core",
-        "longueur d'onde lumière visible": "core",
-        "pourquoi le ciel est bleu signol": "commercial",
-        "atmosphère terrestre et la vie": "core",
-        "rayons du soleil synonyme": "doubtful",
-        "pourquoi le ciel est bleu pour les enfants": "complementary",
-        "perception des couleurs test": "commercial",
+        "ciel rouge le soir": "complementary",
+        "composition atmosphère terrestre": "complementary",
+        "atmosphère terrestre et la vie": "complementary",
+        "ciel étoilé image": "commercial",
+        "diffusion rayleigh ciel bleu": "complementary",
         "pourquoi le ciel est bleu le jour": "complementary",
-        "diffusion dynamique de la lumière": "complementary",
+        "couleur du coucher de soleil dessin": "complementary",
         "atmosphère terrestre définition": "complementary",
-        "atmosphère terrestre et vie enseignement scientifique terminale": "complementary",
-        "rayons du soleil à travers les nuages": "complementary",
-        "pourquoi le ciel est bleu c'est pas sorcier": "complementary",
-        "christian signol pourquoi le ciel est bleu": "complementary",
-        "pourquoi le ciel est bleu alors que l'espace est noir": "complementary",
-        "pourquoi le ciel est bleu musique": "complementary",
-        "longueur d'onde lumière verte": "complementary",
-        "atmosphère terrestre hauteur": "complementary",
-        "phenomene de rayleigh one": "complementary",
         "lumière blanche": "core",
-        "rayons solaires": "complementary",
-        "molécules d'air": "core",
-        "longueurs d'onde": "core",
-        "bleu scatter": "core",
-        "rouge et orange": "complementary",
-        "coucher de soleil": "complementary",
+        "particules atmosphériques": "core",
+        "longueur d'onde": "core",
+        "soleil": "core",
+        "réfraction": "complementary",
+        "nuages": "complementary",
+        "ozone": "complementary",
+        "rayons lumineux": "core",
+        "scattering": "core",
         "ciel nocturne": "core",
-        "nuage": "complementary",
         "spectre lumineux": "complementary",
         "bleu": "complementary",
         "rayonnement solaire": "complementary",
         "perception": "complementary",
         "azur": "complementary",
         "épaisseur optique": "complementary",
-        "assombrissement global": "doubtful",
-        "fenêtre atmosphérique": "complementary"
+        "assombrissement global": "complementary",
+        "fenêtre atmosphérique": "complementary",
+        "ciel étoile voiture": "doubtful",
+        "lumière bleue anti moustique": "doubtful",
+        "lumière bleue écran": "doubtful",
+        "lumière bleue moustique": "doubtful",
+        "pourquoi le ciel est bleu rap": "doubtful",
+        "ciel rouge le soir signification": "doubtful",
+        "pourquoi le ciel est bleu signol": "doubtful",
+        "lumière bleue lunettes": "doubtful"
     }
 }

@@ -33,6 +33,8 @@ final class PageSignals
 
         public readonly int $words = 0,
 
+        public readonly string $parent = '',
+
         public readonly int $facets = 0,
 
         public readonly int $seedSuggestions = 0,
@@ -52,8 +54,9 @@ final class PageSignals
      * @param list<Keyword>       $merged
      * @param list<RawSuggestion> $suggestions
      * @param list<string>        $responding
+     * @param list<string>        $topics
      */
-    public static function from(string $seed, string $lang, array $merged, array $suggestions, array $responding, KeywordFilter $filter, int $types, ?LexicalContext $context = null): self
+    public static function from(string $seed, string $lang, array $merged, array $suggestions, array $responding, KeywordFilter $filter, int $types, array $topics = [], ?LexicalContext $context = null): self
     {
         $context ??= LexicalContext::of($seed);
         $cues = array_fill_keys(array_keys(Lexicon::PAGE_CUES), 0);
@@ -103,6 +106,7 @@ final class PageSignals
             seedCues: $seedCues,
             model: 1 === preg_match('/\d/', $seed),
             words: \count($seedWords),
+            parent: self::parent($seed, $topics),
             facets: \count($facets),
             seedSuggestions: \count(array_unique(array_map(static fn (RawSuggestion $s): string => SuggestionMerger::key($s->text), $fromSeed))),
             seedLocal: $seedLocal,
@@ -135,6 +139,90 @@ final class PageSignals
     private function with(array $changes): self
     {
         return new self(...array_merge(get_object_vars($this), $changes));
+    }
+
+    /** @param list<string> $topics */
+    private static function parent(string $seed, array $topics): string
+    {
+        $words = self::withoutQualifiers(preg_split('/\s+/u', trim($seed), -1, \PREG_SPLIT_NO_EMPTY) ?: []);
+        $count = \count($words);
+        $seedKey = SuggestionMerger::key($seed);
+        $cueWords = Lexicon::words(array_merge(...array_values(Lexicon::PAGE_CUES)));
+        $actions = [...Lexicon::LINK_WORDS, ...Lexicon::ACTION_WORDS, ...$cueWords];
+        $tail = [...Lexicon::LINK_WORDS, ...Lexicon::AUDIENCE_WORDS];
+
+        $subject = self::trim($words, $actions, [...$tail, ...$cueWords]);
+        $subjectKey = SuggestionMerger::key(implode(' ', $subject));
+
+        $topicKeys = array_flip(array_map(static fn (string $t): string => SuggestionMerger::key((string) preg_replace('/\s*\([^)]*\)$/', '', $t)), $topics));
+        for ($length = $count - 1; $length >= 1; --$length) {
+            for ($start = 0; $start + $length <= $count; ++$start) {
+                $slice = \array_slice($words, $start, $length);
+                $headless = self::trim($slice, Lexicon::LINK_WORDS, []);
+                $part = self::trim($headless, [], $tail);
+
+                $offset = $start + \count($slice) - \count($headless);
+                if (1 === \count($part) && ($offset === $count - 1 || [] !== self::trim(\array_slice($words, 0, $offset), $actions, $actions))) {
+                    continue;
+                }
+                if ([] !== $part && isset($topicKeys[SuggestionMerger::key(implode(' ', $part))]) && !Lexicon::namesNoSubject(implode(' ', $part))) {
+                    return [] === array_diff($part, $subject) && \count($subject) > \count($part) && $subjectKey !== $seedKey ? implode(' ', $subject) : implode(' ', $part);
+                }
+            }
+        }
+
+        $stripped = self::trim($words, $actions, $tail);
+        if ([] !== $stripped && SuggestionMerger::key(implode(' ', $stripped)) !== $seedKey) {
+            return implode(' ', $stripped);
+        }
+
+        return '';
+    }
+
+    /**
+     * @param list<string> $words
+     *
+     * @return list<string>
+     */
+    private static function withoutQualifiers(array $words): array
+    {
+        do {
+            $removed = false;
+            foreach (Lexicon::QUALIFIERS as $qualifier) {
+                $length = substr_count($qualifier, ' ') + 1;
+                $end = SuggestionMerger::normalize(implode(' ', \array_slice($words, -$length)));
+                if (\count($words) > $length && $end === $qualifier) {
+                    $words = \array_slice($words, 0, -$length);
+                    $removed = true;
+                }
+            }
+        } while ($removed);
+
+        return $words;
+    }
+
+    /**
+     * @param list<string> $words
+     * @param list<string> $head
+     * @param list<string> $tail
+     *
+     * @return list<string>
+     */
+    private static function trim(array $words, array $head, array $tail): array
+    {
+        $in = static function (string $word, array $list): bool {
+            $normalized = SuggestionMerger::normalize($word);
+
+            return \in_array($normalized, $list, true) || \in_array((string) preg_replace('/[sx]$/', '', $normalized), $list, true);
+        };
+        while ([] !== $words && $in($words[0], $head)) {
+            array_shift($words);
+        }
+        while ([] !== $words && $in($words[\count($words) - 1], $tail)) {
+            array_pop($words);
+        }
+
+        return $words;
     }
 
     public function share(string $family): float

@@ -1,7 +1,7 @@
 {
     "expression": "what is kubernetes",
     "lang": "en",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -16,12 +16,12 @@
     "concepts": [
         "container orchestration",
         "kubernetes vs docker swarm",
+        "kubernetes architecture",
         "kubernetes pods",
         "kubernetes services",
+        "kubernetes deployments",
         "kubernetes ingress",
-        "helm charts",
-        "kubernetes monitoring",
-        "cloud native computing foundation"
+        "kubernetes persistent volumes"
     ],
     "suggestions": {
         "bing": [
@@ -91,58 +91,6 @@
     },
     "related": {
         "bing": [
-            [
-                0,
-                "what is kubernetes for"
-            ],
-            [
-                1,
-                "what is kubernetes for dummies"
-            ],
-            [
-                2,
-                "what is kubernetes for beginners"
-            ],
-            [
-                0,
-                "what is kubernetes vs docker"
-            ],
-            [
-                1,
-                "what is kubernetes and docker"
-            ],
-            [
-                2,
-                "what is kubernetes and why it is used"
-            ],
-            [
-                3,
-                "what is kubernetes and how it works"
-            ],
-            [
-                4,
-                "what is kubernetes and containers"
-            ],
-            [
-                5,
-                "what is kubernetes and docker in aws"
-            ],
-            [
-                6,
-                "what is kubernetes and openshift"
-            ],
-            [
-                7,
-                "what is kubernetes and aks"
-            ],
-            [
-                8,
-                "what is kubernetes and docker and openstack"
-            ],
-            [
-                9,
-                "what is kubernetes orchestration"
-            ],
             [
                 0,
                 "container orchestration"
@@ -261,6 +209,62 @@
             ],
             [
                 0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture explained"
+            ],
+            [
+                3,
+                "kubernetes architecture overview"
+            ],
+            [
+                4,
+                "kubernetes architecture basics"
+            ],
+            [
+                5,
+                "kubernetes architecture components"
+            ],
+            [
+                6,
+                "kubernetes architecture layers"
+            ],
+            [
+                7,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                8,
+                "kubernetes architecture patterns"
+            ],
+            [
+                9,
+                "kubernetes architecture image"
+            ],
+            [
+                10,
+                "kubernetes architecture medium"
+            ],
+            [
+                11,
+                "kubernetes architecture best practices"
+            ],
+            [
+                12,
+                "kubernetes architecture simplified"
+            ],
+            [
+                13,
+                "kubernetes architecture diagram explained"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -349,6 +353,26 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples"
+            ],
+            [
+                2,
+                "kubernetes deployments datadog"
+            ],
+            [
+                3,
+                "kubernetes deployments documentation"
+            ],
+            [
+                4,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -409,250 +433,288 @@
             ],
             [
                 0,
-                "helm charts"
+                "kubernetes persistent volumes"
             ],
             [
                 1,
-                "helm charts kubernetes"
+                "kubernetes persistent volume spec"
             ],
             [
                 2,
-                "helm charts tutorial"
+                "kubernetes persistent volume claim"
             ],
             [
                 3,
-                "helm charts explained"
+                "kubernetes persistent volume yaml"
             ],
             [
                 4,
-                "helm charts repository"
+                "kubernetes persistent volume access modes"
             ],
             [
                 5,
-                "helm charts hub"
+                "kubernetes persistent volume hostpath"
             ],
             [
                 6,
-                "helm charts commands"
+                "kubernetes persistent volume nfs"
             ],
             [
                 7,
-                "helm charts install"
+                "kubernetes persistent volume encryption"
             ],
             [
                 8,
-                "helm charts meaning"
+                "kubernetes persistent volume reclaim policy"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "container orchestration"
             ],
             [
-                9,
-                "helm charts vs terraform"
+                1,
+                "container orchestration tools"
             ],
             [
-                10,
-                "helm charts documentation"
+                2,
+                "container orchestration meaning"
             ],
             [
-                11,
-                "helm charts kubernetes deployment"
+                3,
+                "container orchestration benefits"
             ],
             [
-                12,
-                "helm charts kubernetes tutorial"
+                4,
+                "container orchestration platform"
+            ],
+            [
+                5,
+                "container orchestration best practices"
+            ],
+            [
+                6,
+                "container orchestration architecture"
+            ],
+            [
+                7,
+                "container orchestration market"
             ],
             [
                 0,
-                "kubernetes monitoring"
+                "kubernetes vs docker swarm"
             ],
             [
                 1,
-                "kubernetes monitoring tools"
+                "docker swarm vs kubernetes vs docker compose"
             ],
             [
                 2,
-                "kubernetes monitoring dynatrace"
+                "what is docker swarm vs kubernetes"
             ],
             [
                 3,
-                "kubernetes monitoring metrics api"
+                "docker swarm vs kubernetes cluster"
             ],
             [
                 4,
-                "kubernetes monitoring metrics examples"
+                "docker swarm vs kubernetes reddit"
             ],
             [
                 5,
-                "kubernetes monitoring metrics dashboard"
+                "docker swarm vs kubernetes difference"
             ],
             [
                 6,
-                "kubernetes monitoring metrics documentation"
+                "docker vs docker swarm"
             ],
             [
                 7,
-                "kubernetes monitoring metrics collection"
-            ],
-            [
-                8,
-                "kubernetes monitoring metrics comparison"
-            ],
-            [
-                9,
-                "kubernetes monitoring resources with datadog"
-            ],
-            [
-                10,
-                "kubernetes monitoring resources with loki"
-            ],
-            [
-                11,
-                "kubernetes monitoring metrics with grafana"
-            ],
-            [
-                12,
-                "kubernetes monitoring resources with jaeger"
-            ],
-            [
-                13,
-                "kubernetes monitoring metrics configuration"
-            ],
-            [
-                14,
-                "kubernetes monitoring metrics with prometheus"
+                "docker standalone vs swarm"
             ],
             [
                 0,
-                "cloud native computing foundation"
+                "kubernetes architecture"
             ],
             [
                 1,
-                "cloud native computing foundation cncf"
+                "kubernetes architecture diagram"
             ],
             [
                 2,
-                "cloud native computing foundation landscape"
+                "kubernetes architecture explained"
             ],
             [
                 3,
-                "cloud native computing foundation news 2026"
+                "kubernetes architecture overview"
             ],
             [
                 4,
-                "cloud native computing foundation certs"
+                "kubernetes architecture basics"
             ],
             [
                 5,
-                "cloud native computing foundation cka exam"
+                "kubernetes architecture components"
             ],
             [
                 6,
-                "cloud native computing foundation standards"
+                "kubernetes architecture layers"
             ],
             [
                 7,
-                "cloud native computing foundation kubernetes"
+                "kubernetes architecture interview questions"
             ],
             [
-                8,
-                "cloud native computing foundation cka"
+                0,
+                "kubernetes pods"
             ],
             [
-                9,
-                "cloud native computing foundation helm"
+                1,
+                "kubernetes pods vs nodes"
             ],
             [
-                10,
-                "cloud native computing foundation slack"
+                2,
+                "kubernetes pods scaling"
             ],
             [
-                11,
-                "cloud native computing foundation japan"
+                3,
+                "kubernetes pods explained"
             ],
             [
-                12,
-                "cloud native computing foundation address"
+                4,
+                "kubernetes pods monitoring"
+            ],
+            [
+                5,
+                "kubernetes pods best practices"
+            ],
+            [
+                6,
+                "kubernetes pods datadog"
+            ],
+            [
+                7,
+                "kubernetes pods troubleshooting"
+            ],
+            [
+                0,
+                "kubernetes services"
+            ],
+            [
+                1,
+                "kubernetes services types"
+            ],
+            [
+                2,
+                "kubernetes services yaml"
+            ],
+            [
+                3,
+                "kubernetes services azure"
+            ],
+            [
+                4,
+                "kubernetes services documentation"
+            ],
+            [
+                5,
+                "kubernetes services - microsoft azure"
+            ],
+            [
+                6,
+                "kubernetes services list"
+            ],
+            [
+                7,
+                "kubernetes services and pods"
+            ],
+            [
+                0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples"
+            ],
+            [
+                2,
+                "kubernetes deployments datadog"
+            ],
+            [
+                3,
+                "kubernetes deployments documentation"
+            ],
+            [
+                4,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                0,
+                "kubernetes ingress"
+            ],
+            [
+                1,
+                "kubernetes ingress controller"
+            ],
+            [
+                2,
+                "kubernetes ingress nginx"
+            ],
+            [
+                3,
+                "kubernetes ingress yaml"
+            ],
+            [
+                4,
+                "kubernetes ingress tls"
+            ],
+            [
+                5,
+                "kubernetes ingress class"
+            ],
+            [
+                6,
+                "kubernetes ingress deprecated"
+            ],
+            [
+                7,
+                "kubernetes ingress api"
+            ],
+            [
+                0,
+                "kubernetes persistent volumes"
+            ],
+            [
+                1,
+                "kubernetes persistent volume spec"
+            ],
+            [
+                2,
+                "kubernetes persistent volume claim"
+            ],
+            [
+                3,
+                "kubernetes persistent volume yaml"
+            ],
+            [
+                4,
+                "kubernetes persistent volume access modes"
+            ],
+            [
+                5,
+                "kubernetes persistent volume hostpath"
+            ],
+            [
+                6,
+                "kubernetes persistent volume nfs"
+            ],
+            [
+                7,
+                "kubernetes persistent volume encryption"
             ]
         ],
         "google": [
-            [
-                0,
-                "what is kubernetes for"
-            ],
-            [
-                1,
-                "what is kubernetes for dummies"
-            ],
-            [
-                2,
-                "what is kubernetes for beginners"
-            ],
-            [
-                3,
-                "what is kubernetes for aws"
-            ],
-            [
-                4,
-                "what is kubernetes for reddit"
-            ],
-            [
-                5,
-                "what is kubernetes for docker"
-            ],
-            [
-                6,
-                "what is kubernetes in simple words"
-            ],
-            [
-                7,
-                "what is kubernetes in cloud computing"
-            ],
-            [
-                8,
-                "what is kubernetes in devops"
-            ],
-            [
-                9,
-                "what is kubernetes in azure"
-            ],
-            [
-                0,
-                "what is kubernetes vs docker"
-            ],
-            [
-                1,
-                "what is kubernetes vs containers"
-            ],
-            [
-                2,
-                "what is kubernetes vs openshift"
-            ],
-            [
-                3,
-                "what is kubernetes vs terraform"
-            ],
-            [
-                4,
-                "what is kubernetes vs ecs"
-            ],
-            [
-                5,
-                "what is kubernetes vs jenkins"
-            ],
-            [
-                6,
-                "what is kubernetes vs aws"
-            ],
-            [
-                7,
-                "what is kubernetes vs ansible"
-            ],
-            [
-                8,
-                "what is kubernetes vs eks"
-            ],
-            [
-                9,
-                "what is kubernetes vs docker compose"
-            ],
             [
                 0,
                 "container orchestration"
@@ -732,6 +794,46 @@
             [
                 9,
                 "kubernetes vs docker swarm vs openshift"
+            ],
+            [
+                0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture explained"
+            ],
+            [
+                3,
+                "kubernetes architecture and components"
+            ],
+            [
+                4,
+                "kubernetes architecture diagram explained"
+            ],
+            [
+                5,
+                "kubernetes architecture overview"
+            ],
+            [
+                6,
+                "kubernetes architecture pdf"
+            ],
+            [
+                7,
+                "kubernetes architecture diagram with explanation"
+            ],
+            [
+                8,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                9,
+                "kubernetes architecture certification"
             ],
             [
                 0,
@@ -815,6 +917,46 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments vs statefulsets"
+            ],
+            [
+                2,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                3,
+                "kubernetes deployments vs services"
+            ],
+            [
+                4,
+                "kubernetes deployments types"
+            ],
+            [
+                5,
+                "kubernetes deployments and pods"
+            ],
+            [
+                6,
+                "kubernetes get deployments"
+            ],
+            [
+                7,
+                "kubernetes list deployments"
+            ],
+            [
+                8,
+                "kubernetes show deployments"
+            ],
+            [
+                9,
+                "kubernetes pods deployments services"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -855,387 +997,43 @@
             ],
             [
                 0,
-                "helm charts"
+                "kubernetes persistent volumes"
             ],
             [
                 1,
-                "helm charts kubernetes"
+                "kubernetes persistent volumes grafana dashboard"
             ],
             [
                 2,
-                "helm charts explained"
+                "kubernetes persistent volumes claim"
             ],
             [
                 3,
-                "helm charts repository"
+                "kubernetes persistent volumes dashboard"
             ],
             [
                 4,
-                "helm charts vs terraform"
+                "kubernetes persistent volumes grafana"
             ],
             [
                 5,
-                "helm charts example"
+                "kubernetes persistent volumes access modes"
             ],
             [
                 6,
-                "helm charts tutorial"
+                "kubectl persistent volumes"
             ],
             [
                 7,
-                "helm charts vs kustomize"
+                "kubernetes persistent volume example"
             ],
             [
                 8,
-                "helm charts github"
+                "kubernetes persistent volume claim example"
             ],
             [
                 9,
-                "helm charts logo"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring in dynatrace"
-            ],
-            [
-                3,
-                "kubernetes monitoring dashboard"
-            ],
-            [
-                4,
-                "kubernetes monitoring prometheus"
-            ],
-            [
-                5,
-                "kubernetes monitoring stack"
-            ],
-            [
-                6,
-                "kubernetes monitoring helm chart"
-            ],
-            [
-                7,
-                "kubernetes monitoring zabbix"
-            ],
-            [
-                8,
-                "kubernetes monitoring helm chart v4"
-            ],
-            [
-                9,
-                "kubernetes monitoring mode dynatrace"
-            ],
-            [
-                0,
-                "cloud native computing foundation"
-            ],
-            [
-                1,
-                "cloud native computing foundation (cncf)"
-            ],
-            [
-                2,
-                "cloud native computing foundation landscape"
-            ],
-            [
-                3,
-                "cloud native computing foundation certification"
-            ],
-            [
-                4,
-                "cloud native computing foundation projects"
-            ],
-            [
-                5,
-                "cloud native computing foundation slack"
-            ],
-            [
-                6,
-                "cloud native computing foundation logo"
-            ],
-            [
-                7,
-                "cloud native computing foundation kubernetes"
-            ],
-            [
-                8,
-                "cloud native computing foundation incubation project"
-            ],
-            [
-                9,
-                "cloud native computing foundation sandbox project"
-            ]
-        ],
-        "amazon": [
-            [
-                0,
-                "helm charts"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "container orchestration"
-            ],
-            [
-                1,
-                "container orchestration tools"
-            ],
-            [
-                2,
-                "container orchestration meaning"
-            ],
-            [
-                3,
-                "container orchestration benefits"
-            ],
-            [
-                4,
-                "container orchestration platform"
-            ],
-            [
-                5,
-                "container orchestration best practices"
-            ],
-            [
-                6,
-                "container orchestration architecture"
-            ],
-            [
-                7,
-                "container orchestration market"
-            ],
-            [
-                0,
-                "kubernetes vs docker swarm"
-            ],
-            [
-                1,
-                "docker swarm vs kubernetes vs docker compose"
-            ],
-            [
-                2,
-                "what is docker swarm vs kubernetes"
-            ],
-            [
-                3,
-                "docker swarm vs kubernetes cluster"
-            ],
-            [
-                4,
-                "docker swarm vs kubernetes reddit"
-            ],
-            [
-                5,
-                "docker swarm vs kubernetes difference"
-            ],
-            [
-                6,
-                "docker vs docker swarm"
-            ],
-            [
-                7,
-                "docker standalone vs swarm"
-            ],
-            [
-                0,
-                "kubernetes pods"
-            ],
-            [
-                1,
-                "kubernetes pods vs nodes"
-            ],
-            [
-                2,
-                "kubernetes pods scaling"
-            ],
-            [
-                3,
-                "kubernetes pods explained"
-            ],
-            [
-                4,
-                "kubernetes pods monitoring"
-            ],
-            [
-                5,
-                "kubernetes pods best practices"
-            ],
-            [
-                6,
-                "kubernetes pods datadog"
-            ],
-            [
-                7,
-                "kubernetes pods troubleshooting"
-            ],
-            [
-                0,
-                "kubernetes services types"
-            ],
-            [
-                1,
-                "kubernetes services"
-            ],
-            [
-                2,
-                "kubernetes services yaml"
-            ],
-            [
-                3,
-                "kubernetes services azure"
-            ],
-            [
-                4,
-                "kubernetes services documentation"
-            ],
-            [
-                5,
-                "kubernetes services - microsoft azure"
-            ],
-            [
-                6,
-                "kubernetes services and pods"
-            ],
-            [
-                7,
-                "kubernetes services list"
-            ],
-            [
-                0,
-                "kubernetes ingress"
-            ],
-            [
-                1,
-                "kubernetes ingress controller"
-            ],
-            [
-                2,
-                "kubernetes ingress nginx"
-            ],
-            [
-                3,
-                "kubernetes ingress yaml"
-            ],
-            [
-                4,
-                "kubernetes ingress tls"
-            ],
-            [
-                5,
-                "kubernetes ingress class"
-            ],
-            [
-                6,
-                "kubernetes ingress deprecated"
-            ],
-            [
-                7,
-                "kubernetes ingress api"
-            ],
-            [
-                0,
-                "helm charts"
-            ],
-            [
-                1,
-                "helm charts kubernetes"
-            ],
-            [
-                2,
-                "helm charts tutorial"
-            ],
-            [
-                3,
-                "helm charts explained"
-            ],
-            [
-                4,
-                "helm charts repository"
-            ],
-            [
-                5,
-                "helm charts hub"
-            ],
-            [
-                6,
-                "helm charts commands"
-            ],
-            [
-                7,
-                "helm charts install"
-            ],
-            [
-                0,
-                "kubernetes monitoring tools"
-            ],
-            [
-                1,
-                "kubernetes monitoring"
-            ],
-            [
-                2,
-                "kubernetes monitoring dynatrace"
-            ],
-            [
-                3,
-                "kubernetes monitoring metrics api"
-            ],
-            [
-                4,
-                "kubernetes monitoring metrics examples"
-            ],
-            [
-                5,
-                "kubernetes monitoring metrics dashboard"
-            ],
-            [
-                6,
-                "kubernetes monitoring metrics documentation"
-            ],
-            [
-                7,
-                "kubernetes monitoring metrics collection"
-            ],
-            [
-                0,
-                "cloud native computing foundation"
-            ],
-            [
-                1,
-                "cloud native computing foundation cncf"
-            ],
-            [
-                2,
-                "cloud native computing foundation landscape"
-            ],
-            [
-                3,
-                "cloud native computing foundation cka"
-            ],
-            [
-                4,
-                "cloud native computing foundation news 2026"
-            ],
-            [
-                5,
-                "cloud native computing foundation news"
-            ],
-            [
-                6,
-                "cloud native computing foundation cka exam"
-            ],
-            [
-                7,
-                "cloud native computing foundation kubernetes"
+                "kubernetes persistent volume nfs"
             ]
         ],
         "yahoo": [
@@ -1321,6 +1119,46 @@
             ],
             [
                 0,
+                "kubernetes architecture"
+            ],
+            [
+                1,
+                "kubernetes architecture diagram"
+            ],
+            [
+                2,
+                "kubernetes architecture components"
+            ],
+            [
+                3,
+                "kubernetes architecture explained"
+            ],
+            [
+                4,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                5,
+                "kubernetes architecture overview"
+            ],
+            [
+                6,
+                "kubernetes architecture and basic tutorial"
+            ],
+            [
+                7,
+                "kubernetes architecture medium"
+            ],
+            [
+                8,
+                "kubernetes architecture pdf"
+            ],
+            [
+                9,
+                "kubernetes architecture explanation"
+            ],
+            [
+                0,
                 "kubernetes pods"
             ],
             [
@@ -1385,6 +1223,26 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes deployments examples github"
+            ],
+            [
+                2,
+                "kubernetes deployments vs services"
+            ],
+            [
+                3,
+                "kubernetes deployments vs pods"
+            ],
+            [
+                4,
+                "what are kubernetes deployments"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -1425,99 +1283,15 @@
             ],
             [
                 0,
-                "helm charts"
+                "kubernetes persistent volume claim"
             ],
             [
                 1,
-                "helm charts kubernetes"
+                "kubernetes persistent volume example"
             ],
             [
                 2,
-                "helm charts interview questions"
-            ],
-            [
-                3,
-                "helm charts installation"
-            ],
-            [
-                4,
-                "helm charts pronunciation"
-            ],
-            [
-                5,
-                "helm charts tutorial"
-            ],
-            [
-                6,
-                "helm charts points in resume"
-            ],
-            [
-                7,
-                "helm charts for jenkins"
-            ],
-            [
-                8,
-                "helm charts docker"
-            ],
-            [
-                9,
-                "helm charts repos"
-            ],
-            [
-                0,
-                "kubernetes monitoring prometheus"
-            ],
-            [
-                1,
-                "kubernetes monitoring tools"
-            ],
-            [
-                2,
-                "kubernetes monitoring"
-            ],
-            [
-                3,
-                "kubernetes monitoring dashboard"
-            ],
-            [
-                4,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                5,
-                "kubernetes monitoring tool"
-            ],
-            [
-                0,
-                "cloud native computing foundation"
-            ],
-            [
-                1,
-                "cloud native computing foundation (cncf)"
-            ],
-            [
-                2,
-                "cloud native computing foundation certification"
-            ],
-            [
-                3,
-                "cloud native computing foundation slack"
-            ],
-            [
-                4,
-                "cloud native computing foundation members"
-            ],
-            [
-                5,
-                "cloud native computing foundation logo"
-            ],
-            [
-                6,
-                "cloud native computing foundation (cncf) newsletter"
-            ],
-            [
-                7,
-                "cloud native computing foundation website"
+                "kubernetes persistent volume"
             ]
         ],
         "youtube": [
@@ -1560,6 +1334,46 @@
             [
                 0,
                 "kubernetes vs docker swarm"
+            ],
+            [
+                0,
+                "kubernetes architecture in telugu"
+            ],
+            [
+                1,
+                "kubernetes architecture interview questions"
+            ],
+            [
+                2,
+                "kubernetes architecture in tamil"
+            ],
+            [
+                3,
+                "kubernetes architecture nana"
+            ],
+            [
+                4,
+                "kubernetes architecture mumshad"
+            ],
+            [
+                5,
+                "kubernetes architecture"
+            ],
+            [
+                6,
+                "kubernetes architecture explained"
+            ],
+            [
+                7,
+                "kubernetes architecture in malayalam"
+            ],
+            [
+                8,
+                "kubernetes architecture deep dive"
+            ],
+            [
+                9,
+                "kubernetes architecture abhishek veeramalla"
             ],
             [
                 0,
@@ -1627,6 +1441,14 @@
             ],
             [
                 0,
+                "kubernetes deployments"
+            ],
+            [
+                1,
+                "kubernetes pods services deployments"
+            ],
+            [
+                0,
                 "kubernetes ingress"
             ],
             [
@@ -1667,75 +1489,11 @@
             ],
             [
                 0,
-                "helm charts"
+                "kubernetes persistent volumes"
             ],
             [
                 1,
-                "helm charts explained"
-            ],
-            [
-                2,
-                "helm charts kubernetes tutorial"
-            ],
-            [
-                3,
-                "helm charts kubernetes"
-            ],
-            [
-                4,
-                "helm charts tutorial"
-            ],
-            [
-                5,
-                "helm charts kubernetes in telugu"
-            ],
-            [
-                6,
-                "helm charts kubernetes tamil"
-            ],
-            [
-                7,
-                "helm charts openshift"
-            ],
-            [
-                8,
-                "helm charts kubernetes hindi"
-            ],
-            [
-                9,
-                "helm charts and argocd"
-            ],
-            [
-                0,
-                "kubernetes monitoring"
-            ],
-            [
-                1,
-                "kubernetes monitoring grafana"
-            ],
-            [
-                2,
-                "kubernetes monitoring in dynatrace"
-            ],
-            [
-                3,
-                "kubernetes monitoring and alerting"
-            ],
-            [
-                4,
-                "kubernetes monitoring using prometheus & grafana"
-            ],
-            [
-                5,
-                "kubernetes monitoring with zabbix"
-            ],
-            [
-                6,
-                "kubernetes monitoring tools"
-            ],
-            [
-                0,
-                "cloud native computing foundation"
+                "kubernetes persistent volume tutorial"
             ]
         ]
     },
@@ -1743,14 +1501,14 @@
         "articles": [
             {
                 "title": "Kubernetes",
-                "views": 28204,
+                "views": 27853,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.6
             },
             {
                 "title": "Orchestration (computing)",
-                "views": 1594,
+                "views": 1589,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1763,39 +1521,33 @@
     },
     "pages": [
         {
-            "group": "Kubernetes Components",
+            "group": "Kubernetes Architecture",
             "title": "kubernetes pods",
-            "intent": "commercial",
+            "intent": "informational",
             "keywords": [
                 "kubernetes pods",
-                "what is kubernetes pod",
-                "nodes",
-                "pods",
+                "pod",
+                "kubernetes deployments",
+                "kubernetes deployments vs pods",
+                "deployment",
                 "kubernetes pods vs nodes",
-                "kubernetes pods vs nodes vs containers"
+                "node",
+                "what is kubernetes pod"
             ]
         },
         {
-            "group": "Kubernetes Components",
-            "title": "kubernetes services",
+            "group": "Kubernetes Architecture",
+            "title": "kubernetes architecture",
             "intent": "informational",
             "keywords": [
-                "kubernetes services",
-                "kubernetes deployment strategies",
-                "open service mesh",
-                "services",
-                "kubernetes services types",
-                "kubernetes services explained",
-                "kubernetes services yaml"
-            ]
-        },
-        {
-            "group": "Kubernetes Components",
-            "title": "kubernetes ingress",
-            "intent": "informational",
-            "keywords": [
-                "kubernetes ingress",
-                "kubernetes ingress controller"
+                "kubernetes architecture",
+                "kubernetes architecture interview questions",
+                "api server",
+                "control plane",
+                "etcd",
+                "kubernetes architecture explained",
+                "kubernetes architecture diagram",
+                "kubernetes architecture overview"
             ]
         },
         {
@@ -1804,134 +1556,109 @@
             "intent": "informational",
             "keywords": [
                 "what is kubernetes cluster",
-                "what is kubernetes used for",
-                "clusters",
-                "configmaps",
-                "controllers",
-                "deployments",
-                "kubernetes architecture",
-                "kubernetes certification",
-                "kubernetes components",
-                "kubernetes cost management",
-                "kubernetes security",
-                "kubernetes troubleshooting",
-                "namespaces",
-                "persistent volumes",
-                "secrets",
-                "what is kubernetes for dummies",
+                "cloud native computing foundation",
+                "cluster",
+                "k3s",
+                "list of cluster management software",
                 "what is kubernetes and how does it work",
-                "what is kubernetes and how it works"
+                "container orchestration meaning",
+                "what is kubernetes container",
+                "container"
             ]
         },
         {
             "group": "Kubernetes Basics",
-            "title": "what is kubernetes vs docker",
+            "title": "what is kubernetes and docker",
             "intent": "commercial",
             "keywords": [
-                "what is kubernetes vs docker",
+                "what is kubernetes and docker",
                 "docker",
-                "k3s",
                 "openshift",
                 "kubernetes vs docker swarm",
-                "what is kubernetes and docker"
+                "what is kubernetes vs docker"
             ]
         },
         {
-            "group": "Container Orchestration",
+            "group": "Kubernetes Components",
+            "title": "kubernetes services",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes services",
+                "open service mesh",
+                "service",
+                "kubernetes services types",
+                "kubernetes services explained",
+                "kubernetes services yaml"
+            ]
+        },
+        {
+            "group": "Kubernetes Components",
+            "title": "kubernetes persistent volumes",
+            "intent": "informational",
+            "keywords": [
+                "kubernetes persistent volumes",
+                "kubernetes persistent volume claim"
+            ]
+        },
+        {
+            "group": "Kubernetes Advanced",
             "title": "container orchestration",
             "intent": "informational",
             "keywords": [
                 "container orchestration",
-                "cloud native computing foundation",
-                "cloud native computing foundation (cncf)",
-                "cloud native computing foundation landscape",
-                "containerization",
-                "kubernetes alternatives",
-                "list of cluster management software",
-                "open-source software",
                 "container orchestration tools",
-                "container orchestration meaning",
                 "container orchestration platforms"
             ]
         },
         {
-            "group": "Helm and Charts",
-            "title": "helm charts",
+            "group": "Kubernetes Advanced",
+            "title": "kubernetes ingress",
             "intent": "informational",
             "keywords": [
-                "helm charts",
-                "helm charts kubernetes",
-                "helm charts explained",
-                "helm charts tutorial"
-            ]
-        },
-        {
-            "group": "Kubernetes Monitoring",
-            "title": "kubernetes monitoring",
-            "intent": "informational",
-            "keywords": [
-                "kubernetes monitoring",
-                "kubernetes monitoring tools",
-                "kubernetes monitoring prometheus",
-                "kubernetes monitoring in dynatrace"
+                "kubernetes ingress",
+                "kubernetes ingress controller"
             ]
         }
     ],
     "categories": {
-        "helm charts": "core",
         "what is kubernetes cluster": "core",
-        "cloud native computing foundation": "complementary",
         "container orchestration": "core",
+        "kubernetes deployments": "core",
         "kubernetes ingress": "core",
         "kubernetes pods": "core",
         "kubernetes services": "core",
         "kubernetes vs docker swarm": "core",
-        "kubernetes monitoring": "core",
-        "what is kubernetes vs docker": "core",
+        "kubernetes persistent volumes": "core",
         "kubernetes ingress controller": "core",
-        "helm charts kubernetes": "core",
-        "kubernetes monitoring tools": "core",
+        "kubernetes architecture": "core",
         "what is kubernetes and docker": "core",
-        "what is kubernetes for dummies": "core",
+        "what is kubernetes vs docker": "core",
+        "kubernetes architecture explained": "core",
+        "kubernetes architecture diagram": "core",
+        "kubernetes persistent volume claim": "core",
         "kubernetes pods vs nodes": "core",
-        "kubernetes services types": "core",
         "container orchestration tools": "core",
-        "helm charts explained": "core",
-        "helm charts tutorial": "core",
+        "kubernetes services types": "core",
         "container orchestration meaning": "core",
         "what is kubernetes and how does it work": "core",
         "what is kubernetes pod": "core",
-        "what is kubernetes and how it works": "core",
+        "kubernetes deployments vs pods": "core",
+        "kubernetes architecture interview questions": "complementary",
         "container orchestration platforms": "core",
+        "what is kubernetes container": "core",
         "kubernetes services yaml": "core",
         "kubernetes services explained": "core",
-        "cloud native computing foundation (cncf)": "complementary",
-        "what is kubernetes container": "doubtful",
-        "what is kubernetes used for": "core",
-        "cloud native computing foundation landscape": "complementary",
-        "kubernetes pods vs nodes vs containers": "complementary",
-        "kubernetes monitoring in dynatrace": "complementary",
-        "kubernetes monitoring prometheus": "complementary",
-        "kubernetes architecture": "core",
-        "kubernetes components": "core",
-        "kubernetes deployment strategies": "core",
-        "kubernetes security": "core",
-        "kubernetes cost management": "commercial",
-        "kubernetes troubleshooting": "core",
-        "kubernetes certification": "commercial",
-        "kubernetes alternatives": "core",
-        "pods": "core",
-        "nodes": "core",
-        "clusters": "core",
-        "deployments": "core",
-        "services": "core",
-        "configmaps": "core",
-        "secrets": "core",
-        "persistent volumes": "core",
-        "namespaces": "core",
-        "controllers": "core",
-        "open-source software": "complementary",
-        "containerization": "complementary",
+        "kubernetes architecture overview": "core",
+        "container": "core",
+        "pod": "core",
+        "service": "core",
+        "deployment": "core",
+        "node": "core",
+        "cluster": "core",
+        "api server": "core",
+        "etcd": "core",
+        "control plane": "core",
+        "cloud native computing foundation": "complementary",
         "docker": "complementary",
         "list of cluster management software": "complementary",
         "open service mesh": "complementary",

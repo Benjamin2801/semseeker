@@ -77,21 +77,6 @@ final class CohereContentPlannerTest extends TestCase
         self::assertSame([], $plan->rejected, 'Un mot-clé ignoré n\'est pas pour autant écarté.');
     }
 
-    public function testMergesThePagesThatTargetTheSameQuery(): void
-    {
-        $page = static fn (string $title, string ...$sections): array => ['group' => 'Comparer', 'title' => $title, 'intent' => null, 'keywords' => [],
-            'sections' => array_values(array_map(static fn (string $s): array => ['title' => $s, 'keywords' => []], $sections))];
-
-        $pages = CohereContentPlanner::withoutDuplicates([
-            $page('comparatif mutuelle senior', 'Critères'),
-            $page('tarif mutuelle senior'),
-            $page('mutuelle santé seniors comparatif', 'critère', 'Garanties'),
-        ], 'mutuelle santé senior');
-
-        self::assertSame(['comparatif mutuelle senior', 'tarif mutuelle senior'], array_column($pages, 'title'), 'Mêmes mots ajoutés, pluriel et ordre compris : même requête.');
-        self::assertSame(['Critères', 'Garanties'], array_column($pages[0]['sections'], 'title'), 'Les sections de la page fusionnée rejoignent la première, sans doublon.');
-    }
-
     public function testAFailedAssignmentIsAnAiException(): void
     {
         $this->expectException(AiException::class);

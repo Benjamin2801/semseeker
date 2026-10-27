@@ -1,7 +1,7 @@
 {
     "expression": "isolation thermique maison",
     "lang": "fr",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -16,12 +16,12 @@
     "concepts": [
         "laine de verre",
         "laine de roche",
+        "ouate de cellulose",
+        "isolant mince",
         "isolation par l'extérieur",
-        "isolation combles perdus",
-        "isolant écologique",
-        "pont thermique",
+        "isolation combles",
         "étanchéité à l'air",
-        "isolation plancher bas"
+        "pont thermique"
     ],
     "suggestions": {
         "amazon": [
@@ -62,151 +62,189 @@
         ]
     },
     "related": {
+        "amazon": [
+            [
+                0,
+                "laine de verre"
+            ],
+            [
+                1,
+                "laine de verre isolation"
+            ],
+            [
+                2,
+                "couteau laine de verre"
+            ],
+            [
+                3,
+                "laine de verre 200mm"
+            ],
+            [
+                4,
+                "laine de verre isolation comble"
+            ],
+            [
+                5,
+                "laine de verre isolation thermique"
+            ],
+            [
+                6,
+                "laine de verre 0000"
+            ],
+            [
+                7,
+                "laine de verre 100mm"
+            ],
+            [
+                8,
+                "laine de verre anti rongeur"
+            ],
+            [
+                9,
+                "laine de verre 45mm"
+            ],
+            [
+                0,
+                "laine de roche"
+            ],
+            [
+                1,
+                "laine de roche echappement"
+            ],
+            [
+                2,
+                "laine de roche isolation"
+            ],
+            [
+                3,
+                "laine de roche echappement moto"
+            ],
+            [
+                4,
+                "laine de roche cheminée"
+            ],
+            [
+                5,
+                "laine de roche isolation échappement moto"
+            ],
+            [
+                6,
+                "laine de roche moto"
+            ],
+            [
+                7,
+                "laine de roche isolation thermique"
+            ],
+            [
+                8,
+                "laine de roche en vrac"
+            ],
+            [
+                9,
+                "laine de roche hydroponie"
+            ],
+            [
+                0,
+                "ouate de cellulose"
+            ],
+            [
+                1,
+                "ouate de cellulose isolation"
+            ],
+            [
+                2,
+                "ouate de cellulose isolation thermique"
+            ],
+            [
+                3,
+                "ouate de cellulose isolation phonique"
+            ],
+            [
+                4,
+                "ouate de cellulose vrac isolation comble"
+            ],
+            [
+                5,
+                "ouate de cellulose en vrac"
+            ],
+            [
+                6,
+                "ouate de cellulose rouleau"
+            ],
+            [
+                7,
+                "ouate de cellulose isolation mur intérieur"
+            ],
+            [
+                8,
+                "ouate de cellulose en vrac isolation"
+            ],
+            [
+                9,
+                "ouate de cellulose panneau"
+            ],
+            [
+                0,
+                "isolant mince"
+            ],
+            [
+                1,
+                "isolant mince multicouche"
+            ],
+            [
+                2,
+                "isolant mince thermique"
+            ],
+            [
+                3,
+                "isolation mince"
+            ],
+            [
+                4,
+                "isolant mince sous toiture"
+            ],
+            [
+                5,
+                "isolant mince pour porte de garage"
+            ],
+            [
+                6,
+                "isolant mince thermo-réflecteur"
+            ],
+            [
+                7,
+                "isolant mince aluminium"
+            ],
+            [
+                8,
+                "isolant mince souple thermique très haute temperature"
+            ],
+            [
+                9,
+                "isolation mince multicouche"
+            ],
+            [
+                0,
+                "isolation par l'extérieur"
+            ],
+            [
+                0,
+                "isolation combles"
+            ],
+            [
+                1,
+                "isolation combles perdus"
+            ],
+            [
+                0,
+                "étanchéité à l'air"
+            ],
+            [
+                0,
+                "pont thermique"
+            ]
+        ],
         "bing": [
-            [
-                0,
-                "quel est le meilleur isolant thermique maison"
-            ],
-            [
-                1,
-                "isolation thermique maison individuelle"
-            ],
-            [
-                2,
-                "isolation thermique par l'extérieur"
-            ],
-            [
-                3,
-                "isolation thermique par l'intérieur"
-            ],
-            [
-                4,
-                "la meilleure isolation thermique"
-            ],
-            [
-                5,
-                "comment choisir son isolation thermique"
-            ],
-            [
-                6,
-                "qu'est ce qu'une isolation thermique"
-            ],
-            [
-                7,
-                "exemple isolation thermique par l'extérieur"
-            ],
-            [
-                8,
-                "meilleure isolation thermique extérieure"
-            ],
-            [
-                9,
-                "définition de isolation thermique"
-            ],
-            [
-                10,
-                "isolation thermique par l'extérieur principe"
-            ],
-            [
-                11,
-                "isolation thermique intérieure appartement"
-            ],
-            [
-                0,
-                "matériaux pour isolation thermique"
-            ],
-            [
-                1,
-                "la meilleure isolation thermique"
-            ],
-            [
-                2,
-                "contrôle isolation thermique maison"
-            ],
-            [
-                3,
-                "isolation thermique par l'extérieur"
-            ],
-            [
-                4,
-                "isolation thermique intérieure appartement"
-            ],
-            [
-                5,
-                "isolation thermique par l'extérieure"
-            ],
-            [
-                6,
-                "isolation thermique par l'intérieur"
-            ],
-            [
-                7,
-                "isolation thermique c'est quoi"
-            ],
-            [
-                8,
-                "isolation thermique des bâtiments"
-            ],
-            [
-                9,
-                "meilleure isolation thermique extérieure"
-            ],
-            [
-                10,
-                "isolation thermique par l'extérieur matériaux"
-            ],
-            [
-                11,
-                "isolation thermique par l'extérieur principe"
-            ],
-            [
-                0,
-                "isolation thermique maison"
-            ],
-            [
-                1,
-                "isolation thermique maison individuelle"
-            ],
-            [
-                2,
-                "contrôle isolation thermique maison"
-            ],
-            [
-                3,
-                "isolation thermique par intérieur"
-            ],
-            [
-                4,
-                "la meilleure isolation thermique"
-            ],
-            [
-                5,
-                "isolation thermique par extérieur"
-            ],
-            [
-                6,
-                "isolation thermique c'est quoi"
-            ],
-            [
-                7,
-                "qu'est ce qu'une isolation thermique"
-            ],
-            [
-                8,
-                "isolation thermique par l'extérieure"
-            ],
-            [
-                9,
-                "isolation thermique par l'extérieur"
-            ],
-            [
-                10,
-                "isolation thermique par l'intérieur"
-            ],
-            [
-                11,
-                "définition de isolation thermique"
-            ],
             [
                 0,
                 "laine de verre"
@@ -305,6 +343,102 @@
             ],
             [
                 0,
+                "ouate de cellulose"
+            ],
+            [
+                1,
+                "ouate de cellulose soufflée"
+            ],
+            [
+                2,
+                "ouate de cellulose panneau"
+            ],
+            [
+                3,
+                "ouate de cellulose soprema"
+            ],
+            [
+                4,
+                "ouate de cellulose en vrac"
+            ],
+            [
+                5,
+                "ouate de cellulose igloo"
+            ],
+            [
+                6,
+                "ouate de cellulose prix"
+            ],
+            [
+                7,
+                "ouate de cellulose insufflée"
+            ],
+            [
+                8,
+                "ouate de cellulose isocell"
+            ],
+            [
+                9,
+                "ouate de cellulose univercell"
+            ],
+            [
+                10,
+                "ouate de cellulose cristal"
+            ],
+            [
+                11,
+                "ouate de cellulose fiche technique"
+            ],
+            [
+                0,
+                "isolant mince"
+            ],
+            [
+                1,
+                "isolant mince multicouche"
+            ],
+            [
+                2,
+                "isolant mince sous toiture"
+            ],
+            [
+                3,
+                "isolant mince mur intérieur"
+            ],
+            [
+                4,
+                "isolant mince actis"
+            ],
+            [
+                5,
+                "isolant mince brico dépôt"
+            ],
+            [
+                6,
+                "isolant mince castorama"
+            ],
+            [
+                7,
+                "isolant mince leroy merlin"
+            ],
+            [
+                8,
+                "isolant mince thermo réflecteur"
+            ],
+            [
+                9,
+                "isolant mince rigide"
+            ],
+            [
+                10,
+                "isolant mince multicouche brico dépôt"
+            ],
+            [
+                11,
+                "isolant mince réflecteur"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -357,107 +491,47 @@
             ],
             [
                 1,
+                "isolation combles"
+            ],
+            [
+                2,
+                "isolation combles 1 euro"
+            ],
+            [
+                3,
+                "isolation combles aménageables"
+            ],
+            [
+                4,
+                "isolation combles ouate de cellulose"
+            ],
+            [
+                5,
                 "isolation combles perdus 1 euro"
             ],
             [
-                2,
-                "isolation combles perdus prix m2"
+                6,
+                "isolation combles soufflage"
             ],
             [
-                3,
+                7,
+                "isolation combles prix"
+            ],
+            [
+                8,
+                "isolation combles rge"
+            ],
+            [
+                9,
                 "isolation combles perdus que choisir"
             ],
             [
-                4,
+                10,
+                "isolation combles perdus prix m2"
+            ],
+            [
+                11,
                 "isolation combles perdus ouate de cellulose"
-            ],
-            [
-                5,
-                "isolation combles perdus par soufflage"
-            ],
-            [
-                6,
-                "isolation combles perdus laine de verre"
-            ],
-            [
-                7,
-                "isolation combles perdus isover"
-            ],
-            [
-                8,
-                "isolation combles perdus leroy merlin"
-            ],
-            [
-                9,
-                "isolation combles perdus fibre de bois"
-            ],
-            [
-                10,
-                "isolation combles perdus alsace"
-            ],
-            [
-                11,
-                "isolation combles perdus laine de roche"
-            ],
-            [
-                0,
-                "isolant écologique"
-            ],
-            [
-                1,
-                "isolant écologique mur"
-            ],
-            [
-                2,
-                "isolant écologique sol"
-            ],
-            [
-                0,
-                "pont thermique"
-            ],
-            [
-                1,
-                "pont thermique définition"
-            ],
-            [
-                2,
-                "pont thermique isolation"
-            ],
-            [
-                3,
-                "pont thermique c'est quoi"
-            ],
-            [
-                4,
-                "pont thermique fenetre"
-            ],
-            [
-                5,
-                "pont thermique dpe"
-            ],
-            [
-                6,
-                "pont thermique paroi"
-            ],
-            [
-                7,
-                "pont thermique maison"
-            ],
-            [
-                8,
-                "pont thermique isolation mur"
-            ],
-            [
-                9,
-                "pont thermique définition toiture"
-            ],
-            [
-                10,
-                "pont thermique définition mur"
-            ],
-            [
-                11,
-                "pont thermique définition maison"
             ],
             [
                 0,
@@ -509,58 +583,318 @@
             ],
             [
                 0,
-                "isolation plancher bas"
+                "pont thermique"
             ],
             [
                 1,
-                "isolation plancher bas sur sous sol"
+                "pont thermique définition"
             ],
             [
                 2,
-                "isolation plancher bas sur vide sanitaire"
+                "pont thermique isolation"
             ],
             [
                 3,
-                "isolation plancher bas c'est quoi"
+                "pont thermique c'est quoi"
             ],
             [
                 4,
-                "isolation plancher bas polystyrène"
+                "pont thermique fenetre"
             ],
             [
                 5,
-                "isolation plancher bas sur terre plein"
+                "pont thermique dpe"
             ],
             [
                 6,
-                "isolation plancher bas mpr"
+                "pont thermique paroi"
             ],
             [
                 7,
-                "isolation plancher bas tms"
+                "pont thermique maison"
             ],
             [
                 8,
-                "isolation plancher bas rge"
+                "pont thermique isolation mur"
             ],
             [
                 9,
-                "isolation plancher bas aide"
+                "pont thermique définition toiture"
             ],
             [
                 10,
-                "isolation plancher bas knauf"
+                "pont thermique définition mur"
             ],
             [
                 11,
-                "isolation plancher bas garage"
+                "pont thermique définition maison"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "laine de verre"
+            ],
+            [
+                1,
+                "laine de verre 100mm"
+            ],
+            [
+                2,
+                "laine de verre 200 mm"
+            ],
+            [
+                3,
+                "laine de verre 300 mm"
+            ],
+            [
+                4,
+                "laine de verre 45mm"
+            ],
+            [
+                5,
+                "laine de verre gr32"
+            ],
+            [
+                6,
+                "laine de verre 120 mm"
+            ],
+            [
+                7,
+                "laine de verre 140 mm"
+            ],
+            [
+                0,
+                "laine de roche"
+            ],
+            [
+                1,
+                "laine de roche 200mm"
+            ],
+            [
+                2,
+                "laine de roche rockwool"
+            ],
+            [
+                3,
+                "laine de roche 100 mm"
+            ],
+            [
+                4,
+                "laine de roche 40 mm"
+            ],
+            [
+                5,
+                "laine de roche 140 mm"
+            ],
+            [
+                6,
+                "laine de roche soufflée"
+            ],
+            [
+                7,
+                "laine de roche 45mm"
+            ],
+            [
+                0,
+                "ouate de cellulose"
+            ],
+            [
+                1,
+                "ouate de cellulose soufflée"
+            ],
+            [
+                2,
+                "ouate de cellulose panneau"
+            ],
+            [
+                3,
+                "ouate de cellulose soprema"
+            ],
+            [
+                4,
+                "ouate de cellulose en vrac"
+            ],
+            [
+                5,
+                "ouate de cellulose igloo"
+            ],
+            [
+                6,
+                "ouate de cellulose prix"
+            ],
+            [
+                7,
+                "ouate de cellulose insufflée"
+            ],
+            [
+                0,
+                "isolant mince"
+            ],
+            [
+                1,
+                "isolant mince multicouche"
+            ],
+            [
+                2,
+                "isolant mince sous toiture"
+            ],
+            [
+                3,
+                "isolant mince mur intérieur"
+            ],
+            [
+                4,
+                "isolant mince actis"
+            ],
+            [
+                5,
+                "isolant mince brico dépôt"
+            ],
+            [
+                6,
+                "isolant mince castorama"
+            ],
+            [
+                7,
+                "isolant mince leroy merlin"
+            ],
+            [
+                0,
+                "isolation par l'extérieur"
+            ],
+            [
+                1,
+                "isolation par l'extérieur prix"
+            ],
+            [
+                2,
+                "isolation par l'extérieur matériaux"
+            ],
+            [
+                3,
+                "isolation par l'extérieur aide"
+            ],
+            [
+                4,
+                "isolation par l'extérieur gouv"
+            ],
+            [
+                5,
+                "isolation par l'extérieur entreprise"
+            ],
+            [
+                6,
+                "isolation par l'extérieur prix m2"
+            ],
+            [
+                7,
+                "isolation par l'extérieur aide de l'état"
+            ],
+            [
+                0,
+                "isolation combles perdus"
+            ],
+            [
+                1,
+                "isolation combles"
+            ],
+            [
+                2,
+                "isolation combles 1 euro"
+            ],
+            [
+                3,
+                "isolation combles aménageables"
+            ],
+            [
+                4,
+                "isolation combles ouate de cellulose"
+            ],
+            [
+                5,
+                "isolation combles perdus 1 euro"
+            ],
+            [
+                6,
+                "isolation combles soufflage"
+            ],
+            [
+                7,
+                "isolation combles prix"
+            ],
+            [
+                0,
+                "étanchéité à l'air"
+            ],
+            [
+                1,
+                "étanchéité à l'air des bâtiments"
+            ],
+            [
+                2,
+                "étanchéité à l'air liquide"
+            ],
+            [
+                3,
+                "étanchéité à l'air bardage"
+            ],
+            [
+                4,
+                "étanchéité à l'air q4"
+            ],
+            [
+                5,
+                "étanchéité à l'air porte"
+            ],
+            [
+                6,
+                "étanchéité à l'air re2020"
+            ],
+            [
+                7,
+                "étanchéité à l'air maison"
+            ],
+            [
+                0,
+                "pont thermique"
+            ],
+            [
+                1,
+                "pont thermique définition"
+            ],
+            [
+                2,
+                "pont thermique isolation"
+            ],
+            [
+                3,
+                "pont thermique c'est quoi"
+            ],
+            [
+                4,
+                "pont thermique fenetre"
+            ],
+            [
+                5,
+                "pont thermique dpe"
+            ],
+            [
+                6,
+                "pont thermique paroi"
+            ],
+            [
+                7,
+                "pont thermique maison"
+            ]
+        ],
+        "ebay": [
+            [
+                0,
+                "laine de verre"
             ]
         ],
         "google": [
-            [
-                0,
-                "isolation thermique pour maison"
-            ],
             [
                 0,
                 "laine de verre"
@@ -643,6 +977,86 @@
             ],
             [
                 0,
+                "ouate de cellulose"
+            ],
+            [
+                1,
+                "ouate de cellulose soufflée"
+            ],
+            [
+                2,
+                "ouate de cellulose panneau"
+            ],
+            [
+                3,
+                "ouate de cellulose isolation"
+            ],
+            [
+                4,
+                "ouate de cellulose vrac"
+            ],
+            [
+                5,
+                "ouate de cellulose danger"
+            ],
+            [
+                6,
+                "ouate de cellulose prix m2"
+            ],
+            [
+                7,
+                "ouate de cellulose rouleau"
+            ],
+            [
+                8,
+                "ouate de cellulose leroy merlin"
+            ],
+            [
+                9,
+                "ouate de cellulose soprema"
+            ],
+            [
+                0,
+                "isolant mince"
+            ],
+            [
+                1,
+                "isolant mince multicouche"
+            ],
+            [
+                2,
+                "isolant mince sous toiture"
+            ],
+            [
+                3,
+                "isolant mince mur"
+            ],
+            [
+                4,
+                "isolant mince brico dépôt"
+            ],
+            [
+                5,
+                "isolant mince mur intérieur"
+            ],
+            [
+                6,
+                "isolant mince leroy merlin"
+            ],
+            [
+                7,
+                "isolant mince toiture"
+            ],
+            [
+                8,
+                "isolant mince multicouche coefficient thermique"
+            ],
+            [
+                9,
+                "isolant mince actis"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -683,123 +1097,43 @@
             ],
             [
                 0,
-                "isolation combles perdus"
+                "isolation combles"
             ],
             [
                 1,
+                "isolation combles 1€"
+            ],
+            [
+                2,
+                "isolation combles aménagés"
+            ],
+            [
+                3,
+                "isolation combles soufflage"
+            ],
+            [
+                4,
+                "isolation combles aménageables"
+            ],
+            [
+                5,
+                "isolation combles 1 euro conditions"
+            ],
+            [
+                6,
+                "isolation combles prix"
+            ],
+            [
+                7,
+                "isolation combles leroy merlin"
+            ],
+            [
+                8,
                 "isolation combles perdus par soufflage"
             ],
             [
-                2,
-                "isolation combles perdus ouate de cellulose"
-            ],
-            [
-                3,
-                "isolation combles perdus 1 euro"
-            ],
-            [
-                4,
-                "isolation combles perdus leroy merlin"
-            ],
-            [
-                5,
-                "isolation combles perdus contre la chaleur"
-            ],
-            [
-                6,
-                "isolation combles perdus prix m2"
-            ],
-            [
-                7,
-                "isolation combles perdus laine de bois"
-            ],
-            [
-                8,
-                "isolation combles perdus laine de verre"
-            ],
-            [
                 9,
-                "isolation combles perdus fibre de bois"
-            ],
-            [
-                0,
-                "isolant écologique"
-            ],
-            [
-                1,
-                "isolant écologique le moins cher"
-            ],
-            [
-                2,
-                "isolant écologique performant"
-            ],
-            [
-                3,
-                "isolant écologique sous chape"
-            ],
-            [
-                4,
-                "isolation écologique mur intérieur"
-            ],
-            [
-                5,
-                "isolation écologique combles"
-            ],
-            [
-                6,
-                "isolation écologique toiture"
-            ],
-            [
-                7,
-                "isolant ecologique pas cher"
-            ],
-            [
-                8,
-                "isolant ecologique mur"
-            ],
-            [
-                9,
-                "isolation écologique par l extérieur"
-            ],
-            [
-                0,
-                "pont thermique"
-            ],
-            [
-                1,
-                "pont thermique def"
-            ],
-            [
-                2,
-                "pont thermique fenetre"
-            ],
-            [
-                3,
-                "pont thermique maison"
-            ],
-            [
-                4,
-                "pont thermique c'est quoi"
-            ],
-            [
-                5,
-                "pont thermique moisissure"
-            ],
-            [
-                6,
-                "pont thermique isolation"
-            ],
-            [
-                7,
-                "pont thermique condensation"
-            ],
-            [
-                8,
-                "pont thermique dpe"
-            ],
-            [
-                9,
-                "pont thermique balcon rénovation"
+                "isolation combles aménageables épaisseur"
             ],
             [
                 0,
@@ -843,385 +1177,49 @@
             ],
             [
                 0,
-                "isolation plancher bas"
-            ],
-            [
-                1,
-                "isolation plancher bas maison ancienne"
-            ],
-            [
-                2,
-                "isolation plancher bas sous-sol"
-            ],
-            [
-                3,
-                "isolation plancher bas laine de roche"
-            ],
-            [
-                4,
-                "isolation plancher bas prix m2"
-            ],
-            [
-                5,
-                "isolation plancher bas vide sanitaire"
-            ],
-            [
-                6,
-                "isolation plancher bas leroy merlin"
-            ],
-            [
-                7,
-                "isolation plancher bas polystyrène"
-            ],
-            [
-                8,
-                "isolation plancher bas rge"
-            ],
-            [
-                9,
-                "isolation plancher bas par le dessus"
-            ]
-        ],
-        "amazon": [
-            [
-                0,
-                "laine de verre"
-            ],
-            [
-                1,
-                "laine de verre isolation"
-            ],
-            [
-                2,
-                "couteau laine de verre"
-            ],
-            [
-                3,
-                "laine de verre 200mm"
-            ],
-            [
-                4,
-                "laine de verre isolation comble"
-            ],
-            [
-                5,
-                "laine de verre isolation thermique"
-            ],
-            [
-                6,
-                "laine de verre 0000"
-            ],
-            [
-                7,
-                "laine de verre 100mm"
-            ],
-            [
-                8,
-                "laine de verre anti rongeur"
-            ],
-            [
-                9,
-                "laine de verre 45mm"
-            ],
-            [
-                0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche echappement"
-            ],
-            [
-                2,
-                "laine de roche isolation"
-            ],
-            [
-                3,
-                "laine de roche echappement moto"
-            ],
-            [
-                4,
-                "laine de roche cheminée"
-            ],
-            [
-                5,
-                "laine de roche isolation échappement moto"
-            ],
-            [
-                6,
-                "laine de roche moto"
-            ],
-            [
-                7,
-                "laine de roche isolation thermique"
-            ],
-            [
-                8,
-                "laine de roche en vrac"
-            ],
-            [
-                9,
-                "laine de roche hydroponie"
-            ],
-            [
-                0,
-                "isolation par l'extérieur"
-            ],
-            [
-                0,
-                "isolation combles perdus"
-            ],
-            [
-                0,
-                "pont thermique"
-            ],
-            [
-                0,
-                "étanchéité à l'air"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "laine de verre"
-            ],
-            [
-                1,
-                "laine de verre 100mm"
-            ],
-            [
-                2,
-                "laine de verre 200 mm"
-            ],
-            [
-                3,
-                "laine de verre 300 mm"
-            ],
-            [
-                4,
-                "laine de verre 45mm"
-            ],
-            [
-                5,
-                "laine de verre gr32"
-            ],
-            [
-                6,
-                "laine de verre 120 mm"
-            ],
-            [
-                7,
-                "laine de verre 140 mm"
-            ],
-            [
-                0,
-                "laine de roche"
-            ],
-            [
-                1,
-                "laine de roche 200mm"
-            ],
-            [
-                2,
-                "laine de roche rockwool"
-            ],
-            [
-                3,
-                "laine de roche 100 mm"
-            ],
-            [
-                4,
-                "laine de roche 40 mm"
-            ],
-            [
-                5,
-                "laine de roche 140 mm"
-            ],
-            [
-                6,
-                "laine de roche 45mm"
-            ],
-            [
-                7,
-                "laine de roche soufflée"
-            ],
-            [
-                0,
-                "isolation par l'extérieur"
-            ],
-            [
-                1,
-                "isolation par l'extérieur prix"
-            ],
-            [
-                2,
-                "isolation par l'extérieur matériaux"
-            ],
-            [
-                3,
-                "isolation par l'extérieur aide"
-            ],
-            [
-                4,
-                "isolation par l'extérieur gouv"
-            ],
-            [
-                5,
-                "isolation par l'extérieur entreprise"
-            ],
-            [
-                6,
-                "isolation par l'extérieur prix m2"
-            ],
-            [
-                7,
-                "isolation par l'extérieur aide de l'état"
-            ],
-            [
-                0,
-                "isolation combles perdus"
-            ],
-            [
-                1,
-                "isolation combles perdus 1 euro"
-            ],
-            [
-                2,
-                "isolation combles perdus prix m2"
-            ],
-            [
-                3,
-                "isolation combles perdus que choisir"
-            ],
-            [
-                4,
-                "isolation combles perdus ouate de cellulose"
-            ],
-            [
-                5,
-                "isolation combles perdus par soufflage"
-            ],
-            [
-                6,
-                "isolation combles perdus isover"
-            ],
-            [
-                7,
-                "isolation combles perdus laine de verre"
-            ],
-            [
-                0,
-                "isolant écologique"
-            ],
-            [
-                1,
-                "isolant écologique mur"
-            ],
-            [
-                2,
-                "isolant écologique sol"
-            ],
-            [
-                0,
                 "pont thermique"
             ],
             [
                 1,
-                "pont thermique définition"
+                "pont thermique def"
             ],
             [
                 2,
-                "pont thermique isolation"
-            ],
-            [
-                3,
-                "pont thermique c'est quoi"
-            ],
-            [
-                4,
                 "pont thermique fenetre"
             ],
             [
-                5,
-                "pont thermique dpe"
-            ],
-            [
-                6,
-                "pont thermique paroi"
-            ],
-            [
-                7,
+                3,
                 "pont thermique maison"
             ],
             [
-                0,
-                "étanchéité à l'air"
-            ],
-            [
-                1,
-                "étanchéité à l'air des bâtiments"
-            ],
-            [
-                2,
-                "étanchéité à l'air liquide"
-            ],
-            [
-                3,
-                "étanchéité à l'air bardage"
-            ],
-            [
                 4,
-                "étanchéité à l'air q4"
+                "pont thermique c'est quoi"
             ],
             [
                 5,
-                "étanchéité à l'air porte"
+                "pont thermique moisissure"
             ],
             [
                 6,
-                "étanchéité à l'air re2020"
+                "pont thermique isolation"
             ],
             [
                 7,
-                "étanchéité à l'air maison"
+                "pont thermique condensation"
             ],
             [
-                0,
-                "isolation plancher bas"
+                8,
+                "pont thermique dpe"
             ],
             [
-                1,
-                "isolation plancher bas sur sous sol"
-            ],
-            [
-                2,
-                "isolation plancher bas sur vide sanitaire"
-            ],
-            [
-                3,
-                "isolation plancher bas c'est quoi"
-            ],
-            [
-                4,
-                "isolation plancher bas polystyrène"
-            ],
-            [
-                5,
-                "isolation plancher bas sur terre plein"
-            ],
-            [
-                6,
-                "isolation plancher bas mpr"
-            ],
-            [
-                7,
-                "isolation plancher bas tms"
+                9,
+                "pont thermique balcon rénovation"
             ]
         ],
-        "ebay": [
+        "indeed": [
             [
                 0,
-                "laine de verre"
+                "isolation combles"
             ]
         ],
         "yahoo": [
@@ -1307,6 +1305,86 @@
             ],
             [
                 0,
+                "ouate de céllulose"
+            ],
+            [
+                1,
+                "ouate de cellulose isolation"
+            ],
+            [
+                2,
+                "ouate de cellulose prix"
+            ],
+            [
+                3,
+                "ouate de cellulose danger"
+            ],
+            [
+                4,
+                "ouate de cellulose leroy merlin"
+            ],
+            [
+                5,
+                "ouate de cellulose en panneaux"
+            ],
+            [
+                6,
+                "ouate de cellulose univercell"
+            ],
+            [
+                7,
+                "ouate de cellulose inconvénients"
+            ],
+            [
+                8,
+                "ouate de cellulose igloo"
+            ],
+            [
+                9,
+                "ouate de cellulose isocell"
+            ],
+            [
+                0,
+                "isolant mince"
+            ],
+            [
+                1,
+                "isolant mince mur"
+            ],
+            [
+                2,
+                "isolant mince thermo-réflecteur"
+            ],
+            [
+                3,
+                "isolant mince multicouche"
+            ],
+            [
+                4,
+                "isolant mince toiture"
+            ],
+            [
+                5,
+                "isolant mince leroy merlin"
+            ],
+            [
+                6,
+                "isolant mince castorama"
+            ],
+            [
+                7,
+                "isolant mince sol"
+            ],
+            [
+                8,
+                "isolant mince actis"
+            ],
+            [
+                9,
+                "isolant mince rigide"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -1347,39 +1425,71 @@
             ],
             [
                 0,
+                "isolation combles"
+            ],
+            [
+                1,
                 "isolation combles perdus"
             ],
             [
-                1,
-                "isolation combles perdus prix m2"
-            ],
-            [
                 2,
-                "isolation combles perdus devis"
+                "isolation combles aménageables"
             ],
             [
                 3,
-                "isolation combles perdus ouate de cellulose"
+                "isolation combles 1 euro"
             ],
             [
                 4,
-                "isolation combles perdus toulouse"
+                "isolation combles par soufflage"
             ],
             [
                 5,
-                "isolation combles perdus leroy merlin"
+                "isolation combles – prix et aide 2026"
             ],
             [
                 6,
-                "isolation combles perdus par soufflage"
+                "isolation combles ouate de cellulose"
+            ],
+            [
+                7,
+                "isolation combles 1€"
+            ],
+            [
+                8,
+                "isolation combles merlevenez"
+            ],
+            [
+                9,
+                "isolation combles leroy merlin"
             ],
             [
                 0,
-                "isolant écologique"
+                "étanchéité à l'air"
             ],
             [
                 1,
-                "isolant thermique écologique"
+                "étanchéité à l'air des bâtiments"
+            ],
+            [
+                2,
+                "test étanchéité à l'air"
+            ],
+            [
+                3,
+                "membrane d étanchéité à l'air"
+            ],
+            [
+                4,
+                "membrane étanchéité à l'air"
+            ],
+            [
+                5,
+                "comment poser une membrane d étanchéité à l'aire"
+            ],
+            [
+                6,
+                "test étanchéité à l'air prix"
             ],
             [
                 0,
@@ -1420,42 +1530,6 @@
             [
                 9,
                 "pont thermique schéma"
-            ],
-            [
-                0,
-                "étanchéité à l'air"
-            ],
-            [
-                1,
-                "étanchéité à l'air des bâtiments"
-            ],
-            [
-                2,
-                "test étanchéité à l'air"
-            ],
-            [
-                3,
-                "membrane d étanchéité à l'air"
-            ],
-            [
-                4,
-                "membrane étanchéité à l'air"
-            ],
-            [
-                5,
-                "comment poser une membrane d étanchéité à l'aire"
-            ],
-            [
-                6,
-                "test étanchéité à l'air prix"
-            ],
-            [
-                0,
-                "isolation plancher bas"
-            ],
-            [
-                1,
-                "isolation plancher bas sur sous sol"
             ]
         ],
         "youtube": [
@@ -1541,6 +1615,86 @@
             ],
             [
                 0,
+                "ouate de cellulose"
+            ],
+            [
+                1,
+                "ouate de cellulose à la main"
+            ],
+            [
+                2,
+                "ouate de cellulose mur"
+            ],
+            [
+                3,
+                "ouate de cellulose panneau"
+            ],
+            [
+                4,
+                "ouate de cellulose projetée humide"
+            ],
+            [
+                5,
+                "ouate de cellulose insufflée"
+            ],
+            [
+                6,
+                "ouate de cellulose sans machine"
+            ],
+            [
+                7,
+                "ouate de cellulose soufflée"
+            ],
+            [
+                8,
+                "ouate de cellulose feu"
+            ],
+            [
+                9,
+                "ouate de cellulose plafond"
+            ],
+            [
+                0,
+                "isolant mince sous toiture"
+            ],
+            [
+                1,
+                "isolant mince"
+            ],
+            [
+                2,
+                "isolant mince mur intérieur"
+            ],
+            [
+                3,
+                "isolant mince thermo-réflecteur"
+            ],
+            [
+                4,
+                "isolant mince sol"
+            ],
+            [
+                5,
+                "isolant mince plafond"
+            ],
+            [
+                6,
+                "isolant mince multicouche"
+            ],
+            [
+                7,
+                "isolant mince soprema"
+            ],
+            [
+                8,
+                "isolant mince mur"
+            ],
+            [
+                9,
+                "isolant mince garage"
+            ],
+            [
+                0,
                 "isolation par l'extérieur"
             ],
             [
@@ -1581,47 +1735,67 @@
             ],
             [
                 0,
-                "isolation combles perdus"
+                "isolation combles"
             ],
             [
                 1,
-                "isolation combles perdus laine de roche"
+                "isolation combles perdus"
             ],
             [
                 2,
-                "isolation combles perdus ouate de cellulose"
+                "isolation combles aménageables"
             ],
             [
                 3,
-                "isolation combles perdus entre solives"
+                "isolation combles laine de verre"
             ],
             [
                 4,
-                "isolation combles perdus soufflage"
+                "isolation combles laine de bois"
             ],
             [
                 5,
-                "isolation combles perdus laine de bois"
+                "isolation combles polyuréthane"
             ],
             [
                 6,
-                "isoler combles perdus soi-même"
+                "isolation combles perdus laine de roche"
             ],
             [
                 7,
-                "isolation comble perdu rouleau"
+                "isolation combles soufflage"
             ],
             [
                 8,
-                "isolation comble perdu ouate cellulose"
+                "isolation combles aménagés"
             ],
             [
                 9,
-                "isoler ses combles perdus soi meme"
+                "isolation combles laine de roche"
             ],
             [
                 0,
-                "isolation écologique"
+                "étanchéité à l'air"
+            ],
+            [
+                1,
+                "etancheite a l air d une maison"
+            ],
+            [
+                2,
+                "test étanchéité à l'air"
+            ],
+            [
+                3,
+                "membrane d'étanchéité à l'air"
+            ],
+            [
+                4,
+                "pose membrane etancheite a l air plafond"
+            ],
+            [
+                5,
+                "pose de membrane d'étanchéité à l'air"
             ],
             [
                 0,
@@ -1662,50 +1836,6 @@
             [
                 9,
                 "pont thermique plafond"
-            ],
-            [
-                0,
-                "étanchéité à l'air"
-            ],
-            [
-                1,
-                "etancheite a l air d une maison"
-            ],
-            [
-                2,
-                "test étanchéité à l'air"
-            ],
-            [
-                3,
-                "membrane d'étanchéité à l'air"
-            ],
-            [
-                4,
-                "pose membrane etancheite a l air plafond"
-            ],
-            [
-                5,
-                "pose de membrane d'étanchéité à l'air"
-            ],
-            [
-                0,
-                "isolation plancher bas"
-            ],
-            [
-                1,
-                "isolation plancher bas maison ancienne"
-            ],
-            [
-                2,
-                "isolation plancher bas garage"
-            ],
-            [
-                3,
-                "isolation plancher bas bois"
-            ],
-            [
-                4,
-                "isolation plancher bas polystyrène"
             ]
         ]
     },
@@ -1713,28 +1843,28 @@
         "articles": [
             {
                 "title": "Isolation thermique",
-                "views": 441,
+                "views": 433,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.75
             },
             {
                 "title": "Maison",
-                "views": 2074,
+                "views": 2091,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.25
             },
             {
                 "title": "Laine de roche",
-                "views": 1314,
+                "views": 1280,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
             },
             {
                 "title": "Laine de verre",
-                "views": 1027,
+                "views": 1010,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1753,25 +1883,22 @@
             "intent": "commercial",
             "keywords": [
                 "laine de verre",
-                "isolation thermique maison individuelle",
-                "laine de roche ou laine de verre",
-                "isolation plancher bas maison ancienne",
-                "isolation plancher bas polystyrène",
-                "isolation thermique des bâtiments",
-                "aides financières isolation",
-                "déphasage thermique",
-                "isolation multicouche",
-                "lamda isolant",
-                "mousse polyuréthane",
-                "performance isolation thermique",
-                "polystyrène expansé",
-                "problèmes isolation thermique",
+                "étanchéité à l'air",
+                "isolation thermique du bâtiment",
                 "réglementation thermique",
-                "résistance thermique",
-                "épaisseur isolant",
-                "étapes isolation thermique",
-                "laine de verre 100mm",
-                "laine de verre 200mm"
+                "laine de roche ou laine de verre",
+                "laine de verre 100mm"
+            ]
+        },
+        {
+            "group": "Matériaux d'isolation",
+            "title": "ouate de cellulose",
+            "intent": "commercial",
+            "keywords": [
+                "ouate de cellulose",
+                "ouate de cellulose panneau",
+                "ouate de cellulose soufflée",
+                "ouate de cellulose en vrac"
             ]
         },
         {
@@ -1780,138 +1907,93 @@
             "intent": "commercial",
             "keywords": [
                 "laine de roche",
-                "laine minérale",
                 "laine de roche rockwool",
-                "laine de roche soufflée",
-                "laine de roche 200mm"
+                "laine de roche soufflée"
             ]
         },
         {
-            "group": "Matériaux d'isolation",
-            "title": "isolant écologique",
+            "group": "Techniques d'isolation",
+            "title": "isolation combles",
             "intent": "informational",
             "keywords": [
-                "isolant écologique",
-                "fibre de bois",
-                "isolant réfléchissant",
-                "types d'isolants thermiques",
-                "isolation combles perdus ouate de cellulose"
-            ]
-        },
-        {
-            "group": "Ponts thermiques",
-            "title": "pont thermique",
-            "intent": "informational",
-            "keywords": [
-                "pont thermique",
-                "pont thermique dpe",
-                "pont thermique maison",
-                "transfert thermique",
-                "pont thermique fenetre",
-                "pont thermique isolation",
-                "pont thermique définition",
-                "pont thermique moisissure"
-            ]
-        },
-        {
-            "group": "Isolation des combles",
-            "title": "isolation combles perdus",
-            "intent": "informational",
-            "keywords": [
-                "isolation combles perdus",
-                "isolation plancher bas",
-                "isolation plancher bas sur sous sol",
-                "isolation combles perdus prix m2",
-                "isolation combles perdus 1 euro",
-                "isolation combles perdus par soufflage"
-            ]
-        },
-        {
-            "group": "Étanchéité à l'air",
-            "title": "étanchéité à l'air",
-            "intent": "informational",
-            "keywords": [
-                "étanchéité à l'air",
-                "étanchéité à l'air des bâtiments",
-                "etancheite a l air d une maison",
-                "diagnostic de performance énergétique collectif",
+                "isolation combles",
                 "habitat passif",
-                "performance énergétique",
-                "test étanchéité à l'air",
-                "membrane d étanchéité à l'air"
+                "isolation combles perdus",
+                "isolation combles aménageables"
             ]
         },
         {
-            "group": "Isolation par l'extérieur",
+            "group": "Techniques d'isolation",
             "title": "isolation par l'extérieur",
             "intent": "commercial",
             "keywords": [
                 "isolation par l'extérieur",
                 "enduit acrylique",
-                "isolation par l'extérieur prix",
-                "coût isolation thermique maison"
+                "isolation par l'extérieur prix"
+            ]
+        },
+        {
+            "group": "Isolation mince",
+            "title": "isolant mince",
+            "intent": "commercial",
+            "keywords": [
+                "isolant mince",
+                "isolation multicouche",
+                "isolant mince multicouche",
+                "facteur 4",
+                "isolant mince sous toiture",
+                "isolant mince thermo-réflecteur",
+                "isolant mince mur intérieur"
+            ]
+        },
+        {
+            "group": "Problèmes et solutions",
+            "title": "pont thermique",
+            "intent": "informational",
+            "keywords": [
+                "pont thermique",
+                "transfert thermique",
+                "pont thermique fenetre",
+                "pont thermique isolation",
+                "pont thermique dpe"
             ]
         }
     ],
     "categories": {
+        "isolation combles": "core",
         "laine de verre": "core",
-        "isolation combles perdus": "core",
         "isolation par l'extérieur": "core",
         "laine de roche": "core",
+        "ouate de cellulose": "core",
         "pont thermique": "core",
-        "étanchéité à l'air": "core",
-        "isolation plancher bas": "complementary",
-        "isolation thermique maison individuelle": "core",
-        "isolant écologique": "core",
-        "isolation combles perdus ouate de cellulose": "core",
+        "étanchéité à l'air": "complementary",
+        "isolant mince": "core",
+        "isolant mince multicouche": "core",
+        "isolation combles perdus": "core",
+        "isolant mince sous toiture": "core",
+        "isolation thermique maison individuelle": "doubtful",
+        "ouate de cellulose panneau": "core",
+        "isolation combles aménageables": "core",
         "laine de roche rockwool": "core",
         "pont thermique fenetre": "core",
         "isolation par l'extérieur prix": "commercial",
+        "ouate de cellulose isolation": "doubtful",
         "laine de roche ou laine de verre": "complementary",
-        "isolation combles perdus prix m2": "commercial",
-        "laine de roche soufflée": "core",
-        "laine de verre 100mm": "core",
-        "pont thermique isolation": "core",
-        "isolation combles perdus par soufflage": "complementary",
-        "isolation plancher bas sur sous sol": "complementary",
-        "pont thermique définition": "complementary",
-        "étanchéité à l'air des bâtiments": "complementary",
-        "isolation plancher bas maison ancienne": "complementary",
+        "laine de roche echappement": "doubtful",
+        "laine de roche soufflée": "complementary",
+        "isolant mince thermo-réflecteur": "complementary",
+        "ouate de cellulose soufflée": "complementary",
+        "isolant mince mur intérieur": "complementary",
+        "laine de verre 100mm": "complementary",
+        "pont thermique isolation": "complementary",
         "pont thermique dpe": "complementary",
-        "pont thermique maison": "complementary",
-        "laine de roche 200mm": "complementary",
-        "etancheite a l air d une maison": "complementary",
-        "isolation combles perdus 1 euro": "commercial",
-        "membrane d étanchéité à l'air": "complementary",
-        "laine de verre 200mm": "complementary",
-        "test étanchéité à l'air": "complementary",
-        "isolation plancher bas polystyrène": "complementary",
-        "pont thermique moisissure": "complementary",
-        "types d'isolants thermiques": "core",
-        "performance isolation thermique": "core",
-        "coût isolation thermique maison": "commercial",
-        "étapes isolation thermique": "complementary",
-        "aides financières isolation": "commercial",
-        "problèmes isolation thermique": "complementary",
-        "réglementation thermique": "core",
-        "laine minérale": "core",
-        "polystyrène expansé": "core",
-        "mousse polyuréthane": "core",
-        "fibre de bois": "core",
-        "isolant réfléchissant": "complementary",
-        "résistance thermique": "core",
-        "déphasage thermique": "core",
-        "lamda isolant": "core",
-        "épaisseur isolant": "core",
-        "performance énergétique": "core",
+        "ouate de cellulose en vrac": "complementary",
         "transfert thermique": "complementary",
-        "diagnostic de performance énergétique collectif": "complementary",
-        "facteur 4": "doubtful",
-        "facteur 9": "doubtful",
+        "réglementation thermique": "complementary",
+        "facteur 4": "complementary",
         "habitat passif": "complementary",
         "isolation multicouche": "complementary",
-        "isolation thermique des bâtiments": "complementary",
-        "enduit acrylique": "complementary",
-        "laine de roche echappement": "doubtful"
+        "isolation thermique du bâtiment": "complementary",
+        "enduit acrylique": "complementary"
     }
 }

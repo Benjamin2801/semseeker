@@ -1,7 +1,7 @@
 {
     "expression": "formation excel",
     "lang": "fr",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "fonctions excel",
-        "formules excel",
-        "tableaux croisés dynamiques excel",
-        "macros excel",
-        "prix formation excel",
+        "cours excel",
+        "excel pour débutant",
         "certification excel",
-        "support de cours excel",
-        "tutoriel excel gratuit"
+        "tableau croisé dynamique",
+        "formule excel",
+        "graphique excel",
+        "macro excel",
+        "formation vba"
     ],
     "suggestions": {
         "amazon": [
@@ -77,277 +77,127 @@
         "youtube": [
             "formation excel",
             "formation excel débutant",
+            "formation excel complète",
             "formation excel avancé",
             "formation excel tableau croisé dynamique",
             "formation excel gratuite",
             "formation excel vba",
-            "formation excel complète",
             "formation excel pour data analyst",
             "formation excel intermédiaire",
             "formation excel finance"
         ]
     },
     "related": {
+        "amazon": [
+            [
+                0,
+                "cours excel"
+            ],
+            [
+                0,
+                "tableau croisé dynamique excel"
+            ],
+            [
+                1,
+                "tableau croisé dynamique excel boris noro"
+            ],
+            [
+                0,
+                "formule excel"
+            ],
+            [
+                0,
+                "macro excel"
+            ]
+        ],
         "bing": [
             [
                 0,
+                "cours excel pdf"
+            ],
+            [
+                1,
+                "cours excel gratuit"
+            ],
+            [
+                2,
+                "cours excel débutant"
+            ],
+            [
+                3,
+                "cours excel gratuit avec exercices"
+            ],
+            [
+                4,
+                "cours excel avancé"
+            ],
+            [
+                5,
+                "cours excel en ligne"
+            ],
+            [
+                6,
+                "cours excel pdf complet"
+            ],
+            [
+                7,
+                "cours excel débutant pdf"
+            ],
+            [
+                8,
+                "cours excel avancé pdf complet"
+            ],
+            [
+                9,
+                "cours excel pdf complet gratuit"
+            ],
+            [
+                10,
+                "cours excel débutant gratuit"
+            ],
+            [
+                11,
+                "cours excel pdf gratuit télécharger"
+            ],
+            [
+                0,
+                "excel pour débutant"
+            ],
+            [
+                1,
+                "excel pour débutant pdf"
+            ],
+            [
+                2,
+                "excel pour débutant vidéo"
+            ],
+            [
+                3,
+                "excel pour débutant gratuit"
+            ],
+            [
+                4,
+                "excel pour débutant youtube"
+            ],
+            [
+                5,
+                "comment utiliser excel pour débutant"
+            ],
+            [
+                6,
                 "formation excel pour débutant"
             ],
             [
-                1,
-                "formation excel pour entreprise"
-            ],
-            [
-                2,
-                "formation excel pour les nuls"
-            ],
-            [
-                3,
-                "formation excel pour comptable"
-            ],
-            [
-                4,
-                "formation excel pour les rh"
-            ],
-            [
-                5,
-                "formation excel pour windows"
-            ],
-            [
-                6,
-                "formation excel pour salarié"
-            ],
-            [
                 7,
-                "formation excel power query"
+                "test excel pour débutants"
             ],
             [
                 8,
-                "formation copilot pour excel"
+                "formation pour les débutants en excel"
             ],
             [
                 9,
-                "formation ia pour excel"
-            ],
-            [
-                0,
-                "formation excel youtube"
-            ],
-            [
-                1,
-                "formation excel pour débutant"
-            ],
-            [
-                2,
-                "formation excel toulouse"
-            ],
-            [
-                3,
-                "formation excel rouen"
-            ],
-            [
-                4,
-                "formation excel coursera"
-            ],
-            [
-                5,
-                "formation excel tours"
-            ],
-            [
-                6,
-                "formation excel pour entreprise"
-            ],
-            [
-                7,
-                "formation excel pour les nuls"
-            ],
-            [
-                8,
-                "formation excel pour comptable"
-            ],
-            [
-                9,
-                "formation excel youtube gratuit"
-            ],
-            [
-                10,
-                "formation excel poussée"
-            ],
-            [
-                11,
-                "formation excel pour les rh"
-            ],
-            [
-                0,
-                "fonctions excel"
-            ],
-            [
-                1,
-                "fonctions excel pdf"
-            ],
-            [
-                2,
-                "fonctions excel à connaître"
-            ],
-            [
-                3,
-                "fonctions excel anglais francais"
-            ],
-            [
-                4,
-                "fonctions excel pour les finances"
-            ],
-            [
-                5,
-                "fonctions excel pour les graphiques"
-            ],
-            [
-                6,
-                "fonctions excel pour les statistiques"
-            ],
-            [
-                7,
-                "fonctions excel 365"
-            ],
-            [
-                8,
-                "fonctions excel dates"
-            ],
-            [
-                9,
-                "fonctions excel pour les bases de données"
-            ],
-            [
-                10,
-                "fonctions excel en français"
-            ],
-            [
-                11,
-                "fonctions excel liste"
-            ],
-            [
-                0,
-                "formules excel"
-            ],
-            [
-                1,
-                "formules excel liste"
-            ],
-            [
-                2,
-                "formules excel pdf"
-            ],
-            [
-                3,
-                "formules excel les plus utilisées"
-            ],
-            [
-                4,
-                "formules excel si plusieurs conditions"
-            ],
-            [
-                5,
-                "formules excel overzicht"
-            ],
-            [
-                6,
-                "formules excel de base"
-            ],
-            [
-                7,
-                "formules excel somme"
-            ],
-            [
-                8,
-                "formules excel catala"
-            ],
-            [
-                9,
-                "formules excel simples"
-            ],
-            [
-                10,
-                "formules excel francais anglais"
-            ],
-            [
-                11,
-                "formules excel overzicht tips"
-            ],
-            [
-                0,
-                "tableaux croisés dynamiques excel"
-            ],
-            [
-                1,
-                "tableaux croisés dynamiques excel pdf"
-            ],
-            [
-                2,
-                "tableaux croises dynamiques excel"
-            ],
-            [
-                3,
-                "les tableaux croisés dynamiques dans excel"
-            ],
-            [
-                4,
-                "excel tableaux croisés dynamiques tutoriel"
-            ],
-            [
-                5,
-                "les tableaux croisés dynamiques excel"
-            ],
-            [
-                0,
-                "macros excel"
-            ],
-            [
-                1,
-                "macros excel tutorial"
-            ],
-            [
-                2,
-                "macros excel tips"
-            ],
-            [
-                3,
-                "macros excel automation"
-            ],
-            [
-                4,
-                "macros excel functions"
-            ],
-            [
-                5,
-                "macros excel basics"
-            ],
-            [
-                6,
-                "macros excel examples"
-            ],
-            [
-                7,
-                "macros excel online"
-            ],
-            [
-                8,
-                "macros excel shortcuts"
-            ],
-            [
-                9,
-                "macros excel meaning"
-            ],
-            [
-                10,
-                "macro excel vba"
-            ],
-            [
-                11,
-                "macro excel definition"
-            ],
-            [
-                0,
-                "prix formation excel"
+                "formation sur excel pour debutant"
             ],
             [
                 0,
@@ -399,309 +249,583 @@
             ],
             [
                 0,
-                "support de cours excel 2019 pdf gratuit"
+                "tableau croisé dynamique"
             ],
             [
                 1,
-                "support de cours excel 2016 avancé pdf"
+                "tableau croisé dynamique excel"
             ],
             [
                 2,
-                "support de cours excel 2016 pdf gratuit"
+                "tableau croisé dynamique en anglais"
             ],
             [
                 3,
-                "support de formation excel"
+                "tableau croisé dynamique tutoriel pdf"
             ],
             [
                 4,
-                "cours de excel gratuit"
+                "tableau croisé dynamique libreoffice"
             ],
             [
                 5,
-                "cours gratuit sur excel"
+                "tableau croisé dynamique excel youtube"
             ],
             [
                 6,
-                "cours excel microsoft gratuit"
+                "tableau croisé dynamique excel exemple"
             ],
             [
                 7,
-                "support microsoft training excel gratuit"
+                "tableau croisé dynamique ou table de pilote"
             ],
             [
                 8,
-                "cours pour apprendre excel"
+                "tableau croisé dynamique excel tutoriel"
             ],
             [
                 9,
-                "cours excel en ligne"
+                "tableau croisé dynamique exemple"
             ],
             [
                 10,
-                "cours sur excel pdf"
+                "tableau croisé dynamique libreoffice calc"
             ],
             [
                 11,
-                "tuto cours excel gratuit"
+                "tableau croisé dynamique excel en anglais"
             ],
             [
                 0,
-                "tutoriel excel gratuit"
+                "formule excel"
             ],
             [
                 1,
-                "tutoriel excel gratuit français"
+                "formule excel somme"
             ],
             [
                 2,
-                "tutoriel excel débutant gratuit"
+                "formule excel recherchev"
+            ],
+            [
+                3,
+                "formule excel si plusieurs conditions"
+            ],
+            [
+                4,
+                "formule excel si contient"
+            ],
+            [
+                5,
+                "formule excel pourcentage"
+            ],
+            [
+                6,
+                "formule excel soustraction"
+            ],
+            [
+                7,
+                "formule excel age"
+            ],
+            [
+                8,
+                "formule excel date du jour"
+            ],
+            [
+                9,
+                "formule excel calcul âge"
+            ],
+            [
+                10,
+                "formule excel multiplication"
+            ],
+            [
+                11,
+                "formule excel pourcentage entre deux nombres"
+            ],
+            [
+                0,
+                "graphique excel"
+            ],
+            [
+                1,
+                "graphique excel avec plusieurs données"
+            ],
+            [
+                2,
+                "graphique excel histogramme empilé et groupé"
+            ],
+            [
+                3,
+                "graphique excel 3 variables"
+            ],
+            [
+                4,
+                "graphique excel ne pas afficher valeur nulle"
+            ],
+            [
+                5,
+                "graphique excel ajouter une ligne horizontale"
+            ],
+            [
+                6,
+                "graphique excel 2 axes"
+            ],
+            [
+                7,
+                "graphique excel camembert"
+            ],
+            [
+                8,
+                "graphique excel avec 2 échelles"
+            ],
+            [
+                9,
+                "graphique excel couleur selon valeur"
+            ],
+            [
+                10,
+                "graphique excel nuage de points"
+            ],
+            [
+                11,
+                "graphique excel pyramide des ages"
+            ],
+            [
+                0,
+                "macro excel"
+            ],
+            [
+                1,
+                "macro excel vba"
+            ],
+            [
+                2,
+                "macro excel tutorial"
+            ],
+            [
+                3,
+                "macro excel definition"
+            ],
+            [
+                4,
+                "macro excel online"
+            ],
+            [
+                5,
+                "macro excel c'est quoi"
+            ],
+            [
+                6,
+                "macro excel 2010"
+            ],
+            [
+                7,
+                "macro excel sheet"
+            ],
+            [
+                8,
+                "macro excel enable"
+            ],
+            [
+                9,
+                "macro excel 2007"
+            ],
+            [
+                10,
+                "macro excel conditional formatting"
+            ],
+            [
+                11,
+                "macro excel shortcut"
+            ],
+            [
+                0,
+                "formation vba"
+            ],
+            [
+                1,
+                "formation vba excel"
+            ],
+            [
+                2,
+                "formation vba excel gratuit"
+            ],
+            [
+                3,
+                "formation vba gratuite"
+            ],
+            [
+                4,
+                "formation vba melun"
+            ],
+            [
+                5,
+                "formation vba cegos"
+            ],
+            [
+                6,
+                "formation vba excel 77"
+            ],
+            [
+                7,
+                "formation vba excel 92"
+            ],
+            [
+                8,
+                "formation vba excel pdf"
+            ],
+            [
+                9,
+                "formation vba macro"
+            ],
+            [
+                10,
+                "formation vba genève"
+            ],
+            [
+                11,
+                "formation vba access"
+            ]
+        ],
+        "duckduckgo": [
+            [
+                0,
+                "cours excel pdf"
+            ],
+            [
+                1,
+                "cours excel gratuit"
+            ],
+            [
+                2,
+                "cours excel débutant"
+            ],
+            [
+                3,
+                "cours excel gratuit avec exercices"
+            ],
+            [
+                4,
+                "cours excel avancé"
+            ],
+            [
+                5,
+                "cours excel en ligne"
+            ],
+            [
+                6,
+                "cours excel pdf complet"
+            ],
+            [
+                7,
+                "cours excel débutant pdf"
+            ],
+            [
+                0,
+                "excel pour débutant"
+            ],
+            [
+                1,
+                "excel pour débutant pdf"
+            ],
+            [
+                2,
+                "excel pour débutant vidéo"
+            ],
+            [
+                3,
+                "excel pour débutant gratuit"
+            ],
+            [
+                4,
+                "excel pour débutant youtube"
+            ],
+            [
+                5,
+                "comment utiliser excel pour débutant"
+            ],
+            [
+                6,
+                "formation excel pour débutant"
+            ],
+            [
+                7,
+                "test excel pour débutants"
+            ],
+            [
+                0,
+                "certification excel"
+            ],
+            [
+                1,
+                "certification excel gratuite"
+            ],
+            [
+                2,
+                "certification excel microsoft"
+            ],
+            [
+                3,
+                "certification excel eni"
+            ],
+            [
+                4,
+                "certification excel tosa"
+            ],
+            [
+                5,
+                "certification excellens"
+            ],
+            [
+                6,
+                "certification excel mos"
+            ],
+            [
+                7,
+                "certification excel gratuite en ligne"
+            ],
+            [
+                0,
+                "tableau croisé dynamique excel"
+            ],
+            [
+                1,
+                "tableau croisé dynamique"
+            ],
+            [
+                2,
+                "tableau croisé dynamique tutoriel pdf"
+            ],
+            [
+                3,
+                "tableau croisé dynamique en anglais"
+            ],
+            [
+                4,
+                "tableau croisé dynamique libreoffice"
+            ],
+            [
+                5,
+                "tableau croisé dynamique excel youtube"
+            ],
+            [
+                6,
+                "tableau croisé dynamique excel exemple"
+            ],
+            [
+                7,
+                "tableau croisé dynamique ou table de pilote"
+            ],
+            [
+                0,
+                "formule excel"
+            ],
+            [
+                1,
+                "formule excel somme"
+            ],
+            [
+                2,
+                "formule excel recherchev"
+            ],
+            [
+                3,
+                "formule excel si plusieurs conditions"
+            ],
+            [
+                4,
+                "formule excel pourcentage"
+            ],
+            [
+                5,
+                "formule excel age"
+            ],
+            [
+                6,
+                "formule excel date du jour"
+            ],
+            [
+                7,
+                "formule excel si contient"
+            ],
+            [
+                0,
+                "graphique excel"
+            ],
+            [
+                1,
+                "graphique excel avec plusieurs données"
+            ],
+            [
+                2,
+                "graphique excel histogramme empilé et groupé"
+            ],
+            [
+                3,
+                "graphique excel 3 variables"
+            ],
+            [
+                4,
+                "graphique excel ne pas afficher valeur nulle"
+            ],
+            [
+                5,
+                "graphique excel ajouter une ligne horizontale"
+            ],
+            [
+                6,
+                "graphique excel 2 axes"
+            ],
+            [
+                7,
+                "graphique excel camembert"
+            ],
+            [
+                0,
+                "macro excel"
+            ],
+            [
+                1,
+                "macro excel vba"
+            ],
+            [
+                2,
+                "macro excel tutorial"
+            ],
+            [
+                3,
+                "macro excel definition"
+            ],
+            [
+                4,
+                "macro excel online"
+            ],
+            [
+                5,
+                "macro excel c'est quoi"
+            ],
+            [
+                6,
+                "macro excel 2010"
+            ],
+            [
+                7,
+                "macro excel sheet"
+            ],
+            [
+                0,
+                "formation vba"
+            ],
+            [
+                1,
+                "formation vba excel"
+            ],
+            [
+                2,
+                "formation vba excel gratuit"
+            ],
+            [
+                3,
+                "formation vba gratuite"
+            ],
+            [
+                4,
+                "formation vba melun"
+            ],
+            [
+                5,
+                "formation vba cegos"
+            ],
+            [
+                6,
+                "formation vba excel 77"
+            ],
+            [
+                7,
+                "formation vba excel 92"
             ]
         ],
         "google": [
             [
                 0,
-                "quelle formation excel choisir"
+                "cours excel"
             ],
             [
                 1,
-                "quelle formation pour excel"
+                "cours excel de a à z pdf"
             ],
             [
                 2,
-                "formation excel quel niveau"
-            ],
-            [
-                0,
-                "formation excel pour controleur de gestion"
-            ],
-            [
-                1,
-                "formation excel pour comptable"
-            ],
-            [
-                2,
-                "formation excel pour débutant"
+                "cours excel gratuit"
             ],
             [
                 3,
-                "formation excel pour rh"
+                "cours excel débutant pdf gratuit exercices corrigés"
             ],
             [
                 4,
-                "formation excel pour les nuls"
+                "cours excel gratuit télécharger"
             ],
             [
                 5,
-                "formation excel pour comptables debutants"
+                "cours excel pdf complet"
             ],
             [
                 6,
-                "formation excel pour entreprise"
+                "cours excel gratuit en ligne"
             ],
             [
                 7,
-                "formation excel pour comptable pdf"
+                "cours excel pdf"
             ],
             [
                 8,
-                "formation excel pour data analyst"
+                "cours excel débutant gratuit"
             ],
             [
                 9,
-                "formation excel pour débutant pdf"
+                "cours excel complet"
             ],
             [
                 0,
-                "formation word excel outlook"
-            ],
-            [
-                0,
-                "fonctions excel"
+                "excel pour débutant"
             ],
             [
                 1,
-                "fonctions excel avancées"
+                "excel pour débutant pdf"
             ],
             [
                 2,
-                "fonctions excel pdf"
+                "excel pour débutant gratuit"
             ],
             [
                 3,
-                "fonctions excel à connaître"
+                "excel pour débutant youtube"
             ],
             [
                 4,
-                "fonctions excel les plus utilisées"
+                "excel pour debutant en video"
             ],
             [
                 5,
-                "fonctions excel expliquées pdf gratuit"
+                "excel pour debutant livre"
             ],
             [
                 6,
-                "fonctions excel pdf gratuit"
+                "exercice excel pour débutant"
             ],
             [
                 7,
-                "fonctions excel si"
+                "apprendre excel pour débutant"
             ],
             [
                 8,
-                "fonctions excel de base"
+                "exercice excel pour débutant pdf"
             ],
             [
                 9,
-                "fonctions excel liste"
-            ],
-            [
-                0,
-                "formules excel"
-            ],
-            [
-                1,
-                "formules excel de base"
-            ],
-            [
-                2,
-                "formules excel pdf gratuit"
-            ],
-            [
-                3,
-                "formules excel à connaitre"
-            ],
-            [
-                4,
-                "formules excel si"
-            ],
-            [
-                5,
-                "formules excel pdf"
-            ],
-            [
-                6,
-                "formules excel avancées"
-            ],
-            [
-                7,
-                "formules excel les plus utilisées"
-            ],
-            [
-                8,
-                "formules excel en anglais"
-            ],
-            [
-                9,
-                "formules excel soustraction"
-            ],
-            [
-                0,
-                "tableaux croisés dynamiques excel"
-            ],
-            [
-                1,
-                "tableaux croisés dynamiques excel pdf"
-            ],
-            [
-                2,
-                "tableaux croises dynamiques excel gratuit"
-            ],
-            [
-                3,
-                "tableaux croisés dynamiques excel en anglais"
-            ],
-            [
-                4,
-                "tableau croisés dynamiques excel 2016"
-            ],
-            [
-                5,
-                "tableau croisé dynamique excel exemple"
-            ],
-            [
-                6,
-                "tableau croisé dynamique excel tuto"
-            ],
-            [
-                7,
-                "tableau croisé dynamique excel plusieurs feuilles"
-            ],
-            [
-                8,
-                "tableau croisé dynamique excel c est quoi"
-            ],
-            [
-                9,
-                "tableau croisé dynamique excel exercice"
-            ],
-            [
-                0,
-                "macros excel"
-            ],
-            [
-                1,
-                "macros excel c'est quoi"
-            ],
-            [
-                2,
-                "macros excel bloquées"
-            ],
-            [
-                3,
-                "macros excel ejemplos"
-            ],
-            [
-                4,
-                "macros excel meaning"
-            ],
-            [
-                5,
-                "macros excel online"
-            ],
-            [
-                6,
-                "macros excel enable"
-            ],
-            [
-                7,
-                "macros excel pdf"
-            ],
-            [
-                8,
-                "que es macros excel"
-            ],
-            [
-                9,
-                "macros excel curso"
-            ],
-            [
-                0,
-                "prix formation excel"
-            ],
-            [
-                1,
-                "prix formation excel avancé"
-            ],
-            [
-                2,
-                "prix formation excel débutant"
-            ],
-            [
-                3,
-                "prix formation excel cpf"
-            ],
-            [
-                4,
-                "prix formation excelia"
-            ],
-            [
-                5,
-                "prix formation word excel"
-            ],
-            [
-                6,
-                "formation excel prix maroc"
+                "cours excel pour débutant pdf"
             ],
             [
                 0,
@@ -745,409 +869,315 @@
             ],
             [
                 0,
-                "support de cours excel pdf"
+                "tableau croisé dynamique"
             ],
             [
                 1,
-                "support de cours excel 2016 pdf gratuit"
+                "tableau croisé dynamique excel"
             ],
             [
                 2,
-                "support de cours excel avancé pdf"
+                "tableau croisé dynamique pour les nuls pdf"
             ],
             [
                 3,
-                "support de cours excel"
+                "tableau croisé dynamique en anglais"
             ],
             [
                 4,
-                "support de cours excel 2019 pdf gratuit"
+                "tableau croisé dynamique google sheet"
             ],
             [
                 5,
-                "support de cours excel avancé"
+                "tableau croisé dynamique c'est quoi"
             ],
             [
                 6,
-                "support de cours excel 2016 avancé pdf"
+                "tableau croisé dynamique avec plusieurs feuilles"
             ],
             [
                 7,
-                "support de cours excel pdf gratuit"
+                "tableau croisé dynamique libre office"
             ],
             [
                 8,
-                "support de cours excel debutant"
+                "tableau croisé dynamique excel exemple"
             ],
             [
                 9,
-                "support de cours excel 2016 pdf"
+                "tableau croisé dynamique calc"
             ],
             [
                 0,
-                "tutoriel excel gratuit"
+                "formule excel"
             ],
             [
                 1,
-                "tutoriel excel gratuit en ligne"
+                "formule excel si"
             ],
             [
                 2,
-                "tutoriel excel gratuit pdf"
+                "formule excel somme"
             ],
             [
                 3,
-                "cours excel gratuit télécharger"
+                "formule excel si plusieurs conditions"
             ],
             [
                 4,
-                "cours excel gratuit"
+                "formule excel soustraction"
             ],
             [
                 5,
-                "cours excel gratuit en ligne"
+                "formule excel pourcentage"
             ],
             [
                 6,
-                "tutos excel gratuit"
+                "formule excel date du jour"
             ],
             [
                 7,
-                "cours excel gratuit pdf"
+                "formule excel pour compter le nombre de cellule non vide"
             ],
             [
                 8,
-                "cours excel gratuit débutant"
+                "formule excel multiplication"
             ],
             [
                 9,
-                "guide excel gratuit"
+                "formule excel si contient"
+            ],
+            [
+                0,
+                "graphique excel"
+            ],
+            [
+                1,
+                "graphique excel 2 axes"
+            ],
+            [
+                2,
+                "graphique excel 2 axes abscisses"
+            ],
+            [
+                3,
+                "graphique excel ne pas afficher les 0"
+            ],
+            [
+                4,
+                "graphique excel date en abscisse"
+            ],
+            [
+                5,
+                "graphique excel modifier echelle"
+            ],
+            [
+                6,
+                "graphique excel pourcentage"
+            ],
+            [
+                7,
+                "graphique excel avec plusieurs données"
+            ],
+            [
+                8,
+                "graphique excel courbe"
+            ],
+            [
+                9,
+                "graphique excel camembert"
+            ],
+            [
+                0,
+                "macro excel exemple"
+            ],
+            [
+                1,
+                "macro excel vba"
+            ],
+            [
+                2,
+                "macro excel c'est quoi"
+            ],
+            [
+                3,
+                "macro excel pour les nuls pdf"
+            ],
+            [
+                4,
+                "macro excel bloquée"
+            ],
+            [
+                5,
+                "macro excel activer"
+            ],
+            [
+                6,
+                "macro excel en ligne"
+            ],
+            [
+                7,
+                "macro excel definition"
+            ],
+            [
+                8,
+                "macro excel en anglais"
+            ],
+            [
+                9,
+                "macro excel pour les nuls"
+            ],
+            [
+                0,
+                "formation vba"
+            ],
+            [
+                1,
+                "formation vba excel"
+            ],
+            [
+                2,
+                "formation vba excel gratuit"
+            ],
+            [
+                3,
+                "formation vba gratuit"
+            ],
+            [
+                4,
+                "formation vba excel pdf"
+            ],
+            [
+                5,
+                "formation vba lyon"
+            ],
+            [
+                6,
+                "formation vba cpf"
+            ],
+            [
+                7,
+                "formation vba grenoble"
+            ],
+            [
+                8,
+                "formation vba en ligne"
+            ],
+            [
+                9,
+                "formation vba excel complète"
             ]
         ],
-        "amazon": [
+        "indeed": [
             [
                 0,
-                "fonction excel"
-            ],
-            [
-                0,
-                "formules excel"
+                "formation barman"
             ],
             [
                 1,
-                "formules excel eni"
-            ],
-            [
-                0,
-                "macro excel"
-            ]
-        ],
-        "duckduckgo": [
-            [
-                0,
-                "fonctions excel"
-            ],
-            [
-                1,
-                "fonctions excel pdf"
+                "formation banque"
             ],
             [
                 2,
-                "fonctions excel à connaître"
+                "formation vademecaf"
             ],
             [
                 3,
-                "fonctions excel anglais francais"
+                "formation bafa"
             ],
             [
                 4,
-                "fonctions excel pour les finances"
+                "formation bâtiment"
             ],
             [
                 5,
-                "fonctions excel pour les graphiques"
+                "formation barista"
             ],
             [
                 6,
-                "fonctions excel pour les statistiques"
+                "formation gratuite remuneree"
             ],
             [
                 7,
-                "fonctions excel 365"
+                "formation assistante dentaire"
             ],
             [
-                0,
-                "formules excel"
+                8,
+                "formation aéroportuaire"
             ],
             [
-                1,
-                "formules excel liste"
-            ],
-            [
-                2,
-                "formules excel pdf"
-            ],
-            [
-                3,
-                "formules excel les plus utilisées"
-            ],
-            [
-                4,
-                "formules excel si plusieurs conditions"
-            ],
-            [
-                5,
-                "formules excel overzicht"
-            ],
-            [
-                6,
-                "formules excel de base"
-            ],
-            [
-                7,
-                "formules excel somme"
-            ],
-            [
-                0,
-                "tableaux croisés dynamiques excel"
-            ],
-            [
-                1,
-                "tableaux croisés dynamiques excel pdf"
-            ],
-            [
-                2,
-                "tableaux croises dynamiques excel"
-            ],
-            [
-                3,
-                "les tableaux croisés dynamiques dans excel"
-            ],
-            [
-                4,
-                "excel tableaux croisés dynamiques tutoriel"
-            ],
-            [
-                5,
-                "les tableaux croisés dynamiques excel"
-            ],
-            [
-                0,
-                "macros excel"
-            ],
-            [
-                1,
-                "macros excel tutorial"
-            ],
-            [
-                2,
-                "macros excel tips"
-            ],
-            [
-                3,
-                "macros excel automation"
-            ],
-            [
-                4,
-                "macros excel functions"
-            ],
-            [
-                5,
-                "macros excel basics"
-            ],
-            [
-                6,
-                "macros excel examples"
-            ],
-            [
-                7,
-                "macros excel online"
-            ],
-            [
-                0,
-                "prix formation excel"
-            ],
-            [
-                0,
-                "certification excel"
-            ],
-            [
-                1,
-                "certification excel gratuite"
-            ],
-            [
-                2,
-                "certification excel microsoft"
-            ],
-            [
-                3,
-                "certification excel eni"
-            ],
-            [
-                4,
-                "certification excel tosa"
-            ],
-            [
-                5,
-                "certification excellens"
-            ],
-            [
-                6,
-                "certification excel mos"
-            ],
-            [
-                7,
-                "certification excel gratuite en ligne"
-            ],
-            [
-                0,
-                "support de cours excel 2019 pdf gratuit"
-            ],
-            [
-                1,
-                "support de cours excel 2016 avancé pdf"
-            ],
-            [
-                2,
-                "support de cours excel 2016 pdf gratuit"
-            ],
-            [
-                3,
-                "support de formation excel"
-            ],
-            [
-                4,
-                "cours de excel gratuit"
-            ],
-            [
-                5,
-                "cours gratuit sur excel"
-            ],
-            [
-                6,
-                "cours excel microsoft gratuit"
-            ],
-            [
-                7,
-                "support microsoft training excel gratuit"
-            ],
-            [
-                0,
-                "tutoriel excel gratuit"
-            ],
-            [
-                1,
-                "tutoriel excel gratuit français"
-            ],
-            [
-                2,
-                "tutoriel excel débutant gratuit"
+                9,
+                "formation aide soignante"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "fonctions excel"
+                "cours excel"
             ],
             [
                 1,
-                "toutes les fonctions excel"
+                "cours excel gratuit"
             ],
             [
                 2,
-                "liste des fonctions excel pdf"
+                "cours excel pdf"
             ],
             [
                 3,
-                "150 fonctions excel expliquées pdf gratuit"
+                "cours excel pour débutant"
             ],
             [
                 4,
-                "toutes les fonctions excel expliquées pdf"
+                "cours excel avancé"
             ],
             [
                 5,
-                "toutes les fonctions excel expliquées"
-            ],
-            [
-                0,
-                "formules excel"
-            ],
-            [
-                1,
-                "formules excel pdf gratuit"
-            ],
-            [
-                2,
-                "formules excel si"
-            ],
-            [
-                3,
-                "formules excel conditionnelles"
-            ],
-            [
-                4,
-                "formules excel les plus utilisés"
-            ],
-            [
-                5,
-                "formules excel liste"
+                "cours excel en ligne"
             ],
             [
                 6,
-                "formules excel les plus utilisées"
+                "cours excel tableau croisé dynamique"
+            ],
+            [
+                7,
+                "cours excel cnam"
+            ],
+            [
+                8,
+                "cours excel sur youtube"
+            ],
+            [
+                9,
+                "cours excel 2020 pdf complet"
             ],
             [
                 0,
-                "tableaux croisés dynamiques excel gratuit"
+                "excel pour débutant"
             ],
             [
                 1,
-                "tableaux croisés dynamiques excel online"
+                "cours excel pour débutant"
             ],
             [
                 2,
-                "tableaux croisés dynamiques excellent"
+                "comment utiliser excel pour débutant"
             ],
             [
                 3,
-                "tableaux croisés dynamiques excel to"
-            ],
-            [
-                0,
-                "macros excel"
-            ],
-            [
-                1,
-                "activer les macros excel"
-            ],
-            [
-                2,
-                "liste des macros excel"
-            ],
-            [
-                3,
-                "activer les macros excel 365"
+                "test excel pour débutant"
             ],
             [
                 4,
-                "activer les macros excel 2021"
+                "youtube excel pour débutant"
             ],
             [
-                0,
-                "prix formation excel gratuite"
+                5,
+                "cours sur excel pour débutant"
             ],
             [
-                1,
-                "prix formation excel en ligne"
-            ],
-            [
-                2,
-                "prix formation excel avancé"
-            ],
-            [
-                3,
-                "prix formation excel tableau croisé dynamique"
+                6,
+                "cours excel pour débutant pdf"
             ],
             [
                 0,
@@ -1171,209 +1201,221 @@
             ],
             [
                 0,
-                "support de cours excel gratuit"
+                "tableau croisé dynamique"
             ],
             [
                 1,
-                "support de cours excel pdf"
+                "tableau croisé dynamique excel"
             ],
             [
                 2,
-                "support de cours excel pour débutant"
+                "tableau croisé dynamique tuto"
             ],
             [
                 3,
-                "support de cours excel avancé"
-            ],
-            [
-                0,
-                "tutoriel excel gratuit pour windows 10"
-            ],
-            [
-                1,
-                "tutoriel excel gratuit à télécharger"
-            ],
-            [
-                2,
-                "tutoriel excel gratuit en ligne"
-            ],
-            [
-                3,
-                "tutoriel excel gratuit"
+                "tableau croisé dynamique plusieurs feuilles"
             ],
             [
                 4,
-                "tutoriel excel gratuit pour mac"
+                "tableau croisé dynamique en anglais"
             ],
             [
                 5,
-                "tutoriel excel gratuit pour pc"
+                "tableau croisé dynamique exemple"
             ],
             [
                 6,
-                "tutoriel excel gratuit telecharger"
+                "tableau croisé dynamique somme"
+            ],
+            [
+                7,
+                "tableau croisé dynamique simple"
+            ],
+            [
+                8,
+                "tableau croisé dynamique numbers"
+            ],
+            [
+                9,
+                "tableau croisé dynamique youtube"
+            ],
+            [
+                0,
+                "formule excel"
+            ],
+            [
+                1,
+                "formule excel pourcentage"
+            ],
+            [
+                2,
+                "formule excel somme"
+            ],
+            [
+                3,
+                "formule excel contient"
+            ],
+            [
+                4,
+                "formule excel date"
+            ],
+            [
+                5,
+                "formule excel recherchev"
+            ],
+            [
+                6,
+                "formule excel avec plusieurs conditions"
+            ],
+            [
+                7,
+                "formule excel couleur"
+            ],
+            [
+                8,
+                "formule excel multiplication"
+            ],
+            [
+                9,
+                "formule excel différent de"
+            ],
+            [
+                0,
+                "graphique excel"
+            ],
+            [
+                1,
+                "graphique excel avec 2 axes"
+            ],
+            [
+                2,
+                "graphique excel 2010"
+            ],
+            [
+                3,
+                "graphique excel 2007"
+            ],
+            [
+                4,
+                "graphique excel camembert"
+            ],
+            [
+                5,
+                "graphique excel waterfall"
+            ],
+            [
+                6,
+                "graphique excel histogramme et courbe"
+            ],
+            [
+                7,
+                "graphique excel secteur de secteur"
+            ],
+            [
+                0,
+                "macro excel"
+            ],
+            [
+                1,
+                "macro excel vba"
+            ],
+            [
+                2,
+                "macro excel pour les nuls"
+            ],
+            [
+                3,
+                "macro excel à télécharger"
+            ],
+            [
+                4,
+                "macro excel fichier"
+            ],
+            [
+                5,
+                "macro excel exemple"
+            ],
+            [
+                6,
+                "macro excel cells"
+            ],
+            [
+                7,
+                "macro excel msgbox"
+            ],
+            [
+                8,
+                "macro excel fonction"
+            ],
+            [
+                9,
+                "macro excel imprimer"
+            ],
+            [
+                0,
+                "formation vba"
+            ],
+            [
+                1,
+                "formation vba excel"
+            ],
+            [
+                2,
+                "formation vba gratuit"
+            ],
+            [
+                3,
+                "formation excel vba"
             ]
         ],
         "youtube": [
             [
                 0,
-                "fonctions excel"
+                "cours excel"
             ],
             [
                 1,
-                "fonctions excel avancées"
+                "cours excel complet"
             ],
             [
                 2,
-                "fonctions excel les plus utilisées"
+                "cours excel debutant"
             ],
             [
                 3,
-                "fonctions excel controle de gestion"
+                "cours excel avancé"
             ],
             [
                 4,
-                "fonction excel شرح"
+                "cours excel tableau croisé dynamique"
             ],
             [
                 5,
-                "fonction excel recherchev"
+                "cours excel recherchev"
             ],
             [
                 6,
-                "fonction excel si"
+                "cours excel vba"
             ],
             [
                 7,
-                "fonction excel somme si"
+                "cours excel gratuit"
             ],
             [
                 8,
-                "fonction excel nb.si"
+                "cours excel finance"
             ],
             [
                 9,
-                "fonction excel avancé"
+                "cours excel intermédiaire"
             ],
             [
                 0,
-                "formules excel"
+                "excel pour débutant"
             ],
             [
                 1,
-                "formules excel de base"
-            ],
-            [
-                2,
-                "formules excel avancées"
-            ],
-            [
-                3,
-                "formules excel comptabilité"
-            ],
-            [
-                4,
-                "formules excel si"
-            ],
-            [
-                5,
-                "formules excel les plus utilisées"
-            ],
-            [
-                6,
-                "formule excel si plusieurs conditions"
-            ],
-            [
-                7,
-                "formule excel recherchev"
-            ],
-            [
-                8,
-                "formulas excel basicas"
-            ],
-            [
-                9,
-                "formula excel sheet"
-            ],
-            [
-                0,
-                "tableaux croisés dynamiques excel"
-            ],
-            [
-                1,
-                "tableau croisé dynamique excel شرح"
-            ],
-            [
-                2,
-                "tableau croisé dynamique excel avancé"
-            ],
-            [
-                3,
-                "tableau croisé dynamique excel plusieurs feuilles"
-            ],
-            [
-                4,
-                "tableau croisé dynamique excel graphique"
-            ],
-            [
-                5,
-                "tableau croisé dynamique excel darija"
-            ],
-            [
-                6,
-                "tableau croisé dynamique excel segment"
-            ],
-            [
-                7,
-                "tableau croisé dynamique excel pour les nuls"
-            ],
-            [
-                8,
-                "tableau croisé dynamique excel pourcentage"
-            ],
-            [
-                9,
-                "tableau croisé dynamique excel gestion de stock"
-            ],
-            [
-                0,
-                "macros excel"
-            ],
-            [
-                1,
-                "macros excel vba"
-            ],
-            [
-                2,
-                "macros excel pour les nuls"
-            ],
-            [
-                3,
-                "macros excel tutorial"
-            ],
-            [
-                4,
-                "macros excel 2016"
-            ],
-            [
-                5,
-                "macros excel mac"
-            ],
-            [
-                6,
-                "macros excel for beginners"
-            ],
-            [
-                7,
-                "macros excel chatgpt"
-            ],
-            [
-                8,
-                "macros excel شرح"
-            ],
-            [
-                9,
-                "macros excel vba basic"
+                "exercice excel pour débutant"
             ],
             [
                 0,
@@ -1417,31 +1459,187 @@
             ],
             [
                 0,
-                "cours excel gratuit pour debutant"
+                "tableau croisé dynamique"
             ],
             [
                 1,
-                "cours excel gratuit"
+                "tableau croisé dynamique google sheet"
             ],
             [
                 2,
-                "cours excel intermédiaire gratuit"
+                "tableau croisé dynamique excel"
             ],
             [
                 3,
-                "cours excel avancé gratuit"
+                "tableau croisé dynamique calc"
             ],
             [
                 4,
-                "cours video excel gratuit"
+                "tableau croisé dynamique excel graphique"
             ],
             [
                 5,
-                "excel tutorial free"
+                "tableau croisé dynamique numbers"
             ],
             [
                 6,
-                "excel tutorial free code camp"
+                "tableau croisé dynamique excel avancé"
+            ],
+            [
+                7,
+                "tableau croisé dynamique excel segment"
+            ],
+            [
+                8,
+                "tableau croisé dynamique excel شرح"
+            ],
+            [
+                9,
+                "tableau croisé dynamique pourcentage"
+            ],
+            [
+                0,
+                "formule excel"
+            ],
+            [
+                1,
+                "formule excel si"
+            ],
+            [
+                2,
+                "formule excel recherchev"
+            ],
+            [
+                3,
+                "formule excel somme"
+            ],
+            [
+                4,
+                "formule excel pourcentage"
+            ],
+            [
+                5,
+                "formule excel nb.si"
+            ],
+            [
+                6,
+                "formule excel somme si"
+            ],
+            [
+                7,
+                "formule excel recherchev avec condition si"
+            ],
+            [
+                8,
+                "formule excel bts gpme"
+            ],
+            [
+                9,
+                "formule excel multiplication"
+            ],
+            [
+                0,
+                "graphique excel"
+            ],
+            [
+                1,
+                "graphique excel histogramme"
+            ],
+            [
+                2,
+                "graphique excel courbe"
+            ],
+            [
+                3,
+                "graphique excel camembert"
+            ],
+            [
+                4,
+                "graphique excel avec plusieurs données"
+            ],
+            [
+                5,
+                "graphique excel nuage de points"
+            ],
+            [
+                6,
+                "graphique excel pourcentage"
+            ],
+            [
+                7,
+                "graphique excel changer axe abscisse"
+            ],
+            [
+                8,
+                "graphique excel dynamique"
+            ],
+            [
+                9,
+                "graphique excel moyenne ecart type"
+            ],
+            [
+                0,
+                "macro excel"
+            ],
+            [
+                1,
+                "macro excel vba"
+            ],
+            [
+                2,
+                "macro excel debutant"
+            ],
+            [
+                3,
+                "macro excel bouton"
+            ],
+            [
+                4,
+                "macro excel formulaire"
+            ],
+            [
+                5,
+                "macro excel darija"
+            ],
+            [
+                6,
+                "macro excel importer données d'un autre fichier"
+            ],
+            [
+                7,
+                "macro excel tuto"
+            ],
+            [
+                8,
+                "macro excel mise en forme"
+            ],
+            [
+                9,
+                "macro excel ajouter une ligne dans un tableau"
+            ],
+            [
+                0,
+                "formation vba"
+            ],
+            [
+                1,
+                "formation vba debutant"
+            ],
+            [
+                2,
+                "formation vba access"
+            ],
+            [
+                3,
+                "formation vba darija"
+            ],
+            [
+                4,
+                "excel formation vba avancée (1/34)"
+            ],
+            [
+                5,
+                "morpheus formation vba"
             ]
         ]
     },
@@ -1449,10 +1647,17 @@
         "articles": [
             {
                 "title": "Microsoft Excel",
-                "views": 5178,
+                "views": 5100,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.357
+            },
+            {
+                "title": "Tableau croisé dynamique",
+                "views": 764,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
             }
         ],
         "sections": 10,
@@ -1466,80 +1671,86 @@
     "pages": [
         {
             "group": "Niveaux de formation",
-            "title": "formation excel avancé",
-            "intent": "informational",
-            "keywords": [
-                "formation excel avancé",
-                "fonctions excel pdf",
-                "excel avancé",
-                "excel vba",
-                "microsoft office excel 2002",
-                "microsoft office excel 5.0",
-                "microsoft office excel 7.0",
-                "fonction excel",
-                "fonctions excel avancées",
-                "fonctions excel à connaître",
-                "macro excel",
-                "macros excel tutorial"
-            ]
-        },
-        {
-            "group": "Niveaux de formation",
             "title": "formation excel débutant",
             "intent": "informational",
             "keywords": [
                 "formation excel débutant",
-                "formation excel pour comptable",
-                "excel débutant",
-                "excel pratique",
-                "tutoriel excel gratuit",
-                "formules excel de base"
+                "formation excel gratuite",
+                "cellule",
+                "classeur",
+                "feuille",
+                "tableur",
+                "cours excel",
+                "cours excel pour débutant",
+                "excel pour débutant",
+                "cours excel gratuit"
             ]
         },
         {
-            "group": "Types de formation",
+            "group": "Niveaux de formation",
+            "title": "formation excel avancé",
+            "intent": "informational",
+            "keywords": [
+                "formation excel avancé",
+                "cours excel avancé",
+                "filtre",
+                "formatage conditionnel",
+                "pivot",
+                "tri",
+                "tableau croisé dynamique excel",
+                "macro excel",
+                "formule excel recherchev"
+            ]
+        },
+        {
+            "group": "Niveaux de formation",
+            "title": "formation vba excel",
+            "intent": "informational",
+            "keywords": [
+                "formation vba excel",
+                "formation vba",
+                "macro excel vba"
+            ]
+        },
+        {
+            "group": "Techniques Excel",
+            "title": "formule excel",
+            "intent": "informational",
+            "keywords": [
+                "formule excel",
+                "fonction excel",
+                "formule",
+                "formule excel somme",
+                "formule excel pourcentage"
+            ]
+        },
+        {
+            "group": "Techniques Excel",
+            "title": "tableau croisé dynamique",
+            "intent": "informational",
+            "keywords": [
+                "tableau croisé dynamique",
+                "formation excel tableau croisé dynamique"
+            ]
+        },
+        {
+            "group": "Techniques Excel",
+            "title": "graphique excel",
+            "intent": "informational",
+            "keywords": [
+                "graphique excel",
+                "graphique excel avec plusieurs données"
+            ]
+        },
+        {
+            "group": "Formats de formation",
             "title": "formation excel en ligne",
             "intent": "commercial",
             "keywords": [
                 "formation excel en ligne",
-                "excel en ligne",
-                "formation excel gratuite",
-                "cours excel gratuit",
-                "tutoriel excel gratuit en ligne"
-            ]
-        },
-        {
-            "group": "Types de formation",
-            "title": "formation excel cpf",
-            "intent": "transactional",
-            "keywords": [
                 "formation excel cpf",
-                "durée formation excel",
-                "prix formation excel",
-                "prix formation excel avancé"
-            ]
-        },
-        {
-            "group": "Ressources d'apprentissage",
-            "title": "formules excel",
-            "intent": "informational",
-            "keywords": [
-                "formules excel",
-                "formules excel pdf gratuit",
-                "formules excel liste",
-                "formules excel si",
-                "formules excel les plus utilisées"
-            ]
-        },
-        {
-            "group": "Ressources d'apprentissage",
-            "title": "support de cours excel pdf",
-            "intent": "informational",
-            "keywords": [
-                "support de cours excel pdf",
-                "support de cours excel",
-                "support de cours excel 2016 pdf gratuit",
-                "support de cours excel 2019 pdf gratuit"
+                "cours excel pdf",
+                "excel pour débutant youtube"
             ]
         },
         {
@@ -1548,69 +1759,52 @@
             "intent": "commercial",
             "keywords": [
                 "certification excel",
-                "certification excel eni",
                 "certification excel microsoft",
                 "certification excel gratuite"
-            ]
-        },
-        {
-            "group": "Outils spécifiques",
-            "title": "tableaux croisés dynamiques excel",
-            "intent": "informational",
-            "keywords": [
-                "tableaux croisés dynamiques excel",
-                "formation excel tableau croisé dynamique",
-                "tableaux croisés dynamiques excel gratuit",
-                "tableaux croisés dynamiques",
-                "tableaux croisés dynamiques excel pdf"
             ]
         }
     ],
     "categories": {
         "formation excel gratuite": "core",
-        "fonction excel": "core",
-        "formules excel": "core",
-        "macro excel": "core",
+        "formule excel": "core",
+        "tableau croisé dynamique excel": "core",
         "formation excel avancé": "core",
         "certification excel": "core",
+        "excel pour débutant": "core",
+        "formation vba": "core",
+        "graphique excel": "core",
+        "macro excel": "core",
+        "tableau croisé dynamique": "core",
+        "cours excel": "core",
+        "macro excel vba": "core",
+        "formation vba excel": "core",
+        "formule excel somme": "core",
         "formation excel débutant": "core",
-        "tableaux croisés dynamiques excel": "core",
         "formation excel en ligne": "commercial",
+        "cours excel gratuit": "core",
         "certification excel microsoft": "core",
         "certification excel gratuite": "core",
-        "tutoriel excel gratuit": "complementary",
+        "formule excel pourcentage": "core",
+        "cours excel pour débutant": "core",
         "formation excel cpf": "commercial",
-        "formules excel de base": "core",
-        "formation excel tableau croisé dynamique": "complementary",
-        "cours excel gratuit": "complementary",
-        "formules excel si": "core",
-        "prix formation excel": "commercial",
-        "formules excel les plus utilisées": "core",
-        "support de cours excel pdf": "core",
-        "tableaux croisés dynamiques excel pdf": "core",
-        "fonctions excel avancées": "core",
-        "tableaux croisés dynamiques excel gratuit": "core",
-        "fonctions excel pdf": "complementary",
-        "support de cours excel 2016 pdf gratuit": "core",
-        "formules excel pdf gratuit": "complementary",
-        "prix formation excel avancé": "commercial",
-        "tutoriel excel gratuit en ligne": "commercial",
-        "macros excel tutorial": "complementary",
-        "support de cours excel 2019 pdf gratuit": "complementary",
-        "formation excel pour comptable": "complementary",
-        "certification excel eni": "commercial",
-        "fonctions excel à connaître": "complementary",
-        "formules excel liste": "complementary",
-        "durée formation excel": "commercial",
-        "support de cours excel": "complementary",
-        "tableaux croisés dynamiques": "core",
-        "excel vba": "core",
-        "excel débutant": "core",
-        "excel avancé": "core",
-        "excel en ligne": "commercial",
-        "excel pratique": "core",
-        "microsoft office excel 5.0": "complementary",
-        "microsoft office excel 7.0": "complementary",
-        "microsoft office excel 2002": "complementary"
+        "cours excel pdf": "core",
+        "formule excel recherchev": "core",
+        "formation excel tableau croisé dynamique": "core",
+        "cours excel avancé": "complementary",
+        "excel pour débutant youtube": "complementary",
+        "graphique excel avec plusieurs données": "complementary",
+        "fonction excel": "core",
+        "tableur": "complementary",
+        "classeur": "complementary",
+        "cellule": "complementary",
+        "feuille": "complementary",
+        "formatage conditionnel": "complementary",
+        "filtre": "complementary",
+        "tri": "complementary",
+        "pivot": "complementary",
+        "formule": "complementary",
+        "microsoft office excel 5.0": "doubtful",
+        "microsoft office excel 7.0": "doubtful",
+        "microsoft office excel 2002": "doubtful"
     }
 }

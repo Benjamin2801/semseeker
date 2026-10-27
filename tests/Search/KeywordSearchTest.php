@@ -120,7 +120,6 @@ final class KeywordSearchTest extends TestCase
         $result = $this->search(concepts: static fn () => throw new AiException('panne'))->search('pain', 'fr');
 
         self::assertSame(['pain commun', 'pain prix'], self::texts($result->keywords));
-        self::assertFalse($result->isComplete(), 'Sans concepts, le résultat n\'est gardé que peu de temps.');
     }
 
     public function testKeepsOnlyTheBestCandidates(): void
@@ -191,7 +190,7 @@ final class KeywordSearchTest extends TestCase
         };
 
         $http = new MockHttpClient(new FakeHttpResponses());
-        $collector = new SuggestionCollector($http, [new GoogleSource()], new NullLogger(), variantSources: []);
+        $collector = new SuggestionCollector($http, [new GoogleSource()], new NullLogger());
 
         $wikipedia = new WikipediaExplorer($vocabulary ? $http : new MockHttpClient(new MockResponse('', ['http_code' => 503])), new KeywordFilter(), new NullLogger());
 

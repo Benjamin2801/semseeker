@@ -27,7 +27,6 @@ final class SuggestionCollectorTest extends TestCase
             new MockHttpClient($this->responses),
             [new GoogleSource(), new YouTubeSource()],
             new NullLogger(),
-            variantSources: [],
         );
     }
 
@@ -74,7 +73,7 @@ final class SuggestionCollectorTest extends TestCase
 
     public function testReusesTheSeedRequestsStartedEarlyAndKeepsAnswersADay(): void
     {
-        $collector = new SuggestionCollector(new MockHttpClient($this->responses), [new GoogleSource()], new NullLogger(), new ArrayAdapter(), variantSources: []);
+        $collector = new SuggestionCollector(new MockHttpClient($this->responses), [new GoogleSource()], new NullLogger(), new ArrayAdapter());
         $started = $collector->start('pain', 'fr');
         $collector->collect('pain', 'fr', ['levain'], $started);
         $collector->collect('pain', 'fr', ['levain', 'four']);
@@ -101,7 +100,6 @@ final class SuggestionCollectorTest extends TestCase
             ]),
             [new GoogleSource()],
             new NullLogger(),
-            variantSources: [],
         );
 
         $result = $collector->collect('pain', 'fr');
@@ -116,7 +114,7 @@ final class SuggestionCollectorTest extends TestCase
             new MockResponse('', ['error' => 'Operation timed out after 4001 milliseconds']),
             new MockResponse('["pain",["pain commun"],[],{}]'),
         ]);
-        $collector = new SuggestionCollector($client, [new GoogleSource()], new NullLogger(), variantSources: []);
+        $collector = new SuggestionCollector($client, [new GoogleSource()], new NullLogger());
 
         $result = $collector->collect('pain', 'fr');
 
@@ -130,27 +128,12 @@ final class SuggestionCollectorTest extends TestCase
             new MockHttpClient(static fn () => new MockResponse('<html>captcha</html>')),
             [new GoogleSource()],
             new NullLogger(),
-            variantSources: [],
         );
 
         $result = $collector->collect('pain', 'fr');
 
         self::assertSame([['google', 'GOO', SourceFailure::INVALID_RESPONSE]], self::failures($result));
         self::assertSame([], $result->suggestions);
-    }
-
-    public function testAsksTheQuestionAndLinkVariantsOnTheChosenEnginesOnly(): void
-    {
-        $collector = new SuggestionCollector(new MockHttpClient($this->responses), [new GoogleSource(), new YouTubeSource()], new NullLogger(), variantSources: ['google']);
-
-        $result = $collector->collect('pain', 'fr');
-        $texts = array_map(static fn (RawSuggestion $s): string => $s->source.' '.$s->text, array_filter($result->suggestions, static fn (RawSuggestion $s): bool => !$s->fromSeed));
-
-        self::assertContains('google quel pain commun', $texts, '« quel … » n\'apparaît qu\'à qui tape le début.');
-        self::assertContains('google pain pour commun', $texts);
-        self::assertNotContains('youtube quel pain commun', $texts, 'Deux moteurs seulement, pour ne pas se faire bloquer.');
-        self::assertContains('google pain ou commun', $texts);
-        self::assertSame(['comment fonctionne un four pour', 'comment fonctionne un four ou'], SuggestionCollector::variants('comment fonctionne un four', 'fr'), 'Une question ne reçoit pas une seconde question.');
     }
 
     /** @return list<array{string, string, string}> */

@@ -1,7 +1,7 @@
 {
     "expression": "installer des panneaux solaires photovoltaïques",
     "lang": "fr",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,14 +14,14 @@
     ],
     "failed": [],
     "concepts": [
-        "panneaux solaires photovoltaïques",
-        "coût installation panneaux solaires",
-        "aides financières panneaux solaires",
+        "installation panneaux solaires",
+        "coût panneaux solaires",
         "rentabilité panneaux solaires",
-        "orientation panneaux solaires",
+        "subventions panneaux solaires",
+        "entretien panneaux solaires",
+        "batterie solaire",
         "onduleur solaire",
-        "batterie de stockage solaire",
-        "autoconsommation électrique"
+        "énergie renouvelable"
     ],
     "suggestions": {
         "google": [
@@ -41,308 +41,50 @@
         ]
     },
     "related": {
-        "google": [
-            [
-                0,
-                "installation des panneaux solaires photovoltaïques"
-            ],
-            [
-                0,
-                "panneaux solaires photovoltaïques"
-            ],
-            [
-                1,
-                "panneaux solaires photovoltaïques prix"
-            ],
-            [
-                2,
-                "panneaux solaires photovoltaïques avec batterie"
-            ],
-            [
-                3,
-                "panneaux solaires photovoltaïques plug and play"
-            ],
-            [
-                4,
-                "panneaux solaires photovoltaïques autoconsommation"
-            ],
-            [
-                5,
-                "kit nettoyage panneaux solaires photovoltaïques"
-            ],
-            [
-                6,
-                "kit nettoyage panneaux solaires photovoltaïques leroy merlin"
-            ],
-            [
-                0,
-                "coût installation panneaux solaires"
-            ],
-            [
-                1,
-                "coût installation panneaux solaires 3kwc"
-            ],
-            [
-                2,
-                "coût installation panneaux solaires 6kwc"
-            ],
-            [
-                3,
-                "coût installation panneaux solaires 6kw"
-            ],
-            [
-                4,
-                "coût installation panneaux solaires 9kw"
-            ],
-            [
-                5,
-                "cout installation panneaux solaires 9kwc"
-            ],
-            [
-                6,
-                "cout installation panneaux solaires belgique"
-            ],
-            [
-                7,
-                "cout installation panneaux solaires avec batterie"
-            ],
-            [
-                8,
-                "cout installation panneaux solaires edf"
-            ],
-            [
-                9,
-                "cout installation panneaux solaires 3kw"
-            ],
-            [
-                0,
-                "aides financières panneaux solaires"
-            ],
-            [
-                1,
-                "aides financières panneaux photovoltaiques"
-            ],
-            [
-                2,
-                "aide subvention panneaux photovoltaiques"
-            ],
-            [
-                3,
-                "aide financiere panneau solaire 2025"
-            ],
-            [
-                4,
-                "aide financiere panneau solaire 2026"
-            ],
-            [
-                5,
-                "aides financieres installation panneaux solaires"
-            ],
-            [
-                6,
-                "aide financiere installation panneaux photovoltaïques"
-            ],
-            [
-                0,
-                "rentabilité panneaux solaires"
-            ],
-            [
-                1,
-                "rentabilité panneaux solaires avis"
-            ],
-            [
-                2,
-                "rentabilité panneaux solaires 2025"
-            ],
-            [
-                3,
-                "rendement panneaux solaires"
-            ],
-            [
-                4,
-                "rendement panneaux solaires en hiver"
-            ],
-            [
-                5,
-                "rendement panneaux solaires thermiques"
-            ],
-            [
-                6,
-                "rendement panneaux solaires au m2"
-            ],
-            [
-                7,
-                "rendement panneaux solaires orientation"
-            ],
-            [
-                8,
-                "rendement panneaux solaires monocristallin"
-            ],
-            [
-                9,
-                "rendement panneaux solaires iss"
-            ],
-            [
-                0,
-                "orientation panneaux solaires"
-            ],
-            [
-                1,
-                "orientation panneaux solaires photovoltaïques"
-            ],
-            [
-                2,
-                "orientation panneaux solaires hiver"
-            ],
-            [
-                3,
-                "orientation panneaux solaires thermiques"
-            ],
-            [
-                4,
-                "orientation panneaux solaires est"
-            ],
-            [
-                5,
-                "inclinaison panneaux solaires"
-            ],
-            [
-                6,
-                "inclinaison panneaux solaires au sol"
-            ],
-            [
-                7,
-                "inclinaison panneaux solaires hiver"
-            ],
-            [
-                8,
-                "inclinaison panneaux solaires latitude"
-            ],
-            [
-                9,
-                "orientation panneaux photovoltaiques est ouest"
-            ],
-            [
-                0,
-                "onduleur solaire"
-            ],
-            [
-                1,
-                "onduleur solaire hybride"
-            ],
-            [
-                2,
-                "onduleur solaire 3000w"
-            ],
-            [
-                3,
-                "onduleur solaire triphasé"
-            ],
-            [
-                4,
-                "onduleur solaire 5000w"
-            ],
-            [
-                5,
-                "onduleur solaire 400w"
-            ],
-            [
-                6,
-                "onduleur solaire huawei"
-            ],
-            [
-                7,
-                "onduleur solaire hybride 3kw"
-            ],
-            [
-                8,
-                "onduleur solaire 1000w"
-            ],
-            [
-                9,
-                "onduleur solaire 2000w"
-            ],
-            [
-                0,
-                "batterie de stockage solaire"
-            ],
-            [
-                1,
-                "batterie de stockage solaire prix"
-            ],
-            [
-                2,
-                "batterie de stockage solaire plug and play"
-            ],
-            [
-                3,
-                "batterie de stockage solaire maison"
-            ],
-            [
-                4,
-                "batterie de stockage solaire enphase"
-            ],
-            [
-                5,
-                "batterie de stockage solaire huawei"
-            ],
-            [
-                6,
-                "batterie de stockage solaire tesla"
-            ],
-            [
-                7,
-                "batterie de stockage solaire atmoce"
-            ],
-            [
-                8,
-                "batterie de stockage solaire triphasé"
-            ],
-            [
-                9,
-                "batterie de stockage solaire lidl"
-            ],
-            [
-                0,
-                "autoconsommation électrique"
-            ],
-            [
-                1,
-                "autoconsommation électrique photovoltaique"
-            ],
-            [
-                2,
-                "autoconsommation électrique avec stockage"
-            ],
-            [
-                3,
-                "autoconsommation électrique avec batterie"
-            ],
-            [
-                4,
-                "autoconsommation voiture électrique"
-            ],
-            [
-                5,
-                "kit autoconsommation électrique"
-            ],
-            [
-                6,
-                "schéma électrique autoconsommation photovoltaique"
-            ],
-            [
-                7,
-                "compteur électrique autoconsommation"
-            ]
-        ],
         "amazon": [
             [
                 0,
-                "panneaux solaires photovoltaïques"
+                "installation panneaux solaires"
+            ],
+            [
+                0,
+                "batterie solaire"
             ],
             [
                 1,
-                "panneaux solaires photovoltaïques 24v"
+                "batterie solaire portable"
+            ],
+            [
+                2,
+                "batterie solaire 220v"
+            ],
+            [
+                3,
+                "batterie solaire plug and play"
+            ],
+            [
+                4,
+                "batterie solaire 5kw"
+            ],
+            [
+                5,
+                "batterie solaire externe"
+            ],
+            [
+                6,
+                "chargeur batterie solaire"
+            ],
+            [
+                7,
+                "batterie solaire 12v"
+            ],
+            [
+                8,
+                "batterie solaire pour cloture electrique chevaux"
+            ],
+            [
+                9,
+                "batterie solaire 48v"
             ],
             [
                 0,
@@ -386,173 +128,73 @@
             ],
             [
                 0,
-                "batterie de stockage solaire"
-            ],
-            [
-                1,
-                "batterie de stockage solaire pour la maison"
-            ],
-            [
-                2,
-                "batterie de stockage solaire ecoflow"
-            ],
-            [
-                3,
-                "batterie de stockage solaire huawei luna2000"
-            ],
-            [
-                4,
-                "batterie de stockage solaire marstek"
-            ],
-            [
-                5,
-                "batterie de stockage solaire 30kw"
-            ],
-            [
-                6,
-                "batterie de stockage solaire 7kw"
-            ],
-            [
-                7,
-                "batterie de stockage solaire anker"
-            ],
-            [
-                8,
-                "batterie de stockage solaire synology"
-            ],
-            [
-                9,
-                "batterie de stockage solaire plug en play"
+                "énergie renouvelable"
             ]
         ],
         "bing": [
             [
                 0,
-                "panneaux solaires photovoltaïques"
+                "installation panneaux solaires"
             ],
             [
                 1,
-                "panneaux solaires photovoltaïques prix"
+                "installation panneaux solaires toiture"
             ],
             [
                 2,
-                "panneaux solaires photovoltaïques 400w"
+                "installation panneaux solaires avec batterie"
             ],
             [
                 3,
-                "panneaux solaires photovoltaïques 600w"
+                "installation panneaux solaires bordeaux"
             ],
             [
                 4,
-                "panneaux solaires photovoltaïques définition"
+                "installation panneaux solaires gironde"
             ],
             [
                 5,
-                "panneaux solaires photovoltaïques suisse"
+                "installation panneaux solaires sombreffe"
             ],
             [
                 6,
-                "panneaux solaires photovoltaïques avantages"
+                "installation panneaux solaires plug and play"
             ],
             [
                 7,
-                "panneaux solaires photovoltaïques camping car"
+                "installation panneaux solaires wallonie"
             ],
             [
                 8,
-                "panneaux solaires photovoltaïques aides"
+                "installation panneaux solaires namur"
             ],
             [
                 9,
-                "panneaux solaires photovoltaïques belgique"
+                "installation panneaux solaires engie avis"
             ],
             [
                 10,
-                "panneaux solaires photovoltaïques edf"
+                "installation panneaux solaires camping car"
             ],
             [
                 11,
-                "panneaux solaires photovoltaïques mobile"
+                "installation panneaux solaires prix"
             ],
             [
                 0,
+                "coût panneaux solaires au m2"
+            ],
+            [
+                1,
+                "coût panneaux solaires"
+            ],
+            [
+                2,
                 "coût installation panneaux solaires"
             ],
             [
-                1,
-                "coût installation panneaux solaires 3kwc"
-            ],
-            [
-                2,
-                "installation de panneaux solaires prix"
-            ],
-            [
                 3,
-                "prix moyen installation panneaux solaires"
-            ],
-            [
-                4,
-                "coût de la pose de panneaux solaires"
-            ],
-            [
-                5,
-                "prix d'installation de panneaux solaires"
-            ],
-            [
-                6,
-                "prix de l'installation de panneaux solaires"
-            ],
-            [
-                7,
-                "prix installation panneau solaire"
-            ],
-            [
-                8,
-                "coût d'un panneau solaire"
-            ],
-            [
-                9,
-                "tarif installation panneau solaire"
-            ],
-            [
-                0,
-                "aides financières panneaux solaires"
-            ],
-            [
-                1,
-                "aides pour panneaux solaires"
-            ],
-            [
-                2,
-                "aides installation panneaux solaires"
-            ],
-            [
-                3,
-                "montant des aides panneaux solaires"
-            ],
-            [
-                4,
-                "nouvelles aides panneaux solaires"
-            ],
-            [
-                5,
-                "aides gouvernement panneaux solaires"
-            ],
-            [
-                6,
-                "aides gouvernementales panneaux solaires"
-            ],
-            [
-                7,
-                "aides état panneaux solaires"
-            ],
-            [
-                8,
-                "aide panneaux solaires gouv"
-            ],
-            [
-                9,
-                "aide au panneau solaire"
+                "coût de panneaux solaires au québec"
             ],
             [
                 0,
@@ -576,15 +218,83 @@
             ],
             [
                 0,
-                "orientation panneaux solaires photovoltaïques"
+                "subventions panneaux solaires"
             ],
             [
                 1,
-                "orientation panneaux solaires"
+                "subventions panneaux solaires 2026"
             ],
             [
                 2,
-                "orientation des panneaux solaires"
+                "subventions panneaux solaires vaud"
+            ],
+            [
+                3,
+                "subventions panneaux solaires 2025"
+            ],
+            [
+                0,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                1,
+                "entretien panneaux solaires"
+            ],
+            [
+                2,
+                "entretien panneaux solaires thermiques"
+            ],
+            [
+                3,
+                "entretien et nettoyage de panneaux solaires"
+            ],
+            [
+                0,
+                "batterie solaire"
+            ],
+            [
+                1,
+                "batterie solaire maison"
+            ],
+            [
+                2,
+                "batterie solaire plug and play"
+            ],
+            [
+                3,
+                "batterie solaire portable"
+            ],
+            [
+                4,
+                "batterie solaire enphase"
+            ],
+            [
+                5,
+                "batterie solaire huawei"
+            ],
+            [
+                6,
+                "batterie solaire lidl"
+            ],
+            [
+                7,
+                "batterie solaire lithium"
+            ],
+            [
+                8,
+                "batterie solaire marstek"
+            ],
+            [
+                9,
+                "batterie solaire virtuelle"
+            ],
+            [
+                10,
+                "batterie solaire zendure"
+            ],
+            [
+                11,
+                "batterie solaire 10 kwh"
             ],
             [
                 0,
@@ -636,189 +346,113 @@
             ],
             [
                 0,
-                "batterie de stockage solaire"
+                "energie renouvelable"
             ],
             [
                 1,
-                "batterie de stockage solaire prix"
+                "energie renouvelable dofus"
             ],
             [
                 2,
-                "batterie de stockage solaire triphasé"
+                "energie renouvelable definition"
             ],
             [
                 3,
-                "batterie de stockage solaire enphase"
+                "énergie renouvelable exemple"
             ],
             [
                 4,
-                "batterie de stockage solaire virtuelle"
+                "énergie renouvelable et non renouvelable"
             ],
             [
                 5,
-                "batterie de stockage panneau solaire"
+                "énergie renouvelable en anglais"
             ],
             [
                 6,
-                "batterie solaire de stockage camping car"
+                "énergie renouvelable solaire"
             ],
             [
                 7,
-                "kit solaire avec batterie de stockage"
+                "énergie renouvelable pdf"
             ],
             [
                 8,
-                "panneaux solaire et batterie de stockage"
+                "énergie renouvelable image"
             ],
             [
                 9,
-                "batterie stockage panneau solaire"
+                "energie renouvelable definition simple"
             ],
             [
                 10,
-                "batterie pour stocker énergie solaire"
+                "énergie renouvelable éolienne"
             ],
             [
                 11,
-                "batteries de stockage pour panneaux solaires"
-            ],
-            [
-                0,
-                "auto consommation électrique"
-            ],
-            [
-                1,
-                "autoconsommation électrique que choisir"
-            ],
-            [
-                2,
-                "autoconsommation électrique photovoltaïque"
-            ],
-            [
-                3,
-                "auto consommation électrique maison"
-            ],
-            [
-                4,
-                "auto consommation électrique avantages"
-            ],
-            [
-                5,
-                "auto consommation électrique installation"
-            ],
-            [
-                6,
-                "auto consommation électrique fonctionnement"
+                "énergie renouvelable liste"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "panneaux solaires photovoltaïques"
+                "installation panneaux solaires"
             ],
             [
                 1,
-                "panneaux solaires photovoltaïques prix"
+                "installation panneaux solaires toiture"
             ],
             [
                 2,
-                "panneaux solaires photovoltaïques 400w"
+                "installation panneaux solaires avec batterie"
             ],
             [
                 3,
-                "panneaux solaires photovoltaïques 600w"
+                "installation panneaux solaires bordeaux"
             ],
             [
                 4,
-                "panneaux solaires photovoltaïques définition"
+                "installation panneaux solaires gironde"
             ],
             [
                 5,
-                "panneaux solaires photovoltaïques suisse"
+                "installation panneaux solaires sombreffe"
             ],
             [
                 6,
-                "panneaux solaires photovoltaïques avantages"
+                "installation panneaux solaires plug and play"
             ],
             [
                 7,
-                "panneaux solaires photovoltaïques camping car"
+                "installation panneaux solaires wallonie"
             ],
             [
                 0,
+                "coût panneaux solaires au m2"
+            ],
+            [
+                1,
+                "coût panneaux solaires"
+            ],
+            [
+                2,
                 "coût installation panneaux solaires"
             ],
             [
-                1,
-                "coût installation panneaux solaires 3kwc"
-            ],
-            [
-                2,
-                "installation de panneaux solaires prix"
-            ],
-            [
                 3,
-                "prix moyen installation panneaux solaires"
-            ],
-            [
-                4,
-                "coût de la pose de panneaux solaires"
-            ],
-            [
-                5,
-                "prix d'installation de panneaux solaires"
-            ],
-            [
-                6,
-                "prix de l'installation de panneaux solaires"
-            ],
-            [
-                7,
-                "prix installation panneau solaire"
+                "coût de panneaux solaires au québec"
             ],
             [
                 0,
-                "aides financières panneaux solaires"
+                "rentabilité panneaux solaires"
             ],
             [
                 1,
-                "aides pour panneaux solaires"
-            ],
-            [
-                2,
-                "aides installation panneaux solaires"
-            ],
-            [
-                3,
-                "montant des aides panneaux solaires"
-            ],
-            [
-                4,
-                "nouvelles aides panneaux solaires"
-            ],
-            [
-                5,
-                "aides gouvernement panneaux solaires"
-            ],
-            [
-                6,
-                "aides gouvernementales panneaux solaires"
-            ],
-            [
-                7,
-                "aides état panneaux solaires"
-            ],
-            [
-                0,
                 "rentabilité panneaux solaires photovoltaïques"
             ],
             [
-                1,
-                "rentabilité panneaux solaires wallonie"
-            ],
-            [
                 2,
-                "rentabilité panneaux solaires"
+                "rentabilité panneaux solaires wallonie"
             ],
             [
                 3,
@@ -830,15 +464,67 @@
             ],
             [
                 0,
-                "orientation panneaux solaires photovoltaïques"
+                "subventions panneaux solaires"
             ],
             [
                 1,
-                "orientation panneaux solaires"
+                "subventions panneaux solaires 2026"
             ],
             [
                 2,
-                "orientation des panneaux solaires"
+                "subventions panneaux solaires vaud"
+            ],
+            [
+                3,
+                "subventions panneaux solaires 2025"
+            ],
+            [
+                0,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                1,
+                "entretien panneaux solaires"
+            ],
+            [
+                2,
+                "entretien panneaux solaires thermiques"
+            ],
+            [
+                3,
+                "entretien et nettoyage de panneaux solaires"
+            ],
+            [
+                0,
+                "batterie solaire"
+            ],
+            [
+                1,
+                "batterie solaire maison"
+            ],
+            [
+                2,
+                "batterie solaire plug and play"
+            ],
+            [
+                3,
+                "batterie solaire portable"
+            ],
+            [
+                4,
+                "batterie solaire enphase"
+            ],
+            [
+                5,
+                "batterie solaire huawei"
+            ],
+            [
+                6,
+                "batterie solaire lidl"
+            ],
+            [
+                7,
+                "batterie solaire lithium"
             ],
             [
                 0,
@@ -874,66 +560,50 @@
             ],
             [
                 0,
-                "batterie de stockage solaire"
+                "energie renouvelable"
             ],
             [
                 1,
-                "batterie de stockage solaire prix"
+                "energie renouvelable dofus"
             ],
             [
                 2,
-                "batterie de stockage solaire triphasé"
+                "energie renouvelable definition"
             ],
             [
                 3,
-                "batterie de stockage solaire enphase"
+                "énergie renouvelable exemple"
             ],
             [
                 4,
-                "batterie de stockage solaire virtuelle"
+                "énergie renouvelable et non renouvelable"
             ],
             [
                 5,
-                "batterie de stockage panneau solaire"
+                "énergie renouvelable en anglais"
             ],
             [
                 6,
-                "batterie solaire de stockage camping car"
+                "énergie renouvelable solaire"
             ],
             [
                 7,
-                "kit solaire avec batterie de stockage"
-            ],
-            [
-                0,
-                "auto consommation électrique"
-            ],
-            [
-                1,
-                "autoconsommation électrique photovoltaïque"
-            ],
-            [
-                2,
-                "autoconsommation électrique que choisir"
-            ],
-            [
-                3,
-                "auto consommation électrique maison"
-            ],
-            [
-                4,
-                "auto consommation électrique avantages"
-            ],
-            [
-                5,
-                "auto consommation électrique installation"
-            ],
-            [
-                6,
-                "auto consommation électrique fonctionnement"
+                "énergie renouvelable pdf"
             ]
         ],
         "ebay": [
+            [
+                0,
+                "batterie solaire"
+            ],
+            [
+                1,
+                "batterie externe solaire"
+            ],
+            [
+                2,
+                "batterie pour panneau solaire"
+            ],
             [
                 0,
                 "onduleur solaire"
@@ -947,74 +617,414 @@
                 "micro onduleur solaire"
             ]
         ],
-        "yahoo": [
+        "google": [
             [
                 0,
-                "panneaux solaires photovoltaïques"
+                "installation panneaux solaires"
             ],
             [
                 1,
-                "panneaux solaires photovoltaïques prix"
+                "installation panneaux solaires avec batterie"
             ],
             [
                 2,
-                "panneaux solaires photovoltaïques au sol"
+                "installation panneaux solaires toiture"
             ],
             [
                 3,
-                "panneaux solaires photovoltaïques avec batterie"
+                "installation panneaux solaires prix"
             ],
             [
                 4,
-                "panneaux solaires photovoltaïques souple"
+                "installation panneaux solaires plug and play"
             ],
             [
                 5,
-                "panneaux solaires photovoltaïques forum"
+                "installation panneaux solaires au sol"
             ],
             [
                 6,
-                "panneaux solaires photovoltaïques fonctionnement"
+                "installation panneaux solaires autoconsommation"
             ],
             [
                 7,
-                "panneaux solaires photovoltaïques autonomes"
+                "installation panneaux solaires camping car"
             ],
             [
                 8,
-                "panneaux solaires photovoltaïques autoconsommation"
+                "installation panneaux solaires dans un champ"
             ],
             [
                 9,
-                "panneaux solaires photovoltaïques camping car"
+                "installation panneaux solaires maison"
             ],
             [
                 0,
-                "coût installation panneaux solaires"
+                "coût panneaux solaires"
             ],
             [
                 1,
-                "coût installation panneaux solaires 3kwc"
+                "coût panneaux solaires photovoltaïques"
             ],
             [
                 2,
-                "coût installation panneaux solaires 9kw"
-            ],
-            [
-                0,
-                "aides financières panneaux solaires devis"
-            ],
-            [
-                1,
-                "aides financières panneaux solaires photovoltaïques"
-            ],
-            [
-                2,
-                "aides financières panneaux solaires prix"
+                "cout panneaux solaires au m2"
             ],
             [
                 3,
-                "aides financières panneaux solaires thermiques"
+                "cout panneaux solaires toit"
+            ],
+            [
+                4,
+                "installation panneaux solaires"
+            ],
+            [
+                5,
+                "pose panneaux solaires"
+            ],
+            [
+                6,
+                "installation panneaux solaires avec batterie"
+            ],
+            [
+                7,
+                "installation panneaux solaires toiture"
+            ],
+            [
+                8,
+                "pose panneaux solaires sur toiture"
+            ],
+            [
+                9,
+                "installation panneaux solaires au sol"
+            ],
+            [
+                0,
+                "rentabilité panneaux solaires"
+            ],
+            [
+                1,
+                "rentabilité panneaux solaires avis"
+            ],
+            [
+                2,
+                "rentabilité panneaux solaires 2025"
+            ],
+            [
+                3,
+                "rendement panneaux solaires"
+            ],
+            [
+                4,
+                "rendement panneaux solaires en hiver"
+            ],
+            [
+                5,
+                "rendement panneaux solaires thermiques"
+            ],
+            [
+                6,
+                "rendement panneaux solaires au m2"
+            ],
+            [
+                7,
+                "rendement panneaux solaires orientation"
+            ],
+            [
+                8,
+                "rendement panneaux solaires monocristallin"
+            ],
+            [
+                9,
+                "rendement panneaux solaires iss"
+            ],
+            [
+                0,
+                "subventions panneaux solaires"
+            ],
+            [
+                1,
+                "subventions panneaux solaires 2026"
+            ],
+            [
+                2,
+                "subventions panneaux solaires quebec"
+            ],
+            [
+                3,
+                "subventions panneaux solaires 2025"
+            ],
+            [
+                4,
+                "subventions panneaux solaires vaud"
+            ],
+            [
+                5,
+                "subventions panneaux solaires valais"
+            ],
+            [
+                6,
+                "subventions panneaux solaires hydro québec"
+            ],
+            [
+                7,
+                "aides panneaux solaires"
+            ],
+            [
+                8,
+                "aides panneaux solaires 2025"
+            ],
+            [
+                9,
+                "financement panneaux solaires"
+            ],
+            [
+                0,
+                "entretien panneaux solaires"
+            ],
+            [
+                1,
+                "entretien panneaux solaires eau chaude"
+            ],
+            [
+                2,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                3,
+                "entretien panneaux solaires edf"
+            ],
+            [
+                4,
+                "entretien panneaux solaires thermiques"
+            ],
+            [
+                5,
+                "entretien panneaux solaires prix"
+            ],
+            [
+                6,
+                "entretien panneaux solaires locataire"
+            ],
+            [
+                7,
+                "entretien panneaux solaires obligatoire"
+            ],
+            [
+                8,
+                "entretien panneaux solaires locataire ou propriétaire"
+            ],
+            [
+                9,
+                "entretien panneaux solaires perpignan"
+            ],
+            [
+                0,
+                "batterie solaire"
+            ],
+            [
+                1,
+                "batterie solaire portable"
+            ],
+            [
+                2,
+                "batterie solaire plug and play"
+            ],
+            [
+                3,
+                "batterie solaire maison"
+            ],
+            [
+                4,
+                "batterie solaire lidl"
+            ],
+            [
+                5,
+                "batterie solaire zendure"
+            ],
+            [
+                6,
+                "batterie solaire virtuelle"
+            ],
+            [
+                7,
+                "batterie solaire decathlon"
+            ],
+            [
+                8,
+                "batterie solaire huawei"
+            ],
+            [
+                9,
+                "batterie solaire action"
+            ],
+            [
+                0,
+                "onduleur solaire"
+            ],
+            [
+                1,
+                "onduleur solaire hybride"
+            ],
+            [
+                2,
+                "onduleur solaire 3000w"
+            ],
+            [
+                3,
+                "onduleur solaire triphasé"
+            ],
+            [
+                4,
+                "onduleur solaire 5000w"
+            ],
+            [
+                5,
+                "onduleur solaire 400w"
+            ],
+            [
+                6,
+                "onduleur solaire huawei"
+            ],
+            [
+                7,
+                "onduleur solaire hybride 3kw"
+            ],
+            [
+                8,
+                "onduleur solaire 1000w"
+            ],
+            [
+                9,
+                "onduleur solaire 2000w"
+            ],
+            [
+                0,
+                "énergie renouvelable"
+            ],
+            [
+                1,
+                "énergie renouvelable définition"
+            ],
+            [
+                2,
+                "énergie renouvelable dofus"
+            ],
+            [
+                3,
+                "énergie renouvelable exemple"
+            ],
+            [
+                4,
+                "énergie renouvelable france"
+            ],
+            [
+                5,
+                "énergie renouvelable en anglais"
+            ],
+            [
+                6,
+                "énergie renouvelable et non renouvelable"
+            ],
+            [
+                7,
+                "énergie renouvelable chine"
+            ],
+            [
+                8,
+                "énergie renouvelable allemagne"
+            ],
+            [
+                9,
+                "énergie renouvelable liste"
+            ]
+        ],
+        "indeed": [
+            [
+                0,
+                "installation panneaux solaire"
+            ],
+            [
+                0,
+                "énergie renouvelable"
+            ],
+            [
+                1,
+                "énergie renouvelable alternance"
+            ]
+        ],
+        "yahoo": [
+            [
+                0,
+                "installation panneaux solaires résidentiels"
+            ],
+            [
+                1,
+                "installation panneaux solaires professionnel"
+            ],
+            [
+                2,
+                "installation panneaux solaires"
+            ],
+            [
+                3,
+                "installation panneaux solaires photovoltaïques"
+            ],
+            [
+                4,
+                "installation panneaux solaires exemple"
+            ],
+            [
+                5,
+                "installation panneaux solaires edf"
+            ],
+            [
+                6,
+                "installation panneaux solaires sur toiture"
+            ],
+            [
+                7,
+                "installation panneaux solaires maison"
+            ],
+            [
+                8,
+                "installation panneaux solaires beem"
+            ],
+            [
+                9,
+                "installation panneaux solaires aveyron"
+            ],
+            [
+                0,
+                "coût panneaux solaires au m2"
+            ],
+            [
+                1,
+                "coût panneaux solaires"
+            ],
+            [
+                2,
+                "coût panneaux solaires photovoltaïques"
+            ],
+            [
+                3,
+                "coût installation panneaux solaires"
+            ],
+            [
+                4,
+                "coût d'installation de panneaux solaires"
+            ],
+            [
+                5,
+                "coût de panneaux solaires"
+            ],
+            [
+                6,
+                "coût des panneaux solaires"
+            ],
+            [
+                7,
+                "coût d'installation panneaux solaires"
             ],
             [
                 0,
@@ -1034,23 +1044,67 @@
             ],
             [
                 0,
-                "orientation panneaux solaires"
+                "subventions panneaux solaires"
             ],
             [
                 1,
-                "meilleure orientation panneaux solaires"
+                "subventions 2023 panneaux solaires"
             ],
             [
                 2,
-                "impact orientation panneaux solaires sur la production graphique"
+                "subventions pour panneaux solaires"
+            ],
+            [
+                0,
+                "entretien panneaux solaires"
+            ],
+            [
+                1,
+                "entretien panneaux solaires photovoltaïques"
+            ],
+            [
+                2,
+                "entretien des panneaux solaires"
+            ],
+            [
+                0,
+                "batterie solaire"
+            ],
+            [
+                1,
+                "batterie solaire portable"
+            ],
+            [
+                2,
+                "batterie solaire 12v"
             ],
             [
                 3,
-                "orientation des panneaux solaires"
+                "batterie solaire lithium"
             ],
             [
                 4,
-                "orientation idéale panneaux solaires"
+                "batterie solaire agm"
+            ],
+            [
+                5,
+                "batterie solaire plug and play"
+            ],
+            [
+                6,
+                "batterie solaire huawei luna 2000"
+            ],
+            [
+                7,
+                "batterie solaire 24v"
+            ],
+            [
+                8,
+                "batterie solaire gel"
+            ],
+            [
+                9,
+                "batterie solaire decathlon"
             ],
             [
                 0,
@@ -1078,65 +1132,49 @@
             ],
             [
                 0,
-                "batterie de stockage solaire – prix 2026"
+                "énergie renouvelable"
             ],
             [
                 1,
-                "batterie de stockage solaire"
+                "énergie renouvelable définition"
             ],
             [
                 2,
-                "batterie de stockage solaire coût"
+                "énergie renouvelable solaire"
             ],
             [
                 3,
-                "batterie de stockage solaire tesla"
-            ],
-            [
-                0,
-                "autoconsommation électrique scooter"
-            ],
-            [
-                1,
-                "autoconsommation électrique voiture"
-            ],
-            [
-                2,
-                "autoconsommation électrique définition"
-            ],
-            [
-                3,
-                "autoconsommation électrique"
+                "énergie renouvelable et non renouvelable"
             ],
             [
                 4,
-                "autoconsommation électrique trottinette"
+                "énergie renouvelable dofus"
             ],
             [
                 5,
-                "autoconsommation électriques"
+                "énergie renouvelable exemple"
             ],
             [
                 6,
-                "autoconsommation électrique hepu"
+                "énergie renouvelable biomasse"
             ],
             [
                 7,
-                "autoconsommation électrique taser"
+                "énergie renouvelable en cm2"
             ],
             [
                 8,
-                "autoconsommation électrique dépôt"
+                "énergie renouvelable en france"
             ],
             [
                 9,
-                "autoconsommation électrique synonyme"
+                "énergie renouvelable 10 l"
             ]
         ],
         "youtube": [
             [
                 0,
-                "panneaux solaires photovoltaïques"
+                "installation panneaux solaires"
             ],
             [
                 1,
@@ -1144,31 +1182,75 @@
             ],
             [
                 2,
-                "montage panneaux solaires photovoltaïques"
+                "installation panneaux solaires materfrance"
             ],
             [
                 3,
-                "nettoyage panneaux solaires photovoltaïques"
+                "installation panneaux solaires avec batterie"
             ],
             [
                 4,
-                "inclinaison panneaux solaires photovoltaïques"
+                "installation panneaux solaires au sol"
             ],
             [
                 5,
-                "poseur de panneaux solaires photovoltaïques"
+                "installation panneaux solaires camping car"
+            ],
+            [
+                6,
+                "installation panneaux solaires autoconsommation"
+            ],
+            [
+                7,
+                "installation panneaux solaires van"
+            ],
+            [
+                8,
+                "installation panneaux solaires sur toiture"
+            ],
+            [
+                9,
+                "installer panneaux solaires soi même"
             ],
             [
                 0,
-                "cout installation panneau solaire"
+                "installation panneaux solaires"
             ],
             [
                 1,
-                "prix installation panneau solaire"
+                "installation panneaux solaires avec batterie"
             ],
             [
                 2,
-                "devis installation panneau solaire"
+                "installation panneaux solaires materfrance"
+            ],
+            [
+                3,
+                "pose panneaux solaires toiture"
+            ],
+            [
+                4,
+                "installation panneaux solaires camping car"
+            ],
+            [
+                5,
+                "installation panneaux solaires au sol"
+            ],
+            [
+                6,
+                "pose panneaux solaires"
+            ],
+            [
+                7,
+                "installation panneaux solaires autoconsommation"
+            ],
+            [
+                8,
+                "installation panneaux solaires van"
+            ],
+            [
+                9,
+                "installation panneaux solaires sur toiture"
             ],
             [
                 0,
@@ -1184,11 +1266,47 @@
             ],
             [
                 0,
-                "inclinaison panneaux solaires"
+                "nettoyage panneaux solaires"
+            ],
+            [
+                0,
+                "batterie solaire"
             ],
             [
                 1,
-                "orientation panneaux photovoltaique"
+                "batterie solaire maison"
+            ],
+            [
+                2,
+                "batterie solaire plug and play"
+            ],
+            [
+                3,
+                "batterie solaire portable"
+            ],
+            [
+                4,
+                "batterie solaire diy"
+            ],
+            [
+                5,
+                "batterie solaire huawei"
+            ],
+            [
+                6,
+                "batterie solaire marstek"
+            ],
+            [
+                7,
+                "batterie solaire ecoflow"
+            ],
+            [
+                8,
+                "batterie solaire zendure"
+            ],
+            [
+                9,
+                "batterie solaire aliexpress"
             ],
             [
                 0,
@@ -1232,19 +1350,43 @@
             ],
             [
                 0,
-                "batterie de stockage solaire venus-e 3.0 marstek 5 12 kwh"
+                "énergie renouvelable"
             ],
             [
                 1,
-                "batterie de stockage électricité"
+                "énergie renouvelable et non renouvelable"
             ],
             [
                 2,
-                "batterie de stockage énergie solaire"
+                "énergie renouvelable dofus"
             ],
             [
                 3,
-                "batterie stockage solaire"
+                "énergie renouvelable documentaire"
+            ],
+            [
+                4,
+                "énergie renouvelable et non renouvelable cm2"
+            ],
+            [
+                5,
+                "énergie renouvelable c'est pas sorcier"
+            ],
+            [
+                6,
+                "énergie renouvelable cours"
+            ],
+            [
+                7,
+                "énergie renouvelable en france"
+            ],
+            [
+                8,
+                "énergie renouvelable hydraulique"
+            ],
+            [
+                9,
+                "énergie renouvelable photovoltaïque"
             ]
         ]
     },
@@ -1252,14 +1394,21 @@
         "articles": [
             {
                 "title": "Capteur solaire photovoltaïque",
-                "views": 703,
+                "views": 711,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.757
             },
             {
+                "title": "Énergie renouvelable",
+                "views": 3775,
+                "counted": true,
+                "fromConcept": true,
+                "coverage": 1
+            },
+            {
                 "title": "Onduleur solaire",
-                "views": 152,
+                "views": 145,
                 "counted": true,
                 "fromConcept": true,
                 "coverage": 1
@@ -1273,165 +1422,141 @@
     },
     "pages": [
         {
-            "group": "Composants",
+            "group": "Équipement",
             "title": "onduleur solaire",
             "intent": "commercial",
             "keywords": [
                 "onduleur solaire",
-                "onduleur solaire 3000w",
-                "courant continu",
                 "onduleur",
                 "onduleur solaire hybride",
                 "onduleur solaire triphasé",
-                "micro onduleur solaire",
-                "onduleur solaire huawei"
+                "onduleur solaire 3000w",
+                "micro onduleur solaire"
             ]
         },
         {
-            "group": "Composants",
-            "title": "batterie de stockage solaire",
+            "group": "Équipement",
+            "title": "batterie solaire",
             "intent": "commercial",
             "keywords": [
-                "batterie de stockage solaire",
-                "panneaux solaires photovoltaïques avec batterie",
                 "batterie solaire",
-                "batterie de stockage solaire prix",
-                "batterie de stockage solaire pour la maison",
-                "batterie de stockage solaire enphase"
+                "batterie de stockage",
+                "batterie solaire portable",
+                "batterie solaire plug and play",
+                "batterie solaire maison"
+            ]
+        },
+        {
+            "group": "Installation",
+            "title": "installation panneaux solaires",
+            "intent": "transactional",
+            "keywords": [
+                "installation panneaux solaires",
+                "énergie renouvelable",
+                "énergie renouvelable définition",
+                "énergie renouvelable et non renouvelable",
+                "énergie renouvelable exemple",
+                "autoconsommation",
+                "centrale solaire photovoltaïque",
+                "compteur électrique",
+                "connexion au réseau",
+                "courant continu",
+                "kit panneaux solaires",
+                "panneau photovoltaïque à concentration",
+                "producteur d'électricité",
+                "rayonnement solaire",
+                "revente électricité",
+                "système de montage",
+                "installation des panneaux solaires photovoltaïques",
+                "cellule photovoltaïque",
+                "installation panneaux solaires avec batterie",
+                "installation panneaux solaires toiture"
+            ]
+        },
+        {
+            "group": "Installation",
+            "title": "entretien panneaux solaires",
+            "intent": "informational",
+            "keywords": [
+                "entretien panneaux solaires",
+                "entretien panneaux solaires photovoltaïques"
             ]
         },
         {
             "group": "Coûts et rentabilité",
-            "title": "coût installation panneaux solaires",
+            "title": "coût panneaux solaires",
             "intent": "commercial",
             "keywords": [
-                "coût installation panneaux solaires",
-                "panneaux solaires photovoltaïques prix",
-                "installer des panneaux solaires photovoltaïques prix",
-                "prix installation panneau solaire",
-                "coût installation panneaux solaires 3kwc",
-                "coût installation panneaux solaires 9kw"
+                "coût panneaux solaires",
+                "coût panneaux solaires au m2",
+                "coût panneaux solaires photovoltaïques"
             ]
         },
         {
             "group": "Coûts et rentabilité",
             "title": "rentabilité panneaux solaires",
-            "intent": "informational",
+            "intent": "commercial",
             "keywords": [
                 "rentabilité panneaux solaires",
-                "revente électricité",
-                "aides financières panneaux solaires",
                 "rentabilité panneaux solaires photovoltaïques",
                 "rentabilité panneaux solaires avis"
             ]
         },
         {
-            "group": "Installation",
-            "title": "installation des panneaux solaires photovoltaïques",
+            "group": "Subventions",
+            "title": "subventions panneaux solaires",
             "intent": "informational",
             "keywords": [
-                "installation des panneaux solaires photovoltaïques",
-                "panneaux solaires photovoltaïques",
-                "installer des panneaux solaires photovoltaïques souple",
-                "cellule photovoltaïque",
-                "centrale solaire photovoltaïque",
-                "durée de vie panneaux",
-                "démarches administratives panneaux solaires",
-                "entretien panneaux solaires",
-                "maintenance panneaux",
-                "panneau photovoltaïque à concentration",
-                "panneaux monocristallins",
-                "panneaux polycristallins",
-                "types de panneaux solaires",
-                "étapes installation panneaux solaires",
-                "montage des panneaux solaires photovoltaique",
-                "pose panneaux solaires photovoltaiques",
-                "comment installer panneaux solaires photovoltaïques"
-            ]
-        },
-        {
-            "group": "Optimisation",
-            "title": "orientation panneaux solaires",
-            "intent": "informational",
-            "keywords": [
-                "orientation panneaux solaires",
-                "rayonnement solaire",
-                "orientation panneaux solaires photovoltaïques",
-                "inclinaison panneaux solaires"
-            ]
-        },
-        {
-            "group": "Autoconsommation",
-            "title": "autoconsommation électrique photovoltaïque",
-            "intent": "informational",
-            "keywords": [
-                "autoconsommation électrique photovoltaïque",
-                "autoconsommation",
-                "connexion réseau",
-                "producteur d'électricité",
-                "énergie solaire",
-                "énergie solaire photovoltaïque",
-                "autoconsommation électrique",
-                "autoconsommation électrique voiture"
+                "subventions panneaux solaires",
+                "subventions panneaux solaires 2026"
             ]
         }
     ],
     "categories": {
-        "onduleur solaire": "core",
-        "onduleur solaire hybride": "core",
-        "panneaux solaires photovoltaïques": "core",
-        "batterie de stockage solaire": "core",
-        "coût installation panneaux solaires": "commercial",
-        "rentabilité panneaux solaires": "core",
-        "installation des panneaux solaires photovoltaïques": "core",
-        "onduleur solaire triphasé": "core",
-        "orientation panneaux solaires": "core",
-        "coût installation panneaux solaires 3kwc": "commercial",
-        "panneaux solaires photovoltaïques prix": "commercial",
-        "onduleur solaire 3000w": "complementary",
-        "aides financières panneaux solaires": "commercial",
-        "orientation panneaux solaires photovoltaïques": "complementary",
-        "rentabilité panneaux solaires photovoltaïques": "complementary",
-        "autoconsommation électrique photovoltaïque": "complementary",
-        "batterie de stockage solaire prix": "commercial",
-        "micro onduleur solaire": "complementary",
-        "prix installation panneau solaire": "commercial",
-        "autoconsommation électrique": "complementary",
-        "installer des panneaux solaires photovoltaïques prix": "commercial",
-        "rentabilité panneaux solaires avis": "complementary",
-        "batterie de stockage solaire pour la maison": "complementary",
-        "autoconsommation électrique voiture": "complementary",
-        "inclinaison panneaux solaires": "complementary",
-        "panneaux solaires photovoltaïques avec batterie": "complementary",
-        "montage des panneaux solaires photovoltaique": "complementary",
-        "onduleur solaire huawei": "complementary",
-        "coût installation panneaux solaires 9kw": "commercial",
-        "batterie de stockage solaire enphase": "complementary",
-        "installer des panneaux solaires photovoltaïques souple": "complementary",
-        "pose panneaux solaires photovoltaiques": "complementary",
-        "comment installer panneaux solaires photovoltaïques": "complementary",
-        "installer des panneaux solaires photovoltaïques forum": "doubtful",
-        "types de panneaux solaires": "core",
-        "étapes installation panneaux solaires": "core",
-        "entretien panneaux solaires": "core",
-        "démarches administratives panneaux solaires": "core",
-        "panneaux monocristallins": "core",
-        "panneaux polycristallins": "core",
         "batterie solaire": "core",
-        "autoconsommation": "core",
-        "revente électricité": "complementary",
-        "producteur d'électricité": "complementary",
-        "connexion réseau": "complementary",
-        "maintenance panneaux": "core",
-        "durée de vie panneaux": "core",
-        "onduleur": "complementary",
+        "onduleur solaire": "core",
+        "énergie renouvelable": "commercial",
+        "installation panneaux solaires": "commercial",
+        "onduleur solaire hybride": "core",
+        "batterie solaire portable": "core",
+        "installation des panneaux solaires photovoltaïques": "commercial",
+        "rentabilité panneaux solaires": "core",
+        "batterie solaire plug and play": "core",
+        "subventions panneaux solaires": "core",
+        "onduleur solaire triphasé": "core",
+        "entretien panneaux solaires": "core",
+        "coût panneaux solaires": "commercial",
+        "coût panneaux solaires au m2": "commercial",
+        "entretien panneaux solaires photovoltaïques": "core",
+        "énergie renouvelable et non renouvelable": "commercial",
+        "installation panneaux solaires avec batterie": "commercial",
+        "énergie renouvelable définition": "commercial",
+        "batterie solaire maison": "core",
+        "onduleur solaire 3000w": "complementary",
+        "énergie renouvelable exemple": "commercial",
+        "installation panneaux solaires toiture": "commercial",
+        "micro onduleur solaire": "complementary",
+        "rentabilité panneaux solaires photovoltaïques": "complementary",
+        "subventions panneaux solaires 2026": "complementary",
+        "coût panneaux solaires photovoltaïques": "commercial",
+        "rentabilité panneaux solaires avis": "complementary",
+        "kit panneaux solaires": "commercial",
+        "système de montage": "commercial",
+        "onduleur": "core",
+        "batterie de stockage": "core",
+        "compteur électrique": "commercial",
+        "connexion au réseau": "commercial",
+        "autoconsommation": "commercial",
+        "revente électricité": "commercial",
+        "producteur d'électricité": "commercial",
         "générateur électrique": "doubtful",
-        "rayonnement solaire": "complementary",
-        "courant continu": "complementary",
-        "cellule photovoltaïque": "complementary",
-        "centrale solaire photovoltaïque": "complementary",
-        "énergie solaire": "complementary",
-        "énergie solaire photovoltaïque": "complementary",
-        "panneau photovoltaïque à concentration": "complementary"
+        "rayonnement solaire": "commercial",
+        "courant continu": "commercial",
+        "cellule photovoltaïque": "commercial",
+        "centrale solaire photovoltaïque": "commercial",
+        "énergie solaire": "doubtful",
+        "énergie solaire photovoltaïque": "doubtful",
+        "panneau photovoltaïque à concentration": "commercial",
+        "energie renouvelable dofus": "doubtful"
     }
 }

@@ -1898,13 +1898,22 @@ a {
     transition: transform 0.3s ease-out;
 }
 
-body.is-loading .results,
-body.is-loading .home-section,
-body.is-loading .home-cta {
+body.is-loading .results {
     filter: blur(2px);
     opacity: 0.45;
     pointer-events: none;
     transition: filter 0.3s, opacity 0.3s;
+}
+
+body.is-loading .hero {
+    padding-block: 8px;
+}
+
+body.is-loading .hero h1,
+body.is-loading .hero .lead,
+body.is-loading .home-section,
+body.is-loading .home-cta {
+    display: none;
 }
 
 .search-form button.is-loading {
@@ -1926,60 +1935,12 @@ body.is-loading .home-cta {
     animation: spin 0.8s linear infinite;
 }
 
-/* Le plan arrive dans une seconde requête : un encart d'attente tient sa place. */
-.plan-pending {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    margin: 24px 0;
-    padding: 18px 20px;
-    border: 1px dashed var(--border);
-    border-radius: var(--radius);
-    background: var(--surface);
-}
-
-.plan-pending p {
-    margin: 0;
-    color: var(--muted);
-}
-
-.plan-pending strong {
-    color: var(--text);
-    font-weight: 600;
-}
-
-.plan-spinner {
-    flex: none;
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    border: 2px solid color-mix(in srgb, var(--accent) 30%, transparent);
-    border-top-color: var(--accent);
-    animation: spin 0.8s linear infinite;
-}
-
-.plan-spinner.is-small {
-    display: inline-block;
-    width: 11px;
-    height: 11px;
-    border-width: 1.5px;
-    vertical-align: -1px;
-}
-
-.synthesis-empty.is-loading {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-style: italic;
-}
-
 @keyframes spin {
     to { transform: rotate(360deg); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .search-form button.is-loading::before,
-    .plan-spinner {
+    .search-form button.is-loading::before {
         animation: none;
     }
 
@@ -2145,12 +2106,6 @@ body.is-loading .home-cta {
 .advice-or {
     color: var(--muted);
     font-size: 0.9rem;
-}
-
-.advice-waiting {
-    color: var(--muted);
-    font-size: 0.9rem;
-    font-style: italic;
 }
 
 .advice-secondary.is-mother {

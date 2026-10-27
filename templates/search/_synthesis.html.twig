@@ -1,5 +1,5 @@
 <section class="synthesis" aria-labelledby="synthesis-title">
     <h2 id="synthesis-title" class="visually-hidden">{{ 'synthesis.title'|trans }}</h2>
-    {{ include('search/_card.html.twig', {title: 'category.core.title'|trans, icon: 'target', class: 'category-core', items: (result.categories.core ?? [])|map(k => {text: k.text, keyword: k}), list_class: ' is-columns is-dotted', loading: pending}) }}
-    {{ include('search/_card.html.twig', {title: 'category.complementary.title'|trans, icon: 'layers', class: 'category-complementary', items: (result.categories.complementary ?? [])|map(k => {text: k.text, keyword: k}), list_class: ' is-dotted', loading: pending}) }}
+    {{ include('search/_card.html.twig', {title: 'category.core.title'|trans, icon: 'target', class: 'category-core', items: (result.categories.core ?? [])|map(k => {text: k.text, keyword: k}), list_class: ' is-columns is-dotted'}) }}
+    {{ include('search/_card.html.twig', {title: 'category.complementary.title'|trans, icon: 'layers', class: 'category-complementary', items: (result.categories.complementary ?? [])|map(k => {text: k.text, keyword: k}), list_class: ' is-dotted'}) }}
 </section>

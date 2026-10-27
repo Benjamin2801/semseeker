@@ -11,12 +11,11 @@ use App\Wikipedia\WikipediaExploration;
 final class SearchResult
 {
     private const CACHED_CLASSES = [self::class, Keyword::class, SourceFailure::class, DemandEstimate::class, SemanticField::class,
-        FieldGroup::class, FieldPage::class, FieldSection::class, WikipediaExploration::class, WikipediaArticle::class, PageSignals::class, SearchPreparation::class];
+        FieldGroup::class, FieldPage::class, FieldSection::class, WikipediaExploration::class, WikipediaArticle::class, PageSignals::class];
 
     public const FIELD_TIMEOUT = 'timeout';
     public const FIELD_UNAVAILABLE = 'unavailable';
     public const FIELD_TOO_FEW_KEYWORDS = 'too_few_keywords';
-    public const FIELD_PENDING = 'pending';
 
     public function __construct(
         /** @var list<Keyword> */
@@ -84,9 +83,8 @@ final class SearchResult
         return hash('xxh32', $shape);
     }
 
-    // Sans concepts (Cohere lent ou en panne), le champ est amputé : gardé peu de temps, pour être refait.
     public function isComplete(): bool
     {
-        return null !== $this->field && [] !== $this->concepts && [] === $this->failedSources;
+        return null !== $this->field && [] === $this->failedSources;
     }
 }

@@ -2,7 +2,6 @@
 
 namespace App\Command;
 
-use App\Ai\CohereContentPlanner;
 use App\Search\PageType;
 use App\Search\SearchResult;
 use App\Suggest\Keyword;
@@ -175,11 +174,6 @@ final class BenchExpectation
         $noise = array_values(array_filter($keywords, fn (string $k): bool => [] !== array_filter($this->noise, static fn (string $t): bool => self::mentions($k, $t))));
         $missing = array_values(array_filter($this->topics, static fn (string $t): bool => [] === array_filter($keywords, static fn (string $k): bool => self::mentions($k, $t))));
         $duplicates = array_map('strval', array_keys(array_filter(array_count_values($keywords), static fn (int $n): bool => $n > 1)));
-        // Deux pages qui ajoutent les mêmes mots à l'expression visent la même requête, même sous deux formulations.
-        $targets = array_map(fn (array $page): string => CohereContentPlanner::addedWords($page[0], $this->expression), $pages);
-        foreach (array_keys(array_filter(array_count_values($targets), static fn (int $n): bool => $n > 1)) as $target) {
-            $duplicates[] = 'pages +['.$target.']';
-        }
         $noiseShare = \count($noise) / \count($keywords);
         $coverage = [] !== $this->topics ? 1 - \count($missing) / \count($this->topics) : 1.0;
         $singleShare = \count(array_filter($pages, static fn (array $p): bool => \count($p) < 2)) / \count($pages);
@@ -213,33 +207,21 @@ final class BenchExpectation
         return \in_array('fragile', $field['status'], true);
     }
 
-    // Sans concept ou sans plan, un appel à Cohere a échoué : le passage dit une panne, pas la qualité de l'outil.
-    public static function isDegraded(SearchResult $result): bool
-    {
-        return [] === $result->concepts || null === $result->field;
-    }
-
     /**
-     * Tableau de bord : la qualité d'ensemble du jeu, qu'un cas qui bascule dans sa marge ne fait pas bouger. Les
-     * passages dégradés (panne de Cohere) sont comptés à part et sortent des moyennes du plan.
+     * Tableau de bord : la qualité d'ensemble du jeu, qu'un cas qui bascule dans sa marge ne fait pas bouger.
      *
      * @param list<array{self, SearchResult}> $runs
      *
-     * @return array{cases: int, advice: float, fragile: int, degraded: int, noise: float, coverage: float, duplicated: list<string>}
+     * @return array{cases: int, advice: float, fragile: int, noise: float, coverage: float, duplicated: list<string>}
      */
     public static function scorecard(array $runs): array
     {
         $advice = [];
         $fragile = 0;
-        $degraded = 0;
         $noise = [];
         $coverage = [];
         $duplicated = [];
         foreach ($runs as [$expectation, $result]) {
-            if (self::isDegraded($result)) {
-                ++$degraded;
-                continue;
-            }
             $check = $expectation->check($result);
             $advice[] = self::passes($check) ? 1 : 0;
             $field = $expectation->checkField($result);
@@ -254,15 +236,15 @@ final class BenchExpectation
         }
         $mean = static fn (array $values): float => [] !== $values ? array_sum($values) / \count($values) : 0.0;
 
-        return ['cases' => \count($runs), 'advice' => $mean($advice), 'fragile' => $fragile, 'degraded' => $degraded, 'noise' => $mean($noise),
+        return ['cases' => \count($runs), 'advice' => $mean($advice), 'fragile' => $fragile, 'noise' => $mean($noise),
             'coverage' => $mean($coverage), 'duplicated' => $duplicated];
     }
 
-    /** @param array{cases: int, advice: float, fragile: int, degraded: int, noise: float, coverage: float, duplicated: list<string>} $card */
+    /** @param array{cases: int, advice: float, fragile: int, noise: float, coverage: float, duplicated: list<string>} $card */
     public static function formatScorecard(array $card): string
     {
-        return sprintf('%d cas · conseils justes ou défendables %d %% · cas fragiles %d · passages dégradés %d · bruit moyen %.1f %% · couverture moyenne %d %% · plans avec doublons %d',
-            $card['cases'], round(100 * $card['advice']), $card['fragile'], $card['degraded'], 100 * $card['noise'], round(100 * $card['coverage']), \count($card['duplicated']));
+        return sprintf('%d cas · conseils justes ou défendables %d %% · cas fragiles %d · bruit moyen %.1f %% · couverture moyenne %d %% · plans avec doublons %d',
+            $card['cases'], round(100 * $card['advice']), $card['fragile'], 100 * $card['noise'], round(100 * $card['coverage']), \count($card['duplicated']));
     }
 
     /**

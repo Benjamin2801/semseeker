@@ -12,8 +12,6 @@ use Symfony\Component\HttpClient\Response\MockResponse;
 
 final class CohereConceptFinderTest extends TestCase
 {
-    private const NEIGHBOURS = ['pizzeria', 'calzone', 'focaccia', 'mozzarella'];
-
     public function testKeepsEightDistinctConceptsOtherThanTheSeed(): void
     {
         $finder = self::finder(['concepts' => ['Pâte à pizza', 'PIZZA', 'pizzeria', 'pâte à pizza', '', 'four à pizza', 'calzone', 'focaccia', 'livraison repas', 'pizza napolitaine', 'mozzarella', 'cuisine italienne']]);
@@ -23,7 +21,7 @@ final class CohereConceptFinderTest extends TestCase
 
     public function testNamesTheSubjectAndTheCoreTerms(): void
     {
-        $pending = self::finder(['concepts' => self::NEIGHBOURS, 'subject' => ' Charcuterie ', 'core' => ['Merguez', 'charcuterie halal', 'merguez', 'certification halal']])->concepts('charcuterie halal', 'fr');
+        $pending = self::finder(['concepts' => ['boucherie halal'], 'subject' => ' Charcuterie ', 'core' => ['Merguez', 'charcuterie halal', 'merguez', 'certification halal']])->concepts('charcuterie halal', 'fr');
 
         self::assertSame('charcuterie', $pending->subject());
         self::assertSame(['merguez', 'certification halal'], $pending->coreTerms(), 'Sans doublon ni l\'expression elle-même.');
@@ -33,7 +31,7 @@ final class CohereConceptFinderTest extends TestCase
     {
         $body = null;
         $client = new MockHttpClient(static function (string $method, string $url, array $options) use (&$body): MockResponse {
-            $body ??= json_decode($options['body'], true);
+            $body = json_decode($options['body'], true);
 
             return self::reply(['concepts' => []]);
         });
@@ -49,62 +47,23 @@ final class CohereConceptFinderTest extends TestCase
         $client = new MockHttpClient(static function () use (&$calls): MockResponse {
             ++$calls;
 
-            return self::reply(['concepts' => self::NEIGHBOURS]);
+            return self::reply(['concepts' => ['pizzeria']]);
         });
         $finder = new CohereConceptFinder(new CohereChat($client, 'key', 'model'), new ArrayAdapter());
 
         $finder->concepts('pizza', 'fr')->get();
 
-        self::assertSame(self::NEIGHBOURS, $finder->concepts('Pizzas', 'fr')->get(), 'Même expression, au pluriel près.');
+        self::assertSame(['pizzeria'], $finder->concepts('Pizzas', 'fr')->get(), 'Même expression, au pluriel près.');
         self::assertSame(1, $calls);
     }
 
     public function testFailsOnlyWhenTheConceptsAreRead(): void
     {
-        $overloaded = static fn (): MockResponse => new MockResponse('{"message":"overloaded"}', ['http_code' => 503]);
-        $pending = (new CohereConceptFinder(new CohereChat(new MockHttpClient([$overloaded(), $overloaded()]), 'key', 'model')))->concepts('pizza', 'fr');
+        $client = new MockHttpClient(new MockResponse('{"message":"overloaded"}', ['http_code' => 503]));
+        $pending = (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr');
 
         $this->expectException(AiException::class);
         $pending->get();
-    }
-
-    public function testRetriesOnceAfterAServerError(): void
-    {
-        $client = new MockHttpClient([new MockResponse('{"message":"internal"}', ['http_code' => 500]), self::reply(['concepts' => self::NEIGHBOURS, 'subject' => 'pizza', 'core' => []])]);
-
-        self::assertSame(self::NEIGHBOURS, (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr')->get());
-        self::assertSame(2, $client->getRequestsCount());
-    }
-
-    public function testAsksAgainWhenTheConceptsOnlyExtendTheSeed(): void
-    {
-        $bodies = [];
-        $replies = [
-            self::reply(['concepts' => ['lampe frontale led', 'lampe frontale rechargeable', 'piles lampe frontale']]),
-            self::reply(['concepts' => ['lampe frontale trail', 'casque lampe frontale', 'frontale running', 'piles lampe frontale']]),
-        ];
-        $client = new MockHttpClient(static function (string $method, string $url, array $options) use (&$bodies, $replies): MockResponse {
-            $bodies[] = json_decode($options['body'], true)['messages'][1]['content'];
-
-            return $replies[\count($bodies) - 1];
-        });
-
-        $concepts = (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('lampe frontale', 'fr')->get();
-
-        self::assertSame(['piles lampe frontale', 'casque lampe frontale', 'frontale running'], $concepts, 'Les vrais voisins des deux réponses, sans doublon ni prolongement.');
-        self::assertStringContainsString('do not repeat: lampe frontale led, lampe frontale rechargeable', $bodies[1]);
-    }
-
-    public function testDoesNotRetryARefusedKey(): void
-    {
-        $client = new MockHttpClient([new MockResponse('{"message":"unauthorized"}', ['http_code' => 401]), self::reply(['concepts' => ['pizzeria']])]);
-
-        $this->expectException(AiException::class);
-        try {
-            (new CohereConceptFinder(new CohereChat($client, 'key', 'model')))->concepts('pizza', 'fr')->get();
-        } finally {
-            self::assertSame(1, $client->getRequestsCount(), 'Une clé refusée relève de la rotation des clés, pas d\'une relance.');
-        }
     }
 
     /** @param array<string, mixed> $json */

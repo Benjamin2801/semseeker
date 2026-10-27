@@ -215,8 +215,6 @@ origin:
         help: "Terme fondamental proposé par l'IA : aucun moteur ne l'a suggéré, sa popularité est estimée (IA, Wikipédia, Wikidata)."
 
 advice:
-    pending: "En attente du plan, qui juge aussi l’orientation achat…"
-    pending_value: "Calcul avec le plan…"
     summary:
         demand:
             high: "Forte demande"
@@ -290,7 +288,6 @@ failure:
 
 synthesis:
     title: "Synthèse"
-    loading: "Arrive avec le plan…"
     weight_help: "Nombre de termes · intérêt cumulé"
 
 category:
@@ -308,11 +305,6 @@ category:
         help: "Termes ambigus, éloignés ou écartés par l'analyse."
 
 structure:
-    pending:
-        title: "Plan en préparation…"
-        text: "Thèmes, pages et sections arrivent dans quelques secondes."
-        failed: "Le plan n'a pas pu être préparé cette fois-ci. Relancez la recherche dans quelques minutes."
-        noscript: "Activez JavaScript pour afficher le plan."
     fallback:
         title: "Plan indisponible pour cette analyse"
         text: "Voici les mots-clés trouvés, classés par intérêt. Relancez la recherche dans quelques minutes pour obtenir la structure complète."

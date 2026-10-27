@@ -1,7 +1,7 @@
 {
     "expression": "accountant salary",
     "lang": "en",
-    "recorded": "2026-10-21",
+    "recorded": "2026-10-20",
     "sources": [
         "amazon",
         "bing",
@@ -14,10 +14,12 @@
     ],
     "failed": [],
     "concepts": [
-        "accountant job description",
-        "certified public accountant salary",
-        "accountant vs bookkeeper salary",
-        "accounting degree salary"
+        "certified public accountant pay",
+        "accounting job market",
+        "factors affecting accountant salary",
+        "accounting career paths",
+        "accounting industry trends",
+        "accounting job requirements"
     ],
     "suggestions": {
         "bing": [
@@ -98,203 +100,39 @@
         "bing": [
             [
                 0,
-                "chartered accountant salary"
+                "certified public accountant pay"
             ],
             [
                 1,
-                "senior accountant salary"
-            ],
-            [
-                2,
-                "accountant salary uk"
-            ],
-            [
-                3,
-                "accountant average salary"
-            ],
-            [
-                4,
-                "accountant salary in south africa"
-            ],
-            [
-                5,
-                "accountant salary range"
-            ],
-            [
-                6,
-                "accountant salary australia"
-            ],
-            [
-                7,
-                "accountant salary ireland"
-            ],
-            [
-                0,
-                "accountant salary for beginners"
-            ],
-            [
-                1,
-                "accountant salary florida"
-            ],
-            [
-                2,
-                "forensic accountant salary"
-            ],
-            [
-                3,
-                "forensic accountant salary nationally"
-            ],
-            [
-                4,
-                "salary for accountant"
-            ],
-            [
-                5,
-                "forensic accountant salary uk"
-            ],
-            [
-                6,
-                "salary for accountant in singapore"
-            ],
-            [
-                7,
-                "forensic accountant salary australia"
-            ],
-            [
-                8,
-                "forensic accountant salary in south africa"
-            ],
-            [
-                9,
-                "forensic accountant salary range"
-            ],
-            [
-                0,
-                "accountant salary annual"
-            ],
-            [
-                1,
-                "accountant salary oregon"
-            ],
-            [
-                2,
-                "accountant salary orlando fl"
-            ],
-            [
-                3,
-                "accountant salary vancouver"
-            ],
-            [
-                4,
-                "accountant salary virginia"
-            ],
-            [
-                5,
-                "accountant salary singapore"
-            ],
-            [
-                6,
-                "accountant salary sydney"
-            ],
-            [
-                7,
-                "accountant salary south africa"
-            ],
-            [
-                8,
-                "accountant salary toronto"
-            ],
-            [
-                9,
-                "accountant salary survey"
-            ],
-            [
-                10,
-                "accountant salary scotland"
-            ],
-            [
-                11,
-                "accountant salary seattle"
-            ],
-            [
-                0,
-                "accountant job description"
-            ],
-            [
-                1,
-                "accountant job description for resume"
-            ],
-            [
-                2,
-                "accountant job description salary"
-            ],
-            [
-                3,
-                "accountant job description sample"
-            ],
-            [
-                4,
-                "accountant job description uk"
-            ],
-            [
-                5,
-                "accountant job description and requirements"
-            ],
-            [
-                6,
-                "accountant job descriptions and duties"
-            ],
-            [
-                7,
-                "accountant job description for cv"
-            ],
-            [
-                8,
-                "accountant job description for job posting"
-            ],
-            [
-                9,
-                "accountant job description for fresher"
-            ],
-            [
-                10,
-                "accountant job description south africa"
-            ],
-            [
-                0,
                 "certified public accountant salary"
             ],
             [
-                1,
+                2,
                 "certified public accountant salary range"
             ],
             [
-                2,
+                3,
                 "certified public accountant salary in india"
             ],
             [
-                3,
-                "certified public accountant cpa salary"
-            ],
-            [
                 4,
-                "california certified public accountant salary"
+                "certified public accountant passing rate"
             ],
             [
                 5,
-                "certified public accountant average salary"
+                "certified public accountant pennsylvania"
             ],
             [
                 6,
-                "certified public accountant job"
+                "certified public accountant cpa salary"
             ],
             [
                 7,
-                "public accountant average salary"
+                "what is a certified public accountant"
             ],
             [
                 8,
-                "what is a certified public accountant"
+                "certified public accountant job"
             ],
             [
                 9,
@@ -302,675 +140,731 @@
             ],
             [
                 10,
-                "public accountant starting salary"
-            ],
-            [
-                11,
-                "cpa salary in public accounting"
-            ],
-            [
-                12,
-                "how much does a public accountant make"
-            ],
-            [
-                13,
                 "define certified public accountant"
             ],
             [
-                14,
+                11,
                 "certified public accountant definition"
             ],
             [
-                15,
-                "certified public accountant job description"
+                12,
+                "california certified public accountant salary"
             ],
             [
-                16,
+                13,
                 "certified public accountant meaning"
             ],
             [
+                14,
+                "what is a certified public accountant cpa"
+            ],
+            [
+                15,
+                "certified public accountant near me cost"
+            ],
+            [
+                16,
+                "certified public accountant certification"
+            ],
+            [
                 17,
-                "certified public accountant roles"
+                "certified public accountant certificate"
+            ],
+            [
+                18,
+                "rates on certified public accountants"
+            ],
+            [
+                19,
+                "cpa salary in public accounting"
             ],
             [
                 0,
-                "bookkeeper vs accountant salary"
+                "accounting job market"
             ],
             [
                 1,
-                "accountant vs bookkeeper difference"
+                "accounting job market 2026"
             ],
             [
                 2,
-                "difference between bookkeeper and accountant"
+                "accounting job market reddit"
             ],
             [
                 3,
-                "become bookkeeper vs accountant"
+                "accounting job market 2025"
             ],
             [
                 4,
-                "bookkeeper vs staff accountant"
+                "accounting job market trends"
             ],
             [
                 5,
-                "salary of a bookkeeper"
+                "accounting and finance job market"
             ],
             [
                 6,
-                "average salary of a bookkeeper"
+                "accounting bachelor on job market"
             ],
             [
                 7,
-                "what is the average bookkeeper salary"
-            ],
-            [
-                8,
-                "accounting assistant vs bookkeeper"
-            ],
-            [
-                9,
-                "bookkeeper vs accounting clerk"
-            ],
-            [
-                10,
-                "average pay for a bookkeeper"
-            ],
-            [
-                11,
-                "bookkeeper vs accounting staff"
+                "forensic accounting job market"
             ],
             [
                 0,
-                "accounting degree salary"
+                "salary of a accountant"
             ],
             [
                 1,
-                "accounting degree salary reddit"
+                "base salary for an accountant"
             ],
             [
                 2,
-                "accounting degree salary range"
+                "annual salary of accountant"
             ],
             [
                 3,
-                "accounting degree salary texas"
+                "average salary of accountant"
             ],
             [
                 4,
-                "accounting degree salary california"
+                "median salary of an accountant"
             ],
             [
                 5,
-                "accounting mba degree salary"
-            ],
-            [
-                6,
-                "accounting program degree salary"
-            ],
-            [
-                7,
-                "accounting career degree salary"
-            ],
-            [
-                8,
-                "online accounting degree salary"
-            ],
-            [
-                9,
-                "get accounting degree salary"
-            ]
-        ],
-        "google": [
-            [
-                0,
-                "accountant salary for freshers"
-            ],
-            [
-                1,
-                "accountant salary for freshers per month"
-            ],
-            [
-                2,
-                "accounting salary for entry level"
-            ],
-            [
-                3,
-                "accountant forensic salary"
-            ],
-            [
-                4,
-                "accountant for salary"
-            ],
-            [
-                5,
-                "bookkeeper salary for small business"
-            ],
-            [
-                6,
-                "accountant salary in dubai"
-            ],
-            [
-                7,
-                "accountant salary in india"
-            ],
-            [
-                8,
-                "accountant salary in south africa"
-            ],
-            [
-                9,
-                "accountant salary per month"
-            ],
-            [
-                0,
-                "accountant salary vs lawyer"
-            ],
-            [
-                1,
-                "accountant salary vs actuary"
-            ],
-            [
-                2,
-                "accounting salary vs finance"
-            ],
-            [
-                3,
-                "accounting salary vs engineering"
-            ],
-            [
-                4,
-                "accountant salary and job description"
-            ],
-            [
-                5,
-                "cpa salary vs accountant"
-            ],
-            [
-                6,
-                "bookkeeper salary vs accountant"
-            ],
-            [
-                7,
-                "accountant v salary grade"
-            ],
-            [
-                8,
-                "accountant and salary"
-            ],
-            [
-                0,
-                "accountant job description"
-            ],
-            [
-                1,
-                "accountant job description for resume"
-            ],
-            [
-                2,
                 "accountant job description and salary"
             ],
             [
-                3,
-                "accountant job description example"
-            ],
-            [
-                4,
-                "accountant job description and requirements"
-            ],
-            [
-                5,
-                "accountant job description and responsibilities"
-            ],
-            [
                 6,
-                "accountant job description for fresher"
+                "what does an accountant make"
             ],
             [
                 7,
-                "accountant job description for cv"
+                "what is accountants salary"
             ],
             [
                 8,
-                "accountant job description pdf"
+                "market related salary for accountant"
             ],
             [
                 9,
-                "accountant job description template word"
+                "job profile of accountant"
             ],
             [
                 0,
-                "certified public accountant salary"
+                "accounting career paths"
             ],
             [
                 1,
-                "certified public accountant salary in us"
+                "accounting career paths and salaries"
             ],
             [
                 2,
-                "certified public accountant salary in california"
+                "accounting career paths and opportunities"
             ],
             [
                 3,
-                "certified public accountant salary philippines"
+                "forensic accounting career path"
             ],
             [
                 4,
-                "certified public accountant salary in kenya"
+                "accounting career degree paths"
             ],
             [
                 5,
-                "certified public accountant salary in india"
-            ],
-            [
-                6,
-                "certified public accountant salary per month"
-            ],
-            [
-                7,
-                "certified public accountant salary nyc"
-            ],
-            [
-                8,
-                "certified public accountant salary in texas"
-            ],
-            [
-                9,
-                "certified public accountant salary in dubai"
+                "different accounting career paths"
             ],
             [
                 0,
-                "accountant vs bookkeeper salary"
+                "accounting industry trends"
             ],
             [
                 1,
-                "accountant vs chartered accountant salary"
+                "automotive industry accounting trends"
             ],
             [
                 2,
-                "accountant and bookkeeper salary"
+                "accounting in dfw 75 industry trends"
             ],
             [
                 3,
-                "cpa vs bookkeeper salary"
+                "top three trends in the accounting industry"
             ],
             [
                 4,
-                "accounting clerk vs bookkeeper salary"
-            ],
-            [
-                5,
-                "accounting technician vs bookkeeper salary"
-            ],
-            [
-                6,
-                "cost accountant vs chartered accountant salary"
-            ],
-            [
-                7,
-                "professional accountant vs chartered accountant salary"
-            ],
-            [
-                8,
-                "accounting and bookkeeping jobs salary"
-            ],
-            [
-                9,
-                "accounting technicians and bookkeepers salary"
+                "accounting finance industry trends"
             ],
             [
                 0,
-                "accounting degree salary"
+                "accounting job requirements"
             ],
             [
                 1,
-                "accounting degree salary out of college"
+                "accounting coordinator job requirements"
             ],
             [
                 2,
-                "accounting degree salary in malaysia"
+                "forensic accounting job requirements"
             ],
             [
                 3,
-                "accounting degree salary reddit"
+                "accounting job titles list and requirements"
             ],
             [
                 4,
-                "accounting degree salary california"
+                "full time remote accounting job requirements"
             ],
             [
                 5,
-                "accounting degree salary in kenya"
+                "basic accounting job requirements"
             ],
             [
                 6,
-                "accounting degree salary per hour"
-            ],
-            [
-                7,
-                "accounting degree salary per month"
-            ],
-            [
-                8,
-                "accounting degree salary uk"
-            ],
-            [
-                9,
-                "accounting degree salary with cpa"
+                "accounting clerk job requirements"
             ]
         ],
         "duckduckgo": [
             [
                 0,
-                "accountant job description"
+                "certified public accountant pay"
             ],
             [
                 1,
-                "accountant job description for resume"
-            ],
-            [
-                2,
-                "accountant job description salary"
-            ],
-            [
-                3,
-                "accountant job description sample"
-            ],
-            [
-                4,
-                "accountant job description uk"
-            ],
-            [
-                5,
-                "accountant job description and requirements"
-            ],
-            [
-                6,
-                "accountant job description for cv"
-            ],
-            [
-                7,
-                "accountant job description for job posting"
-            ],
-            [
-                0,
                 "certified public accountant salary"
             ],
             [
-                1,
+                2,
                 "certified public accountant salary range"
             ],
             [
-                2,
+                3,
+                "certified public accountant passing rate"
+            ],
+            [
+                4,
                 "certified public accountant salary in india"
             ],
             [
-                3,
+                5,
+                "certified public accountant pennsylvania"
+            ],
+            [
+                6,
                 "certified public accountant cpa salary"
             ],
             [
-                4,
-                "california certified public accountant salary"
-            ],
-            [
-                5,
-                "certified public accountant average salary"
-            ],
-            [
-                6,
+                7,
                 "certified public accountant job"
             ],
             [
-                7,
-                "public accountant average salary"
-            ],
-            [
                 0,
-                "bookkeeper vs accountant salary"
+                "accounting job market"
             ],
             [
                 1,
-                "accountant vs bookkeeper difference"
+                "accounting job market 2026"
             ],
             [
                 2,
-                "difference between bookkeeper and accountant"
+                "accounting job market reddit"
             ],
             [
                 3,
-                "become bookkeeper vs accountant"
+                "accounting job market 2025"
             ],
             [
                 4,
-                "bookkeeper vs staff accountant"
+                "accounting job market trends"
             ],
             [
                 5,
-                "salary of a bookkeeper"
+                "accounting and finance job market"
             ],
             [
                 6,
-                "what is the average bookkeeper salary"
+                "accounting bachelor on job market"
             ],
             [
                 7,
-                "accounting assistant vs bookkeeper"
+                "forensic accounting job market"
             ],
             [
                 0,
-                "accounting degree salary"
+                "salary of a accountant"
             ],
             [
                 1,
-                "accounting degree salary reddit"
+                "base salary for an accountant"
             ],
             [
                 2,
-                "accounting degree salary range"
+                "annual salary of accountant"
             ],
             [
                 3,
-                "accounting degree salary texas"
+                "average salary of accountant"
             ],
             [
                 4,
-                "accounting degree salary california"
+                "median salary of an accountant"
             ],
             [
                 5,
-                "accounting mba degree salary"
+                "accountant job description and salary"
             ],
             [
                 6,
-                "accounting program degree salary"
+                "what does an accountant make"
             ],
             [
                 7,
-                "accounting career degree salary"
+                "what is accountants salary"
+            ],
+            [
+                0,
+                "accounting career paths"
+            ],
+            [
+                1,
+                "accounting career paths and salaries"
+            ],
+            [
+                2,
+                "accounting career paths and opportunities"
+            ],
+            [
+                3,
+                "forensic accounting career path"
+            ],
+            [
+                4,
+                "accounting career degree paths"
+            ],
+            [
+                5,
+                "different accounting career paths"
+            ],
+            [
+                0,
+                "accounting industry trends"
+            ],
+            [
+                1,
+                "automotive industry accounting trends"
+            ],
+            [
+                2,
+                "accounting in dfw 75 industry trends"
+            ],
+            [
+                3,
+                "top three trends in the accounting industry"
+            ],
+            [
+                4,
+                "accounting finance industry trends"
+            ],
+            [
+                0,
+                "accounting job requirements"
+            ],
+            [
+                1,
+                "accounting coordinator job requirements"
+            ],
+            [
+                2,
+                "forensic accounting job requirements"
+            ],
+            [
+                3,
+                "accounting job titles list and requirements"
+            ],
+            [
+                4,
+                "full time remote accounting job requirements"
+            ],
+            [
+                5,
+                "basic accounting job requirements"
+            ],
+            [
+                6,
+                "accounting clerk job requirements"
+            ]
+        ],
+        "google": [
+            [
+                0,
+                "certified public accountant pay"
+            ],
+            [
+                1,
+                "certified public accountant salary philippines"
+            ],
+            [
+                2,
+                "certified public accountant salary in us"
+            ],
+            [
+                3,
+                "certified public accountant salary in india"
+            ],
+            [
+                4,
+                "certified public accountant salary per month"
+            ],
+            [
+                5,
+                "certified public accountant salary california"
+            ],
+            [
+                6,
+                "certified public accountant salary in kenya"
+            ],
+            [
+                7,
+                "certified professional accountant salary"
+            ],
+            [
+                8,
+                "certificate public accountant salary"
+            ],
+            [
+                9,
+                "certified public accountant cpa salary"
+            ],
+            [
+                0,
+                "accounting job market"
+            ],
+            [
+                1,
+                "accounting job market reddit"
+            ],
+            [
+                2,
+                "accounting job market 2026"
+            ],
+            [
+                3,
+                "accounting job market 2026 reddit"
+            ],
+            [
+                4,
+                "accounting job market spreadsheet"
+            ],
+            [
+                5,
+                "accounting job market rumors 2026"
+            ],
+            [
+                6,
+                "accounting job market rumors"
+            ],
+            [
+                7,
+                "accounting job market nyc"
+            ],
+            [
+                8,
+                "accounting job market in canada"
+            ],
+            [
+                9,
+                "accounting job market canada reddit"
+            ],
+            [
+                0,
+                "accounting career paths"
+            ],
+            [
+                1,
+                "accounting career paths and salaries"
+            ],
+            [
+                2,
+                "accounting career paths reddit"
+            ],
+            [
+                3,
+                "accounting career paths and salaries uk"
+            ],
+            [
+                4,
+                "accounting job paths"
+            ],
+            [
+                5,
+                "accounting career pathways"
+            ],
+            [
+                6,
+                "accounting career path singapore"
+            ],
+            [
+                7,
+                "accounting career path uk"
+            ],
+            [
+                8,
+                "accounting career path pdf"
+            ],
+            [
+                9,
+                "accounting career path without cpa"
+            ],
+            [
+                0,
+                "accounting industry trends"
+            ],
+            [
+                1,
+                "accounting industry trends uk"
+            ],
+            [
+                2,
+                "accounting industry trends singapore"
+            ],
+            [
+                3,
+                "accounting industry trends 2026"
+            ],
+            [
+                4,
+                "accounting industry trends 2025"
+            ],
+            [
+                5,
+                "accounting industry trends and challenges"
+            ],
+            [
+                6,
+                "accounting sector trends us"
+            ],
+            [
+                7,
+                "accounting market trends"
+            ],
+            [
+                8,
+                "accounting profession trends"
+            ],
+            [
+                9,
+                "accounting industry outlook"
+            ],
+            [
+                0,
+                "accounting job requirements"
+            ],
+            [
+                1,
+                "accounting career requirements"
+            ],
+            [
+                2,
+                "accounting job description"
+            ],
+            [
+                3,
+                "accounting job description for resume"
+            ],
+            [
+                4,
+                "accounting job responsibilities"
+            ],
+            [
+                5,
+                "accounting job description and duties"
+            ],
+            [
+                6,
+                "accounting job demand"
+            ],
+            [
+                7,
+                "accounting job qualifications"
+            ],
+            [
+                8,
+                "accounting job description examples"
+            ],
+            [
+                9,
+                "accounting job demand in australia"
             ]
         ],
         "yahoo": [
             [
                 0,
-                "accountant job description"
+                "certified public accountant pay scale"
             ],
             [
                 1,
-                "accountant job description and responsibilities"
+                "certified public accountant pay"
+            ],
+            [
+                0,
+                "accounting job market"
+            ],
+            [
+                1,
+                "accounting job market outlook"
             ],
             [
                 2,
-                "accountant job description for resume"
+                "accounting job market reddit"
             ],
             [
                 3,
-                "accountant job descriptions and duties"
+                "accounting job market statistics"
             ],
             [
                 4,
-                "accountant job description sample"
+                "accounting job market 2025"
             ],
             [
                 5,
-                "accountant job description examples"
+                "accounting job market 2026"
+            ],
+            [
+                0,
+                "factors affecting accountant salary philippines"
+            ],
+            [
+                1,
+                "factors affecting accountant salary analysis"
+            ],
+            [
+                2,
+                "factors affecting accountant salary range"
+            ],
+            [
+                3,
+                "factors affecting accountant salary increase"
+            ],
+            [
+                0,
+                "accounting career paths"
+            ],
+            [
+                1,
+                "accounting career paths and opportunities"
+            ],
+            [
+                2,
+                "different accounting career paths"
+            ],
+            [
+                3,
+                "types of accounting career paths"
+            ],
+            [
+                4,
+                "best accounting career paths"
+            ],
+            [
+                5,
+                "accounting career paths and salaries"
             ],
             [
                 6,
-                "accountant job description in cv"
+                "masters in accounting career paths"
             ],
             [
                 7,
-                "accountant job description and salary"
-            ],
-            [
-                8,
-                "accountant job description template"
-            ],
-            [
-                9,
-                "accountant job description duties and responsibilities"
+                "private accounting career paths"
             ],
             [
                 0,
-                "certified public accountant salary"
+                "accounting industry trends"
             ],
             [
                 1,
-                "certified public accountant salary range"
+                "public accounting industry trends"
             ],
             [
                 2,
-                "certified public accountant salary philippines"
+                "accounting industry trends 2023"
             ],
             [
                 3,
-                "certified public accountant salary nyc"
+                "accounting industry trend"
+            ],
+            [
+                0,
+                "accounting job requirements"
+            ],
+            [
+                1,
+                "entry level accounting job requirements"
+            ],
+            [
+                2,
+                "accounting clerk job requirements"
+            ],
+            [
+                3,
+                "accounting manager job requirements"
             ],
             [
                 4,
-                "certified public accountant salary california"
+                "accounting assistant job requirements"
             ],
             [
                 5,
-                "certified public accountant salary in india"
-            ],
-            [
-                6,
-                "certified public accountant salary los angeles"
-            ],
-            [
-                7,
-                "certified public accountant salary texas"
-            ],
-            [
-                8,
-                "certified public accountant salary florida"
-            ],
-            [
-                9,
-                "certified public accountant salary nj"
-            ],
-            [
-                0,
-                "accountant vs bookkeeper salary range"
-            ],
-            [
-                1,
-                "accountant vs bookkeeper salary chart"
-            ],
-            [
-                2,
-                "accountant vs bookkeeper salary comparison"
-            ],
-            [
-                3,
-                "accountant vs bookkeeper salary philippines"
-            ],
-            [
-                0,
-                "accounting degree salary"
-            ],
-            [
-                1,
-                "accounting degree salary vs finance"
-            ],
-            [
-                2,
-                "accounting degree salary california"
-            ],
-            [
-                3,
-                "accounting degree salary average"
-            ],
-            [
-                4,
-                "accounting degree salary range"
-            ],
-            [
-                5,
-                "accounting degree salary texas"
-            ],
-            [
-                6,
-                "accounting degree salary 2021"
+                "forensic accounting job requirements"
             ]
         ],
         "youtube": [
             [
                 0,
-                "accountant job description"
-            ],
-            [
-                1,
-                "bookkeeper job description"
-            ],
-            [
-                2,
-                "accountant job profile"
-            ],
-            [
-                3,
-                "accountant job responsibilities"
-            ],
-            [
-                4,
-                "accountant job details"
-            ],
-            [
-                5,
-                "accountant job details malayalam"
-            ],
-            [
-                6,
-                "accountant job details in tamil"
-            ],
-            [
-                7,
-                "accountant job information"
-            ],
-            [
-                8,
-                "accountant job profile in ssc cgl"
-            ],
-            [
-                9,
-                "senior accountant job description"
-            ],
-            [
-                0,
                 "certified public accountant salary"
             ],
             [
                 0,
-                "accounting degree salary"
+                "accounting job market"
             ],
             [
                 1,
-                "accounting jobs salary"
+                "accounting job market 2025"
             ],
             [
                 2,
-                "accounting starting salary"
+                "accounting job opportunities"
+            ],
+            [
+                3,
+                "accounting job opportunities malayalam"
+            ],
+            [
+                4,
+                "accounting job outlook"
+            ],
+            [
+                5,
+                "accounting job prospects"
+            ],
+            [
+                0,
+                "accounting career paths"
+            ],
+            [
+                1,
+                "accounting career opportunities"
+            ],
+            [
+                0,
+                "accounting job requirements"
+            ],
+            [
+                1,
+                "accounting job description"
+            ],
+            [
+                2,
+                "accounting job responsibilities"
             ]
         ]
     },
@@ -978,14 +872,14 @@
         "articles": [
             {
                 "title": "Accountant",
-                "views": 5981,
+                "views": 5707,
                 "counted": true,
                 "fromConcept": false,
                 "coverage": 0.625
             },
             {
                 "title": "Salary",
-                "views": 4825,
+                "views": 4822,
                 "counted": false,
                 "fromConcept": false,
                 "coverage": 0.375
@@ -996,191 +890,168 @@
             "auditor",
             "external auditor",
             "mustawfi",
+            "british qualified accountants",
             "accounting analyst",
             "chief accountant",
             "junior accountant",
-            "british qualified accountants",
             "tabularius",
-            "chartered cost accountant",
-            "forensic accountant"
+            "miseur",
+            "chartered cost accountant"
         ]
     },
     "pages": [
         {
-            "group": "Accountant Roles",
-            "title": "accountant job description",
+            "group": "Career Paths",
+            "title": "accounting career paths",
             "intent": "informational",
             "keywords": [
-                "accountant job description",
-                "accountant job description and salary",
+                "accounting career paths",
                 "accounting",
-                "accounting experience",
-                "accounting industry",
-                "accounting job outlook",
+                "accounting career outlook",
+                "accounting degree",
                 "auditor",
                 "credit manager",
                 "external auditor",
-                "financial statement",
-                "journal entries",
-                "private accounting",
-                "accountant job description and responsibilities",
-                "accountant job description and requirements",
-                "accountant job descriptions and duties",
-                "accountant job description for resume",
-                "accountant job description sample",
-                "accountant job description example"
+                "accounting career paths and salaries",
+                "accounting career paths and opportunities",
+                "different accounting career paths"
             ]
         },
         {
-            "group": "Accountant Roles",
-            "title": "certified public accountant salary",
+            "group": "Career Paths",
+            "title": "accounting job requirements",
             "intent": "informational",
             "keywords": [
-                "certified public accountant salary",
-                "accountant certification impact on salary",
-                "accounting certification",
-                "big four",
-                "certified public accountant",
-                "chartered accountant",
-                "chartered certified accountant",
-                "public accounting",
-                "certified public accountant salary range",
-                "certified public accountant salary in india",
-                "certified public accountant salary philippines"
-            ]
-        },
-        {
-            "group": "Accountant Roles",
-            "title": "forensic accountant salary",
-            "intent": "commercial",
-            "keywords": [
-                "forensic accountant salary",
+                "accounting job requirements",
+                "accounting certifications",
+                "accounting experience",
+                "accounting skills",
                 "bookkeeping",
-                "bookkeeper vs accountant salary"
+                "accounting job responsibilities",
+                "accounting job duties",
+                "forensic accounting job requirements",
+                "accounting clerk job requirements"
             ]
         },
         {
-            "group": "Salary Insights",
+            "group": "Job Market",
+            "title": "accounting job market",
+            "intent": "informational",
+            "keywords": [
+                "accounting job market",
+                "big four",
+                "accounting job market reddit",
+                "accounting job market 2025",
+                "accounting job market 2026"
+            ]
+        },
+        {
+            "group": "Job Market",
+            "title": "accounting industry trends",
+            "intent": "informational",
+            "keywords": [
+                "accounting industry trends",
+                "accounting industry",
+                "accounting job description",
+                "financial statement",
+                "journal entries"
+            ]
+        },
+        {
+            "group": "Salaries",
             "title": "accountant salary range",
             "intent": "informational",
             "keywords": [
                 "accountant salary range",
-                "accountant salary by industry",
-                "accounting salary range",
+                "accounting salary survey",
+                "certified public accountant pay",
                 "accountant salary entry level",
-                "accountant salary annual",
-                "accountant average salary",
-                "accountant salary progression",
-                "accountant salary by experience"
+                "accountant salary progression"
             ]
         },
         {
-            "group": "Salary Insights",
+            "group": "Salaries",
+            "title": "certified public accountant salary",
+            "intent": "informational",
+            "keywords": [
+                "certified public accountant salary",
+                "certified public accountant",
+                "chartered accountant",
+                "chartered certified accountant",
+                "certified public accountant salary in india",
+                "accountant salary cpa"
+            ]
+        },
+        {
+            "group": "Regional Salaries",
             "title": "accountant salary in us",
             "intent": "informational",
             "keywords": [
                 "accountant salary in us",
-                "accountant salary by location",
-                "accounting location",
+                "accountant salary usa",
                 "public sector",
                 "accountant salary california",
                 "accountant salary in california",
-                "accountant salary texas",
-                "accountant salary usa"
+                "accountant salary texas"
             ]
         },
         {
-            "group": "Education Impact",
-            "title": "accounting degree salary",
-            "intent": "informational",
-            "keywords": [
-                "accounting degree salary",
-                "accounting degree",
-                "accounting degree salary california",
-                "accounting degree salary range",
-                "accounting degree salary texas"
-            ]
-        },
-        {
-            "group": "Global Salaries",
+            "group": "Regional Salaries",
             "title": "accountant salary in dubai",
             "intent": "informational",
             "keywords": [
                 "accountant salary in dubai",
-                "accountant salary in singapore",
-                "accountant salary uk",
-                "accountant salary australia"
-            ]
-        },
-        {
-            "group": "Specializations",
-            "title": "accountant salary cpa",
-            "intent": "informational",
-            "keywords": [
-                "accountant salary cpa",
-                "california certified public accountant salary"
+                "accountant salary uk"
             ]
         }
     ],
     "categories": {
-        "accountant job description": "core",
-        "accounting degree salary": "core",
-        "certified public accountant salary": "core",
+        "accounting career paths": "core",
+        "accounting job market": "core",
+        "accounting job requirements": "core",
+        "accounting industry trends": "core",
         "accountant salary range": "core",
+        "certified public accountant pay": "core",
         "accountant salary entry level": "core",
-        "accountant job description for resume": "core",
+        "accounting job market reddit": "core",
+        "accounting career paths and salaries": "core",
+        "accounting job market 2025": "core",
+        "accounting job market 2026": "core",
         "accountant salary in dubai": "core",
-        "accounting degree salary california": "core",
-        "bookkeeper vs accountant salary": "complementary",
-        "certified public accountant salary in india": "core",
-        "certified public accountant salary range": "core",
-        "accounting degree salary reddit": "doubtful",
+        "certified public accountant salary": "core",
+        "accounting career paths and opportunities": "core",
+        "accounting job description": "core",
         "accountant salary california": "core",
-        "certified public accountant salary philippines": "core",
-        "forensic accountant salary": "core",
         "accountant salary in us": "core",
-        "accounting degree salary range": "core",
-        "accountant job description and responsibilities": "core",
-        "accountant job description sample": "core",
+        "certified public accountant salary in india": "core",
+        "accounting job responsibilities": "core",
+        "different accounting career paths": "core",
+        "forensic accounting job requirements": "core",
         "accountant salary texas": "core",
         "accountant salary usa": "core",
         "accountant salary progression": "core",
-        "accountant salary in singapore": "complementary",
-        "accounting degree salary texas": "complementary",
-        "california certified public accountant salary": "complementary",
-        "accountant job description example": "complementary",
+        "accounting clerk job requirements": "complementary",
         "accountant salary uk": "complementary",
         "accountant salary cpa": "complementary",
         "accountant salary in california": "complementary",
-        "accountant job description and requirements": "complementary",
-        "accountant job description and salary": "complementary",
-        "accountant job descriptions and duties": "complementary",
-        "accountant salary australia": "complementary",
-        "accountant salary annual": "complementary",
-        "accountant average salary": "complementary",
-        "accountant salary by experience": "core",
-        "accountant salary by industry": "core",
-        "accountant salary by location": "commercial",
-        "accountant certification impact on salary": "core",
         "certified public accountant": "core",
-        "public accounting": "complementary",
-        "private accounting": "complementary",
-        "accounting degree": "core",
-        "accounting certification": "core",
+        "accounting degree": "complementary",
         "accounting experience": "complementary",
+        "accounting skills": "complementary",
+        "accounting certifications": "complementary",
+        "accounting job duties": "complementary",
         "accounting industry": "complementary",
-        "accounting location": "commercial",
-        "accounting salary range": "core",
-        "accounting job outlook": "complementary",
-        "big four": "commercial",
+        "accounting salary survey": "core",
+        "accounting career outlook": "complementary",
+        "big four": "complementary",
         "accounting": "core",
-        "chartered certified accountant": "core",
-        "chartered accountant": "core",
+        "chartered certified accountant": "complementary",
+        "chartered accountant": "complementary",
         "financial statement": "complementary",
         "public sector": "complementary",
         "journal entries": "complementary",
         "credit manager": "complementary",
-        "bookkeeping": "complementary",
+        "bookkeeping": "core",
         "auditor": "complementary",
         "external auditor": "complementary"
     }

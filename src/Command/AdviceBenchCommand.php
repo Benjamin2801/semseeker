@@ -98,7 +98,7 @@ final class AdviceBenchCommand extends Command
             $row = [
                 $expression,
                 $advice->verdict->value.(null !== $advice->alternative ? ' ('.$advice->alternative->value.')' : ''),
-                $advice->isKeyPage() ? ($advice->verdict->isCompetitive() ? 'mère compétitive' : 'mère') : 'renfort',
+                $advice->isKeyPage() ? ($advice->verdict->isCompetitive() ? 'mère compétitive' : 'mère') : ($advice->parent ?? '—'),
                 $advice->demand,
                 $advice->notoriety ?? '—',
                 $advice->depth,
