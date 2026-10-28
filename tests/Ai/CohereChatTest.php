@@ -31,6 +31,36 @@ final class CohereChatTest extends TestCase
         self::assertSame(['role' => 'user', 'content' => 'message'], $body['messages'][1]);
     }
 
+    public function testRetriesAFailedCallWithAnotherKey(): void
+    {
+        $keys = [];
+        $chat = new CohereChat(new MockHttpClient(static function (string $method, string $url, array $options) use (&$keys): MockResponse {
+            $keys[] = $options['user_data'];
+
+            return 1 === \count($keys) ? new MockResponse('{"message":"No valid response generated"}', ['http_code' => 422]) : self::reply('{"ok":true}');
+        }), 'one,two', 'model');
+
+        self::assertSame(['ok' => true], $chat->decode($chat->request('s', 'm', [])));
+        self::assertCount(2, array_unique($keys), 'La relance part sur une autre clé.');
+    }
+
+    public function testDoublesASlowCallAndKeepsTheFirstAnswer(): void
+    {
+        $calls = 0;
+        $chat = new CohereChat(new MockHttpClient(static function () use (&$calls): MockResponse {
+            // La première réponse traîne (chaque chaîne vide est un temps mort) ; le doublon répond avant elle.
+            return 1 === ++$calls ? new MockResponse((static function (): \Generator {
+                for ($i = 0; $i < 20; ++$i) {
+                    yield '';
+                }
+                yield json_encode(['message' => ['content' => [['type' => 'text', 'text' => '{"late":true}']]]], \JSON_THROW_ON_ERROR);
+            })()) : self::reply('{"ok":true}');
+        }), 'one,two', 'model');
+
+        self::assertSame(['ok' => true], $chat->decode($chat->request('s', 'm', [], 30)));
+        self::assertSame(2, $calls);
+    }
+
     public function testDecodesTheTextPart(): void
     {
         $chat = new CohereChat(new MockHttpClient(new MockResponse(json_encode([
@@ -125,5 +155,10 @@ final class CohereChatTest extends TestCase
         $ok = new CohereChat(new MockHttpClient(new MockResponse('{"message":{"content":[{"type":"text","text":"{}"}]}}')), 'key', 'model', $cache);
         $ok->decode($ok->request('s', 'm', []));
         self::assertFalse($cache->hasItem('cohere.key.'.hash('xxh128', 'key')), 'Une réponse réussie remet le compte à zéro.');
+    }
+
+    private static function reply(string $text): MockResponse
+    {
+        return new MockResponse(json_encode(['message' => ['content' => [['type' => 'text', 'text' => $text]]]], \JSON_THROW_ON_ERROR));
     }
 }

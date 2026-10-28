@@ -14,8 +14,8 @@ final class CohereContentPlanner implements ContentPlannerInterface
 {
     private const ASSIGN_CHUNK_SIZE = 22;
 
-    // Un paquet de rangement prend jusqu'à 9 s : il garde au moins 10 s, et tout ce que la structure n'a pas pris.
-    private const ASSIGN_MIN_DURATION = 10;
+    // Un paquet de rangement a pris jusqu'à 38 s (Cohere lent, octobre 2026) : il garde au moins 18 s, et ce que la structure n'a pas pris.
+    private const ASSIGN_MIN_DURATION = 18;
 
     private const MIN_GROUPS = 3;
     private const MAX_GROUPS = 8;
@@ -158,7 +158,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
     ]]], 'required' => ['results']];
 
     public function __construct(
-        private readonly CohereChat $cohere,
+        private readonly ChatInterface $chat,
     ) {
     }
 
@@ -192,11 +192,11 @@ final class CohereContentPlanner implements ContentPlannerInterface
             $message .= sprintf("Known types of the seed: %s\n", implode(', ', $types));
         }
         if ([] !== $articles) {
-            $message .= "Encyclopedia articles:\n".CohereChat::numbered($articles);
+            $message .= "Encyclopedia articles:\n".AbstractChat::numbered($articles);
         }
 
         try {
-            $pending = $this->cohere->request(self::STRUCTURE_PROMPT, $message, self::STRUCTURE_SCHEMA, $structureDuration);
+            $pending = $this->chat->request(self::STRUCTURE_PROMPT, $message, self::STRUCTURE_SCHEMA, $structureDuration);
         } catch (AiException) {
             $pending = null;
         }
@@ -210,7 +210,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
             return new Plan([]);
         }
 
-        $json = $this->cohere->decode($draft->pending);
+        $json = $this->chat->decode($draft->pending);
         $pages = $this->pages($json);
         if ([] === $pages) {
             return new Plan([]);
@@ -253,14 +253,14 @@ final class CohereContentPlanner implements ContentPlannerInterface
     {
         $pages = [];
         foreach ((array) ($json['groups'] ?? []) as $group) {
-            $groupName = CohereChat::label($group['name'] ?? '');
+            $groupName = AbstractChat::label($group['name'] ?? '');
             foreach ((array) ($group['pages'] ?? []) as $page) {
-                $title = CohereChat::label($page['main_keyword'] ?? '');
+                $title = AbstractChat::label($page['main_keyword'] ?? '');
                 if ('' === $groupName || '' === $title) {
                     continue;
                 }
                 $sections = array_values(array_filter(array_map(
-                    static fn (mixed $s): array => ['title' => CohereChat::label($s), 'keywords' => []],
+                    static fn (mixed $s): array => ['title' => AbstractChat::label($s), 'keywords' => []],
                     (array) ($page['sections'] ?? []),
                 ), static fn (array $s): bool => '' !== $s['title']));
                 $intent = Intent::tryFrom((string) ($page['intent'] ?? ''));
@@ -298,9 +298,9 @@ final class CohereContentPlanner implements ContentPlannerInterface
         foreach ($chunks as $i => $chunk) {
             $message = sprintf(
                 "Seed: %s\nLanguage: %s\nPlan:\n%s\nCount: %d\nCore target: %d\nKeywords:\n%s",
-                $seed, $lang, $outline, \count($chunk), self::coreTarget(\count($chunk)), CohereChat::numbered($chunk),
+                $seed, $lang, $outline, \count($chunk), self::coreTarget(\count($chunk)), AbstractChat::numbered($chunk),
             );
-            $responses[$i] = $this->cohere->request(self::ASSIGN_PROMPT, $message, self::ASSIGN_SCHEMA, $duration);
+            $responses[$i] = $this->chat->request(self::ASSIGN_PROMPT, $message, self::ASSIGN_SCHEMA, $duration);
         }
 
         $placements = [];
@@ -308,7 +308,7 @@ final class CohereContentPlanner implements ContentPlannerInterface
         $error = null;
         foreach ($responses as $i => $response) {
             try {
-                $json = $this->cohere->decode($response);
+                $json = $this->chat->decode($response);
             } catch (AiException $e) {
                 $error = $e;
                 continue;

@@ -46,7 +46,7 @@ final class CohereContentPlannerTest extends TestCase
         $planner = new CohereContentPlanner(new CohereChat($client, 'key', 'model'));
         $plan = $planner->assign($planner->draft('porte', self::KEYWORDS, self::SCORES, 'fr', 25));
 
-        self::assertSame(15.0, $durations[0], 'La structure laisse 10 s au rangement.');
+        self::assertSame(7.0, $durations[0], 'La structure laisse 18 s au rangement.');
         self::assertGreaterThan(24.0, $durations[1], 'Le rangement prend tout ce que la structure n\'a pas pris.');
         self::assertLessThanOrEqual(25.0, $durations[1]);
         self::assertStringContainsString("Target number of pages: 3\nKeywords (popularity):\ninstallation porte de garage (62)\n", $bodies[0]['messages'][1]['content']);
@@ -120,7 +120,7 @@ final class CohereContentPlannerTest extends TestCase
         self::assertStringContainsString("Count: 4\nCore target: 1\nKeywords:\n0. installation porte de garage\n1. porte sectionnelle pose\n2. porte basculante\n3. porte de garage leroy merlin\n", $bodies[1]['messages'][1]['content']);
     }
 
-    public function testKeepsTenSecondsForTheAssignmentWhateverTheStructureTook(): void
+    public function testKeepsEighteenSecondsForTheAssignmentWhateverTheStructureTook(): void
     {
         $durations = [];
         $client = new MockHttpClient(static function (string $method, string $url, array $options) use (&$durations): MockResponse {
@@ -132,7 +132,7 @@ final class CohereContentPlannerTest extends TestCase
 
         $planner->assign($planner->draft('porte', self::KEYWORDS, self::SCORES, 'fr', 0));
 
-        self::assertSame([1.0, 10.0], $durations);
+        self::assertSame([1.0, 18.0], $durations);
     }
 
     public function testNeedsAtLeastTwoKeywords(): void

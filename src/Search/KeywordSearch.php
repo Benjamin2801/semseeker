@@ -21,13 +21,13 @@ final class KeywordSearch
     private const FIELD_MAX_GROUPS = 8;
     private const FIELD_MAX_KEYWORDS_PER_GROUP = 10;
 
-    // Le plan (structure puis rangement) doit finir avant ce délai pour tenir dans les 30 s d'exécution PHP.
-    private const PLAN_DEADLINE_SECONDS = 29;
+    // Toute la page tient en une minute (OVH : 165 s d'exécution PHP, attente de 45 s vérifiée) : le plan finit avant ce délai.
+    private const PLAN_DEADLINE_SECONDS = 56;
     private const CORE_MIN_SCORE = 20;
     private const CORE_CONCEPT_MIN_SCORE = 35;
 
-    // 5 s de structure et 10 s de rangement : en dessous, le plan échouerait de toute façon.
-    private const PLAN_MIN_SECONDS = 15;
+    // 8 s de structure et 18 s de rangement : en dessous, le plan échouerait de toute façon.
+    private const PLAN_MIN_SECONDS = 26;
 
     private const VOCABULARY_SHARES = ['intro' => 7, 'related' => 6, 'types' => 3];
 
@@ -55,7 +55,7 @@ final class KeywordSearch
         try {
             $concepts = $pendingConcepts->get();
         } catch (AiException $e) {
-            $this->logger->warning('Concepts IA indisponibles', ['error' => $e->getMessage()]);
+            $this->logger->warning('Concepts IA indisponibles : {error}', ['error' => $e->getMessage()]);
             $concepts = [];
         }
 
@@ -240,7 +240,7 @@ final class KeywordSearch
         try {
             $plan = $this->planner->assign($draft);
         } catch (AiException $e) {
-            $this->logger->warning('Plan IA indisponible', ['error' => $e->getMessage()]);
+            $this->logger->warning('Plan IA indisponible : {error}', ['error' => $e->getMessage()]);
 
             return [SearchResult::FIELD_UNAVAILABLE, [], $candidates, []];
         }

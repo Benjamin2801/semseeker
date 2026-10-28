@@ -17,6 +17,8 @@ parameters:
     app.ai.max_candidates: 28
     # Modèle Cohere (https://docs.cohere.com/v2/docs/models).
     app.cohere.model: 'command-a-03-2025'
+    # Modèle Gemini (https://ai.google.dev/gemini-api/docs/models).
+    app.gemini.model: 'gemini-3.5-flash-lite'
 
     # Éditeur affiché dans les mentions légales (variables LEGAL_* de .env.local / deploy/prod.env).
     app.legal:
@@ -38,8 +40,19 @@ services:
     App\:
         resource: '../src/'
 
-    # add more service definitions when explicit configuration is needed
-    # please note that last definitions always *replace* previous ones
+    # Fournisseurs d'IA, chacun avec un secours. Mesuré en octobre 2026 : Cohere rend les concepts (réponse courte) plus
+    # vite que Gemini (2 à 8 s contre 20 à 27), Gemini range mieux le plan et plus vite (24 à 55 s contre 50 à 76).
+    # Pour un seul fournisseur, remplacer le service par @App\Ai\CohereChat ou @App\Ai\GeminiChat.
+    app.ai.concepts_chat:
+        class: App\Ai\FallbackChat
+        arguments: ['@App\Ai\CohereChat', '@App\Ai\GeminiChat']
+    app.ai.plan_chat:
+        class: App\Ai\FallbackChat
+        arguments: ['@App\Ai\GeminiChat', '@App\Ai\CohereChat']
+    App\Ai\CohereConceptFinder:
+        arguments: { $chat: '@app.ai.concepts_chat' }
+    App\Ai\CohereContentPlanner:
+        arguments: { $chat: '@app.ai.plan_chat' }
 
 when@test:
     parameters:

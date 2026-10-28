@@ -12,7 +12,8 @@ final class CohereConceptFinder implements ConceptFinderInterface
 {
     private const COUNT = 8;
 
-    private const MAX_DURATION = 9;
+    // Mesuré jusqu'à 9 s quand Cohere ralentit : 14 s laissent place à un doublon ou une relance.
+    private const MAX_DURATION = 14;
 
     private const CACHE_TTL = 7 * 86400;
 
@@ -82,7 +83,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
     private const CORE_COUNT = 10;
 
     public function __construct(
-        private readonly CohereChat $cohere,
+        private readonly ChatInterface $chat,
         private readonly CacheItemPoolInterface $cache = new ArrayAdapter(),
     ) {
     }
@@ -103,7 +104,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
         }
 
         try {
-            $response = $this->cohere->request(self::PROMPT, sprintf("Seed: %s\nLanguage: %s", $seed, $lang), self::SCHEMA, self::MAX_DURATION);
+            $response = $this->chat->request(self::PROMPT, sprintf("Seed: %s\nLanguage: %s", $seed, $lang), self::SCHEMA, self::MAX_DURATION);
         } catch (AiException $e) {
             return new PendingConcepts(static fn (): array => throw $e);
         }
@@ -111,8 +112,8 @@ final class CohereConceptFinder implements ConceptFinderInterface
         $prefix = SuggestionMerger::normalize($seed).' ';
 
         return new PendingConcepts(function () use ($response, $seedKey, $prefix, $item): array {
-            $json = $this->cohere->decode($response);
-            $subject = mb_strtolower(CohereChat::label($json['subject'] ?? '', 60));
+            $json = $this->chat->decode($response);
+            $subject = mb_strtolower(AbstractChat::label($json['subject'] ?? '', 60));
             $ideas = [
                 'concepts' => \array_slice(self::neighbours(self::phrases($json['concepts'] ?? [], $seedKey), $prefix), 0, self::COUNT),
                 'subject' => '' !== $subject ? $subject : null,
@@ -145,7 +146,7 @@ final class CohereConceptFinder implements ConceptFinderInterface
     {
         $phrases = [];
         foreach ((array) $values as $value) {
-            $phrase = mb_strtolower(CohereChat::label($value, 60));
+            $phrase = mb_strtolower(AbstractChat::label($value, 60));
             if ('' !== $phrase && SuggestionMerger::key($phrase) !== $seedKey && !\in_array($phrase, $phrases, true)) {
                 $phrases[] = $phrase;
             }

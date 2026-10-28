@@ -10,8 +10,9 @@ document.querySelectorAll('[data-theme-toggle]').forEach((button) => {
     });
 });
 
-const STAGE_DELAYS = [0, 2500, 6000];
-const STAGE_DURATIONS = [2500, 3500, 12000];
+// Calé sur la recherche : collecte (4 s), Wikipédia et concepts (jusqu'à 14 s), plan (jusqu'à 56 s).
+const STAGE_DELAYS = [0, 4000, 14000];
+const STAGE_DURATIONS = [4000, 10000, 44000];
 let stageTimers = [];
 
 document.addEventListener('submit', (event) => {
