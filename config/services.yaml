@@ -43,9 +43,10 @@ services:
     # Fournisseurs d'IA, chacun avec un secours. Mesuré en octobre 2026 : Cohere rend les concepts (réponse courte) plus
     # vite que Gemini (2 à 8 s contre 20 à 27), Gemini range mieux le plan et plus vite (24 à 55 s contre 50 à 76).
     # Pour un seul fournisseur, remplacer le service par @App\Ai\CohereChat ou @App\Ai\GeminiChat.
+    # Concepts : Cohere (2 à 8 s, mais parfois plus de 22 s) et Gemini (11 à 12 s) en même temps ; Cohere a 55 % du délai.
     app.ai.concepts_chat:
         class: App\Ai\FallbackChat
-        arguments: ['@App\Ai\CohereChat', '@App\Ai\GeminiChat']
+        arguments: ['@App\Ai\CohereChat', '@App\Ai\GeminiChat', 0.55]
     app.ai.plan_chat:
         class: App\Ai\FallbackChat
         arguments: ['@App\Ai\GeminiChat', '@App\Ai\CohereChat']

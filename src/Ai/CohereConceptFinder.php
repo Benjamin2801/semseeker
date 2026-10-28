@@ -12,8 +12,9 @@ final class CohereConceptFinder implements ConceptFinderInterface
 {
     private const COUNT = 8;
 
-    // Mesuré jusqu'à 9 s quand Cohere ralentit : 14 s laissent place à un doublon ou une relance.
-    private const MAX_DURATION = 14;
+    // Cohere a dépassé 14 s en octobre 2026 (« livraison viande halal ») : 22 s laissent place à un doublon, et le plan
+    // garde ses 26 s avant la limite d'une minute.
+    private const MAX_DURATION = 22;
 
     private const CACHE_TTL = 7 * 86400;
 

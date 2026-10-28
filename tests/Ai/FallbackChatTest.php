@@ -24,6 +24,25 @@ final class FallbackChatTest extends TestCase
         self::assertSame(1, $cohere->getRequestsCount());
     }
 
+    public function testAsksBothAtOnceAndKeepsThePrimaryWhenItAnswers(): void
+    {
+        $gemini = new MockHttpClient(new MockResponse('{"candidates":[{"content":{"parts":[{"text":"{\"from\":\"gemini\"}"}]}}]}'));
+        $chat = new FallbackChat(new CohereChat(new MockHttpClient(new MockResponse(self::COHERE_OK)), 'c', 'model'), new GeminiChat($gemini, 'g', 'model'), 0.55);
+
+        self::assertSame(['from' => 'cohere'], $chat->decode($chat->request('s', 'm', [], 22)));
+        self::assertSame(1, $gemini->getRequestsCount(), 'Le secours part en même temps que le principal.');
+    }
+
+    public function testTakesTheParallelAnswerWhenThePrimaryFails(): void
+    {
+        $cohere = new CohereChat(new MockHttpClient(new MockResponse('', ['http_code' => 500])), 'c', 'model');
+        $gemini = new GeminiChat(new MockHttpClient(new MockResponse('{"candidates":[{"content":{"parts":[{"text":"{\"from\":\"gemini\"}"}]}}]}')), 'g', 'model');
+
+        $chat = new FallbackChat($cohere, $gemini, 0.55);
+
+        self::assertSame(['from' => 'gemini'], $chat->decode($chat->request('s', 'm', [], 22)));
+    }
+
     public function testGoesStraightToTheFallbackWithoutPrimaryKey(): void
     {
         $chat = new FallbackChat(new GeminiChat(new MockHttpClient(), '', 'model'), new CohereChat(new MockHttpClient(new MockResponse(self::COHERE_OK)), 'c', 'model'));
